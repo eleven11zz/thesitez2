@@ -3,10 +3,10 @@ const scriptEl =
   document.querySelector("script[data-channel-source]");
 
 const DATA_URL =
-  scriptEl?.dataset?.channelSource || "/assets/js/channel-lists-data.json";
+  scriptEl?.dataset?.channelSource || "./channel-lists-data.json";
 const PLACEHOLDER_LOGO =
   scriptEl?.dataset?.channelPlaceholder ||
-  "/assets/images/channel-placeholder.svg";
+  "../images/channel-placeholder.svg";
 const DEFAULT_PACKAGE_ATTR = scriptEl?.dataset?.defaultPackage || null;
 const DEFAULT_GROUP = sanitiseGroupValue(scriptEl?.dataset?.defaultGroup);
 const HIDE_PACKAGE_FILTERS =

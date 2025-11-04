@@ -1,5 +1,5 @@
 const scriptEl = document.getElementById("live-events-script");
-const EVENTS_URL = scriptEl?.dataset?.eventsFeed || "/assets/js/events.json";
+const EVENTS_URL = scriptEl?.dataset?.eventsFeed || "./events.json";
 
 const state = {
   leagues: [],
@@ -173,7 +173,7 @@ function createCountdown(utc, { compact = false } = {}) {
 function createEventCard(event, league) {
   const card = document.createElement("article");
   card.className = "event-card";
-  const bg = event.image || "/assets/benefits-bg.webp";
+  const bg = event.image || "../benefits-bg.webp";
   card.style.setProperty("--card-image", `url("${bg}")`);
 
   const content = document.createElement("div");
@@ -215,7 +215,7 @@ function createEventCard(event, league) {
 
   const watchCta = document.createElement("a");
   watchCta.className = "cta-button";
-  watchCta.href = "/iptv-products.html#free-trial";
+  watchCta.href = "../iptv-products.html#free-trial";
   watchCta.dataset.analytics = `cta-watch-${event.slug || event.id}`;
   watchCta.textContent = "Watch with TVMaster";
 
@@ -326,7 +326,7 @@ function renderError(message) {
 function createSliderCard(event) {
   const card = document.createElement("article");
   card.className = "slider-card";
-  const bg = event.image || "/assets/benefits-bg.webp";
+  const bg = event.image || "../benefits-bg.webp";
   card.style.setProperty("--card-image", `url("${bg}")`);
 
   const content = document.createElement("div");
@@ -354,7 +354,7 @@ function createSliderCard(event) {
 
   const cta = document.createElement("a");
   cta.className = "slider-cta";
-  cta.href = "/iptv-products.html#free-trial";
+  cta.href = "../iptv-products.html#free-trial";
   cta.dataset.analytics = `cta-slider-${event.slug || event.id}`;
   cta.textContent = "Start Free Trial";
 

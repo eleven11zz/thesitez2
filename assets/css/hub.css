@@ -147,8 +147,8 @@ header {
 }
 
 .hub-hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78)), url('/assets/benefits-bg.webp');
-  background-image: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78)), image-set(url('/assets/benefits-bg.webp') type('image/webp'), url('/assets/benefits-bg.jpg') type('image/jpeg'));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78)), url('../benefits-bg.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78)), image-set(url('../benefits-bg.webp') type('image/webp'), url('../benefits-bg.jpg') type('image/jpeg'));
   background-size: cover;
   background-position: center;
   padding: 6rem 2rem 4rem;

@@ -154,7 +154,7 @@ main {
 }
 
 .event-hero {
-  background-image: linear-gradient(140deg, rgba(0, 0, 0, 0.82), rgba(5, 5, 5, 0.92)), image-set(url('/assets/benefits-bg.webp') type('image/webp'), url('/assets/benefits-bg.jpg') type('image/jpeg'));
+  background-image: linear-gradient(140deg, rgba(0, 0, 0, 0.82), rgba(5, 5, 5, 0.92)), image-set(url('../benefits-bg.webp') type('image/webp'), url('../benefits-bg.jpg') type('image/jpeg'));
   background-size: cover;
   background-position: center;
   padding: clamp(4rem, 5vw + 2rem, 6rem) 2.5rem 3rem;

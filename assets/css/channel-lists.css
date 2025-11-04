@@ -176,7 +176,7 @@ main {
 }
 
 .hero {
-  background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(6, 6, 6, 0.88)), image-set(url('/assets/benefits-bg.webp') type('image/webp'), url('/assets/benefits-bg.jpg') type('image/jpeg'));
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(6, 6, 6, 0.88)), image-set(url('../benefits-bg.webp') type('image/webp'), url('../benefits-bg.jpg') type('image/jpeg'));
   background-size: cover;
   background-position: center;
   min-height: 55vh;
