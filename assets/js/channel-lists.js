@@ -8,6 +8,20 @@ const PLACEHOLDER_LOGO =
   scriptEl?.dataset?.channelPlaceholder ||
   "../images/channel-placeholder.svg";
 const DEFAULT_PACKAGE_ATTR = scriptEl?.dataset?.defaultPackage || null;
+
+// Helper to resolve dataPath relative to DATA_URL location
+function resolveDataPath(dataPath) {
+  try {
+    // Get the directory of the JSON file
+    const baseUrl = new URL(DATA_URL, window.location.href);
+    // Resolve the dataPath relative to the JSON file location
+    const resolvedUrl = new URL(dataPath, baseUrl.href);
+    return resolvedUrl.href;
+  } catch (error) {
+    // Fallback to original path if URL resolution fails
+    return dataPath;
+  }
+}
 const DEFAULT_GROUP = sanitiseGroupValue(scriptEl?.dataset?.defaultGroup);
 const HIDE_PACKAGE_FILTERS =
   scriptEl?.dataset?.hidePackageFilters === "true";
@@ -233,7 +247,8 @@ async function loadGroups(pkg, indices, onProgress) {
       return null;
     }
 
-    const fetchPromise = fetch(meta.dataPath, {
+    const resolvedPath = resolveDataPath(meta.dataPath);
+    const fetchPromise = fetch(resolvedPath, {
       credentials: "omit",
       cache: "no-store",
     })
