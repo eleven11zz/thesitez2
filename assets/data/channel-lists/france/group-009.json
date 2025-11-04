@@ -1,0 +1,53 @@
+{
+  "package": "france",
+  "name": "FR - Music - Live.",
+  "groupIndex": 9,
+  "totalChannels": 9,
+  "channels": [
+    {
+      "name": "FR: Brava FHD  (101-SERVERS)",
+      "group": "FR - Music - Live.",
+      "logo": "https://logo.m3uassets.com/brava.png"
+    },
+    {
+      "name": "FR: M6 HD  (101-SERVERS)",
+      "group": "FR - Music - Live.",
+      "logo": "https://logo.m3uassets.com/m6.png"
+    },
+    {
+      "name": "FR: MCM HD  (101-SERVERS)",
+      "group": "FR - Music - Live.",
+      "logo": "https://logo.m3uassets.com/mcm.png"
+    },
+    {
+      "name": "FR: MCM HD  (101-SERVERS)",
+      "group": "FR - Music - Live.",
+      "logo": "https://logo.m3uassets.com/mcm.png"
+    },
+    {
+      "name": "FR: Mezzo LIVE HD  (101-SERVERS)",
+      "group": "FR - Music - Live.",
+      "logo": "https://logo.m3uassets.com/mezzolive.png"
+    },
+    {
+      "name": "FR: RFM TV Music HD  (101-SERVERS)",
+      "group": "FR - Music - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/74096367551.png"
+    },
+    {
+      "name": "FR: Trace Kitoko HD  (101-SERVERS)",
+      "group": "FR - Music - Live.",
+      "logo": "https://logo.m3uassets.com/tracekitoko.png"
+    },
+    {
+      "name": "FR: Trace TOCA HD  (101-SERVERS)",
+      "group": "FR - Music - Live.",
+      "logo": "https://logo.m3uassets.com/tracetoca.png"
+    },
+    {
+      "name": "FR: VH1 Classic HD  (101-SERVERS)",
+      "group": "FR - Music - Live.",
+      "logo": "https://logo.m3uassets.com/vh1classic.png"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "package": "world",
+  "name": "USA - CBS Regionals.",
+  "groupIndex": 136,
+  "totalChannels": 93,
+  "channels": [
+    {
+      "name": "USA | CBS Albany NY WRGB HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/albanynycbswrgb.png"
+    },
+    {
+      "name": "USA | CBS Albuquerque, NM KRQE HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs13albuquerquenmkrqe.png"
+    },
+    {
+      "name": "USA | CBS Anchorage, AL KAUU HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbsanchorageak.png"
+    },
+    {
+      "name": "USA | CBS Austin, TX KEYE HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/austintxcbskeye.png"
+    },
+    {
+      "name": "USA | CBS Bakersfield, CA KBAK HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcbakersfield.png"
+    },
+    {
+      "name": "USA | CBS Baltimore, MD WJZ HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbsbaltimore.png"
+    },
+    {
+      "name": "USA | CBS Baton Rouge, LA WAFB HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/batonrougelacbswafb.png"
+    },
+    {
+      "name": "USA | CBS Birmingham, AL WIAT HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/localscbs42wiatbirmingham.png"
+    },
+    {
+      "name": "USA | CBS Boise, ID KBOI HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/boiseidcbskboi.png"
+    },
+    {
+      "name": "USA | CBS Boston, MA WBZ HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbsboston.png"
+    },
+    {
+      "name": "USA | CBS Buffalo, NY WIVB HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbsbuffalowivb.png"
+    },
+    {
+      "name": "USA | CBS Cedar Rapids, IA KGAN HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Charleston, SC WCSC HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/charlestonsccbswcsc.png"
+    },
+    {
+      "name": "USA | CBS Charlotte, NC WBTV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/charlottewbtv.png"
+    },
+    {
+      "name": "USA | CBS Chattanooga, TN WDEF HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs8chattanooga.png"
+    },
+    {
+      "name": "USA | CBS Cincinnati, OH WKRC HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cincinnatiohcbswkrc.png"
+    },
+    {
+      "name": "USA | CBS Cleveland, OH WOIO HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/clevelandohcbswoio.png"
+    },
+    {
+      "name": "USA | CBS Columbia, SC WLTX HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbscolumbia.png"
+    },
+    {
+      "name": "USA | CBS Columbus, MI WCBI HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/columbusmscbswcbi.png"
+    },
+    {
+      "name": "USA | CBS Columbus, OH WBNS HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbswbnscolumbusohio.png"
+    },
+    {
+      "name": "USA | CBS Davenport, IA WHBF HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Dayton, OH WHIO HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbswhiodaytonohio.png"
+    },
+    {
+      "name": "USA | CBS Denver, CO KCNC HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/21f682f83fcead96c1033e1e83b0c2a4.png"
+    },
+    {
+      "name": "USA | CBS DES Moines, IA KCCI HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/desmoinescbs8kcci.png"
+    },
+    {
+      "name": "USA | CBS EL Paso, TX KDBC HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/elpasotxcbskdbc.png"
+    },
+    {
+      "name": "USA | CBS Eugene, OR KVAL HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/eugeneorcbskval.png"
+    },
+    {
+      "name": "USA | CBS Florence, SC WBTW HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS FORT Myers, FL WINK HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs11fortmyersflwink.png"
+    },
+    {
+      "name": "USA | CBS FORT Wayne, IN WANE HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS FORT Worth, TX KTXA HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs21fortworthtxktxa.png"
+    },
+    {
+      "name": "USA | CBS Fresno, CA KGPE HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbsfresnokgpe.png"
+    },
+    {
+      "name": "USA | CBS Green BAY, WI WFRV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/greenbaywi.png"
+    },
+    {
+      "name": "USA | CBS Harlingen, TX KGBT HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Harrisburg, PA WHP HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs21harrisburg.png"
+    },
+    {
+      "name": "USA | CBS Hartford, CT WFSB HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/hartfordctcbswfsb.png"
+    },
+    {
+      "name": "USA | CBS Honolulu, HI KGMB HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs5honoluluhikgmb.png"
+    },
+    {
+      "name": "USA | CBS Houston, TX KHOU HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbshoustontx.png"
+    },
+    {
+      "name": "USA | CBS Huntsville, AL WHNT HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs19whnthuntsville.png"
+    },
+    {
+      "name": "USA | CBS Indianapolis, IN WTTV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/indianapoliscbswttv.png"
+    },
+    {
+      "name": "USA | CBS Jackson, MS WJTV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Kalamazoo, MI WWMT HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Kansas City, MO KCTV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/kansascitymocbskctv.png"
+    },
+    {
+      "name": "USA | CBS Knoxville, TN WVLT HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/knoxvilletncbswvlt.png"
+    },
+    {
+      "name": "USA | CBS Lansing, MI WLNS HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs6wlnslansing(f).png"
+    },
+    {
+      "name": "USA | CBS LAS Vegas, NV KLAS HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/lasvegascbs8klas.png"
+    },
+    {
+      "name": "USA | CBS Lexington, KY WKYT HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbslexington.png"
+    },
+    {
+      "name": "USA | CBS Little Rock, AR KTHV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/littlerockarcbskthv.png"
+    },
+    {
+      "name": "USA | CBS LOS Angeles, CA KCAL HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbslosangeles.png"
+    },
+    {
+      "name": "USA | CBS LOS Angeles, CA KCBS HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs2kcbslosangeles.png"
+    },
+    {
+      "name": "USA | CBS Louisville, KY WLKY HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbslouisville.png"
+    },
+    {
+      "name": "USA | CBS Madison, WI WISC HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/madisoncbs3wisc.png"
+    },
+    {
+      "name": "USA | CBS Miami, FL WFOR HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/miamiflcbswfor.png"
+    },
+    {
+      "name": "USA | CBS Milwaukee, WI WDJT HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/milwaukeewicbswdjt.png"
+    },
+    {
+      "name": "USA | CBS Mobile, AL WKRG HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Montgomery, AL WAKA HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/montgomerycbs8waka.png"
+    },
+    {
+      "name": "USA | CBS Nashville, TN WTVF HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbsnashville.png"
+    },
+    {
+      "name": "USA | CBS NEW YORK City, NY WCBS HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a2876daeb92c212f8b6279a427c49d05.png"
+    },
+    {
+      "name": "USA | CBS Oklahoma City, OK KWTV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs9oklahomacityokkwtv.png"
+    },
+    {
+      "name": "USA | CBS Omaha, NE KMTV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs3omahanekmtv.png"
+    },
+    {
+      "name": "USA | CBS Orlando, FL WKMG HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbsorlandofl.png"
+    },
+    {
+      "name": "USA | CBS PALM Springs, CA KPSP HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs2kpsppalmsprings.png"
+    },
+    {
+      "name": "USA | CBS Philadelphia, PA KYW HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/ddde9e2f2776c4d714b634243b08fe94.png"
+    },
+    {
+      "name": "USA | CBS Phoenix, AZ KPHO HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/cb8f83c7418be7a45d0c8bad5c0e2f7a.png"
+    },
+    {
+      "name": "USA | CBS Portland, ME WGME HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/portlandcbswgme.png"
+    },
+    {
+      "name": "USA | CBS Portland, OR KOIN HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbsportland.png"
+    },
+    {
+      "name": "USA | CBS Providence, RI WPRI HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs12providenceriwpri.png"
+    },
+    {
+      "name": "USA | CBS Raleigh Durham, NC WNCN HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Reno, NV KTVN HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs2renonvktvn.png"
+    },
+    {
+      "name": "USA | CBS Roanoke, VA WDBJ HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Rochester, NY WROC HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Sacramento, CA KOVR HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbssacramento.png"
+    },
+    {
+      "name": "USA | CBS SALT LAKE City, UT KUTV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/saltlakecitycbskutv.png"
+    },
+    {
+      "name": "USA | CBS SAN Antonio, TX KENS HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs5sanantoniotxkens.png"
+    },
+    {
+      "name": "USA | CBS SAN Diego, CA KFMB HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbssandiego.png"
+    },
+    {
+      "name": "USA | CBS SAN Francisco, CA KPIX HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs5sanfranciscocakpix.png"
+    },
+    {
+      "name": "USA | CBS Savannah, GA WTOC HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/savannahgacbswtoc.png"
+    },
+    {
+      "name": "USA | CBS Scranton. PA WYOU HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/scrantoncbs22wyou.png"
+    },
+    {
+      "name": "USA | CBS Seattle, WA KIRO HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/seattlewacbskiro.png"
+    },
+    {
+      "name": "USA | CBS Shrevport, LA KSLA HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/shreveportlacbsksla.png"
+    },
+    {
+      "name": "USA | CBS Sioux Falls, SD KELO  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/siouxfallscbs11kelo.png"
+    },
+    {
+      "name": "USA | CBS South Bend, IN WSBT HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/southbendcbswsbt.png"
+    },
+    {
+      "name": "USA | CBS Spartanburg, SC WSPA HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/spartanburgcbs7wspa.png"
+    },
+    {
+      "name": "USA | CBS Spokane, WA KREM HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs2spokanewakrem.png"
+    },
+    {
+      "name": "USA | CBS Springfield, MA WSHM HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Springfield, MO KOLR HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS ST Louis, MO KMOV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/stlouismocbskmov.png"
+    },
+    {
+      "name": "USA | CBS Syracuse, NY WTVH HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbssyracuseny.png"
+    },
+    {
+      "name": "USA | CBS Tampa, FL WTSP HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbstampafl.png"
+    },
+    {
+      "name": "USA | CBS Toledo, OH WTOL HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs11toledoohwtol.png"
+    },
+    {
+      "name": "USA | CBS TRI Cities, TN VA WJHL HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "USA | CBS Tulsa, OK KOTV HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs6tulsaokkotv.png"
+    },
+    {
+      "name": "USA | CBS Washington, DC WUSA HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbswashingtondcwusa.png"
+    },
+    {
+      "name": "USA | CBS WEST PALM Beach, FL WPEC HD  (101-SERVERS)",
+      "group": "USA - CBS Regionals.",
+      "logo": "https://logo.m3uassets.com/cbswestpalmbeach.png"
+    }
+  ]
+}

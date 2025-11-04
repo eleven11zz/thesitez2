@@ -1,0 +1,1203 @@
+{
+  "package": "world",
+  "name": "AL - Albania & Kosova - Live.",
+  "groupIndex": 0,
+  "totalChannels": 239,
+  "channels": [
+    {
+      "name": "AL: RTK 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtk1.png"
+    },
+    {
+      "name": "AL: RTK 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtk2.png"
+    },
+    {
+      "name": "AL: RTK 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtk3.png"
+    },
+    {
+      "name": "AL: RTK 4 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtk4.png"
+    },
+    {
+      "name": "AL: RTV 21 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtv21.png"
+    },
+    {
+      "name": "AL: KTV Kohavision HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/ktvkohavision.png"
+    },
+    {
+      "name": "AL: ATV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/atv.png"
+    },
+    {
+      "name": "AL: T7 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/t7.png"
+    },
+    {
+      "name": "AL: Albflix Stupcat HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/41405702781.png"
+    },
+    {
+      "name": "AL: TV Dukagjini HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tvdukagjini.png"
+    },
+    {
+      "name": "AL: Kanal 10 FHD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/kanal10.png"
+    },
+    {
+      "name": "AL: KLAN Kosova HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/klankosova.png"
+    },
+    {
+      "name": "AL: TEVE 1  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/teve1.png"
+    },
+    {
+      "name": "AL: Dasma TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/dasmatv.png"
+    },
+    {
+      "name": "AL: TOP CHANNEL Backup  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/topchannel.png"
+    },
+    {
+      "name": "AL: KLAN FHD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/75198808101.png"
+    },
+    {
+      "name": "AL: Vizion PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/vizionplus.png"
+    },
+    {
+      "name": "AL-vizion PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/vizionplus.png"
+    },
+    {
+      "name": "AL: Vizion PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/vizionplus.png"
+    },
+    {
+      "name": "AL: RTSH 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtsh1.png"
+    },
+    {
+      "name": "AL: RTSH 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtsh2.png"
+    },
+    {
+      "name": "AL: RTSH 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtsh3.png"
+    },
+    {
+      "name": "AL: RTSH PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtshplus.png"
+    },
+    {
+      "name": "AL: RTSH Korca HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtshkorca.png"
+    },
+    {
+      "name": "AL: RTSH Shqip HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtshshqip.png"
+    },
+    {
+      "name": "AL: RTSH PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtshplus.png"
+    },
+    {
+      "name": "AL: RTSH Shqip HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtshshqip.png"
+    },
+    {
+      "name": "AL: TOP Channel HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/topchannel.png"
+    },
+    {
+      "name": "AL: RTV 21 Maqedonia HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtv21maqedonia.png"
+    },
+    {
+      "name": "AL: ERA TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/eratv.png"
+    },
+    {
+      "name": "AL: KTV Kohavision HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/ktvkohavision.png"
+    },
+    {
+      "name": "AL: RTK 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtk1.png"
+    },
+    {
+      "name": "⭐⭐⭐ Sports ⭐⭐⭐  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/sports.png"
+    },
+    {
+      "name": "AL: Super Sport 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersport1.png"
+    },
+    {
+      "name": "AL: Super Sport 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersport2.png"
+    },
+    {
+      "name": "AL : Supersport 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersport3.png"
+    },
+    {
+      "name": "AL: Super Sport 4 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersport4.png"
+    },
+    {
+      "name": "AL: Super Sport 5 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersport5.png"
+    },
+    {
+      "name": "AL: Super Sport 6 FHD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersport6.png"
+    },
+    {
+      "name": "AL: Super Sport 7 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersport7.png"
+    },
+    {
+      "name": "AL: Super Sport Kosova 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersportkosova1.png"
+    },
+    {
+      "name": "AL: Super Sport Kosova 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersportkosova2.png"
+    },
+    {
+      "name": "AL: Super Sport NEWS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersportnews.png"
+    },
+    {
+      "name": "AL: Sport Kosova 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/73673163321.png"
+    },
+    {
+      "name": "AL: Sport Kosova 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37766426541.png"
+    },
+    {
+      "name": "AL: Tring Sport NEWS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringsportnews.png"
+    },
+    {
+      "name": "AL: Tring Sport 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringsport1.png"
+    },
+    {
+      "name": "AL: Tring Sport 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringsport2.png"
+    },
+    {
+      "name": "AL: Tring Sport 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringsport3.png"
+    },
+    {
+      "name": "AL: ART Sport 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/artsport1.png"
+    },
+    {
+      "name": "AL: ART Sport 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19202116431.png"
+    },
+    {
+      "name": "AL: ART Sport 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/artsport3.png"
+    },
+    {
+      "name": "AL: RTSH Sport HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtshsport.png"
+    },
+    {
+      "name": "AL: Eurosport 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "AL: Eurosport 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "AL: Kujtesa Sport 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/kujtesasport1.png"
+    },
+    {
+      "name": "AL: Kujtesa Sport 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/kujtesasport2.png"
+    },
+    {
+      "name": "AL: Kujtesa Sport 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/kujtesasport3.png"
+    },
+    {
+      "name": "AL: Kujtesa Sport 4 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/kujtesasport4.png"
+    },
+    {
+      "name": "AL: K Sport 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/ksport1.png"
+    },
+    {
+      "name": "AL: K Sport 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/ksport2.png"
+    },
+    {
+      "name": "AL: K Sport 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/ksport3.png"
+    },
+    {
+      "name": "AL: K Sport 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/ksport3.png"
+    },
+    {
+      "name": "AL: K Sport 4 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/ksport4.png"
+    },
+    {
+      "name": "AL: BABY TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/babytv.png"
+    },
+    {
+      "name": "AL: BANG BANG HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/bangbang.png"
+    },
+    {
+      "name": "AL: Cartoon Network HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "AL: CUFO TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/cufotv.png"
+    },
+    {
+      "name": "AL: Disney Channel HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "AL: Disney Junior HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    },
+    {
+      "name": "AL: DUCK TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/ducktv.png"
+    },
+    {
+      "name": "AL: Junior TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/juniortv.png"
+    },
+    {
+      "name": "AL: NICK JR HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/nickjr.png"
+    },
+    {
+      "name": "AL | Nick Jr  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/nickjr.png"
+    },
+    {
+      "name": "AL: Panorama TV  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/panoramatv.png"
+    },
+    {
+      "name": "AL: NICK Toons HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/nicktoons.png"
+    },
+    {
+      "name": "AL: RTV 21 Junior HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtv21junior.png"
+    },
+    {
+      "name": "AL: RTSH Femiji TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/93773980401.png"
+    },
+    {
+      "name": "AL: Sofia HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/sofia.png"
+    },
+    {
+      "name": "AL: Tring Tring TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/33136275151.png"
+    },
+    {
+      "name": "AL: Antena TV Shkoder HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://curl.pk/img/u/5128a71383e18a54e6e30f182215db734660.png"
+    },
+    {
+      "name": "AL: Alsat M HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/alsatm.png"
+    },
+    {
+      "name": "AL: Alsat M HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/alsatm.png"
+    },
+    {
+      "name": "AL: Antena HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/antena.png"
+    },
+    {
+      "name": "AL: ALB Humor 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/77894132401.png"
+    },
+    {
+      "name": "AL: ALB Humor 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/32672246281.png"
+    },
+    {
+      "name": "AL: Albflix Stupcat HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://curl.pk/img/u/d81b5f3ab3bfd36c6faf52beca623a972542.jpg"
+    },
+    {
+      "name": "AL: ALB UK HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/39242337181.png"
+    },
+    {
+      "name": "AL: ALB UK HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/33209283511.png"
+    },
+    {
+      "name": "AL: Alsat HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/alsat.png"
+    },
+    {
+      "name": "AL: First TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/firsttv.png"
+    },
+    {
+      "name": "AL: First Channel HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/firstchannel.png"
+    },
+    {
+      "name": "AL: Humor TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/87107258161.png"
+    },
+    {
+      "name": "AL: Humor TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/18960446841.png"
+    },
+    {
+      "name": "AL: Istogu Channel HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://curl.pk/img/u/e5d795bc6f665c99b047d469fa95a15a9754.jpg"
+    },
+    {
+      "name": "AL: KLAN PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/klanplus.png"
+    },
+    {
+      "name": "AL: KOHA TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/kohatv.png"
+    },
+    {
+      "name": "AL: Living HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/living.png"
+    },
+    {
+      "name": "|ALB|  Tring Muse  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/424e86cc0b8df7dff25dbabb09899587.png"
+    },
+    {
+      "name": "AL: Opoja TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/opojatv.png"
+    },
+    {
+      "name": "AL: Peace TV  HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/34720021991.png"
+    },
+    {
+      "name": "AL: RTV Islam HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtvislam.png"
+    },
+    {
+      "name": "AL: RTV Pendimi HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtvpendimi.png"
+    },
+    {
+      "name": "AL: Rozafa TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/10619049161.png"
+    },
+    {
+      "name": "AL: RTV Islam HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtvislam.png"
+    },
+    {
+      "name": "AL: RTV Ilirida HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtvilirida.png"
+    },
+    {
+      "name": "AL: SYRI Vision TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://curl.pk/img/u/fb59678def2b9ca85f94fa8626afa4f4362.jpg"
+    },
+    {
+      "name": "AL: TDC HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tdc.png"
+    },
+    {
+      "name": "AL: TIP TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tiptv.png"
+    },
+    {
+      "name": "AL: TV TEMA  HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/98048310761.png"
+    },
+    {
+      "name": "AL: TV Mitrovica TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/21088374021.png"
+    },
+    {
+      "name": "AL: TV BESA HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tvbesa.png"
+    },
+    {
+      "name": "AL: TV BESA Prizren HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/55220396011.png"
+    },
+    {
+      "name": "AL: Webstar Komedi HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://curl.pk/img/u/1e996756ac165387ef21cbb961b1e6018389.png"
+    },
+    {
+      "name": "AL: Zjarr TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/zjarrtv.png"
+    },
+    {
+      "name": "AL: 24 Kitchen HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/24kitchen.png"
+    },
+    {
+      "name": "AL: TLC  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "AL: TV USKANA HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tvuskana.png"
+    },
+    {
+      "name": "AL: ALB Thriller HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/91272185491.png"
+    },
+    {
+      "name": "AL: ART KINO 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/artkino1.png"
+    },
+    {
+      "name": "AL: ART KINO 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/artkino2.png"
+    },
+    {
+      "name": "AL: ART KINO 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/artkino3.png"
+    },
+    {
+      "name": "AL: Cinestar Action TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/58919146541.png"
+    },
+    {
+      "name": "AL: DIGI GOLD 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/digigold1.png"
+    },
+    {
+      "name": "AL: DIGI GOLD 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/digigold2.png"
+    },
+    {
+      "name": "AL: DIGI GOLD 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/digigold3.png"
+    },
+    {
+      "name": "AL: DIGI GOLD 4 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/digigold4.png"
+    },
+    {
+      "name": "AL: GOLD HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/gold.png"
+    },
+    {
+      "name": "AL: Family HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/family.png"
+    },
+    {
+      "name": "AL: Fast&FunBox HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/fastfunbox.png"
+    },
+    {
+      "name": "AL: FightBox HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/fightbox.png"
+    },
+    {
+      "name": "AL: FilmBox Premium HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxpremium.png"
+    },
+    {
+      "name": "AL: FOX Movies  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/foxmovies.png"
+    },
+    {
+      "name": "AL: EURO FILM HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/eurofilm.png"
+    },
+    {
+      "name": "AL: FOX Crime HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/foxcrime.png"
+    },
+    {
+      "name": "AL: FOX LIFE HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "AL: FOX Movies HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/foxmovies.png"
+    },
+    {
+      "name": "AL: FILM HITS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/filmhits.png"
+    },
+    {
+      "name": "AL: FILM DY HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/filmdy.png"
+    },
+    {
+      "name": "AL: FILM HITS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/filmhits.png"
+    },
+    {
+      "name": "AL: FILM Thriller HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/filmthriller.png"
+    },
+    {
+      "name": "AL: FILM Drame HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/filmdrame.png"
+    },
+    {
+      "name": "AL: FILM Aksion HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/filmaksion.png"
+    },
+    {
+      "name": "AL: FILM Stinet TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/27048993941.png"
+    },
+    {
+      "name": "AL: FILM Aksion HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/filmaksion.png"
+    },
+    {
+      "name": "AL: FILM Komedi HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/filmkomedi.png"
+    },
+    {
+      "name": "AL: DIGI GOLD 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/digigold3.png"
+    },
+    {
+      "name": "AL: DIGI GOLD 4 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/digigold4.png"
+    },
+    {
+      "name": "AL: HBO HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/hbo.png"
+    },
+    {
+      "name": "AL: HBO 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/hbo3.png"
+    },
+    {
+      "name": "AL: Jolly HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/jolly.png"
+    },
+    {
+      "name": "AL: Kinema GOLD HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/62048251481.png"
+    },
+    {
+      "name": "AL: KS Filma24 Family HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/81764769951.png"
+    },
+    {
+      "name": "AL: KS Filma24 Premiere HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37208575691.png"
+    },
+    {
+      "name": "AL: Kanal D Drama  HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/36190933981.png"
+    },
+    {
+      "name": "AL: RTSH FILM HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtshfilm.png"
+    },
+    {
+      "name": "AL: SKY MAX HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/skymax.png"
+    },
+    {
+      "name": "AL: SKY Komedi HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/17000985121.png"
+    },
+    {
+      "name": "AL: SKY Komedi HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/56871841141.png"
+    },
+    {
+      "name": "AL: SKY Aksion HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/skyaksion.png"
+    },
+    {
+      "name": "AL: Tring 3 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tring3.png"
+    },
+    {
+      "name": "AL: Tring Action HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringaction.png"
+    },
+    {
+      "name": "AL: Tring World HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringworld.png"
+    },
+    {
+      "name": "AL: Tring Comedy HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringcomedy.png"
+    },
+    {
+      "name": "AL: Tring Shqip HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringshqip.png"
+    },
+    {
+      "name": "AL: Tring Action HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringaction.png"
+    },
+    {
+      "name": "AL: Tring LIFE HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringlife.png"
+    },
+    {
+      "name": "AL: Tring Shqip HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringshqip.png"
+    },
+    {
+      "name": "AL: Tring Smile HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringsmile.png"
+    },
+    {
+      "name": "AL: Tring Super HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringsuper.png"
+    },
+    {
+      "name": "AL: Tring World HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringworld.png"
+    },
+    {
+      "name": "AL: Tring LIFE HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringlife.png"
+    },
+    {
+      "name": "AL: Tring Super HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringsuper.png"
+    },
+    {
+      "name": "AL: Tring 3 PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tring3plus.png"
+    },
+    {
+      "name": "AL: TELE ONE 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/teleone1.png"
+    },
+    {
+      "name": "AL: TELE ONE 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/76404621541.png"
+    },
+    {
+      "name": "AL: X Action HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/ac53982d6d88ad9a880a5c5e1c38a8ae.png"
+    },
+    {
+      "name": "AL: X GOLD 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/15849464651.png"
+    },
+    {
+      "name": "AL: X GOLD 2 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/xgold2.png"
+    },
+    {
+      "name": "AL: X Premium 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/xpremium1.png"
+    },
+    {
+      "name": "AL: Film Max HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://www.equitybulls.com/equitybullsadmin/uploads/MovieMAX%20brand%20-%20Cineline%20India%20Limited.jpg"
+    },
+    {
+      "name": "AL-sky Comedy HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/skycomedy.png"
+    },
+    {
+      "name": "AL: Seriale Turke HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/2a987fc2479505f249133713454b7fe0.png"
+    },
+    {
+      "name": "AL: Stinet  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/stinet.png"
+    },
+    {
+      "name": "AL: Explorer Natyra HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/explorernatyra.png"
+    },
+    {
+      "name": "AL: EXP Natyra HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/expnatyra.png"
+    },
+    {
+      "name": "AL: Tring History HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringhistory.png"
+    },
+    {
+      "name": "AL: Tring Planet HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringplanet.png"
+    },
+    {
+      "name": "AL: Tring Planet HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tringplanet.png"
+    },
+    {
+      "name": "AL: Animal Planet HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "AL: Discovery Channel  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "AL: ART DOKU 1 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/26057384871.png"
+    },
+    {
+      "name": "AL: Discovery Science FHD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "AL: Explorer History HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/34015875741.png"
+    },
+    {
+      "name": "AL: National Geographic HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "AL: SKY History HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/skyhistory.png"
+    },
+    {
+      "name": "AL: Travel Channel HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/travelchannel.png"
+    },
+    {
+      "name": "AL: ABC NEWS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/abcnews.png"
+    },
+    {
+      "name": "AL: Syri TV  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/syritv.png"
+    },
+    {
+      "name": "AL: FAX NEWS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/faxnews.png"
+    },
+    {
+      "name": "AL: KLAN NEWS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/klannews.png"
+    },
+    {
+      "name": "AL: NEWS 24 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/news24.png"
+    },
+    {
+      "name": "AL: ORA NEWS TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/87511586121.png"
+    },
+    {
+      "name": "AL: Report TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/reporttv.png"
+    },
+    {
+      "name": "AL: RTSH 24 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtsh24.png"
+    },
+    {
+      "name": "AL: ARTA NEWS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/artanews.png"
+    },
+    {
+      "name": "AL: Euronews HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/euronews.png"
+    },
+    {
+      "name": "AL: TOP NEWS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/topnews.png"
+    },
+    {
+      "name": "AL: MCN TV  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/mcntv.png"
+    },
+    {
+      "name": "AL: Premium Channel  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/premiumchannel.png"
+    },
+    {
+      "name": "AL: RTSH Shkoll  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/637803a58ee6e159dad7f819c9dcc7c9.png"
+    },
+    {
+      "name": "|ALB|  ORA News  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/5e8562d050be99d279043a5a63bc6574.png"
+    },
+    {
+      "name": "AL: SCAN TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/scantv.png"
+    },
+    {
+      "name": "AL: Kanali 7 HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/kanali7.png"
+    },
+    {
+      "name": "AL: Kanali 7 NEWS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://curl.pk/img/u/c6a4e3cb2f2c1b89032e7c308e258ea59740.png"
+    },
+    {
+      "name": "AL: RTSH Muzike TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://curl.pk/img/u/61e4f837697488212a989d86c7d77b6e2648.png"
+    },
+    {
+      "name": "AL: RTV 21 Popullore HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtv21popullore.png"
+    },
+    {
+      "name": "AL: RTV 21 PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtv21plus.png"
+    },
+    {
+      "name": "AL: RTV 21 MIX HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtv21mix.png"
+    },
+    {
+      "name": "AL: ZICO TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/zicotv.png"
+    },
+    {
+      "name": "AL: 21 MIX HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/21mix.png"
+    },
+    {
+      "name": "AL: AMOL TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/amoltv.png"
+    },
+    {
+      "name": "AL: TOP Estrada TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/topestradatv.png"
+    },
+    {
+      "name": "AL: BBF Music TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/bbfmusictv.png"
+    },
+    {
+      "name": "AL: FOLK PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/folkplus.png"
+    },
+    {
+      "name": "AL: FOLK PLUS TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19339567041.png"
+    },
+    {
+      "name": "AL: KLAN TV Music HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/85070774341.png"
+    },
+    {
+      "name": "AL: MTV HITS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/mtvhits.png"
+    },
+    {
+      "name": "AL: MTV Kosova HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/mtvkosova.png"
+    },
+    {
+      "name": "AL: MFM Musik HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/mfmmusik.png"
+    },
+    {
+      "name": "AL- RTV Fontana HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/rtvfontana.png"
+    },
+    {
+      "name": "AL: Click TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/clicktv.png"
+    },
+    {
+      "name": "AL: CLUB TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/clubtv.png"
+    },
+    {
+      "name": "AL: Super Sonic TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/supersonictv.png"
+    },
+    {
+      "name": "AL: STAR PLUS HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/starplus.png"
+    },
+    {
+      "name": "AL: STAR PLUS Shkodra HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78037931411.png"
+    },
+    {
+      "name": "AL: Elrodi HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://curl.pk/img/u/5d1d61ed55450c7030b78b2eb48ba09d7106.jpg"
+    },
+    {
+      "name": "AL: Tirana TV HD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tiranatv.png"
+    },
+    {
+      "name": "AL: TV Kopliku FHD  (101-SERVERS)",
+      "group": "AL - Albania & Kosova - Live.",
+      "logo": "https://logo.m3uassets.com/tvkopliku.png"
+    }
+  ]
+}

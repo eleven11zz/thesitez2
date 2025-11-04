@@ -1,0 +1,13 @@
+{
+  "package": "france",
+  "name": "FR - CANAL+ LIVE.",
+  "groupIndex": 1,
+  "totalChannels": 1,
+  "channels": [
+    {
+      "name": "CANAL+ LIVE 2  (101-SERVERS)",
+      "group": "FR - CANAL+ LIVE.",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3e/Canal%2B_Live.svg"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "package": "world",
+  "name": "MK - Macedonia - Live.",
+  "groupIndex": 90,
+  "totalChannels": 48,
+  "channels": [
+    {
+      "name": "MK: Sitel HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/sitel.png"
+    },
+    {
+      "name": "MK: Sitel 2 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/sitel2.png"
+    },
+    {
+      "name": "MK: Kanal 5+ HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/kanal5.png"
+    },
+    {
+      "name": "MK: Kanal+5 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/14250367421.png"
+    },
+    {
+      "name": "MK: Telma HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/telma.png"
+    },
+    {
+      "name": "MK: SKY FOLK HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/skyfolk.png"
+    },
+    {
+      "name": "MK: HUGO 1 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/89903471641.png"
+    },
+    {
+      "name": "MK: INTV Avstralija HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/intvavstralija.png"
+    },
+    {
+      "name": "MK: Kanal 8 Kocani HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/81067229541.png"
+    },
+    {
+      "name": "MK: Makedonia TV HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/makedoniatv.png"
+    },
+    {
+      "name": "MK: MRT 2 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/mrt2.png"
+    },
+    {
+      "name": "MK: MRT 3 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/mrt3.png"
+    },
+    {
+      "name": "MK: MRT 4 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/mrt4.png"
+    },
+    {
+      "name": "MK: MRT 5 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/mrt5.png"
+    },
+    {
+      "name": "MK: MRT Sobraniski HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/98469091381.png"
+    },
+    {
+      "name": "MK: TV Sonce HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/tvsonce.png"
+    },
+    {
+      "name": "MK: 24 Vesti HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/24vesti.png"
+    },
+    {
+      "name": "MK: ALFA HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/alfa.png"
+    },
+    {
+      "name": "MK: ALFA TV MK HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/alfatv.png"
+    },
+    {
+      "name": "MK: Alsat M HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/alsatm.png"
+    },
+    {
+      "name": "MK: Alsat-m HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/39283890001.png"
+    },
+    {
+      "name": "MK: Balkan Music HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/90354364701.png"
+    },
+    {
+      "name": "MK: Cinestar TV Premiere 1 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/cinestartvpremiere1.png"
+    },
+    {
+      "name": "MK: Cinestar TV Premiere 2 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/cinestartvpremiere2.png"
+    },
+    {
+      "name": "MK: FOX LIFE HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "MK: FOX LIFE MK HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "MK: HBO 1 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/hbo1.png"
+    },
+    {
+      "name": "MK: HBO 2 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/hbo2.png"
+    },
+    {
+      "name": "MK: HBO 3 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/hbo3.png"
+    },
+    {
+      "name": "MK: HBO HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/hbo.png"
+    },
+    {
+      "name": "MK: KLAN Macedonia HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/klanmacedonia.png"
+    },
+    {
+      "name": "MK: MPT 2 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/mpt2.png"
+    },
+    {
+      "name": "MK: MPT 3 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/85958502921.png"
+    },
+    {
+      "name": "MK: MTV Igman HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/mtvigman.png"
+    },
+    {
+      "name": "MK: ROMA TV HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/romatv.png"
+    },
+    {
+      "name": "MK: RTV 21 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/rtv21.png"
+    },
+    {
+      "name": "MK: Shenja HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/85813630731.png"
+    },
+    {
+      "name": "MK: Spektra TV HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/spektratv.png"
+    },
+    {
+      "name": "MK: Sutel TV HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/suteltv.png"
+    },
+    {
+      "name": "MK: TERA Bitola HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/terabitola.png"
+    },
+    {
+      "name": "MK: TOP Estrada HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/topestrada.png"
+    },
+    {
+      "name": "MK: TOP Estrada TV HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/topestradatv.png"
+    },
+    {
+      "name": "MK: Travel Channel HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/travelchannel.png"
+    },
+    {
+      "name": "MK: TV 1000 HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/tv1000.png"
+    },
+    {
+      "name": "MK: TV PLUS HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/tvplus.png"
+    },
+    {
+      "name": "MK: TV Shenja HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/tvshenja.png"
+    },
+    {
+      "name": "MK: Viasat Explore HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/viasatexplore.png"
+    },
+    {
+      "name": "MK: Viasat History HD  (101-SERVERS)",
+      "group": "MK - Macedonia - Live.",
+      "logo": "https://logo.m3uassets.com/viasathistory.png"
+    }
+  ]
+}

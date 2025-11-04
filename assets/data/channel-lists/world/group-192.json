@@ -1,0 +1,23 @@
+{
+  "package": "world",
+  "name": "IN - ENGLISH MOVIES LIVE.",
+  "groupIndex": 192,
+  "totalChannels": 3,
+  "channels": [
+    {
+      "name": "Sun Life  (101-SERVERS)",
+      "group": "IN - ENGLISH MOVIES LIVE.",
+      "logo": "https://logo.m3uassets.com/sunlife.png"
+    },
+    {
+      "name": "Star Maa  (101-SERVERS)",
+      "group": "IN - ENGLISH MOVIES LIVE.",
+      "logo": "https://logo.m3uassets.com/starmaa.png"
+    },
+    {
+      "name": "Sony Pix  (101-SERVERS)",
+      "group": "IN - ENGLISH MOVIES LIVE.",
+      "logo": "https://logo.m3uassets.com/sonypix.png"
+    }
+  ]
+}

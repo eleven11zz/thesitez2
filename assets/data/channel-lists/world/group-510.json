@@ -1,0 +1,563 @@
+{
+  "package": "world",
+  "name": "EN - WWE UFC Series",
+  "groupIndex": 510,
+  "totalChannels": 111,
+  "channels": [
+    {
+      "name": "EN: Best of Roman Reigns S01 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjVjOTJlOWUtY2Q5Zi00YWE4LWFiYWMtMDBjNzg2YjMzYWM2XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg"
+    },
+    {
+      "name": "EN: Best of Roman Reigns S01 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjVjOTJlOWUtY2Q5Zi00YWE4LWFiYWMtMDBjNzg2YjMzYWM2XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg"
+    },
+    {
+      "name": "EN: Best of Roman Reigns S01 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjVjOTJlOWUtY2Q5Zi00YWE4LWFiYWMtMDBjNzg2YjMzYWM2XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg"
+    },
+    {
+      "name": "EN: Best of Roman Reigns S01 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjVjOTJlOWUtY2Q5Zi00YWE4LWFiYWMtMDBjNzg2YjMzYWM2XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg"
+    },
+    {
+      "name": "EN: Best of Roman Reigns S01 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjVjOTJlOWUtY2Q5Zi00YWE4LWFiYWMtMDBjNzg2YjMzYWM2XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E06",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E07",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E08",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E09",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E10",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E11",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E12",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: All Elite Wrestling: Dynamite S02 E13",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLmFeaoTEvH5vpMHKVH1zCa9Hf1.jpg"
+    },
+    {
+      "name": "EN: Biography: WWE Legends S01 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVc6bYz7hLPNNdpuqlU7CEmJ2Dh.jpg"
+    },
+    {
+      "name": "EN: Biography: WWE Legends S01 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVc6bYz7hLPNNdpuqlU7CEmJ2Dh.jpg"
+    },
+    {
+      "name": "EN: Biography: WWE Legends S01 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVc6bYz7hLPNNdpuqlU7CEmJ2Dh.jpg"
+    },
+    {
+      "name": "EN: Biography: WWE Legends S01 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVc6bYz7hLPNNdpuqlU7CEmJ2Dh.jpg"
+    },
+    {
+      "name": "EN: Biography: WWE Legends S01 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVc6bYz7hLPNNdpuqlU7CEmJ2Dh.jpg"
+    },
+    {
+      "name": "EN: Biography: WWE Legends S01 E06",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVc6bYz7hLPNNdpuqlU7CEmJ2Dh.jpg"
+    },
+    {
+      "name": "EN: Biography: WWE Legends S01 E07",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVc6bYz7hLPNNdpuqlU7CEmJ2Dh.jpg"
+    },
+    {
+      "name": "EN: Biography: WWE Legends S01 E08",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVc6bYz7hLPNNdpuqlU7CEmJ2Dh.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S01 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S01 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S01 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S01 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S01 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S01 E06",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E06",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E07",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E08",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E09",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S02 E10",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S03 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S03 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S03 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S03 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S03 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S03 E06",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: Dark Side of the Ring S03 E07",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E06",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E07",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E08",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E09",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E10",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E11",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E12",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E13",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E14",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E15",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E16",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E17",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: WWE 24 S01 E18",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iScEZ9NXWq0aaWp0YsguUndby2s.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S01 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S01 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S01 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S01 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S01 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S02 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S02 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S02 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S02 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Camp WWE S02 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWJkNzYxMDktMTM0OS00MjQzLWIwMzEtODBjYjNmMjQwYTYxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "name": "EN: The WWE List S01 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E06",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E07",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E08",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E09",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E10",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E11",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E12",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: The WWE List S01 E13",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://www.itnwwe.com/wp-content/uploads/2021/02/2016-1-584x900.jpg?ezimgfmt=rs:364x561/rscb71/ngcb71/notWebP"
+    },
+    {
+      "name": "EN: WWE Untold S01 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E06",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E07",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E08",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E09",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E10",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E11",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E12",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E13",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E14",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E15",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Untold S01 E16",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYThjNzMtNmY2Ny00MWVhLTk3NWItNGZhMTZmOTM3YjM5XkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE 365 S01 E01",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1dFklOK03O1sJCovAlEifx73OX.jpg"
+    },
+    {
+      "name": "EN: WWE 365 S01 E02",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1dFklOK03O1sJCovAlEifx73OX.jpg"
+    },
+    {
+      "name": "EN: WWE 365 S01 E03",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1dFklOK03O1sJCovAlEifx73OX.jpg"
+    },
+    {
+      "name": "EN: WWE 365 S01 E04",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1dFklOK03O1sJCovAlEifx73OX.jpg"
+    },
+    {
+      "name": "EN: WWE 365 S01 E05",
+      "group": "EN - WWE UFC Series",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1dFklOK03O1sJCovAlEifx73OX.jpg"
+    }
+  ]
+}

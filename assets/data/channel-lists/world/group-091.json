@@ -1,0 +1,58 @@
+{
+  "package": "world",
+  "name": "MO - Morocco - Live.",
+  "groupIndex": 91,
+  "totalChannels": 10,
+  "channels": [
+    {
+      "name": "MOR: Aflam 7 HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/aflam7.png"
+    },
+    {
+      "name": "MOR: 2M Maroc HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/2mmaroc.png"
+    },
+    {
+      "name": "MOR: Assadissa HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/assadissa.png"
+    },
+    {
+      "name": "MOR: Chada TV HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/chadatv.png"
+    },
+    {
+      "name": "MOR: M24 TV HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/m24tv.png"
+    },
+    {
+      "name": "MOR: MEDI 1 TV HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/medi1tv.png"
+    },
+    {
+      "name": "MOR: Medi1 TV HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/medi1tv.png"
+    },
+    {
+      "name": "MOR: Tamazight HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/tamazight.png"
+    },
+    {
+      "name": "MOR: TELE Maroc HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/telemaroc.png"
+    },
+    {
+      "name": "MOR: TV 5 Monde HD  (101-SERVERS)",
+      "group": "MO - Morocco - Live.",
+      "logo": "https://logo.m3uassets.com/tv5monde.png"
+    }
+  ]
+}

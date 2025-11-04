@@ -1,0 +1,738 @@
+{
+  "package": "world",
+  "name": "AL - Comedy Movies",
+  "groupIndex": 226,
+  "totalChannels": 146,
+  "channels": [
+    {
+      "name": "AL:  Asterix & Obelix: The Middle Kingdom (2023)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg"
+    },
+    {
+      "name": "AL: Hocus Pocus 2 (2022)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg"
+    },
+    {
+      "name": "AL: Men in Black: International (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg"
+    },
+    {
+      "name": "AL: Mamma Mia! Here We Go Again (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg"
+    },
+    {
+      "name": "AL: Malibu's Most Wanted (2003)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjYuoz2S8S1AED5QIMvmAi21drc.jpg"
+    },
+    {
+      "name": "AL: Love Me If You Dare (2003)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvjC5LSMANKvGGDHjIWj1YomPdN.jpg"
+    },
+    {
+      "name": "AL: Love, Simon (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg"
+    },
+    {
+      "name": "AL: Long Shot (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg"
+    },
+    {
+      "name": "AL: Little Italy (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdSSmzYKqViKH7mkQwgOVSALrOO.jpg"
+    },
+    {
+      "name": "AL: Little Bitches (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qmyiAMBAF80DdNItPGdG5BcdZV.jpg"
+    },
+    {
+      "name": "AL: Little (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MDB6jJl3U7xK1Gw64zIqt9pQA4.jpg"
+    },
+    {
+      "name": "AL: Like Mike (2002)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbemLC7DyQwFRnve666iJTpa7AI.jpg"
+    },
+    {
+      "name": "AL: Like Father (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPN8iFewcLAdonUec76qrAEnHm6.jpg"
+    },
+    {
+      "name": "AL: Life Is Beautiful (1997)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74hLDKjD5aGYOotO6esUVaeISa2.jpg"
+    },
+    {
+      "name": "AL: Let the Sunshine In (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HSbTWvHfaywSpkETtlZqqcnItT.jpg"
+    },
+    {
+      "name": "AL: Late Night (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxwb5KBqS0SHsUcyLgWMk3vuVxY.jpg"
+    },
+    {
+      "name": "AL: Last Flag Flying (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pizynKUzJ9YucGff1O1MYisY1WM.jpg"
+    },
+    {
+      "name": "AL: Last Christmas (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg"
+    },
+    {
+      "name": "AL: Laid in America (2016)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0sq3T0wJS02Uq39Crp7szwpvmS.jpg"
+    },
+    {
+      "name": "AL: Laggies (2014)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kL2ccASO8O6v92gGTaaY5gOCAI4.jpg"
+    },
+    {
+      "name": "AL: Lady and the Tramp (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wBEye516IKul9sW7JKGcFXVGfV.jpg"
+    },
+    {
+      "name": "AL: Krystal (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Do7HKvKPgjiBVJieMAOt8aZXAB.jpg"
+    },
+    {
+      "name": "AL: Knocked Up (2007)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg"
+    },
+    {
+      "name": "AL: Knives Out (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg"
+    },
+    {
+      "name": "AL: Kingpin (1996)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3yoL3dcPzAE2QpwG7iJlvEeiG7.jpg"
+    },
+    {
+      "name": "AL: Keys to the Heart (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ta5Lmh2u8NcIEVeGShyXyMEqkR.jpg"
+    },
+    {
+      "name": "AL: Kal Ho Naa Ho (2003)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg"
+    },
+    {
+      "name": "AL: Juno (2007)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg"
+    },
+    {
+      "name": "AL: Jumanji: The Next Level (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg"
+    },
+    {
+      "name": "AL: Jojo Rabbit (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg"
+    },
+    {
+      "name": "AL: Johnny Stecchino (1991)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QKJt4czaj7d5VP7hpY7mS3KZzl.jpg"
+    },
+    {
+      "name": "AL: Jexi (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdYhXJPoV0Kvwdih74lejHPTyWL.jpg"
+    },
+    {
+      "name": "AL: Isi & Ossi (2020)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZ7H0kCwEM6CQ0dyCs2H4RkU130.jpg"
+    },
+    {
+      "name": "AL: Irreplaceable You (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkflwtWCJffdDSwg63fdDFbwOvS.jpg"
+    },
+    {
+      "name": "AL: Invisible Sister (2015)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/seWQvVIzb5xBjHW0Y1h4jvokxZN.jpg"
+    },
+    {
+      "name": "AL: Instant Family (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dic3GdmMpxxfkCQfvZnasb5ZkSG.jpg"
+    },
+    {
+      "name": "AL: Identity Thief (2013)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIliJCGoWT6tEVaDivLpXEf038w.jpg"
+    },
+    {
+      "name": "AL: I Can Quit Whenever I Want (2014)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yCx5OSw3ckFhZP4guriUFxqrDB.jpg"
+    },
+    {
+      "name": "AL: Hustlers (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg"
+    },
+    {
+      "name": "AL: How to Talk to Girls at Parties (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6mPfyGshwXd1R6kQlMEyZ8Zu2s.jpg"
+    },
+    {
+      "name": "AL: How to Be a Latin Lover (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvXCBYFDwAQSj3nrRAoBSpX2N8J.jpg"
+    },
+    {
+      "name": "AL: Hotel Transylvania 3: Summer Vacation (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7RY5zNHdH2heGS1hET2Rt6hZOe.jpg"
+    },
+    {
+      "name": "AL: Hotel Transylvania (2012)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg"
+    },
+    {
+      "name": "AL: Hoodwinked Too! Hood VS. Evil (2011)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MEb1GH68lZnBAraRr3fBM5IgHF.jpg"
+    },
+    {
+      "name": "AL: Home Alone 2: Lost in New York (1992)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
+    },
+    {
+      "name": "AL: Home Alone (1990)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg"
+    },
+    {
+      "name": "AL: Holmes & Watson (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/orEUlKndjV1rEcWqXbbjegjfv97.jpg"
+    },
+    {
+      "name": "AL: Hichki (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kzB7YtvhBvkBywubJ81Qw0Lt8r.jpg"
+    },
+    {
+      "name": "AL: He's Just Not That Into You (2009)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruc33YnCrmCL8PHdPQVzfa4shWX.jpg"
+    },
+    {
+      "name": "AL: Henchmen (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddbcOYQaDbxH5R42DlrK7txVbIG.jpg"
+    },
+    {
+      "name": "AL: Hearts Beat Loud (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umiWoEo9aNH2bQnuDZnoFJJxfZn.jpg"
+    },
+    {
+      "name": "AL: Hasee Toh Phasee (2014)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyyYh9u4KL5IWbMRETLMADce1j7.jpg"
+    },
+    {
+      "name": "AL: Happy Anniversary (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQYX248aotb6ma6QxJ14utYEYoD.jpg"
+    },
+    {
+      "name": "AL: Grudge Match (2013)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwBSSZ7gCEDvq3zzA4jeDUZeCJ3.jpg"
+    },
+    {
+      "name": "AL: Green Book (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg"
+    },
+    {
+      "name": "AL: Grand-Daddy Day Care (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LpLQTBmnzDqKlZuJWnOtACjCB1.jpg"
+    },
+    {
+      "name": "AL: Good Boys (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tximyCXMEnWIIyOy9STkOduUprG.jpg"
+    },
+    {
+      "name": "AL: Going in Style (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg"
+    },
+    {
+      "name": "AL: Geek Charming (2011)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBMF7xpd8Ms5Ngq0uVxVnx8B88L.jpg"
+    },
+    {
+      "name": "AL: Game Night (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg"
+    },
+    {
+      "name": "AL: Fukrey Returns (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AclYkwVFwS8yxMWj4riYqRaE0w0.jpg"
+    },
+    {
+      "name": "AL: Freaky Friday (2003)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg"
+    },
+    {
+      "name": "AL: For Love or Money (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGNKckwAfHzPE73VFGhDS5YIWvB.jpg"
+    },
+    {
+      "name": "AL: Foolish Plan (2016)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXVMZPeEy6v7svBDn5QtOIRhAhj.jpg"
+    },
+    {
+      "name": "AL: First Love (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIfB0QPkP3sTpeeeuCNBvRfQg3.jpg"
+    },
+    {
+      "name": "AL: Fighting With My Family (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVhe15rJLRjolunSWLBN6xQLyGU.jpg"
+    },
+    {
+      "name": "AL: Father of the Year (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmBdCkZxHwQn5zM17cZmd3giJCY.jpg"
+    },
+    {
+      "name": "AL: Falling Inn Love (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bzu5k5vwLKgwap6pHXlCY8nlh3.jpg"
+    },
+    {
+      "name": "AL: Eighth Grade (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg"
+    },
+    {
+      "name": "AL: Early Man (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXukFwTKOe7izDsf3ZOdeYikRxF.jpg"
+    },
+    {
+      "name": "AL: Dry Martina (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA6nTGlDtFdRtGEYHSEBzSJ1Xzy.jpg"
+    },
+    {
+      "name": "AL: Drillbit Taylor (2008)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/shqO696kFnM8Z4ODa3JglcjP97u.jpg"
+    },
+    {
+      "name": "AL: Downsizing (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg"
+    },
+    {
+      "name": "AL: Dostana (2008)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/obwjlgNI2NFZupMuJBbKgH3IhQp.jpg"
+    },
+    {
+      "name": "AL: Dora and the Lost City of Gold (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvYCZ740XvngXK0FNeSNVTJJJ5v.jpg"
+    },
+    {
+      "name": "AL: Don't Worry, He Won't Get Far on Foot (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg"
+    },
+    {
+      "name": "AL: Dolemite Is My Name (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg"
+    },
+    {
+      "name": "AL: Dog Days (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wQcFJwj4tsHjWCXMpwb9OqNR9Y.jpg"
+    },
+    {
+      "name": "AL: Dinner for Schmucks (2010)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/djwkUFhkM81gIsI9ZZ7I6ajZAKY.jpg"
+    },
+    {
+      "name": "AL: Dim the Fluorescents (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBMSA1tdF9GN7NGYl1hHvmbsv17.jpg"
+    },
+    {
+      "name": "AL: Dhadak (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GqM38yPTI3HDDVZVRjJk2b5oSK.jpg"
+    },
+    {
+      "name": "AL: Detective Chinatown 2 (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p88dG7zfvne14Fn2UHFa2lqijyE.jpg"
+    },
+    {
+      "name": "AL: Destination Wedding (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg"
+    },
+    {
+      "name": "AL: Despicable Me 2 (2013)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg"
+    },
+    {
+      "name": "AL: Definitely, Maybe (2008)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWdZJH70uEluwbhJ4DGisk9NNOP.jpg"
+    },
+    {
+      "name": "AL: Damsel (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZxjsJwmKorpPvd0kquJffYROr.jpg"
+    },
+    {
+      "name": "AL: Crazy Rich Asians (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg"
+    },
+    {
+      "name": "AL: Cook Up a Storm (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHMVa4VWLxggvbDo2Ol1ln4obJs.jpg"
+    },
+    {
+      "name": "AL: College Road Trip (2008)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5pw0xMuQkfs0pu5PkUeVL5gd6u.jpg"
+    },
+    {
+      "name": "AL: Cinderela Pop (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL0TrrV5MHQFkwRxlho0dDKTwvm.jpg"
+    },
+    {
+      "name": "AL: Christopher Robin (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg"
+    },
+    {
+      "name": "AL: Chi-Raq (2015)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml3LitMKejwxrYNTQWdwIbyhDeb.jpg"
+    },
+    {
+      "name": "AL: Checkered Ninja (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzN5xbp73TI7pjEqZ66ECNxdWJl.jpg"
+    },
+    {
+      "name": "AL: Chalet Girl (2011)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGLMKnPL1Aw4SndOXMGrlIMOoa6.jpg"
+    },
+    {
+      "name": "AL: Cashback (2006)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpwTVHlv5wOpzfgadZZHiqHlnhY.jpg"
+    },
+    {
+      "name": "AL: Can You Ever Forgive Me? (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuZR2bFoV0kuBrA98exWyvTf40.jpg"
+    },
+    {
+      "name": "AL: Candy Jar (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9PG1LG0zLnl6QQxw4WoRJEroXF.jpg"
+    },
+    {
+      "name": "AL: Bully (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5DjjvBgcWUSzjS9K4qzGAXXOh6.jpg"
+    },
+    {
+      "name": "AL: Broken Contract (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKkUiScmW4aEvSg6ypvzB0icJuw.jpg"
+    },
+    {
+      "name": "AL: Bridesmaids (2011)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cruSkSZJEmv9pbDoHBwdHdsnvHO.jpg"
+    },
+    {
+      "name": "AL: Breaking & Exiting (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucZnGl4GJoTuIoJV2cX74k0WfK3.jpg"
+    },
+    {
+      "name": "AL: Booksmart (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/micaVOa1UZsdzs4fKGA67ZMGOzc.jpg"
+    },
+    {
+      "name": "AL: Bodied (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5urgy7sXFbvCK7SBmc0fF978AOb.jpg"
+    },
+    {
+      "name": "AL: Blindspotting (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4UvwoMmQiztTqeUnExDU5hoCdP.jpg"
+    },
+    {
+      "name": "AL: Birthmarked (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfxSYqFbjdbzv7Z8IonyB0h8ezA.jpg"
+    },
+    {
+      "name": "AL: Between Two Ferns: The Movie (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHxc8v1GkzdjjhF2qnpG6wdXrOT.jpg"
+    },
+    {
+      "name": "AL: Better Start Running (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv3U9nSjJDWPoSK99da6X8ypJAs.jpg"
+    },
+    {
+      "name": "AL: Be Somebody (2016)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKbuawpLaoE3b6ACjLnyJtVmJXP.jpg"
+    },
+    {
+      "name": "AL: Beauty & the Beholder (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s09CBgRwswF5HVaWtyjFaLvjm7v.jpg"
+    },
+    {
+      "name": "AL: Bean (1997)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IwrDPrB4d2DMcpnGkvan46yINL.jpg"
+    },
+    {
+      "name": "AL: BASEketball (1998)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/phZjtfI2KDYOPuYsi4yqjXwZiSn.jpg"
+    },
+    {
+      "name": "AL: Bandits (2001)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/67AUAkiT4rbgqN7SNlIJn0zWZqU.jpg"
+    },
+    {
+      "name": "AL: Bad Teacher (2011)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpIY4qUSX91J9XpPgr0hFrk1eKr.jpg"
+    },
+    {
+      "name": "AL: Back to the Future Part II (1989)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg"
+    },
+    {
+      "name": "AL: Back to the Future (1985)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg"
+    },
+    {
+      "name": "AL: Babysitting 2 (2015)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kDHjMLw5knh0AYdp9iIeUt5AYZ.jpg"
+    },
+    {
+      "name": "AL: Babysitting (2014)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUhq9FG0nKUs2DtPVGR1b0q2RCT.jpg"
+    },
+    {
+      "name": "AL: Ay Lav Yu (2010)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXPzDhxXs4Z8Nnai7kgZ48iyN3U.jpg"
+    },
+    {
+      "name": "AL: Asterix: The Secret of the Magic Potion (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmMq5ypRNJbWpdhC9aPjpdx1MMp.jpg"
+    },
+    {
+      "name": "AL: Are We Done Yet? (2007)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ9NZh4zB80phMxo5PucFyWagjG.jpg"
+    },
+    {
+      "name": "AL: Arctic Dogs (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg"
+    },
+    {
+      "name": "AL: A Perfect Day (2015)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/musAGdMpfvxhNvEnxXgmzcjBxWL.jpg"
+    },
+    {
+      "name": "AL: Animals United (2010)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUCLetZNa3rZknSmLc2gGUdxWH7.jpg"
+    },
+    {
+      "name": "AL: A Night at the Roxbury (1998)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oZ5xE4AL4D5EbeQUaoRxahgzJX.jpg"
+    },
+    {
+      "name": "AL: An Easy Girl (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV4HVz2m27fJ2VqZwzZd4Yf8Tli.jpg"
+    },
+    {
+      "name": "AL: Anchorman 2: The Legend Continues (2013)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/55volAzeebtFzyrx7DJkegvw8Ta.jpg"
+    },
+    {
+      "name": "AL: An Actor Prepares (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rSc59ajnmV9EsNWdLFSjRlFfT3.jpg"
+    },
+    {
+      "name": "AL: Amateur Night (2016)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzJFu1F0miZKHbR7tRIX6cQcI8c.jpg"
+    },
+    {
+      "name": "AL: A Madea Family Funeral (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFvOTUlZrIxCLdmz1fC16wK0lme.jpg"
+    },
+    {
+      "name": "AL: Always Be My Maybe (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BO6pPa7qDcpPYct061Luh9fvst.jpg"
+    },
+    {
+      "name": "AL: All About My Mother (1999)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z1kGuWJrjdYYeot2NJsVdYrF0b.jpg"
+    },
+    {
+      "name": "AL: All About Me (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzSl2hYaymhBAEuoE57vs8VSBYP.jpg"
+    },
+    {
+      "name": "AL: A Little Bit of Heaven (2011)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEWNdL8hCbXxTspxAVHxqE0ZxFt.jpg"
+    },
+    {
+      "name": "AL: Ali G Indahouse (2002)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg"
+    },
+    {
+      "name": "AL: Aliens Ate My Homework (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SlQPLBhaB7EF3FlEgcjtMIZ7WK.jpg"
+    },
+    {
+      "name": "AL: Airplane Mode (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wePMUBWkDJT1ougBlG0RBFFa7hR.jpg"
+    },
+    {
+      "name": "AL: Age of Summer (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5jloyTyJMJUSwK4zJYrphTIu1J.jpg"
+    },
+    {
+      "name": "AL: Agent Sai Srinivasa Athreya (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zU002McnFjmofuUGmY21ApiOjL6.jpg"
+    },
+    {
+      "name": "AL: A Futile and Stupid Gesture (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyHBeRgbbhs7kVrZYblVj9u2Xbd.jpg"
+    },
+    {
+      "name": "AL: After (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg"
+    },
+    {
+      "name": "AL: A Faithful Man (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1bHryDSFWgiDbEdTf2H7vQAKCp.jpg"
+    },
+    {
+      "name": "AL: Addio fottuti musi verdi (2017)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ACERZQZWcWoKzsEoozXJ8DAXki.jpg"
+    },
+    {
+      "name": "AL: A Cinderella Story: Christmas Wish (2019)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozBX0u5caaJFli9AssqJmARb5R.jpg"
+    },
+    {
+      "name": "AL: A Christmas Prince: The Royal Wedding (2018)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bLQTbFWrsunSVQsvOWZAAGACbf.jpg"
+    },
+    {
+      "name": "AL: (500) Days of Summer (2009)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg"
+    },
+    {
+      "name": "AL: 10 Things I Hate About You (1999)",
+      "group": "AL - Comedy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg"
+    }
+  ]
+}

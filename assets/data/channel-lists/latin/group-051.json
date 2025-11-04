@@ -1,0 +1,853 @@
+{
+  "package": "latin",
+  "name": "ES - Películas en Español Spain Movies",
+  "groupIndex": 51,
+  "totalChannels": 169,
+  "channels": [
+    {
+      "name": "ES: Perdita Durango (1997)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/perdita_durango-798738553-large.jpg"
+    },
+    {
+      "name": "ES: Pequeñas Mentiras sin Importancia (2010)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/les_petits_mouchoirs-198222431-large.jpg"
+    },
+    {
+      "name": "ES: Paso de Ti (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/forgetting_sarah_marshall-369031019-large.jpg"
+    },
+    {
+      "name": "ES: Nunca Apagues la Luz (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/lights_out-975149105-large.jpg"
+    },
+    {
+      "name": "ES: Nueve Reinas (2000)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/nueve_reinas-699348153-large.jpg"
+    },
+    {
+      "name": "ES: Notorius (2009)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/notorious-527407546-large.jpg"
+    },
+    {
+      "name": "ES: No habra Paz para los Malvados (2011)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/no_habra_paz_para_los_malvados-813352092-large.jpg"
+    },
+    {
+      "name": "ES: No Culpes al Karma de lo que te Pasa por Gilipollas (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/no_culpes_al_karma_de_lo_que_te_pasa_por_gilipollas-981191583-large.jpg"
+    },
+    {
+      "name": "ES: Noche en el museo 2 (2009)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/night_at_the_museum_battle_of_the_smithsonian_night_at_the_museum_2-701499668-large.jpg"
+    },
+    {
+      "name": "ES: Next (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/next-247262667-large.jpg"
+    },
+    {
+      "name": "ES: Nada que Declarar (2010)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/rien_a_declarer-185270255-large.jpg"
+    },
+    {
+      "name": "ES: Morgan (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/morgan-253033665-large.jpg"
+    },
+    {
+      "name": "ES: Miercoles de Ceniza (2002)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/ash_wednesday-336594909-large.jpg"
+    },
+    {
+      "name": "ES: Match Point (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/match_point-659635277-large.jpg"
+    },
+    {
+      "name": "ES: Marginados",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_outcasts_aka_the_outskirts-872241257-large.jpg"
+    },
+    {
+      "name": "SE: Los 7 Magnificos (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_magnificent_seven-443535232-large.jpg"
+    },
+    {
+      "name": "ES: Los Seductores (2010)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/l_arnacoeur_heartbreaker-844927794-large.jpg"
+    },
+    {
+      "name": "ES: Los Rios De Color Purpura 2 - Los Angeles del Apocalipsis (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/les_rivieres_pourpres_2_les_anges_de_l_apocalypse-642135246-large.jpg"
+    },
+    {
+      "name": "ES: Los Rios De Color Purpura (2000)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/les_rivieres_pourpres-830367619-large.jpg"
+    },
+    {
+      "name": "ES: Los Padres de Ella (2000)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/meet_the_parents-266099830-large.jpg"
+    },
+    {
+      "name": "ES: Los Juegos Del Hambre (2012)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_hunger_games-634460284-large.jpg"
+    },
+    {
+      "name": "ES: Los Hombres Libres de Jones (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/free_state_of_jones-232671301-large.jpg"
+    },
+    {
+      "name": "ES: Los Conspiradores (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/marauders-928364756-large.jpg"
+    },
+    {
+      "name": "ES: Los 4 fantásticos y Silver Surfer (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/4_rise_of_the_silver_surfer_aka_fantastic_four_2_rise_of_the_silver_surfer-723536583-large.jpg"
+    },
+    {
+      "name": "ES: Maléfica (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/maleficent-536874079-large.jpg"
+    },
+    {
+      "name": "ES: Madres e Hijas (2009)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/mother_and_child-965073877-large.jpg"
+    },
+    {
+      "name": "ES: Plaga Final (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/pars_vite_et_reviens_tard_aka_seeds_of_death-645985220-large.jpg"
+    },
+    {
+      "name": "ES: The Cloverfield Paradox (2018)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_cloverfield_paradox-826341140-large.jpg"
+    },
+    {
+      "name": "ES: London Boulevard (2010)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/london_boulevard-618968052-large.jpg"
+    },
+    {
+      "name": "ES: La Vida de los Otros (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/das_leben_der_anderen-690972223-large.jpg"
+    },
+    {
+      "name": "ES: La Ultima Legion (2007",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_last_legion-990060019-large.jpg"
+    },
+    {
+      "name": "ES: La Sonrisa de Monalisa (2003)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/mona_lisa_smile-375591907-large.jpg"
+    },
+    {
+      "name": "ES: Las Cronicas de Riddick (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_chronicles_of_riddick-749247277-large.jpg"
+    },
+    {
+      "name": "ES: La Novia Cadaver (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/corpse_bride-106734407-large.jpg"
+    },
+    {
+      "name": "ES: La Novia (2015)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/la_novia-240801984-large.jpg"
+    },
+    {
+      "name": "ES: La Naranja Mecánica (1971)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/a_clockwork_orange-217137168-large.jpg"
+    },
+    {
+      "name": "ES: La Mujer de Negro (2012)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_woman_in_black-966659279-large.jpg"
+    },
+    {
+      "name": "ES: La Mujer de mi Hermano (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/la_mujer_de_mi_hermano-324354054-large.jpg"
+    },
+    {
+      "name": "ES: La Isla Mínima (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/la_isla_minima-276450591-large.jpg"
+    },
+    {
+      "name": "ES: Lady Bird (2017)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/lady_bird-546261513-large.jpg"
+    },
+    {
+      "name": "ES: La Chica del Tren (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_girl_on_the_train-798601258-large.jpg"
+    },
+    {
+      "name": "ES: La Casa del Lago (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_lake_house-732310561-large.jpg"
+    },
+    {
+      "name": "ES: La Búsqueda 2 - El Diario Secreto (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/national_treasure_book_of_secrets_national_treasure_2-130356887-large.jpg"
+    },
+    {
+      "name": "ES: La Brújula Dorada (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_golden_compass-175460716-large.jpg"
+    },
+    {
+      "name": "ES: La Autopsia de Jane Doe (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_autopsy_of_jane_doe-971501234-large.jpg"
+    },
+    {
+      "name": "ES: La Boda de mi Mejor Amiga (2011)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/bridesmaids-541248753-large.jpg"
+    },
+    {
+      "name": "ES: Juegos Secretos (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/little_children-606765561-large.jpg"
+    },
+    {
+      "name": "ES: Juegos de Mujer (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/head_in_the_clouds-445431189-large.jpg"
+    },
+    {
+      "name": "ES: Joker (2019)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/joker-790658206-large.jpg"
+    },
+    {
+      "name": "ES: It (2017)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/it-787119144-large.jpg"
+    },
+    {
+      "name": "ES: Isi Disi: Alto Voltaje (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/isi_disi_alto_voltaje-871369981-large.jpg"
+    },
+    {
+      "name": "ES: Intocable (2011)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/intouchables-958841650-large.jpg"
+    },
+    {
+      "name": "ES: Indiana Jones y El Reino de la Calavera de Cristal (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/indiana_jones_and_the_kingdom_of_the_crystal_skull_indiana_jones_4-517076534-large.jpg"
+    },
+    {
+      "name": "SE: Huracán Carter (1999)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_hurricane-707022241-large.jpg"
+    },
+    {
+      "name": "ES: Hollywoodland (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/hollywoodland-921689030-large.jpg"
+    },
+    {
+      "name": "ES: Historias de Manhattan (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/suburban_girl-709841696-large.jpg"
+    },
+    {
+      "name": "ES: Hercules (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/hercules-333429825-large.jpg"
+    },
+    {
+      "name": "ES: Hasta que el Cura nos Separe (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/license_to_wed-668394341-large.jpg"
+    },
+    {
+      "name": "ES: Hard Candy (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/hard_candy-359915234-large.jpg"
+    },
+    {
+      "name": "ES: Hancock (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/hancock-533756910-large.jpg"
+    },
+    {
+      "name": "ES: Conspiracion en la Red: Hackers 3 (2001)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/antitrust-651047721-large.jpg"
+    },
+    {
+      "name": "ES: Hablé con Ella (2002)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/hable_con_ella-304322590-large.jpg"
+    },
+    {
+      "name": "ES: Habana Blues (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/habana_blues-606822920-large.jpg"
+    },
+    {
+      "name": "ES: Guerra Mundial Z (2013)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/world_war_z-951783945-large.jpg"
+    },
+    {
+      "name": "ES: Gran Torino (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/gran_torino-278262332-large.jpg"
+    },
+    {
+      "name": "ES: Gladiator (versión extendida) (2000)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/gladiator-564554218-large.jpg"
+    },
+    {
+      "name": "ES: George y el Dragón (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/george_and_the_dragon-937585089-large.jpg"
+    },
+    {
+      "name": "ES: Gattaca (1997)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/gattaca-690490097-large.jpg"
+    },
+    {
+      "name": "ES: Fuego Cruzado (2012)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/fire_with_fire_aka_fwf-182935961-large.jpg"
+    },
+    {
+      "name": "ES: Factotum (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/factotum-604301286-mmed.jpg"
+    },
+    {
+      "name": "ES: Expediente Warren: El Caso Enfield (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_conjuring_2_the_enfield_poltergeist-134705690-large.jpg"
+    },
+    {
+      "name": "ES: Espias en la Sombra (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/les_femmes_de_l_ombre_female_agents-868808541-large.jpg"
+    },
+    {
+      "name": "ES: Espias desde el Cielo (2015)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/eye_in_the_sky-853496616-large.jpg"
+    },
+    {
+      "name": "ES: En tu Ausencia (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/en_tu_ausencia-989007300-large.jpg"
+    },
+    {
+      "name": "ES: Entre Copas (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/sideways-822269026-large.jpg"
+    },
+    {
+      "name": "ES: Angeles y Demonios (2009)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/angels_demons-909747639-large.jpg"
+    },
+    {
+      "name": "ES: En Algun Lugar De La Memoria (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/reign_over_me-403275730-large.jpg"
+    },
+    {
+      "name": "ES: El Ultimo Rey de Escocia (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_last_king_of_scotland-110637263-large.jpg"
+    },
+    {
+      "name": "ES: El Ultimatum de Bourne (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_bourne_ultimatum-350465074-large.jpg"
+    },
+    {
+      "name": "ES: El Septimo Hijo (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/seventh_son-850488994-large.jpg"
+    },
+    {
+      "name": "ES: El Reportero, La Leyenda de Ron Burgundy (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/anchorman_the_legend_of_ron_burgundy-179598326-large.jpg"
+    },
+    {
+      "name": "ES: El Príncipe de las Mareas (1991)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_prince_of_tides-579669069-large.jpg"
+    },
+    {
+      "name": "ES: El Piano (1993)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_piano-650896747-large.jpg"
+    },
+    {
+      "name": "ES: El Pianista (2002)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_pianist_le_pianiste-330395364-large.jpg"
+    },
+    {
+      "name": "ES: El Padrino (1972)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_godfather-529853536-large.jpg"
+    },
+    {
+      "name": "ES: El Niño con el Pijama de Rayas (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_boy_in_the_striped_pajamas-202478380-large.jpg"
+    },
+    {
+      "name": "ES: El Mito de Bourne (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_bourne_supremacy-647132610-large.jpg"
+    },
+    {
+      "name": "ES: El Mensajero (Snitch) (2013)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/snitch-430171398-large.jpg"
+    },
+    {
+      "name": "ES: El Maquinista (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_machinist-983158194-large.jpg"
+    },
+    {
+      "name": "ES: El Lobo de Wall Street (2013)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_wolf_of_wall_street-333927390-large.jpg"
+    },
+    {
+      "name": "ES: El Llanero Solitario (2013)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_lone_ranger-250756862-large.jpg"
+    },
+    {
+      "name": "ES: El Libro Negro (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/zwartboek_black_book-831085184-large.jpg"
+    },
+    {
+      "name": "ES: El Juego de los Errores (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/comeback_season-127244795-large.jpg"
+    },
+    {
+      "name": "ES: El Juego del Ahorcado (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/el_juego_del_ahorcado-584321886-large.jpg"
+    },
+    {
+      "name": "ES: El Jefe (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_man-286022729-large.jpg"
+    },
+    {
+      "name": "ES: El Indomable Will Hunting (1997)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/good_will_hunting-314886796-large.jpg"
+    },
+    {
+      "name": "El Gran Stan : El Matón de la Prisión (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/big_stan-945915466-large.jpg"
+    },
+    {
+      "name": "ES: El Diario de Noa (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_notebook-242272771-large.jpg"
+    },
+    {
+      "name": "ES: El Destino de Júpiter (2015)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/jupiter_ascending-967680151-large.jpg"
+    },
+    {
+      "name": "ES: El Curioso Caso de Benjamin Button (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_curious_case_of_benjamin_button-876896655-large.jpg"
+    },
+    {
+      "name": "ES: El Contable (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_accountant-311988539-large.jpg"
+    },
+    {
+      "name": "ES: El Caso Slevin (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/lucky_number_slevin_lucky_slevin-234904504-large.jpg"
+    },
+    {
+      "name": "ES: El Caso Bourne (2002)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_bourne_identity-371726827-large.jpg"
+    },
+    {
+      "name": "ES: El Caballero Oscuro : La Leyenda Renace (2012)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_dark_knight_rises-651370079-large.jpg"
+    },
+    {
+      "name": "ES: Efecto Lázaro (2015)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_lazarus_effect-935651094-large.jpg"
+    },
+    {
+      "name": "ES: Dios Mio, ¿Pero que te hemos hecho? (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/qu_est_ce_qu_on_a_fait_au_bon_dieu-314930836-large.jpg"
+    },
+    {
+      "name": "ES: Desmadre Vacacional (2009)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/spring_breakdown-504743176-large.jpg"
+    },
+    {
+      "name": "ES: Desde que Amanece Apetece (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/desde_que_amanece_apetece-232300260-large.jpg"
+    },
+    {
+      "name": "ES: Descubriendo Nunca Jamás (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/finding_neverland-227221806-large.jpg"
+    },
+    {
+      "name": "ES: Descubriendo a Forrester (2000)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/finding_forrester-566516383-large.jpg"
+    },
+    {
+      "name": "ES: Deja vu (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/deja_vu-178051318-large.jpg"
+    },
+    {
+      "name": "ES: Indigenes (Days of Glory) (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/indigenes-927504310-large.jpg"
+    },
+    {
+      "name": "ES: Pi, Fe en el Caos",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/pi_faith_in_chaos-886013167-large.jpg"
+    },
+    {
+      "name": "ES: Dando la Nota - Aún más Alto (2015)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/pitch_perfect_2-730039735-large.jpg"
+    },
+    {
+      "name": "ES: Cuando Eramos Soldados (2002)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/we_were_soldiers-553297297-large.jpg"
+    },
+    {
+      "name": "ES: Ocean's 13 (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTMyNTc1NzY5MV5BMl5BanBnXkFtZTcwNDM4NTQzMw@@._V1_.jpg"
+    },
+    {
+      "name": "ES: Crash (2004)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/crash-188278466-large.jpg"
+    },
+    {
+      "name": "ES: Crepusculo (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/twilight-178061504-large.jpg"
+    },
+    {
+      "name": "ES: Corazones de Acero (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/fury-290554861-large.jpg"
+    },
+    {
+      "name": "ES: Un Atraco 5 Estrellas (Cool Money) (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/cool_money_tv-134485483-large.jpg"
+    },
+    {
+      "name": "ES: Cegados por el Deseo (Closer) (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/closer-637452415-large.jpg"
+    },
+    {
+      "name": "ES: Cinderella Man (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/cinderella_man-315615226-large.jpg"
+    },
+    {
+      "name": "ES: Caperucita Roja (2011)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/red_riding_hood-352340506-large.jpg"
+    },
+    {
+      "name": "ES: Brokeback Mountain (2005)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/brokeback_mountain-409244136-large.jpg"
+    },
+    {
+      "name": "ES:  Brimstone La Hija Del Predicador (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/brimstone-859310224-large.jpg"
+    },
+    {
+      "name": "ES: Blancanieves y la leyenda del cazador (2012)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/snow_white_and_the_huntsman-977987251-large.jpg"
+    },
+    {
+      "name": "ES: Batman : El Caballero Oscuro (2008)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_dark_knight-102763119-large.jpg"
+    },
+    {
+      "name": "ES: Barcelona, Noche de Invierno (2015)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/barcelona_nit_d_hivern-888846186-large.jpg"
+    },
+    {
+      "name": "ES: Avatar (2009)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/avatar-619571521-large.jpg"
+    },
+    {
+      "name": "ES: Asterix: La residencia de los dioses (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/asterix_le_domaine_des_dieux-609407969-large.jpg"
+    },
+    {
+      "name": "ES: A Scanner Darkly :Una mirada a la oscuridad (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/a_scanner_darkly-756347192-large.jpg"
+    },
+    {
+      "name": "ES: Animales Nocturnos (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/nocturnal_animals-599385687-large.jpg"
+    },
+    {
+      "name": "ES: Angel de la Muerte (2009)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/angel_of_death_aka_ed_brubaker_s_angel_of_death-955466890-large.jpg"
+    },
+    {
+      "name": "ES: Alien Covenant (2017)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/alien_covenant-949552389-large.jpg"
+    },
+    {
+      "name": "ES: Barcelona, Noche de Verano (2013)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/barcelona_nit_d_estiu-896953196-large.jpg"
+    },
+    {
+      "name": "ES: Alicia a Través del Espejo (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/alice_through_the_looking_glass-474064388-large.jpg"
+    },
+    {
+      "name": "ES: Alguien voló sobre el nido del cuco (1975)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/one_flew_over_the_cuckoo_s_nest-886138071-large.jpg"
+    },
+    {
+      "name": "ES: Airbender, el Ultimo Guerrero (2010)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_last_airbender-732487161-large.jpg"
+    },
+    {
+      "name": "ES: 2012 (2009)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/2012-144722286-large.jpg"
+    },
+    {
+      "name": "ES: 500 Dias Juntos (2009)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/500_days_of_summer-824863781-large.jpg"
+    },
+    {
+      "name": "ES: 28 Semanas Después (2007)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/28_weeks_later-147251709-large.jpg"
+    },
+    {
+      "name": "ES: 21 Gramos (2003)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/21_grams-911591219-large.jpg"
+    },
+    {
+      "name": "ES: 12 Monos (1995)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/twelve_monkeys_12_monkeys-852086665-large.jpg"
+    },
+    {
+      "name": "ES: Piratas de Silicon Valley - TV Movie (1999)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/pirates_of_silicon_valley-531424913-large.jpg"
+    },
+    {
+      "name": "The Child in Time (2018)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4bJtOuloUb495V2EWeSQC0VXP3.jpg"
+    },
+    {
+      "name": "ES: Un Lugar Tranquilo 2 (2020)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/a_quiet_place_part_ii-341732611-large.jpg"
+    },
+    {
+      "name": "ES: Un franco, 14 pesetas (2006)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/un_franco_14_pesetas-583288684-large.jpg"
+    },
+    {
+      "name": "ES: Predestination (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/predestination-972600742-large.jpg"
+    },
+    {
+      "name": "ES: Contagion (2018)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/contagion-837044598-large.jpg"
+    },
+    {
+      "name": "ES: Malevolent (2018)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg"
+    },
+    {
+      "name": "ES: Looper (2012)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/looper-874353819-large.jpg"
+    },
+    {
+      "name": "ES: La Monja (2018)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_nun-167259563-large.jpg"
+    },
+    {
+      "name": "ES: La Huesped (2013)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_host-410505663-large.jpg"
+    },
+    {
+      "name": "ES: La gran muralla (2016)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_great_wall-427350792-large.jpg"
+    },
+    {
+      "name": "ES:  Expediente Warren : The conjuring (2013)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_conjuring_the_warren_files-153245956-large.jpg"
+    },
+    {
+      "name": "ES: En Realidad Nunca Estuviste Aqui (2017)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/you_were_never_really_here-262591094-large.jpg"
+    },
+    {
+      "name": "ES: El Orfanato (2017)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/el_orfanato-559183806-large.jpg"
+    },
+    {
+      "name": "ES: Eduardo Manostijeras (1999)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/edward_scissorhands-367797250-large.jpg"
+    },
+    {
+      "name": "ES: Dr. Strange (1978)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg"
+    },
+    {
+      "name": "ES: Champions (2018)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5z4Ud6Ya5EY3Eg3OBbVBaDKWK.jpg"
+    },
+    {
+      "name": "ES: Bajocero (2021)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/bajocero-777287160-large.jpg"
+    },
+    {
+      "name": "ES: Annabelle: Creation (2017)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg"
+    },
+    {
+      "name": "ES: Anabelle (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://pics.filmaffinity.com/annabelle-671994408-large.jpg"
+    },
+    {
+      "name": "ES: The Purge: Anarchy (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://m.media-amazon.com/images/I/81sJJlnmP8L._SL1200_.jpg"
+    },
+    {
+      "name": "ES: Wonder Woman 1984 (2020)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg"
+    },
+    {
+      "name": "ES: American Pie (1999)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMprGx972sf1TCI8gZUIVkicSHc.jpg"
+    },
+    {
+      "name": "ES: Ad Astra (2019)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "https://www.videooca.com/140194-thickbox_default_2x/ad-astra-reacondicionado.jpg"
+    },
+    {
+      "name": "ES: 2 Francs, 40 Pesetas (2014)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "http://sp0.cinedor.es/794/cartel-2-francos-40-pesetas-2-575.jpg"
+    },
+    {
+      "name": "ES: Un Lugar Tranquilo (2018)",
+      "group": "ES - Películas en Español Spain Movies",
+      "logo": "http://www.nochedecine.com/wp-content/uploads/2021/05/nt_21_Un-lugar-tranquilo-2-interior.jpg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "package": "world",
+  "name": "AR - SSC Live - Sports.",
+  "groupIndex": 167,
+  "totalChannels": 3,
+  "channels": [
+    {
+      "name": "SSC Sports 1 HEVC HD  (101-SERVERS)",
+      "group": "AR - SSC Live - Sports.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/32407510241.png"
+    },
+    {
+      "name": "SSC Sports 2 HEVC HD  (101-SERVERS)",
+      "group": "AR - SSC Live - Sports.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/85892504761.png"
+    },
+    {
+      "name": "SSC Sports 3 HEVC HD  (101-SERVERS)",
+      "group": "AR - SSC Live - Sports.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/18330074101.png"
+    }
+  ]
+}

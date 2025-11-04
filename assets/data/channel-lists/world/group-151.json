@@ -1,0 +1,838 @@
+{
+  "package": "world",
+  "name": "USA - Regional - Live.",
+  "groupIndex": 151,
+  "totalChannels": 166,
+  "channels": [
+    {
+      "name": "USA:  FOX FL JACKSONVILLE WFOX  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/3611c044f93c15c03ee4dd5f003e9c19.png"
+    },
+    {
+      "name": "USA: ABC ORLANDO WFTV  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/6828ba7291fcb66a6e91171794c5a0f5.png"
+    },
+    {
+      "name": "USA: CBS FL JACKSONVILLE WJAX  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/de87c7a01e910dfe08ff0d619dba046e.png"
+    },
+    {
+      "name": "USA: CBS FL ORLANDO WKMG  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/51d99cf3532084de9fda6260100bdaa5.png"
+    },
+    {
+      "name": "USA: CBS Los Angeles, CA KCBS  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/ebe2420926c92f2b63f31f9ec01c2e11.png"
+    },
+    {
+      "name": "USA: FOX FL ORLANDO WOFL  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxwoflorlandofl.png"
+    },
+    {
+      "name": "USA: FOX MI DETROIT WJBK  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/d46c2aded2cc83e84a786c655a02834e.png"
+    },
+    {
+      "name": "USA: NBC FL JACKSONVILLE WTLV  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/37c9b4228b267f83fe7436c5b85bb876.png"
+    },
+    {
+      "name": "USA: NBC TX JACKSONVILLE KETK  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/e315bfb883856fbf38fb829ea45594b1.png"
+    },
+    {
+      "name": "US: Fox houston  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxhouston.png"
+    },
+    {
+      "name": "US: ABC (wls) Chicago HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "US: ABC 7 (detroit) HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/abc7.png"
+    },
+    {
+      "name": "US: ABC 7 (NEW York) | HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/abc7.png"
+    },
+    {
+      "name": "US: ABC 7 NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/86915269271.png"
+    },
+    {
+      "name": "US: ABC Albany GA WALB  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/63f987ee0b9563b5765cff9d4ce676f2.png"
+    },
+    {
+      "name": "US: ABC Baltimore MD WMAR HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/49452212491.png"
+    },
+    {
+      "name": "US: ABC Columbus, OH WSYX HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/89527340921.png"
+    },
+    {
+      "name": "US: ABC Dallas HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/79268397751.png"
+    },
+    {
+      "name": "US: ABC Detroit MI WXYZ HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19134461781.png"
+    },
+    {
+      "name": "US: ABC Durham, NC WTVD HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/981ab4f0c829ab308fd875ffabc3307c.png"
+    },
+    {
+      "name": "US: ABC Fresno HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/63068931241.png"
+    },
+    {
+      "name": "US: ABC Jacksonville HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/6c37c768eb237d1f92596b60ad21a96a.png"
+    },
+    {
+      "name": "US: ABC LOS Angeles HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/abclosangeles.png"
+    },
+    {
+      "name": "US: ABC Miami  FL  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/55256840111.png"
+    },
+    {
+      "name": "US: ABC NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/abcnewyork.png"
+    },
+    {
+      "name": "US: ABC Philadelphia HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/abcphiladelphia.png"
+    },
+    {
+      "name": "US: ABC SAN Francisco HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/33686536371.png"
+    },
+    {
+      "name": "US: ABC ST Louis MO KDNL HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/21578895301.png"
+    },
+    {
+      "name": "US: ABC Washington, DC WJLA  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/abcwashingtondcwjla.png"
+    },
+    {
+      "name": "US: ABC Wten  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/abcwten.png"
+    },
+    {
+      "name": "US: Bally Sports Detroit HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsdetroit.png"
+    },
+    {
+      "name": "US: Bally Sports Kansas CITY HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportskansascity.png"
+    },
+    {
+      "name": "US: Bally Sports NEW Orleans PLUS HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsneworleansplus.png"
+    },
+    {
+      "name": "US: BALLY SPORTS WISCONSIN  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportswisconsin.png"
+    },
+    {
+      "name": "US: CBS 2 New York  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbs2newyork.png"
+    },
+    {
+      "name": "US: CBS Atlanta HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsatlanta.png"
+    },
+    {
+      "name": "US: CBS Boston HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsboston.png"
+    },
+    {
+      "name": "US: CBS Chicago HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbschicago.png"
+    },
+    {
+      "name": "US: CBS Columbus OH WBNS HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/90927170971.png"
+    },
+    {
+      "name": "US: CBS Dallas HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsdallas.png"
+    },
+    {
+      "name": "US: CBS Detroit, MI WWJ  HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/18200997331.png"
+    },
+    {
+      "name": "US: CBS FORT Myers HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/bd6e20cb6c9db3164329281c19cfccbd.png"
+    },
+    {
+      "name": "US: CBS Greensboro HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsgreensboro.png"
+    },
+    {
+      "name": "US: CBS Hartford HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbshartford.png"
+    },
+    {
+      "name": "US: CBS Jacksonville HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsjacksonville.png"
+    },
+    {
+      "name": "US: CBS Miami HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsmiami.png"
+    },
+    {
+      "name": "US: CBS Milwaukee HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsmilwaukee.png"
+    },
+    {
+      "name": "US: CBS NEWS NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsnewsnewyork.png"
+    },
+    {
+      "name": "US: CBS Orlando HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsorlando.png"
+    },
+    {
+      "name": "US: CBS Philadelphia HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsphiladelphia.png"
+    },
+    {
+      "name": "US: CBS Pittsburgh KDKA FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/45695825271.png"
+    },
+    {
+      "name": "US: CBS Pittsburgh PA KDKA HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/21457058911.png"
+    },
+    {
+      "name": "US: CBS Sacramento HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbssacramento.png"
+    },
+    {
+      "name": "US: CBS SAN Antonio HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbssanantonio.png"
+    },
+    {
+      "name": "US: CBS SAN Francisco HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/91496559961.png"
+    },
+    {
+      "name": "US: CBS Sport HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/93417846491.png"
+    },
+    {
+      "name": "US: CBS Sports Network HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbssportsnetwork.png"
+    },
+    {
+      "name": "US: CBS ST Louis HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbsstlouis.png"
+    },
+    {
+      "name": "US: CBS WEST PALM Beach HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/cbswestpalmbeach.png"
+    },
+    {
+      "name": "US: FOX 5 NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/24914068251.png"
+    },
+    {
+      "name": "US: FOX Atlanta HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxatlanta.png"
+    },
+    {
+      "name": "US: FOX Boston HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxboston.png"
+    },
+    {
+      "name": "US: FOX Boston HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxboston.png"
+    },
+    {
+      "name": "US: FOX Buffalo HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxbuffalo.png"
+    },
+    {
+      "name": "US: FOX Chicago HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxchicago.png"
+    },
+    {
+      "name": "US: FOX College Sports Pacific HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxcollegesportspacific.png"
+    },
+    {
+      "name": "US: FOX Columbus HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxcolumbus.png"
+    },
+    {
+      "name": "US: FOX Columbus OH WTTE HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/11442413581.png"
+    },
+    {
+      "name": "US: FOX Dallas HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxdallas.png"
+    },
+    {
+      "name": "US: FOX Deportes HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxdeportes.png"
+    },
+    {
+      "name": "US: FOX Hartford HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxhartford.png"
+    },
+    {
+      "name": "US: FOX Jacksonville HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxjacksonville.png"
+    },
+    {
+      "name": "US: FOX LOS Angeles HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxlosangeles.png"
+    },
+    {
+      "name": "US: FOX Miami HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxmiami.png"
+    },
+    {
+      "name": "US: FOX Nashville HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxnashville.png"
+    },
+    {
+      "name": "US: FOX NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxnewyork.png"
+    },
+    {
+      "name": "US: FOX Ocala HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxocala.png"
+    },
+    {
+      "name": "US: FOX Orlando HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxorlando.png"
+    },
+    {
+      "name": "US: FOX Philadelphia PA WTXF HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/35298840181.png"
+    },
+    {
+      "name": "US: FOX Pittsburgh HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxpittsburgh.png"
+    },
+    {
+      "name": "US: FOX Raleigh HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxraleigh.png"
+    },
+    {
+      "name": "US: FOX SALT LAKE CITY HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxsaltlakecity.png"
+    },
+    {
+      "name": "US: FOX SAN Francisco HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxsanfrancisco.png"
+    },
+    {
+      "name": "US: FOX Sports 1 HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports1.png"
+    },
+    {
+      "name": "US: FOX Sports Arizona HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportsarizona.png"
+    },
+    {
+      "name": "US: FOX Sports Detroit HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportsdetroit.png"
+    },
+    {
+      "name": "US: FOX Sports Detroit HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportsdetroit.png"
+    },
+    {
+      "name": "US: FOX Sports Florida HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportsflorida.png"
+    },
+    {
+      "name": "US: FOX Sports OHIO HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportsohio.png"
+    },
+    {
+      "name": "US: FOX Sports Oklahoma HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportsoklahoma.png"
+    },
+    {
+      "name": "US: FOX Tampa HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/foxtampa.png"
+    },
+    {
+      "name": "US: FOX Washington, DC WTTG  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/48bdd553c105d0f1ef07a7d60d18c55b.png"
+    },
+    {
+      "name": "US: Global Calgary  HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c8cf818389f2a48cb2b22d4233863a8e.png"
+    },
+    {
+      "name": "US: NBC 4 NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/22606508391.png"
+    },
+    {
+      "name": "US: NBC 6 Miami FL HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/29321828561.png"
+    },
+    {
+      "name": "US: NBC Albany, GA WALB  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/407b0ab269d5bf9be0f98fd9b70be38d.png"
+    },
+    {
+      "name": "US: NBC Atlanta TV FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19967428081.png"
+    },
+    {
+      "name": "US: NBC Augusta HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/30787370541.png"
+    },
+    {
+      "name": "US: NBC Charlotte HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbccharlotte.png"
+    },
+    {
+      "name": "US: NBC Cincinnati HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbccincinnati.png"
+    },
+    {
+      "name": "US: NBC Cincinnati HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbccincinnati.png"
+    },
+    {
+      "name": "US: NBC Dallas FORT Worth HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/35402964031.png"
+    },
+    {
+      "name": "US: NBC FORT Myers HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/927d6b0415d239b5782da28991a15559.png"
+    },
+    {
+      "name": "US: NBC GOLF HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcgolf.png"
+    },
+    {
+      "name": "US: NBC Hartford HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbchartford.png"
+    },
+    {
+      "name": "US: NBC Jacksonville HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcjacksonville.png"
+    },
+    {
+      "name": "US: NBC Jacksonville HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcjacksonville.png"
+    },
+    {
+      "name": "US: NBC LOS Angeles HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbclosangeles.png"
+    },
+    {
+      "name": "US: NBC NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcnewyork.png"
+    },
+    {
+      "name": "US: NBC Portland HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcportland.png"
+    },
+    {
+      "name": "US: NBC SAN Diego HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsandiego.png"
+    },
+    {
+      "name": "US: NBC SAN Francisco HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsanfrancisco.png"
+    },
+    {
+      "name": "US: NBC Seattle HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcseattle.png"
+    },
+    {
+      "name": "US: NBC Sports Boston  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsportsboston.png"
+    },
+    {
+      "name": "US: NBC Sports California  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsportscalifornia.png"
+    },
+    {
+      "name": "US: NBC Sports Chicago HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsportschicago.png"
+    },
+    {
+      "name": "US: NBC Sports Northwest HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsportsnorthwest.png"
+    },
+    {
+      "name": "US: NBC Sports Philadelphia PLUS HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsportsphiladelphiaplus.png"
+    },
+    {
+      "name": "US: NBC Washington HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcwashington.png"
+    },
+    {
+      "name": "US: NBC Washington, DC WRC  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcwashingtondcwrc.png"
+    },
+    {
+      "name": "US: Nbcsn BAY AREA HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsnbayarea.png"
+    },
+    {
+      "name": "US: Nbcsn FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsn.png"
+    },
+    {
+      "name": "US: Nbcsn HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/nbcsn.png"
+    },
+    {
+      "name": "US: NEWS 12 - Bronx HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/news12bronx.png"
+    },
+    {
+      "name": "US: NEWS 12 NEW Jersey HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/news12newjersey.png"
+    },
+    {
+      "name": "US: Oprah Winfrey Network HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/oprahwinfreynetwork.png"
+    },
+    {
+      "name": "USA; ABC Orlando  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/abcorlando.png"
+    },
+    {
+      "name": "US: Orlando NBC WESH HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/38820667411.png"
+    },
+    {
+      "name": "US: Showtime 2 WEST HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtime2west.png"
+    },
+    {
+      "name": "US: Showtime Beyond HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtimebeyond.png"
+    },
+    {
+      "name": "US: Showtime EAST FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtime.png"
+    },
+    {
+      "name": "US: Showtime EAST HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtime.png"
+    },
+    {
+      "name": "US: Showtime Extreme HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtimeextreme.png"
+    },
+    {
+      "name": "US: Showtime NEXT EAST HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtimenext.png"
+    },
+    {
+      "name": "US: Showtime Showcase EAST FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtimeshowcase.png"
+    },
+    {
+      "name": "US: Showtime Showcase HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtimeshowcase.png"
+    },
+    {
+      "name": "US: Showtime WEST FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtimewest.png"
+    },
+    {
+      "name": "US: Showtime Women EAST HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/showtimewomen.png"
+    },
+    {
+      "name": "US: Starz Cinema EAST FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzcinema.png"
+    },
+    {
+      "name": "US: Starz Comedy EAST FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzcomedy.png"
+    },
+    {
+      "name": "US: Starz Comedy FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzcomedy.png"
+    },
+    {
+      "name": "US: Starz EDGE FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzedge.png"
+    },
+    {
+      "name": "US: Starz Encore Action HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzencoreaction.png"
+    },
+    {
+      "name": "US: Starz Encore Black HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzencoreblack.png"
+    },
+    {
+      "name": "US: Starz Encore Classic HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzencoreclassic.png"
+    },
+    {
+      "name": "US: Starz Encore EAST HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzencore.png"
+    },
+    {
+      "name": "US: Starz Encore Family HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzencorefamily.png"
+    },
+    {
+      "name": "US: Starz Encore HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzencore.png"
+    },
+    {
+      "name": "US: Starz Encore Suspense HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzencoresuspense.png"
+    },
+    {
+      "name": "US: Starz Encore WEST HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzencorewest.png"
+    },
+    {
+      "name": "US: Starz Encore Westerns HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzencorewesterns.png"
+    },
+    {
+      "name": "US: Starz IN Black EAST FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzblack.png"
+    },
+    {
+      "name": "US: Starz Kids&family EAST FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzkidsfamily.png"
+    },
+    {
+      "name": "US: Starz WEST FHD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/starzwest.png"
+    },
+    {
+      "name": "US: Telemundo Boston HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/telemundoboston.png"
+    },
+    {
+      "name": "US: Telemundo Fresno HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/telemundofresno.png"
+    },
+    {
+      "name": "US: Telemundo LAS Vegas HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/telemundolasvegas.png"
+    },
+    {
+      "name": "US: Telemundo LOS Angeles HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/telemundolosangeles.png"
+    },
+    {
+      "name": "US: Telemundo Miami HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/telemundomiami.png"
+    },
+    {
+      "name": "US: Telemundo NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "https://logo.m3uassets.com/telemundonewyork.png"
+    },
+    {
+      "name": "US: Telemundo Orlando, HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/970d1d0f850d27d31cfcf25cb2040646.png"
+    },
+    {
+      "name": "US: WCBS 2 New York  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c65b649a581c0bda75977f32cd95d416.png"
+    },
+    {
+      "name": "US: WPIX 11 NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/82369606891.png"
+    },
+    {
+      "name": "US: Fox Little Rock Arkansas KLRT TV  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/6ee843bf2611ee1861a9e240e111e8fe.png"
+    },
+    {
+      "name": "US: CBS Little Rock Arkansas KTHV TV  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0d2418f32575964c1bd2cd60bf95e742.png"
+    },
+    {
+      "name": "US: NBC Little Rock Arkansas KARK TV  (101-SERVERS)",
+      "group": "USA - Regional - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/49efbfc52f0bf4304cfc85e698168e64.png"
+    }
+  ]
+}

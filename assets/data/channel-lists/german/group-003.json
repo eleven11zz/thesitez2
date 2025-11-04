@@ -1,0 +1,1023 @@
+{
+  "package": "german",
+  "name": "DE - 24x7 Germany - Exclusive.",
+  "groupIndex": 3,
+  "totalChannels": 203,
+  "channels": [
+    {
+      "name": "DE : BlueTV  9.1.1  7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  BATWOMAN  7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  BLACK SAILS  7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  BRITANNIA   7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  DEUTSCHLAND   7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  ENTOURAGE  7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  GOMHORRA 7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  GREYS  ANATOMY  7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  HARLOTS 7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  LIKE ME  7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  POWER 7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  SQUID GAME ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV  TRUE BLOOD  7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV BALLERS  7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE : BlueTV Jerks 7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: ADRIANO CELENTANO HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV   S.W.A.T  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  ALEX RIDER  7/24  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  ALLE HASSEN CHRIS  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  AMERICAN HORROR STORY 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  AMERICAN HOUSEWIFE  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  AVATAR  ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  BABY LOONEY TUNES  ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  BABYLON BERLIN 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  BAKI ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  BATMAN of THE FUTURE ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  BOSCH 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  BREAKING BAD  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  CAPTAIN TSUBASA  ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  CASPER ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  COMMUNITY  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  DARK 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  DEDEKTIVE CONAN ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  DIE  RACCONS ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  DIE MASKE ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  DORORO ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  DRAGON BALL Z Kai ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  ELITE  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  HANNIBAL 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  HAUS DES GELDES  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  HOW I MET YOUR MOTHER  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  KEVIN CAN'T WAIT  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  KINDER  1 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  KINDER  3 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  KINDER  5 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  KINDER  6 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  KINDER  8 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  KINDER  9 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  KINDER 10 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  KINDER 2 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  LOST 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  MODERN FAMILY 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  MR.ROBOT  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  NARCOS  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  NAVY CIS 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  NEW GIRL  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  NEW SPIDER MAN  ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  PRISON BREAK  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  ROBIN HOOD ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  SCOOBY DOO ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  SEX and THE CITY  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  START UP   24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  SUITS 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  SUPERNATURAL 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  THE 100 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  THE KING of QUEENS 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  THE NIGHT SHIFT   24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  THE WALKING DEAD  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  TOM and JERRY  ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  TWO and HALF MEN  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  VAN HELSING  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  VIKINGS 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  YOGIBAR  SHOW ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV  ZOO 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4  BLOCKS  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K ABENTEUER  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K ACTION  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K BOLLYWOOD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K DOCU  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K DRAMA  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K FAMILIE  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K FANTASY  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K HISTORIE  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K HORROR  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K KARATE  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K KOMÖDIE  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K KRIEGSFILM  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K KRIMI  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K LIEBESFILM  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K MYSTERY  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K SCI-FI  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K THRILLER  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV 4K WESTERN  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV ABENTEUER ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV ACTION 1 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV ACTION 2 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV ACTION 3 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV BOLLYWOOD ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV BUD SPENCER 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV DRAMA 2 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV DRAMA 3 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV DRAMA ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV FAMILIE 1 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV FAMILIE 2 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV FANTASY ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV GAME of THRONES  24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV HORROR  2 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV HORROR 1 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV HORROR 3 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV KARATE 1 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV KARATE 2 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV KOMODIE 2 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV KOMODIE 3 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV KOMODIE ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV KRIEGSFILM ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV KRIMI 2 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV KRIMI ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV LIEBESFILM 2 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV MARVEL ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV SCIENCE-FICTION ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV SPIDER-MAN HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV Sponge Bob  ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV THRILLER 2 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV THRILLER 3 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV THRILLER ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV WESTERN HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: BlueTV X-MEN HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: DE: BlueTV INDIANA JONES 24/7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: JASON STATHAM HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/jasonstatham.png"
+    },
+    {
+      "name": "DE: MAX 007 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: MAX KINO  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxkino.png"
+    },
+    {
+      "name": "DE: MAX KINO 2  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxkino2.png"
+    },
+    {
+      "name": "DE: MAX KINO 3  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxkino3.png"
+    },
+    {
+      "name": "DE: MAX KINO 4 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: MAX KINO 5 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: MAX KINO COLLECTION  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: MAX PLUS HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: MAX Premiere HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: MAX SELECT  1 4K  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect1.png"
+    },
+    {
+      "name": "DE: MAX SELECT  2 4K  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect2.png"
+    },
+    {
+      "name": "DE: MAX SELECT  3 4K  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect3.png"
+    },
+    {
+      "name": "DE: MAX SELECT 4  4K  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect4.png"
+    },
+    {
+      "name": "DE: MAX SELECT HD 1  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect1.png"
+    },
+    {
+      "name": "DE: MAX SELECT HD 2  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect2.png"
+    },
+    {
+      "name": "DE: MAX SELECT HD 3  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect3.png"
+    },
+    {
+      "name": "DE: MAX SELECT HD 4  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect4.png"
+    },
+    {
+      "name": "DE: MAX SELECT HD 5  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect5.png"
+    },
+    {
+      "name": "DE: MAX SELECT HD 6  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: MAX SELECT HD 7  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/maxselect7.png"
+    },
+    {
+      "name": "DE: MAX STAR WARS HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX 1 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX 2 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX 3 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX 4 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX 5 ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Abenteuer ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Action ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Animation ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Dokumentarfilm ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Familie ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Horror ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/netflixhorror.png"
+    },
+    {
+      "name": "DE: NETFLIX Komodie ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Krımı ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Romantısch ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Scıence-Fıctıon ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: NETFLIX Thriller ʜᴅ  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX ABENTEUER HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX ACTION HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX BOLLYWOOD HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX DOCU HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX DRAMA HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX FAMILIE HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX FANTASY HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX HISTORIE HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX HORROR HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX KARATE HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX KOMODIE HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX KRIEGSFILM HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX KRIMI HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX LIEBESFILM HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX MYSTERY HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX PREMIEREN 1 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX PREMIEREN 2 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX PREMIEREN 3 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX PREMIEREN 4 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX PREMIEREN 5 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX PREMIEREN 6 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX PREMIEREN 7 HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX SCI-FI HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX THRILLER HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY BOX WESTERN HD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY SELECT  1 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect1.png"
+    },
+    {
+      "name": "DE: SKY SELECT  3 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect3.png"
+    },
+    {
+      "name": "DE: SKY SELECT  PROGRAMMUBERSICHT  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    },
+    {
+      "name": "DE: SKY SELECT 10 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect10.png"
+    },
+    {
+      "name": "DE: SKY SELECT 2 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect2.png"
+    },
+    {
+      "name": "DE: SKY SELECT 4 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect4.png"
+    },
+    {
+      "name": "DE: SKY SELECT 5 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect5.png"
+    },
+    {
+      "name": "DE: SKY SELECT 6 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect6.png"
+    },
+    {
+      "name": "DE: SKY SELECT 7 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect7.png"
+    },
+    {
+      "name": "DE: SKY SELECT 8 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect8.png"
+    },
+    {
+      "name": "DE: SKY SELECT 9 FHD  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "https://logo.m3uassets.com/skyselect9.png"
+    },
+    {
+      "name": "ROCKY  (101-SERVERS)",
+      "group": "DE - 24x7 Germany - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png"
+    }
+  ]
+}

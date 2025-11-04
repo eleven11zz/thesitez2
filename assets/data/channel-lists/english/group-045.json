@@ -1,0 +1,608 @@
+{
+  "package": "english",
+  "name": "USA - NBC Regionals.",
+  "groupIndex": 45,
+  "totalChannels": 120,
+  "channels": [
+    {
+      "name": "USA | NBC Albany, NY WNYTⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcalbanyny.png"
+    },
+    {
+      "name": "USA | NBC Albuquerque, NM KOBⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc4albuquerquenmkob.png"
+    },
+    {
+      "name": "USA | NBC Alexandria, LA KALBⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/alexandrialanbckalb.png"
+    },
+    {
+      "name": "USA | NBC Amarillo, TX KAMRⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc4amarillotxkamr.png"
+    },
+    {
+      "name": "USA | NBC Anchorage, AL KTUUⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcanchorageak.png"
+    },
+    {
+      "name": "USA | NBC Atlanta, GA WXIAⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcwxiaatlanta.png"
+    },
+    {
+      "name": "USA | NBC Austin, TX KXANⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc36austintxkxan.png"
+    },
+    {
+      "name": "USA | NBC Baltimore, MD WBALⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcbaltimore.png"
+    },
+    {
+      "name": "USA | NBC Bangor, ME WLBZⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/bangornbcwlbz.png"
+    },
+    {
+      "name": "USA | NBC Bend, OR KTVZⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/bendornbcktvz.png"
+    },
+    {
+      "name": "USA | NBC Billings, MT KULRⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcbillingsmt.png"
+    },
+    {
+      "name": "USA | NBC Binghamton, NY WBGHⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/binghamtonnycbswbng.png"
+    },
+    {
+      "name": "USA | NBC Birmingham, AL WVTMⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/birminghamalnbcwvtm.png"
+    },
+    {
+      "name": "USA | NBC Bluefield, WV WVVAⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/bluefieldwvnbcwvva.png"
+    },
+    {
+      "name": "USA | NBC Boston, MA WBTSⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcboston.png"
+    },
+    {
+      "name": "USA | NBC Bowling Green, KY WNKYⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Brownsville, TX KVEOⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc23brownswvilletxkveo.png"
+    },
+    {
+      "name": "USA | NBC Charleston, SC WCBDⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcwcbdcharlestonsc.png"
+    },
+    {
+      "name": "USA | NBC Charlottesville, VA WVIRⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc29charlottesvillevawvir.png"
+    },
+    {
+      "name": "USA | NBC Chattanooga, TN WRCBⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cbs8chattanooga.png"
+    },
+    {
+      "name": "USA | NBC Cincinnati, OH WLWTⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbccincinnati.png"
+    },
+    {
+      "name": "USA | NBC Columbia, MO KOMUⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Columbia, SC WISⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/columbiascnbcwis.png"
+    },
+    {
+      "name": "USA | NBC Columbus, GA WLTZⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbccolumbus.png"
+    },
+    {
+      "name": "USA | NBC Corpus Christi, TX KRISⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbccorpuschristi.png"
+    },
+    {
+      "name": "USA | NBC Dallas, TX KXASⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcdallastx.png"
+    },
+    {
+      "name": "USA | NBC Denver, CO KUSAⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcdenvercokusa.png"
+    },
+    {
+      "name": "USA | NBC Des Moines, IA WHOⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/desmoinesianbcwho.png"
+    },
+    {
+      "name": "USA | NBC Dothan, AL WRGXⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/dothanalnbcwrgx.png"
+    },
+    {
+      "name": "USA | NBC El Dorado, AR KTVEⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC El Paso, TX KTSMⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc9elpasotxktsm.png"
+    },
+    {
+      "name": "USA | NBC Eugene, OR KMTRⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc16eugeneorkmtr.png"
+    },
+    {
+      "name": "USA | NBC Evansville, IN WFIEⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/evansvillenbcwfie.png"
+    },
+    {
+      "name": "USA | NBC Fargo, ND KVLYⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Fort Myers, FL WBBHⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Fort Wayne, IN WPTAⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Fresno, CA KSEEⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcfresnoksee.png"
+    },
+    {
+      "name": "USA | NBC Gainesville, FL WNBWⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc9gainesvilleflwnbw.png"
+    },
+    {
+      "name": "USA | NBC Grand Junction, CO KKCOⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcgrandjunction.png"
+    },
+    {
+      "name": "USA | NBC Grand Rapids, MI WOODⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc8grandrapidsmiwood.png"
+    },
+    {
+      "name": "USA | NBC Great Falls, MT KTGFⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc12greatfallsmtktgf.png"
+    },
+    {
+      "name": "USA | NBC Great Falls, MT KTVHⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Green Bay, WI WGBAⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcgreenbay.png"
+    },
+    {
+      "name": "USA | NBC Greenville, SC WYFFⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc4greenvillescwyff.png"
+    },
+    {
+      "name": "USA | NBC Hartford, CT WVITⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbchartford.png"
+    },
+    {
+      "name": "USA | NBC Honolulu, HI KHNLⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc8honoluluhikhnl.png"
+    },
+    {
+      "name": "USA | NBC Houston, TX KPRCⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbckprchoustontx.png"
+    },
+    {
+      "name": "USA | NBC Huntington, WV WSAZⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbchuntington.png"
+    },
+    {
+      "name": "USA | NBC Idaho Falls, ID KPVIⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Indianapolis, IN WTHRⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/indianapolisnbcwthr.png"
+    },
+    {
+      "name": "USA | NBC Jackson, MS WLBTⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/jacksonmsnbcwlbt.png"
+    },
+    {
+      "name": "USA | NBC Jonesboro, AR KAITⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/jonesboroarabckait.png"
+    },
+    {
+      "name": "USA | NBC Kansas City, MO KSHBⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/kansascitymonbckshb.png"
+    },
+    {
+      "name": "USA | NBC Knoxville, TN WBIRⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC La Crosse, WI WEAUⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Lafayette, IN WPBIⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Lafayette, LA KLAFⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Laredo, TX KGNSⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/laredotxabcnbckgns.png"
+    },
+    {
+      "name": "USA | NBC Las Vegas, NV KSNVⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/lasvegasnvnbcksnv.png"
+    },
+    {
+      "name": "USA | NBC Laurel, MS WDAMⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc7laurelmswdam.png"
+    },
+    {
+      "name": "USA | NBC Lexington, KY WLEXⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/lexingtonkynbcwlex.png"
+    },
+    {
+      "name": "USA | NBC Lima, OH WLIOⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Little Rock, AR KARKⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/arkansaslittlerock.png"
+    },
+    {
+      "name": "USA | NBC Los Angeles, CA KNBCⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbclosangelescaknbc.png"
+    },
+    {
+      "name": "USA | NBC Louisville, KY WAVEⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbclouisville.png"
+    },
+    {
+      "name": "USA | NBC Lubbock, TX KCBDⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc11lubbocktxkcbd.png"
+    },
+    {
+      "name": "USA | NBC Macon, GA WMGTⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Madison, WI WMTVⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc15madisonwiwmtv.png"
+    },
+    {
+      "name": "USA | NBC Marquette, MI WLUCⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/marquetteminbcwluc.png"
+    },
+    {
+      "name": "USA | NBC Medford, OR KOBIⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc5medfordorkobi.png"
+    },
+    {
+      "name": "USA | NBC Meridian, MS WGBCⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Miami, FL WTVJⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/miamiflnbcwtvj.png"
+    },
+    {
+      "name": "USA | NBC Milwaukee, WI WTMJⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcmilwaukee.png"
+    },
+    {
+      "name": "USA | NBC Minneapolis, MN KAREⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcminneapolis.png"
+    },
+    {
+      "name": "USA | NBC Montgomery, AL WSFAⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/montgomeryalnbcwsfa.png"
+    },
+    {
+      "name": "USA | NBC Myrtle Beach, SC WMBFⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc32myrtlebeachscwmbf.png"
+    },
+    {
+      "name": "USA | NBC Nashville, TN WSMVⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nashvillewsmv4.png"
+    },
+    {
+      "name": "USA | NBC New Orleans, LA WDSUⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/neworleanslanbcwdsu.png"
+    },
+    {
+      "name": "USA | NBC New York, NY WNBCⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcnewyorknywnbc.png"
+    },
+    {
+      "name": "USA | NBC Oklahoma City, OK KFORⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc4oklahomacityokkfor.png"
+    },
+    {
+      "name": "USA | NBC Omaha, NE WOWTⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Onondaga, MI WILXⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc10onondagamiwilx.png"
+    },
+    {
+      "name": "USA | NBC Orlando, FL WESHⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/orlandoflnbcwesh.png"
+    },
+    {
+      "name": "USA | NBC Panama City, FL WJHGⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Parkersburg, WV WTAPⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Plattsburgh, NY WPTZⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcplattsburg.png"
+    },
+    {
+      "name": "USA | NBC Portland, ME WCSHⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcportland.png"
+    },
+    {
+      "name": "USA | NBC Portsmouth, VA WAVYⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc10portsmouthvawavy.png"
+    },
+    {
+      "name": "USA | NBC Rapid City, SD KNBNⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/rapidcitynbcknbn.png"
+    },
+    {
+      "name": "USA | NBC Reno, NV KRNVⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/renonvnbckrnv.png"
+    },
+    {
+      "name": "USA | NBC Richmond, VA WWBTⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/richmondvanbcwwbt.png"
+    },
+    {
+      "name": "USA | NBC Roanoke, VA WSLSⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/roanokevanbcwsls.png"
+    },
+    {
+      "name": "USA | NBC Rochester, NY WHECⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Salisbury, MD WRDEⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Salt Lake City, UT KSLⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcsaltlakecity.png"
+    },
+    {
+      "name": "USA | NBC San Antonio, TX WOAIⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/sanantoniotxnbcwoai.png"
+    },
+    {
+      "name": "USA | NBC San Diego, CA KNSDⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcsandiego.png"
+    },
+    {
+      "name": "USA | NBC San Luis Obispo, CA KSBYⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC SF Bay Area, CA KNTVⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Spokane, WA KHQⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/spokanewanbckhq.png"
+    },
+    {
+      "name": "USA | NBC Springfield, MA WWLPⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Steubenville, OH WTOVⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc9steubenvilleohwtov.png"
+    },
+    {
+      "name": "USA | NBC Superior, NE KSNBⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/superiornenbcksnb.png"
+    },
+    {
+      "name": "USA | NBC Superior, WI KBJRⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/superiorwinbckbjr.png"
+    },
+    {
+      "name": "USA | NBC Syracuse, NY WSTMⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/syracusenynbcwstm.png"
+    },
+    {
+      "name": "USA | NBC Tampa Bay, FL WFLAⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbctampabay.png"
+    },
+    {
+      "name": "USA | NBC Toledo, OH WNWOⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/toledoohnbcwnwo.png"
+    },
+    {
+      "name": "USA | NBC Tucson, AZ KVOAⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/tucsonaznbckvoa.png"
+    },
+    {
+      "name": "USA | NBC Tulsa, OK KJRHⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbctulsa.png"
+    },
+    {
+      "name": "USA | NBC Utica, NY WKTVⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/uticanynbcwktv.png"
+    },
+    {
+      "name": "USA | NBC Victoria, TX KMOLⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Waterloo, IA KWWLⓧ OFFLINE  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/waterlooianbckwwl.png"
+    },
+    {
+      "name": "USA | NBC West Palm Beach, FL WPTVⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcwestpalmbeach.png"
+    },
+    {
+      "name": "USA | NBC Westⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcwest.png"
+    },
+    {
+      "name": "USA | NBC Wichita Falls, TX KFDXⓧ OFFLINE  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Wichita, KS KSNWⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "USA | NBC Wilmington, NC WECTⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/wilmingtonncnbcwect.png"
+    },
+    {
+      "name": "USA | NBC Winston-Salem, NC WXIIⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc12winstonsalemncwxii.png"
+    },
+    {
+      "name": "USA | NBC Yakima, WA KNDOⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc23yakimawakndo.png"
+    },
+    {
+      "name": "USA | NBC Youngstown, OH WFMJⓧ  (101-SERVERS)",
+      "group": "USA - NBC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc21youngstownohwfmj.png"
+    }
+  ]
+}

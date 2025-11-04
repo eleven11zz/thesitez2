@@ -1,0 +1,643 @@
+{
+  "package": "world",
+  "name": "IT - 2020-2021 Films",
+  "groupIndex": 383,
+  "totalChannels": 127,
+  "channels": [
+    {
+      "name": "IT: The System (2022)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg"
+    },
+    {
+      "name": "IT: Nightbooks (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysJte1iqN8pFQ470tumnViB1wHP.jpg"
+    },
+    {
+      "name": "IT: Schumacher (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/anML75BmiZ8jg4C9UsbMpmSD4Ct.jpg"
+    },
+    {
+      "name": "IT: Tides (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGuaKIaZ9jDUUUeERSrKNAEbsl2.jpg"
+    },
+    {
+      "name": "IT: Everybody's Talking About Jamie (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsCHo64bJ8lMhKv8LtOKEn1kjsH.jpg"
+    },
+    {
+      "name": "IT: Sirley (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojJBnLgY6JNKW0PiUNUZcMb4obK.jpg"
+    },
+    {
+      "name": "IT: Spiral: From the Book of Saw (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rORNBvvxiE9lq0Swbpar8iQNW8.jpg"
+    },
+    {
+      "name": "IT: The Mad Women's Ball (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8KeSPmFDxqHKwNzyiuwUvPIrw0.jpg"
+    },
+    {
+      "name": "IT: Misfit (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDwDiovi6qLcluB4EI3bJp1zOwa.jpg"
+    },
+    {
+      "name": "IT: The Stronghold (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLanxl7Xhfbd5s8FxPy8jWZw4rv.jpg"
+    },
+    {
+      "name": "IT: Reminiscence (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg"
+    },
+    {
+      "name": "IT: The Starling (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg"
+    },
+    {
+      "name": "IT: Playing with Sharks (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAmdfySgolOAXNYhIpJDFdA7wJx.jpg"
+    },
+    {
+      "name": "IT: The Hate U Give (2018)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg"
+    },
+    {
+      "name": "IT: WWE Extreme Rules 2021 (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNKJhHnkj2Bac2XemZ9oLRpdKCA.jpg"
+    },
+    {
+      "name": "IT: Fever Dream (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8aR3usDzjSCeJ78ttHxNDCaEhc.jpg"
+    },
+    {
+      "name": "IT: School of Mafia (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aKFLHrE3qVZzBqYH0fXM89zQY.jpg"
+    },
+    {
+      "name": "IT: There's Someone Inside Your House (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJUdQ4BZAtlQK9Ny59TulkQGisB.jpg"
+    },
+    {
+      "name": "IT: Lansky (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weNMzi7WXuzoml2Wvm1VMEE7Ipq.jpg"
+    },
+    {
+      "name": "IT: Night Teeth (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg"
+    },
+    {
+      "name": "IT: Stuck Together (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvK9AMUvh0TzjSmWwv74CgBEfg2.jpg"
+    },
+    {
+      "name": "IT: Black as Night (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mx6cgtUiEOVGSI3sb3SNQxAXqRa.jpg"
+    },
+    {
+      "name": "IT: My Brother, My Sister (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RNd7pUVGjSPGRsVwMrRcoGcmdf.jpg"
+    },
+    {
+      "name": "IT: The Forgotten Battle (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg"
+    },
+    {
+      "name": "IT: The Trip (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygTIsPG7dREi5AlO0S9EMbmvdae.jpg"
+    },
+    {
+      "name": "IT: Muppets Haunted Mansion (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg"
+    },
+    {
+      "name": "IT: Zone 414 (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIq2UwwrrVP033Mk3G5paUwYnp.jpg"
+    },
+    {
+      "name": "IT: Hypnotic (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg"
+    },
+    {
+      "name": "IT: Nobody Sleeps in the Woods Tonight 2 (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QvepemlDGIiiYsVs0Y1ieFuG7N.jpg"
+    },
+    {
+      "name": "IT: Fade Out (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyXIgZNfRIaLY3ByUz319MfI6xL.jpg"
+    },
+    {
+      "name": "IT: Infinite (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg"
+    },
+    {
+      "name": "IT: Lovely Boy (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3pNP2dtWZr9nAsA8brXSIQDMlo.jpg"
+    },
+    {
+      "name": "IT: Lady of the Manor (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3G5XLqmJSs4RvozoIsqaTWTHRq.jpg"
+    },
+    {
+      "name": "IT: Colors of Tobi (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKNqRogfdLphtWXYdL4R4r8CbHA.jpg"
+    },
+    {
+      "name": "|IT| Army of Thieves",
+      "group": "IT - 2020-2021 Films",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg"
+    },
+    {
+      "name": "IT: In for a Murder (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq5ODEgr1PUxT7HCqDT73SlDIek.jpg"
+    },
+    {
+      "name": "IT: Azzurri: Road to Wembley (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MHWwQxw4dEUu69HrWDrDett2BV.jpg"
+    },
+    {
+      "name": "IT: Endangered Species (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg"
+    },
+    {
+      "name": "IT: Halloween Kills (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CclCDyQXBBgz62Qtp3CoflQE5g.jpg"
+    },
+    {
+      "name": "IT: Under Wraps (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EnHRyHdboUWz120LDiAk2M2Lgc.jpg"
+    },
+    {
+      "name": "IT: Four Good Days (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaJmqZxwAsdFLLjPGH5DzIEnbpj.jpg"
+    },
+    {
+      "name": "IT: The Harder They Fall (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/su9WzL7lwUZPhjH6eZByAYFx2US.jpg"
+    },
+    {
+      "name": "IT: Bicycle Thieves: Pumped Up (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ37MPr3MrJbhlxToRp4UdW1Pt0.jpg"
+    },
+    {
+      "name": "IT: Ritorno al crimine (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/huN3AuhDsLHm7AGju6sckfAoPei.jpg"
+    },
+    {
+      "name": "IT: Baggio: The Divine Ponytail (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0NOqrnE4FhXrk9cHm6DQeRo1Zm.jpg"
+    },
+    {
+      "name": "IT: Parallel Mothers (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+    },
+    {
+      "name": "IT: Father Christmas Is Back (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mI6mFCO3lrJ4ovzwfmoLs58uhlK.jpg"
+    },
+    {
+      "name": "IT: Yara (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcVFI8t5QAvXGzQRKA82glDdOr3.jpg"
+    },
+    {
+      "name": "IT: Boogie (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5xmNu7Lb4IqOahsE8K6W8xBTC7.jpg"
+    },
+    {
+      "name": "IT: Meander (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDNHgbbDgLcl67Q0Ges9R3qvwUU.jpg"
+    },
+    {
+      "name": "IT: Passing (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXp6ERnrFdG04Gli3d34GtANsuw.jpg"
+    },
+    {
+      "name": "IT: Miraculous World: Shanghai – The Legend of Ladydragon (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ0VKsGRQ2ofAmswGNzZnvC1xPE.jpg"
+    },
+    {
+      "name": "IT: The Electrical Life of Louis Wain (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfP1vRNKvyOvWNjnd0o7kD6b2RR.jpg"
+    },
+    {
+      "name": "IT: The Virtuoso (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXHzO26mJaOt4VO7ZFiM6No5ScT.jpg"
+    },
+    {
+      "name": "IT: Love Hard (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg"
+    },
+    {
+      "name": "IT: Penguin Bloom (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUn7594Rwfstu5njA8hf9WQIcFi.jpg"
+    },
+    {
+      "name": "IT: Haseen Dillruba (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq1y0tqiH1ojIAQBbxZXFbArEAy.jpg"
+    },
+    {
+      "name": "IT: This Little Love of Mine (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/astp4qwuZlCPVzntnKivcVJTaJj.jpg"
+    },
+    {
+      "name": "IT: Spoiled Brats (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW5LHayHlbavYD6XRM9SjKi55uu.jpg"
+    },
+    {
+      "name": "IT: A Castle for Christmas (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg"
+    },
+    {
+      "name": "IT: Venom: Let There Be Carnage (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg"
+    },
+    {
+      "name": "IT: The Velvet Queen (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWGaJQDoJFbkshYdABhctrAtx7N.jpg"
+    },
+    {
+      "name": "IT: Dog Years (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7KFEbhEmoKY3N1AnK2MlmYBWCa.jpg"
+    },
+    {
+      "name": "IT: Ghostbusters: Afterlife (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggcBBYgnwrRAdx2vTthSAZDfrrk.jpg"
+    },
+    {
+      "name": "IT: No Time to Die (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
+    },
+    {
+      "name": "IT: Long Story Short (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAJ95mBgB0yAKCS5a3Tw5UxjLEp.jpg"
+    },
+    {
+      "name": "IT: Resident Evil: Welcome to Raccoon City (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bArhvjRHl535XMaSh9VjInF2mSZ.jpg"
+    },
+    {
+      "name": "IT: Code: Karim (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0ZsPFyXThqDYE0jw2OUeIMVqAK.jpg"
+    },
+    {
+      "name": "IT: L’incontro (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ls4wPZzv2l4mUQYpjX2yiMuCWz.jpg"
+    },
+    {
+      "name": "|IT| The Unforgivable",
+      "group": "IT - 2020-2021 Films",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gPQM1zqqsm6Lw1tHF41BwbmOkya.jpg"
+    },
+    {
+      "name": "IT: Mondocane (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOuJBz9u1YVWwvx12lJX56yUT6I.jpg"
+    },
+    {
+      "name": "IT: Fall (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w82otS8p1q88wow5fwm2AqBkFAV.jpg"
+    },
+    {
+      "name": "IT: Audrey (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikAgImz1rkedYM2mW0TeGZP1xdi.jpg"
+    },
+    {
+      "name": "IT: Off The Road (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve2b6WndmvOEuVMlDSEyQr1jwxn.jpg"
+    },
+    {
+      "name": "IT: Settembre (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/piXCJKYpu1LQpmzVfmMH1ozwvVa.jpg"
+    },
+    {
+      "name": "IT: Tom & Jerry (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XZI9QZ7Pm3fVkigWJPbrXCMzjq.jpg"
+    },
+    {
+      "name": "IT: 14 Days (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWZMtsaGeco7Mqha5nOOr48jdcm.jpg"
+    },
+    {
+      "name": "IT: Paradise (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2P6K1Hme8xU3OFn7WSB5i4KfZa.jpg"
+    },
+    {
+      "name": "IT: After Yang (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg"
+    },
+    {
+      "name": "IT: Run Sweetheart Run (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xf3aiAxjx2H34EwwVFFlOrr0nt.jpg"
+    },
+    {
+      "name": "IT: 7 Minutes (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/clh4PtWmqiGkBxWsXSai5ZACkys.jpg"
+    },
+    {
+      "name": "IT: Time Perspective (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "http://gein.detvz.us/base_img/e2e69d9616cc499c71b0e93ebb4c4959.png"
+    },
+    {
+      "name": "IT: Tommaso (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLRp3j8KVlk2LI0pw9M1OFUJzKQ.jpg"
+    },
+    {
+      "name": "IT: Rose Island (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yePO1PrRfrVMGqwJ3EzKhVvQXBX.jpg"
+    },
+    {
+      "name": "IT: The Last Movie Painter (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF8yTC219r5TWZRAHuTd1U5fKOi.jpg"
+    },
+    {
+      "name": "IT: The Catholic School (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WTTXAtuyQY93oe1yetWYMGbO7K.jpg"
+    },
+    {
+      "name": "IT: Valley of the Gods (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXs22e5IpoyiW3fodxkMG0J6lrE.jpg"
+    },
+    {
+      "name": "IT: About Us (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a79MZxTMrKB7WKUGKFYaCyzPJG0.jpg"
+    },
+    {
+      "name": "IT: The Match (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMMcBauzPqcMPKXUdoqB2O0dkAm.jpg"
+    },
+    {
+      "name": "IT: Clownery (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CbeEC1m7J4IDJIo0sFQYOhDFuf.jpg"
+    },
+    {
+      "name": "IT: Show Me What You Got (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN0iptv9Lz97tANLt6zX7zK7xPM.jpg"
+    },
+    {
+      "name": "IT: Cruel Peter (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CXlIZFOOjpEwoTbvqVLmp9zWrM.jpg"
+    },
+    {
+      "name": "IT: The Players (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCATbnGxYI271PyDPVjzbpm2sxD.jpg"
+    },
+    {
+      "name": "IT: 18 Presents (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS7lqDT3NF2LcSPdxXNJY9pMxZ6.jpg"
+    },
+    {
+      "name": "IT: In the Trap (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5fJNBIUrd2kdnJZmWuJ1kX1YAO.jpg"
+    },
+    {
+      "name": "IT: The Burnt Orange Heresy (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPO6yDif5TKSoO3lb3kFp44OR6Q.jpg"
+    },
+    {
+      "name": "IT: Ultras (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHqpFuguBugZZfXIyjsb4tOAXve.jpg"
+    },
+    {
+      "name": "IT: Divine (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dl3BVg6nUYRDUB0oF3a9ZI3Gzjm.jpg"
+    },
+    {
+      "name": "IY: Siberia (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSCjeSAkdrAyi3XDIrNWpMsH5oP.jpg"
+    },
+    {
+      "name": "IT: Promises (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPYZUGdb5Yzwx9q3v4I9qVBNZWl.jpg"
+    },
+    {
+      "name": "IT: Last Words (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnD0z6F9dR9CVSCwUP3ws5sPpo9.jpg"
+    },
+    {
+      "name": "IT: The Last Paradiso (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/blB1T2zUAqP9Qv8dyoB9Xn7W7qI.jpg"
+    },
+    {
+      "name": "IT: Out of My League (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/csu16eLYUDvyX64UdqHtwBwAd21.jpg"
+    },
+    {
+      "name": "IT: Fate: The Winx Saga - The Afterparty (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zz2Sw5ZQ3AZTtO54EvqkoKuzwX.jpg"
+    },
+    {
+      "name": "IT: Dirty Fears (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/emc3fH9BfEdrDnoUB7HYBKcQcmY.jpg"
+    },
+    {
+      "name": "IT: Rifkin's Festival (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kTkLEheDmXdnHHRJiAkd4Vuato.jpg"
+    },
+    {
+      "name": "IT: The Binding (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Oj2YlFKbwj1SNKZcb5Fw1Yosj.jpg"
+    },
+    {
+      "name": "IT: I Am Fine, Thanks (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssBElHXyW9CBd0ldAV6uCrp1qxV.jpg"
+    },
+    {
+      "name": "IT: The Beast (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZGx57ShJ3IUeZNxEbOMinW4wea.jpg"
+    },
+    {
+      "name": "IT: The Life Ahead (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDc3O9m8ELHRRu1WXdTC5pCdC4n.jpg"
+    },
+    {
+      "name": "IT: Hotel Inferno 3: The Castle of Screams (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mv34Q5viprJBW6y2JevR1e8R1oW.jpg"
+    },
+    {
+      "name": "IT: The Truffle Hunters (2020)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fL0mxLob8LCr8vjZWT0PMAtHHA.jpg"
+    },
+    {
+      "name": "IT: Caught by a Wave (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9O2WXJqF45ynkng4SAsZ1h0OCt.jpg"
+    },
+    {
+      "name": "IT: A Classic Horror Story (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnxGmUof0HiugUaNbUFiS4GJPx4.jpg"
+    },
+    {
+      "name": "IT: Blue Dream: The Road to Wembley (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAqx1Ss4MRBqLyCB2ICNrnr0D9V.jpg"
+    },
+    {
+      "name": "IT: Onoda: 10,000 Nights in the Jungle (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKzFwiEm86AVRsefgqODTBjjh98.jpg"
+    },
+    {
+      "name": "IT: Beckett (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg"
+    },
+    {
+      "name": "IT: They Talk (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xvXYD0SHWdttDJb1gJ4VuD1EeY.jpg"
+    },
+    {
+      "name": "IT: The King of Laughter (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdQYDpjWdg5YvnJ4i8LC0BHkKsf.jpg"
+    },
+    {
+      "name": "IT: Time Is Up (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg"
+    },
+    {
+      "name": "IT: Every Breath You Take (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrgNXpH4x9NAkqOKhxEs3TspkHc.jpg"
+    },
+    {
+      "name": "IT: Three Floors (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/59kVQe8wrHp845gBR9TDHzNwfeQ.jpg"
+    },
+    {
+      "name": "IT: The Hand of God (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kreVxr5moB7K52IGGV1BGAn6nq1.jpg"
+    },
+    {
+      "name": "IT: Marilyn's Eyes (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thHmfbg56EDMCTmjEuz6Xo5M8hV.jpg"
+    },
+    {
+      "name": "IT: The Devil's Tail (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LKHfjfqmggsErt4YIPpyMxF0Ma.jpg"
+    },
+    {
+      "name": "IT: Christmas Thieves (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/flVj08Gc2WMs7qRXnt3RGPVgQqn.jpg"
+    },
+    {
+      "name": "IT: My So-Called Selfish Life (2021)",
+      "group": "IT - 2020-2021 Films",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nwXYHs1UTdQh75yjDuiWld42dO.jpg"
+    }
+  ]
+}

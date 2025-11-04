@@ -1,0 +1,58 @@
+{
+  "package": "world",
+  "name": "AZ - Azerbaijan - Live.",
+  "groupIndex": 4,
+  "totalChannels": 10,
+  "channels": [
+    {
+      "name": "AZ: ARB 24 HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "https://logo.m3uassets.com/arb24.png"
+    },
+    {
+      "name": "AZ: ARB Gunes HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "https://logo.m3uassets.com/arbgunes.png"
+    },
+    {
+      "name": "AZ: CBC Azerbaycan HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "http://s3.i3ns.net/portal/picon/2020-07/b84c7b5eb28460da7b92463ada0f9778.png"
+    },
+    {
+      "name": "AZ: CBC Sports HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c2b36ea5f008b51c5ade597df50f53c3.png"
+    },
+    {
+      "name": "AZ: Xezer TV HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "https://logo.m3uassets.com/xezertv.png"
+    },
+    {
+      "name": "AZ: ARB HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "https://logo.m3uassets.com/arb.png"
+    },
+    {
+      "name": "AZ: Dunya HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/79787975981.png"
+    },
+    {
+      "name": "AZ: Idman TV HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "https://logo.m3uassets.com/idmantv.png"
+    },
+    {
+      "name": "AZ: Space TV HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "https://logo.m3uassets.com/spacetv.png"
+    },
+    {
+      "name": "AZ: İctimai TV HD  (101-SERVERS)",
+      "group": "AZ - Azerbaijan - Live.",
+      "logo": "https://logo.m3uassets.com/ictimaitv.png"
+    }
+  ]
+}

@@ -1,0 +1,653 @@
+{
+  "package": "world",
+  "name": "ES - Aventuras Spain Movies",
+  "groupIndex": 302,
+  "totalChannels": 129,
+  "channels": [
+    {
+      "name": "ES| Space Jam",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/93027670820.png"
+    },
+    {
+      "name": "ES| Heavy Metal",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://fanart.tv/fanart/movies/11827/movieposter/heavy-metal-573e6b95485dc.jpg"
+    },
+    {
+      "name": "ES| Abominable",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/38261458732.png"
+    },
+    {
+      "name": "ES| Robin Hood",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/52862394649.png"
+    },
+    {
+      "name": "ES| Hércules",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://fanart.tv/fanart/movies/184315/movieposter/hercules-547cae5ce29ca.jpg"
+    },
+    {
+      "name": "ES| GODZILLA: La Ciudad Al Borde De La Batalla",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/45231153909.png"
+    },
+    {
+      "name": "ES| Final Fantasy VII: Advent Children",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/61703501792.png"
+    },
+    {
+      "name": "ES| Cold War",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/98876205417.png"
+    },
+    {
+      "name": "ES| Hasta Los Huesos",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/72634168961.png"
+    },
+    {
+      "name": "ES| El Apóstol",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/23396094115.png"
+    },
+    {
+      "name": "ES| Cadaver",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/48268176379.png"
+    },
+    {
+      "name": "ES| Vive Y Deja Morir",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/53468040672.png"
+    },
+    {
+      "name": "ES| Viaje Alucinante",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/19307419075.png"
+    },
+    {
+      "name": "ES| Valerian Y La Ciudad De Los Mil Planetas",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg"
+    },
+    {
+      "name": "ES| Un Horizonte Muy Lejano",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://pics.filmaffinity.com/far_and_away-751363436-large.jpg"
+    },
+    {
+      "name": "ES| Transformers",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://fanart.tv/fanart/movies/1858/movieposter/transformers-5748a873a7a31.jpg"
+    },
+    {
+      "name": "ES| Togo",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/95335873232.png"
+    },
+    {
+      "name": "ES| Tiburón, La Venganza",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://www.benitomovieposter.com/catalog/images/movieposter/24969.jpg"
+    },
+    {
+      "name": "ES| The Phantom (El Hombre Enmascarado)",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://pics.filmaffinity.com/the_phantom-288662258-mmed.jpg"
+    },
+    {
+      "name": "ES| The Mummy Returns (El Regreso De La Momia)",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/20352654079.png"
+    },
+    {
+      "name": "ES| Tarzán",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://fanart.tv/fanart/movies/37135/movieposter/tarzan-54f9d71d624d1.jpg"
+    },
+    {
+      "name": "ES| Sólo Para Sus Ojos",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://pics.filmaffinity.com/for_your_eyes_only-354552282-large.jpg"
+    },
+    {
+      "name": "ES| Super Mario Bros",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/35823896857.png"
+    },
+    {
+      "name": "ES| Sherlock Holmes: Juego De Sombras",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/19483897278.png"
+    },
+    {
+      "name": "ES| Robots  La Invasión",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/55691889077.png"
+    },
+    {
+      "name": "ES| Regreso Al Planeta De Los Simios",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/70087488264.png"
+    },
+    {
+      "name": "ES| Regreso Al Futuro",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/32992451360.png"
+    },
+    {
+      "name": "ES| Rebelión A Bordo",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/80828239546.png"
+    },
+    {
+      "name": "ES| Piratas del Caribe: La venganza de Salazar",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/net3hZOe33XbieLzVkfJsQEdig2.jpg"
+    },
+    {
+      "name": "ES| Piratas del Caribe: En mareas misteriosas",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/elZ79uhtQ43xUvcCmdDXI3cN5AU.jpg"
+    },
+    {
+      "name": "ES| Piratas Del Caribe: En El Fin Del Mundo",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://s-media-cache-ak0.pinimg.com/originals/3c/29/93/3c2993304ea05e75fd974b60cadb5229.jpg"
+    },
+    {
+      "name": "ES| Piratas Del Caribe: El Cofre Del Hombre Muerto",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/63567906312.png"
+    },
+    {
+      "name": "ES| Piratas del Caribe. La maldición de la Perla Negra",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://line.megacdn.live:80/images/8zHnkTGyAImBcI49a1xFJHUjbaK_big.jpg"
+    },
+    {
+      "name": "ES| Perdidos En El Espacio",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/41559128448.png"
+    },
+    {
+      "name": "ES| Orca, La Ballena Asesina",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/70353963230.png"
+    },
+    {
+      "name": "ES| Ong Bak 2: La Leyenda Del Rey Elefante",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://pics.filmaffinity.com/Ong_Bak_2_La_leyenda_del_Rey_Elefante-257770813-large.jpg"
+    },
+    {
+      "name": "ES| Okja",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/21977979698.png"
+    },
+    {
+      "name": "ES| Octopussy",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/71853231322.png"
+    },
+    {
+      "name": "ES| Multiplex",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/25465684736.png"
+    },
+    {
+      "name": "ES| Misión Imposible 3",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://fanart.tv/fanart/movies/956/movieposter/mission-impossible-iii-55b6e778e0903.jpg"
+    },
+    {
+      "name": "ES| Misión Imposible 2",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/74939009324.png"
+    },
+    {
+      "name": "ES| Matrix Revolutions",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/63135733065.png"
+    },
+    {
+      "name": "ES| Matrix Reloaded",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/50647605965.png"
+    },
+    {
+      "name": "ES| Mad Max: Salvajes De La Autopista",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/31689432924.png"
+    },
+    {
+      "name": "ES| Mad Max 2: El Guerrero De La Carretera",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/61200256472.png"
+    },
+    {
+      "name": "ES| Los últimos Días Del Edén",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/81256784048.png"
+    },
+    {
+      "name": "ES| Los Violentos De Kelly",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/55465443227.png"
+    },
+    {
+      "name": "ES| Los Siete Magníficos",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/36583502461.png"
+    },
+    {
+      "name": "ES| Los Goonies",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/64152249208.png"
+    },
+    {
+      "name": "ES| Los Bicivoladores",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/83983100491.png"
+    },
+    {
+      "name": "ES| Lionheart",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/26294901338.png"
+    },
+    {
+      "name": "ES| Licencia Para Matar",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://www.benitomovieposter.com/catalog/images/movieposter/1205.jpg"
+    },
+    {
+      "name": "ES| Leyendas De Pasión",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://pics.filmaffinity.com/Leyendas_de_pasi_n-779133690-large.jpg"
+    },
+    {
+      "name": "ES| Leviathan: El Demonio Del Abismo",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/17755044255.png"
+    },
+    {
+      "name": "ES| Lawrence De Arabia",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/98763653806.png"
+    },
+    {
+      "name": "ES| La Vida Secreta De Las Abejas",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/35206521068.png"
+    },
+    {
+      "name": "ES| Las Aventuras De Jeremiah Johnson",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/41942452136.png"
+    },
+    {
+      "name": "ES| La Princesa Prometida",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/31662025176.png"
+    },
+    {
+      "name": "ES| La Momia: La Tumba Del Emperador Dragón",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/26981194210.png"
+    },
+    {
+      "name": "ES| La Momia",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/56758115936.png"
+    },
+    {
+      "name": "ES| La Isla Del Fin Del Mundo",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://cuevana3.mobi/wp-content/uploads/2020/06/la-isla-del-fin-del-mundo-1290-poster.jpg"
+    },
+    {
+      "name": "ES| La Guerra De Las Galaxias  Episodio VI: El Retorno Del Jedi",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/38670046823.png"
+    },
+    {
+      "name": "ES| La Guerra De Las Galaxias  Episodio V: El Imperio Contraataca",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/61474122920.png"
+    },
+    {
+      "name": "ES| La Guerra De Las Galaxias  Episodio IV: Una Nueva Esperanza",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/44637704866.png"
+    },
+    {
+      "name": "ES| La Guerra De Las Galaxias  Episodio II: El Ataque De Los Clones",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/84814152639.png"
+    },
+    {
+      "name": "ES| La Guerra De Las Galaxias  Episodio I: La Amenaza Fantasma",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/95242912237.png"
+    },
+    {
+      "name": "ES| La Gran Evasión",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://www.benitomovieposter.com/catalog/images/movieposter/34303.jpg"
+    },
+    {
+      "name": "ES| La Espía Que Me Amó",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/42089136801.png"
+    },
+    {
+      "name": "ES| La Espada Mágica",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://pics.filmaffinity.com/quest_for_camelot-352004676-large.jpg"
+    },
+    {
+      "name": "ES| Lady Halcón",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/90234093451.png"
+    },
+    {
+      "name": "ES| La Costa De Los Mosquitos",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/13848690039.png"
+    },
+    {
+      "name": "ES| La Casa De Las Dagas Voladoras",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/15477796196.png"
+    },
+    {
+      "name": "ES| La Batalla Del Planeta De Los Ewoks",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/69086926514.png"
+    },
+    {
+      "name": "ES| La Aventura De Los Ewoks",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/66060962640.png"
+    },
+    {
+      "name": "ES| Karate Kid II, La Historia Continúa",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/96777348844.png"
+    },
+    {
+      "name": "ES| Jurassic Park (Parque Jurásico)",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/29206284410.png"
+    },
+    {
+      "name": "ES| Jumanji: Siguiente Nivel",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/62952718424.png"
+    },
+    {
+      "name": "ES| Jumanji",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://fanart.tv/fanart/movies/353486/movieposter/jumanji-welcome-to-the-jungle-5aa49c7577ae2.jpg"
+    },
+    {
+      "name": "ES| Juana De Arco De Luc Besson",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/41120818094.png"
+    },
+    {
+      "name": "ES| Johnny Mnemonic",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/22021112996.png"
+    },
+    {
+      "name": "ES| James Bond Contra Goldfinger",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/93484561088.png"
+    },
+    {
+      "name": "ES| Iron Man 2",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/67206622270.png"
+    },
+    {
+      "name": "ES| Interstellar",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/17937265459.png"
+    },
+    {
+      "name": "ES| Indiana Jones Y El Templo Maldito",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://www.mubis.es/media/users/12828/166327/poster-1-indiana-jones-y-el-templo-maldito-original.jpg"
+    },
+    {
+      "name": "ES| Indiana Jones En Busca Del Arca Perdida",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/90928212626.png"
+    },
+    {
+      "name": "ES| Harry Potter Y El Misterio Del Príncipe",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/44418196730.png"
+    },
+    {
+      "name": "ES| GoldenEye",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/91320476084.png"
+    },
+    {
+      "name": "ES| Gold, La Gran Estafa",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/49539280261.png"
+    },
+    {
+      "name": "ES| G I  Joe: La Venganza",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/88740287578.png"
+    },
+    {
+      "name": "ES| G I  Joe",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/39773264519.png"
+    },
+    {
+      "name": "ES| Exodus: Dioses Y Reyes",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/36781750193.png"
+    },
+    {
+      "name": "ES| Espartaco",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/76173163742.png"
+    },
+    {
+      "name": "ES| En Tiempo De Brujas",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/99607752693.png"
+    },
+    {
+      "name": "ES| En La Carretera",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/22503521571.png"
+    },
+    {
+      "name": "ES| El Vuelo Del Fénix",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/99405281278.png"
+    },
+    {
+      "name": "ES| El Tulipán Negro",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://cartelesmix.es/cartelesdecine/wp-content/uploads/2018/03/tulipannegro64004.jpg"
+    },
+    {
+      "name": "ES| El Quinto Elemento",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/27186123026.png"
+    },
+    {
+      "name": "ES| El Príncipe De Persia: Las Arenas Del Tiempo",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/98327363545.png"
+    },
+    {
+      "name": "ES| El Pequeño Panda",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/tIK40vCE9i8g4VhyJ3LLr5y1ROJ.jpg"
+    },
+    {
+      "name": "ES| El Pacto De Los Lobos",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://pics.filmaffinity.com/le_pacte_des_loups-174328223-large.jpg"
+    },
+    {
+      "name": "ES| El Oso",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/60136765639.png"
+    },
+    {
+      "name": "ES| El Mundo Perdido: Jurassic Park",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://www.mubis.es/media/users/3724/110839/poster-de-el-mundo-perdido-jurassic-park-original.jpg"
+    },
+    {
+      "name": "ES| El Mañana Nunca Muere",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "ES| El Hombre De La Pistola De Oro",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/99900887025.png"
+    },
+    {
+      "name": "ES| El Hobbit: Un Viaje Inesperado",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/94551105699.png"
+    },
+    {
+      "name": "ES| El Hobbit: La Desolación De Smaug",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://www.mubis.es/media/users/9405/62644/el-hobbit-la-desolacion-de-smaug-poster-enanos-1-original.jpg"
+    },
+    {
+      "name": "ES| El Guerrero Rojo",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://www.benitomovieposter.com/catalog/images/movieposter/124355.jpg"
+    },
+    {
+      "name": "ES| El Guerrero Nº 13",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pj1IQQ7ajwaOrjjTCxyM1L4mSnX.jpg"
+    },
+    {
+      "name": "ES| El Desafío (The Walk)",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQQhni9VZDpC0ckp5fB2uXFhqo6.jpg"
+    },
+    {
+      "name": "ES| El Corcel Negro",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/74384699435.png"
+    },
+    {
+      "name": "ES| Dos Policías Rebeldes II",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/35784206677.png"
+    },
+    {
+      "name": "ES| Diamantes Para La Eternidad",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/31971918687.png"
+    },
+    {
+      "name": "ES| De Vuelta A Casa: Un Viaje Increíble",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/30940438682.png"
+    },
+    {
+      "name": "ES| Deep Rising: El Misterio De Las Profundidades",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/46676651364.png"
+    },
+    {
+      "name": "ES| Conan El Bárbaro",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/65828731311.png"
+    },
+    {
+      "name": "ES| Conan, El Destructor",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/66817472745.png"
+    },
+    {
+      "name": "ES| Conan, El Bárbaro",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/65178694565.png"
+    },
+    {
+      "name": "ES| Casino Royale",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/70634431337.png"
+    },
+    {
+      "name": "ES| Cariño, Nos Hemos Encogido A Nosotros Mismos",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nbU3UgIjxNTrSSe2gcOSGQjf55a.jpg"
+    },
+    {
+      "name": "ES| Beowulf",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://fanart.tv/fanart/movies/2310/movieposter/beowulf-52dd6aac016bf.jpg"
+    },
+    {
+      "name": "ES| Bailando Con Lobos",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/58489812093.png"
+    },
+    {
+      "name": "ES| Austin Powers: La Espía Que Me Achuchó",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://www.benitomovieposter.com/catalog/images/movieposter/138822.jpg"
+    },
+    {
+      "name": "ES| Arma Letal",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/87077439225.png"
+    },
+    {
+      "name": "ES| Amenaza Terrorista",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://pics.filmaffinity.com/Amenaza_terrorista-415173775-large.jpg"
+    },
+    {
+      "name": "ES| Amanda",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "https://fanart.tv/fanart/movies/485166/movieposter/amanda-5ca1036d58bba.jpg"
+    },
+    {
+      "name": "ES| Al Servicio Secreto De Su Majestad",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/16693858792.png"
+    },
+    {
+      "name": "ES| Alien Vs  Predator",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/41437927272.png"
+    },
+    {
+      "name": "ES| Agente 007 Contra El Dr  No",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/23475295303.png"
+    },
+    {
+      "name": "ES| 127 Horas",
+      "group": "ES - Aventuras Spain Movies",
+      "logo": "http://img-cdn.curl.pk/chimg/51651655500.png"
+    }
+  ]
+}

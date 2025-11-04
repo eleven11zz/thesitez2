@@ -1,0 +1,523 @@
+{
+  "package": "world",
+  "name": "BR - Brazil - Live.",
+  "groupIndex": 9,
+  "totalChannels": 103,
+  "channels": [
+    {
+      "name": "BR: Discovery Turbo HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryturbo.png"
+    },
+    {
+      "name": "BR: TOP TV HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/toptv.png"
+    },
+    {
+      "name": "BR: FOX Sports 1 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports1.png"
+    },
+    {
+      "name": "BR: ESPN Brasil HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/espnbrasil.png"
+    },
+    {
+      "name": "BR: TNT Series FHD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/tntseries.png"
+    },
+    {
+      "name": "BR: TNT HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/tnt.png"
+    },
+    {
+      "name": "BR: SporTV 3 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/sportv3.png"
+    },
+    {
+      "name": "BR: SporTV 1 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/sportv1.png"
+    },
+    {
+      "name": "BR: TNT Séries HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19272543471.png"
+    },
+    {
+      "name": "BR: BAND NEWS HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/bandnews.png"
+    },
+    {
+      "name": "BR: ESPN 2 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/espn2.png"
+    },
+    {
+      "name": "BR: Discovery KIDS HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/discoverykids.png"
+    },
+    {
+      "name": "BR: ESPN Extra HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/espnextra.png"
+    },
+    {
+      "name": "BR: FOX Sports 2 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "BR: SporTV 2 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/sportv2.png"
+    },
+    {
+      "name": "BR: Animal Planet HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "BR: BAND SP HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/bandsp.png"
+    },
+    {
+      "name": "BR: AXN HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/axn.png"
+    },
+    {
+      "name": "BR: Globo RJ HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globorj.png"
+    },
+    {
+      "name": "BR: HBO 2 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/hbo2.png"
+    },
+    {
+      "name": "BR: Globo SP HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globosp.png"
+    },
+    {
+      "name": "BR: SBT TV Cidade Verde Piaui SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19280859151.png"
+    },
+    {
+      "name": "BR: HBO HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/hbo.png"
+    },
+    {
+      "name": "CAnal SONY HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/canalsony.png"
+    },
+    {
+      "name": "BR: Canal Brasil SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/canalbrasil.png"
+    },
+    {
+      "name": "BR: Record SP HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/recordsp.png"
+    },
+    {
+      "name": "BR: BAND Sports HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/bandsports.png"
+    },
+    {
+      "name": "BR: Space HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/space.png"
+    },
+    {
+      "name": "BR: Discovery TLC HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/discoverytlc.png"
+    },
+    {
+      "name": "BR: Globo Brasilia SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globobrasilia.png"
+    },
+    {
+      "name": "BR: Globo EPTV SAO Carlos SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/82301917351.png"
+    },
+    {
+      "name": "BR: HBO PLUS HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/hboplus.png"
+    },
+    {
+      "name": "BR: FOX Premium 2 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/foxpremium2.png"
+    },
+    {
+      "name": "BR: HBO Family HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/hbofamily.png"
+    },
+    {
+      "name": "BR: Discovery Science HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "BR: Telecine Action HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/telecineaction.png"
+    },
+    {
+      "name": "BR: Telecine Pipoca HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/telecinepipoca.png"
+    },
+    {
+      "name": "BR: FX HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/fx.png"
+    },
+    {
+      "name": "BR: Globo Premium HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globopremium.png"
+    },
+    {
+      "name": "BR: Globo Nordeste HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globonordeste.png"
+    },
+    {
+      "name": "BR: Globo RPC TV SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globorpctv.png"
+    },
+    {
+      "name": "BR: Globo EPTV Campinas HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globoeptvcampinas.png"
+    },
+    {
+      "name": "BR: FOX LIFE HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "BR: Globo Minas HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globominas.png"
+    },
+    {
+      "name": "BR: Boomerang HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/boomerang.png"
+    },
+    {
+      "name": "BR: Globo RBS TV Pelotas HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://curl.pk/img/u/b065d654ab5e9b39203963f6fc55f7fb6243.jpg"
+    },
+    {
+      "name": "BR: MTV HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/mtv.png"
+    },
+    {
+      "name": "BR: HBO POP HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/hbopop.png"
+    },
+    {
+      "name": "BR: Telecine FUN HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/telecinefun.png"
+    },
+    {
+      "name": "BR: MTV LIVE HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/mtvlive.png"
+    },
+    {
+      "name": "BR: Combate HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/combate.png"
+    },
+    {
+      "name": "BR: Disney Junior HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    },
+    {
+      "name": "BR: GNT HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/gnt.png"
+    },
+    {
+      "name": "BR: Premiere Clubes HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/premiereclubes.png"
+    },
+    {
+      "name": "BR: REDE TV HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/redetv.png"
+    },
+    {
+      "name": "BR: NICK JR HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/nickjr.png"
+    },
+    {
+      "name": "BR: Globo TV Morena HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/69894889491.png"
+    },
+    {
+      "name": "BR: History Channel HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/historychannel.png"
+    },
+    {
+      "name": "BR: Futura HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/futura.png"
+    },
+    {
+      "name": "BR: Globo TV Bahia SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://curl.pk/img/u/00e99b13b409d8c31037ce4bcb7755326291.jpeg"
+    },
+    {
+      "name": "BR: Record Nordeste HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://curl.pk/img/u/6162a45e059f9837536274d4fc9db90f2063.jpg"
+    },
+    {
+      "name": "BR: Discovery HOME & Health HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryhomehealth.png"
+    },
+    {
+      "name": "BR: Discovery World FHD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryworld.png"
+    },
+    {
+      "name": "BR: Record SP HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/recordsp.png"
+    },
+    {
+      "name": "BR: Globo RPC Curitiba HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/18721689851.png"
+    },
+    {
+      "name": "BR: HGTV HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/hgtv.png"
+    },
+    {
+      "name": "BR: Globo Inter TV Cabugi RN SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/56707378081.png"
+    },
+    {
+      "name": "BR: REDE VIDA HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/redevida.png"
+    },
+    {
+      "name": "BR: Globo TV Tribuna Santos SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globotvtribunasantos.png"
+    },
+    {
+      "name": "BR: NAT GEO WILD HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "BR: VIVA HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/viva.png"
+    },
+    {
+      "name": "BR: REDE Gospel SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/redegospel.png"
+    },
+    {
+      "name": "BR: Woohoo HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/woohoo.png"
+    },
+    {
+      "name": "BR: Zoomoo HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/zoomoo.png"
+    },
+    {
+      "name": "BR: Globo NEWS HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globonews.png"
+    },
+    {
+      "name": "BR: TCM SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/tcm.png"
+    },
+    {
+      "name": "BR: TV Gazeta SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/tvgazeta.png"
+    },
+    {
+      "name": "BR: Telecine CULT HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/telecinecult.png"
+    },
+    {
+      "name": "BR: FISH TV HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/fishtv.png"
+    },
+    {
+      "name": "BR: VH1 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/vh1.png"
+    },
+    {
+      "name": "BR: Tooncast HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/tooncast.png"
+    },
+    {
+      "name": "BR: Globo TV TEM Sorocaba SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://curl.pk/img/u/7ea8ab1aea7b30476a22bb107db50df01771.png"
+    },
+    {
+      "name": "BR: Music BOX Brazil SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/musicbox.png"
+    },
+    {
+      "name": "BR: REDE Brasil HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/redebrasil.png"
+    },
+    {
+      "name": "BR: Paramount Channel HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/paramountchannel.png"
+    },
+    {
+      "name": "BR: Discovery World SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryworld.png"
+    },
+    {
+      "name": "BR: TV Diario DO Sertao HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/14657433621.png"
+    },
+    {
+      "name": "BR: MAIS Globosat SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/maisglobosat.png"
+    },
+    {
+      "name": "BR: REDE Familia SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/redefamilia.png"
+    },
+    {
+      "name": "BR: Globo SP FHD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globosp.png"
+    },
+    {
+      "name": "BR: Globo RBS Porto Alegre HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globorbsportoalegre.png"
+    },
+    {
+      "name": "BR: Disney XD HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/disneyxd.png"
+    },
+    {
+      "name": "BR: Telecine FUN SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/telecinefun.png"
+    },
+    {
+      "name": "BR: Natgeo WILD SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "BR: Globo Nordeste HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/globonordeste.png"
+    },
+    {
+      "name": "BR: National Geographic HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "BR: ID Discovery HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/discovery.png"
+    },
+    {
+      "name": "BR: VH1 MEGA HITS SD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/vh1megahits.png"
+    },
+    {
+      "name": "BR: Globo RPC HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/73698323011.png"
+    },
+    {
+      "name": "BR: Multishow HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/multishow.png"
+    },
+    {
+      "name": "BR: Premiere 3 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/premiere3.png"
+    },
+    {
+      "name": "BR: Premiere 4 HD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "https://logo.m3uassets.com/premiere4.png"
+    },
+    {
+      "name": "BR: Globo TV Morena FHD  (101-SERVERS)",
+      "group": "BR - Brazil - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/60224497621.png"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "package": "world",
+  "name": "DSTV - News - Live.",
+  "groupIndex": 48,
+  "totalChannels": 12,
+  "channels": [
+    {
+      "name": "DSTV: Al Jazeera  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/b9cdd6e447599016e8230412feb3263b.png"
+    },
+    {
+      "name": "NG: Arise News  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/arisenews.png"
+    },
+    {
+      "name": "DSTV: CCTV 4  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/cctv4.png"
+    },
+    {
+      "name": "DSTV: CGTN News HD  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/cgtnnews.png"
+    },
+    {
+      "name": "DSTV: CNBC Africa HD  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/cnbcafrica.png"
+    },
+    {
+      "name": "DSTV: Deutsche Welle  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/deutschewelle.png"
+    },
+    {
+      "name": "DSTV: NDTV 24x7 HD  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/ndtv24x7.png"
+    },
+    {
+      "name": "NG: JOY NEWS  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/joynews.png"
+    },
+    {
+      "name": "DSTV: Parliamentary Service  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/parliamentaryservice.png"
+    },
+    {
+      "name": "DSTV: RTP Internacional  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/rtpinternacional.png"
+    },
+    {
+      "name": "DSTV: SABC NEWS FHD  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/sabcnews.png"
+    },
+    {
+      "name": "DSTV: Sky News HD  (101-SERVERS)",
+      "group": "DSTV - News - Live.",
+      "logo": "https://logo.m3uassets.com/skynews.png"
+    }
+  ]
+}

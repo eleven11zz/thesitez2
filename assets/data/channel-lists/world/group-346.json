@@ -1,0 +1,538 @@
+{
+  "package": "world",
+  "name": "HU - Documentary Movies",
+  "groupIndex": 346,
+  "totalChannels": 106,
+  "channels": [
+    {
+      "name": "HU: Unknown Number The High School Catfish (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODQ3MTdhNTQtODk3ZC00MTNmLWEwZjEtYmFkNWM2NTI3N2IyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Race for Glory Audi vs Lancia (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjY2M2ZhMzYtYmZjYi00MDRmLWE0YmQtYzMxNTQ0ZTQ0MzIxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Other Side (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDA3ODk1ZTMtMjhjOC00YzhhLThkMTgtZTZlN2E0OTBlYjU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Teljes káosz Magánnyomozó anyukák (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://www.mafab.hu/static/2025/181/11/688187_1751361095.3496.jpg"
+    },
+    {
+      "name": "HU: Teljes káosz Botrányos polgármester (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/170/280/170280479_8v0t0s.jpg"
+    },
+    {
+      "name": "HU: Teljes káosz A buli elszabadul (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://www.mafab.hu/static/2025/173/11/687371_1750669672.1854.jpg"
+    },
+    {
+      "name": "HU: Trainwreck The Cult of American Apparel (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjRhNmVkYWQtMzk3ZS00NWNkLTkyODYtMTg5YWRlZDNlNDI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Shark Whisperer (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjBjYmQ5ZmYtZjEwNC00ZjVmLWFiNzgtYmE4YWQzNjBkODU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Nyad (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2ZiOTUyZjUtYmZkZi00MWQ1LTk5OTMtMGU0Mzg2OTFjNWU5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Grenfell Uncovered (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmI1NzI3ZWMtMGM0MC00NmE0LTk1YTgtMjk3MGU2OWRlZGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Beyond Utopia (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkTSuSGfX8rM0pE5FFgvbvPYMgu-dcW6FQyw&s"
+    },
+    {
+      "name": "HU: Trainwreck The Astroworld Tragedy (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDZiYjc2M2MtY2Q2NC00ZWFjLTgyYzUtZjZiMjhmNjVjZDc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Titan The OceanGate Submersible Disaster (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGIyYTE0ZjgtZjUyZC00NGVhLTk5OTQtNTBkOWFjZDRmZDZkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ocean with David Attenborough (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2I2ZjI0YWItM2I3My00NGE3LTk5ZDgtM2M2MWY2ZjFlNmNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Air Force Elite Thunderbirds (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjMzZTE2MDMtMWRmNS00ZWEzLWI4YmUtMTVkOGUxNGY2ODdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Untold Shooting Guards (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTYzYmYwZDUtM2I5NS00OWE4LTg2NzAtODYwNTNkOTliYWJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Damned United (2009)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEyMzkzMjM0MV5BMl5BanBnXkFtZTcwNzE3NTU3Mg@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Rustin (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmU0YTliNzItZmM0MS00YTg4LTg3NzMtN2U3OTAwZGIwNGM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: A Deadly American Marriage (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMThlZmQxMWYtMzI1NS00OTQ5LTk0NjEtY2VmZjM2MTgzZWYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Britain and The Blitz (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWMwZGJlZjYtYjFkMi00ZjBlLWFlOWYtNDA0NzBkMzI3ODIxXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+    },
+    {
+      "name": "HU: Ferrari (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmUzYmJiMDMtZjIxNy00ZjBlLThjZDMtMDA1ZDM4MWMwNmI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Return of the King The Fall and Rise of Elvis Presley (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiNWU0MjYtYzk0OS00ZTExLTkyZGYtZDUxNDM4ZjJjNmQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Professor Marston and the Wonder Women (2017)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcyMTQzMDIwNl5BMl5BanBnXkFtZTgwMTY1NjgzMzI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Pope Francis A Man of His Word (2018)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzgwNzRjY2ItOGUwNS00NTA4LWExZDItNzZkNTRiZTE2MjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: 2550 (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDhjMDczNzgtZDQyMC00YTFiLWE2ODctYWQ4MzA3MmM4NjAxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: A Viszkis (2017)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjM2ZmU0YjAtY2VmMi00ZGQ3LWI1ZmItZDFmNDNhN2ZkMDcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Alive (1993)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDY2YmFlMGEtNjZkNS00Y2RiLTllYTYtYzRiZDJkMzg1NDliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Pangolin Kulus Journey (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDA3MTZiYzItNjI0ZC00OGE1LWE1NmQtZTdlYjI2ZWIxNzBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: World Trade Center (2006)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTIxMzE5ODEwOV5BMl5BanBnXkFtZTcwMzM3MzIzMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: King Richard (2021)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjVlZGFjMDctNDIxOS00NjY5LWE1ZTEtMTAxZGE4Y2QxZjMxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Borg McEnroe (2017)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzJjODA2MTUtODg4YS00NjU0LWJlMjUtOGYyZjhmYjdjNjU1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Birth of a Champion (2021)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/S/pv-target-images/f3fe925e61f223e9b9b836a6e5ca344161ff052fc3bd6065ecf0988f1302b815.jpg"
+    },
+    {
+      "name": "HU: Battle of the Sexes (2017)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmRmODY1OTAtMWRkZS00NmNhLTgzMjgtOTM0YWYwY2RlYTc0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Titanic The Digital Resurrection (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTQwMGYwYTEtOTg3Yy00ZjA2LWI0NmEtNWU2MzA2YWRjNWE2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Society of the Snow (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODM1MWQ1MWUtMDM1ZS00ZjI3LTg4ZTMtNmI1ZDAwNmE4MTNiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Rob Peace (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDNjZDI4YTktNWIwMS00YzFmLWJjMmYtODNiM2QwNzFmZWFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Rise (2022)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWRiYTI1YjUtMzk2ZS00ZWNiLTkzMDQtOGQ3NjlmMWMwNzNlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Oklahoma City Bombing American Terror (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWNhYmUyMTgtOWZiOC00ZjUzLThjMDYtZDY2Y2Q0ZDQ4NmUxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Szabadsag Szerelem (2006)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGEzNzAxZDItNzg2NS00MTYxLWI3MDktM2Y5ZDI2ZDdlMDIyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Richard Jewell (2019)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI3ZThhNTYtM2ZlMy00OWMwLTk3M2MtM2IyYzYzN2IwMDA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Race (2016)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ3MDM1MDU2NF5BMl5BanBnXkFtZTgwMzM3OTIzNzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Prefontaine (1997)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk2MzE0NjQ0Nl5BMl5BanBnXkFtZTcwMzUxMjkxMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Personal Best (1982)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGYxYTBhNjYtNmI2MC00YWMyLWE2OTItNTM0NmI5NTYxZDViXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Peaceful Warrior (2006)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGFiOGJmZjItMDQzMy00YTA0LWEyODMtNmRiYTI4OWYwNTk1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: McFarland USA (2015)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjMwNjY2Mjk5OV5BMl5BanBnXkFtZTgwODM2NTA0MzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Golden Legends (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://nfi.hu/file/slides/5/54232/gold_of_the_nation_plakat_en_k_rgb.jpg"
+    },
+    {
+      "name": "HU: Full Out (2015)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDQ4MDBhMDUtNmFjNS00MGE4LThmZTgtNDcwMWQxYmQ5ZDMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Foxcatcher (2014)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ2MjQxNjYxOV5BMl5BanBnXkFtZTgwMzIwODUxMzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Fehér Tenyér (2006)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM5NTk3OTY3NF5BMl5BanBnXkFtZTgwNzY1MDAxMzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Cool Runnings (1993)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWFkMzUyMmMtYjZjMy00MTY2LTg3NGUtOGE3M2NkZTM1MDA5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Chariots of Fire (1981)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2M0ODM0NjEtOTM5OS00Yzg0LWE5MDktZDEwZDY0YzdiYTJhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Without Limits (1998)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODMwNDY1MzQtNjExZC00YTIwLTkyYjctOWI1MjcxYTM1ZTQ4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Boys in the Boat (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzc2MTAzMGEtYjVlYy00N2YxLWIwODEtMTc1MjE0MjExYjI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Not Quite Hollywood (2008)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg1MjQ1Nzk3Nl5BMl5BanBnXkFtZTcwNjY0NTM5MQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Pirates of Silicon Valley (1999)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDc2NTE0NzE4N15BMl5BanBnXkFtZTgwMDQ5MzgwMzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Steve Jobs (2015)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Jobs (2013)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM5NTQ3MTYxN15BMl5BanBnXkFtZTcwODE2Nzk3OQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Social Network (2010)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: American Sniper (2014)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Million Dollar Arm (2014)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM1OTUwOTA0M15BMl5BanBnXkFtZTgwMTA0Nzk4MjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Blockade (2022)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODAwNmVlZTgtYWI0MC00MWY4LTkzYWMtYWU2Y2Y1ZTc1MDA1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Founder (2016)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Most vagy Soha (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWQxZjlhMDctMmQ2OC00NWNmLTk4NTYtNWMwYzY5MTcxMWM5XkEyXkFqcGc@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+    },
+    {
+      "name": "HU: Con Mum (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDE2YTIwNTktM2IwNi00ZWFlLWE0NTEtYTVhYjdjNWMzNjViXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Tattooists Son Journey to Auschwitz (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2NmMzQwMzctZGVlNy00YWRkLWFlNDItYTcwZDlkMmY4MjExXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Miss Italia Mustnt Die (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2NiY2Y5MTUtM2M2My00N2JhLThhODgtZjQwMDVmOTZhMjI5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Dont Die The Man Who Wants to Live Forever (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmJmMDU2YWYtZWFhNC00MGNmLWE0YTgtM2M2MWRlODE2ODhjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Twister Caught in the Storm (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzBiYzhlZDEtZjU5Ny00ZDY4LWJjZTEtNGM4ZmQ2ODE2NTBkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Blonde (2022)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDllNjNhMWYtZTg0ZC00ZTE3LWI3MDgtMThiOTY0NTBmOGI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Pianist (2002)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Volcano Rescue from Whakaari (2022)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTFlNjU3YzctODIxOS00MTEzLWI5Y2MtMTQyMzQ0YTkzZWNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Take Care of Maya (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI2ZWI3YjAtMzgxMy00NmFhLTk3Y2UtZWFmNTIzOWJjNzRlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Girl in the Picture (2022)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjcyMjhkNmQtNzM5OS00NGE3LWE0OTktMDBiZDIzNzA1MzUxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Tinder Swindler (2022)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTQ5YzM2YzQtNGY0ZS00ZjUyLThmN2YtYzlmNTEzMmQ0YzgyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Remarkable Life of Ibelin (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTFjODAyMGItOTljMi00Nzg1LWI4OTEtYmY5MDFjOTAxOTYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Redeem Team (2022)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTc0YWUwNWItYzA4OC00Mzk5LTk3ZDQtOGYxM2M5NmE4YWViXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Deepest Breath (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmY2YmUwZDMtNjRmNi00ODJhLTllZjYtYzk4ZDg3MTE4ZjA4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Pamela A Love Story (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2M5YjJjYmItZTg1ZC00MTM3LThmOGQtZjlmMTYyMmNjY2FhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: 14 Peaks Nothing is Impossible (2021)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTczNTM1YjQtMTkzNy00ODkzLWE3MzEtMGJjOTIxODU3NmNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: 20 Days in Mariupol (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmY2ODlmNmQtODQ2MS00OTlkLWIyNTEtNzhhNTEyNjNjMjdjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Lover Stalker Killer (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGZmOTU4MWEtMzRkYi00NzYyLWJmMGQtZjFmZDllMTEyY2JjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Promised Land (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWViODY0NTMtYjEyOS00NDEwLWFjZDYtOGYyZDEzMjZkOGE2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Menendez Brothers (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjg1NzQ0OGYtN2RmZi00MGQ3LTk4ZWYtOWU5MTk4YzMyMDRmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Greatest night in Pop (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDhiMmU0YzEtNzE0Mi00OTRmLWEyMjAtZWRhNzJlZmRiM2U2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Sugarcane (2024)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjMwZjI4NTItNTg1Yi00YTgwLTg0YTUtNGQzZWEzYzEzMTgzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Oppenheimer (2023)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Seabiscuit (2003)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWExOWJjNmEtMjk3Ny00YjM5LWEwYTctY2ViMTgwMTZkNGM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Horse Whisperer (1998)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTI5YTI5ZmYtZWQ0Ny00YzU4LTg3NmUtYjVmMzQxOGNjYzRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: War Horse (2011)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjExNzkxOTYyNl5BMl5BanBnXkFtZTcwODA0MjU4Ng@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Secretariat (2010)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8078196_p_v8_ah.jpg"
+    },
+    {
+      "name": "HU: Ruffian (2007)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTIyNTk2MzIwMV5BMl5BanBnXkFtZTcwNDYyMzU1MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Kincsem (2017)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzJiYzJkYTMtZWZkMy00MDA4LWE5MjgtMGIyMWE5NmFkMjgwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Dreamer (2005)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjc0NjgzOGQtYTE2MC00N2EzLThhZDQtMzUwMTE3NDM0NjYwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Chaos The Manson Murders (2025)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjgwYjk3MzItZmM3Mi00OGQxLTkzYTctZWI5ZGY1ZGFkY2I0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Irishman (2019)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY2YThkNmQtOWJhYy00ZDc3LWEzOGEtMmQwNzM0YjFmZWIyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Imitation Game (2014)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Schumacher (2021)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjk4ZjczZTMtOGEwYi00ZGViLWI2MGMtNmZjOTI2MjE3NWNiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: I Tonya (2017)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI5MDY1NjYzMl5BMl5BanBnXkFtZTgwNjIzNDAxNDM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Hidden Figures (2016)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Green Book (2018)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: A Beautiful Mind (2001)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzljZTk5ZDgtZTQ1Zi00NTM4LThlOGUtZDk2MGM4NDQ4NWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Walk (2015)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTY4MzA4Mzc5Nl5BMl5BanBnXkFtZTgwNDIzMzk5NjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Inventor (2020)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTJlODhjZWQtOWZkYS00MWY1LWFkODUtZTAwNmRmNmM4ZjU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ford v Ferrari (2019)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjdiMzdjNzktNTA5ZS00M2Q4LTg2MjAtNzYwYWQ5NGEyMmNkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Bohemian Rhapsody (2018)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Katinka (2022)",
+      "group": "HU - Documentary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWU3ZDFlMDAtMGEzYS00MGVlLTkxZTItYWU3NTJjN2ZjZGIzXkEyXkFqcGc@._V1_.jpg"
+    }
+  ]
+}

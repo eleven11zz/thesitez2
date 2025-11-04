@@ -1,0 +1,43 @@
+{
+  "package": "world",
+  "name": "DSTV - Music - Live.",
+  "groupIndex": 47,
+  "totalChannels": 7,
+  "channels": [
+    {
+      "name": "DsTV: Loveworld HD  (101-SERVERS)",
+      "group": "DSTV - Music - Live.",
+      "logo": "https://logo.m3uassets.com/loveworld.png"
+    },
+    {
+      "name": "DsTV: Loveworld SAT HD  (101-SERVERS)",
+      "group": "DSTV - Music - Live.",
+      "logo": "https://logo.m3uassets.com/loveworldsat.png"
+    },
+    {
+      "name": "DsTV: Soweto TV HD  (101-SERVERS)",
+      "group": "DSTV - Music - Live.",
+      "logo": "https://logo.m3uassets.com/sowetotv.png"
+    },
+    {
+      "name": "DSTV: Trace Africa HD  (101-SERVERS)",
+      "group": "DSTV - Music - Live.",
+      "logo": "https://logo.m3uassets.com/traceafrica.png"
+    },
+    {
+      "name": "DSTV: Trace Mizik HD  (101-SERVERS)",
+      "group": "DSTV - Music - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19498199701.png"
+    },
+    {
+      "name": "DSTV: Trace Urban HD  (101-SERVERS)",
+      "group": "DSTV - Music - Live.",
+      "logo": "https://logo.m3uassets.com/traceurban.png"
+    },
+    {
+      "name": "DSTV: Tshwane TV HD  (101-SERVERS)",
+      "group": "DSTV - Music - Live.",
+      "logo": "https://logo.m3uassets.com/tshwanetv.png"
+    }
+  ]
+}

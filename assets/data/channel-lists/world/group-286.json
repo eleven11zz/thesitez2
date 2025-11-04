@@ -1,0 +1,433 @@
+{
+  "package": "world",
+  "name": "EN - Family Movies",
+  "groupIndex": 286,
+  "totalChannels": 85,
+  "channels": [
+    {
+      "name": "EN: The Perfect Catch (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLO64np21v6uKlHSMUGsRDG16II.jpg"
+    },
+    {
+      "name": "EN: Yes Day (2021)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg"
+    },
+    {
+      "name": "EN: We Can Be Heroes (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg"
+    },
+    {
+      "name": "EN: Upside-Down Magic (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9vTJ78h0SASYUxg4jV0AQ00oF2.jpg"
+    },
+    {
+      "name": "EN: Timmy Failure: Mistakes Were Made (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg"
+    },
+    {
+      "name": "EN: Think Like a Dog (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDbOrc2RtIA37nLm0CzVpFLrdaG.jpg"
+    },
+    {
+      "name": "EN: The Sound of Music (1965)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvXiJggaxRrU4jLjTXCmqnqEsGd.jpg"
+    },
+    {
+      "name": "EN: The Sleepover (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iEc34Qje2V3FZnrSXKfZsbiHjW.jpg"
+    },
+    {
+      "name": "EN: The Secret Garden (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MSDwUcqnGodFTvtlLiLKK0XKS.jpg"
+    },
+    {
+      "name": "EN: The Secret Garden (1993)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B8yOYHrp0AopX3gk4b7jWH3Q5a.jpg"
+    },
+    {
+      "name": "EN: The One and Only Ivan (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDOyGAiTaXvjKGmnmXsoFO7zItt.jpg"
+    },
+    {
+      "name": "EN: The Magic Kids: Three Unlikely Heroes (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbLDJ8bxEATrZkXopKBXQFzlSdq.jpg"
+    },
+    {
+      "name": "EN: The Lord of the Rings: The Two Towers (2002)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
+    },
+    {
+      "name": "EN: The Lion King (2019)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg"
+    },
+    {
+      "name": "EN: The Last Champion (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yASEm8EXpJRx5WxxCOoMBkPEuXB.jpg"
+    },
+    {
+      "name": "EN: The Farmer and the Belle: Saving Santaland (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOtzpBwxMz0pmX0hno123pW7qPf.jpg"
+    },
+    {
+      "name": "EN: The Christmas Ride (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOTLrJr5tX5i9c3zJP2Wld9wt7C.jpg"
+    },
+    {
+      "name": "EN: The Adventure of A.R.I.: My Robot Friend (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txcjXiyhBvsSFyZtgCHWW7CyIeN.jpg"
+    },
+    {
+      "name": "EN: Switched (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4nGI9mEFU8cGrhLUzHNM2cAlQy.jpg"
+    },
+    {
+      "name": "EN: Swimming for Gold (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74Zw8wcFtmtiVyMXscEJZPZ14eo.jpg"
+    },
+    {
+      "name": "EN: Shakuntala Devi (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KBmoMHfdrjednxWAvkh7ARhrRJ.jpg"
+    },
+    {
+      "name": "EN: Selfie Dad (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPhqit1DmfsAgC2i4HhZCCXUZW1.jpg"
+    },
+    {
+      "name": "EN: Roald Dahl's The Witches (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1C0FuXp4wiPmHLVKq4kwtDMgK6.jpg"
+    },
+    {
+      "name": "EN: Roald & Beatrix: The Tail of the Curious Mouse (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jjZCit8ML0sEESGGq6UX8UuQDC.jpg"
+    },
+    {
+      "name": "EN: Playing with Fire (2019)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBLPIpReSatt1zcgVzSVzq5e581.jpg"
+    },
+    {
+      "name": "EN: Operation Christmas Drop (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fUcKFDy58DhWYd5Y7Nu5DgpxaE.jpg"
+    },
+    {
+      "name": "EN: One Last Prayer (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TgYlvbGMwmhuM8mXFxVd2NEl7p.jpg"
+    },
+    {
+      "name": "EN: Now and Then (1995)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ8xP1WOfatqgUp4e3X8n73itJc.jpg"
+    },
+    {
+      "name": "EN: Noelle (2019)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zHGNWo4vrAzB5ZqQC0e3p4A2lp.jpg"
+    },
+    {
+      "name": "EN: My Spy (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg"
+    },
+    {
+      "name": "EN: Middleton Christmas (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/om8n8atZcHHcidDzfS43IYiNyIQ.jpg"
+    },
+    {
+      "name": "EN: Matilda (1996)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnLbqoGRGdnPNjMV6rY75wgRamd.jpg"
+    },
+    {
+      "name": "EN: Mary Poppins (1964)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pkyLjelPHXnww2OrYVKgOqynbu.jpg"
+    },
+    {
+      "name": "EN: Mariah Carey's Magical Christmas Special (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGc9CukX7IojOcDYfEgZEM1ez5D.jpg"
+    },
+    {
+      "name": "EN: Magic Camp (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMLuNzGnJWvfbpUdVd5pwO7G3Fk.jpg"
+    },
+    {
+      "name": "EN: Life-Size 2 (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/4tPVZWZ13fWuWZRaZv3TyM7ilaw.jpg"
+    },
+    {
+      "name": "EN: LEGO DC: Shazam! Magic and Monsters (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziIyuNNNwYqv0qbOpV9VvvdnRBb.jpg"
+    },
+    {
+      "name": "EN: Land Of Glass (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyVsAywRjj5fypMYdrfJms6PXl6.jpg"
+    },
+    {
+      "name": "EN: Kiwi Christmas (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSEVkTNCc7BXWOX9bExsXY0oNF0.jpg"
+    },
+    {
+      "name": "EN: Kid West (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhhRkJQ4LFkmukoLTqrdCx8mnWw.jpg"
+    },
+    {
+      "name": "EN: Just Another Christmas (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pv4e8yKGMJAaZihYPFUjYHsG8Ob.jpg"
+    },
+    {
+      "name": "EN: Jim Button and Luke the Engine Driver (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkJEkOOr1qn5HLGGhkJ0bTTPVET.jpg"
+    },
+    {
+      "name": "EN: I'll Be Next Door for Christmas (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxIYONWyyLVIMHsAOAToB9VqJ1z.jpg"
+    },
+    {
+      "name": "EN: Horse Camp: A Love Tail (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l1KjWs1mrLlDWNBdhCHVOej0eS.jpg"
+    },
+    {
+      "name": "EN: Hope Ranch (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KgMKPJxRxovVMoEm1eZlFlHyLn.jpg"
+    },
+    {
+      "name": "EN: Hope Dances (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZB3Q0lim7fSZu8rcBSx2VPvClO.jpg"
+    },
+    {
+      "name": "EN: Hidden Orchard Mysteries: The Case of the Air B and B Robbery (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pULjbyrqBNAJSRdno9mrbVx8ro9.jpg"
+    },
+    {
+      "name": "EN: Good Friday (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQZKCcSeWIRuW1r8fksYEOzUhyP.jpg"
+    },
+    {
+      "name": "EN: God Bless the Broken Road (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39B20BSnUykv6KM6EZOZ52dmUcx.jpg"
+    },
+    {
+      "name": "EN: Go! (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jnOSpITigPAG2SvmoxTSFJy35sv.jpg"
+    },
+    {
+      "name": "EN: Furry Vengeance (2010)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR8BBTRxU2xu0FvrTTio8CvCwi3.jpg"
+    },
+    {
+      "name": "EN: Full Out 2: You Got This! (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeW1gOLWauwhFVleLwcW29RHLG2.jpg"
+    },
+    {
+      "name": "EN: Four Kids and It (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIFyMT7HIUdfYPqgjsFsXlbaVZx.jpg"
+    },
+    {
+      "name": "EN: Flora & Ulysses (2021)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/syobJCxZcIJl0OpjNroZSQKa1kW.jpg"
+    },
+    {
+      "name": "EN: Felix and the Treasure of Morgäa (2021)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqRKcVybzM2NXV9p9vvx337HMXy.jpg"
+    },
+    {
+      "name": "EN: Faith's Song (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtOKEMXFWKtJu0qwEXW0v0kTAVd.jpg"
+    },
+    {
+      "name": "EN: Dr. Seuss' The Grinch Musical (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHJlD4ElNBZmejPATAjkuLUooSB.jpg"
+    },
+    {
+      "name": "EN: Dolphin Reef (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPNBcFxokPyp8pvRtgNtgXamxxO.jpg"
+    },
+    {
+      "name": "EN: Dolphin Island (2021)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e6s81zXN6YiM7AeFlZChITH4dc.jpg"
+    },
+    {
+      "name": "EN: Destined to Ride (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGOkZLH4vApt24ZFyt4xVZvefWd.jpg"
+    },
+    {
+      "name": "EN: Cupid's Proxy (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajDsbrY0hJv9NdupoBwvcbWfjq7.jpg"
+    },
+    {
+      "name": "EN: Courting Mom and Dad (2021)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6QXao2eqgPbmJYbydVNbE3Gtln.jpg"
+    },
+    {
+      "name": "EN: Cold November (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbwYd2uujOJ4EGxt67Veg0E4Gde.jpg"
+    },
+    {
+      "name": "EN: Cinderella: The Enchanted Beginning (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hAgjZizUkQ0JiAyxfMrxiNeQTG.jpg"
+    },
+    {
+      "name": "EN: Christmas Wedding Planner (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiXeO0UXYLqASWcuJMJNgWqGqmC.jpg"
+    },
+    {
+      "name": "EN: Christmas Break-In (2019)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZmPodMlyRNOHrVPYLTGehM2s3q.jpg"
+    },
+    {
+      "name": "EN: Buttons (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2IyG5mLsgdBDZq1AHGOQ1i1KUF.jpg"
+    },
+    {
+      "name": "EN: Bernie the Dolphin (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc2emcyFQVsnCrTwH5MdZiJeRcx.jpg"
+    },
+    {
+      "name": "EN: Bennett's Song (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/isc0yZFKPd5xVSzLSBEiopX2JO4.jpg"
+    },
+    {
+      "name": "EN: Benjamin the Elephant (2019)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTDPM8MQBbl64cGnbFq03qwEOmH.jpg"
+    },
+    {
+      "name": "EN: A Royal Christmas Engagement (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmQvTUS3C1cHPMj92S31Av3TlN6.jpg"
+    },
+    {
+      "name": "EN: Anne of Green Gables: The Good Stars (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGsvw0AWUHIttzoFTmNigtBbrFb.jpg"
+    },
+    {
+      "name": "EN: Amanda and the Fox (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOhYdmfprKhchKCuiO6hOVB3lfR.jpg"
+    },
+    {
+      "name": "EN: A Majestic Christmas (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUL1DWP6RHx0BYE8999P9urfbnl.jpg"
+    },
+    {
+      "name": "EN: All Styles (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHwGKBD6YneE1gejRP4X2z4gZWM.jpg"
+    },
+    {
+      "name": "EN: Aliens Ate My Homework (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SlQPLBhaB7EF3FlEgcjtMIZ7WK.jpg"
+    },
+    {
+      "name": "EN: Alex & Me (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nurw4kqyu2krOMbkQoKiZTMhEWJ.jpg"
+    },
+    {
+      "name": "EN: A Horse from Heaven (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1czsAXl9sGD5eS7LlaA6qC7mihZ.jpg"
+    },
+    {
+      "name": "EN: A Family for the Holidays (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrjkOCYPjapNGprB2Gx5aIGAMIj.jpg"
+    },
+    {
+      "name": "EN: A Dog's Purpose (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jcNvhtVQe5Neoffdic39fRactM.jpg"
+    },
+    {
+      "name": "EN: A Dog's Journey (2019)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wquJChp0NpoqthYdE3YjXNNxvVC.jpg"
+    },
+    {
+      "name": "EN: A Doggone Hollywood (2017)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AbgA96GJUZIn8tFj3fa6WDiycD.jpg"
+    },
+    {
+      "name": "EN: A Christmas Gift from Bob (2020)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwM2BBxG4XLGvkCX7GbVDt8hjaV.jpg"
+    },
+    {
+      "name": "EN: 2:Hrs (2018)",
+      "group": "EN - Family Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUyPSjiMSLgwkhQM4PebbEKSf11.jpg"
+    },
+    {
+      "name": "EN: 102 Dalmatians 2000 720p",
+      "group": "EN - Family Movies",
+      "logo": "https://cdn.cline.fun/img.php?link=/zain786/102%20Dalmatians%202000.jpg"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "package": "world",
+  "name": "GR - Greece - Live.",
+  "groupIndex": 83,
+  "totalChannels": 73,
+  "channels": [
+    {
+      "name": "GR: NOVA Cinema 1 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novacinema1.png"
+    },
+    {
+      "name": "GR: NOVA Cinema 2 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novacinema2.png"
+    },
+    {
+      "name": "GR: NOVA Cinema 3 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novacinema3.png"
+    },
+    {
+      "name": "GR: Nova Cinema 4 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novacinema4.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 1 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novapremiere1.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 2 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novapremiere2.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 3 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novapremiere3.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 4 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novapremiere4.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 6 FHD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/36621245391.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 7 FHD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/75861574161.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 9 FHD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/41850965661.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 11 FHD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/52314079561.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 14 FHD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/88711213141.png"
+    },
+    {
+      "name": "GR: NOVA Premiere 16 FHD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/96717544381.png"
+    },
+    {
+      "name": "GR: NOVA Premiere History HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/97461864361.png"
+    },
+    {
+      "name": "GR: NOVA Premiere Action FHD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/30440674251.png"
+    },
+    {
+      "name": "GR: NOVA Premiere Thriller HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/75073617961.png"
+    },
+    {
+      "name": "GR: NOVA Premiere Comedy HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/76925250421.png"
+    },
+    {
+      "name": "GR: NOVA Sports 3 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novasports3.png"
+    },
+    {
+      "name": "GR: OTE Sport 1 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/otesport1.png"
+    },
+    {
+      "name": "GR: OTE Sport 2 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/otesport2.png"
+    },
+    {
+      "name": "GR: OTE Sport 3 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/otesport3.png"
+    },
+    {
+      "name": "GR: Cosmote Sport 1 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/cosmotesport1.png"
+    },
+    {
+      "name": "GR: Cosmote Sport 3 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/cosmotesport3.png"
+    },
+    {
+      "name": "GR: Cosmote Sport 5 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/cosmotesport5.png"
+    },
+    {
+      "name": "GR: Cosmote Sport 6 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/cosmotesport6.png"
+    },
+    {
+      "name": "GR: Cosmote Sport 7 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/cosmotesport7.png"
+    },
+    {
+      "name": "GR: 4E TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/4etv.png"
+    },
+    {
+      "name": "GR: Action 24 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/action24.png"
+    },
+    {
+      "name": "GR: Alert HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7607339509.png"
+    },
+    {
+      "name": "GR: Alpha HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/alpha.png"
+    },
+    {
+      "name": "GR: Animal Planet HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "GR: ANT 1 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/ant1.png"
+    },
+    {
+      "name": "GR: ANT1 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/ant1.png"
+    },
+    {
+      "name": "GR: Attica TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/atticatv.png"
+    },
+    {
+      "name": "GR: Baraza TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/barazatv.png"
+    },
+    {
+      "name": "GR: Canali Music HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7508521666.jpg"
+    },
+    {
+      "name": "GR: Corfu TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/corfutv.png"
+    },
+    {
+      "name": "GR: Cosmote Sport 2 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/cosmotesport2.png"
+    },
+    {
+      "name": "GR: Cosmote Sport 4 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/cosmotesport4.png"
+    },
+    {
+      "name": "GR: Creta HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/creta.png"
+    },
+    {
+      "name": "GR: Discovery Science HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "GR: Disney Junior HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    },
+    {
+      "name": "GR: ERT Sports HD +  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/ertsports.png"
+    },
+    {
+      "name": "GR: ERT World HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/ertworld.png"
+    },
+    {
+      "name": "GR: Eurosport 2 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "GR: FOOD Network HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/foodnetwork.png"
+    },
+    {
+      "name": "GR: FOX TV Greece HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/foxtv.png"
+    },
+    {
+      "name": "GR: Groovy HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/groovy.png"
+    },
+    {
+      "name": "GR: History HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/history.png"
+    },
+    {
+      "name": "GR: Kontra Channel HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/kontrachannel.png"
+    },
+    {
+      "name": "GR: Kphth TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/kphthtv.png"
+    },
+    {
+      "name": "GR: MAD HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/mad.png"
+    },
+    {
+      "name": "GR: Magic TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/magictv.png"
+    },
+    {
+      "name": "GR: Makedonia TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/makedoniatv.png"
+    },
+    {
+      "name": "GR: NEA TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/neatv.png"
+    },
+    {
+      "name": "GR: Nickelodeon HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "GR: NOVA Sport 2 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novasport2.png"
+    },
+    {
+      "name": "GR: NOVA Sport 3 FHD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novasport3.png"
+    },
+    {
+      "name": "GR: NOVA Sport 5 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novasport5.png"
+    },
+    {
+      "name": "GR: NOVA Sports 3 ( ONLY During LIVE Matches ) HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/novasports3.png"
+    },
+    {
+      "name": "GR: NRG TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/nrgtv.png"
+    },
+    {
+      "name": "GR: OPEN Beyond FHD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/openbeyond.png"
+    },
+    {
+      "name": "GR: OTE Cinema 3 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/otecinema3.png"
+    },
+    {
+      "name": "GR: OTE Sport 5 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/otesport5.png"
+    },
+    {
+      "name": "GR: PLAY TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/playtv.png"
+    },
+    {
+      "name": "GR: Reload PLAY HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/61346963421.png"
+    },
+    {
+      "name": "GR: Sigma TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/sigmatv.png"
+    },
+    {
+      "name": "GR: SKAI HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/skai.png"
+    },
+    {
+      "name": "GR: Smile TV HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/smiletv.png"
+    },
+    {
+      "name": "GR: TV 100 HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/tv100.png"
+    },
+    {
+      "name": "GR: Viasat History HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "https://logo.m3uassets.com/viasathistory.png"
+    },
+    {
+      "name": "GR: ERT Sports 2 LIVE HD  (101-SERVERS)",
+      "group": "GR - Greece - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/84172108731.png"
+    }
+  ]
+}

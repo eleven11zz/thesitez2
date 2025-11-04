@@ -1,0 +1,1658 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>TVMaster - Premium IPTV Streaming</title>
+<link href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet"/>
+<style>
+/* Clean Modern Layout - No Bright Colors */
+.swiper { margin: 3rem 0; }
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.site-header .container,
+.site-footer .container {
+  padding: 0 0.5rem;
+}
+
+.benefits-section {
+  padding: 4rem 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82)), url('/assets/benefits-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.benefits-section h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #e50914;
+  margin-bottom: 3rem;
+}
+
+.benefit-card {
+  height: 210px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.benefit-card:hover {
+  transform: scale(1.05);
+}
+
+.benefit-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+  padding: 1.5rem;
+  color: white;
+}
+
+.benefit-overlay h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #e50914;
+}
+
+.benefit-overlay p {
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+.testimonials-section {
+  padding: 4rem 0;
+  background: linear-gradient(135deg, rgba(6, 8, 10, 0.98), rgba(20, 20, 20, 0.95));
+  color: #ffffff;
+}
+
+.testimonials-section h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+  color: #e50914;
+}
+
+.testimonials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+}
+
+.testimonial-card {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 2rem;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(229, 9, 20, 0.25);
+  backdrop-filter: blur(8px);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.testimonial-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, rgba(229, 9, 20, 0.2), transparent 60%);
+  pointer-events: none;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+}
+
+.testimonial-quote {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  color: #f8fafb;
+}
+
+.testimonial-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.testimonial-name {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #ffffff;
+}
+
+.testimonial-role {
+  font-size: 0.9rem;
+  color: rgba(248, 250, 251, 0.7);
+}
+
+.testimonial-stars {
+  color: #e50914;
+  font-size: 1rem;
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+}
+
+.product-card { 
+  background: #000000; 
+  padding: 2rem; 
+  border-radius: 12px; 
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  transition: transform 0.3s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-8px);
+}
+
+.site-footer { 
+  background: #050505; 
+  border-top: 1px solid rgba(229, 9, 20, 0.25);
+  margin-top: 0;
+  width: 100%;
+  padding: 4rem 0 2rem;
+  color: rgba(248, 250, 251, 0.75);
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2.5rem;
+}
+
+.footer-brand > p {
+  margin-top: 1rem;
+  line-height: 1.6;
+  max-width: 320px;
+  color: rgba(248, 250, 251, 0.7);
+}
+
+.brand-logo {
+  height: 60px;
+  width: auto;
+}
+
+.footer-heading {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 1.25rem;
+  color: #ffffff;
+}
+
+.footer-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-links {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.footer-links a {
+  color: rgba(248, 250, 251, 0.7);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: #e50914;
+}
+
+.footer-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  color: rgba(248, 250, 251, 0.7);
+}
+
+.contact-line {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.contact-label {
+  font-weight: 600;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.footer-social {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+}
+
+.footer-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid rgba(229, 9, 20, 0.5);
+  color: #e50914;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.footer-social a:hover {
+  background: #e50914;
+  color: #050505;
+  border-color: #e50914;
+}
+
+.footer-bottom {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-note {
+  color: rgba(248, 250, 251, 0.65);
+}
+
+.footer-legal {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.footer-legal a {
+  color: rgba(248, 250, 251, 0.7);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-legal a:hover {
+  color: #e50914;
+}
+
+.swiper-button-next, .swiper-button-prev {
+  color: #e50914 !important;
+  background: #000000;
+  border-radius: 50%;
+  width: 44px !important;
+  height: 44px !important;
+}
+
+.swiper-pagination-bullet {
+  background: #e50914 !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #ffffff;
+  color: #000000;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background: rgba(5, 5, 5, 0.94);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(229, 9, 20, 0.3);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+  z-index: 1000;
+}
+
+.header-inner {
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.9rem;
+  text-decoration: none;
+}
+
+.header-logo {
+  height: 58px;
+  width: auto;
+}
+
+.brand-text {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.06em;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.main-nav a {
+  color: rgba(248, 250, 251, 0.8);
+  text-decoration: none;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 4px;
+  transition: color 0.2s ease;
+}
+
+.main-nav a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  background: #e50914;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.2s ease;
+}
+
+.main-nav a:hover,
+.main-nav a:focus {
+  color: #ffffff;
+}
+
+.main-nav a:hover::after,
+.main-nav a:focus::after {
+  transform: scaleX(1);
+}
+
+.header-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #e50914;
+  color: #050505;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.85rem 1.75rem;
+  border-radius: 999px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.header-cta:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(229, 9, 20, 0.4);
+}
+
+@media (max-width: 992px) {
+  .main-nav {
+    gap: 1rem;
+  }
+  .main-nav a {
+    font-size: 0.9rem;
+  }
+  .header-cta {
+    padding: 0.75rem 1.5rem;
+  }
+  .stream-slider-wrapper,
+  .sky-slider-wrapper,
+  .demo-slider-wrapper {
+    width: min(100%, 640px);
+    align-self: center;
+    margin: 0 auto 0.35rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    height: auto;
+    padding: 1rem 0 1.5rem;
+    gap: 1.25rem;
+  }
+  .main-nav {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 0.75rem 1.5rem;
+  }
+  .header-cta {
+    align-self: stretch;
+  justify-content: center;
+}
+  .stream-slider-wrapper,
+  .sky-slider-wrapper,
+  .demo-slider-wrapper {
+    width: 100%;
+    margin: 0 auto 0.3rem;
+  }
+  .footer-grid {
+    gap: 2rem;
+  }
+  .footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+  .hero {
+    margin-top: 160px;
+  }
+}
+
+@media (max-width: 600px) {
+  .channel-card {
+    height: 96px;
+    width: 96px;
+  }
+  .sky-swiper .channel-card img {
+    height: 68%;
+  }
+  .stream-slider-wrapper,
+  .sky-slider-wrapper,
+  .demo-slider-wrapper {
+    margin-bottom: 0.3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .channel-card {
+    height: 86px;
+    width: 86px;
+    border-radius: 14px;
+    padding: 0.7rem;
+  }
+  .hero-heading {
+    font-size: clamp(2.2rem, 8vw + 1rem, 3rem);
+  }
+  .hero-subheading {
+    font-size: clamp(1.3rem, 4vw + 0.6rem, 1.8rem);
+  }
+  .testimonials-section h2,
+  .benefits-section h2,
+  .products-section .parallax-products h2 {
+    font-size: 2rem;
+  }
+}
+
+.hero,
+.benefits-section,
+.products-section,
+.testimonials-section {
+  scroll-margin-top: 130px;
+}
+
+.hero {
+  margin-top: 108px;
+}
+
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/images/comfy.avif');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero-content {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero-text-container {
+  max-width: 100%;
+  margin: 0 auto 3rem;
+  text-align: center;
+}
+
+.hero .swiper {
+  margin: 0.35rem 0;
+}
+
+.stream-slider-wrapper,
+.sky-slider-wrapper,
+.demo-slider-wrapper {
+  width: clamp(260px, 80vw, 900px);
+  max-width: 900px;
+  margin: 0 auto 0.35rem;
+  align-self: center;
+}
+
+.channel-card {
+  height: 112px;
+  width: 112px;
+  border-radius: 16px;
+  background: rgba(30, 30, 30, 0.8);
+  border: 1px solid rgba(229, 9, 20, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.85rem;
+  margin: 0 auto;
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(8px);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.channel-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 44px rgba(0, 0, 0, 0.55);
+  border-color: rgba(229, 9, 20, 0.45);
+}
+
+.channel-card img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  filter: brightness(1);
+}
+
+.sky-swiper .channel-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-color: rgba(229, 9, 20, 0.35);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.25);
+}
+
+.sky-swiper .channel-card:hover {
+  box-shadow: 0 20px 44px rgba(0, 0, 0, 0.35);
+}
+
+.stream-swiper .swiper-pagination-bullet,
+.sky-swiper .swiper-pagination-bullet,
+.demo-swiper .swiper-pagination-bullet {
+  background: #e50914 !important;
+}
+
+.sky-swiper .channel-card img {
+  height: 70%;
+  width: auto;
+}
+.hero-heading {
+  font-size: clamp(3rem, 7.5vw + 1.5rem, 5.25rem);
+  color: #e50914;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.hero-subheading {
+  font-size: clamp(1.8rem, 3vw + 0.75rem, 2.4rem);
+  color: #e50914;
+  margin-bottom: 1.5rem;
+  line-height: 1.3;
+}
+
+.hero-description {
+  font-size: clamp(4rem, 6vw + 2rem, 5rem);
+  line-height: 1.4;
+  max-width: 100%;
+  margin: 0 auto;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .hero-text-container {
+    max-width: 90%;
+    margin-bottom: 4rem;
+  }
+  .hero-description {
+    max-width: 95%;
+  }
+}
+
+.hero-content {
+  max-width: 1200px;
+  width: 100%;
+}
+
+.products-section {
+  padding: 4rem 0;
+  background: #050505;
+}
+
+.products-section .parallax-products {
+  max-width: 100%;
+}
+
+.products-section .parallax-products h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #e50914;
+  margin-bottom: 3rem;
+}
+
+.products-scroll-container {
+  display: flex;
+  gap: 2rem;
+  overflow-x: auto;
+  padding: 2rem 0;
+  scroll-behavior: smooth;
+}
+
+.product-card {
+  min-width: 300px;
+  height: 400px;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.8s ease;
+  opacity: 0.4;
+  transform: scale(0.9);
+  filter: brightness(0.5);
+}
+
+.product-card.spotlight {
+  opacity: 1;
+  transform: scale(1.1);
+  filter: brightness(1.2);
+  box-shadow: 0 20px 40px rgba(229, 9, 20, 0.3);
+  border: 2px solid #e50914;
+}
+
+.product-card.adjacent {
+  opacity: 0.7;
+  transform: scale(0.95);
+  filter: brightness(0.8);
+}
+
+.product-card {
+  min-width: 300px;
+  height: 400px;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.8s ease;
+  opacity: 0.4;
+  transform: scale(0.9);
+  filter: brightness(0.5);
+  display: flex;
+  flex-direction: column;
+}
+
+.product-bg {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  transition: transform 0.6s ease;
+  background-size: cover;
+  background-position: center;
+}
+
+.product-content {
+  height: 200px;
+  background: #000000;
+  padding: 1.5rem;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product-content h3 {
+  font-size: 1.3rem;
+  color: #e50914;
+  margin-bottom: 0.5rem;
+}
+
+.product-content p {
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  flex-grow: 1;
+}
+
+.product-type {
+  display: inline-block;
+  background: #e50914;
+  color: #ffffff;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  align-self: flex-start;
+}
+
+.hero-text {
+  max-width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: clamp(1.8rem, 4vw + 1rem, 3rem);
+}
+
+.hero h2 {
+  font-size: clamp(1.4rem, 3vw + 0.5rem, 2rem);
+}
+
+.hero p {
+  font-size: clamp(1rem, 2vw + 0.5rem, 1.3rem);
+  line-height: 1.4;
+  max-width: 65%;
+  margin: 0 auto 2rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  color: #e50914;
+  margin-bottom: 1rem;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  color: #e50914;
+  margin-bottom: 1.5rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto 2rem;
+}
+
+/* White, Red, Black Color Scheme */
+.hero-heading {
+  color: #e50914 !important;
+  font-family: 'Arial Black', Arial, sans-serif !important;
+  font-weight: 900 !important;
+}
+
+.hero-subheading {
+  color: #e50914 !important;
+  font-family: 'Arial Black', Arial, sans-serif !important;
+  font-weight: 900 !important;
+}
+
+.hero-description {
+  color: #ffffff !important;
+}
+
+.products-section {
+  background: #050505 !important;
+  color: #ffffff !important;
+}
+
+.products-section .parallax-products h2 {
+  color: #e50914 !important;
+}
+
+.product-content {
+  background: #000000 !important;
+  color: #ffffff !important;
+}
+
+.product-content h3 {
+  color: #e50914 !important;
+}
+
+.product-type {
+  background: #e50914 !important;
+  color: #ffffff !important;
+}
+
+.product-card.spotlight {
+  box-shadow: 0 20px 40px rgba(229, 9, 20, 0.3) !important;
+  border: 2px solid #e50914 !important;
+}
+
+.benefit-overlay h3 {
+  color: #e50914 !important;
+}
+
+.swiper-button-next, .swiper-button-prev {
+  color: #e50914 !important;
+  background: #000000 !important;
+}
+
+.swiper-pagination-bullet {
+  background: #e50914 !important;
+}
+
+.site-footer {
+  color: #ffffff !important;
+}
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="#hero" class="brand">
+      <img src="/assets/footer_picture.png" alt="TVMaster" class="header-logo">
+      <span class="brand-text">TVMaster</span>
+    </a>
+    <nav class="main-nav">
+      <a href="#hero">Home</a>
+      <a href="#benefits">Benefits</a>
+      <a href="#products">Products</a>
+      <a href="#testimonials">Testimonials</a>
+    </nav>
+    <a class="header-cta" href="#contact">Start Streaming</a>
+  </div>
+</header>
+
+<main>
+  <section class="hero" id="hero">
+    <div class="hero-content">
+      <div class="hero-text-container">
+        <h1 class="hero-heading">Next-Gen IPTV for Serious Fans</h1>
+        <h2 class="hero-subheading">Zero Buffering. Global Channels. Seamless Access.</h2>
+      </div>
+      <div class="stream-slider-wrapper">
+        <div class="swiper stream-swiper">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/netflix.png" alt="Netflix">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/prime.png" alt="Prime Video">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/disney.png" alt="Disney Plus">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/hbo.png" alt="HBO">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/huluu.jpg" alt="Hulu">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/max.jpg" alt="Max">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/apple.jpg" alt="Apple TV Plus">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/espn.jpg" alt="ESPN">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/paramount.jpg" alt="Paramount Plus">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/peacock.jpg" alt="Peacock">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/roku.jpg" alt="Roku">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/youtube.png" alt="YouTube">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/amc.jpg" alt="AMC Plus">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/hot.jpg" alt="Hotstar">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/tving.png" alt="TVING">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/watcha.png" alt="Watcha">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/original.jpg" alt="Originals">
+              </div>
+            </div>
+          </div>
+          <div class="swiper-pagination stream-pagination"></div>
+        </div>
+      </div>
+      <div class="sky-slider-wrapper">
+        <div class="swiper sky-swiper">
+          <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="channel-card">
+              <img src="/assets/sky_slider/cricket.png" alt="Sky Sports Cricket">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/sky_slider/f1.png" alt="Sky Sports F1">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/sky_slider/sky-sport-news-hd.jpg" alt="Sky Sport News HD">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/sky_slider/sky-sport-nba.webp" alt="Sky Sport NBA">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/sky_slider/sky-sport-now.png" alt="Sky Sport Now">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/sky_slider/imageso.png" alt="Sky Sports Original">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/sky_slider/sky-sports-main-event.png" alt="Sky Sports Main Event">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/sky_slider/sky-sports-arena.png" alt="Sky Sports Arena">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/sky_slider/SkySportsFootball_201708.jpg" alt="Sky Sports Football">
+              </div>
+            </div>
+          </div>
+          <div class="swiper-pagination sky-pagination"></div>
+        </div>
+      </div>
+      <div class="demo-slider-wrapper">
+        <div class="swiper demo-swiper">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/netflix.png" alt="Netflix">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/prime.png" alt="Prime Video">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/disney.png" alt="Disney Plus">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/hbo.png" alt="HBO">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/huluu.jpg" alt="Hulu">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/max.jpg" alt="Max">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/apple.jpg" alt="Apple TV Plus">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/espn.jpg" alt="ESPN">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/paramount.jpg" alt="Paramount Plus">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/peacock.jpg" alt="Peacock">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/roku.jpg" alt="Roku">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/youtube.png" alt="YouTube">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/amc.jpg" alt="AMC Plus">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/hot.jpg" alt="Hotstar">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/tving.png" alt="TVING">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/watcha.png" alt="Watcha">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="channel-card">
+                <img src="/assets/stream_slider/original.jpg" alt="Originals">
+              </div>
+            </div>
+          </div>
+          <div class="swiper-pagination demo-pagination"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="benefits-section" id="benefits">
+    <div class="container">
+      <h2>Why Choose TVMaster?</h2>
+      <div class="swiper benefits-swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/antifreeze.avif')">
+              <div class="benefit-overlay">
+                <h3>No Buffering</h3>
+                <p>Anti-freeze technology for smooth streaming</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/30000channels.jpg')">
+              <div class="benefit-overlay">
+                <h3>30,000+ Live Channels</h3>
+                <p>Global entertainment at your fingertips</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/6cda4a1d71ce9727c7ab72350cc7913a_t.jpeg')">
+              <div class="benefit-overlay">
+                <h3>4K Quality</h3>
+                <p>Ultra HD streaming experience</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/ondemand.webp')">
+              <div class="benefit-overlay">
+                <h3>On-Demand Content</h3>
+                <p>Movies and shows when you want them</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/customerservice.png')">
+              <div class="benefit-overlay">
+                <h3>24/7 Support</h3>
+                <p>Dedicated customer service team</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/multiple devices.png')">
+              <div class="benefit-overlay">
+                <h3>Multi-Device</h3>
+                <p>Stream on any device, anywhere</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="products-section" id="products">
+    <div class="container">
+      <div class="parallax-products">
+        <h2>Our Products</h2>
+        <div class="products-scroll-container">
+          <!-- IPTV Only Products -->
+          <div class="product-card">
+            <video class="product-bg" autoplay muted loop>
+              <source src="/assets/IPTV_ONLY/English TV.mp4" type="video/mp4">
+            </video>
+            <div class="product-content">
+              <h3>English IPTV</h3>
+              <p>All-English IPTV subscription with Premier League, entertainment, and catch-up TV ready for your app.</p>
+              <span class="product-type">IPTV Only</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <video class="product-bg" autoplay muted loop>
+              <source src="/assets/IPTV_ONLY/France TV.mp4" type="video/mp4">
+            </video>
+            <div class="product-content">
+              <h3>French IPTV</h3>
+              <p>French IPTV lineup featuring Canal+, beIN Sports, and national channels for any M3U player.</p>
+              <span class="product-type">IPTV Only</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <video class="product-bg" autoplay muted loop>
+              <source src="/assets/IPTV_ONLY/German TV.mp4" type="video/mp4">
+            </video>
+            <div class="product-content">
+              <h3>German IPTV</h3>
+              <p>Complete DACH channel grid with Bundesliga feeds, news, and entertainment in crystal HD.</p>
+              <span class="product-type">IPTV Only</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <video class="product-bg" autoplay muted loop>
+              <source src="/assets/IPTV_ONLY/italy TV.mp4" type="video/mp4">
+            </video>
+            <div class="product-content">
+              <h3>Italian IPTV</h3>
+              <p>Italian IPTV subscription covering Serie A, Mediaset shows, and cinema collections.</p>
+              <span class="product-type">IPTV Only</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <video class="product-bg" autoplay muted loop>
+              <source src="/assets/IPTV_ONLY/Latin TV.mp4" type="video/mp4">
+            </video>
+            <div class="product-content">
+              <h3>Latin IPTV</h3>
+              <p>Pan-Latin IPTV solution bundling Spanish and Portuguese sports, novelas, and regional news.</p>
+              <span class="product-type">IPTV Only</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <video class="product-bg" autoplay muted loop>
+              <source src="/assets/IPTV_ONLY/Scandinavia TV.mp4" type="video/mp4">
+            </video>
+            <div class="product-content">
+              <h3>Scandinavia IPTV</h3>
+              <p>Scandinavian IPTV plan with Sweden, Norway, Denmark, and Finland channels plus kids VOD.</p>
+              <span class="product-type">IPTV Only</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <video class="product-bg" autoplay muted loop>
+              <source src="/assets/IPTV_ONLY/India TV.mp4" type="video/mp4">
+            </video>
+            <div class="product-content">
+              <h3>India IPTV</h3>
+              <p>Indian IPTV package spanning Hindi, Tamil, Telugu, and live cricket with adaptive bitrate.</p>
+              <span class="product-type">IPTV Only</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <video class="product-bg" autoplay muted loop>
+              <source src="/assets/IPTV_ONLY/Netherlands TV.mp4" type="video/mp4">
+            </video>
+            <div class="product-content">
+              <h3>Netherlands IPTV</h3>
+              <p>Dutch IPTV plan with Eredivisie, NPO, SBS6, and regional stations in one playlist.</p>
+              <span class="product-type">IPTV Only</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <video class="product-bg" autoplay muted loop>
+              <source src="/assets/IPTV_ONLY/The world TV.mp4" type="video/mp4">
+            </video>
+            <div class="product-content">
+              <h3>World IPTV</h3>
+              <p>Global mega IPTV subscription merging premium sports, international news, and lifestyle networks.</p>
+              <span class="product-type">IPTV Only</span>
+            </div>
+          </div>
+          
+          <!-- TV Box Products -->
+          <div class="product-card">
+            <div class="product-bg" style="background-image: url('/assets/ANDROID_TV_BOX/English TV Box tvbox-english.jpg')"></div>
+            <div class="product-content">
+              <h3>English TV Box</h3>
+              <p>Flagship 4K hub preloaded with UK/US channels, Premier League coverage, and on-demand apps.</p>
+              <span class="product-type">TV Box Bundle</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <div class="product-bg" style="background-image: url('/assets/ANDROID_TV_BOX/France TV Box tvbox-france.jpg')"></div>
+            <div class="product-content">
+              <h3>French TV Box</h3>
+              <p>Dual-band Android TV box flashed with Canal+ packs, Ligue 1, and French catch-up libraries.</p>
+              <span class="product-type">TV Box Bundle</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <div class="product-bg" style="background-image: url('/assets/ANDROID_TV_BOX/German TV Box tvbox-german.jpg')"></div>
+            <div class="product-content">
+              <h3>German TV Box</h3>
+              <p>Bundesliga-ready media box with Sky Sport, DAZN shortcuts, and proactive remote support.</p>
+              <span class="product-type">TV Box Bundle</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <div class="product-bg" style="background-image: url('/assets/ANDROID_TV_BOX/italy TV Box tvbox-italy.jpg')"></div>
+            <div class="product-content">
+              <h3>Italian TV Box</h3>
+              <p>Serie A optimised bundle featuring Mediaset, DAZN, and cinema apps with a voice-enabled remote.</p>
+              <span class="product-type">TV Box Bundle</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <div class="product-bg" style="background-image: url('/assets/ANDROID_TV_BOX/Latin TV Box tvbox-latin.jpg')"></div>
+            <div class="product-content">
+              <h3>Latin TV Box</h3>
+              <p>Latin America curated box shipping with fútbol channels, novelas, and bilingual kids apps.</p>
+              <span class="product-type">TV Box Bundle</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <div class="product-bg" style="background-image: url('/assets/ANDROID_TV_BOX/Scandinavia TV Box tvbox-scandinavia.jpg')"></div>
+            <div class="product-content">
+              <h3>Scandinavia TV Box</h3>
+              <p>Nordic-tuned streamer including Viaplay, TV2, C More, and ice hockey coverage in HDR.</p>
+              <span class="product-type">TV Box Bundle</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <div class="product-bg" style="background-image: url('/assets/ANDROID_TV_BOX/India TV Box tvbox-india.jpg')"></div>
+            <div class="product-content">
+              <h3>India TV Box</h3>
+              <p>Hotstar, SonyLIV, and Zee5 preinstalled with multi-language channel packs and cricket alerts.</p>
+              <span class="product-type">TV Box Bundle</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <div class="product-bg" style="background-image: url('/assets/ANDROID_TV_BOX/Netherlands TV Box tvbox-netherlands.jpg')"></div>
+            <div class="product-content">
+              <h3>Netherlands TV Box</h3>
+              <p>Dutch-focused Android TV box with Ziggo Sport, NOS, and IPTV portal bookmarks for instant access.</p>
+              <span class="product-type">TV Box Bundle</span>
+            </div>
+          </div>
+          
+          <div class="product-card">
+            <div class="product-bg" style="background-image: url('/assets/ANDROID_TV_BOX/World TV Box tvbox-world.jpg')"></div>
+            <div class="product-content">
+              <h3>World TV Box</h3>
+              <p>Global powerhouse box with 30k live channels, OTA updates, and concierge onboarding.</p>
+              <span class="product-type">TV Box Bundle</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+  <section class="testimonials-section" id="testimonials">
+    <div class="container">
+      <h2>What Our Clients Say</h2>
+      <div class="testimonials-grid">
+        <div class="testimonial-card">
+          <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p class="testimonial-quote">“TVMaster transformed the way we deliver live sports to our customers. The streams are instant, reliable, and our cancellation rate has never been lower.”</p>
+          <div class="testimonial-footer">
+            <span class="testimonial-name">Amelia Navarro</span>
+            <span class="testimonial-role">Head of Operations · StreamWave Media</span>
+          </div>
+        </div>
+        <div class="testimonial-card">
+          <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p class="testimonial-quote">“The Android TV boxes arrived ready to plug in with our branding, premium apps, and multilingual playlists. Our resellers call it the ‘done-for-you’ solution.”</p>
+          <div class="testimonial-footer">
+            <span class="testimonial-name">Luca Moretti</span>
+            <span class="testimonial-role">Channel Partner · EuroStream Italia</span>
+          </div>
+        </div>
+        <div class="testimonial-card">
+          <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          <p class="testimonial-quote">“Zero buffering even during Premier League weekends, 24/7 support, and instant provisioning—TVMaster lets us focus on growth instead of troubleshooting.”</p>
+          <div class="testimonial-footer">
+            <span class="testimonial-name">Sofia Andersson</span>
+            <span class="testimonial-role">Founder · NordX IPTV</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer" id="contact">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <img src="/assets/footer_picture.png" alt="TVMaster Logo" class="brand-logo">
+        <p>Ultra-reliable IPTV and Android TV box solutions with premium sports, cinema, and global channel lineups engineered for zero buffering and rapid deployment.</p>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">FB</a>
+          <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">IG</a>
+          <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">YT</a>
+        </div>
+      </div>
+
+      <div class="footer-column">
+        <h4 class="footer-heading">Solutions</h4>
+        <ul class="footer-links">
+          <li><a href="#products">IPTV Packages</a></li>
+          <li><a href="#products">TV Box Bundles</a></li>
+          <li><a href="#benefits">Service Benefits</a></li>
+          <li><a href="#testimonials">Client Stories</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column">
+        <h4 class="footer-heading">Support</h4>
+        <ul class="footer-links">
+          <li><a href="#contact">Help Center</a></li>
+          <li><a href="#contact">Activation Guide</a></li>
+          <li><a href="#contact">Reseller Program</a></li>
+          <li><a href="#contact">Service Status</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-column">
+        <h4 class="footer-heading">Contact</h4>
+        <div class="footer-contact">
+          <div class="contact-line">
+            <span class="contact-label">Email</span>
+            <span>support@tvmaster.vip</span>
+          </div>
+          <div class="contact-line">
+            <span class="contact-label">Phone</span>
+            <span>+44 20 7123 4567</span>
+          </div>
+          <div class="contact-line">
+            <span class="contact-label">Hours</span>
+            <span>24/7 Global Coverage</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p class="footer-note">© 2024 TVMaster. All rights reserved.</p>
+      <div class="footer-legal">
+        <a href="#contact">Privacy</a>
+        <a href="#contact">Terms</a>
+        <a href="#contact">Accessibility</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const streamSwiper = new Swiper('.stream-swiper', {
+    slidesPerView: 2,
+    spaceBetween: 16,
+    loop: true,
+    speed: 4000,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false,
+    },
+    centeredSlides: true,
+    pagination: {
+      el: '.stream-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      640: { slidesPerView: 3 },
+      768: { slidesPerView: 4 },
+      1024: { slidesPerView: 5 }
+    }
+  });
+
+  const skySwiper = new Swiper('.sky-swiper', {
+    slidesPerView: 2,
+    spaceBetween: 16,
+    loop: true,
+    speed: 4000,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false,
+      reverseDirection: true,
+    },
+    centeredSlides: true,
+    pagination: {
+      el: '.sky-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      640: { slidesPerView: 3 },
+      768: { slidesPerView: 4 },
+      1024: { slidesPerView: 5 }
+    }
+  });
+
+  const demoSwiper = new Swiper('.demo-swiper', {
+    slidesPerView: 2,
+    spaceBetween: 16,
+    loop: true,
+    speed: 4000,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false,
+    },
+    centeredSlides: true,
+    pagination: {
+      el: '.demo-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      640: { slidesPerView: 3 },
+      768: { slidesPerView: 4 },
+      1024: { slidesPerView: 5 }
+    }
+  });
+
+  // Initialize Swiper for benefits cards
+  const swiper = new Swiper('.benefits-swiper', {
+    slidesPerView: 1,
+    spaceBetween: 30,
+    loop: true,
+    autoplay: {
+      delay: 2000,
+      disableOnInteraction: false,
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    breakpoints: {
+      640: { slidesPerView: 2 },
+      1024: { slidesPerView: 3 }
+    }
+  });
+
+  // Rotating spotlight effect for products
+  const productCards = document.querySelectorAll('.product-card');
+  const scrollContainer = document.querySelector('.products-scroll-container');
+  let currentSpotlight = 0;
+  let spotlightInterval;
+  let isPaused = false;
+  
+  function updateSpotlight() {
+    if (isPaused) return;
+    
+    productCards.forEach((card, index) => {
+      card.classList.remove('spotlight', 'adjacent');
+      
+      if (index === currentSpotlight) {
+        card.classList.add('spotlight');
+        
+        // Auto-scroll to follow the spotlight card
+        const cardLeft = card.offsetLeft;
+        const cardWidth = card.offsetWidth;
+        const containerWidth = scrollContainer.offsetWidth;
+        const scrollPosition = cardLeft - (containerWidth / 2) + (cardWidth / 2);
+        
+        scrollContainer.scrollTo({
+          left: scrollPosition,
+          behavior: 'smooth'
+        });
+        
+      } else if (index === currentSpotlight - 1 || index === currentSpotlight + 1) {
+        card.classList.add('adjacent');
+      }
+    });
+    
+    currentSpotlight = (currentSpotlight + 1) % productCards.length;
+  }
+  
+  function startSpotlight() {
+    spotlightInterval = setInterval(updateSpotlight, 3000);
+  }
+  
+  function pauseSpotlight() {
+    isPaused = true;
+  }
+  
+  function resumeSpotlight() {
+    isPaused = false;
+  }
+  
+  // Add hover/touch event listeners to pause spotlight
+  scrollContainer.addEventListener('mouseenter', pauseSpotlight);
+  scrollContainer.addEventListener('mouseleave', resumeSpotlight);
+  scrollContainer.addEventListener('touchstart', pauseSpotlight);
+  scrollContainer.addEventListener('touchend', resumeSpotlight);
+  
+  // Start spotlight rotation
+  if (productCards.length > 0) {
+    updateSpotlight(); // Initial spotlight
+    startSpotlight();
+  }
+  
+  // Smooth horizontal scroll for products
+  const container = document.querySelector('.products-scroll-container');
+  if (container) {
+    let isDown = false;
+    let startX;
+    let scrollLeft;
+    
+    container.addEventListener('mousedown', (e) => {
+      isDown = true;
+      startX = e.pageX - container.offsetLeft;
+      scrollLeft = container.scrollLeft;
+    });
+    
+    container.addEventListener('mouseleave', () => {
+      isDown = false;
+    });
+    
+    container.addEventListener('mouseup', () => {
+      isDown = false;
+    });
+    
+    container.addEventListener('mousemove', (e) => {
+      if (!isDown) return;
+      e.preventDefault();
+      const x = e.pageX - container.offsetLeft;
+      const walk = (x - startX) * 2;
+      container.scrollLeft = scrollLeft - walk;
+    });
+  }
+});
+</script>
+</body>
+</html>

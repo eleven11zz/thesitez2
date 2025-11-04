@@ -1,0 +1,458 @@
+{
+  "package": "latin",
+  "name": "ES - DEPORTES - Live.",
+  "groupIndex": 9,
+  "totalChannels": 90,
+  "channels": [
+    {
+      "name": "DAZN Formula 1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/70021872881.png"
+    },
+    {
+      "name": "DAZN LaLiga HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/daznlaliga.png"
+    },
+    {
+      "name": "Eurosport 1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "Eurosport 2 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "DAZN 1 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/dazn1.png"
+    },
+    {
+      "name": "DAZN 1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/dazn1.png"
+    },
+    {
+      "name": "DAZN 2 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/dazn2.png"
+    },
+    {
+      "name": "DAZN 3 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/dazn3.png"
+    },
+    {
+      "name": "DAZN 4 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/dazn4.png"
+    },
+    {
+      "name": "M. DAZN LaLiga  1 SD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a6d5a746f2baef59ef5ea5813fbd2eab.png"
+    },
+    {
+      "name": "M. DAZN LaLiga  1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/dfb249621519f8cf0f871eedb58c0c67.png"
+    },
+    {
+      "name": "M. DAZN LaLiga  1 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/46e1f9d175c2a75f2b23e86738a2ce2e.png"
+    },
+    {
+      "name": "M. DAZN LaLiga 2 SD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/83280737291.png"
+    },
+    {
+      "name": "M. DAZN LaLiga 2 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c5e362c0e40cf6a1356e51e1922dda43.png"
+    },
+    {
+      "name": "M. DAZN F1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/65568268171.png"
+    },
+    {
+      "name": "BEIN Sports LaLiga HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportslaliga.png"
+    },
+    {
+      "name": "M. LaLiga HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mlaliga.png"
+    },
+    {
+      "name": "M. LaLiga FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mlaliga.png"
+    },
+    {
+      "name": "M. LaLiga 1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mlaliga1.png"
+    },
+    {
+      "name": "M. LaLiga 1 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mlaliga1.png"
+    },
+    {
+      "name": "M. LaLiga 2 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mlaliga2.png"
+    },
+    {
+      "name": "M. LaLiga 2 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mlaliga2.png"
+    },
+    {
+      "name": "M. LaLiga 3 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mlaliga3.png"
+    },
+    {
+      "name": "M. LaLiga 4 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mlaliga4.png"
+    },
+    {
+      "name": "M. LaLiga 5 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mlaliga5.png"
+    },
+    {
+      "name": "LaLiga  TV BAR 1 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/laligatvbar1.png"
+    },
+    {
+      "name": "LaLiga TV BAR HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/laligatvbar.png"
+    },
+    {
+      "name": "LaLiga TV BAR ( AVATEL ) (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/laligatvbar.png"
+    },
+    {
+      "name": "LaLiga TV BAR 2 ( AVATEL ) (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/laligatvbar2.png"
+    },
+    {
+      "name": "M. Formula F1 SD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19586009701.png"
+    },
+    {
+      "name": "M. Formula 1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mformula1.png"
+    },
+    {
+      "name": "DAZN Movistar 1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/560cad3c2b969f7c83e2709a3ae71778.png"
+    },
+    {
+      "name": "DAZN Movistar 1 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a31e27c7892ddc6e305d2d4be8ff96ef.png"
+    },
+    {
+      "name": "DAZN Movistar 2 SD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/83280737291.png"
+    },
+    {
+      "name": "DAZN Movistar 2 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/3dd511386cfb0704afdb0171266780a9.png"
+    },
+    {
+      "name": "DAZN Movistar 2 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/38032930251.png"
+    },
+    {
+      "name": "DAZN Movistar 3 SD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/35600473061.png"
+    },
+    {
+      "name": "DAZN Movistar 3 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/570c4331c968f6d3e841186552db160d.png"
+    },
+    {
+      "name": "DAZN Movistar 4 SD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/f57cb773ece5d7807ff6deabcfb4dce8.png"
+    },
+    {
+      "name": "DAZN Movistar 4 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/50ecbdffe811de68dcc44ff2cea7799b.png"
+    },
+    {
+      "name": "DAZN Movistar F1 SD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0b04c90f4758743e44fc91e50837e4f8.png"
+    },
+    {
+      "name": "DAZN Movistar F1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/e13c7d1aa2811a34338293587c1defab.png"
+    },
+    {
+      "name": "DAZN Movistar F1 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/f0a56f52189c41425e9bad844adf8a38.png"
+    },
+    {
+      "name": "Liga DE Campeones 1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/ligacampeones1.png"
+    },
+    {
+      "name": "Liga DE Campeones 2 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/ligacampeones2.png"
+    },
+    {
+      "name": "Liga DE Campeones 3 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/ligacampeones3.png"
+    },
+    {
+      "name": "Liga DE Campeones 4 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/ligacampeones4.png"
+    },
+    {
+      "name": "Liga DE Campeones 5 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/ligacampeones5.png"
+    },
+    {
+      "name": "Liga DE Campeones 7 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/ligacampeones7.png"
+    },
+    {
+      "name": "Liga DE Campeones 8 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/ligacampeones8.png"
+    },
+    {
+      "name": "M. Deportes 1 FHD (h.265) (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes1.png"
+    },
+    {
+      "name": "M. Deportes 1 FHD (solo Eventos) (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes1.png"
+    },
+    {
+      "name": "M. Deportes 1 HD (solo Eventos) (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes1.png"
+    },
+    {
+      "name": "M. Deportes 2 (solo Eventos) HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes2.png"
+    },
+    {
+      "name": "M. Deportes 2 FHD (fibra) (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes2.png"
+    },
+    {
+      "name": "M. Deportes 3 (solo Eventos) HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes3.png"
+    },
+    {
+      "name": "M. Deportes 3 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes3.png"
+    },
+    {
+      "name": "M. Deportes 4 (solo Eventos) HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes4.png"
+    },
+    {
+      "name": "M. Deportes 4 FHD (fibra) (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes4.png"
+    },
+    {
+      "name": "M. Deportes 5 (solo Eventos) HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes5.png"
+    },
+    {
+      "name": "M. Deportes 5 FHD (fibra) (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes5.png"
+    },
+    {
+      "name": "M. Deportes HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeportes.png"
+    },
+    {
+      "name": "GOL PLAY (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/golplay.png"
+    },
+    {
+      "name": "GOL TV FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/goltv.png"
+    },
+    {
+      "name": "GOL TV HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/goltv.png"
+    },
+    {
+      "name": "M+ Ellas (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c5926c02a8b66e2a2faf898ac7f9ec8e.png"
+    },
+    {
+      "name": "M. Liga Campeones 1 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mligacampeones1.png"
+    },
+    {
+      "name": "M. Liga Campeones 2 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mligacampeones2.png"
+    },
+    {
+      "name": "M. LaLiga Smartbank TV 2 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png"
+    },
+    {
+      "name": "M. Liga DE Campeones HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mligacampeones.png"
+    },
+    {
+      "name": "M. Deporte 1 HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mdeporte1.png"
+    },
+    {
+      "name": "M. Futbol HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/96288475881.png"
+    },
+    {
+      "name": "M. GOLF HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mgolf.png"
+    },
+    {
+      "name": "M. Liga Campeones HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/mligacampeones.png"
+    },
+    {
+      "name": "M. Liga Campeones SD  Multiaudio (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/6b61c9935b9de8c24ff4c3342fc80262.png"
+    },
+    {
+      "name": "M. MOTO GP FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/75639203131.png"
+    },
+    {
+      "name": "M. Toros FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/tgfdd.jpg"
+    },
+    {
+      "name": "Liga Hypermotion 1 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/d1d14a364f9217657e5f25900a99e9e6.png"
+    },
+    {
+      "name": "Liga Hypermotion 3 FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/06daf7901fcc6281365ec18353cd4d64.png"
+    },
+    {
+      "name": "ESPN HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/espn.png"
+    },
+    {
+      "name": "Mundotoro HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg"
+    },
+    {
+      "name": "Nhl Network HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/nhlnetwork.png"
+    },
+    {
+      "name": "REAL Madrid TV HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/realmadridtv.png"
+    },
+    {
+      "name": "Red bull TV HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/redbulltv.png"
+    },
+    {
+      "name": "Sky Sport LaLiga (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/12bedf6d2b41c3caad1d0da678d155d2.png"
+    },
+    {
+      "name": "Teledeporte HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/teledeporte.png"
+    },
+    {
+      "name": "Toros TV FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/torostv.png"
+    },
+    {
+      "name": "Vamos SD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/vamos.png"
+    },
+    {
+      "name": "Vamos HD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/vamos.png"
+    },
+    {
+      "name": "Vamos FHD (ES)  (101-SERVERS)",
+      "group": "ES - DEPORTES - Live.",
+      "logo": "https://logo.m3uassets.com/vamos.png"
+    }
+  ]
+}

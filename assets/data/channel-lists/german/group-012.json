@@ -1,0 +1,48 @@
+{
+  "package": "german",
+  "name": "DE - Cinema KINO - Live.",
+  "groupIndex": 12,
+  "totalChannels": 8,
+  "channels": [
+    {
+      "name": "DE: EAGLE CINEMA ABENTEUER  (101-SERVERS)",
+      "group": "DE - Cinema KINO - Live.",
+      "logo": "https://logo.m3uassets.com/9live.png"
+    },
+    {
+      "name": "DE: EAGLE CINEMA ACTION  (101-SERVERS)",
+      "group": "DE - Cinema KINO - Live.",
+      "logo": "https://logo.m3uassets.com/eaglecinemaaktion.png"
+    },
+    {
+      "name": "DE: EAGLE CINEMA CLASSICS  (101-SERVERS)",
+      "group": "DE - Cinema KINO - Live.",
+      "logo": "https://logo.m3uassets.com/cinemaclassics.png"
+    },
+    {
+      "name": "DE: EAGLE CINEMA COMEDY  (101-SERVERS)",
+      "group": "DE - Cinema KINO - Live.",
+      "logo": "https://logo.m3uassets.com/cinemacomedy.png"
+    },
+    {
+      "name": "DE: EAGLE CINEMA DRAMA  (101-SERVERS)",
+      "group": "DE - Cinema KINO - Live.",
+      "logo": "https://logo.m3uassets.com/eaglecinemadrama.png"
+    },
+    {
+      "name": "DE: EAGLE CINEMA HORROR  (101-SERVERS)",
+      "group": "DE - Cinema KINO - Live.",
+      "logo": "https://logo.m3uassets.com/eaglecinemahorror.png"
+    },
+    {
+      "name": "DE: EAGLE CINEMA ROMANTISCH  (101-SERVERS)",
+      "group": "DE - Cinema KINO - Live.",
+      "logo": "https://logo.m3uassets.com/eaglecinemaromantisch.png"
+    },
+    {
+      "name": "DE: EAGLE CINEMA SCI-FI  (101-SERVERS)",
+      "group": "DE - Cinema KINO - Live.",
+      "logo": "https://logo.m3uassets.com/eaglecinemasci.png"
+    }
+  ]
+}

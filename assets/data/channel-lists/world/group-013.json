@@ -1,0 +1,383 @@
+{
+  "package": "world",
+  "name": "CZ - Czech Republic - Live.",
+  "groupIndex": 13,
+  "totalChannels": 75,
+  "channels": [
+    {
+      "name": "CZ: NOVA Sports 3 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/novasports3.png"
+    },
+    {
+      "name": "CZ: AMC HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/amc.png"
+    },
+    {
+      "name": "CZ: AXN HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/axn.png"
+    },
+    {
+      "name": "CZ: Barrandov Krimi FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/barrandovkrimi.png"
+    },
+    {
+      "name": "CZ: CS FILM HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/2794032441.png"
+    },
+    {
+      "name": "CZ: CS Mystery HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/mystery.png"
+    },
+    {
+      "name": "CZ: CT 1 FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/ct1.png"
+    },
+    {
+      "name": "CZ: CT 1 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/ct1.png"
+    },
+    {
+      "name": "CZ: CT 2 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/ct2.png"
+    },
+    {
+      "name": "CZ: CT 24 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/ct24.png"
+    },
+    {
+      "name": "CZ: CT Sport FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/ctsport.png"
+    },
+    {
+      "name": "CZ: CT Sport HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/ctsport.png"
+    },
+    {
+      "name": "CZ: Dajto HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/dajto.png"
+    },
+    {
+      "name": "CZ: Disney Channel HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "CZ: DOMA HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/doma.png"
+    },
+    {
+      "name": "CZ: DUCK TV HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/ducktv.png"
+    },
+    {
+      "name": "CZ: EPIC Drama FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/epicdrama.png"
+    },
+    {
+      "name": "CZ: Eurosport 1 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "CZ: Eurosport 2 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "CZ: Fashion TV HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/fashiontv.png"
+    },
+    {
+      "name": "CZ: Fightbox HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/fightbox.png"
+    },
+    {
+      "name": "CZ: Filmbox Extra FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxextra.png"
+    },
+    {
+      "name": "CZ: Filmbox Extra HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxextra.png"
+    },
+    {
+      "name": "CZ: Filmbox Family HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxfamily.png"
+    },
+    {
+      "name": "CZ: Filmbox PLUS HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxplus.png"
+    },
+    {
+      "name": "CZ: Filmbox Premium HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxpremium.png"
+    },
+    {
+      "name": "CZ: GOLF Channel HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/golfchannel.png"
+    },
+    {
+      "name": "CZ: HBO 3 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/hbo3.png"
+    },
+    {
+      "name": "CZ: HBO FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/hbo.png"
+    },
+    {
+      "name": "CZ: History HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/history.png"
+    },
+    {
+      "name": "CZ: Iconcerts HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/iconcerts.png"
+    },
+    {
+      "name": "CZ: Jimjam HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/jimjam.png"
+    },
+    {
+      "name": "CZ: JOJ Cinema 1 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/357b70b1d33acc51b0aba9b9afb41686.png"
+    },
+    {
+      "name": "CZ: JOJ Family FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/jojfamily.png"
+    },
+    {
+      "name": "CZ: Jojko HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/jojko.png"
+    },
+    {
+      "name": "CZ: Markiza +1 FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/markiza.png"
+    },
+    {
+      "name": "CZ: Markiza International HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/markizainternational.png"
+    },
+    {
+      "name": "CZ: Minimax HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/minimax.png"
+    },
+    {
+      "name": "CZ: MTV Europe HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/mtveurope.png"
+    },
+    {
+      "name": "CZ: NAT GEO WILD FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "CZ: NAT GEO WILD HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "CZ: National Geographic HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "CZ: National Geographic FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "SE | Nautical Channel  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/nauticalchannel.png"
+    },
+    {
+      "name": "CZ: NICK JR. HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/nickjr.png"
+    },
+    {
+      "name": "CZ: Nickelodeon HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "CZ: NOVA 2 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/nova2.png"
+    },
+    {
+      "name": "CZ: NOVA HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/nova.png"
+    },
+    {
+      "name": "CZ: NOVA International HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/novainternational.png"
+    },
+    {
+      "name": "CZ: NOVA Sport 1 FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/novasport1.png"
+    },
+    {
+      "name": "CZ: NOVA Sport 1 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/novasport1.png"
+    },
+    {
+      "name": "CZ: NOVA Sport 2 FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/novasport2.png"
+    },
+    {
+      "name": "CZ: Óčko HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/55f2eba074fac7bc0ab8ff62a3608e67.png"
+    },
+    {
+      "name": "CZ: Óčko STAR HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/4e367ab742155cf200fda1bdd19acc9f.png"
+    },
+    {
+      "name": "CZ: Paprika TV HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/2793518842.png"
+    },
+    {
+      "name": "CZ: Paramount HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/paramount.png"
+    },
+    {
+      "name": "CZ: Polar HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/polar.png"
+    },
+    {
+      "name": "CZ: Prima COOL HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/primacool.png"
+    },
+    {
+      "name": "CZ: Prima FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/prima.png"
+    },
+    {
+      "name": "CZ: Prima MAX HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/primamax.png"
+    },
+    {
+      "name": "CZ: Retro Music TV HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/retromusictv.png"
+    },
+    {
+      "name": "CZ: RTVS 1 FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/rtvs1.png"
+    },
+    {
+      "name": "CZ: RTVS 2 FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/4931442073.png"
+    },
+    {
+      "name": "CZ: Senzi HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/senzi.png"
+    },
+    {
+      "name": "CZ: Spektrum FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/spektrum.png"
+    },
+    {
+      "name": "CZ: Sport 1 FHD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/sport1.png"
+    },
+    {
+      "name": "CZ: Sport 2 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/sport2.png"
+    },
+    {
+      "name": "CZ: NOVA Sport 2 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/novasport2.png"
+    },
+    {
+      "name": "CZ: Sport 5 HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/sport5.png"
+    },
+    {
+      "name": "CZ: Stingray C Music HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/stingraycmusic.png"
+    },
+    {
+      "name": "CZ: Televízia OSEM HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/1692474469.png"
+    },
+    {
+      "name": "CZ: Viasat Explore HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/viasatexplore.png"
+    },
+    {
+      "name": "CZ: Viasat History HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/viasathistory.png"
+    },
+    {
+      "name": "CZ: Viasat Nature HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "https://logo.m3uassets.com/viasatnature.png"
+    },
+    {
+      "name": "CZ: Východočeská TV HD  (101-SERVERS)",
+      "group": "CZ - Czech Republic - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/3d28ea31c26de51e191b87dc7de6c8e3.png"
+    }
+  ]
+}

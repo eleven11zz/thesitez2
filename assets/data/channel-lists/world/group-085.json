@@ -1,0 +1,418 @@
+{
+  "package": "world",
+  "name": "IT - Italia - Live.",
+  "groupIndex": 85,
+  "totalChannels": 82,
+  "channels": [
+    {
+      "name": "IT: Alice HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/alice.png"
+    },
+    {
+      "name": "IT: Aurora ARTE HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/auroraarte.png"
+    },
+    {
+      "name": "IT: Canale 5 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/canale5.png"
+    },
+    {
+      "name": "IT: Canale 5 Mediaset HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/57202128551.png"
+    },
+    {
+      "name": "IT: Canale 7 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/canale7.png"
+    },
+    {
+      "name": "IT: Carina TV HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/carinatv.png"
+    },
+    {
+      "name": "IT: Inter Channel HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/interchannel.png"
+    },
+    {
+      "name": "IT: IRIS HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/iris.png"
+    },
+    {
+      "name": "IT: Italia 1 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/italia1.png"
+    },
+    {
+      "name": "IT: LA 5 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/la5.png"
+    },
+    {
+      "name": "IT: Mediaset Extra HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/mediasetextra.png"
+    },
+    {
+      "name": "IT: Mediaset Italia 2 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/mediasetitalia2.png"
+    },
+    {
+      "name": "IT: RAI 1 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/rai1.png"
+    },
+    {
+      "name": "IT: RAI 3 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/rai3.png"
+    },
+    {
+      "name": "IT: RAI 4 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/rai4.png"
+    },
+    {
+      "name": "IT: RAI 5 FHD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/rai5.png"
+    },
+    {
+      "name": "IT: RAI YOYO HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/raiyoyo.png"
+    },
+    {
+      "name": "IT: RETE 4 FHD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/rete4.png"
+    },
+    {
+      "name": "IT: RSI LA 1 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/rsila1.png"
+    },
+    {
+      "name": "IT: RSI LA 2 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/rsila2.png"
+    },
+    {
+      "name": "IT: SKY Atlantic HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skyatlantic.png"
+    },
+    {
+      "name": "IT: Telecitta HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/39382071241.png"
+    },
+    {
+      "name": "IT: TV8 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/tv8.png"
+    },
+    {
+      "name": "IT: FOX LIFE HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "IT: Premium Action 24 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/91103447271.png"
+    },
+    {
+      "name": "IT: Premium Cinema 2 24 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/premiumcinema224.png"
+    },
+    {
+      "name": "IT: Premium Cinema 2 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/premiumcinema2.png"
+    },
+    {
+      "name": "IT: Premium Crime HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/premiumcrime.png"
+    },
+    {
+      "name": "IT: RAI Premium HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/raipremium.png"
+    },
+    {
+      "name": "IT: SKY Calcio 2 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skycalcio2.png"
+    },
+    {
+      "name": "IT: SKY Calcio 3 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skycalcio3.png"
+    },
+    {
+      "name": "IT: SKY Calcio 5 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skycalcio5.png"
+    },
+    {
+      "name": "IT: SKY Calcio HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/47710622041.png"
+    },
+    {
+      "name": "IT: SKY Cinema Collection HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skycinemacollection.png"
+    },
+    {
+      "name": "IT: SKY Cinema Family HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skycinemafamily.png"
+    },
+    {
+      "name": "IT: SKY Cinema Romance HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skycinemaromance.png"
+    },
+    {
+      "name": "IT: SKY Cinema Suspense HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skycinemasuspense.png"
+    },
+    {
+      "name": "IT: SKY Cinema UNO HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skycinemauno.png"
+    },
+    {
+      "name": "IT: SKY Primafila 3 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skyprimafila3.png"
+    },
+    {
+      "name": "IT: SKY Primafila 4 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skyprimafila4.png"
+    },
+    {
+      "name": "IT: SKY Primafila 6 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skyprimafila6.png"
+    },
+    {
+      "name": "IT: SKY Primafila 7 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skyprimafila7.png"
+    },
+    {
+      "name": "IT: SKY Primafila 8 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skyprimafila8.png"
+    },
+    {
+      "name": "IT: SKY Primafila 9 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skyprimafila9.png"
+    },
+    {
+      "name": "IT: SKY UNO HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skyuno.png"
+    },
+    {
+      "name": "IT: BABY TV HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/babytv.png"
+    },
+    {
+      "name": "IT: Boing HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/boing.png"
+    },
+    {
+      "name": "IT: Cartoon Network HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "IT: Cartoonito HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonito.png"
+    },
+    {
+      "name": "IT: Disney Junior HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    },
+    {
+      "name": "IT: Frisbee HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/frisbee.png"
+    },
+    {
+      "name": "IT: SKY Sport 24 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skysport24.png"
+    },
+    {
+      "name": "IT: SKY Sport 251 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/67601611581.png"
+    },
+    {
+      "name": "IT: SKY Sport Arena HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skysportarena.png"
+    },
+    {
+      "name": "IT: SKY Sport UNO HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/skysportuno.png"
+    },
+    {
+      "name": "IT: DAZN 2 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/dazn2.png"
+    },
+    {
+      "name": "IT: DAZN 3 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/dazn3.png"
+    },
+    {
+      "name": "IT: Eurosport 1 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "IT: EUROSPORT1  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "IT: EUROSPORT2  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "IT: RAI Sport + HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/raisport.png"
+    },
+    {
+      "name": "IT: RAI Sport 1 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/raisport1.png"
+    },
+    {
+      "name": "IT: RAI Sport 2 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/raisport2.png"
+    },
+    {
+      "name": "IT: Mediaset 20 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/mediaset20.png"
+    },
+    {
+      "name": "IT: Mediaset Italia 1 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/mediasetitalia1.png"
+    },
+    {
+      "name": "IT: Caccia E Pesca HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/cacciaepesca.png"
+    },
+    {
+      "name": "IT: Discovery Channel HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "IT: Discovery Science HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "IT: DMAX HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/dmax.png"
+    },
+    {
+      "name": "IT: Focus HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/focus.png"
+    },
+    {
+      "name": "IT: Giallo HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/giallo.png"
+    },
+    {
+      "name": "IT: NOVE TV HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/84171495281.png"
+    },
+    {
+      "name": "IT: RAI Scuola HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/raiscuola.png"
+    },
+    {
+      "name": "IT: RAI Storia HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/raistoria.png"
+    },
+    {
+      "name": "IT: REAL TIME HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/realtime.png"
+    },
+    {
+      "name": "⭐⭐⭐ NEWS ⭐⭐⭐  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/news.png"
+    },
+    {
+      "name": "IT: RAI NEWS 24 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/rainews24.png"
+    },
+    {
+      "name": "IT: TV2000  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/tv2000.png"
+    },
+    {
+      "name": "IT: MTV Classic HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/mtvclassic.png"
+    },
+    {
+      "name": "IT: MTV FHD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/mtv.png"
+    },
+    {
+      "name": "IT: MTV HITS HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "https://logo.m3uassets.com/mtvhits.png"
+    },
+    {
+      "name": "IT: Radio 51 HD  (101-SERVERS)",
+      "group": "IT - Italia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/35921405601.png"
+    }
+  ]
+}

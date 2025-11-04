@@ -1,0 +1,288 @@
+{
+  "package": "world",
+  "name": "TR - Ulusal TV - Live.",
+  "groupIndex": 217,
+  "totalChannels": 56,
+  "channels": [
+    {
+      "name": "TR: TRT 4K HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/trt.png"
+    },
+    {
+      "name": "TR: TRT 1 HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/trt1.png"
+    },
+    {
+      "name": "TR: TRT 1 HD (backup)  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/trt1.png"
+    },
+    {
+      "name": "TR: TRT 2 HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/trt2.png"
+    },
+    {
+      "name": "TR: TRT TURK HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/trtturk.png"
+    },
+    {
+      "name": "TR: A2 HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/a2.png"
+    },
+    {
+      "name": "TR: ATV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/atv.png"
+    },
+    {
+      "name": "TR: ATV Avrupa HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/atvavrupa.png"
+    },
+    {
+      "name": "TR: ATV Avrupa HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/atvavrupa.png"
+    },
+    {
+      "name": "TR: SHOW TV FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/showtv.png"
+    },
+    {
+      "name": "TR: SHOW MAX FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/showmax.png"
+    },
+    {
+      "name": "TR: SHOW TURK  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/showturk.png"
+    },
+    {
+      "name": "TR: NOW TV FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/nowtv.png"
+    },
+    {
+      "name": "TR: NOW TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/nowtv.png"
+    },
+    {
+      "name": "TR: KANAL D FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kanald.png"
+    },
+    {
+      "name": "TR: KANAL D HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kanald.png"
+    },
+    {
+      "name": "TR: Kanal D HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kanald.png"
+    },
+    {
+      "name": "TR: KANAL 7 FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kanal7.png"
+    },
+    {
+      "name": "TR: KANAL 7 HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kanal7.png"
+    },
+    {
+      "name": "TR: Kanal 24 HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kanal24.png"
+    },
+    {
+      "name": "TR: Kanal URFA TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/43271738081.png"
+    },
+    {
+      "name": "TR: STAR TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/startv.png"
+    },
+    {
+      "name": "TR: TV8 HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tv8.png"
+    },
+    {
+      "name": "TR: VIP TV 8 FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/79308501461.png"
+    },
+    {
+      "name": "TR: VIP TV 8.5 FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/95705925421.png"
+    },
+    {
+      "name": "TR: TEVE 2 UHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/teve2.png"
+    },
+    {
+      "name": "TR: Beyaz HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/1473759304.png"
+    },
+    {
+      "name": "TR: Beyaz TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/beyaztv.png"
+    },
+    {
+      "name": "TR: EURO D HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/eurod.png"
+    },
+    {
+      "name": "TR: EURO D HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/eurod.png"
+    },
+    {
+      "name": "TR: SEMERKAND FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/semerkand.png"
+    },
+    {
+      "name": "TR: EKOL TV FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kooltv.png"
+    },
+    {
+      "name": "TR: Vatan TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/vatantv.png"
+    },
+    {
+      "name": "TR: TGRT HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tgrt.png"
+    },
+    {
+      "name": "TR: TGRT Belgesel HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tgrtbelgesel.png"
+    },
+    {
+      "name": "TR: CAY TV  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/caytv.png"
+    },
+    {
+      "name": "TR: Tabii TV  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/9live.png"
+    },
+    {
+      "name": "TR: Afyon TURK TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/afyonturktv.png"
+    },
+    {
+      "name": "TR: Briç VE Satranç TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/3367114609.png"
+    },
+    {
+      "name": "TR: Caillou TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/bab20ce2564c43e20437bbbac9090ac1.png"
+    },
+    {
+      "name": "TR: Dream TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dreamtv.png"
+    },
+    {
+      "name": "TR: FOX Crime FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxcrime.png"
+    },
+    {
+      "name": "TR: FOX LIFE HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "TR: GENC TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/genctv.png"
+    },
+    {
+      "name": "TR: Haberturk FHD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/haberturk.png"
+    },
+    {
+      "name": "TR: KON TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kontv.png"
+    },
+    {
+      "name": "TR: LalegÜl TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/86726296321.png"
+    },
+    {
+      "name": "TR: LIFE TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/lifetv.png"
+    },
+    {
+      "name": "TR: Minika GO HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/minikago.png"
+    },
+    {
+      "name": "TR: POP TV  HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/30125160001.png"
+    },
+    {
+      "name": "TR: Salon 2 HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/salon2.png"
+    },
+    {
+      "name": "TR: Satranç TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/13498769131.png"
+    },
+    {
+      "name": "TR: TV5 HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tv5.png"
+    },
+    {
+      "name": "TR: Ucankus TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/ucankustv.png"
+    },
+    {
+      "name": "TR: UlkeTV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/ulketv.png"
+    },
+    {
+      "name": "TR: YOL TV HD  (101-SERVERS)",
+      "group": "TR - Ulusal TV - Live.",
+      "logo": "https://logo.m3uassets.com/yoltv.png"
+    }
+  ]
+}

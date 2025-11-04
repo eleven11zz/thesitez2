@@ -1,0 +1,363 @@
+{
+  "package": "english",
+  "name": "USA - Movies & Series - Live.",
+  "groupIndex": 42,
+  "totalChannels": 71,
+  "channels": [
+    {
+      "name": "US: INSP TV  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/b651b687d8690581914a075e1ab256d9.png"
+    },
+    {
+      "name": "US: A&E HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/ae.png"
+    },
+    {
+      "name": "US: Action MAX HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/actionmax.png"
+    },
+    {
+      "name": "US: AMC HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/amc.png"
+    },
+    {
+      "name": "US: AMC HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/amc.png"
+    },
+    {
+      "name": "US: BET HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/bet.png"
+    },
+    {
+      "name": "US: BET HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/bet.png"
+    },
+    {
+      "name": "US: BET HER HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/bether.png"
+    },
+    {
+      "name": "US: BET JAMS HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/betjams.png"
+    },
+    {
+      "name": "US: BET SOUL HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/betsoul.png"
+    },
+    {
+      "name": "US: Bravo EAST HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/bravo.png"
+    },
+    {
+      "name": "US: Bravo HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/bravo.png"
+    },
+    {
+      "name": "US: Cinemax 5 HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/17240811491.png"
+    },
+    {
+      "name": "US: Cinemax 5 Starmax HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax5starmax.png"
+    },
+    {
+      "name": "US: Cinemax Action MAX EAST HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cinemaxactionmax.png"
+    },
+    {
+      "name": "US: Cinemax Actionmax HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cinemaxactionmax.png"
+    },
+    {
+      "name": "US: Cinemax MORE HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cinemaxmore.png"
+    },
+    {
+      "name": "US: Cinemax Moremax HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cinemaxmoremax.png"
+    },
+    {
+      "name": "US: Cinemax Outer MAX HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cinemaxoutermax.png"
+    },
+    {
+      "name": "US: CMT HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cmt.png"
+    },
+    {
+      "name": "US: COZI TV HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cozitv.png"
+    },
+    {
+      "name": "US: EPIX Drive-In HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/epixdrive.png"
+    },
+    {
+      "name": "US: EPIX HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/epix.png"
+    },
+    {
+      "name": "US: EPIX Hits  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/epixhits.png"
+    },
+    {
+      "name": "US: EPIX 2 HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/epix2.png"
+    },
+    {
+      "name": "US: Freeform Channel HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/61115874051.png"
+    },
+    {
+      "name": "US: FX EAST HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/fx.png"
+    },
+    {
+      "name": "US: FXM HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/fxm.png"
+    },
+    {
+      "name": "US: FXX EAST HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/fxx.png"
+    },
+    {
+      "name": "US: GRIT HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/grit.png"
+    },
+    {
+      "name": "US: Hallmark Channel HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hallmarkchannel.png"
+    },
+    {
+      "name": "US: Hallmark Drama HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hallmarkdrama.png"
+    },
+    {
+      "name": "US: Hallmark EAST HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hallmark.png"
+    },
+    {
+      "name": "US: Hallmark HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hallmark.png"
+    },
+    {
+      "name": "US: Hallmark Movies & Mysteries HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hallmarkmoviesmysteries.png"
+    },
+    {
+      "name": "US: Hallmark Movies AND Mysteries HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hallmarkmoviesandmysteries.png"
+    },
+    {
+      "name": "US: Hallmark Movies HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hallmarkmovies.png"
+    },
+    {
+      "name": "US: Hallmark Movies & my steries HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/97075477261.png"
+    },
+    {
+      "name": "US: HBO 2 HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hbo2.png"
+    },
+    {
+      "name": "US: HBO Comedy FHD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hbocomedy.png"
+    },
+    {
+      "name": "US: HBO EAST HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hbo.png"
+    },
+    {
+      "name": "US: HBO Family HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hbofamily.png"
+    },
+    {
+      "name": "US: HBO HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hbo.png"
+    },
+    {
+      "name": "US: HBO MAX Movies HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/10339329691.png"
+    },
+    {
+      "name": "US: HBO Signature HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hbosignature.png"
+    },
+    {
+      "name": "US: HBO ZONE HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/hbozone.png"
+    },
+    {
+      "name": "US: Indie PLEX HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/indieplex.png"
+    },
+    {
+      "name": "US: ION Television EAST HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/iontelevision.png"
+    },
+    {
+      "name": "US: Lifetime Movie Network HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/lifetimemovienetwork.png"
+    },
+    {
+      "name": "US: Lifetime Movies FHD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/lifetimemovies.png"
+    },
+    {
+      "name": "US: MGM Drive IN HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37142477231.png"
+    },
+    {
+      "name": "US: MGM HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/mgm.png"
+    },
+    {
+      "name": "US: MGM HITS HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/41706793071.png"
+    },
+    {
+      "name": "US: Paramount Network HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/paramountnetwork.png"
+    },
+    {
+      "name": "US LBW: FX HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/fx.png"
+    },
+    {
+      "name": "US: Reelz  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/reelz.png"
+    },
+    {
+      "name": "US: Showtime NEXT HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/showtimenext.png"
+    },
+    {
+      "name": "US: Showtime WEST HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/showtimewest.png"
+    },
+    {
+      "name": "US: Showtime Women HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/showtimewomen.png"
+    },
+    {
+      "name": "US: SONY Movie Channel HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/sonymoviechannel.png"
+    },
+    {
+      "name": "US: Start TV HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/starttv.png"
+    },
+    {
+      "name": "US: Start TV HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/starttv.png"
+    },
+    {
+      "name": "US: Starz Cinema WEST FHD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/starzcinemawest.png"
+    },
+    {
+      "name": "US: Starz IN Black HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/starzblack.png"
+    },
+    {
+      "name": "US: Starz KIDS AND Family HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/starzkidsandfamily.png"
+    },
+    {
+      "name": "US: Sundance HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/sundance.png"
+    },
+    {
+      "name": "US: TBS HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/tbs.png"
+    },
+    {
+      "name": "US: The Movie Channel Xtra  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/themoviechannelxtra.png"
+    },
+    {
+      "name": "US: Turner Classic Movies HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/turnerclassicmovies.png"
+    },
+    {
+      "name": "US: USA Network HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/network.png"
+    },
+    {
+      "name": "US: 30A TV HD  (101-SERVERS)",
+      "group": "USA - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/32544850751.png"
+    }
+  ]
+}

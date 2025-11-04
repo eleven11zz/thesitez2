@@ -1,0 +1,38 @@
+{
+  "package": "world",
+  "name": "NZ - New Zealand .",
+  "groupIndex": 99,
+  "totalChannels": 6,
+  "channels": [
+    {
+      "name": "NZ SKY Sport 1 HD  (101-SERVERS)",
+      "group": "NZ - New Zealand .",
+      "logo": "https://logo.m3uassets.com/skysport1.png"
+    },
+    {
+      "name": "NZ SKY Sport 2 HD  (101-SERVERS)",
+      "group": "NZ - New Zealand .",
+      "logo": "https://logo.m3uassets.com/skysport2.png"
+    },
+    {
+      "name": "NZ SKY Sport 3 HD  (101-SERVERS)",
+      "group": "NZ - New Zealand .",
+      "logo": "https://logo.m3uassets.com/skysport3.png"
+    },
+    {
+      "name": "NZ SKY Sport 6 HD  (101-SERVERS)",
+      "group": "NZ - New Zealand .",
+      "logo": "https://logo.m3uassets.com/skysport6.png"
+    },
+    {
+      "name": "NZ SKY Sport 9 HD  (101-SERVERS)",
+      "group": "NZ - New Zealand .",
+      "logo": "https://logo.m3uassets.com/skysport9.png"
+    },
+    {
+      "name": "NZ SKY Sport Select HD  (101-SERVERS)",
+      "group": "NZ - New Zealand .",
+      "logo": "https://logo.m3uassets.com/skysportselect.png"
+    }
+  ]
+}

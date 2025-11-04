@@ -1,0 +1,593 @@
+{
+  "package": "world",
+  "name": "AF - Africa - Live.",
+  "groupIndex": 166,
+  "totalChannels": 117,
+  "channels": [
+    {
+      "name": "AF: Universal (SO)  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/universal.png"
+    },
+    {
+      "name": "Canal 2 International  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/canal2international.png"
+    },
+    {
+      "name": "Canal 2 Movies  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/canal2movies.png"
+    },
+    {
+      "name": "Canal 3 Benin  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/canal3.png"
+    },
+    {
+      "name": "Canal 9  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/canal9.png"
+    },
+    {
+      "name": "CCPV Television  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/8PyCVbfm/VRhkEqz.jpg"
+    },
+    {
+      "name": "Cherifla TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/cheriflatv.png"
+    },
+    {
+      "name": "Compassion TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/QCmdCQ4s/lfoUsyR.jpg"
+    },
+    {
+      "name": "Die Neue Zeit TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/dieneuezeittv.png"
+    },
+    {
+      "name": "DRTV International  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/drtvinternational.png"
+    },
+    {
+      "name": "EWTN Africa Asia  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/ewtnafricaasia.png"
+    },
+    {
+      "name": "Immaculata TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/L4y3ZBW1/unnamed.png"
+    },
+    {
+      "name": "JapanimTV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/tRSBSdgd/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile-image-300x300.png"
+    },
+    {
+      "name": "Kaback TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/xqVNQhch/images-2.jpg"
+    },
+    {
+      "name": "La Tele  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/latele.png"
+    },
+    {
+      "name": "LNTV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/lntv.png"
+    },
+    {
+      "name": "Matele  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/matele.png"
+    },
+    {
+      "name": "Max TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/maxtv.png"
+    },
+    {
+      "name": "Metanoia TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/metanoiatv.png"
+    },
+    {
+      "name": "Meteonews  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/meteonews.png"
+    },
+    {
+      "name": "MISEC TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/misectv.png"
+    },
+    {
+      "name": "Mishapi Voice TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/mishapivoicetv.png"
+    },
+    {
+      "name": "My TV Channel  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/5N55LxLY/vh2373L.png"
+    },
+    {
+      "name": "Notele  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/notele.png"
+    },
+    {
+      "name": "Novela Channel  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/7b664f45ba2370b55f0141d9319cc36a.png"
+    },
+    {
+      "name": "Reflet TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/reflettv.png"
+    },
+    {
+      "name": "RTNC  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/rtnc.png"
+    },
+    {
+      "name": "RTV Pendimi  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/rtvpendimi.png"
+    },
+    {
+      "name": "Sivan TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/sivantv.png"
+    },
+    {
+      "name": "Syri TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/syritv.png"
+    },
+    {
+      "name": "Tele 50  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tele50.png"
+    },
+    {
+      "name": "Tele Congo  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tele.png"
+    },
+    {
+      "name": "Tele Louange  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/telelouange.png"
+    },
+    {
+      "name": "Tele Tchad  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/teletchad.png"
+    },
+    {
+      "name": "TeleBarn  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/telebarn.png"
+    },
+    {
+      "name": "TeleBielingue  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/telebielingue.png"
+    },
+    {
+      "name": "TeleZuri  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/telezuri.png"
+    },
+    {
+      "name": "TR24 Television  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/sDGb5HJG/tr24-telepack.jpg"
+    },
+    {
+      "name": "TV 2  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tv2.png"
+    },
+    {
+      "name": "TVC Benin  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tvc.png"
+    },
+    {
+      "name": "TVO  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tvo.png"
+    },
+    {
+      "name": "UGF TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/SKkj80xL/channels4-profile.jpg"
+    },
+    {
+      "name": "VTM  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/vtm.png"
+    },
+    {
+      "name": "VTM 2  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/vtm2.png"
+    },
+    {
+      "name": "AF: Bloomberg TV EMEA  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/bloombergtv.png"
+    },
+    {
+      "name": "AF: ABN  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/abn.png"
+    },
+    {
+      "name": "AF: Africa 24  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/africa24.png"
+    },
+    {
+      "name": "AF: Africa News  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/africanews.png"
+    },
+    {
+      "name": "AF: Al Bayane  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/5dc4463164ddf823c0bb65e0b43176d5.png"
+    },
+    {
+      "name": "DSTV: BBlack Africa HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/bblackafrica.png"
+    },
+    {
+      "name": "DSTV: Qwest TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/qwesttv.png"
+    },
+    {
+      "name": "DSTV: A+ Ivoire  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/fb3d9b55223cb465a01c9a7b7b766683.png"
+    },
+    {
+      "name": "AF: Trace Africa  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/traceafrica.png"
+    },
+    {
+      "name": "Af: JOY PRIME - Ghana  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/joyprimeghana.png"
+    },
+    {
+      "name": "AF: A+ HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/a.png"
+    },
+    {
+      "name": "AF: TV3 -Ghana  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/da5fb1a0b27e432edb5fb3b730ff3f60.png"
+    },
+    {
+      "name": "AF: A2I Music HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/a2imusic.png"
+    },
+    {
+      "name": "AF: A2I TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/a2itv.png"
+    },
+    {
+      "name": "AF: Africa TV 2 HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/africatv2.png"
+    },
+    {
+      "name": "AF: AFRO Music Swahili HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/308fb870ba12550d1d60c5a5257bab2f.png"
+    },
+    {
+      "name": "||AFR|| |GENERAL| ARISE NEWS*  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/86af62749f5b27fb8e9f846f34e3d326.png"
+    },
+    {
+      "name": "AF: Benie TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/benietv.png"
+    },
+    {
+      "name": "AF: BF1 HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/bf1.png"
+    },
+    {
+      "name": "AF: Channel 44 Uganda HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/channel44uganda.png"
+    },
+    {
+      "name": "AF: Citizen TV Kenya HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/citizentv.png"
+    },
+    {
+      "name": "AF: CNBC Africa HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/cnbcafrica.png"
+    },
+    {
+      "name": "AF:  Channels 24 HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/channels24.png"
+    },
+    {
+      "name": "AF: DOVE TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/dovetv.png"
+    },
+    {
+      "name": "AF: Equinoxe (cameron) HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/e082285c71d8daaa32b9a7be8eff2c01.png"
+    },
+    {
+      "name": "AF:  HOPE TV Tanzania HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/dbefcb9a8338bb7f593d85e9a5361fc6.png"
+    },
+    {
+      "name": "AF: JOY NEWS HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/joynews.png"
+    },
+    {
+      "name": "AF:  Kalsan TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/kalsantv.png"
+    },
+    {
+      "name": "AF: MY TV Chanel HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://th.bing.com/th/id/OIP.zEYHe9w4UEvDPWbZd7L4tgAAAA?pid=ImgDet&rs=1"
+    },
+    {
+      "name": "AF: Novelas TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/novelastv.png"
+    },
+    {
+      "name": "AF: NTV |uganda| HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a1cb29a6d972546cb477ce50b7dd39b3.png"
+    },
+    {
+      "name": "AF:  National HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/national.png"
+    },
+    {
+      "name": "AF:  NTV LIVE HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19064520481.png"
+    },
+    {
+      "name": "AF: PLAY TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/playtv.png"
+    },
+    {
+      "name": "AF:  ROK TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/roktv.png"
+    },
+    {
+      "name": "AF: RTB HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/rtb.png"
+    },
+    {
+      "name": "AF: Rwanda TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/rwandatv.png"
+    },
+    {
+      "name": "AF: (Angola) Zap Viva  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://www.meiosepublicidade.pt/wp-content/uploads/2019/05/zap-viva-logo-hd-vertical-01-300x300.jpg"
+    },
+    {
+      "name": "AF: Somali Cable TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/somalicabletv.png"
+    },
+    {
+      "name": "AF: Somali National TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/somalinationaltv.png"
+    },
+    {
+      "name": "AF:  Somali Cable HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/somalicable.png"
+    },
+    {
+      "name": "AF: TFM HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tfm.png"
+    },
+    {
+      "name": "AF: Urban TV UG HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/47e8e5a4b7fe771e738b40a1a1498d71.png"
+    },
+    {
+      "name": "AF: Vision 4 HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/vision4.png"
+    },
+    {
+      "name": "AF: 2STV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/2stv.png"
+    },
+    {
+      "name": "AF:  RTI 2 TV HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/rti2tv.png"
+    },
+    {
+      "name": "AF:  RTI 1 HD  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/rti1.png"
+    },
+    {
+      "name": "AF: Alpha et Omega TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/3N8zWt8J/images-2.jpg"
+    },
+    {
+      "name": "AF: Ecclesia TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/ecclesiatv.png"
+    },
+    {
+      "name": "AF: Ivoire Channel  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/ivoirechannel.png"
+    },
+    {
+      "name": "AF: RTP Africa  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/rtpafrica.png"
+    },
+    {
+      "name": "AF: RTVC  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/rtvc.png"
+    },
+    {
+      "name": "AF: Zarok TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/zaroktv.png"
+    },
+    {
+      "name": "AF: ORTB TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/ortbtv.png"
+    },
+    {
+      "name": "AF: RT JVA  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/521NnQt9/Ja3HVLB.jpg"
+    },
+    {
+      "name": "AF: RTS 1  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/rts1.png"
+    },
+    {
+      "name": "AF: Sen TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/sentv.png"
+    },
+    {
+      "name": "AF: TM TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tmtv.png"
+    },
+    {
+      "name": "AF: TM1 TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tm1tv.png"
+    },
+    {
+      "name": "AF: TVT  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tvt.png"
+    },
+    {
+      "name": "AF: Walf TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/walftv.png"
+    },
+    {
+      "name": "AF: RTV Rwanda  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/52tjspH6/images-2.jpg"
+    },
+    {
+      "name": "AF: IBN TV (Tanzania)  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/ibntv.png"
+    },
+    {
+      "name": "AF: Catholic TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/catholictv.png"
+    },
+    {
+      "name": "AF: Faith TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/faithtv.png"
+    },
+    {
+      "name": "AF: Louga TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://i.postimg.cc/pV5wGFDQ/images.jpg"
+    },
+    {
+      "name": "AF: TNTV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tntv.png"
+    },
+    {
+      "name": "AF: ILTV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/iltv.png"
+    },
+    {
+      "name": "AF: TRACE SPORT STARS  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/tracesportstars.png"
+    },
+    {
+      "name": "AF: ATV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/atv.png"
+    },
+    {
+      "name": "AF: LIFE TV  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/lifetv.png"
+    },
+    {
+      "name": "AF: Nollywood Epic  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "http://s3.i3ns.net:2052/portal/picon/2022-10/68e1af9c408a028b5581741b174e3e99.png"
+    },
+    {
+      "name": "AF: ZEE MAGIC  (101-SERVERS)",
+      "group": "AF - Africa - Live.",
+      "logo": "https://logo.m3uassets.com/zeemagic.png"
+    }
+  ]
+}

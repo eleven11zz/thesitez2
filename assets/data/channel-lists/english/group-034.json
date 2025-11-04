@@ -1,0 +1,453 @@
+{
+  "package": "english",
+  "name": "USA - ABC Regionals.",
+  "groupIndex": 34,
+  "totalChannels": 89,
+  "channels": [
+    {
+      "name": "USA | ABC Ada, OK KTENⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/adaoknbckten.png"
+    },
+    {
+      "name": "USA | ABC Albany, GA WALBⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Albuquerque, NM KOATⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc4albuquerquenmkob.png"
+    },
+    {
+      "name": "USA | ABC Alexandria, LA KLAXⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Amarillo, TX KVIIⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/amarillotxabccwkvii.png"
+    },
+    {
+      "name": "USA | ABC Anchorage, AK KYURⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcanchorageak.png"
+    },
+    {
+      "name": "USA | ABC Asheville, NC WLOSⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc13ashevillencwlos.png"
+    },
+    {
+      "name": "USA | ABC Atlanta, GA WSBⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/atlantagaabcwsb.png"
+    },
+    {
+      "name": "USA | ABC Austin, MN KAALⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc6austinmnkaal.png"
+    },
+    {
+      "name": "USA | ABC Austin, TX KVUEⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/foxktbcaustintx.png"
+    },
+    {
+      "name": "USA | ABC Baltimore, MD WMARⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/baltimoremdabcwmar.png"
+    },
+    {
+      "name": "USA | ABC Billings, MT KSVIⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Biloxi, MS WLOXⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/biloximsabcwlox.png"
+    },
+    {
+      "name": "USA | ABC Birmingham, AL WBMAⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/birminghamalabcwbma.png"
+    },
+    {
+      "name": "USA | ABC Cedar Rapids, IO KCRGⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Charleston, SC WCIVⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/charlestonscabcwciv.png"
+    },
+    {
+      "name": "USA | ABC Charleston, WV WCHSⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/charlestonwvabcwchs.png"
+    },
+    {
+      "name": "USA | ABC Charlottesville, VA WVAWⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc29charlottesvillevawvir.png"
+    },
+    {
+      "name": "USA | ABC Chattanooga, TN WTVCⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/chattanoogaabc9wtvc.png"
+    },
+    {
+      "name": "USA | ABC Cincinnati, OH WCPOⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/cincinnatiohabcwcpo.png"
+    },
+    {
+      "name": "USA | ABC Cleveland, OH WEWSⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbccleveland.png"
+    },
+    {
+      "name": "USA | ABC Columbia, MO KMIZⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/columbiamoabckmiz.png"
+    },
+    {
+      "name": "USA | ABC Columbia, SC WOLOⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc25columbiascwolo.png"
+    },
+    {
+      "name": "USA | ABC Columbus, OH WSYXⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Dayton, OH WKEFⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc22daytonohwkef.png"
+    },
+    {
+      "name": "USA | ABC Denver, CO KMGHⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/denvercoabckmgh.png"
+    },
+    {
+      "name": "USA | ABC Des Moines, IA WOIⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/desmoinesiaabcwoi.png"
+    },
+    {
+      "name": "USA | ABC Dothan, AL WDHNⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Durham, NC WTVDⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/durhamncabcwtvd.png"
+    },
+    {
+      "name": "USA | ABC Eastⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Fargo, ND WDAYⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Flint, MI WJRTⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/flintmiabcwjrt.png"
+    },
+    {
+      "name": "USA | ABC Florence, SC WPDEⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Fort Myers, FL WZVNⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Fort Wayne, IN WPTAⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/ftwayneabcwpta.png"
+    },
+    {
+      "name": "USA | ABC Gainesville, FL WCJBⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbc9gainesvilleflwnbw.png"
+    },
+    {
+      "name": "USA | ABC Grand Junction, CO KJCTⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc8grandjunctioncokjct.png"
+    },
+    {
+      "name": "USA | ABC Grand Rapids, MI WZZMⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/f228f61c65302cdbe42962f66a96f3ea.png"
+    },
+    {
+      "name": "USA | ABC Great Falls, MT KFBBⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Green Bay, WI WBAYⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/greenbaywi.png"
+    },
+    {
+      "name": "USA | ABC Greenwood, MS WABGⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Hampton, VA WVECⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Harrisburg, IL WSILⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/harrisburgilabcwsil.png"
+    },
+    {
+      "name": "USA | ABC Harrisburg, PA WHTMⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Honolulu, HI KITVⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Huntsville AL WAAYⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/huntsvillealabcwaay.png"
+    },
+    {
+      "name": "USA | ABC Jacksonville, FL WJXXⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcjacksonville.png"
+    },
+    {
+      "name": "USA | ABC Juneau, AK KJUDⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Knoxville, TN WATEⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Lafayette, LA KATCⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/lafayettelaabckatc.png"
+    },
+    {
+      "name": "USA | ABC Lansing, MI WLAJⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc53lansingmiwlaj.png"
+    },
+    {
+      "name": "USA | ABC Las Vegas, NV KTNVⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/lasvegasnvabcktnv.png"
+    },
+    {
+      "name": "USA | ABC Lexington, KY WTVQⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Lima, OH WOHLⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/limaohabccbswohl.png"
+    },
+    {
+      "name": "USA | ABC Little Rock, AR KATVⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/littlerockarabckatv.png"
+    },
+    {
+      "name": "USA | ABC Los Angeles, CA KABCⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abclosangeles.png"
+    },
+    {
+      "name": "USA | ABC Louisville, KY WHASⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbclouisville.png"
+    },
+    {
+      "name": "USA | ABC Miami, FL WPLGⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/miamiflabcwplg.png"
+    },
+    {
+      "name": "USA | ABC Midland, TX KMIDⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Milwaukee, WI WISNⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/milwaukeewiabcwisn.png"
+    },
+    {
+      "name": "USA | ABC Montgomery, AL WNCFⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Nashville, TN WKRNⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcnashville.png"
+    },
+    {
+      "name": "USA | ABC New Orleans, LA WGNOⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcneworleans.png"
+    },
+    {
+      "name": "USA | ABC New York, NY WABCⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc7wabcnewyorkny.png"
+    },
+    {
+      "name": "USA | ABC Oklahoma City, OK KOCOⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/cwoklahomacityok.png"
+    },
+    {
+      "name": "USA | ABC Palm Springs, CA KESQⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcpalmspringsfl.png"
+    },
+    {
+      "name": "USA | ABC Philadelphia, PA WPVIⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abcphiladelphia.png"
+    },
+    {
+      "name": "USA | ABC Phoenix, AZ KNXVⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/ff7ba7e5775a8c995bea0bff1188df71.png"
+    },
+    {
+      "name": "USA | ABC Pittsburgh, PA WTAEⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/pittsburghpaabcwtae.png"
+    },
+    {
+      "name": "USA | ABC Portland, OR KATUⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc2portlandorkatu.png"
+    },
+    {
+      "name": "USA | ABC Richmond, VA WRICⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Sacramento, CA KXTVⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/sacramentocaabckxtv.png"
+    },
+    {
+      "name": "USA | ABC Saint Paul, MN KSTPⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abcsaintpaul.png"
+    },
+    {
+      "name": "USA | ABC Salt Lake City, UT KTVXⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcsaltlakecity.png"
+    },
+    {
+      "name": "USA | ABC San Antonio, TX KSATⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/e6f96deea5c362ce1743a7e9a77337b3.png"
+    },
+    {
+      "name": "USA | ABC San Diego, CA KGTVⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/sandiegocaabckgtv.png"
+    },
+    {
+      "name": "USA | ABC Seattle, WA KOMOⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/seattlewaabckomo.png"
+    },
+    {
+      "name": "USA | ABC Shreveport, LA KTBSⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/shreveportlaabcktbs.png"
+    },
+    {
+      "name": "USA | ABC Sioux City, IA KCAUⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC South Bend, WBNDⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/southbendabcwbnd.png"
+    },
+    {
+      "name": "USA | ABC Spokane, WA KXLYⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/spokanewaabckxly.png"
+    },
+    {
+      "name": "USA | ABC St. Louis, MI KDNLⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Syracuse, NY WSYRⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/nbcsyracuseny.png"
+    },
+    {
+      "name": "USA | ABC Tallahassee, FL WTXLⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Tampa Bay, FL WFTSⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Toledo, OH WTVGⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Washington, DC WJLAⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abcwashingtondcwjla.png"
+    },
+    {
+      "name": "USA | ABC Watertown, NY WWTIⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "USA | ABC Youngstown, OH WYTVⓧ  (101-SERVERS)",
+      "group": "USA - ABC Regionals.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    }
+  ]
+}

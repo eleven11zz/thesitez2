@@ -1,0 +1,173 @@
+{
+  "package": "world",
+  "name": "BE - Belgium - Live.",
+  "groupIndex": 6,
+  "totalChannels": 33,
+  "channels": [
+    {
+      "name": "BE: Canvas HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/canvas.png"
+    },
+    {
+      "name": "BE: CLUB RTL HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/clubrtl.png"
+    },
+    {
+      "name": "BE: Eleven Sports 3 HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports3.png"
+    },
+    {
+      "name": "BE: LA DEUX HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/ladeux.png"
+    },
+    {
+      "name": "BE: LA Trois HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/latrois.png"
+    },
+    {
+      "name": "BE: LA UNE HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/laune.png"
+    },
+    {
+      "name": "BE: PLAY Sports 1 HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/playsports1.png"
+    },
+    {
+      "name": "BE: PLUG RTL HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/plugrtl.png"
+    },
+    {
+      "name": "BE: RTL TVI HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/rtltvi.png"
+    },
+    {
+      "name": "BE: VIJF TV HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/vijftv.png"
+    },
+    {
+      "name": "BE: Vitaya HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/vitaya.png"
+    },
+    {
+      "name": "BE: ZES HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/zes.png"
+    },
+    {
+      "name": "BE: AB3 HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/ab3.png"
+    },
+    {
+      "name": "BE: BEL RTL HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/belrtl.png"
+    },
+    {
+      "name": "BE: BX1 HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/bx1.png"
+    },
+    {
+      "name": "BE: CANVAS FHD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/canvas.png"
+    },
+    {
+      "name": "BE: Eclips TV HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/eclipstv.png"
+    },
+    {
+      "name": "BE: Eleven Sport 1 HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/elevensport1.png"
+    },
+    {
+      "name": "BE: Elevensport 2 HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/elevensport2.png"
+    },
+    {
+      "name": "BE: Ketnet Junior HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/ketnetjunior.png"
+    },
+    {
+      "name": "BE: LA UNE HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/laune.png"
+    },
+    {
+      "name": "BE: NAT GEO HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/natgeo.png"
+    },
+    {
+      "name": "BE: NRJ HITS TV HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/nrjhitstv.png"
+    },
+    {
+      "name": "BE: RTL TVI FHD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/rtltvi.png"
+    },
+    {
+      "name": "BE: RTL CLUB HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/rtlclub.png"
+    },
+    {
+      "name": "BE: Vitaya FHD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/vitaya.png"
+    },
+    {
+      "name": "BE: VTM HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/vtm.png"
+    },
+    {
+      "name": "BE: VTM Kazoom HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/vtmkazoom.png"
+    },
+    {
+      "name": "BE: VTM KIDS HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/vtmkids.png"
+    },
+    {
+      "name": "BE: ZES TV HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/zestv.png"
+    },
+    {
+      "name": "BE: VOO Sport World 1 HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/voosportworld1.png"
+    },
+    {
+      "name": "BE: TVL HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/tvl.png"
+    },
+    {
+      "name": "BE: Eleven Sports 2 HD  (101-SERVERS)",
+      "group": "BE - Belgium - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports2.png"
+    }
+  ]
+}

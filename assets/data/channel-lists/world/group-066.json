@@ -1,0 +1,33 @@
+{
+  "package": "world",
+  "name": "ES - Musicales - Live.",
+  "groupIndex": 66,
+  "totalChannels": 5,
+  "channels": [
+    {
+      "name": "Classica HD (ES)  (101-SERVERS)",
+      "group": "ES - Musicales - Live.",
+      "logo": "https://logo.m3uassets.com/classica.png"
+    },
+    {
+      "name": "Mezzo LIVE FHD (ES)  (101-SERVERS)",
+      "group": "ES - Musicales - Live.",
+      "logo": "https://logo.m3uassets.com/mezzolive.png"
+    },
+    {
+      "name": "MTV ESP FHD (ES)  (101-SERVERS)",
+      "group": "ES - Musicales - Live.",
+      "logo": "https://logo.m3uassets.com/mtvesp.png"
+    },
+    {
+      "name": "MTV ESPA HD (ES)  (101-SERVERS)",
+      "group": "ES - Musicales - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/87930886341.png"
+    },
+    {
+      "name": "MTV HD (ES)  (101-SERVERS)",
+      "group": "ES - Musicales - Live.",
+      "logo": "https://logo.m3uassets.com/mtv.png"
+    }
+  ]
+}

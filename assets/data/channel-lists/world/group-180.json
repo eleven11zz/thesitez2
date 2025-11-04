@@ -1,0 +1,633 @@
+{
+  "package": "world",
+  "name": "IN - 24x7 Bollywood - Exclusive.",
+  "groupIndex": 180,
+  "totalChannels": 125,
+  "channels": [
+    {
+      "name": "CM: Hindi Dubbed 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Hindi Dubbed 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Hindi Dubbed 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Hindi Dubbed 4 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Hindi Dubbed 5 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 4 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 5 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 6 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 7 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 8 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 9 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Action 10 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 4 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 5 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 6 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 7 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 8 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 9 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Comedy 10 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 4 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 5 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 6 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 7 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 8 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 9 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Crime 10 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 4 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 5 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 6 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 7 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 8 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 9 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Drama 10 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Horror 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Horror 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Horror 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Horror 4 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Horror 5 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Horror 6 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 4 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 5 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 6 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 7 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 8 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 9 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood Romance 10 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood War n History 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood War n History 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood War n History 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood War n History 4 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood War n History 5 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Gold 4K  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "https://logo.m3uassets.com/gold.png"
+    },
+    {
+      "name": "CM: Bollywood 4K  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "https://logo.m3uassets.com/bollywood.png"
+    },
+    {
+      "name": "CM: Bollywood 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 4 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 5 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 6 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 7 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 8 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 9 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 10 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 11 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 12 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 13 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 14 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 15 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 17 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 18 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 19 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 20 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 21 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 22 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 23 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 24 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 25 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 26 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 27 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 28 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 29 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 30 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 31 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 32 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 33 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 34 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 35 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 36 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 37 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 38 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 39 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 40 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 41 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 42 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 43 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 44 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 45 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 46 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 47 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 48 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 49 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Bollywood 50 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Goldmines Dubbed 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "CM: Goldmines Dubbed 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "IN: Best of New Release 1 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "IN: Best of New Release 2 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "IN: Best of New Release 3 FHD  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "IN: New Release 1 FHD (All day one movie)  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "IN: New Release 2 FHD (All day one movie)  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    },
+    {
+      "name": "IN: New Release 3 FHD (All day one movie)  (101-SERVERS)",
+      "group": "IN - 24x7 Bollywood - Exclusive.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png"
+    }
+  ]
+}

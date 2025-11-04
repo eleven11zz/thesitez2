@@ -1,0 +1,63 @@
+{
+  "package": "world",
+  "name": "AF - Canal+ Africa - Live.",
+  "groupIndex": 165,
+  "totalChannels": 11,
+  "channels": [
+    {
+      "name": "⭐ ⭐ ⭐ Canal+ Africa ⭐ ⭐ ⭐  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c1eae99b2a69fb00240557d055f68f1b.png"
+    },
+    {
+      "name": "AF: Canal+ Action HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/91907532331.png"
+    },
+    {
+      "name": "AF: Canal+ Cinema HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/15354107361.png"
+    },
+    {
+      "name": "AF: Canal+ Elles HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/13035362091.png"
+    },
+    {
+      "name": "AF: Canal+ Family HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/39803415171.png"
+    },
+    {
+      "name": "AF: Canal+ Premiere HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/99394772731.png"
+    },
+    {
+      "name": "AF: Canal+ Sport 2 HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "https://logo.m3uassets.com/canalsport2.png"
+    },
+    {
+      "name": "AF: Canal+ Sport 3 HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "https://logo.m3uassets.com/canalsport3.png"
+    },
+    {
+      "name": "AF: Canal+ Sport 4 HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37061674091.png"
+    },
+    {
+      "name": "AF: Canal+ Sport 5 HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/68381241631.png"
+    },
+    {
+      "name": "AF: Canal 2 INT HD  (101-SERVERS)",
+      "group": "AF - Canal+ Africa - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/59011897701.png"
+    }
+  ]
+}

@@ -1,0 +1,4583 @@
+{
+  "package": "world",
+  "name": "IT - Dramma Film",
+  "groupIndex": 388,
+  "totalChannels": 915,
+  "channels": [
+    {
+      "name": "IT: Francis of Assisi (1966)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uW6pD4dx5YSa2iznGM27NdDtbDw.jpg"
+    },
+    {
+      "name": "IT: Monella Bluray (1998) (ITA EROTICO)",
+      "group": "IT - Dramma Film",
+      "logo": "https://cinemadvisor.it/wp-content/uploads/2022/03/Monella-poster.jpg"
+    },
+    {
+      "name": "IT: Curiosa [HD] (2019) (ITA EROTICO)",
+      "group": "IT - Dramma Film",
+      "logo": "https://c8.alamy.com/compit/2ah2f8c/curiosa-la-2019-diretto-da-lou-jeunet-credito-curiosa-film-memento-films-international-cinemage-12-album-2ah2f8c.jpg"
+    },
+    {
+      "name": "IT: BLACKBERRY HD (2023)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/81cOz77KYuL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: REVENGE Bluray (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://www.nocturno.it/wp-content/uploads/2017/10/loc.jpg"
+    },
+    {
+      "name": "IT: IL CORVO PREGHIERA MALEDETTA HD (2005)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/518dkmOEXLL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: IL CORVO 2 Bluray (1996)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/51tAN3-ElJL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: IL CORVO HD (1994)",
+      "group": "IT - Dramma Film",
+      "logo": "https://cdn.chili.com/images/public/cms/04/d9/e6/21/04d9e621-d77e-4711-8400-6e8066cecae8.jpg?width=800"
+    },
+    {
+      "name": "IT: Edward mani di forbice HD (1990)",
+      "group": "IT - Dramma Film",
+      "logo": "https://horrornews.net/wp-content/uploads/2015/10/Edward-Scissorhands-25th-Anniversary-bluray.jpg"
+    },
+    {
+      "name": "IT: Million Dollar Baby HD (2004)",
+      "group": "IT - Dramma Film",
+      "logo": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9d26376fdf02180cbe15b957e3ca4c2c60b30805dbfaff2fc933b3e89ab5e74a._RI_TTW_.jpg"
+    },
+    {
+      "name": "IT: GUARDAMI (1999) (ITA EROTICO)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDU4NDZmZDgtYWVhZS00NmEwLTg3NDktMjI2OTlhNmM2MmQ5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg"
+    },
+    {
+      "name": "IT: Marcellino Pane e Vino (1954)",
+      "group": "IT - Dramma Film",
+      "logo": "https://images.justwatch.com/poster/196872393/s718/marcellino-pane-e-vino.jpg"
+    },
+    {
+      "name": "IT: Confessioni proibite di una monaca adolescente (1977) (ITA EROTICO)",
+      "group": "IT - Dramma Film",
+      "logo": "https://www.ilcineocchio.it/cine/wp-content/uploads/2020/07/Confessioniproibitediunamonacaadolescente.jpg"
+    },
+    {
+      "name": "IT: Interno di un convento (1978) (ITA EROTICO)",
+      "group": "IT - Dramma Film",
+      "logo": "https://www.lafeltrinelli.it/images/8019824922766_0_536_0_75.jpg"
+    },
+    {
+      "name": "IT: Le monache di Sant Arcangelo HD (1973) (ITA EROTICO)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/51dZpjd33UL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: Justine ovvero le disavventure della virtu (1969) (ITA EROTICO)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/717Vif2ydkL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: Lolita HD (1997) (ITA EROTICO)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/419XcGB+XiS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: SALON KITTY HD (1976) (ITA EROTICO)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/51Z3tbFM67L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: Salò o le 120 giornate di Sodoma (1975)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w780/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg"
+    },
+    {
+      "name": "IT: RED GHOST THE NAZI HUNTER (2020) Halloween",
+      "group": "IT - Dramma Film",
+      "logo": "https://resources5.eaglepictures.com/image/1/630/945/62cbfd0c7e477/red-ghost-the-nazi-hunter-cover.jpg"
+    },
+    {
+      "name": "IT: PAY THE GHOST (2015) Halloween",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzY3MTc3NzQ1Nl5BMl5BanBnXkFtZTgwNjk2MDE3NjE@._V1_.jpg"
+    },
+    {
+      "name": "ITl LUOMO NELL OMBRA (2010) Halloween",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/S/pv-target-images/eda9b64bfb68a361890057b81167528018871d91a51df79b0d3276433b1bb984.jpg"
+    },
+    {
+      "name": "IT: GHOST STORIES (2018) Halloween",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/71+CgkgBTHL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: GHOST IN THE SHELL 2.0 (2008) Halloween",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/71dFSa9X39L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: GHOST IN THE SHELL (2017) Halloween",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/91RW8tjkRgS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: CRIMSON PEAK (2015) Halloween",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/917rv4-0gjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: IL MISTERO DI SLEEPY HOLLOW (1999) Halloween",
+      "group": "IT - Dramma Film",
+      "logo": "https://www.stardust.it/uploads/img/movie/poster/40747342e543016813966e1dfc6be77d1553296905-1000w.jpg"
+    },
+    {
+      "name": "IT: GHOST FANTASMA (1990) Halloween",
+      "group": "IT - Dramma Film",
+      "logo": "https://pad.mymovies.it/filmclub/2006/04/317/locandina.jpg"
+    },
+    {
+      "name": "IT: A Royal Queens Christmas",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/qB9f9iVxGuGZcGfxkE5xVfgQksU.jpg"
+    },
+    {
+      "name": "IT: Picture Perfect Royal Christmas",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/bKqhNoBpUW71E4BPLSOluSooPg8.jpg"
+    },
+    {
+      "name": "IT: A Christmas Princess",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/koZWBr0r5QyqotclA8IRHpYMy3N.jpg"
+    },
+    {
+      "name": "IT: A Cheerful Christmas",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/nFz39wwxg559fRF870HLn212Hcn.jpg"
+    },
+    {
+      "name": "IT: A Very Corgi Christmas",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/bpB0YjuDcwrZc4pDlzXI76PPjNm.jpg"
+    },
+    {
+      "name": "IT: Escaping the NXIVM Cult: A Mothers Fight to Save Her Daughter",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/aRvC8JdwGjDWtlzZReLwlcnTiGL.jpg"
+    },
+    {
+      "name": "IT: Golden Voices",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/vYsyhnKu1aeNYFpZn7euqSiNoWi.jpg"
+    },
+    {
+      "name": "IT: A Christmas Duet",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/b3zMgAU9hppKmInnQgsmWUqaNqt.jpg"
+    },
+    {
+      "name": "IT: Our Christmas Love Song",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/y9rOT7fNTGN74FdLe4S9i8saluw.jpg"
+    },
+    {
+      "name": "IT: Its Beginning to Look a Lot Like Christmas",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/vYEpId8nCN9wcE4cXSSqG3cw82p.jpg"
+    },
+    {
+      "name": "IT: Christmas On My Mind",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/4qF8PmqmLSrqf81Zk2GgXa9knz2.jpg"
+    },
+    {
+      "name": "IT: Check Inn to Christmas",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/fBf66qLun33OVdzjSOnQYJNWP1r.jpg"
+    },
+    {
+      "name": "IT: Out in the Open",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/i0sNYuHQmRkmin2dUapIYce7W2y.jpg"
+    },
+    {
+      "name": "IT: Christmas Unleashed",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/u3kXsrytxtcVz4D498lYlC99SkR.jpg"
+    },
+    {
+      "name": "IT: Write Before Christmas",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/m0FxtQ8xMGGEXDrIKCg9UjPEuyk.jpg"
+    },
+    {
+      "name": "IT: Christmas Wishes",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/gh9iUFpPkbS30bJFaek34JLDkls.jpg"
+    },
+    {
+      "name": "IT: White Fang",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/enyljsOkffS7GzVqbPduOP8MCqD.jpg"
+    },
+    {
+      "name": "IT: The Goya Murders",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/p9A37JvPZ5laqEfgn0b88xjcl73.jpg"
+    },
+    {
+      "name": "IT: One Winter Proposal",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/zN2BkOC6oIriVyioEncgNKwJjn7.jpg"
+    },
+    {
+      "name": "IT: Baltic Storm",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/4CvVl1rEUDFWePwPJYRrEnwf0JK.jpg"
+    },
+    {
+      "name": "IT: Clemency",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/c03mA6GYRqcRLgxXQpKcYWEKxRn.jpg"
+    },
+    {
+      "name": "IT: Sibyl",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/mYQFYtws1kQs4zsRuevMuA4b2BY.jpg"
+    },
+    {
+      "name": "IT: The Conductor",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/lMND7RVCyke2m2TCZeTviKbBIki.jpg"
+    },
+    {
+      "name": "IT: Ein Sommer in Prag",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/4LFVYj5NnkDXtR8fK0xPXZlxdkn.jpg"
+    },
+    {
+      "name": "IT: End of Sentence",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/vIJfJlAAFLzSyqAkkXCu7nOiIf9.jpg"
+    },
+    {
+      "name": "IT: J.T. LeRoy",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/43ffZhMCWQhzMneGP4kDWoPV48X.jpg"
+    },
+    {
+      "name": "IT: Le Notti Bianche",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/gSfjIw7kF6ioQ4KTO0MxVODluiz.jpg"
+    },
+    {
+      "name": "IT: Ein Sommer in Florida",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/njJ1OlZgWbCcKeLfTbdrCetiSZ4.jpg"
+    },
+    {
+      "name": "IT: Maybe I Do",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/hy96dnwz562U3PhXMzJvKNPBGS.jpg"
+    },
+    {
+      "name": "IT: My Happy Ending",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg"
+    },
+    {
+      "name": "IT: Jesus Revolution",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/wLSytRNOCq4Epz6cL9INHPJOrg0.jpg"
+    },
+    {
+      "name": "IT: Heart Shot",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/ubaCN0FjWhxiu1uHhI9oXSgalVK.jpg"
+    },
+    {
+      "name": "IT: Erax",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/rMp04rYhy4yfOfjZq5F9R3wkeqo.jpg"
+    },
+    {
+      "name": "IT: The In Between",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg"
+    },
+    {
+      "name": "IT: Ghiaccio",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/p9rQgxDnXfG0dozjp3HwfvtyVo8.jpg"
+    },
+    {
+      "name": "IT: Dancing on Glass",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/ppF495JNP6poCCEAm4xM1nJEZzD.jpg"
+    },
+    {
+      "name": "IT: Ero in guerra ma non lo sapevo",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/ywuNHbHnN5EZQGtRsx6ArdiEAAf.jpg"
+    },
+    {
+      "name": "IT: Cyrano",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg"
+    },
+    {
+      "name": "IT: Breaking Up in Rome",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/QBRtW9mFjbcginDFQWAL3Q0Lhh.jpg"
+    },
+    {
+      "name": "IT: The Sky Is Everywhere",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/qMVUlq6rdqFo1xZ5ozQcKFCDbgj.jpg"
+    },
+    {
+      "name": "IT: Between Two Worlds",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/o5aeDtufiLsnRk8dNXWubvC6sP8.jpg"
+    },
+    {
+      "name": "IT: Waves",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg"
+    },
+    {
+      "name": "IT: Three Thousand Years of Longing",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/wdiUSKO0kebySOrHBVoDp7CLHIO.jpg"
+    },
+    {
+      "name": "IT: Playground",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/lTAfmBEaTYyPf3bre8hdIYiE3RB.jpg"
+    },
+    {
+      "name": "IT: Bosch",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/z6Ay2MUXLo3vLhp1KB0aY6hix8A.jpg"
+    },
+    {
+      "name": "IT: Dakota",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/j3eUOPUoDwkupwTPTDk6ESqrzGt.jpg"
+    },
+    {
+      "name": "IT: A Place to Fight For",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/36wyM5ceCCIpu8lU88mxonYET71.jpg"
+    },
+    {
+      "name": "IT: Sundown",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/12D7arRdEJ9EUk6FPPJfNmWyxjO.jpg"
+    },
+    {
+      "name": "IT: November",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/A5wae5M81jLTuv3WbCJfORxapRA.jpg"
+    },
+    {
+      "name": "IT: With or Without You",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/ut01wxXWOejoo01Mx57BpF1E6NH.jpg"
+    },
+    {
+      "name": "IT: Forever Out of My League",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/1zhsT17wTXAw5IxK9rSLtftu7Aw.jpg"
+    },
+    {
+      "name": "IT: The Catholic School",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/WTTXAtuyQY93oe1yetWYMGbO7K.jpg"
+    },
+    {
+      "name": "IT: The Hand of God",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/kreVxr5moB7K52IGGV1BGAn6nq1.jpg"
+    },
+    {
+      "name": "IT: The First Day of my Life",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/1AY8sq3hy9ezjY1t7GekJGZXbN8.jpg"
+    },
+    {
+      "name": "IT: Credimi!",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/7TfzTAg4wdlFF1ko2JNIrZ0w8Y3.jpg"
+    },
+    {
+      "name": "IT: The Last Full Measure",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/bMG8c80lyEkBXVgyHVqsdQhjgf6.jpg"
+    },
+    {
+      "name": "IT: The Informer",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg"
+    },
+    {
+      "name": "IT: The Call of the Wild",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/33VdppGbeNxICrFUtW2WpGHvfYc.jpg"
+    },
+    {
+      "name": "IT: Downhill",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/ruLqLb2bfWKykckxVlVZayuBOgW.jpg"
+    },
+    {
+      "name": "IT: A Fall from Grace",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/h47JJZ015VF4neia33AFwTU37Yb.jpg"
+    },
+    {
+      "name": "IT: S829774",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/h47JJZ015VF4neia33AFwTU37Yb.jpg"
+    },
+    {
+      "name": "IT: Through My Window: Across the Sea",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/dAyJqJ8KoglZysttC6BfVmDFQUt.jpg"
+    },
+    {
+      "name": "IT: The Offering",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg"
+    },
+    {
+      "name": "IT: Big George Foreman",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg"
+    },
+    {
+      "name": "IT: Profeti",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/bcVFsE7fOfyymCg6C32Ju6J3eZr.jpg"
+    },
+    {
+      "name": "IT: Fanfic",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/kY13qAaWf5BOzdN15LkM89vDiNY.jpg"
+    },
+    {
+      "name": "IT: Royalteen: Princess Margrethe",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/2gkKRFDiuSvBB57glAMBsdRGeWk.jpg"
+    },
+    {
+      "name": "IT: Mr. Car and the Knights Templar",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/xEAXVe0BzW4K9Ky6eTo4CJwzJ8P.jpg"
+    },
+    {
+      "name": "IT: 13: The Musical",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/rqShG2kTbsVbgrgjfoEwawjR88N.jpg"
+    },
+    {
+      "name": "IT: AlcarrÃ s",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/sbFVJZAvd7a7n2aHEUtOyrQtAKo.jpg"
+    },
+    {
+      "name": "IT: The Next 365 Days",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg"
+    },
+    {
+      "name": "IT: Burning Patience",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/aCL4YZBsyobwDQZeLdJ0iGOrXvs.jpg"
+    },
+    {
+      "name": "IT: Arnoldo Mondadori - I libri per cambiare il mondo",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/tQtK78GtQrF28i94VGGOJvwZLQ2.jpg"
+    },
+    {
+      "name": "IT: Autumn Beat",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/udMx3Fcfo5oM4CEPMX1HYbeU7HP.jpg"
+    },
+    {
+      "name": "IT: Babylon",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
+    },
+    {
+      "name": "IT: Beauty",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/yjAXHyMz0JZzYiQP7q1fT5kXLif.jpg"
+    },
+    {
+      "name": "IT: Belle and Sebastian: Next Generation",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/8yRDnNMonoERrHoi3qJ31cwsQyG.jpg"
+    },
+    {
+      "name": "IT: Diorama",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/gQrjtU0B8nGu9fB3ZDkxcXA4lLE.jpg"
+    },
+    {
+      "name": "IT: Elvis",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+    },
+    {
+      "name": "IT: End of the Road",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/2mxnDbKCoR1M9e5szzc6Ku3Nfmv.jpg"
+    },
+    {
+      "name": "IT: Dog",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg"
+    },
+    {
+      "name": "IT: La Abuela (The Grandmother)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/ri3KIjGp3Ek6iKUsTzMigmxTvdw.jpg"
+    },
+    {
+      "name": "IT: Under Her Control",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/6AuWxKhfxDltvKMpXG4TblyBGNy.jpg"
+    },
+    {
+      "name": "IT: Dangerous Liaisons",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg"
+    },
+    {
+      "name": "IT: Parallel Lines",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/gU19rldavrljHsHUY3HVxEXmjrU.jpg"
+    },
+    {
+      "name": "IT: Maigret",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/hJGm8gqeFVd5MkOZa6HEHDi1te7.jpg"
+    },
+    {
+      "name": "IT: Code Name: Emperor",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/8VjVLMiPm598Kg6XmKk5m1fz0p7.jpg"
+    },
+    {
+      "name": "IT: For Jojo",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/42RRcJILSGQWARILZjtKHSijRPb.jpg"
+    },
+    {
+      "name": "IT: Persuasion",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/s99WrKSEVR4RVvwm5Zn2cqrHTMM.jpg"
+    },
+    {
+      "name": "IT: Royalteen",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/oK6I9Wa5RIqxpNbJ4NWemsotcYJ.jpg"
+    },
+    {
+      "name": "IT: No Limit",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/fUdeneiMUQkE1Yb3Qx7dML0HVf.jpg"
+    },
+    {
+      "name": "IT: Takeaway",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/wfHTuCYMr2ph3vyFjo2YlqJgO4K.jpg"
+    },
+    {
+      "name": "IT: Thirteen Lives",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg"
+    },
+    {
+      "name": "IT: To Chiara",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/Ak0AM4lpmmkUkT0kXmRdjjxfa7h.jpg"
+    },
+    {
+      "name": "IT: Blackout Love (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hh7YUEj3HXpHKetOlMiPMgwFfuc.jpg"
+    },
+    {
+      "name": "IT: Born Dead",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/apZG321XbNaPo6g1p6wxmqBzFIo.jpg"
+    },
+    {
+      "name": "IT: Cargo",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/cdPSUck4tBRvRu6DFk6XciDrssn.jpg"
+    },
+    {
+      "name": "IT: Il Buco",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/7KCL9qcY4gqtb1uzCqdsdvmVLBK.jpg"
+    },
+    {
+      "name": "IT: Promises",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/Mm539VC9Zoj3Yin0whEACfGPk9.jpg"
+    },
+    {
+      "name": "IT: The King of Laughter",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/fdQYDpjWdg5YvnJ4i8LC0BHkKsf.jpg"
+    },
+    {
+      "name": "IT: Time Is Up",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg"
+    },
+    {
+      "name": "IT: Wonderwell",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/deoxTZeVAULpVvbbxrNxAcyHAkk.jpg"
+    },
+    {
+      "name": "IT: I Am Legend",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg"
+    },
+    {
+      "name": "IT:   Camp",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/fufqgtt1gqTU4uTca0Vgwgmafym.jpg"
+    },
+    {
+      "name": "IT:   Crypto Boy",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/ejL0MUET2LJRdEgL6JO0erxmDcZ.jpg"
+    },
+    {
+      "name": "IT:   Holy Spider",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg"
+    },
+    {
+      "name": "IT:   Houria",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/91pUUTPsTmvnwM9ChLBy8W6rjsY.jpg"
+    },
+    {
+      "name": "IT:   Song of the Assassins",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/eiegtcllHRlBkN9qcCQqj2dki0O.jpg"
+    },
+    {
+      "name": "IT:   Kursk",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg"
+    },
+    {
+      "name": "IT:   The Other Zoey",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg"
+    },
+    {
+      "name": "IT:   Plan 75",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/dWmmZayMOLC8zCz59TcwsiAjYmT.jpg"
+    },
+    {
+      "name": "IT:   Redeeming Love",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/z8VpsTdIjBhdeGeNEsHFwz6MJXp.jpg"
+    },
+    {
+      "name": "IT:   Rodeo",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/y5M3HqwF09cb2Sh5iE5V0LqRbmv.jpg"
+    },
+    {
+      "name": "IT:   The Quiet Girl",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/kc6GM4gThJpXHE28MuLofDOmRLJ.jpg"
+    },
+    {
+      "name": "IT:  47 Ronin",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/xDHnmcroujCRG0ysYQaiswjbyHd.jpg"
+    },
+    {
+      "name": "IT:  Cop Land",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/qzR7m6kUhsbdid3xRK2jTXjyNmG.jpg"
+    },
+    {
+      "name": "IT:  Credimi!",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/7TfzTAg4wdlFF1ko2JNIrZ0w8Y3.jpg"
+    },
+    {
+      "name": "IT:  Holy Spider",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg"
+    },
+    {
+      "name": "IT:  Lonely Castle in the Mirror",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/cPV2etoFUkgQLWqKduWxXAeP4Oe.jpg"
+    },
+    {
+      "name": "IT:  Song of the Assassins",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/eiegtcllHRlBkN9qcCQqj2dki0O.jpg"
+    },
+    {
+      "name": "IT:  Aloft",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/fxwJywCV6XLAFi0FcqVyduw0Fu.jpg"
+    },
+    {
+      "name": "IT:  The Monuments Men",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg"
+    },
+    {
+      "name": "IT:  November",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/A5wae5M81jLTuv3WbCJfORxapRA.jpg"
+    },
+    {
+      "name": "IT:  The Boy in the Ocean",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/2Q7VrvWp4AZ1N6xdb9iCbZ06gZC.jpg"
+    },
+    {
+      "name": "IT:  Plan 75",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/dWmmZayMOLC8zCz59TcwsiAjYmT.jpg"
+    },
+    {
+      "name": "IT:  Prison 77",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/8NmaPNP3NS0Ok6sL1fT6ZSnw5OF.jpg"
+    },
+    {
+      "name": "IT:  Ran",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/FepaiApo8Yr6pNIZIeYG5kW06J.jpg"
+    },
+    {
+      "name": "IT:  Redeeming Love",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/z8VpsTdIjBhdeGeNEsHFwz6MJXp.jpg"
+    },
+    {
+      "name": "IT:  Rodeo",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/y5M3HqwF09cb2Sh5iE5V0LqRbmv.jpg"
+    },
+    {
+      "name": "IT:  Sundown",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/AFeuY7y5EgktZzE6nwByAkVYPP.jpg"
+    },
+    {
+      "name": "IT:  The Quiet Girl",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w500/kc6GM4gThJpXHE28MuLofDOmRLJ.jpg"
+    },
+    {
+      "name": "IT: IL SOGNO DI FRANCESCO HD (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/S/pv-target-images/e8fddb7de6ff0f770d01660835f3ed1757bafd283de7b81a03ea19b72196548b.jpg"
+    },
+    {
+      "name": "IT: CHIARA E FRANCESCO HD (2007)",
+      "group": "IT - Dramma Film",
+      "logo": "https://www.filmtv.it/imgbank/GALLERYXL/R201303/chiara_e_francesco_poster.jpg"
+    },
+    {
+      "name": "IT: FRANCESCO HD (1989)",
+      "group": "IT - Dramma Film",
+      "logo": "https://cdn.chili.com/images/public/cms/d8/7b/2e/6e/d87b2e6e-e47a-4a9e-afce-a82269901695.jpg?width=800"
+    },
+    {
+      "name": "IT: FRANCESCO GIULLARE DI DIO HD (1950)",
+      "group": "IT - Dramma Film",
+      "logo": "https://iptelevision.altervista.org/FRANCESCO-GIULLARE-DI-DIO.jpg"
+    },
+    {
+      "name": "IT: DO UT DES HD (2023)",
+      "group": "IT - Dramma Film",
+      "logo": "https://pad.mymovies.it/filmclub/2023/04/246/locandina.jpg"
+    },
+    {
+      "name": "IT: DARK HARVEST HD (2023)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk0ODg3N2EtMmE5NC00MTRiLWExMzAtMDgyNDFjYWZmM2ViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+    },
+    {
+      "name": "IT: DALÍLAND HD (2022)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/811mlxPQPOL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: MINDCAGE MENTE CRIMINALE HD (2023)",
+      "group": "IT - Dramma Film",
+      "logo": "https://m.media-amazon.com/images/I/71lPTRJGHoL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "IT: OPPENHEIMER HD (2023)",
+      "group": "IT - Dramma Film",
+      "logo": "https://mr.comingsoon.it/imgdb/locandine/big/61803.jpg"
+    },
+    {
+      "name": "IT: A Haunting in Venice (2023)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg"
+    },
+    {
+      "name": "IT: PLAN 75 HD (2022)",
+      "group": "IT - Dramma Film",
+      "logo": "https://pad.mymovies.it/filmclub/2022/04/186/locandinapg1.jpg"
+    },
+    {
+      "name": "IT: Al di là delle montagne (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8fAE76RjkGsS0VEipIsOhS8D1R.jpg"
+    },
+    {
+      "name": "IT: Zio Frank (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/60FDjzDtRW65MBi4haZVaXDtYxa.jpg"
+    },
+    {
+      "name": "IT: Zeta (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1j9CZwu65EaRAisdypH4kUPUcbY.jpg"
+    },
+    {
+      "name": "IT: Zeroville (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/79ZbOA6mwzuDNICi6l0rVLouNDG.jpg"
+    },
+    {
+      "name": "IT: Young Ones - L'ultima generazione (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6bnwONpNr3UnyTOeRkiQsb6yml.jpg"
+    },
+    {
+      "name": "IT: World War Z (2013)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3g0PjxeIcWt7PVf9CWtiuOUlGzH.jpg"
+    },
+    {
+      "name": "IT: Woodlawn (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/BJ1XNBBEiqaCM4SQhHYTrWqCfn.jpg"
+    },
+    {
+      "name": "IT: Wonder (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pMD8L0vEn5cgreXFX6IVinwzhs.jpg"
+    },
+    {
+      "name": "IT: Woman in Gold (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eoj6bozvgwNuDV3vOrqlvrCrX.jpg"
+    },
+    {
+      "name": "IT: Wolf Warrior 2 (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpyUvgHoerLGAU1pb2fZaxQBAMS.jpg"
+    },
+    {
+      "name": "IT: Wish I Was Here (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgM43IvlprjOUywjOYxVAbhkxMo.jpg"
+    },
+    {
+      "name": "IT: Windstorm - Contro ogni regola (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8IVGb4LohF753C0bsnvcIVXibv.jpg"
+    },
+    {
+      "name": "IT: Wilson (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyhneypumCNCpUKlh7zCTJprgJ4.jpg"
+    },
+    {
+      "name": "IT: Wildlife (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m16EBjZkv7JyxwXYMPuWwOBA9jy.jpg"
+    },
+    {
+      "name": "IT: Whiskey Tango Foxtrot (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QutiiwuW0IxNsJoxtFKp3AUBC6.jpg"
+    },
+    {
+      "name": "IT: We Die Young (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZcC7cHjWb7Wlx1sEzKZ0hJECVK.jpg"
+    },
+    {
+      "name": "IT: Waves - Le onde della vita (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpVXfdfEWmRwmL7U0mFlQRmlWhN.jpg"
+    },
+    {
+      "name": "IT: Wasabi (2001)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta36yQOyL02QAkNmsgZIzJJbHFN.jpg"
+    },
+    {
+      "name": "IT: War Machine (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDBvTBuTvmVRq1asCMQaI7DuodQ.jpg"
+    },
+    {
+      "name": "IT: Vox Lux (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/na3pnvCYsXGnoZfL2q9Ly3vJPWQ.jpg"
+    },
+    {
+      "name": "IT: Volevo nascondermi (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/znkT7ke3WKz6wfvBCoCA7s8cvz8.jpg"
+    },
+    {
+      "name": "IT: Vlad l'impalatore (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUfUMwt52vYqZSj7AYMwmKvLXd.jpg"
+    },
+    {
+      "name": "IT: Vivere due volte (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTKJKVfhhzN7hop92Oy03dPh6Mu.jpg"
+    },
+    {
+      "name": "IT: Vivere (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c596g57DNY8pBFFH7MQybEHJTPm.jpg"
+    },
+    {
+      "name": "IT: Vittoria e Abdul (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2daiR4KdtjUOfhspUucotg2Hbgx.jpg"
+    },
+    {
+      "name": "IT: Viral (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jptsoJTocGlAKuWshllM9tV8QTN.jpg"
+    },
+    {
+      "name": "IT: Vi presento Toni Erdmann (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruCXjuHL7yao7lIoFENOV9RU4qu.jpg"
+    },
+    {
+      "name": "IT: Vi presento Christopher Robin (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEMMnDjUDZRhqcfqfAADBqvMKYs.jpg"
+    },
+    {
+      "name": "IT: Vinterviken (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tY2giXB3tUUhUPPjMi8zElHpQxY.jpg"
+    },
+    {
+      "name": "IT: Viking Legacy (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMkM614LmZLDjzpaDMl2NmNSO2U.jpg"
+    },
+    {
+      "name": "IT: Vicino all'orizzonte (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcL50PP64op9ngWIFCc1rm9MRdM.jpg"
+    },
+    {
+      "name": "IT: Vice - L'uomo nell'ombra (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/alIbwoeydW1vMkGyE6yEkRNdrqu.jpg"
+    },
+    {
+      "name": "IT: Viaggio ai confini della Terra (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFtwo3fXNBTHVmeud0BgguRF01Y.jpg"
+    },
+    {
+      "name": "IT: Veronica (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6wBTSinv5iDYZ51lEaSLNFN0vq.jpg"
+    },
+    {
+      "name": "IT: Veloce come il vento (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nicStobkEYh9iJO6CC3UqolQRsK.jpg"
+    },
+    {
+      "name": "IT: Vacanze in famiglia (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bRSm7ZWqDYI0pGYx5Av7lo1Jrb.jpg"
+    },
+    {
+      "name": "IT: Un viaggio a quattro zampe (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cf6elV2qwJkQXQzbhy2CCzCyql.jpg"
+    },
+    {
+      "name": "IT: Un valzer tra gli scaffali (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxEfwM0HivwFA9aMzw1qobH3eJB.jpg"
+    },
+    {
+      "name": "IT: Un sogno chiamato Florida (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftvAcbZonH753w4yqvTqXt7mHyG.jpg"
+    },
+    {
+      "name": "IT: Un sacchetto di biglie (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wggNhJH6JxCy7d9KpnMX6Ru8Zk7.jpg"
+    },
+    {
+      "name": "IT: Un profilo per due (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74rAT5Q2jlQpOXmLXKBfMIFUvr6.jpg"
+    },
+    {
+      "name": "IT: Un padre (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQA3oV9J9iZYH4MSEWc6wD6IK9S.jpg"
+    },
+    {
+      "name": "IT: Un lungo viaggio nella notte (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tY34dpUHPKv2pX5AGIeg8rIYYOh.jpg"
+    },
+    {
+      "name": "IT: Un'estate con Sofia (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vYuTYys0y1EfTkB4a3tJpuNtc8.jpg"
+    },
+    {
+      "name": "IT: Undisputed 4 - Il ritorno di Boyka (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mv9iPqnXntIufHcxl743WlMffG.jpg"
+    },
+    {
+      "name": "IT: Undisputed (2002)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/34Z794CRXVvEJzJipoN52fMQOSh.jpg"
+    },
+    {
+      "name": "IT: Undine - Un Amore per Sempre (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5ntHxpLEHw2RSmoL5sqdlQznr8.jpg"
+    },
+    {
+      "name": "IT: Unbroken: La via della redenzione (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyMN01tEB6mv06DLXAZbYnajpkT.jpg"
+    },
+    {
+      "name": "IT: Una storia senza nome (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiMzn20dKb7iyCApanA4ujUsIP.jpg"
+    },
+    {
+      "name": "IT: Una stagione da ricordare (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Y8TCeOUDkUgYCzN2hsjKujfeVo.jpg"
+    },
+    {
+      "name": "IT: Una sirena a Parigi (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/szTiYrNUpyJNzkysxYS0GvOXgsF.jpg"
+    },
+    {
+      "name": "IT: Una notte di 12 anni (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwzHA4ox57rxIb7UdodWdRiwqST.jpg"
+    },
+    {
+      "name": "IT: Un amore di famiglia (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/frVEZwXCdrmcxM6G7rn5VTJtTwf.jpg"
+    },
+    {
+      "name": "IT: Un amore all'altezza (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLqY8rY1CTu9rCjpY9EfMeHjj41.jpg"
+    },
+    {
+      "name": "IT: Un amico straordinario (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQke4ZBMBkPtDVMJFAZWKaXqT5r.jpg"
+    },
+    {
+      "name": "IT: Una intima convinzione (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKA2dwU0YhvRHCnvA0BCswjuWKY.jpg"
+    },
+    {
+      "name": "IT: Una giusta causa (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uP5SNQe6q3GLgcDnPvITszaV6F1.jpg"
+    },
+    {
+      "name": "IT: Un affare di famiglia (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocxZHsZKzZuSvIdsApTHbylPJbg.jpg"
+    },
+    {
+      "name": "IT: Ulysses - A Dark Odyssey (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xoEsAkSyV77YRrJdVECVv3f9AB.jpg"
+    },
+    {
+      "name": "IT: Twist (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryiOzupUbkHpFXFWTv4OCsUQK5q.jpg"
+    },
+    {
+      "name": "IT: Tutto quello che vuoi (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FOuI1i7jWb4MNfPgIERrsUGYrM.jpg"
+    },
+    {
+      "name": "IT: Tutto il mio folle amore (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Pfqf16i8w9CgVsuAGQzj215Uyg.jpg"
+    },
+    {
+      "name": "IT: Tutti lo sanno (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqrOXAeUsUAXdT7IDDmHZoXixNN.jpg"
+    },
+    {
+      "name": "IT: Tuo, Simon (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sehXVCoR9cZ13x1NFf9bmBFgQVe.jpg"
+    },
+    {
+      "name": "IT: Tully (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IqfPum6Ni5VkEKPgxaX0Wr2oAq.jpg"
+    },
+    {
+      "name": "IT: Tua per sempre (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2KaX2J9w1E3AaclMgnGra9WAVZ.jpg"
+    },
+    {
+      "name": "IT: Troppa grazia (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0wFKsfI0x0AMyF9bGO8vcaCiJq.jpg"
+    },
+    {
+      "name": "IT: Tre manifesti a Ebbing, Missouri (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BLkWnNHwGdcwkivXHBTuOH1hEO.jpg"
+    },
+    {
+      "name": "IT: Trafficanti (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTVM4RtsV9tjKfAZBIuHxpOvbf0.jpg"
+    },
+    {
+      "name": "IT: Toxic (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghAFpGUl8mjrEQSXJxDsdXO952A.jpg"
+    },
+    {
+      "name": "IT: Tornare a vincere (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l21n4OPObYl3Uo0urJcIMS5X629.jpg"
+    },
+    {
+      "name": "IT: Tonya (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkEW8lRpGVDHgjXWhn9vuoeGIrV.jpg"
+    },
+    {
+      "name": "IT: Tomiris – Principessa guerriera (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sxgLlJpDqDvc6OGttUtaKGpaDO.jpg"
+    },
+    {
+      "name": "IT: Tolo Tolo (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/CqUxog8F6aaK97RYh8YXhv3NDL.jpg"
+    },
+    {
+      "name": "IT: Tolkien (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufpPqTNUkmNXbkEeQCNcvDYvNE9.jpg"
+    },
+    {
+      "name": "IT: Toglimi un dubbio (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WDUygN1PVtNlIGbWR5fqnZPzGY.jpg"
+    },
+    {
+      "name": "IT: Ti amo presidente (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9q3elxn4LLsgOykhjV5YPutnDb2.jpg"
+    },
+    {
+      "name": "IT: The Truman Show (1998)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vniJPHHUpjdVPTSGxn6b3z93nyK.jpg"
+    },
+    {
+      "name": "IT: The Startup: Accendi il tuo futuro (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l15vWNRdHzV3wJ5YbhYZgeygok.jpg"
+    },
+    {
+      "name": "IT: The Square (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LhAAUfSpUUhn3Eo8dxIszLoML9.jpg"
+    },
+    {
+      "name": "IT: The Specials - Fuori dal comune (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNWbf1ymrjyCQm6aHH2K1j5SmpQ.jpg"
+    },
+    {
+      "name": "IT: The Social Dilemma (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg"
+    },
+    {
+      "name": "IT: The Room - La stanza del desiderio (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVKV8wIrmTXSZwgJVT2yHXffWw7.jpg"
+    },
+    {
+      "name": "IT: The Rising Hawk - L'ascesa del falco (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/geOKiGqYzDsJEm1lEjgtBFaTerl.jpg"
+    },
+    {
+      "name": "IT: The Rifleman (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVnuQTLdzQZYoPoVmCRKYBMfRQ2.jpg"
+    },
+    {
+      "name": "IT: The Rider - Il sogno di un cowboy (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zc0OS5v3V7m6jtcS2xLzOmfpZWI.jpg"
+    },
+    {
+      "name": "IT: The Renegade (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/67LGO6hwAOqoRLz8LUbjMOYVZtX.jpg"
+    },
+    {
+      "name": "IT: The Queen of Spain (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3LMs88RZdKxv3aX23hjcV93B66.jpg"
+    },
+    {
+      "name": "IT: The Program (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qb8L1SydRGGc3cuN0EUvOqLnCB.jpg"
+    },
+    {
+      "name": "IT: The Post (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Am9lLd7KXjC8UFAUzSz5zDL6BB.jpg"
+    },
+    {
+      "name": "IT: The Photograph (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8luR54AX2BM8T2aoC0LXpRO0NtS.jpg"
+    },
+    {
+      "name": "IT: The Padre (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaj41iC7bRdouW2xnL9shBKR0kl.jpg"
+    },
+    {
+      "name": "IT: The Nest - L'inganno (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/flSWsJQSAJTfCQfk2U1jixyRPfx.jpg"
+    },
+    {
+      "name": "IT: The Nest (Il nido) (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UGf5qAcMaCQUc5M0qYqF0NQpcH.jpg"
+    },
+    {
+      "name": "IT: The Monster (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfZlhea7wCNQK78VfZC3gDJ4si.jpg"
+    },
+    {
+      "name": "IT: The Midnight Sky (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aakq3ybPvzQbGFSktOLDnlc3FFC.jpg"
+    },
+    {
+      "name": "IT: The Lodgers - Non infrangere le regole (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4XNWMo8QOt5BcbfiJVySwqmi8.jpg"
+    },
+    {
+      "name": "IT: The Lobster (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oe3XoAL0he16IWLHFzdg32q5ty6.jpg"
+    },
+    {
+      "name": "IT: The Latin Dream (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8HsiqoVF5EBDXboUWln3uSH0d6.jpg"
+    },
+    {
+      "name": "IT: The Last Man (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owB0zHYeWKlSdhsouygD9JHHxKj.jpg"
+    },
+    {
+      "name": "IT: The Kill Team (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRgBlDmvFKFAwA9HODRjIBL8JIP.jpg"
+    },
+    {
+      "name": "IT: The Kid (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wK5e9Z8zoaimflHZeSAfrNkpu7.jpg"
+    },
+    {
+      "name": "IT: The Irishman (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Qi4m1w57701OXeNhu1wQwLKMY0.jpg"
+    },
+    {
+      "name": "IT: The Holly Kane Experiment (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuJns2vtO5QLucBWj0DjhmWZvP8.jpg"
+    },
+    {
+      "name": "IT: The Hero - Una vita da eroe (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaIvHxyuuLKOAuWMTaACoKVcCx8.jpg"
+    },
+    {
+      "name": "IT: The Hateful Eight (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/KQSz23y9bFIljwwZOvyhTZoAtV.jpg"
+    },
+    {
+      "name": "IT: The Gunman (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uchrY61qwbUL5tftKyHu4I5L8Gj.jpg"
+    },
+    {
+      "name": "IT: The Great War (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB8sqwHkVZWBvhEn71ICewPCfNS.jpg"
+    },
+    {
+      "name": "IT: The Glorias (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f661x2neqb6DJBf3GAiRz8cDR.jpg"
+    },
+    {
+      "name": "IT: The girl from the song (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/scpa85zcQGLV6CyYR7526IiOy3O.jpg"
+    },
+    {
+      "name": "IT: The Front Runner - Il vizio del potere (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nS0bI72RnfipgZPof77QEnVmFr.jpg"
+    },
+    {
+      "name": "IT: The Founder (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/73ii8fxj4iudM0MS6cKjtTafe2L.jpg"
+    },
+    {
+      "name": "IT: The Farewell - Una bugia buona (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTKBipsV3GZVqw1x4V5Hfq2bcSY.jpg"
+    },
+    {
+      "name": "IT: The Disaster Artist (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIA9GE5ewJwxqJgAy8Sr6CcbHbn.jpg"
+    },
+    {
+      "name": "IT: The Danish Girl (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEsXOMc1IRAuTMhuw73MuaxSIL8.jpg"
+    },
+    {
+      "name": "IT: The Cured (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctnM14zrZAZnvSvnXEqltNIdXtT.jpg"
+    },
+    {
+      "name": "IT: The Courier (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axyjwWhMXre9k7KGaoeRtCHd8p1.jpg"
+    },
+    {
+      "name": "IT: The Climb - La Salita (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCaWNkqZIfaKMSPmudOfCF721BN.jpg"
+    },
+    {
+      "name": "IT: The Cave - Acqua alla gola (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y8bBpg7ufZPCUtecdivn8yr7yG.jpg"
+    },
+    {
+      "name": "IT: The Bronze - Sono la numero 1 (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kayRHjGZInSD6nGP3dvFsPpIuwS.jpg"
+    },
+    {
+      "name": "IT: The Boys in the Band (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D2gi13hnrXWaspWuWmdbEZ8bef.jpg"
+    },
+    {
+      "name": "IT: The Bombing - La battaglia di Chongqing (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9A2YkTjYN6u5V0Jk9xP0K0dTQ4V.jpg"
+    },
+    {
+      "name": "IT: The Banker (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/harqk4ngh8x5cDlmBaejFs5emEY.jpg"
+    },
+    {
+      "name": "IT: The Balkan Line (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgVaIYtLmSg7J9m4LDFAb0bUdPF.jpg"
+    },
+    {
+      "name": "IT: The Assassin (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUFKHCFiLMXNWqUNlps0Xhao9eJ.jpg"
+    },
+    {
+      "name": "IT: The Adventurers - Gli avventurieri (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bKJpnGnj0bP8cgIVViVG9tTAPM.jpg"
+    },
+    {
+      "name": "IT: The Forty-Year-Old Version (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXkATVtdYiusEk2ihjDQsLuPQ64.jpg"
+    },
+    {
+      "name": "IT: The 33 (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpXkIuAlIlcNYACRE2MssxnHvZQ.jpg"
+    },
+    {
+      "name": "IT: Territory - L'oro dei ghiacci (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i90bORjE9bAEMnPar88ZPikLMea.jpg"
+    },
+    {
+      "name": "IT: Tavolo 19 (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGvwozSZpJUobmqzKnGQa77axGI.jpg"
+    },
+    {
+      "name": "IT: Sylvie's Love (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/48P3lTdsg19OfmrD5av0VJYcjLM.jpg"
+    },
+    {
+      "name": "IT: Swiss Army Man - Un amico multiuso (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHtrcmWZFRncqfvdgc1oFGPhaxA.jpg"
+    },
+    {
+      "name": "IT: Sunlight Jr. (2013)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l4InMdgMqpTzicUrG7C2VntQWI.jpg"
+    },
+    {
+      "name": "IT: Sully (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTvbAuseQH4DBUryUWpAIstgR0z.jpg"
+    },
+    {
+      "name": "IT: Sulla stessa onda (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHNkedUdx9yIWRyjPMqOeoT6fQB.jpg"
+    },
+    {
+      "name": "IT: Sulla mia pelle (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOvvIZjdbGVpPaQ8upPpZzttO3T.jpg"
+    },
+    {
+      "name": "IT: Suffragette (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/evEhKopHmdaFbz5JnDET3EARNi1.jpg"
+    },
+    {
+      "name": "IT: Succede (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsnQGmdK9buffM4nI5Z1rrsLOi5.jpg"
+    },
+    {
+      "name": "IT: StreetDance 2 (2012)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/87BynMDsMwCmjn33zzSrzVjpZ7f.jpg"
+    },
+    {
+      "name": "IT: StreetDance 3D (2010)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SsiRWEeZKWGMa5I8zMSMBY1QWN.jpg"
+    },
+    {
+      "name": "IT: Straight Outta Compton (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgFlNg2CjCAjQtl1IaFxVqogMLE.jpg"
+    },
+    {
+      "name": "IT: Stonewall (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LS6vZXQz5cbyFIQ4TXQ9vmUOaI.jpg"
+    },
+    {
+      "name": "IT: Steve Jobs (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jrDrcD4Kb1XKnw1UclBHygGE0X.jpg"
+    },
+    {
+      "name": "IT: Step Up - Year of the Dance (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DQvNzUFjKj3pfbBNsMl1UJKTzp.jpg"
+    },
+    {
+      "name": "IT: Starry Eyes (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bs1DGWgXdp6QpCa6KV0jQgUtEU.jpg"
+    },
+    {
+      "name": "IT: Stargirl (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwsrtzSrr7G6xjxsa7IwaAMHpEF.jpg"
+    },
+    {
+      "name": "IT: Stanlio & Ollio (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAC7NOP9qpO3IXl861sEj2o36f6.jpg"
+    },
+    {
+      "name": "IT: Squadrone 303 - La grande battaglia (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0cXf2DeJv1AmGq6D06VJxz0PLh.jpg"
+    },
+    {
+      "name": "IT: Sputnik (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBi5xW9Rd0YoGB0aAggV0EN5LDP.jpg"
+    },
+    {
+      "name": "IT: Spacewalker - Il tempo dei primi (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrEx6fxB2xiDJW9bq6jv3W7qJjo.jpg"
+    },
+    {
+      "name": "IT: Southpaw - L'ultima sfida (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Hm5oKL1pDsqWr66UbZonWE6wV6.jpg"
+    },
+    {
+      "name": "IT: Sotto la pelle del lupo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hm75qhx6LW6zHb3lFSa5n0gnJTw.jpg"
+    },
+    {
+      "name": "IT: Sotto il cielo delle Hawaii (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4UpUZzHmdFweQSU0u3beD61khb.jpg"
+    },
+    {
+      "name": "IT: Sotto attacco (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mlLjkOfBcogvIwJHTh1MyqdBlS.jpg"
+    },
+    {
+      "name": "IT: Sorry We Missed You (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eklppHlxVtaV56vSbiUs4AveakM.jpg"
+    },
+    {
+      "name": "IT: Sono la tua donna (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWigferTrKn2weHLM5xkIKOvqt9.jpg"
+    },
+    {
+      "name": "IT: Somnia (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX2Sx9FCRZiuureHdWdFcIIXPl.jpg"
+    },
+    {
+      "name": "IT: Soldato semplice (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkVtSisfyX7ZSpyGu2UmsDPXjzR.jpg"
+    },
+    {
+      "name": "IT: Soldado (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HBMCT1gcmaA7NA9sIzGvTJgBpc.jpg"
+    },
+    {
+      "name": "IT: Sogno di una notte di mezza età (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCfpGdEPKrd5f6kPw3jjewCCh2d.jpg"
+    },
+    {
+      "name": "IT: Sobibor - La grande fuga (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEB0ey4XPhLHKjKv9QL2erXoZOc.jpg"
+    },
+    {
+      "name": "IT: Snowden (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNCadXoLMW5xVzyEJehIfbeBvv1.jpg"
+    },
+    {
+      "name": "IT: Skater Girl (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg"
+    },
+    {
+      "name": "IT: Skate Kitchen (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kOwHmmBBiO2bqMZXzRCLG2bBT8.jpg"
+    },
+    {
+      "name": "IT: Sir - Cenerentola a Mumbai (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfTSvhWKShLjhGc5gGLPRgZvdrn.jpg"
+    },
+    {
+      "name": "IT: Sing Street (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjLzfbOQDOKSOa9JdfzpB3C8fTN.jpg"
+    },
+    {
+      "name": "IT: Silence (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/26nfQY68vryF7PcM6QoZyylsAuA.jpg"
+    },
+    {
+      "name": "IT: Sierra Burgess è una sfigata (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjnHRySiVM4YcBYzjCxw344y9g.jpg"
+    },
+    {
+      "name": "IT: Siberia (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM5ItgJPMs1McYsLGpdp9DAHRSt.jpg"
+    },
+    {
+      "name": "IT: Sex and the City 2 (2010)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAk2iMdRqFQrPcjNINZnowCsUbW.jpg"
+    },
+    {
+      "name": "IT: Sex and the City (2008)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5ahabgPxtLhxSv46458vPn0uSv.jpg"
+    },
+    {
+      "name": "IT: Sergio (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tABtj9BwYVDCM69h7AK38MDgw64.jpg"
+    },
+    {
+      "name": "IT: Sergente Rex (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcWIARktta3jbWokuy4BpD1EQLY.jpg"
+    },
+    {
+      "name": "IT: Senza lasciare traccia (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rovT2Tawtpvr53Run6HonTLRtIx.jpg"
+    },
+    {
+      "name": "IT: Senza controllo (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL2w6LfHqmfLwyFw4TvU9cLvswL.jpg"
+    },
+    {
+      "name": "IT: Sembrava perfetto... e invece (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/enT3Pm9VDecPeKL5bvKWbUnFJ42.jpg"
+    },
+    {
+      "name": "IT: Se la strada potesse parlare (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dim3kfC3yoOctN7XfwrQ1zTwtwB.jpg"
+    },
+    {
+      "name": "IT: Selah and the Spades (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RVmMc4q2eulNma9vPetRAohdjE.jpg"
+    },
+    {
+      "name": "IT: Sei minuti a mezzanotte (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zULmTRe6jG3ClbZvhuslZnLLKp.jpg"
+    },
+    {
+      "name": "IT: Segui l'onda (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQZJPhjLGxQWdxDlrtgagUa4Fak.jpg"
+    },
+    {
+      "name": "IT: Segreti di famiglia (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dznA27GFQ0fHFemPFrGMRDbAYlO.jpg"
+    },
+    {
+      "name": "IT: The Scythian – I lupi di Ares (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAvNhrGxcXIUsWgvyFkeQTiaf8h.jpg"
+    },
+    {
+      "name": "IT: Samurai Marathon - I sicari dello Shogun (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqEwrMTzFHVG4KFhFrn3hiAQ7pq.jpg"
+    },
+    {
+      "name": "IT: Samson - La vera storia di Sansone (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojdATTwbljO3OCzClR0ijCKRZoY.jpg"
+    },
+    {
+      "name": "IT: Salvatore Giuliano (1962)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaFTCD0y2MEccTFyHOHj6IrwyZ.jpg"
+    },
+    {
+      "name": "IT: Safety - Sempre al tuo fianco (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mb3BHIjcyMwBArJ9MEYvvFwvACn.jpg"
+    },
+    {
+      "name": "IT: Rwanda (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAmSaWyXTZ6xUkwsI270ypvEHPd.jpg"
+    },
+    {
+      "name": "IT: Rurouni Kenshin: The Final (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/enj1LR98rl4L8L2r0RKyy1C7OSm.jpg"
+    },
+    {
+      "name": "IT: Rurouni Kenshin: The Beginning (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlCLslZNCflJgZOAUNN2XEV3RTg.jpg"
+    },
+    {
+      "name": "IT: Run Hide Fight - Sotto assedio (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvqzveuFr2le0s5beebqUvSPsGU.jpg"
+    },
+    {
+      "name": "IT: Roxanne Roxanne (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WHkXS4828gKrhZg4Tje5gj5QVs.jpg"
+    },
+    {
+      "name": "IT: Rosso Istanbul (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad8uGQ3TXC6GGc8BAoipCz5i7oH.jpg"
+    },
+    {
+      "name": "IT: Romans - Demoni dal passato (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcigxt0YJbonykrFRLaxR3XP4fT.jpg"
+    },
+    {
+      "name": "IT: Rocketman (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Pb5BfvzW03hQZsnHAHM3qwNdQ1.jpg"
+    },
+    {
+      "name": "IT: Ritratto della giovane in fiamme (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCx5hXBbMOwAaYlbPhl3izZglDq.jpg"
+    },
+    {
+      "name": "IT: Ritorno in Borgogna (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gy5RHN0bc5bUpQDJrfEbOt0K3k2.jpg"
+    },
+    {
+      "name": "IT: Ritorno al Marigold Hotel (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m3o8mtEg4Xor6CWOs3l6Q7Y0t2.jpg"
+    },
+    {
+      "name": "IT: Ritorno a Cold Mountain (2003)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/19oA1tovqh1DcoW3stojF6QwKwX.jpg"
+    },
+    {
+      "name": "IT: Risorto (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwHC59sSy2YXDoeClj2JLUazglk.jpg"
+    },
+    {
+      "name": "IT: Richard Jewell (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yfq9mwti2edPzhsCD0NZ5zWH1j.jpg"
+    },
+    {
+      "name": "IT: Revenant - Redivivo (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cw8HPomOzNql3l4xdaJJ8HGIZds.jpg"
+    },
+    {
+      "name": "IT: Resurrection (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS6ssHE8z4Pvc1aLLXZ9tGRXWrE.jpg"
+    },
+    {
+      "name": "IT: Resistance - La battaglia di Sebastopoli (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/duoNoNUTdviNyuY204OrPCirZyL.jpg"
+    },
+    {
+      "name": "IT: Relic (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mL89LkOSzkJVhdhZQsdaTUXwQou.jpg"
+    },
+    {
+      "name": "IT: Regina (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/keON5Eg2SFyGq6u2CjpMfzXmc2F.jpg"
+    },
+    {
+      "name": "IT: Red Snake (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/khtlnSGFJiKxQ0wWJtxaQJkMPTM.jpg"
+    },
+    {
+      "name": "IT: Red Dog: L'inizio (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPYaqykvnHqreEAiINhBYrWoPxB.jpg"
+    },
+    {
+      "name": "IT: Rebecca (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2n9SBq6WIa0QCoe09zrLCNTztV.jpg"
+    },
+    {
+      "name": "IT: Really Love (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqqEHkLUdOyoDYcvXi0lUEeQ748.jpg"
+    },
+    {
+      "name": "IT: Rachel (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VObMgkwkihA8skqX0N0EzwgSr5.jpg"
+    },
+    {
+      "name": "IT: Race - Il colore della vittoria (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvdhN3TKAjaJgeEIl2SehmtPtsD.jpg"
+    },
+    {
+      "name": "IT: Raccontami di un giorno perfetto (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYfNxaeBvAqpMiwUUaKaEjQ5rlt.jpg"
+    },
+    {
+      "name": "IT: Raccolto amaro (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MpJXoATrYEjbZaFiW86bImAtGr.jpg"
+    },
+    {
+      "name": "IT: Quello che tu non vedi (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8h8PJu3YQ9braQE0MVU091TdlYE.jpg"
+    },
+    {
+      "name": "IT: Queen of the Desert (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/88gU47PFh57IFbiyw3oYtW3aSp0.jpg"
+    },
+    {
+      "name": "IT: Queen & Slim (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxO1w4cLUMAM0QyfsA6t7kh2kAw.jpg"
+    },
+    {
+      "name": "IT: Qualcosa di meraviglioso (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58qxOz2SWjlGJCNNaMUlxszacOV.jpg"
+    },
+    {
+      "name": "IT: Pure Country - Una canzone nel cuore (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNjOvy1zfe2FeUpJhxM4yJjKDMy.jpg"
+    },
+    {
+      "name": "IT: Psychedelic (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4h8LWNd0czR0xj5sMsMj207d6mv.jpg"
+    },
+    {
+      "name": "IT: Proximity (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WrhUZsP92Me7lVhVs8e4SVtr78.jpg"
+    },
+    {
+      "name": "IT: Proxima (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/41YWD0M32uo6ekBEvVrQgidyemB.jpg"
+    },
+    {
+      "name": "IT: Planetarium (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQxbKlohO8ohLLqwi2RkK0tg3bL.jpg"
+    },
+    {
+      "name": "IT: Pinocchio (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w1ItwCJCTtSi9nPfJC1vU6NIVg.jpg"
+    },
+    {
+      "name": "IT: Pieces of a Woman (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg"
+    },
+    {
+      "name": "IT: Piccole donne (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WxwYuJLFXFBU53i02XQ56p3Lj3.jpg"
+    },
+    {
+      "name": "IT: Petit Paysan - Un eroe singolare (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8FWcfPdwcKLifqhf288wdFGRr1.jpg"
+    },
+    {
+      "name": "IT: Peterloo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEm3gS60rCSvcddpTALIS2KDsnf.jpg"
+    },
+    {
+      "name": "IT: Per mio figlio (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NSu1Z1SECFXXquyPtgXXh7KHI7.jpg"
+    },
+    {
+      "name": "IT: Perfetti sconosciuti (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufH0m1lq4DILL6D0Zzjw702FWfV.jpg"
+    },
+    {
+      "name": "IT: Peel - Famiglia cercasi (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZswrCxVBCV2kxiROJm7RaSmYiq.jpg"
+    },
+    {
+      "name": "IT: Pattini d'argento (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/irXWELZfWW8tehfNV82O2UT258r.jpg"
+    },
+    {
+      "name": "IT: Paterson (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNvDUCTgyRTjHttlSITiGvUXGOM.jpg"
+    },
+    {
+      "name": "IT: Passengers (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOj2fzQAMABoLKxF9Sh77otawjW.jpg"
+    },
+    {
+      "name": "IT: Parlami di te (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdDzMWnXngYtXtZtVMxaG3wsFBH.jpg"
+    },
+    {
+      "name": "IT: Papillon (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbbMtry7ZoUeLeZTek3qtq04x9Y.jpg"
+    },
+    {
+      "name": "IT: Paolo, apostolo di Cristo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXukHqv3OQ8mYgeafn3g8vmrHr8.jpg"
+    },
+    {
+      "name": "IT: Pane dal cielo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyed78mGLuCZEg25e9RYbTAeB6B.jpg"
+    },
+    {
+      "name": "IT: Palo Alto (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjcwwYP3eSigxLKKVBoVVz85ZWv.jpg"
+    },
+    {
+      "name": "IT: Palmer (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg"
+    },
+    {
+      "name": "IT: Palm Beach (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g210Wx9Imdg4jpgPJgr2Rov30pe.jpg"
+    },
+    {
+      "name": "IT: Padrenostro (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqIvzYu42Fwjx2InWcyD5XialvD.jpg"
+    },
+    {
+      "name": "IT: Out Stealing Horses - Il passato ritorna (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMkWxrDS40vBsqHdC5KYcbjQSBQ.jpg"
+    },
+    {
+      "name": "IT: Outrage Coda (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XcKzCHr8D9c1lBBbEW2mhYH8tO.jpg"
+    },
+    {
+      "name": "IT: Outlaw King - Il re fuorilegge (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wha0zsZLXJyLbpiHTJzJ19iJWwr.jpg"
+    },
+    {
+      "name": "IT: Ostaggi (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvbfXTWbGwTtT5FBfkxUMJkvopY.jpg"
+    },
+    {
+      "name": "IT: Oro verde - C'era una volta in Colombia (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdtuDVc3hjYqWvV3TlXCXQFlK9d.jpg"
+    },
+    {
+      "name": "IT: Operation Chromite (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4JKnXUC2manc9Mki2iZkaw0Lwq.jpg"
+    },
+    {
+      "name": "IT: On the Rocks (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg"
+    },
+    {
+      "name": "IT: Oltre ogni regola (2012)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm4nEaTcOXwVlh3OAeSFkhqtP6o.jpg"
+    },
+    {
+      "name": "IT: Oltre la notte (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sh3xUkoVow9GoftinXJ77oSJri.jpg"
+    },
+    {
+      "name": "IT: Ogni tuo respiro (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1cwwm0RcgrHC3uI31YLaKjSd3D.jpg"
+    },
+    {
+      "name": "IT: Ogni giorno (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLcCsuf8DfND8pRt2NpLWBGmamw.jpg"
+    },
+    {
+      "name": "IT: Occupation (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfqgNbjht8aaybKlnFMdhS76f0F.jpg"
+    },
+    {
+      "name": "IT: Nuvole (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xxcGwBem9X3xMlFM34HSxMQkTm.jpg"
+    },
+    {
+      "name": "IT: Nureyev - The White Crow (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSX6OTFyskyIvnLIzgImJ17lyGc.jpg"
+    },
+    {
+      "name": "IT: November Criminals (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2JxGgarPvtemudLZ1CB6gLJeUb.jpg"
+    },
+    {
+      "name": "IT: No Sudden Move (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/34BmdJkdvRweC3xJJFlOFQ2IbYc.jpg"
+    },
+    {
+      "name": "IT: Nonostante la Nebbia (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouwMK8HPPoeXKrFPw7wVmoKJnKw.jpg"
+    },
+    {
+      "name": "IT: Non odiare (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WmUz8NStofcfD5jmn0HhxOS3c2.jpg"
+    },
+    {
+      "name": "IT: Non mi uccidere (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V65tNvVB5pcABiYohOEKy5ghvU.jpg"
+    },
+    {
+      "name": "IT: Non conosci Papicha (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sumfqRzLdw7vHbzmkhQdsixS9A.jpg"
+    },
+    {
+      "name": "IT: Nome di donna (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svVIy2T4Zk4eeJUKhupg3YHRS6e.jpg"
+    },
+    {
+      "name": "IT: Noi siamo tutto (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPWSpd3knVhu8PY59Mtn2s2O7MP.jpg"
+    },
+    {
+      "name": "IT: New York Academy (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLDidtRPwG3OyCPgKKulZRUfiEm.jpg"
+    },
+    {
+      "name": "IT: Neve nera (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rOufWdi8ViIMluzQI8Y8bY94rB.jpg"
+    },
+    {
+      "name": "IT: Neruda (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VSWkHxIqzNfvzhwmXYQlQq7FyQ.jpg"
+    },
+    {
+      "name": "IT: Nei miei sogni (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VINpMrTwmMNscQYDkcua2PiN3H.jpg"
+    },
+    {
+      "name": "IT: Nebbia in agosto (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jfg0Cq46eMfgfpTBODtugPopSN.jpg"
+    },
+    {
+      "name": "IT: Natale in Casa Cupiello (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1hAK2Ckb3xd24yjAqWFvzgzgbv.jpg"
+    },
+    {
+      "name": "IT: Natale in California (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkXryoG7mA0OlCoX7F4FvFn83B.jpg"
+    },
+    {
+      "name": "IT: Natale all'improvviso (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHglgh2stZWKrGkLLI0RHv8Dy1q.jpg"
+    },
+    {
+      "name": "IT: Music (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg"
+    },
+    {
+      "name": "IT: Mr. Nobody (2009)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg"
+    },
+    {
+      "name": "IT: Mr. Holmes - Il mistero del caso irrisolto (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kB7YXUOxJaxOKLIY4vEmWLDwX1.jpg"
+    },
+    {
+      "name": "IT: Mr Cobbler e la bottega magica (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRZTG3YPMT4ww37btKtpqQivDUk.jpg"
+    },
+    {
+      "name": "IT: Mothers and daughters (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxxM8Lpn9eHbvRk7WRe19Hr3ElS.jpg"
+    },
+    {
+      "name": "IT: Mother's Day (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/koyQzfTMZuPIwsBSYo6sksSfA85.jpg"
+    },
+    {
+      "name": "IT: Morto tra una settimana... O ti ridiamo i soldi (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yy4iQJMEAOKfWF1bQPW1dQ4iMyt.jpg"
+    },
+    {
+      "name": "IT: Morto Stalin, se ne fa un altro (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIfvC0ZNyV068UH8aFBvPjRQjQq.jpg"
+    },
+    {
+      "name": "IT: Morrison (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/OjAXRGCWBuRIS8WIyf4rTERoGS.jpg"
+    },
+    {
+      "name": "IT: Mood Indigo - La schiuma dei giorni (2013)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7UtDCczj0lBPO4YmPlvCpyrTmt.jpg"
+    },
+    {
+      "name": "IT: Monster (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi8n5SEsizsbnGj5vSaOLLdV0gh.jpg"
+    },
+    {
+      "name": "IT: Mon roi - Il mio re (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnt5NIuHze4x2cjYO76XyATgmM8.jpg"
+    },
+    {
+      "name": "IT: Monos - Un gioco da ragazzi (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnlGanQlCkcQHcaSA3eIWRjcuqV.jpg"
+    },
+    {
+      "name": "IT: Mistero a Crooked House (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfhykHk3PAXzhsJILYlM5seFdg8.jpg"
+    },
+    {
+      "name": "IT: Miss Peregrine - La casa dei ragazzi speciali (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jg8KqWb98B5IQjjJahYDP3TdGpq.jpg"
+    },
+    {
+      "name": "IT: Mission Mars (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXuy54eLHDhseg64tWR0BYyKFbs.jpg"
+    },
+    {
+      "name": "IT: Miss Fisher e la cripta delle lacrime (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/blbTJojE5cwwAjIezgHTps2Qqqe.jpg"
+    },
+    {
+      "name": "IT: Miracoli dal cielo (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIxGGaapNRxCKEsAHnAXWuoY3IG.jpg"
+    },
+    {
+      "name": "IT: Million Dollar Arm (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQlyPJwRuUOJ6Ni0XWfEMrlPTu.jpg"
+    },
+    {
+      "name": "IT: Migliori nemici (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rasYAJCzBGzcngStMDDBvBEa0he.jpg"
+    },
+    {
+      "name": "IT: Mighty Oak (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/558uVM7dVqT35hNy1SKMRcpTdhi.jpg"
+    },
+    {
+      "name": "IT: Midsommar - Il villaggio dei dannati (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cUG6mLefkztx42RUynNlrWQwc0.jpg"
+    },
+    {
+      "name": "IT: Michelangelo - Infinito (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRQEnOOWy51zC7Tl0R624dwmbEq.jpg"
+    },
+    {
+      "name": "IT: Mia e il leone bianco (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIywXCObKMJLJAbCs53DrHI9HXS.jpg"
+    },
+    {
+      "name": "IT: McFarland (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ65tTWMYQiP6Ryv5KmVW86xhE7.jpg"
+    },
+    {
+      "name": "IT: Matthias & Maxime (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6prCwBKbfFCZAQVQF0lUtDCoL1O.jpg"
+    },
+    {
+      "name": "IT: Maschile singolare (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbCpSg24CRg3EtHsWj22U0bkaqG.jpg"
+    },
+    {
+      "name": "IT: Mary Shelley - Un amore immortale (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPDtoaJJ0Kgrj9xnnC11vs1gd05.jpg"
+    },
+    {
+      "name": "IT: Martin Eden (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/31tGsQFD2xs3No1c6q2Ky1b3jdC.jpg"
+    },
+    {
+      "name": "IT: Marie Curie (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNBNU8YXZ9g7aLgiXxGUkxNHDDw.jpg"
+    },
+    {
+      "name": "IT: Maria Regina di Scozia (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpd3M02i0RgR1zdVIiiDt3ogzJF.jpg"
+    },
+    {
+      "name": "IT: Maria Maddalena (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmY20jvmBgIP9Kax34XVnSsoLjf.jpg"
+    },
+    {
+      "name": "IT: Maraviglioso Boccaccio (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbG0QbD0JpnaCoGI1SNX8c1r68G.jpg"
+    },
+    {
+      "name": "IT: Ma Rainey's Black Bottom (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvtyxijaBrCSbByXLcUIDDSvc40.jpg"
+    },
+    {
+      "name": "IT: Mank (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhUEg3DN3Vqv7Fwq43D630m3hmP.jpg"
+    },
+    {
+      "name": "IT: Mal di pietre (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oOUo8TYVfLrCu3mwhb39myOPne.jpg"
+    },
+    {
+      "name": "IT: Malcolm & Marie (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbqinL61gWEqX6C0KAQHvB3dfDZ.jpg"
+    },
+    {
+      "name": "IT: Made in Italy (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/84ZTlyPlDYb7JpeQsukmuRwWwZG.jpg"
+    },
+    {
+      "name": "IT: Madame Claude (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4s01WWmVamHkSSZ8QiZuLDby6Z.jpg"
+    },
+    {
+      "name": "IT: Macbeth (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCwuzhvddMYFHs5kdRBbeMud1x7.jpg"
+    },
+    {
+      "name": "IT: L'uomo della scatola magica (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6JiehXpqQL2d925zvSJbhQdP3d.jpg"
+    },
+    {
+      "name": "IT: Louis van Beethoven (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2f4B8DTmes5HMFpRqHvSERaPkUp.jpg"
+    },
+    {
+      "name": "IT: Lost in London (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4Q6AZH6ZpcIy1QtVS2oXuzPO82.jpg"
+    },
+    {
+      "name": "IT: Lo spietato (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1slbSDb12nPxJKMwSi0Xuz1EjD.jpg"
+    },
+    {
+      "name": "IT: Loro (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qHDB9pNbLYiY1nIs1RDCK5sUB8.jpg"
+    },
+    {
+      "name": "IT: Lontano lontano (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WXbplcLvMWHcVoDXyrzCkVBmHB.jpg"
+    },
+    {
+      "name": "IT: Lontano da qui (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVMV2ab8jh6rDDgJ5OdyUYkrwoW.jpg"
+    },
+    {
+      "name": "IT: Locked Down (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svHelD0Hb3TXPAQoPsoBwdDMTvf.jpg"
+    },
+    {
+      "name": "IT: Little Joe (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4VMyavCoXxN9U8AONE2YryQDVz.jpg"
+    },
+    {
+      "name": "IT: Little Boy (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MrT31bQ7eFJn4mA1Us5hSC6wcN.jpg"
+    },
+    {
+      "name": "IT: Lion - La strada verso casa (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdSKS42tilqpxTurILaGGnQpQ6G.jpg"
+    },
+    {
+      "name": "IT: Light of My Life (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AWMxVXBm4kPJHwiM9buTtlYceG.jpg"
+    },
+    {
+      "name": "IT: Life on the Line (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbCTKJBog5a9FXPs6s93aRLAlgP.jpg"
+    },
+    {
+      "name": "IT: Lezioni di persiano (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcRg4MuWOr66iNWpcQMrHXbslkl.jpg"
+    },
+    {
+      "name": "IT: Le stelle non si spengono a Liverpool (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9i42VKQeFniWpogJ1dX3sMzGUc.jpg"
+    },
+    {
+      "name": "IT: Le sorelle Macaluso (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc1yOTsepZxTTl7SqxtpwPBmUPl.jpg"
+    },
+    {
+      "name": "IT: L'eroe dei due mondi (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iul7zWHU6guBOI846vuHTybOoHj.jpg"
+    },
+    {
+      "name": "IT: Le regine del crimine (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2P7SWS7YOBk3dm0bePFQ8SLzScH.jpg"
+    },
+    {
+      "name": "IT: Le ragazze di Wall Street - Business I$ Business (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ8YNK1yvaNdLJSPnIkA8d36CWE.jpg"
+    },
+    {
+      "name": "IT: Le ragazze del Pandora's Box (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FPegh8zGEHjEY8m0Yi4iG9eTVt.jpg"
+    },
+    {
+      "name": "IT: Le Mans '66 - La grande sfida (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKVOiiCukJsXNYPETbIWqZaBYd.jpg"
+    },
+    {
+      "name": "IT: Le invisibili (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Tan7kEFQAIlBJNjVcSIalbYhci.jpg"
+    },
+    {
+      "name": "IT: Lei mi parla ancora (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qw6eTOoq2OmK2to4awA92CAmyEC.jpg"
+    },
+    {
+      "name": "IT: Le donne e il desiderio (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14sFyQCRL9LDj4yUzf9PT137eYJ.jpg"
+    },
+    {
+      "name": "IT: Le donne della mia vita (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkN3bV9BMJlKLdX32FRgVVeC2P9.jpg"
+    },
+    {
+      "name": "IT: Lazzaro felice (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7i9Y24GDSQ7dkKBKdYP3gsgTI3L.jpg"
+    },
+    {
+      "name": "IT: La voce della pietra (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EGy9AZm3Ovoqt4RwSAyc2HoNQY.jpg"
+    },
+    {
+      "name": "IT: La vita straordinaria di David Copperfield (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mirGIInaIlZfLynBaPFfyOXiJQE.jpg"
+    },
+    {
+      "name": "IT: La vita nascosta - Hidden Life (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ4r5Cxxtt5DjDpaz3DghdxG8eL.jpg"
+    },
+    {
+      "name": "IT: La vita in un attimo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHiFpq0JDrSySwKHLR5rbWb0zwu.jpg"
+    },
+    {
+      "name": "IT: La vita che volevamo (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnV9tzNuGNN9FMFOSiwevloXAfX.jpg"
+    },
+    {
+      "name": "IT: La tigre bianca (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG2vqktBmYr8bJSMv5oPJWlf9e.jpg"
+    },
+    {
+      "name": "IT: La terra dell'abbastanza (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfOLmdcEBqb0SAWx0VkK4Ex2PcY.jpg"
+    },
+    {
+      "name": "IT: La tenerezza (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGFTLRGqvFx2SEOk86QPVwpaDts.jpg"
+    },
+    {
+      "name": "IT: Last Christmas (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgslBL7rZanvT8DK1A47JLEZxI.jpg"
+    },
+    {
+      "name": "IT: La stanza delle meraviglie (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/89ALJ2PZninWHaJGhPrrMa5osnZ.jpg"
+    },
+    {
+      "name": "IT: Lassie torna a casa (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2gRuIEZ0QTcZ8cx0nySH0Z9vOU.jpg"
+    },
+    {
+      "name": "IT: La solitudine dei numeri primi (2010)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxY5xXZNsnT2nO58sWaiLT9TK89.jpg"
+    },
+    {
+      "name": "IT: La soffiatrice di vetro (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9R0fHccBEUbjh6ot45HRJXEdXNN.jpg"
+    },
+    {
+      "name": "IT: La signora dello zoo di Varsavia (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PVKANrxlIVSOEjazTJ2R5K6vNL.jpg"
+    },
+    {
+      "name": "IT: La scoperta (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sr2oD5Jz2k3oQnbNBhG1dYVIdz.jpg"
+    },
+    {
+      "name": "IT: Lasciali parlare (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOIUb0Mo4vIwPxvUUqfyOyWyUWX.jpg"
+    },
+    {
+      "name": "IT: La scelta - The Choice (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dK8wxTriifjtsTIqb7rZI0vQLZz.jpg"
+    },
+    {
+      "name": "IT: La scelta (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7KAEkCgfk0t3OkZMQy7DtvqsYb.jpg"
+    },
+    {
+      "name": "IT: La ruota delle meraviglie (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMraoosxRUB5VoPAO8H3SrbuC7x.jpg"
+    },
+    {
+      "name": "IT: La rivincita (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUpD76OFe8tTirKAEQienq54F0d.jpg"
+    },
+    {
+      "name": "IT: La ragazza del treno (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgfFE2Du8igk8FfJJBJOGmUkHEs.jpg"
+    },
+    {
+      "name": "IT: La ragazza dei tulipani (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tImewZ4vMZecjb0OIGLaviqRN7I.jpg"
+    },
+    {
+      "name": "IT: La profezia dell'Armadillo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dHaWQxkm8gmdTuuignUOg5kmx9.jpg"
+    },
+    {
+      "name": "IT: L'apparizione (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dN0lw8VrXOgkM4ixIfKMguS4N8U.jpg"
+    },
+    {
+      "name": "IT: La pazza gioia (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOcKiBmOOiviDzEAzOzu3LATC88.jpg"
+    },
+    {
+      "name": "IT: La paranza dei bambini (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4Vq8I6kPlq92OQKleWu5m8VX4g.jpg"
+    },
+    {
+      "name": "IT: L'angelo del crimine (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmeRXYYi6tLVZ6kQHGN1F87i30e.jpg"
+    },
+    {
+      "name": "IT: Land of Mine - Sotto la sabbia (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNV19FeXWw8EHqRLSjinVRAYVg9.jpg"
+    },
+    {
+      "name": "IT: La nave sepolta (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qutgvIpnX3fkPrFIxBMdjZHxckN.jpg"
+    },
+    {
+      "name": "IT: La musica del silenzio (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIv6wAiD5a6IbbAFWInQQSA78c9.jpg"
+    },
+    {
+      "name": "IT: La luce sugli oceani (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lxV1IIhZya30oh4DkewCOAe4k9.jpg"
+    },
+    {
+      "name": "IT: La legge dei narcos (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfGqO2eQSInazpivmlgnk6dW8zK.jpg"
+    },
+    {
+      "name": "IT: La grande scommessa (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cb1BGicQondVvOWhxBWKSKfQJv.jpg"
+    },
+    {
+      "name": "IT: La forma dell'acqua - The Shape of Water (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0g9uN8I1LUKsyAcyZkQsbM2UmO.jpg"
+    },
+    {
+      "name": "IT: La festa delle fidanzate (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC86zUwQXuYS84sNIL5GyjRmD1h.jpg"
+    },
+    {
+      "name": "IT: La febbre del cemento (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8TVk1iLC0ofRoi0VD4t7HKeen1.jpg"
+    },
+    {
+      "name": "IT: La favorita (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wT1TmCRal7RaEPSS3XkDCnSdoP.jpg"
+    },
+    {
+      "name": "IT: La donna dello scrittore (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NiJUAFIb2OBJS2AKoGujGR6yLL.jpg"
+    },
+    {
+      "name": "IT: La diseducazione di Cameron Post (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2OJpEn3cL62BeqdfZsoUICCM2D.jpg"
+    },
+    {
+      "name": "IT: La dea fortuna (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmK7BEhv11VUItDuY6vm7kDlOMx.jpg"
+    },
+    {
+      "name": "IT: La corrispondenza (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffSprW2BTyNtgp3GRX3nTabBkv0.jpg"
+    },
+    {
+      "name": "IT: La conseguenza (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZdozhKk8b4MdjAm5CGWEVc2tC9.jpg"
+    },
+    {
+      "name": "IT: Lacci (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAWocIYyjy1xII7HO3tTqVhAwLz.jpg"
+    },
+    {
+      "name": "IT: La casa di Jack (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4K28tlQYgGGCgHti7l3d6h6rOo.jpg"
+    },
+    {
+      "name": "IT: La casa dei libri (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGKBFz8MbPf5mARhLfmQhK2t5EP.jpg"
+    },
+    {
+      "name": "IT: La campionessa (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9PgY7ZK2yFchgc5zwLGYGjfnCJ.jpg"
+    },
+    {
+      "name": "IT: La bottega del barbiere 3 (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebtokeZrChGfu7sfMYyenfwQ5VT.jpg"
+    },
+    {
+      "name": "IT: La belle époque (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddv5dgS23zpEM4h6RhgyjkDrZfB.jpg"
+    },
+    {
+      "name": "IT: La battaglia di Hacksaw Ridge (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPV8lFaNTgd6ifw1fWEvoIsWnRq.jpg"
+    },
+    {
+      "name": "IT: La battaglia dei sessi (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJl6UVgEuQv9hMaArtNq8nj0d1e.jpg"
+    },
+    {
+      "name": "IT: L'uomo che uccise Don Chisciotte (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gC5N6dyAGKPalfsHXJEEIKAaGx6.jpg"
+    },
+    {
+      "name": "IT: L'unico e insuperabile Ivan (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsOtB7YZyT2DBGorcDpMaaulG7u.jpg"
+    },
+    {
+      "name": "IT: L'unica (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkflwtWCJffdDSwg63fdDFbwOvS.jpg"
+    },
+    {
+      "name": "IT: L'ultimo piano (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AchitwrPOJuIsmWL54ECCiQFN17.jpg"
+    },
+    {
+      "name": "IT: L'ultimo paradiso (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1KYAyf91gHBqa1LKYj389GevRX.jpg"
+    },
+    {
+      "name": "IT: L'ultimo lupo (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97KgbDfsdo0W4mBkUclCzrYBtOZ.jpg"
+    },
+    {
+      "name": "IT: L'ultima tempesta (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTESsq8zphTv0Xni3Me1zvzlBmI.jpg"
+    },
+    {
+      "name": "IT: L'ultima parola - La vera storia di Dalton Trumbo (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ry2Fx1vmapNdCqKGrTiJleff9s.jpg"
+    },
+    {
+      "name": "IT: L'ultima lettera d'amore (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP9SDdSobEHp7TT7f9juKupItfg.jpg"
+    },
+    {
+      "name": "IT: L'insulto (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjWZN5dzFaoqjyCSz8D2OTb99iN.jpg"
+    },
+    {
+      "name": "IT: L'inganno (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihS5ghfmi4OCDbtL3T8YM7otmct.jpg"
+    },
+    {
+      "name": "IT: L'incredibile viaggio del fachiro (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fArzz5i7XGmFfpqQxaLowRrCJ9E.jpg"
+    },
+    {
+      "name": "IT: L'incredibile storia dell'isola delle rose (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Q5cfHddcKyC4KBKOzZeQ5hI55N.jpg"
+    },
+    {
+      "name": "IT: L'estate addosso (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AHYfK5pFFrYUUwZgDjTTjBGgOO.jpg"
+    },
+    {
+      "name": "IT: L'eccezione alla regola (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RGTjA2iL9v5XizYxs5WhTKlpiv.jpg"
+    },
+    {
+      "name": "IT: L'arte della truffa (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCSBpjzpVmoYh0hdoteNm6fpX75.jpg"
+    },
+    {
+      "name": "IT: L'apparenza delle cose (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJQixJB8ZSI729pE43S2hhJeJTH.jpg"
+    },
+    {
+      "name": "IT: L'amico del cuore (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oo6Kqeeddexr0InhPeJvo8LzVY0.jpg"
+    },
+    {
+      "name": "IT: L'altro volto della speranza (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVV3h9fs09L6f0v6GvxFQQOCvQF.jpg"
+    },
+    {
+      "name": "IT: L'albero del sangue (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5LMOwbjwjNgeHVOsIg9nQPT0oF.jpg"
+    },
+    {
+      "name": "IT: L'albero dei frutti selvatici (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLvy9b3amt9q8BKdFEsYjt7V4xq.jpg"
+    },
+    {
+      "name": "IT: Knight of cups (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgflTqZgDwLbXTD2dZQZ6rOnWBi.jpg"
+    },
+    {
+      "name": "IT: Kings (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEQIshX0y64hYjjDbE1KqevW04e.jpg"
+    },
+    {
+      "name": "IT: King of Thieves (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsk6wXwHIgKtM1okW2vh1MI5wGb.jpg"
+    },
+    {
+      "name": "IT: King Lear (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHd0YS1PGxjfZCVbYi9Hetg7zZd.jpg"
+    },
+    {
+      "name": "IT: King Arthur - Il potere della spada (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sELi1zZ2TnMzjun2Eu7OGknvOsb.jpg"
+    },
+    {
+      "name": "IT: Kill Zone - Paradox (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwdFW00LVJmPhLLNl88T4nXzfwR.jpg"
+    },
+    {
+      "name": "IT: Kids in Love (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0lQkwoNSmD10D3efZ7AQN7mg4X.jpg"
+    },
+    {
+      "name": "IT: Kicks (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9t5tzow6DKGdG0VtzMPzGNuDkNq.jpg"
+    },
+    {
+      "name": "IT: Kickboxer - Retaliation (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDAZnUkj1NzHJrHiAPqiz9rdfq.jpg"
+    },
+    {
+      "name": "IT: Kickboxer - La vendetta del guerriero (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryB7c9cdwSdQlMIu9OsnDKmq2Wt.jpg"
+    },
+    {
+      "name": "IT: Jungleland (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCMnNLas7cO6fFLafw2fMqXynFZ.jpg"
+    },
+    {
+      "name": "IT: Juliet Naked - Tutta un'altra musica (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUK82JeKP8aCpGFqCoO40AkgleB.jpg"
+    },
+    {
+      "name": "IT: Julieta (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiiAXDU4X0aZkaSg1iEKpRFycKR.jpg"
+    },
+    {
+      "name": "IT: Jules e Jim (1962)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIAN5x4wDiPxwFWvNPCKjQPEFN0.jpg"
+    },
+    {
+      "name": "IT: Judy (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPrEVrwl1LBV5davh0JkFtmZiSF.jpg"
+    },
+    {
+      "name": "IT: Judas and the Black Messiah (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQ2H5q8Emfbqi116hGGsDuYl63U.jpg"
+    },
+    {
+      "name": "IT: Jojo Rabbit (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vv0tEFH10YG3hMRCOhiWsw7bOk.jpg"
+    },
+    {
+      "name": "IT: Jarhead 3 - Sotto assedio (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ua0lBiDSK93Lp7ViKQV2Bf2uTbV.jpg"
+    },
+    {
+      "name": "IT: Jarhead (2005)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ibPGRllaWxvcgykft9COBvp0B4.jpg"
+    },
+    {
+      "name": "IT: I segreti di Wind River (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8LwfDVXwLWw6gmIMyRAQMwhMQN.jpg"
+    },
+    {
+      "name": "IT: Irresistible (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNpIh78pm5RBo86UTgQ1J2QXj4j.jpg"
+    },
+    {
+      "name": "IT: I predatori (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqrIp0ZvlFDZcN4qI9Vdr7KmK6K.jpg"
+    },
+    {
+      "name": "IT: Ip Man: Kung Fu Master (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgg394nTfPOOaghf1Cm9nQ1l9eJ.jpg"
+    },
+    {
+      "name": "IT: Ip Man 4 (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAWBfTDAmfpvQGMVFuzuVl49N1P.jpg"
+    },
+    {
+      "name": "IT: Ip Man 3 (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqtY20PGAScpeXReJouYx0CgTpi.jpg"
+    },
+    {
+      "name": "IT: Ip Man 2 (2010)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSbRQMowQmbElHE0EzZx4ipJCIu.jpg"
+    },
+    {
+      "name": "IT: Ip Man (2008)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gY0i0lYuqswq2jQ2kU3Az2ZqHls.jpg"
+    },
+    {
+      "name": "IT: I pirati della Somalia (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIX982lWc7AUBWVeMZrbIDWTuMJ.jpg"
+    },
+    {
+      "name": "IT: Io sono Tempesta (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yVqNKaRFlC0reCPdQBiUX9nntD.jpg"
+    },
+    {
+      "name": "IT: Io prima di te (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkbiqoA4DSvceespZZOftX6UZGk.jpg"
+    },
+    {
+      "name": "IT: Io, Leonardo (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXMQP06g2F8QiDnO4gDPFRe0QZa.jpg"
+    },
+    {
+      "name": "IT: In viaggio con Jacqueline (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l13b23c5iR0cqFiU2mzCEnySm8.jpg"
+    },
+    {
+      "name": "IT: In viaggio con Flora (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJDJEbArCf2yd9ehhrsTJiqES8G.jpg"
+    },
+    {
+      "name": "IT: Intrigo - Morte di uno scrittore (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FZaWzWnbStu0Bt5vJAnDL8YCY1.jpg"
+    },
+    {
+      "name": "IT: Intrigo: La nemica del cuore (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1iS4AqOsdopUHHejKQM5FFJWNN.jpg"
+    },
+    {
+      "name": "IT: Into the Beat - Il tuo cuore balla (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3X9dkSvKHGlsVYDrMvWUbJQAeqy.jpg"
+    },
+    {
+      "name": "IT: Insyriated (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/164vjXX0OdyJkv4IPGiBFNXGfhd.jpg"
+    },
+    {
+      "name": "IT: Instant Family (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/UWwAQxyMIxSqQhSNYWJy4qb3T9.jpg"
+    },
+    {
+      "name": "IT: Insieme per davvero (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBaVsUlLf2G5C0KTA9XmKCinmho.jpg"
+    },
+    {
+      "name": "IT: In prima linea - Una donna in marina (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGzpjCe2jw8sCmM56K9hv8HmPiN.jpg"
+    },
+    {
+      "name": "IT: I nostri ragazzi (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhYHMo8nCySPcq9r5U9nh7QeGvR.jpg"
+    },
+    {
+      "name": "IT: I nostri cuori chimici (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lGihI0QLz3at9WtxMRbGLgeb0P.jpg"
+    },
+    {
+      "name": "IT: I nostri amanti (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxPynYAjHNpQKbYL7zCNFAK0v4M.jpg"
+    },
+    {
+      "name": "IT: In guerra per amore (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDFcYbX6FCttWwdGR5vCr0Uerfa.jpg"
+    },
+    {
+      "name": "IT: In guerra (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohrxiuiRtDwHNyCFv3L2PTHv660.jpg"
+    },
+    {
+      "name": "IT: Ingrid va a Ovest (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LEyW11onDltXHo0L1X23j9Nnvg.jpg"
+    },
+    {
+      "name": "IT: Indignazione (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQG4wvvkQ4nbKMV0rb7THkS7dMS.jpg"
+    },
+    {
+      "name": "IT: Il vizio della speranza (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL9F65JgrPMiiLUfqIWe1l0DEaB.jpg"
+    },
+    {
+      "name": "IT: Il viaggio di Fanny (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y9gT5FU7S1VcLmFG6gVijKnHZR.jpg"
+    },
+    {
+      "name": "IT: Il tabaccaio di Vienna (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoaB6gUKGXXA1bhvl2GtyraGvQW.jpg"
+    },
+    {
+      "name": "IT: Il sommelier (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9I0v81HCuwQGgl9UVt8t6Z071ga.jpg"
+    },
+    {
+      "name": "IT: Il segreto dei suoi occhi (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/skj8Giw0Nr0bm9iTGLNmGMDshv8.jpg"
+    },
+    {
+      "name": "IT: Il sapore del successo (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kh7PSnQ0kTVGuSoVwvXxoGngTkw.jpg"
+    },
+    {
+      "name": "IT: Il sabba (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMWwKBL8cIqpROMw4qdfYdCmaxP.jpg"
+    },
+    {
+      "name": "IT: Il rito delle streghe (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVrG2zdL4xaSrSLWpFQSHP1yEup.jpg"
+    },
+    {
+      "name": "IT: Il richiamo della foresta (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqP52ngVTRRVdMivhgvTQ7RnLjc.jpg"
+    },
+    {
+      "name": "IT: Il re di Staten Island (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fBVRXaJAG16gPuQSsnpbX2al18.jpg"
+    },
+    {
+      "name": "IT: Il quaderno di Tomy (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNID1IWgWqEX1WF1X2N2wKb1le.jpg"
+    },
+    {
+      "name": "IT: Il profumo dell'erba selvatica (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BjSAxd3ssV9b7ImZWHy0RVEWo0.jpg"
+    },
+    {
+      "name": "IT: Il professore e il pazzo (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFtqSjKgLH625uTqltfUmT1HHCv.jpg"
+    },
+    {
+      "name": "IT: Il processo ai Chicago 7 (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg4W7yQNfsatQDJ21Lf3HEaYv4B.jpg"
+    },
+    {
+      "name": "IT: Il Primo Re (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdM3dLbzF7bVhYTRQCPQiltP4vQ.jpg"
+    },
+    {
+      "name": "IT: Il primo match (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwmtK6A7jwriIY0gh0HUgvI1ETA.jpg"
+    },
+    {
+      "name": "IT: Il primo anno (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZWC7vu4sOY0Yh9BOpEoZneSsAI.jpg"
+    },
+    {
+      "name": "IT: Il postino (1994)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ei7enh942WYhRvH5UkiHWYnQ8G.jpg"
+    },
+    {
+      "name": "IT: Il peccato - Il furore di Michelangelo (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xE7JlTOw36EWV84pQ5EGra6gh7j.jpg"
+    },
+    {
+      "name": "IT: Il padrino della mafia (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9WLIwIQle63cbG6ohZetMNHHb9.jpg"
+    },
+    {
+      "name": "IT: Il nemico alle porte (2001)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Bn5BOSVeqcNT1WYXw0Upzm6xF9.jpg"
+    },
+    {
+      "name": "IT: Il mistero Henri Pick (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWDu96lVne6Q8LYYjQJLTCBeTAV.jpg"
+    },
+    {
+      "name": "IT: Il mistero di Donald C. (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqnhg4UIHdaWrcqiQgTjO3qPQLS.jpg"
+    },
+    {
+      "name": "IT: Il mio profilo migliore (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91BmpmTNPiBU4f3qD01wF6nMdie.jpg"
+    },
+    {
+      "name": "IT: Il mio Godard (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdpXjq1Wlm6Hv4smlP8VNFlaQL3.jpg"
+    },
+    {
+      "name": "IT: Il medico di campagna (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3srHee0OvWox94cn0QXATIkxey.jpg"
+    },
+    {
+      "name": "IT: Il libro della giungla (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1e4gIuMBqjtQecPBHzLKOh8Ky68.jpg"
+    },
+    {
+      "name": "IT: Il grande spirito (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1K7T4d5KO0aMdPjAxtyq9CGVyY.jpg"
+    },
+    {
+      "name": "IT: Il giustiziere della notte - Death Wish (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YbTmYHnbodEMajZk2YzBZrVpuX.jpg"
+    },
+    {
+      "name": "IT: Il giovane Karl Marx (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvAXa0hNJQVzgIdPg0Vn0kJzDyM.jpg"
+    },
+    {
+      "name": "IT: Il giocatore di scacchi (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcPNxoxYoO8GkpE7VWVVlDAqBap.jpg"
+    },
+    {
+      "name": "IT: Il giardino segreto (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0YapzCfCDxv59VCtIKdTsYeALj.jpg"
+    },
+    {
+      "name": "IT: Il giardino segreto (1993)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WA7YqqqgjxFO08hNIaPKcslsE8.jpg"
+    },
+    {
+      "name": "IT: Il filo nascosto (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pg4fQzIzXjUon8ey2pBO5Sv7ffb.jpg"
+    },
+    {
+      "name": "IT: Il faro delle orche (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e47Dk3QserTjSDlspsVlqcT7BB.jpg"
+    },
+    {
+      "name": "IT: Il duello (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF7PKbM4KpjF7e6KOUoluoz78fl.jpg"
+    },
+    {
+      "name": "IT: Il domani tra di noi (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nn5wk0Ytk3dFR07rewMeXucw8dA.jpg"
+    },
+    {
+      "name": "IT: Il diritto di opporsi (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kepGFT1Hg04zDywjcGxToUC2eHw.jpg"
+    },
+    {
+      "name": "IT: Il diritto di contare (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6JTN9J9cAwCLDS37FsXTXbl1OQ.jpg"
+    },
+    {
+      "name": "IT: Il destino di un soldato (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXJWQupDDWfZ7iz5Y01nQ0Pbrzt.jpg"
+    },
+    {
+      "name": "IT: Il contagio (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0zx040Jz3f82NrxtlQEwU0J0Rr.jpg"
+    },
+    {
+      "name": "IT: Il concorso (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zBUo3OwbDjpsd6ulYIP1xCYMuI.jpg"
+    },
+    {
+      "name": "IT: Il colore nascosto delle cose (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ifwlomf5Qgj3k0EY9c55KTu0S5.jpg"
+    },
+    {
+      "name": "IT: Il clan (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee3Aqqlm13cGFRNxpKTd1HW1DcT.jpg"
+    },
+    {
+      "name": "IT: Il cattivo poeta (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Z6nPCnNTjq0IXlfLova9Srt9hW.jpg"
+    },
+    {
+      "name": "IT: Il castello di vetro (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEZrqYhS38soheJwFNg8I0trFQH.jpg"
+    },
+    {
+      "name": "IT: Il caso Pantani - L'omicidio di un campione (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSdXgHudzD1dqAQX2wHTPwPZhBB.jpg"
+    },
+    {
+      "name": "IT: Il caso Freddy Heineken (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPmLXspasKNWV4teZlJ5CndoxEk.jpg"
+    },
+    {
+      "name": "IT: Il cardellino (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/amVQpbW5mxHmbCWxqmdaxEcGZr2.jpg"
+    },
+    {
+      "name": "IT: Il campione (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUaxotl1o4caOM9aG540ZymAdhs.jpg"
+    },
+    {
+      "name": "IT: Il cacciatore e la regina di ghiaccio (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gizpH1WPUHrdhjJ2A94HijjtaGr.jpg"
+    },
+    {
+      "name": "IT: Il ballo dei 41 (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kaWxJSRR3yMu9KaAQErkyirSfa.jpg"
+    },
+    {
+      "name": "IT: I fratelli Sisters (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S39cYfWqQI8jukmAoaWavhHie4.jpg"
+    },
+    {
+      "name": "IT: I figli della notte (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1bg5dDXem2VfUFoo7J6zRdgJUr.jpg"
+    },
+    {
+      "name": "IT: I figli del fiume giallo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmt90ugmLCCWrrMNdHxZJCtN5Zb.jpg"
+    },
+    {
+      "name": "IT: I due papi (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q8fW6V9meuvnMh2WAcBLh9a0E2.jpg"
+    },
+    {
+      "name": "IT: I colori dell'amore (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2sbwqbQwG06ufgzzGiJYAMPnfP.jpg"
+    },
+    {
+      "name": "IT: I Am All Girls (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bUeV4mczG3z2YXXr5XDKPsQzv.jpg"
+    },
+    {
+      "name": "IT: Hurricane (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e1GKiBV67iF2zmcwdEFsJO5Jaq.jpg"
+    },
+    {
+      "name": "IT: Hostiles - Ostili (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwBU7MbtvbUuhDTFm11g5oEs9rz.jpg"
+    },
+    {
+      "name": "IT: Hostile (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rx2oxZbgYq7vcfil5IxwVqp0Hp.jpg"
+    },
+    {
+      "name": "IT: Hostages (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEkskF7AbRMofBQaMPrG8dssyzo.jpg"
+    },
+    {
+      "name": "IT: Horse Girl (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNQ7st9dFXUXENMcsAuVxcrIBfA.jpg"
+    },
+    {
+      "name": "IT: Honey Boy (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RrlPAyemuxKJdxyN6HvcgKcTMa.jpg"
+    },
+    {
+      "name": "IT: Hitch - Lui sì che capisce le donne (2005)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/laTzNhqOKkgkekYFppBNnQBwxqz.jpg"
+    },
+    {
+      "name": "IT: Hitchcock (2012)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSbeoYA140Wz9IppXqT0e9QPLhh.jpg"
+    },
+    {
+      "name": "IT: High-Rise: La rivolta (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDlIcj8vLaO0uSmPrW4q2prkQYv.jpg"
+    },
+    {
+      "name": "IT: High Life (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T4uJXl51LQdgnvzce9yP8cevcx.jpg"
+    },
+    {
+      "name": "IT: Hemingway & Gellhorn (2012)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3fdkG3S8z6ibGOIVZYWvQlZPl0.jpg"
+    },
+    {
+      "name": "IT: Hello, My Name Is Doris (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYRpTDqZgA3rsRh4EIkWHsMjAKd.jpg"
+    },
+    {
+      "name": "IT: Hearts Beat Loud (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umiWoEo9aNH2bQnuDZnoFJJxfZn.jpg"
+    },
+    {
+      "name": "IT: Harriet (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/klC8cMV1rI3eaSbhwJ0DrJMkBlz.jpg"
+    },
+    {
+      "name": "IT: Hannah (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP3Cwwn1Q64TUGPlgRNrpSMa6jP.jpg"
+    },
+    {
+      "name": "IT: Hammamet (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wlJHcJQjjnTvwXemRNmJ9zIBW.jpg"
+    },
+    {
+      "name": "IT: Guida romantica a posti perduti (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oAHtG27uccZVexLRoto4nGNNq5.jpg"
+    },
+    {
+      "name": "IT: Guida alla famiglia perfetta (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbd6ZkE1x49qMkoFGT8SES54phV.jpg"
+    },
+    {
+      "name": "IT: Guernica: Cronaca di una strage (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vBITemmFHCH7C7yOAr6JyDTXk8.jpg"
+    },
+    {
+      "name": "IT: Green Book (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyjBcyimXedn0GANgagmfmcNU44.jpg"
+    },
+    {
+      "name": "IT: Grandma (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRojFs95SrMz336fSDQaCshpcYY.jpg"
+    },
+    {
+      "name": "IT: Grandi bugie tra amici (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/XTMSZVJOZ4UkKk1L5IrAHKksOB.jpg"
+    },
+    {
+      "name": "IT: Grand Budapest Hotel (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s49PPVt8NLaxqADZRPAN8pJHITz.jpg"
+    },
+    {
+      "name": "IT: Grace - Ispirazione cercasi (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96Ya0EXzfzsUk50hKnpn2q0xFdg.jpg"
+    },
+    {
+      "name": "IT: Gotti - Il primo Padrino (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aLQgIchRX05F1Ibj44dbGJPkOY.jpg"
+    },
+    {
+      "name": "IT: Gold Coast - Viaggio verso il nuovo mondo (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUpplypkFMGAmjwd9IRx1o0VFlF.jpg"
+    },
+    {
+      "name": "IT: Godzilla (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XUHNFHlQYFU63PFErWEDBYHQ3O.jpg"
+    },
+    {
+      "name": "IT: Gli uomini d'oro (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqqJh2mL0woJdUFYXNmVrgcPhVp.jpg"
+    },
+    {
+      "name": "IT: Gli ultimi saranno ultimi (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weDnBRhQkI1OFMlBPtQhrJBAzmp.jpg"
+    },
+    {
+      "name": "IT: Gli invisibili (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KSTQCVfPJg2aaqzFuBgz4xPYYs.jpg"
+    },
+    {
+      "name": "IT: Gifted - Il dono del talento (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNfPsLB2NlZJbPUT7D1WwehPpmS.jpg"
+    },
+    {
+      "name": "IT: Ghost Stories (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/faS9i7mYqYIZ0OQStEgaicLvjaz.jpg"
+    },
+    {
+      "name": "IT: Gemma Bovery (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7TDyawVMmuMetkkKkyKZdgHsPB.jpg"
+    },
+    {
+      "name": "IT: Gauguin - Viaggio a Tahiti (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJltVQ4uH9dDrGASx2HBCOx0BaA.jpg"
+    },
+    {
+      "name": "IT: Gangster Squad (2013)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eW9kFSuTQfyMvZKtxlnwKRBvI.jpg"
+    },
+    {
+      "name": "IT: Fukushima (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SdmIvfxecuRgRFldR6GxjvTLf8.jpg"
+    },
+    {
+      "name": "IT: Fuga di mezzanotte (1978)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tm0QJsQ1pMJ5CaG9ETorxgJTeIN.jpg"
+    },
+    {
+      "name": "IT: Frontiere selvagge (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSSvHwbYp8zk09wuzG0QiM0oamD.jpg"
+    },
+    {
+      "name": "IT: Free State of Jones (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKPMSVjeB6XcwxuVSBbh8BjRUH0.jpg"
+    },
+    {
+      "name": "IT: Fratelli di sangue (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nlGCPHcR78LLoc4TXg0wI00lZd.jpg"
+    },
+    {
+      "name": "IT: Franny (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbsnlVovp9bO8S25wogchEptgbW.jpg"
+    },
+    {
+      "name": "IT: Frank (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8x8H2q2uxp2EEeUlvm1hd5ydWWm.jpg"
+    },
+    {
+      "name": "IT: Foster Boy (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/43bshXm9QCZkcfHQIzDjv05dNO2.jpg"
+    },
+    {
+      "name": "IT: Fortunata (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gb6Egp8z0g8KAT2GmdzKW3IWEZz.jpg"
+    },
+    {
+      "name": "IT: Forrest Gump (1994)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGZqc9jQ6F8klQZKm37NAAMH70o.jpg"
+    },
+    {
+      "name": "IT: First Reformed - La creazione a rischio (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKQ9Z2EdxWSRxeVxsgCnqb3QjBt.jpg"
+    },
+    {
+      "name": "IT: First Man - Il primo uomo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cD1xNSA6fcXdDP7MdzXCuYSJMf.jpg"
+    },
+    {
+      "name": "IT: Fire Squad - Incubo di fuoco (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMvn4EJKbUaGwU10r6B7CaEBtiM.jpg"
+    },
+    {
+      "name": "IT: Fino all'osso (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkdxhdB3dRUqazqoy9lzUvhayjc.jpg"
+    },
+    {
+      "name": "IT: Figlia mia (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vJaA4mdH7qJ7hAypqDEO9VekIB.jpg"
+    },
+    {
+      "name": "IT: Ferry (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6n1pu9thpCVHILejsuhKf3tNCV.jpg"
+    },
+    {
+      "name": "IT: Favolacce (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPEWeMt3UdrOrRTy6TU4AB5Ule9.jpg"
+    },
+    {
+      "name": "IT: Famiglia all'improvviso - Istruzioni non incluse (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qT9yvd1WKA0ZMuoFuqQrPe8vGtp.jpg"
+    },
+    {
+      "name": "IT: Fai bei sogni (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTi1v2zgUtb7tQOw1JqJrebvroa.jpg"
+    },
+    {
+      "name": "IT: Exodus - Dei e Re (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3ChF5TaLJmVkfodS5SwztzW0Os.jpg"
+    },
+    {
+      "name": "IT: Ex Machina (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRFWr87YE1ENrmW8iEoHfcNjaPz.jpg"
+    },
+    {
+      "name": "IT: Exit Plan (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRNmIF7Rq1lGMZIfS0zu6GpoS5c.jpg"
+    },
+    {
+      "name": "IT: Excision (2012)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w4V8LorI0yg40NNPD6scEY7k4O.jpg"
+    },
+    {
+      "name": "IT: Euforia (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lABYwTJBbTobnNJOWT90GtYw9Wf.jpg"
+    },
+    {
+      "name": "IT: Est - Dittatura Last Minute (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF09IMbLaVBvC58sXzdRS8LFDZH.jpg"
+    },
+    {
+      "name": "IT: Escobar - Il fascino del male (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OTPCgnJDDzWPZl2QXLxa1UaGPa.jpg"
+    },
+    {
+      "name": "IT: Era mio nemico (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x87e478YhJueMGLrV6aZzJUUG7z.jpg"
+    },
+    {
+      "name": "IT: Equipaggio zero (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLcqfDvSMP3mFwPsHEqD426TII7.jpg"
+    },
+    {
+      "name": "IT: Equals (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/idvmuUcuK1ETrMcMD0zOVWVbU2S.jpg"
+    },
+    {
+      "name": "IT: Endless (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7TSx67Sb7XSC7ddG5POu71uCEU.jpg"
+    },
+    {
+      "name": "IT: Elvis & Nixon (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM2Se4PSUDM0VFy3WJcc24Bb0ZW.jpg"
+    },
+    {
+      "name": "IT: Elegia americana (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZcOiuKmNhAuyXYTKv0FeMlNx3u.jpg"
+    },
+    {
+      "name": "IT: Eighth Grade - Terza Media (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzOy1VxHChi21E6JZsLZRwnDkTS.jpg"
+    },
+    {
+      "name": "IT: E domani il mondo intero (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnHpzmwDbPcmNYOHhbhpAAiDO5V.jpg"
+    },
+    {
+      "name": "IT: Echo Boomers (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DIUwV5Ipr0d1JhPOMNYZezM17i.jpg"
+    },
+    {
+      "name": "IT: È solo la fine del mondo (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0Bf5KMLSEieyxsnsOvWjT1qLd9.jpg"
+    },
+    {
+      "name": "IT: Draft Day (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuo46ONWRe5Sy3QSHmBGtXwmkmw.jpg"
+    },
+    {
+      "name": "IT: Downton Abbey (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMbCjDZvoaGUvYWiiUOnNDnB5xF.jpg"
+    },
+    {
+      "name": "IT: Downhill (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sneclFA0AJEn4PBTnhXZTsu1RA.jpg"
+    },
+    {
+      "name": "IT: Don't Worry (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg"
+    },
+    {
+      "name": "IT: Dolor y gloria (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVnxuNq7whGw2mOsmCBxt56EqFV.jpg"
+    },
+    {
+      "name": "IT: DolceRoma (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/J4dSUA9OLVFbnKzvOFh8UlkF7l.jpg"
+    },
+    {
+      "name": "IT: Dogtooth (2009)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vInCRfJLpQ05OCgwjj01zyZdOHe.jpg"
+    },
+    {
+      "name": "IT: Dog Days (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVX8CI7k2ohWRMyk1djjwEizbJP.jpg"
+    },
+    {
+      "name": "IT: Diverso come me (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUCgVPVCF2PU5VJMcLbwYP1QPDS.jpg"
+    },
+    {
+      "name": "IT: Distorted (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "IT: Disobedience (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yu6puizUTp5ET4AA2w7eXs067D.jpg"
+    },
+    {
+      "name": "IT: Dio esiste e vive a Bruxelles (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NiRTtTsChJ6uTyBeI0b3RZ0NNd.jpg"
+    },
+    {
+      "name": "IT: Dillo al Mare (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf28wtVqLYHyXxbZmWpU8AaHibs.jpg"
+    },
+    {
+      "name": "IT: Dietro le linee nemiche - Seal Team 8 (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyZoKCgQYRMFmKtd84UzL5tNHJg.jpg"
+    },
+    {
+      "name": "IT: Dietro la maschera (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJZIa70YUl0Ilycah21NH3XQFgB.jpg"
+    },
+    {
+      "name": "IT: Detective in erba (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4raqMS2FAumbHvR5WiC7VvaNHSD.jpg"
+    },
+    {
+      "name": "IT: Destinazione matrimonio (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocKHMdoyf2GwHzHJ6KcLtDWtiun.jpg"
+    },
+    {
+      "name": "IT: Deserto rosso sangue (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYHkCCfsFwTvzBymsCCh8J0LDWK.jpg"
+    },
+    {
+      "name": "IT: Demolition: amare e vivere (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpKejxx7LXsU4fDgIX5g7WPAOSU.jpg"
+    },
+    {
+      "name": "IT: Default (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJ6RDkZwBl94gcNSOsEm66ZYn91.jpg"
+    },
+    {
+      "name": "IT: Deepwater - Inferno sull'Oceano (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3WqKxxvYuKW58mda1TGeE4qxat.jpg"
+    },
+    {
+      "name": "IT: Dauntless - La Battaglia di Midway (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e183YUr7D4kvvi2DUKvUAPrlv47.jpg"
+    },
+    {
+      "name": "IT: Darlin (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HtyORdGSiwVKTPHHVKjxY7C2S6.jpg"
+    },
+    {
+      "name": "IT: Darkest Minds (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MdIiNMfYFQVsr9eicxlcYPxfKX.jpg"
+    },
+    {
+      "name": "IT: Dancing Queens (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg"
+    },
+    {
+      "name": "IT: Da 5 Bloods - Come fratelli (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/D4DcBCWESFIFLcfYaDCTdOlxRJ.jpg"
+    },
+    {
+      "name": "IT: Curiosa (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHzjzkdSiY2yrkBU3C6hNTyOdaR.jpg"
+    },
+    {
+      "name": "IT: Crown Vic (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DCXmiJzvShDwcU2Dw95FyyJURM.jpg"
+    },
+    {
+      "name": "IT: Creed II (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVKJ8AnuYpgTwyK84Qzh8CyymgF.jpg"
+    },
+    {
+      "name": "IT: Creed - Nato per combattere (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AyQztJrcWFxoGcYRlE7XpGHeW5.jpg"
+    },
+    {
+      "name": "IT: Crazy Night - Festa col morto (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ERwPm6C4REGT1fLmJ5VCSbz0Ro.jpg"
+    },
+    {
+      "name": "IT: Cosimo e Nicole (2012)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bd1rsTGmNMtWQNw2440nkox5nVz.jpg"
+    },
+    {
+      "name": "IT: Cosa mi lasci di te (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIrb9lTK4YSJ6V9v915zcRVglH7.jpg"
+    },
+    {
+      "name": "IT: Correre per ricominciare (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCQEARJeKB67JYohLyLGMk86rfa.jpg"
+    },
+    {
+      "name": "IT: Corpo e anima (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/huEc0rtzwhNEp2Oj4neP357BLOx.jpg"
+    },
+    {
+      "name": "IT: Copia originale (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/30qsHBc8tWOcyBpIHZcrGLwSgjr.jpg"
+    },
+    {
+      "name": "IT: Confirmation (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lxg4KidKhRAMupBYvgdHxAnxKE.jpg"
+    },
+    {
+      "name": "IT: Concrete Cowboy (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRW2poVt06WCVlIhrolWS5af4YV.jpg"
+    },
+    {
+      "name": "IT: Colette (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDM0a6CmWiRnKEkwHRJfwo4GI1E.jpg"
+    },
+    {
+      "name": "IT: Cold War 2 (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al9AKsVBz12UztMCoc1jniRPZbh.jpg"
+    },
+    {
+      "name": "IT: Cold Skin - La creatura di Atlantide (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsT4QIl2qEPf49cKXQqaXfrwye0.jpg"
+    },
+    {
+      "name": "IT: Codice criminale (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPkIVD3KrWOup3uZQzekRXljGFq.jpg"
+    },
+    {
+      "name": "IT: Cocaine - La vera storia di White Boy Rick (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyNFhXBf6yJ43HR7dgyVGYkbkrj.jpg"
+    },
+    {
+      "name": "IT: Climax (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OPD5Pu5CdWD3FMJ7mV18Pp3mw7.jpg"
+    },
+    {
+      "name": "IT: City of Crime (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Td3gGsDulZ5EDrhJQrg6guRz6R.jpg"
+    },
+    {
+      "name": "IT: Cinquanta sfumature di rosso (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpVcIP1g5AoqHv6agE3WsNB11Rf.jpg"
+    },
+    {
+      "name": "IT: Chiamatemi Francesco - Il Papa della gente (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD7pwuUxUQiElcOv4cJbt9Bzsye.jpg"
+    },
+    {
+      "name": "IT: Chiamami col tuo nome (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FjIZfBgGJs2QVflieDNvPKVWVZ.jpg"
+    },
+    {
+      "name": "IT: Cherry - Innocenza perduta (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1humOyZTEQI1JQWSMeVKTbUAPiF.jpg"
+    },
+    {
+      "name": "IT: Che fine ha fatto Bernadette? (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sunToyLbNrqJ5Aif5xn8ZxcCpqa.jpg"
+    },
+    {
+      "name": "IT: Certain Women (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A5cWPvPnw7vY1Dfg3DSyLG0k96.jpg"
+    },
+    {
+      "name": "IT: Cena con delitto - Knives Out (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2sh3RJ3rhRDYlJV4ZrMzzZ9Ye7.jpg"
+    },
+    {
+      "name": "IT: Cats (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHhvDjXw8FBq4UeNpVrdCCkjwuE.jpg"
+    },
+    {
+      "name": "IT: Casa Shakespeare (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/auTnGLE8mB2InaNFME4CoQZF8po.jpg"
+    },
+    {
+      "name": "IT: Carol (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eSuNLVYKiZZ17m2NXu95Islyuu.jpg"
+    },
+    {
+      "name": "IT: Capone (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgYq0Vn1pVgMyRjDLXq5P2GA7cU.jpg"
+    },
+    {
+      "name": "IT: Camp X-Ray (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kn5E4XR9W0c2iGnKudVsOnbdJu9.jpg"
+    },
+    {
+      "name": "IT: Calciatrice per caso (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6og7oUTH6vXeu3Li5SNhjfUwx5.jpg"
+    },
+    {
+      "name": "IT: By the sea (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayv5S3h9j7ewklU5VR02YNnxJBA.jpg"
+    },
+    {
+      "name": "IT: Brooklyn (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qT0F0zo4WOeCa5F462pwvZ8hLwr.jpg"
+    },
+    {
+      "name": "IT: Bronx80146 – nuova squadra catturandi (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hw9NNWTfy9al4tVaQWMn6wZcbY6.jpg"
+    },
+    {
+      "name": "IT: Brexit: The Uncivil War (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKfYKQQMNARXOgyf5ieVeGWlNQU.jpg"
+    },
+    {
+      "name": "IT: Breaking News a Yuba County (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMyCYtgfBmMisX3RFc5eH6zIV5Y.jpg"
+    },
+    {
+      "name": "IT: Breaking Dance (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXTINdJFEa2ORw52pZofcLSAAAb.jpg"
+    },
+    {
+      "name": "IT: Break (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7N2WC4DE8X2VVVbMJZ1dXNmLj02.jpg"
+    },
+    {
+      "name": "IT: Boy erased - Vite cancellate (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dguQt4608UGgOxhiGNHBRgNZQJe.jpg"
+    },
+    {
+      "name": "IT: Boston: Caccia all'uomo (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqthMvAtsFK0CjubprMITP25hSH.jpg"
+    },
+    {
+      "name": "IT: Borg McEnroe (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gde8ygq2DtFHBu4gqqEIJ9Tl6iq.jpg"
+    },
+    {
+      "name": "IT: Border - Creature di confine (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPSCjviwdjRye1uHU0uvQHPJB5O.jpg"
+    },
+    {
+      "name": "IT: Bombshell - La voce dello scandalo (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsr1DHSTObZsOLnMkSglhHiC69D.jpg"
+    },
+    {
+      "name": "IT: Bomb City (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kho48mWJ5xuiLn5bpuIvO6ZP7ep.jpg"
+    },
+    {
+      "name": "IT: Bohemian Rhapsody (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/guQaXtD3hyCqAkX9AdjPALlaR1A.jpg"
+    },
+    {
+      "name": "IT: Blue Story (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI4Rw83LxKq07xIjM3RcbKcWpAM.jpg"
+    },
+    {
+      "name": "IT: Blue Miracle - A pesca per un sogno (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCjuTbgkKMwY7membzJAVYpdZpy.jpg"
+    },
+    {
+      "name": "IT: Blood Brother (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eC0He7igX6aNUq6vCGg4hZpxJTl.jpg"
+    },
+    {
+      "name": "IT: Bliss (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/toK2vWCJsqn39Y7PQBsBC5q7R9J.jpg"
+    },
+    {
+      "name": "IT: Blindspotting (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4UvwoMmQiztTqeUnExDU5hoCdP.jpg"
+    },
+    {
+      "name": "IT: Blinded by the Light - Travolto dalla musica (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntIYSdjUM1E8B3ARRnYqdchFR4Y.jpg"
+    },
+    {
+      "name": "IT: Black Mass - L'ultimo gangster (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbGTD32u2z1AO2Hw7JjFOnmEUA7.jpg"
+    },
+    {
+      "name": "IT: Blackbird - L'ultimo abbraccio (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1pOxf8goKZ5g394SiQXvSZTCjv.jpg"
+    },
+    {
+      "name": "IT: Billy Lynn - Un giorno da eroe (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AunTqDAg6F1GJKV0aqUhGZK8rNT.jpg"
+    },
+    {
+      "name": "IT: Big Eyes (2014)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/203HAjJcLMl7xThcTqZx4zmEGcV.jpg"
+    },
+    {
+      "name": "IT: Bernie (2011)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mSX8XQ07hGxvvBm6DI5hLiCWd3.jpg"
+    },
+    {
+      "name": "IT: Berlin, I Love You (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgVDEPqWsaklkDfr0DRA0A3EKUa.jpg"
+    },
+    {
+      "name": "IT: Benvenuti a Marwen (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zyQ1q0YUZmBP6uGtPmKD9xEibB.jpg"
+    },
+    {
+      "name": "IT: Ben Is Back (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uZgwLhRg5fXZbTtnw53ktqMV2.jpg"
+    },
+    {
+      "name": "IT: Beautiful Creatures - La sedicesima luna (2013)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrCnVZ05tiIC5N8iLwJDCcBupo5.jpg"
+    },
+    {
+      "name": "IT: Beats (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8P13nIvkkizVBzd2RpegsRt5zP.jpg"
+    },
+    {
+      "name": "IT: Beast of Burden - Il trafficante (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCDuS9RcojBrFKRx4WRuEZ9T0h9.jpg"
+    },
+    {
+      "name": "IT: Barry (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Dg6phOePOHc4DHA5I7qjXB3fvA.jpg"
+    },
+    {
+      "name": "IT: Barriere (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBLylKXnx0YN9X0fs7O4KQzvhlz.jpg"
+    },
+    {
+      "name": "IT: Babbo bastardo 2 (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/djjg9mTVYb1CARtbMlgFxmbQAYq.jpg"
+    },
+    {
+      "name": "IT: A Week Away (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htTS07IvYv3rv57ftzNEprefwSq.jpg"
+    },
+    {
+      "name": "IT: Ave, Cesare! (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wk3kqkAgmyxxIADLTdzNSBW6Bek.jpg"
+    },
+    {
+      "name": "IT: A un metro da te (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuIlrl1jBwvKSOjXGqba418nwWF.jpg"
+    },
+    {
+      "name": "IT: Attraverso i miei occhi (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8321nRYpGd19Usp21PtCt1S7Qru.jpg"
+    },
+    {
+      "name": "IT: Atto di fede (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGICZMMIe7AwwI172H4b3bltoDg.jpg"
+    },
+    {
+      "name": "IT: A Taxi Driver (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCdx7X5JLaSJZLNVtpryGSdjvvB.jpg"
+    },
+    {
+      "name": "IT: A Star Is Born (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhUIEmhVTw7iuz2lBABN3Cloxyo.jpg"
+    },
+    {
+      "name": "IT: Assassinio sull'Orient Express (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYZ5NBJb555isOiQ2X9ia6rH9OZ.jpg"
+    },
+    {
+      "name": "IT: Aspettando il Re (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkJvWYhJSKy7UYpadoRs9xUmybK.jpg"
+    },
+    {
+      "name": "IT: A spasso nel bosco (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYbIkUVY5dffqGUU1MgNjkEpKR3.jpg"
+    },
+    {
+      "name": "IT: A spasso con Bob (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMpStSAwt9iZOzsl8LVUDFwKcdJ.jpg"
+    },
+    {
+      "name": "IT: Arrivederci professore (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJbSa1dpZn6FXWDOBIb9LSBZsf.jpg"
+    },
+    {
+      "name": "IT: Arctic (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3T9oWJqFuh6SYI4Pn2o6BUajGx.jpg"
+    },
+    {
+      "name": "IT: Archive (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/drk93KLwYOMD5mBiWpzirpJ6Bfo.jpg"
+    },
+    {
+      "name": "IT: A Quiet Place - Un posto tranquillo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTwFYSbEJzZfBO0518Jl5Tsit4Z.jpg"
+    },
+    {
+      "name": "IT: A Quiet Passion (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfs3qdd3th9pgSJ8L80wPxhwebU.jpg"
+    },
+    {
+      "name": "IT: A Private War (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/78GVjxZZ70QdyXKnR086Xr4gfd2.jpg"
+    },
+    {
+      "name": "IT: Perfect Day (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEs1vS1ek3zUyBxQjZUuH6tsN3P.jpg"
+    },
+    {
+      "name": "IT: Another Earth (2011)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YRK8YMk9uinJP1vnpsthAcoE3r.jpg"
+    },
+    {
+      "name": "IT: #AnneFrank. Vite parallele (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xviGtt0d0O2Rlk114cj8Q4n0uXf.jpg"
+    },
+    {
+      "name": "IT: Animali fantastici - I crimini di Grindelwald (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKYSsUPNJsikBH8LM2Lf82k5acD.jpg"
+    },
+    {
+      "name": "IT: Angel Face (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIxiiWhxQ6XdTxC3bR5A5waOHE4.jpg"
+    },
+    {
+      "name": "IT: An American Pickle (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ziUp2q71vCmMgYY2MRCwI3mSs5.jpg"
+    },
+    {
+      "name": "IT: Amore inaspettato (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7CbeTomk5aW7MQqaFwMvD55d6c.jpg"
+    },
+    {
+      "name": "IT: Amore e inganni (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wA7WllHjCBzucA8ETHM2gJdXIfz.jpg"
+    },
+    {
+      "name": "IT: Amore a seconda vista (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XmpL05EaRXS8WNNHLkAL5Zu5Iv.jpg"
+    },
+    {
+      "name": "IT: A Modern Family (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/icnH576OYkuOoprjsTdYmRbTCPn.jpg"
+    },
+    {
+      "name": "IT: Ammonite - Sopra un'onda del mare (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggi2XE5Yd4HnwgHgfRKoVDYgmPH.jpg"
+    },
+    {
+      "name": "IT: American Woman (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGGJgeY53e1JWugOkY96XiSiRJA.jpg"
+    },
+    {
+      "name": "IT: American Skin (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ4HpaBPiWGRxiqm62ZXFRCwkbI.jpg"
+    },
+    {
+      "name": "IT: American Honey (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/41SVO0AElBAl7zks9dFhJ0OjHni.jpg"
+    },
+    {
+      "name": "IT: American Animals (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIGVM14LMEQqQFtrJxMsjaumq6H.jpg"
+    },
+    {
+      "name": "IT: Amare Amaro (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6pyxPlTOMwkZtNTjGEWu2ztfIA.jpg"
+    },
+    {
+      "name": "IT: A mano disarmata (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSO0J379dbLlAMjpzhfZL9pvr86.jpg"
+    },
+    {
+      "name": "IT: Amadeus (1984)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsqcwBp1jYZdcceXXoVEby0dZkt.jpg"
+    },
+    {
+      "name": "IT: Altamira (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rukl7NRbxkx047DBOlDSln6gCrv.jpg"
+    },
+    {
+      "name": "IT: Alpha - Un'amicizia forte come la vita (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Pz9wIVwUiVhlLAJYae1irxzcTT.jpg"
+    },
+    {
+      "name": "IT: All My Life (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ6FE2M2PPsx4CyCH2lpcxn1cuU.jpg"
+    },
+    {
+      "name": "IT: Allied - Un'ombra nascosta (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/srn1IXS0JyepyLlmMK5osOCG0F2.jpg"
+    },
+    {
+      "name": "IT: All eyez on me (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGEx8u38SBfrfFyNwS6iqLLzjvH.jpg"
+    },
+    {
+      "name": "IT: All Day and a Night (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xiV8j18GhWnnrfMGaDR0E5oOif.jpg"
+    },
+    {
+      "name": "IT: All'ultimo voto (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUjbZoKCsHIKUWmmGMC82RTqSgE.jpg"
+    },
+    {
+      "name": "IT: Alienate – Lotta per la Terra (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nowRzynmNzFFSzcnfwXmTJzkn1R.jpg"
+    },
+    {
+      "name": "IT: Alice e Peter (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C96lpWnGxU02iKNKQVIAJHKiFE.jpg"
+    },
+    {
+      "name": "IT: Alice e il sindaco (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttnrBKYHX3BJDhtiUzVzVRcgk5k.jpg"
+    },
+    {
+      "name": "IT: AK-47 - Kalashnikov (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3xdyvAy9AavMDjrJXUZp61Vq2t.jpg"
+    },
+    {
+      "name": "IT: Agatha e la verità sull'omicidio del treno (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S2IhYZamtQJZKpzCmdD6Me98la.jpg"
+    },
+    {
+      "name": "IT: Agatha e la Maledizione di Ishtar (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8TCkRg6QpRkjldPz2wUQhHyVV.jpg"
+    },
+    {
+      "name": "IT: After the Dark (2013)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuFH9INcWYZu5Lgs5Tdos4BQw9O.jpg"
+    },
+    {
+      "name": "IT: Aftermath - Orrori dal passato (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4pq51JsUkg94XJR5LbJ2Wfa3uD.jpg"
+    },
+    {
+      "name": "IT: Afterlife of the Party (2021)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvWKprnB7GnXUFeS0TK2s93JKoZ.jpg"
+    },
+    {
+      "name": "IT: After (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVHvzw1fHdiVUkwBFF8j7yx43jj.jpg"
+    },
+    {
+      "name": "IT: Adorabile nemica (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKZGQpeQOByZD9XaFYY96IIkhI3.jpg"
+    },
+    {
+      "name": "IT: Addio mia regina (2012)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoXAfX4FqQzN1lXRiAJel5Kmyz5.jpg"
+    },
+    {
+      "name": "IT: Ad astra (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUJJzKiAi5akgRYVJVw6nIEYTOi.jpg"
+    },
+    {
+      "name": "IT: Adaline - L'eterna giovinezza (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dehVZaQuRTae4uQnOkQvGX8psgz.jpg"
+    },
+    {
+      "name": "IT: 365 giorni (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1di3hZFENsfAeOW1CeaZ9YskA0E.jpg"
+    },
+    {
+      "name": "IT: 211 - Rapina in corso (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpHWdvyHxyeJBjK7xMfXJg8b9QN.jpg"
+    },
+    {
+      "name": "IT: 90 minuti in Paradiso (2015)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRDFQRILAISf33TpNCLbnP9FWh7.jpg"
+    },
+    {
+      "name": "IT: 47 Metri: Uncaged (2019)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjiuptyDZQ6FgP6YY3pScwa3atD.jpg"
+    },
+    {
+      "name": "IT: 40 sono i nuovi 20 (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUTgyPCjvMQycC4pfpUbpF9epa0.jpg"
+    },
+    {
+      "name": "IT: 18 regali (2020)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvXSGXTN18Lvp3sGoFpzLgwyoOV.jpg"
+    },
+    {
+      "name": "IT: 17 anni (e come uscirne vivi) (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/utv34NRNufLyGOstCLsLQGsAvAZ.jpg"
+    },
+    {
+      "name": "IT: 12 soldiers (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nItwrU8u3pvh838K1lI0WX5cJZQ.jpg"
+    },
+    {
+      "name": "IT: 11 settembre: Senza scampo (2017)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDbWuXqyCcVfYvoQcaZF3JXsnpL.jpg"
+    },
+    {
+      "name": "IT: 10 giorni d'oro (2012)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBlsU3UCe0u7eEQo4f5Ol9dZ7fh.jpg"
+    },
+    {
+      "name": "IT: 7 uomini a mollo (2018)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybxjvxWzbXVrt8oGABr6pXHlwpl.jpg"
+    },
+    {
+      "name": "IT: Sette minuti dopo la mezzanotte (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o26qsA9FTvupfFE593dcrMbdxbf.jpg"
+    },
+    {
+      "name": "IT: 7 minuti (2016)",
+      "group": "IT - Dramma Film",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lx15SY4vHWWMPKm4fTlBAQQKSZW.jpg"
+    }
+  ]
+}

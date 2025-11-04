@@ -1,0 +1,333 @@
+{
+  "package": "world",
+  "name": "AL - 2022-2023 Albanian Movies",
+  "groupIndex": 221,
+  "totalChannels": 65,
+  "channels": [
+    {
+      "name": "AL: El Rosado Encanto (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tFVYK7WSJo7oIuoVoyc3urRsFw.jpg"
+    },
+    {
+      "name": "AL: May-December-January (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPcDoHyLTGtyQzvInHTpekFl8xT.jpg"
+    },
+    {
+      "name": "AL: Flirtatious (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0EMcbQ7IMtB6ib2n7jP1BJj8o2.jpg"
+    },
+    {
+      "name": "EN: Death on the Border (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPr1hZmowPggNQZWyH3AQhAJpTr.jpg"
+    },
+    {
+      "name": "AL: Men  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg"
+    },
+    {
+      "name": "AL: Spiderhead  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg"
+    },
+    {
+      "name": "Doctor Strange in the Multiverse of Madness (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
+    },
+    {
+      "name": "AL: Ash (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AOIZVp92nbpBMCgkf7Oqu8Iy8R.jpg"
+    },
+    {
+      "name": "AL: Godspeed (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfDxr9uDIOK5QZDsO76Y7ATs0kF.jpg"
+    },
+    {
+      "name": "AL: The Lost City (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg"
+    },
+    {
+      "name": "AL: Studio 666  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zD2XyaV6eGEEgEzVnjg0hQVR5yz.jpg"
+    },
+    {
+      "name": "AL: Lost Angeles (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2xWm9G9f8evSrNgSpkFCiuU323.jpg"
+    },
+    {
+      "name": "AL: Escape the Field  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qDumKWwi3YZacMI9u2UoPHWVDi.jpg"
+    },
+    {
+      "name": "AL: Here Before  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0zHYgMILw5blQdesXpnisac0DT.jpg"
+    },
+    {
+      "name": "AL: Crush (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hayr56csDzCSADaejgrRMVPHyDy.jpg"
+    },
+    {
+      "name": "AL: Black Site (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipn8khVVC4eToWiGf89WF9J5PJn.jpg"
+    },
+    {
+      "name": "AL:  Ambulance  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT5ynZ0UR6HFfWQSRf2uKtqCyWD.jpg"
+    },
+    {
+      "name": "AL:  Alice  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg"
+    },
+    {
+      "name": "AL: Shadow Master (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/67ZsRKbItt6B1yHlsJKgfPWOyuJ.jpg"
+    },
+    {
+      "name": "AL: The Adam Project  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg"
+    },
+    {
+      "name": "AL:  Project 'Gemini' (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFljUdOozFEv6HDHIFpFvcYW0ec.jpg"
+    },
+    {
+      "name": "AL:  I Want You Back (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtCGLuDaft5PuELnxaFJf2gxbBd.jpg"
+    },
+    {
+      "name": "AL:  Shut In (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5ug4LyLQFeR6azAJyIPBQz5ur9.jpg"
+    },
+    {
+      "name": "AL:  Bigbug (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDJOojbuqgnNVGmKgmuYzBpaIgP.jpg"
+    },
+    {
+      "name": "AL:  The Tinder Swindler (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg"
+    },
+    {
+      "name": "AL:  The Requin (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg"
+    },
+    {
+      "name": "AL:  The Policeman's Lineage (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHlGNVO7xDQrJMOv38UMLawajKP.jpg"
+    },
+    {
+      "name": "AL:  Munich: The Edge of War (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg"
+    },
+    {
+      "name": "AL:  WarHunt (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg"
+    },
+    {
+      "name": "AL:  Four to Dinner (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYCNbQH7QjilbVrcfIkBi1RxsrE.jpg"
+    },
+    {
+      "name": "AL:  Clean (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg"
+    },
+    {
+      "name": "AL:  Brazen  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg"
+    },
+    {
+      "name": "AL:  Hacker: Trust No One  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91pB7MxquMeFbeMHamslCKk5wNZ.jpg"
+    },
+    {
+      "name": "AL: Der Exorzist: Bekenntnis (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVKirUdmoex8SdfUk8WDDWwrcCh.jpg"
+    },
+    {
+      "name": "AL: Double Life (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fn0EHiPtbVJ0aH74rRVnWfq6p6h.jpg"
+    },
+    {
+      "name": "AL: Home (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJqOceSBlj7jOoiIN6MufUNpQf9.jpg"
+    },
+    {
+      "name": "AL: Coffee (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7cxAwDnZjQRxc2cjQK2RG214RX.jpg"
+    },
+    {
+      "name": "AL: Long Live Love! (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyduWrJmYZ8XFiEMdzp7sXPQ7T7.jpg"
+    },
+    {
+      "name": "AL: Blood (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg"
+    },
+    {
+      "name": "AL: One Night With Asterix & Obelix (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g5MOaL3xRKoEynCZl6QuyO9omZ.jpg"
+    },
+    {
+      "name": "AL: Top Gun: Maverick  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+    },
+    {
+      "name": "AL: Bullet Train  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nF1a7P9lUq9kNas9RIvSEQ412qN.jpg"
+    },
+    {
+      "name": "AL: Paradise Highway  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg"
+    },
+    {
+      "name": "AL: The Forgiven (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bH7eN8VfKar0fDeAX1Vkryp7dYC.jpg"
+    },
+    {
+      "name": "AL: Into the Wind  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2lylZT9Czehopiln1D9hc1Bb84.jpg"
+    },
+    {
+      "name": "AL: Love (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/quLtM0IhUdKSxs748MQUpQW2zia.jpg"
+    },
+    {
+      "name": "AL: Terror on the Prairie  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPWaktPt50BwkYHmYM62sDrdnjR.jpg"
+    },
+    {
+      "name": "AL: Crimes of the Future  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSx6t4mj1FT4ePqPYHW287SmNa1.jpg"
+    },
+    {
+      "name": "AL: Doctor Strange in the Multiverse of Madness  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
+    },
+    {
+      "name": "AL: Senior Year  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg"
+    },
+    {
+      "name": "AL: Everything Everywhere All at Once  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKvCys0fMIIi1X9rmJBxTPLAtoU.jpg"
+    },
+    {
+      "name": "AL: Death on the Nile  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+      "name": "AL: The Fallout (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Fallout_2021.jpg"
+    },
+    {
+      "name": "AL: Clean  (2022)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg"
+    },
+    {
+      "name": "AL: Jagun Jagun (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0GXumEMtwgYj2M3YW4Iu0veYJg.jpg"
+    },
+    {
+      "name": "AL:  The Angry Black Girl and Her Monster (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c3rU9R5oYexKFWaAHAc195B0RN.jpg"
+    },
+    {
+      "name": "AL:  Young Ip Man: Crisis Time (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWeP8CIjHY7iPpcV9mWPWJEWez9.jpg"
+    },
+    {
+      "name": "AL:  Dungeons & Dragons: Honor Among Thieves (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg"
+    },
+    {
+      "name": "AL:  BDE (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofWJ1UiUFJncIGBV2E9f9CGRFwk.jpg"
+    },
+    {
+      "name": "AL:  Chupa (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg"
+    },
+    {
+      "name": "AL:  Guy Ritchie's The Covenant (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"
+    },
+    {
+      "name": "AL: Crater (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg"
+    },
+    {
+      "name": "AL: Hypnotic (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg"
+    },
+    {
+      "name": "AL: Robots (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg"
+    },
+    {
+      "name": "AL: Without Air (2023)",
+      "group": "AL - 2022-2023 Albanian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozKMCyC4EofpYmIXzgizWaOcZzk.jpg"
+    }
+  ]
+}

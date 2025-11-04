@@ -1,0 +1,728 @@
+{
+  "package": "world",
+  "name": "EN - Fantsy Movies",
+  "groupIndex": 287,
+  "totalChannels": 144,
+  "channels": [
+    {
+      "name": "EN: The Guardians of the Galaxy Holiday Special (2022)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
+    },
+    {
+      "name": "EN: Prancer: A Christmas Tale (2022)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJgCmwkf2ytEHYHv8vH3QtRGVPW.jpg"
+    },
+    {
+      "name": "EN: Project Gemini (2022)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFljUdOozFEv6HDHIFpFvcYW0ec.jpg"
+    },
+    {
+      "name": "EN: The School for Good and Evil (2022)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg"
+    },
+    {
+      "name": "EN: Three Wishes for Cinderella (2021)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kqH4d9FBQv5Sel39Ns7TMd13RT.jpg"
+    },
+    {
+      "name": "EN: Iké Boys (2022)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzAZnkTQZBGCxZTvZk5g5VzgKuR.jpg"
+    },
+    {
+      "name": "EN: Boonie Bears: Back to Earth",
+      "group": "EN - Fantsy Movies",
+      "logo": "http://etc12.xyz:900/images/7spYQYwEqNjaEkGoe9jkckXYHdy_big.jpg"
+    },
+    {
+      "name": "EN: Mona Lisa and the Blood Moon",
+      "group": "EN - Fantsy Movies",
+      "logo": "http://etc12.xyz:900/images/ApjKNT7OSY8PF0xAxEkuvdYdaNM_big.jpg"
+    },
+    {
+      "name": "EN: The Dark Tower (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9GUSgddIqrroubiLsvvMRYyRy0.jpg"
+    },
+    {
+      "name": "EN: Spider-Man (2002)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwoETElxZqiF3it8F4HitSliXqp.jpg"
+    },
+    {
+      "name": "EN: Oz the Great and Powerful (2013)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lBgN59T5m1DaC9XcLkHOXdK9ax.jpg"
+    },
+    {
+      "name": "EN: Outlander (2008)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vIc5fznKsQjE4d0H3H4Zy5bn9o.jpg"
+    },
+    {
+      "name": "EN: Nutty Professor II: The Klumps (2000)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8gI95Eio7kAjixyqYHxNKmJTmm.jpg"
+    },
+    {
+      "name": "EN: Nanny McPhee (2005)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WSPc5O2Gt50LptPWVVBgixGRis.jpg"
+    },
+    {
+      "name": "EN: My Super Ex-Girlfriend (2006)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vs4jcY5NQA24zFGihY2EiqEA5hI.jpg"
+    },
+    {
+      "name": "EN: Miracle on 34th Street (1994)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWjL1zD0XjQrOTP9jLiAbzvBKEW.jpg"
+    },
+    {
+      "name": "EN: Mimic (1997)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg"
+    },
+    {
+      "name": "EN: Midnight in Paris (2011)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wBG5kbfagTQclETblPRRGihk0I.jpg"
+    },
+    {
+      "name": "EN: Maleficent (2014)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik8PugpL41s137RAWEGTAWu0dPo.jpg"
+    },
+    {
+      "name": "EN: Lady Death (2004)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVK9NOhb2jhkVqzTOjjnrQ3BUxk.jpg"
+    },
+    {
+      "name": "EN: Kazaam (1996)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6kXq27UVxf7zGCWSvygYYIp9eP.jpg"
+    },
+    {
+      "name": "EN: Justice League: The Flashpoint Paradox (2013)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmpE3mfhv0NOnI872q66kuuGeZW.jpg"
+    },
+    {
+      "name": "EN: Jiu Jitsu (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg"
+    },
+    {
+      "name": "EN: Jack the Giant Slayer (2013)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLbVsFpAlwf6khU3gG1yaRBPeC.jpg"
+    },
+    {
+      "name": "EN: Invisible Sister (2015)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/seWQvVIzb5xBjHW0Y1h4jvokxZN.jpg"
+    },
+    {
+      "name": "EN: How to Train Your Dragon 2 - 2014",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg"
+    },
+    {
+      "name": "EN: How to Train Your Dragon (2010)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
+    },
+    {
+      "name": "EN: Home (2015)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/usFenYnk6mr8C62dB1MoAfSWMGR.jpg"
+    },
+    {
+      "name": "EN: Highlander III: The Sorcerer (1994)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4GKLReSGRR0rulOBS9SrfFAXOz.jpg"
+    },
+    {
+      "name": "EN: Herbie Goes Bananas (1980)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cBOYLDhHMA351ndLthSxBCwO5N.jpg"
+    },
+    {
+      "name": "EN: Hellboy (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg"
+    },
+    {
+      "name": "EN: Hellboy (2004)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebJBoeLjYGao4F4lIXxZPl5Mkwm.jpg"
+    },
+    {
+      "name": "EN: Hell & Back (2015)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/co1EjbpZ0NBsOj89PDZRPyAWvWu.jpg"
+    },
+    {
+      "name": "EN: Gumby: The Movie (1995)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4wc8SrcaKyfNKXA0g5Aydpk4Id.jpg"
+    },
+    {
+      "name": "EN: Gremlins (1984)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ.jpg"
+    },
+    {
+      "name": "EN: Freaky Friday (1976)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kHZmN4Ao70LTgaiUti23Zl7fFq.jpg"
+    },
+    {
+      "name": "EN: Eraserhead (1978)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjq2xZvWWKZJtg8FGNHXdbVoAAf.jpg"
+    },
+    {
+      "name": "EN: Eragon (2006)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNu6QLUnKqPIjRA3pgEb5dkJye6.jpg"
+    },
+    {
+      "name": "EN: Elena and the Secret of Avalor (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dknXo3Ny4J97eBRs9XKVwQc8fH.jpg"
+    },
+    {
+      "name": "EN: Edward Scissorhands (1990)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg"
+    },
+    {
+      "name": "EN: Dragonheart: Vengeance (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qs6gz6atyQcAvqC6qZaslOjliUG.jpg"
+    },
+    {
+      "name": "EN: DragonHeart (1996)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J2FvxEoEKMFT9TjUdfhm0MJhZD.jpg"
+    },
+    {
+      "name": "EN: Donnie Darko (2001)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg"
+    },
+    {
+      "name": "EN: Casper (1995)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg"
+    },
+    {
+      "name": "EN: Book of Dragons (2011)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDHcJcMV28IaLLikRETxuHjKMVt.jpg"
+    },
+    {
+      "name": "EN: Blackbeard's Ghost (1968)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEMEjagTsdkUi7Jzxe0lQsquD7J.jpg"
+    },
+    {
+      "name": "EN: Beetlejuice (1988)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg"
+    },
+    {
+      "name": "EN: Bedtime Stories (2008)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0w4anZCzZX74deeQ3PE1byyg97.jpg"
+    },
+    {
+      "name": "EN: Batman (1989)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDexQyu6FWltcd0VhEDK7uib42f.jpg"
+    },
+    {
+      "name": "EN: A Troll in Central Park (1994)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYLuXK63588plP2WmmlZgAcYcEz.jpg"
+    },
+    {
+      "name": "EN: Into The Dark Treehouse 2019",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ww1PxKHZlBXAZVc4hSGiPPVQRLX.jpg"
+    },
+    {
+      "name": "EN: Yesterday (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rjaRIAqFPQNnMtqSMLtg0VEABi.jpg"
+    },
+    {
+      "name": "EN: What Men Want (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg"
+    },
+    {
+      "name": "EN: Wendy (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nphsStbtAuJ2IaXtCvDXDwMUF5N.jpg"
+    },
+    {
+      "name": "EN: To Your Last Death (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btV7OWc6IbjrwZiB75klmgi3CsY.jpg"
+    },
+    {
+      "name": "EN: The Shasta Triangle (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnvhfFxSUFUZ7hbfRsgW2PWhOlw.jpg"
+    },
+    {
+      "name": "EN: The Place of No Words (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI8TaFbkPoBSAQguujH0Hy81vPO.jpg"
+    },
+    {
+      "name": "EN: The Mortuary Collection (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WXeYnezavNI6hXH74aQYv6yFzj.jpg"
+    },
+    {
+      "name": "EN: The Last Boy (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o5WVpjAffERCTkrAmpqNlieAMz.jpg"
+    },
+    {
+      "name": "EN: The Huntress: Rune of the Dead (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiQcXvOgw9HjlaEufrNEG7amK15.jpg"
+    },
+    {
+      "name": "EN: The Hill and the Hole 2019",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: The Field (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqfdPfBPh2SAFH1hGAIXI9CvXh8.jpg"
+    },
+    {
+      "name": "EN: The Demonologist (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mplI0Z0Oum8fFVs3Jdak0Xymcq5.jpg"
+    },
+    {
+      "name": "EN: The Dead Don't Die (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndvOjo7Nfk8ULnFLMXthPzhI62L.jpg"
+    },
+    {
+      "name": "EN: Temenggor (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EPU0UvTOVT00tKDfqCdBtKiCaW.jpg"
+    },
+    {
+      "name": "EN: Sweet Taste of Souls (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/87jR36jlYnYNXWGY3pXlSaUxyKC.jpg"
+    },
+    {
+      "name": "EN: Stray (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VYEwxLO6fxvCJECXeCghDcZPD0.jpg"
+    },
+    {
+      "name": "EN: Southbound (2015)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7ulgzZE2lILFOGovXhnNfG0np.jpg"
+    },
+    {
+      "name": "EN: Siberia (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSCjeSAkdrAyi3XDIrNWpMsH5oP.jpg"
+    },
+    {
+      "name": "EN: She Never Died (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYBmZJHctNZnmRfQhY1yA2Bhrnz.jpg"
+    },
+    {
+      "name": "EN: Shedding (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbXY2iJ2kQ5QfwFZ9bBBgobiXIp.jpg"
+    },
+    {
+      "name": "EN: Shadowplay (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/keC7Z5wL6JAlL6iEAC0SK1hIvVR.jpg"
+    },
+    {
+      "name": "EN: Royal Opera House Live Cinema Season 2020",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Ron Hopper's Misfortune (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5k7tio2mlY57Jt8mCqFLWVxdECx.jpg"
+    },
+    {
+      "name": "EN: Puppet Master: Axis Termination (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hE4wGidAJ2yppEkZsY7QmWHJaWR.jpg"
+    },
+    {
+      "name": "EN: Phantasm: Ravager (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfZPcIYyVX2LW799SWxLFcTWQxa.jpg"
+    },
+    {
+      "name": "EN: Pet Graveyard (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj8vYLY5yrJC8AgNsLgJc5e1IY3.jpg"
+    },
+    {
+      "name": "EN: Personal Shopper (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6X7RXmJytCtKX8d5gnRg6kBgFCc.jpg"
+    },
+    {
+      "name": "EN: Paradox (2018)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEvWTCEZUIqSJ12n4mOVAxid0x3.jpg"
+    },
+    {
+      "name": "EN: Ouija Craft (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BwPmBSmj2cuYxyihOxXc4DFFXC.jpg"
+    },
+    {
+      "name": "EN: One & Two (2015)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc70oCMrHE8hE9EOGdYZ7GjPZfn.jpg"
+    },
+    {
+      "name": "EN: Mythica: The Godslayer (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKRYgOQwMOzKefC1INoLq9cXmTJ.jpg"
+    },
+    {
+      "name": "EN: Mosley (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZajJ1ymE3HtbAAB3q9hN0P6y12.jpg"
+    },
+    {
+      "name": "EN: Mine (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfQV6nTH6zpvhmdcTOoBR2Q4Z2M.jpg"
+    },
+    {
+      "name": "EN: Look Away (2018)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WTEFOwFBx0mHurnEfv27I0FOe2.jpg"
+    },
+    {
+      "name": "EN: Leprechaun Returns (2018)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kToQsV04Jel1ob7VJ471LDz7wD.jpg"
+    },
+    {
+      "name": "EN: Knights of the Damned (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfNHif8aWoSMRveotz3ilQDdN7j.jpg"
+    },
+    {
+      "name": "EN: Killer Sofa (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRA71SDccp0VJicyeOdC070LSxA.jpg"
+    },
+    {
+      "name": "EN: Justice League (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eifGNCSDuxJeS1loAXil5bIGgvC.jpg"
+    },
+    {
+      "name": "EN: Jumanji: The Next Level (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg"
+    },
+    {
+      "name": "EN: Jingle Jangle: A Christmas Journey (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RbyHIVydD3Krmec1LlUV7rRjet.jpg"
+    },
+    {
+      "name": "EN: Isn't It Romantic (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg"
+    },
+    {
+      "name": "EN: Incarnate (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j8PLnghBHpDEGfANNh8wc5cT4F.jpg"
+    },
+    {
+      "name": "EN: In Bright Axiom (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnXN4bou7Z4tefHvazBgfFCapnx.jpg"
+    },
+    {
+      "name": "EN: I Kill Giants 2017",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg"
+    },
+    {
+      "name": "EN: Hubie Halloween (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbhC6qRydXyRmpUdcl9bL9rARya.jpg"
+    },
+    {
+      "name": "EN: House of the Witch (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg6xjZOnGsYYqC7SH3o8oJV9Vr1.jpg"
+    },
+    {
+      "name": "EN: Holidays (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qndlHSuAaGwBKpWAUt6gX3RRuzb.jpg"
+    },
+    {
+      "name": "EN: Heavenquest: A Pilgrim's Progress (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLDPLia17AwMqSaRHccyAlInkch.jpg"
+    },
+    {
+      "name": "EN: Godmothered (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg"
+    },
+    {
+      "name": "EN: Full Count (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/99u0Xeblx67Wl80xY8dcMu6lvgj.jpg"
+    },
+    {
+      "name": "EN: Fantastic Beasts: The Crimes of Grindelwald (2018)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"
+    },
+    {
+      "name": "EN: Extra Ordinary (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3IRiGKXx2eMhxtV8GktKwvWkhm.jpg"
+    },
+    {
+      "name": "EN: Everything Beautiful Is Far Away (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/71KHPoAOTeOiIpgelNkXCwSkU5p.jpg"
+    },
+    {
+      "name": "EN: Elfette Saves Christmas (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DEjqBWLcpt2gouYovGE1KdMhZG.jpg"
+    },
+    {
+      "name": "EN: Dreamland (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg"
+    },
+    {
+      "name": "EN: Dracula in Love (2018)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLexTw5yhZHcWX5XCqKOdy10FTB.jpg"
+    },
+    {
+      "name": "EN: Downsizing (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg"
+    },
+    {
+      "name": "EN: Diggerz: Black Lung Rises 2017",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Deep Dark (2015)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/70uYzteSBvlBbo99vMv9pjz7bzv.jpg"
+    },
+    {
+      "name": "EN: Day of the Stranger 2019",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/p9YCuvdSPgtHg1UZktFFF7vM2jq.jpg"
+    },
+    {
+      "name": "EN: Daniel Isn't Real (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFYYFEhKS6JZvNW7gXeKeqnbcS7.jpg"
+    },
+    {
+      "name": "EN: Cubby (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3ppUCPfoYAHt8NylHnrvNBoKvw.jpg"
+    },
+    {
+      "name": "EN: Crimson Peak (2015)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6lDR5EQuOwNwl9Ni5ROEVNXYbw.jpg"
+    },
+    {
+      "name": "EN: Compulsion (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fPZ50FDA0J3EamkP3g371rewNg.jpg"
+    },
+    {
+      "name": "EN: Come Away (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwa0DgR2tHMouIDTJWje2k7Pp30.jpg"
+    },
+    {
+      "name": "EN: Closet Monster 2015",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mJYAloVKf20Ko5OE9F9VSfAvmXY.jpg"
+    },
+    {
+      "name": "EN: Clay's Redemption (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oVLpASA4Smo5MPcnegJAZhpSbQ.jpg"
+    },
+    {
+      "name": "EN: Carmilla 2019",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jeVujtPRWHSusWGcNJ68BZYKIB1.jpg"
+    },
+    {
+      "name": "EN: By the Sea (2015)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DVkCwOkTJDYgwc2WETXTcuFXVh.jpg"
+    },
+    {
+      "name": "EN: Berserk (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvNHwt5yOmIiKewelFBf5HB0tac.jpg"
+    },
+    {
+      "name": "EN: Before I Fall (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eowzonDJMCuNXoJGVkP9Z7oCmiM.jpg"
+    },
+    {
+      "name": "EN: Beauty and the Beast (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWqifoYuwLETmmasnGHO7xBjEtt.jpg"
+    },
+    {
+      "name": "EN: Ayla (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qJd7Fau4Ngw0XkyFjiAhFNDaeF.jpg"
+    },
+    {
+      "name": "EN: Apostle (2018)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg"
+    },
+    {
+      "name": "EN: Alien Showdown: The Day the Old West Stood Still (2013)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJ3XV72QtgXVRqje8lmU1aMKk84.jpg"
+    },
+    {
+      "name": "EN: A Kind Of Magic 2015",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/b2G8efmhPl8hXtQCCmWXNuXRjF6.jpg"
+    },
+    {
+      "name": "EN: A Heavenly Christmas (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFXXlWKUaD1CRC4g2lpaBYJTkl.jpg"
+    },
+    {
+      "name": "EN: A Ghost Story (2017)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rp5JPIyZi9sMob15l46zNQLe5cO.jpg"
+    },
+    {
+      "name": "EN: Agent Toby Barks (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jblQfeQnXesISWRn2ZzoRBBn20D.jpg"
+    },
+    {
+      "name": "EN: A Fiend's Love (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOKvwqZEAu8YuWYOfGLou91qPVt.jpg"
+    },
+    {
+      "name": "EN: Adrenochrome 2017",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: A Dark Song (2016)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fguce8M1bZnWjVkRWCFh9P3kt6A.jpg"
+    },
+    {
+      "name": "EN: A Cure For Wellness 2016",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/8QWJtne0pTsNoJ86KE993aQYTLW.jpg"
+    },
+    {
+      "name": "EN: A Cinderella Story: Christmas Wish (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozBX0u5caaJFli9AssqJmARb5R.jpg"
+    },
+    {
+      "name": "EN: A Christmas Movie Christmas (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5H9Xvprh7PU1rFTGm2ZcnbaeP7s.jpg"
+    },
+    {
+      "name": "EN: A Christmas Horror Story (2015)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdzzFho1wZFvrDFcdg2r3wwMUSJ.jpg"
+    },
+    {
+      "name": "EN: A Christmas Hero (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXHIEr6cBSL88JNg2RN0YKQedba.jpg"
+    },
+    {
+      "name": "EN: A Christmas Carol (2018)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdcxUe43hmgp9MGiL8LpIaDzaHj.jpg"
+    },
+    {
+      "name": "EN: A Christmas Cancellation (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9FMJDgIdf325uwTSYz0mjp3FTQ.jpg"
+    },
+    {
+      "name": "EN: Above the Shadows (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FrGhwhyZdNtdZRXS6jQbFw9KYB.jpg"
+    },
+    {
+      "name": "EN: Abnormal Attraction (2018)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JuKQfbbzge3Iyk5c6hcIOmeQFD.jpg"
+    },
+    {
+      "name": "EN: Abigail (2019)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ggf38fEAhOCdgvfLOfUcfEQTQT.jpg"
+    },
+    {
+      "name": "EN: A Babysitter's Guide to Monster Hunting (2020)",
+      "group": "EN - Fantsy Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkld8Me0WiLWipLORRNfF1yIPHu.jpg"
+    }
+  ]
+}

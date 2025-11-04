@@ -1,0 +1,978 @@
+{
+  "package": "world",
+  "name": "AL - Animation Movies",
+  "groupIndex": 225,
+  "totalChannels": 194,
+  "channels": [
+    {
+      "name": "AL: Goodbye, Don Glees! (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42bRH1aEUge6Iia7yS18XV3Wpjg.jpg"
+    },
+    {
+      "name": "AL: Cars (2006)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg"
+    },
+    {
+      "name": "AL: The Magician's Elephant (2023)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg"
+    },
+    {
+      "name": "AL: Mummies (2023)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVdrYN8qu7xUtsdEFeGiIVIaYd.jpg"
+    },
+    {
+      "name": "AL: Scrooge: A Christmas Carol (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyGb5JpEYMEqDDjfJKLEvPTVSjK.jpg"
+    },
+    {
+      "name": "AL: One Piece: Stampede (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E2lyUGLEr3yH4q6kJxPkQUhX7n.jpg"
+    },
+    {
+      "name": "AL: Pil's Adventures (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg"
+    },
+    {
+      "name": "AL: Spycies (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfrB9E1hiXU4D4Axw4DpIZtUqRf.jpg"
+    },
+    {
+      "name": "AL: Paws of Fury: The Legend of Hank  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vccE9bBa9mgghFpkWzU1fQqmOKB.jpg"
+    },
+    {
+      "name": "AL: Chickenhare and the Hamster of Darkness  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg"
+    },
+    {
+      "name": "AL: The Sea Beast  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ro3uuFrRxPI8bm6x9IavCr3nbCX.jpg"
+    },
+    {
+      "name": "AL: DC League of Super-Pets (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7XifzvtezNt31ypvsmb6Oqxw49.jpg"
+    },
+    {
+      "name": "AL: Luck (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HOYvwGFioUFL58UVvDRG6beEDm.jpg"
+    },
+    {
+      "name": "AL: Marmaduke (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMUhBeMp0vLQzaPBX0izFdnFvh0.jpg"
+    },
+    {
+      "name": "AL: Minions: The Rise of Gru  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg"
+    },
+    {
+      "name": "AL: Kung Food  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6buudUgQkcUE4w4Z3JDZJSqoUE.jpg"
+    },
+    {
+      "name": "AL: Dragon Ball Super: Super Hero  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg"
+    },
+    {
+      "name": "AL: Dante's Inferno: An Animated Epic  (2010)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HEKlPhoji9i6mJAImI1A98KNzv.jpg"
+    },
+    {
+      "name": "AL: Chip 'n Dale: Rescue Rangers  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
+    },
+    {
+      "name": "AL: Green Lantern: Beware My Power  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nS41LN1m2HYvVotvgOTcbPW2cjL.jpg"
+    },
+    {
+      "name": "AL: The Bad Guys  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg"
+    },
+    {
+      "name": "AL: Lightyear  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpILbP9eOQEtdQgl4vgjZUNY07r.jpg"
+    },
+    {
+      "name": "AL: Finding Nemo  (2003)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg"
+    },
+    {
+      "name": "AL: King Tweety (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg"
+    },
+    {
+      "name": "AL: The Breadwinner  (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg"
+    },
+    {
+      "name": "AL: Apollo 10½:  A Space Age Childhood  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/43EQZnWP9znGqTKfO4BsPALXVYa.jpg"
+    },
+    {
+      "name": "AL: Despicable Me 2  (2013)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg"
+    },
+    {
+      "name": "AL: My Sweet Monster  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/liOaKUsIMHG38rve1UtndQlsNkN.jpg"
+    },
+    {
+      "name": "AL: Turning Red  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
+    },
+    {
+      "name": "AL: Checkered Ninja 2  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg"
+    },
+    {
+      "name": "AL: Mobile Suit Gundam Hathaway  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gw8onh4FKsruBA7Oouv01EFxzn.jpg"
+    },
+    {
+      "name": "AL: Puff: Wonders of the Reef  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jW7VXaI955lIfegDlB0F5OShbP.jpg"
+    },
+    {
+      "name": "AL: Missing Link (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEkKHiiQRVUSX15Iwo8VFydXrtu.jpg"
+    },
+    {
+      "name": "AL: The Angry Birds Movie 2 (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg"
+    },
+    {
+      "name": "AL: Wonder Park (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KomINZhIuJeB4oB7k7tkq8tmE.jpg"
+    },
+    {
+      "name": "AL: Despicable Me (2010)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSAlb4C7UKeMSES18rCCCgSUc2Z.jpg"
+    },
+    {
+      "name": "AL: Lego DC Batman: Family Matters  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPdlrMbdxt4lct9gO43KxUvfENw.jpg"
+    },
+    {
+      "name": "AL: Sing 2  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg"
+    },
+    {
+      "name": "AL: Fireheart  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmD0vZk8jQg1Suhs0iv9cj0xdtZ.jpg"
+    },
+    {
+      "name": "AL: Rumble  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVKfyo2YQ1Sf0fKzZfc5t9HM6eK.jpg"
+    },
+    {
+      "name": "AL: Even Mice Belong in Heaven  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlou8vRlocYqqWFUDvjQa6Y47zA.jpg"
+    },
+    {
+      "name": "AL: Encanto (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
+    },
+    {
+      "name": "AL: Dragon Ball Super: Broly  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f03YksE4NggUjG75toz4H1YAGRf.jpg"
+    },
+    {
+      "name": "AL: Batman vs. Teenage Mutant Ninja Turtles  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg"
+    },
+    {
+      "name": "AL: The Ice Age Adventures of Buck Wild  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg"
+    },
+    {
+      "name": "AL: Avengers Confidential: Black Widow & Punisher (2014)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRBXP91ATK5j1u0ibvrQLbxQr8c.jpg"
+    },
+    {
+      "name": "AL: Back to the Outback (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg"
+    },
+    {
+      "name": "AL: Seal Team (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPZ3I27oeSm4zVesgMxXlhW8GDe.jpg"
+    },
+    {
+      "name": "AL: Space Dogs: Tropical Adventure (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIqmN3UZZKHNMXK5YJmRPAftxOk.jpg"
+    },
+    {
+      "name": "AL: Planes: Fire",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOmteFeBDI9FJOPTDvYJYFeAtdp.jpg"
+    },
+    {
+      "name": "AL: Hotel Transylvania: Transformania  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg"
+    },
+    {
+      "name": "AL: Tom and Jerry: Cowboy Up!  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg"
+    },
+    {
+      "name": "AL: The House  (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZjMFSKCrleKolC1gYcz5Rs8bk1.jpg"
+    },
+    {
+      "name": "AL: The Monkey King: Reborn  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/67YXOoKGODyGvJXfXzVmgHNXYh8.jpg"
+    },
+    {
+      "name": "AL: K: Missing Kings (2014)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEeNmNcjZvUOOpzr4pNR7TA8x7u.jpg"
+    },
+    {
+      "name": "AL: Ron's Gone Wrong (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gq9sEE2iDRqKx8OiZP6mYSTq4.jpg"
+    },
+    {
+      "name": "AL: A Wizard's Tale (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/azvZPjrMOfQyIdNL7wyHSztAGqq.jpg"
+    },
+    {
+      "name": "AL: Norm of the North: King Sized Adventure  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kapQqDwTSQgbAPQEd4n03vaNQH9.jpg"
+    },
+    {
+      "name": "AL: Hoodwinked Too! Hood VS. Evil  (2011)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MEb1GH68lZnBAraRr3fBM5IgHF.jpg"
+    },
+    {
+      "name": "AL: The Secret Life of Pets 2  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3mKnSkzp1doIsCye6ap4KIUAbu.jpg"
+    },
+    {
+      "name": "AL: Avengers Confidential: Black Widow",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRBXP91ATK5j1u0ibvrQLbxQr8c.jpg"
+    },
+    {
+      "name": "AL: Bright: Samurai Soul  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i38XerbByKxr5DPGAoaoulJ9dLl.jpg"
+    },
+    {
+      "name": "AL: Diary of a Wimpy Kid  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjd2Izl3h8iEMejf9S3KbCP1DsY.jpg"
+    },
+    {
+      "name": "AL: Monster Family  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3xY0tCI05iUmm8M7fAkKtqGPXM.jpg"
+    },
+    {
+      "name": "AL: Back to the Outback  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg"
+    },
+    {
+      "name": "AL: Monster Family 2  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/em2NLSbVj49NjpdqmaKYuqKYZET.jpg"
+    },
+    {
+      "name": "AL: Trolls Holiday  (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioEv9lRn2IXIu0Dbfo9Qyo2IKhD.jpg"
+    },
+    {
+      "name": "AL: The Lion King  (1994)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+    },
+    {
+      "name": "AL: Frozen  (2013)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg"
+    },
+    {
+      "name": "AL: Batman: Hush (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg"
+    },
+    {
+      "name": "AL: Mosley (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSCXNO87YYjQAyckLrFQhELzaL0.jpg"
+    },
+    {
+      "name": "AL: The Polar Express (2004)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg"
+    },
+    {
+      "name": "AL: Gnomeo & Juliet (2011)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg"
+    },
+    {
+      "name": "AL: The Addams Family 2  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg"
+    },
+    {
+      "name": "AL: Ainbo: Spirit of the Amazon  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg"
+    },
+    {
+      "name": "AL: The Witcher: Nightmare of the Wolf  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg"
+    },
+    {
+      "name": "AL: Fist of the North Star: The Legend of Yuria (2007)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vj8Td4OYEAyWi96TpLqLAjqg0b.jpg"
+    },
+    {
+      "name": "AL: Batman: Death in the Family (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg"
+    },
+    {
+      "name": "AL: LEGO Star Wars Terrifying Tales  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg"
+    },
+    {
+      "name": "AL: Muppets Haunted Mansion  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg"
+    },
+    {
+      "name": "AL: Deathstroke: Knights",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFIHbiy55smzi50RmF8LQjmpGcx.jpg"
+    },
+    {
+      "name": "AL: Mortal Kombat Legends: Battle of the Realms  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg"
+    },
+    {
+      "name": "AL: Gintama: The Very Final  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxBHS1PGebEN0lrFdk0o9FZY6Rn.jpg"
+    },
+    {
+      "name": "AL: The Pilgrim's Progress (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtfsNxAsDHElFvYHUc9Khwqg17Y.jpg"
+    },
+    {
+      "name": "AL: Vivo (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg"
+    },
+    {
+      "name": "AL: The Boss Baby: Family Business  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWStkK8bq9ixY3fc7y209ZleCoF.jpg"
+    },
+    {
+      "name": "AL: Trollhunters: Rise of the Titans  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg"
+    },
+    {
+      "name": "AL: The Adventures of Tintin  (2011)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKYkNro2btaWMsnYSuyqrBdHQo3.jpg"
+    },
+    {
+      "name": "AL: Smallfoot  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg"
+    },
+    {
+      "name": "AL: Luca  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTswp6KyDYKtvC52GbHagrZbGvD.jpg"
+    },
+    {
+      "name": "AL: Batman: The Long Halloween, Part Two  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5X1n5q08mZ7NpNpxehMFODxfNYq.jpg"
+    },
+    {
+      "name": "AL: Spirit Untamed (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4WaFHk9Vp1poc88X1szwFRtYc5.jpg"
+    },
+    {
+      "name": "AL: Extinct  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRnPT88iD5zgeUPjHqaZznrxk5m.jpg"
+    },
+    {
+      "name": "AL: Wish Dragon  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg"
+    },
+    {
+      "name": "AL: A Trash Truck Christmas  (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg"
+    },
+    {
+      "name": "AL: Henchmen  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddbcOYQaDbxH5R42DlrK7txVbIG.jpg"
+    },
+    {
+      "name": "AL: Batman: The Long Halloween, Part One  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvaB0jrzFXq07bUpox03k6qOAJu.jpg"
+    },
+    {
+      "name": "AL: PAW Patrol: The Movie  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg"
+    },
+    {
+      "name": "AL: Super Monsters Back to School  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hS65C4CdcIYBgO5rhWs564PByol.jpg"
+    },
+    {
+      "name": "AL: Boonie Bears: The Wild Life (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYk08R0bAY8v1QhePp3bwSbUpLp.jpg"
+    },
+    {
+      "name": "AL: Beyond the Edge (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwMJqbY9jzFOf3g7UgAquMRt8kF.jpg"
+    },
+    {
+      "name": "AL: 100% Wolf  (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg"
+    },
+    {
+      "name": "AL:  The Breadwinner  (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg"
+    },
+    {
+      "name": "AL:  Cold War  (1951)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H70eANgYPGQsi1CggY4gfcHI8J.jpg"
+    },
+    {
+      "name": "AL: Strangled Eggs (1961)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiY81ZQuxrMTBrmroxEwe6hITmQ.jpg"
+    },
+    {
+      "name": "AL: The Son of Bigfoot  (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg"
+    },
+    {
+      "name": "AL: Reign of the Supermen (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9TzqscNRUaG8HqEP3K1jUvi8pC.jpg"
+    },
+    {
+      "name": "AL: Sgt. Stubby: An American Hero  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7MiBAz8QlqKPuUfH5Uxxjo33AT.jpg"
+    },
+    {
+      "name": "AL: Harmony  (2015)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UbCB4riPmrMxANyR3Zhd1176Nc.jpg"
+    },
+    {
+      "name": "AL: Monster Pets: A Hotel Transylvania Short  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkokENeY5Ka30BFgWAqk14mbnGs.jpg"
+    },
+    {
+      "name": "AL: The Legend of Hei  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9f9KLWxTAUQhQF0AlZGbaTNAqY.jpg"
+    },
+    {
+      "name": "AL: The Death and Return of Superman  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdEhhPYsfIeWSNTfzHShHOkDfDD.jpg"
+    },
+    {
+      "name": "AL: LEGO Hero Factory: Rise of the Rookies (2010)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5MR7J85gcZz7QbH731kufV22WN.jpg"
+    },
+    {
+      "name": "AL: Asterix: The Secret of the Magic Potion  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmMq5ypRNJbWpdhC9aPjpdx1MMp.jpg"
+    },
+    {
+      "name": "AL: The Hunchback of Notre Dame II (2002)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbwmvaEPg4m2iS7IGwXuvUVAbns.jpg"
+    },
+    {
+      "name": "AL: Secret Magic Control Agency  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg"
+    },
+    {
+      "name": "AL: Dragon Rider  (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NFUGASK0tzjDYecChXrwZt4YNx.jpg"
+    },
+    {
+      "name": "AL: PAW Patrol: Jet to the Rescue  (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg"
+    },
+    {
+      "name": "AL: Ejen Ali: The Movie  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuJxfDeC9QrhoLDSeZx6ThxucYE.jpg"
+    },
+    {
+      "name": "AL: Attack on Titan: Chronicle (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10mGHIWt8TkMvnmSlqCChzigwFl.jpg"
+    },
+    {
+      "name": "AL: Zog  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko3AtKUsMK27LMJqpyW5uJk4FZh.jpg"
+    },
+    {
+      "name": "AL: Xico's Journey (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg"
+    },
+    {
+      "name": "AL: The Star (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJgtHL8Iecp5Ot1oBkMdBl32yPh.jpg"
+    },
+    {
+      "name": "AL: Godzilla: Planet of the Monsters  (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg"
+    },
+    {
+      "name": "AL: Abominable (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/20djTLqppfBx5WYA67Y300S6aPD.jpg"
+    },
+    {
+      "name": "AL: Lino (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d21rfVSBRvNbOk9m7K7UCgQhA2J.jpg"
+    },
+    {
+      "name": "AL: Lady and the Tramp  (1955)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//wXKeGea4htM7Yz3yo7hYXbs3FhV.jpg"
+    },
+    {
+      "name": "AL: Klaus  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//q125RHUDgR4gjwh1QkfYuJLYkL.jpg"
+    },
+    {
+      "name": "AL: Princess Mononoke  (1997)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//pdtzEreKvKAlqa2YEBaGwiA45V8.jpg"
+    },
+    {
+      "name": "AL: Gnome Alone  (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg"
+    },
+    {
+      "name": "AL: Frozen II  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//mINJaa34MtknCYl5AjtNJzWj8cD.jpg"
+    },
+    {
+      "name": "AL: Tom (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mYfGeHFDXO3dosBhJZtrdtYmip.jpg"
+    },
+    {
+      "name": "AL: Rio  (2011)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//i8QoA3gOrvhU7sfihVVneNqlBuS.jpg"
+    },
+    {
+      "name": "AL: Ice Age: Dawn of the Dinosaurs  (2009)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg"
+    },
+    {
+      "name": "AL: Ice Age: Continental Drift  (2012)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//6NSFKyOz7ppsd0KY6g4HInIZ53P.jpg"
+    },
+    {
+      "name": "AL: Raya and the Last Dragon  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg"
+    },
+    {
+      "name": "AL: The Queen's Corgi  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//xcl4vYTqqzwn3ihUpjCQz0jqhV3.jpg"
+    },
+    {
+      "name": "AL: Rock Dog  (2016)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//7RXi2afiNJGU8EB79SD8HYoSz4O.jpg"
+    },
+    {
+      "name": "AL: Minuscule 2: Mandibles from Far Away  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//QVglFM8WHuA5F07IMzFcKu6RXa.jpg"
+    },
+    {
+      "name": "AL: Onward  (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//f4aul3FyD3jv3v4bul1IrkWZvzq.jpg"
+    },
+    {
+      "name": "AL: Ne Zha  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//vhnxaQel1CwfcwLtCkTNpSdjte1.jpg"
+    },
+    {
+      "name": "AL: Magic Arch  (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//jOyuQvgyakZABLrl4oXRamBGEI6.jpg"
+    },
+    {
+      "name": "AL: Legend of Deification  (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//eDq4dGgNHxPbT3Y5S6mfymsQ0rQ.jpg"
+    },
+    {
+      "name": "AL: Ice Age: A Mammoth Christmas  (2011)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//kwLi6MLlVsPWMVB9gOpFo5n7HZR.jpg"
+    },
+    {
+      "name": "AL: Hotel Transylvania  (2012)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg"
+    },
+    {
+      "name": "AL: Coco  (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+    },
+    {
+      "name": "AL: Cinderella the Cat  (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//w9Kjd0FCsFSXfaodytCAxl0k2KI.jpg"
+    },
+    {
+      "name": "AL: The Addams Family  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg"
+    },
+    {
+      "name": "AL: Dead Space: Downfall  (2008)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//w8KNXRQF9UzplokFlDrNMt0FkW7.jpg"
+    },
+    {
+      "name": "AL: Super Bear  (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//xt64XxEgb38ZIPh45Y3ZddFYfOq.jpg"
+    },
+    {
+      "name": "AL: Batman: Soul of the Dragon  (2021)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//jzhbZZWHMOxVF9uz8lNilDEx8dl.jpg"
+    },
+    {
+      "name": "AL: Batman vs. Robin (2015)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//aGp9XDXmVM5lCKHWtgBC15S7XLr.jpg"
+    },
+    {
+      "name": "AL: Aladdin and the King of Thieves (1996)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg"
+    },
+    {
+      "name": "AL: Dragon Ball Super: Broly (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/f03YksE4NggUjG75toz4H1YAGRf.jpg"
+    },
+    {
+      "name": "AL: The Lego Ninjago Movie (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg"
+    },
+    {
+      "name": "AL: Ronal the Barbarian (2011)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//vT8m9Ji4mrUExpuIX0LGjMPHEHX.jpg"
+    },
+    {
+      "name": "AL: Superman: Red Son (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg"
+    },
+    {
+      "name": "AL: Batman: Gotham by Gaslight  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//7souLi5zqQCnpZVghaXv0Wowi0y.jpg"
+    },
+    {
+      "name": "AL: The Sword in the Stone (1963)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg"
+    },
+    {
+      "name": "AL: Teen Titans Go! vs. Teen Titans (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//GWJEdzVC9aOBSOMF9NHodYxSsE.jpg"
+    },
+    {
+      "name": "AL: Astro Kid (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//vwqEIL5SrsZFVvileNe9LuHbJy7.jpg"
+    },
+    {
+      "name": "AL: Soul (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//zSuRX1VmT0PwuHVV7zl4n1mwdL0.jpg"
+    },
+    {
+      "name": "AL: Olaf's Frozen Adventure (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//As8WTtxXs9e3cBit3ztTf7zoRmm.jpg"
+    },
+    {
+      "name": "AL: Batman Ninja  (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg"
+    },
+    {
+      "name": "AL: One Piece Film: GOLD  (2016)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies//OAXCENRg0smntp0uPhTQMPxs0O.jpg"
+    },
+    {
+      "name": "AL: To: Gerard (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/8tcZ1jNgXHUHfo8PuJdqIhxTYNf.jpg"
+    },
+    {
+      "name": "AL: Mazinger Z: The Movie  (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/zqNVnYszL40BNVtN4oeepDmepWv.jpg"
+    },
+    {
+      "name": "AL: UglyDolls (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p97LQ1TL95mptVL2AS8Rz1cJCQg.jpg"
+    },
+    {
+      "name": "AL: The Larva Island Movie (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg"
+    },
+    {
+      "name": "AL: The Willoughbys (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/9WrMmjdZvpxLQh1tCQ9tOd1asOb.jpg"
+    },
+    {
+      "name": "AL: Scoob! (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg"
+    },
+    {
+      "name": "AL: Dreambuilders (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmCGAiPrtW2EbumW3UGoRUiSP4V.jpg"
+    },
+    {
+      "name": "AL: LEGO DC: Shazam! Magic and Monsters (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/ziIyuNNNwYqv0qbOpV9VvvdnRBb.jpg"
+    },
+    {
+      "name": "AL: Sherlock Gnomes (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg"
+    },
+    {
+      "name": "AL: Ella Bella Bingo (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg"
+    },
+    {
+      "name": "AL: Trolls World Tour (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg"
+    },
+    {
+      "name": "AL: Mortal Kombat Legends: Scorpion's Revenge (2020)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/4VlXER3FImHeFuUjBShFamhIp9M.jpg"
+    },
+    {
+      "name": "AL: I Lost My Body (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/z5dXCywyo8zEPNDkeQY7nbvkrz8.jpg"
+    },
+    {
+      "name": "AL: Maya the Bee: The Honey Games (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/my34w43Z0l2XGvpHiAOYkTm6M8P.jpg"
+    },
+    {
+      "name": "AL: Inside Out (2015)",
+      "group": "AL - Animation Movies",
+      "logo": "http://logo.protv.cc/images/movies/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg"
+    },
+    {
+      "name": "AL: Minions: The Rise of Gru (2022)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg"
+    },
+    {
+      "name": "AL: Mary and the Witch's Flower (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lq3OJQiJ8hlCr23LAdHbeU3eqBF.jpg"
+    },
+    {
+      "name": "AL: Luis and the Aliens (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oq7s5ru4hjp83mi4fWSJ0L7yUA.jpg"
+    },
+    {
+      "name": "AL: Lego DC Batman: Family Matters (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPdlrMbdxt4lct9gO43KxUvfENw.jpg"
+    },
+    {
+      "name": "AL: Klaus (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q125RHUDgR4gjwh1QkfYuJLYkL.jpg"
+    },
+    {
+      "name": "AL: Justice League: The Flashpoint Paradox (2013)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmpE3mfhv0NOnI872q66kuuGeZW.jpg"
+    },
+    {
+      "name": "AL: Ice Age: A Mammoth Christmas (2011)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwLi6MLlVsPWMVB9gOpFo5n7HZR.jpg"
+    },
+    {
+      "name": "AL: How to Train Your Dragon: The Hidden World (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+    },
+    {
+      "name": "AL: Goldie (2019)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc7wc8oBbeGkB0bLHCpAgne6BHp.jpg"
+    },
+    {
+      "name": "AL: Gnome Alone (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg"
+    },
+    {
+      "name": "AL: Frozen (2013)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yald8Lsb4uCRvjIH3spzR84Kdwf.jpg"
+    },
+    {
+      "name": "AL: Duck Duck Goose (2018)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XURM64DYa9DpS70I2rM4suvq1s.jpg"
+    },
+    {
+      "name": "AL: Coco (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+    },
+    {
+      "name": "AL: Burn Out (2017)",
+      "group": "AL - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Syk3aavoOpFjZhH5MamYnJruIA.jpg"
+    }
+  ]
+}

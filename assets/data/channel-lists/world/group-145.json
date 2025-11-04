@@ -1,0 +1,18 @@
+{
+  "package": "world",
+  "name": "USA - NBA - Events.",
+  "groupIndex": 145,
+  "totalChannels": 2,
+  "channels": [
+    {
+      "name": "USA | NHL Game 02ⓧ: Los Angeles Kings vs Philadelphia Flyers | Thu Dec 19th 7:30PM  (101-SERVERS)",
+      "group": "USA - NBA - Events.",
+      "logo": "http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png"
+    },
+    {
+      "name": "USA | NBA TV  (101-SERVERS)",
+      "group": "USA - NBA - Events.",
+      "logo": "https://logo.m3uassets.com/nbatv.png"
+    }
+  ]
+}

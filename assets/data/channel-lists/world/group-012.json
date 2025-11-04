@@ -1,0 +1,198 @@
+{
+  "package": "world",
+  "name": "CO - Colombia - Live.",
+  "groupIndex": 12,
+  "totalChannels": 38,
+  "channels": [
+    {
+      "name": "CO: WIN Sport HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/15283706041.png"
+    },
+    {
+      "name": "CO: WIN Sports + HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/winsports.png"
+    },
+    {
+      "name": "CO: Canal 1 (movil) HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/canal1.png"
+    },
+    {
+      "name": "CO: Canal 1 SD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/canal1.png"
+    },
+    {
+      "name": "CO: Canal 1 HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/canal1.png"
+    },
+    {
+      "name": "CO: Caracol SD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/caracol.png"
+    },
+    {
+      "name": "CO: Caracol HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/caracol.png"
+    },
+    {
+      "name": "CO: Caracol FULL HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/33583070401.png"
+    },
+    {
+      "name": "CO: Caracol INT HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/caracolint.png"
+    },
+    {
+      "name": "CO: RCN HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/rcn.png"
+    },
+    {
+      "name": "CO: RCN Nuestra TELE INT. SD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/63204206201.png"
+    },
+    {
+      "name": "CO: RCN Nuestra TELE INT. FHD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/96751704721.png"
+    },
+    {
+      "name": "CO: RCN Novelas SD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/rcnnovelas.png"
+    },
+    {
+      "name": "CO: Teleantioquia (movil) HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/teleantioquia.png"
+    },
+    {
+      "name": "CO: Telecafe (movil) HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/telecafe.png"
+    },
+    {
+      "name": "CO: Telemedellin HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/telemedellin.png"
+    },
+    {
+      "name": "CO: Telecaribe (movil) HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/telecaribe.png"
+    },
+    {
+      "name": "CO: Telecaribe HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/telecaribe.png"
+    },
+    {
+      "name": "CO: Canal Capital HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/canalcapital.png"
+    },
+    {
+      "name": "CO: Suram TV HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/suramtv.png"
+    },
+    {
+      "name": "CO: Ntn24 HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/ntn24.png"
+    },
+    {
+      "name": "CO: Pasiones HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/pasiones.png"
+    },
+    {
+      "name": "CO: Cable Noticias FHD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/cablenoticias.png"
+    },
+    {
+      "name": "CO: Canal Institucional HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/canalinstitucional.png"
+    },
+    {
+      "name": "CO: CITY TV (movil) HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/citytv.png"
+    },
+    {
+      "name": "CO: Señal Colombia SD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54655704151.png"
+    },
+    {
+      "name": "CO: TV AGRO HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/tvagro.png"
+    },
+    {
+      "name": "CO: Telepacifico (movil) HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/telepacifico.png"
+    },
+    {
+      "name": "CO: Telepacifico HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/telepacifico.png"
+    },
+    {
+      "name": "CO: Teleisla SD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/teleisla.png"
+    },
+    {
+      "name": "CO: Canal Mundo + HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/83420463221.png"
+    },
+    {
+      "name": "CL: FOX Sports 1 HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports1.png"
+    },
+    {
+      "name": "CO: CALI TV HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/calitv.png"
+    },
+    {
+      "name": "CO: Canal TRO HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/canaltro.png"
+    },
+    {
+      "name": "CO: Caracol HD *^  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/caracol.png"
+    },
+    {
+      "name": "CO: DirecTV Sports PLUS HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/directvsportsplus.png"
+    },
+    {
+      "name": "CO: Musica Tropical HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/55832761841.png"
+    },
+    {
+      "name": "CO: EL Gourmet HD  (101-SERVERS)",
+      "group": "CO - Colombia - Live.",
+      "logo": "https://logo.m3uassets.com/elgourmet.png"
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "package": "world",
+  "name": "ES - TERROR Spain Movies",
+  "groupIndex": 310,
+  "totalChannels": 120,
+  "channels": [
+    {
+      "name": "ES: 30 Dias de Oscuridad 2 : Tinieblas (2007)",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://pics.filmaffinity.com/30_days_of_night_dark_days_aka_30_days_of_night_2-157778589-large.jpg"
+    },
+    {
+      "name": "ES| Zombi (El Amanecer De Los Muertos Vivientes)",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fT7qwRHlDfnIXK4su8DKFxbsiQk.jpg"
+    },
+    {
+      "name": "ES| Viernes 13: Jason Se Va Al Infierno",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aacq05foqiWdXqetFv02HBvMoJy.jpg"
+    },
+    {
+      "name": "ES| Viernes 13  Último Capítulo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYSBsTqBR1FGBnahTf3ACyRM3gn.jpg"
+    },
+    {
+      "name": "ES| Viernes 13  Parte VIII: Jason Vuelve    Para Siempre",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVvP2woMRNNXe70fqTCo78co96V.jpg"
+    },
+    {
+      "name": "ES| Viernes 13  Parte V: Un Nuevo Comienzo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrq4ZiZs1YoJwO56cdjKibWdD10.jpg"
+    },
+    {
+      "name": "ES| Viernes 13",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoahbWHgcnqOLqGds4pDHGcBbIV.jpg"
+    },
+    {
+      "name": "ES| Viernes 13  7ª Parte: Sangre Nueva",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tyr422N8ivi9TfA9BAP896Z6Q.jpg"
+    },
+    {
+      "name": "ES| Viernes 13  6ª Parte: Jason Vive",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9RFv2Ulev2lpnQVDHEcTVFon7v.jpg"
+    },
+    {
+      "name": "ES| Viernes 13, Parte III",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/isCTWFTrfnSvkmG0LR8lq6gh3n5.jpg"
+    },
+    {
+      "name": "ES| Viernes 13, 2ª Parte",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/W3P5bfp8vDJ0HXG5o35sJ5avMj.jpg"
+    },
+    {
+      "name": "ES| Troll 2",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EGX5hYKsHSzCvfUR5vP3rCx2Mz.jpg"
+    },
+    {
+      "name": "ES| Tiburón 2",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCrSQ0LbXjUgDq8mZ2v6UJdHYh7.jpg"
+    },
+    {
+      "name": "ES| The Relic",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwadi7bjB3Hfcz2HYlhxEy4n4n.jpg"
+    },
+    {
+      "name": "ES| Tesis",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf1NejHlvxTczOBG17ix6zuQCrT.jpg"
+    },
+    {
+      "name": "ES| Terroríficamente Muertos",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mD0n1FS5LopoKj3icqFyZE4x3lx.jpg"
+    },
+    {
+      "name": "ES| Sé Lo Que Hicisteis El último Verano",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKdxB1HLc0akXBZBrZ48z8HrfFO.jpg"
+    },
+    {
+      "name": "ES| Stigmata",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZEIEu74rZuwuH8fBepNjBKvpvL.jpg"
+    },
+    {
+      "name": "ES| Sssssss: Silbido De Muerte",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIKiHta0LrDpb2f80u7ybPFesoy.jpg"
+    },
+    {
+      "name": "ES| Scanners 3: El Poder De La Mente",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJGgTHSVynC8xzIh4Lw8nIGhDj0.jpg"
+    },
+    {
+      "name": "ES| Scanners 2: El Nuevo Orden",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggCNKSy8wYv6nRuIzs6bW1L3XNJ.jpg"
+    },
+    {
+      "name": "ES| Rawhead Rex",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lNmuetVDdX3vf5Lwd4naAe7eWJ.jpg"
+    },
+    {
+      "name": "ES| Ravenous",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tJc9vIVYctNCajC1dU1oVcmIsD.jpg"
+    },
+    {
+      "name": "ES| Puppet Master V",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqA1w7IwFCwA4fAD9R8vwOm1w5l.jpg"
+    },
+    {
+      "name": "ES| Psicosis IV: El Comienzo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9XSpqHFeK0ZS99ItSv8jUUe0vY.jpg"
+    },
+    {
+      "name": "ES| Psicosis III",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNvRt7i4UUKNlh5zxyrQOcEoTji.jpg"
+    },
+    {
+      "name": "ES| Psicosis II: El Regreso De Norman",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4PRC48MuDaOddqNJVgBWgOb5MA.jpg"
+    },
+    {
+      "name": "ES| Profecía Maldita",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jCyz5IRWmu8R5FhRO2BqtQXnCj.jpg"
+    },
+    {
+      "name": "ES| Posesión Infernal",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ezls062PrIaSzds2JKqZ5UYiC.jpg"
+    },
+    {
+      "name": "ES| Phantoms",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu6deVz7U1i6bm1SnxSs1UEVFk0.jpg"
+    },
+    {
+      "name": "ES| Phantasma IV: Apocalipsis",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArGUncJXZhMIDQnwmTVxsNctdaW.jpg"
+    },
+    {
+      "name": "ES| Phantasma III: El Pasaje Del Terror",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lR2xsEiFnqLzhPRvaIce5Xmkz3h.jpg"
+    },
+    {
+      "name": "ES| Phantasma",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mleYNQ7TyxgaTkKC3BpsqIMDPF5.jpg"
+    },
+    {
+      "name": "ES| La Nueva Pesadilla De Wes Craven",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tvu6MoAKEsITQeGhBUQq9BmCk1.jpg"
+    },
+    {
+      "name": "ES| Pesadilla Final: La Muerte De Freddy (Pesadilla En Elm Street 6)",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq8Q4SwqIvu2lBPxzMxRu5E6IA1.jpg"
+    },
+    {
+      "name": "ES| Pesadilla En Elm Street 5: El Niño De Los Sueños",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2Vys942SiZIMYf1jckOj9nI6n8.jpg"
+    },
+    {
+      "name": "ES| Pesadilla En Elm Street 4: El Amo Del Sueño",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssHmDBdbNDtWpVuZ9Zk4W0VWm1c.jpg"
+    },
+    {
+      "name": "ES| Pesadilla En Elm Street 3: Los Guerreros Del Sueño",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zUOyVY0cvDHOOUGr3k2bXrN9L0.jpg"
+    },
+    {
+      "name": "ES| Pesadilla En Elm Street 2: La Venganza De Freddy",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D837ivB8EHQMRTlvUBe7ahbUCP.jpg"
+    },
+    {
+      "name": "ES| Pesadilla En Elm Street",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5LGy3TK6nMcXfefxucjaBnLjg5.jpg"
+    },
+    {
+      "name": "ES| Persecución Mortal",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "ES| Noche de miedo II",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "http://line.megacdn.live:80/images/fC2igspjsuQipAweNskQG7xB2qk_big.jpg"
+    },
+    {
+      "name": "ES| Noche De Miedo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nntYWaIjwpizToiB5t9CxPlM5s.jpg"
+    },
+    {
+      "name": "ES| Muñeco Diabólico 3",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1tu1F0z53Lrcs3NsVOGPDRefqR.jpg"
+    },
+    {
+      "name": "ES| Muñeco Diabólico 2",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mybLDG0hZ9iqSxxD0TAZDGjJZkf.jpg"
+    },
+    {
+      "name": "ES| Muñeco Diabólico",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg"
+    },
+    {
+      "name": "ES| Muerte A 33 R P M",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycCrGbfuOEcKSCwxQeKA1VEPs7O.jpg"
+    },
+    {
+      "name": "ES| Mondo Zombie",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqR7sL3G5kgezgw1HWsamTQyOh0.jpg"
+    },
+    {
+      "name": "ES| Miedo Azul",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52CvWYuJyWcMTPvsfcmsxaVHi7f.jpg"
+    },
+    {
+      "name": "ES| Los Viajeros De La Noche",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1sCOB0T2AedMYtY3yXo6a5I37j.jpg"
+    },
+    {
+      "name": "ES| Los Ritos Satánicos De Drácula",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ygMnpDIdmOcBJDG18Xz7ENcWSf.jpg"
+    },
+    {
+      "name": "ES| La última Casa A La Izquierda",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTT7XocGdSHs4WDtzZ1a1YnVk42.jpg"
+    },
+    {
+      "name": "ES| La Semilla Del Diablo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSek5n4LZo52Pl8He6Ron4PT2Uo.jpg"
+    },
+    {
+      "name": "ES| Las Colinas Tienen Ojos",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiPSDMZZrgG4axJYzI9l74DtEbB.jpg"
+    },
+    {
+      "name": "ES| La Novia De Chucky",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh99wVo11U6vbyePjl7EcGabVHs.jpg"
+    },
+    {
+      "name": "ES| La Noche Del Terror Ciego",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sibPcSOiEW2c6h1NERGDY1j5K5J.jpg"
+    },
+    {
+      "name": "ES| La Noche De Los Muertos Vivientes",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbicFO23YT3XitaPwHh2StYve6A.jpg"
+    },
+    {
+      "name": "ES| La Noche De Halloween",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v95lURdIFz4A6nqD7pcwv4IWj8H.jpg"
+    },
+    {
+      "name": "ES| La Mosca II",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXWzUFVRjfM4dK1Eu8m5pUv31BA.jpg"
+    },
+    {
+      "name": "ES| La Mosca",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lotsO2VRhsmeFKzqncMX9xrYMj6.jpg"
+    },
+    {
+      "name": "ES| La Matanza De Texas III",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCMEnRU8CLiA81FNdx9ToBTrNem.jpg"
+    },
+    {
+      "name": "ES| La Matanza De Texas",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOqMcW2TYN0WReTDpds93rkAYpR.jpg"
+    },
+    {
+      "name": "ES| La Maldición De Damien",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYRia8oAQHOxpDTEGnTExsibROU.jpg"
+    },
+    {
+      "name": "ES| La Casa De Los Horrores",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Xz1dMjVquCFo0abBtYkr5LwcVl.jpg"
+    },
+    {
+      "name": "ES| Jóvenes Ocultos",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDKqD9geYc7zQ7HMcmiGaqzN2HX.jpg"
+    },
+    {
+      "name": "ES| Inferno",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJL2hyaKKHQtguipNPJfcKGTnhh.jpg"
+    },
+    {
+      "name": "ES| Horizonte Final",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/khtaRRKWES9y9WYbj8tAINkOijG.jpg"
+    },
+    {
+      "name": "ES| Historias De La Cripta: Caballero Del Diablo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uD5yk0ECebJ59lhvhTBKhUojc.jpg"
+    },
+    {
+      "name": "ES| Hellraiser IV: El Final De La Dinastía Sangrienta",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z04c7Kbs9hBOBJMqlfPsmfN0I7l.jpg"
+    },
+    {
+      "name": "ES| Hellraiser III: Infierno En La Tierra",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqCMW3xR6eTyti5ybNIq93owWDX.jpg"
+    },
+    {
+      "name": "ES| Hellraiser: Los Que Traen El Infierno",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfE0u0Th1thZ4slkEtIgvreauh4.jpg"
+    },
+    {
+      "name": "ES| Hellbound: Hellraiser II",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS7qm6Tosxs0Q5o1b62C9nVbOqQ.jpg"
+    },
+    {
+      "name": "ES| Halloween II (H2)",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BQHbsPjKVH6yocHdJ6JQGNpifS.jpg"
+    },
+    {
+      "name": "ES| Galaxia Prohibida",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2E44lpp9uCnwWBLJNqS1tQgq1v.jpg"
+    },
+    {
+      "name": "ES| Funny Man",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaq9LaOKV9vzUZeyuoeQ0JeBzmr.jpg"
+    },
+    {
+      "name": "ES| Exorcismo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBk6du3Ba9YxDH026envEb0b7pE.jpg"
+    },
+    {
+      "name": "ES| Entrevista Con El Vampiro",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10Y3tfdMc4VhGElEjZCJtx1IfNJ.jpg"
+    },
+    {
+      "name": "ES| El Terror No Tiene Forma",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXXDmz5cPuSo9LveCNjZ1j16szC.jpg"
+    },
+    {
+      "name": "ES| El Reptil",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/laTh8Bz559dmwdstt2YjGhnPrxx.jpg"
+    },
+    {
+      "name": "ES| El Final De Damien",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7fhHVUEstLH6jeiDS17W9RcUH5.jpg"
+    },
+    {
+      "name": "ES| El Exorcista III",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JNaaRHzvfopeig4BqSlfufFrVK.jpg"
+    },
+    {
+      "name": "ES| El Exorcista II: El Hereje",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CRJen2ZgHylKf8uOdbyCNlmfsb.jpg"
+    },
+    {
+      "name": "ES| El Exorcista",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQU3sOBms4WA7iFAqBCtbMXgaB8.jpg"
+    },
+    {
+      "name": "ES| El Espejo Roto",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6buHHuBi6xUgofGWhbuEvZb7QYo.jpg"
+    },
+    {
+      "name": "ES| El Ente",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFlKFPxPzQuv7GCXHilWiByQGtZ.jpg"
+    },
+    {
+      "name": "ES| El Concurso",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39xRU4lRSIZuVvvAG35eNYmy0iw.jpg"
+    },
+    {
+      "name": "ES| El Beso De La Pantera",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYcQnkbTD4LDmp11HCReQuUoMKD.jpg"
+    },
+    {
+      "name": "ES| El Alimento De Los Dioses",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXT4oVXCdJMDK2LQzX8Esc2uMtv.jpg"
+    },
+    {
+      "name": "ES| Drácula Vuelve De La Tumba",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVABxdF1jNBpQdowKxRoVjFRJ7N.jpg"
+    },
+    {
+      "name": "ES| Demencia",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya6RruRCh28hYOcKIaUAqZTH1fM.jpg"
+    },
+    {
+      "name": "ES| Cujo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/azJ1VoeWo9Vxp8XuyOhSxDqWT5R.jpg"
+    },
+    {
+      "name": "ES| Creepshow 2",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lZieUGwOMndAyM5pqa4d8KWXZM.jpg"
+    },
+    {
+      "name": "ES| Creepshow",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SoyTCEpsgLjX6yAyMsx3AsAyRQ.jpg"
+    },
+    {
+      "name": "ES| Candyman 2",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WU5KJzfWSHNrk4GcEnI7rq4HhA.jpg"
+    },
+    {
+      "name": "ES| Baile Con El Diablo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPIo9rMGgHi97f9q1VOs75Y4qvc.jpg"
+    },
+    {
+      "name": "ES| Angel Del Infierno",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLeSfNRQtueRE4p8YQDncpUfyWN.jpg"
+    },
+    {
+      "name": "ES| Alien, El Octavo Pasajero",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg"
+    },
+    {
+      "name": "ES| Agárrame Esos Fantasmas",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6Dg5KTvpcZgJTgjXF2OXeSZBH6.jpg"
+    },
+    {
+      "name": "ES| Abierto Hasta El Amanecer",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwWHEbVMOdWODpKr5N6JE6VtSS5.jpg"
+    },
+    {
+      "name": "ES| The Prey",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Au0B3gvC8zlHJDNbhjzkzSMcKa.jpg"
+    },
+    {
+      "name": "ES| The Covenant",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsd4dWaVklbdYPWHl7eGbKRAODv.jpg"
+    },
+    {
+      "name": "ES| Resident Evil 3: Extinción",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pYyfJwwiR5vl1ZCrni2fVsfqyj.jpg"
+    },
+    {
+      "name": "ES| Resident Evil 2: Apocalipsis",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8FFSlEq9DjUP6i9M6vIPFWw8ad.jpg"
+    },
+    {
+      "name": "ES| Resident Evil",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8kYxuHNkFkhA7I4IKAk8sN9bdY.jpg"
+    },
+    {
+      "name": "ES| Overlord",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtdy7CDGyFYYPMsM2FmZ9tkGTG4.jpg"
+    },
+    {
+      "name": "ES| Meteletsa: El Invierno De Los Muertos",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/li6YKwa7zVqmkrY090mUmSph8kX.jpg"
+    },
+    {
+      "name": "ES| Legión",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39vqW5mUZtX0artpqeY4CoIJ4sl.jpg"
+    },
+    {
+      "name": "ES| La Hora Más Oscura",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkEFNc0UvTHtHjAdsKNdbTOG9o3.jpg"
+    },
+    {
+      "name": "ES| Guardians",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjhXGbxwJQyeN0qvMiziYzF73K6.jpg"
+    },
+    {
+      "name": "ES| Drácula, La Leyenda Jamás Contada",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dflq9mJ99PC3I3piHYFmEzwW1q1.jpg"
+    },
+    {
+      "name": "ES| Contrato Mortal",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "ES| Verónica",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8iFWosh3NJiZG27AXX1uzKwRLO.jpg"
+    },
+    {
+      "name": "ES| Starry Eyes",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhlSuemAXzrLjE6MnSr96s5Q5bg.jpg"
+    },
+    {
+      "name": "ES| Maggie",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twa9gXjocLM629sJrQYVtmF306R.jpg"
+    },
+    {
+      "name": "ES| La Noche Devora El Mundo",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/56O363ISYujpSNNQWtCJtRVB9HZ.jpg"
+    },
+    {
+      "name": "ES| La Enfermera",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7X3ytG5V0PtPJv0HWDEWRwNzb4.jpg"
+    },
+    {
+      "name": "ES| La Cumbre Escarlata",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SbIDk0Gkyr0y22ZtydVq9Px423.jpg"
+    },
+    {
+      "name": "ES| Diane",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l44GIlkkVEclzx22hL2WsvSaQIY.jpg"
+    },
+    {
+      "name": "ES| Ataque A Los Titanes",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/glzd3U0Lug736AWNB09RC66YGOo.jpg"
+    },
+    {
+      "name": "ES| Al Límite",
+      "group": "ES - TERROR Spain Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSHCLyo3pFCsaDzzNyNoSwQgiVH.jpg"
+    }
+  ]
+}

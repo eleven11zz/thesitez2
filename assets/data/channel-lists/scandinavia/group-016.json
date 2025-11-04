@@ -1,0 +1,358 @@
+{
+  "package": "scandinavia",
+  "name": "SW - Sweden - Live.",
+  "groupIndex": 16,
+  "totalChannels": 70,
+  "channels": [
+    {
+      "name": "SE | 4 Fotboll  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/6d3cd8e5fe6557ede7f6b7387bd9061b.png"
+    },
+    {
+      "name": "SE | 4 Hockey  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/3da4dd05670ba3347d0b8df3b0073883.png"
+    },
+    {
+      "name": "SE | 4 Motor  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/a757025cd0745edd1b3e7e1099c657ce.png"
+    },
+    {
+      "name": "SE | 4 Sport Live 4  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/100268a96e8ffee5c121cba9aff33f65.png"
+    },
+    {
+      "name": "SE | 4 Sportkanalen  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/98d8bd60038e4eef46d5d0bea6cf4c8f.png"
+    },
+    {
+      "name": "SE | 4 Stars  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/fbcca3c814c6dc820e70f3218e430cbb.png"
+    },
+    {
+      "name": "SE | 4 Tennis  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/b60e71aebb67ca69f5087180350bea85.png"
+    },
+    {
+      "name": "SE | Al Jazeera English  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/f4390514d1f6e5d724811bcd0bf9a02e.png"
+    },
+    {
+      "name": "SE | BBC Brit  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/bbcbrit.png"
+    },
+    {
+      "name": "SE | Bloomberg EU  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/1b87225c734b0a934e9ce33ffc53c9ce.png"
+    },
+    {
+      "name": "SE | Boomerang  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/boomerang.png"
+    },
+    {
+      "name": "SE | Cartoon Network  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "SE | Disney Junior  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    },
+    {
+      "name": "SE | E! Entertainment  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/eentertainment.png"
+    },
+    {
+      "name": "SE | Eurosport 1  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "SE | Expressen TV  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/expressentv.png"
+    },
+    {
+      "name": "SE | H2  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/h2.png"
+    },
+    {
+      "name": "SE | Himlen TV7  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/himlentv7.png"
+    },
+    {
+      "name": "SE | History Channel  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/historychannel.png"
+    },
+    {
+      "name": "SE | Horse & Country  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/horsecountry.png"
+    },
+    {
+      "name": "SE | Investigation Discovery  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/investigationdiscovery.png"
+    },
+    {
+      "name": "SE | Kanal 5  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/kanal5.png"
+    },
+    {
+      "name": "SE | Kanal 9  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/kanal9.png"
+    },
+    {
+      "name": "SE | Kunskapskanalen  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/kunskapskanalen.png"
+    },
+    {
+      "name": "SE | Mezzo Live  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/mezzolive.png"
+    },
+    {
+      "name": "SE | MTV 00s  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/mtv00s.png"
+    },
+    {
+      "name": "SE | MTV 80s  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/mtv80s.png"
+    },
+    {
+      "name": "SE | MTV 90s  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/mtv90s.png"
+    },
+    {
+      "name": "SE | MTV Club  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/mtvclub.png"
+    },
+    {
+      "name": "SE | MTV Hits  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/mtvhits.png"
+    },
+    {
+      "name": "SE | National Geographic  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "SE | National Geographic Wild  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographicwild.png"
+    },
+    {
+      "name": "SE | Nick Junior  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/nickjunior.png"
+    },
+    {
+      "name": "SE | Nickelodeon  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "SE | Nicktoons  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/nicktoons.png"
+    },
+    {
+      "name": "SE | Paramount Network  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/paramountnetwork.png"
+    },
+    {
+      "name": "SE | SF-Kanalen  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/sfkanalen.png"
+    },
+    {
+      "name": "SE | Sjuan  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/sjuan.png"
+    },
+    {
+      "name": "SE | SVT 1  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/svt1.png"
+    },
+    {
+      "name": "SE | SVT 1 Dalarna  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/svt1dalarna.png"
+    },
+    {
+      "name": "SE | SVT 1 Gävleborg  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/5d023caaa196102e7efcb61a369d0ed4.png"
+    },
+    {
+      "name": "SE | SVT 1 Jämtland  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/5d023caaa196102e7efcb61a369d0ed4.png"
+    },
+    {
+      "name": "SE | SVT 1 Jönköping  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/5d023caaa196102e7efcb61a369d0ed4.png"
+    },
+    {
+      "name": "SE | SVT 1 Örebro  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/5d023caaa196102e7efcb61a369d0ed4.png"
+    },
+    {
+      "name": "SE | SVT 1 Öst  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/5d023caaa196102e7efcb61a369d0ed4.png"
+    },
+    {
+      "name": "SE | SVT 1 Skåne  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "http://xplatinmedia.com:8080/images/5d023caaa196102e7efcb61a369d0ed4.png"
+    },
+    {
+      "name": "SE | SVT 2  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/svt2.png"
+    },
+    {
+      "name": "SE | SVT 24  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/svt24.png"
+    },
+    {
+      "name": "SE | Travel Channel  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/travelchannel.png"
+    },
+    {
+      "name": "SE | TV10  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/tv10.png"
+    },
+    {
+      "name": "SE | TV12  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/tv12.png"
+    },
+    {
+      "name": "SE | TV3  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/tv3.png"
+    },
+    {
+      "name": "SE | TV4  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/tv4.png"
+    },
+    {
+      "name": "SE | TV4 Fakta  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/tv4fakta.png"
+    },
+    {
+      "name": "SE | TV4 Film  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/tv4film.png"
+    },
+    {
+      "name": "SE | TV4 Guld  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/tv4guld.png"
+    },
+    {
+      "name": "SE | TV6  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/tv6.png"
+    },
+    {
+      "name": "SE | V Film Family  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vfilmfamily.png"
+    },
+    {
+      "name": "SE | V Film Hits  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vfilmhits.png"
+    },
+    {
+      "name": "SE | V Film Premiere  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vfilmpremiere.png"
+    },
+    {
+      "name": "SE | V Sport 1  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vsport1.png"
+    },
+    {
+      "name": "SE | V Sport Extra  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vsportextra.png"
+    },
+    {
+      "name": "SE | V Sport Football  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vsportfootball.png"
+    },
+    {
+      "name": "SE | V Sport Motor  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vsportmotor.png"
+    },
+    {
+      "name": "SE | V Sport Premium  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vsportpremium.png"
+    },
+    {
+      "name": "SE | V Sport Ultra HD  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vsportultra.png"
+    },
+    {
+      "name": "SE | V Sport Vinter  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/vsportvinter.png"
+    },
+    {
+      "name": "SE | Viasat Explore  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/viasatexplore.png"
+    },
+    {
+      "name": "SE | Viasat History  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/viasathistory.png"
+    },
+    {
+      "name": "SE | Viasat Nature  (101-SERVERS)",
+      "group": "SW - Sweden - Live.",
+      "logo": "https://logo.m3uassets.com/viasatnature.png"
+    }
+  ]
+}

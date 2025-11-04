@@ -1,0 +1,798 @@
+{
+  "package": "india",
+  "name": "IN - 2024-2025 Kannada Movies",
+  "groupIndex": 48,
+  "totalChannels": 158,
+  "channels": [
+    {
+      "name": "IN-Kan: Paradha (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCo9QiSaW9KziUCMip6rWyZCgqK.jpg"
+    },
+    {
+      "name": "IN-Kan: Detective Ujjwalan (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVCNbMW2bmbPE2XaUMUsnA9YgAh.jpg"
+    },
+    {
+      "name": "IN-Kan: Coolie (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzkzqk3ONCa1vjjbagyU3jmc4HG.jpg"
+    },
+    {
+      "name": "IN-Kan: Su from So (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9v6QSFClDqGX2D0YCORp8T1Ji0.jpg"
+    },
+    {
+      "name": "IN-Kan: Kannappa (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b27RNsu0d4SqC4Xph5jBngLGUqZ.jpg"
+    },
+    {
+      "name": "IN-Kan: Kothalavadi (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2255g2gZXBcaV4d25W2hcSmjdrB.jpg"
+    },
+    {
+      "name": "IN-Kan: Ice Road: Vengeance (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQN9rZj06rXMVkk76UF1DfBAico.jpg"
+    },
+    {
+      "name": "IN-Kan: The 100 (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-100-et00452523-1751971397.jpg"
+    },
+    {
+      "name": "IN-Kan: Maaman (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0BsRj9qQu8L2arBAHcbbfrVrB7.jpg"
+    },
+    {
+      "name": "IN-Kan: Kingdom (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6x0wmp2LlLqhEbd8XKjJpTHdHsT.jpg"
+    },
+    {
+      "name": "IN-Kan: Maareesan (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7JGfFgMnNuyF2Q4FSu7Kgip3mK.jpg"
+    },
+    {
+      "name": "IN-Kan: Soothravakyam (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSjfYWfpphuBfKtvGtpw2sHIWrv.jpg"
+    },
+    {
+      "name": "IN-Kan: The Map That Leads to You (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg"
+    },
+    {
+      "name": "IN-Kan: Virgin Boys (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4QoF3Be7CDzSnYjcUWSDXLwszz.jpg"
+    },
+    {
+      "name": "JSK - Janaki V vs State of Kerala (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5aKJoOSv3D8snq3Y2N3APeK5vz.jpg"
+    },
+    {
+      "name": "Oho Enthan Baby (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffnBY54B4Etmu0UCpMXiJNNTlRV.jpg"
+    },
+    {
+      "name": "Hebbuli Cut (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAOWWreo5VyrJacuHX0VvQzegDF.jpg"
+    },
+    {
+      "name": "Timmana Mottegalu (2025) (Kannda)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8PekjMHQo3sfz2oG6lvvlSx_zb1hEUst-Q&s"
+    },
+    {
+      "name": "IN-Kan: The Pickup (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg"
+    },
+    {
+      "name": "IN-Kan: Parandhu Po (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5nQKLilDQtxAOfoKUL6xFrLLtu.jpg"
+    },
+    {
+      "name": "IN-Kan: Maargan (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgNetedu19Ar9LkUXGNheh9NL1D.jpg"
+    },
+    {
+      "name": "IN-Kan: Sees Kaddi (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRJGQaRSg77UUwP_thU9NPNxThRF305wnIw&s"
+    },
+    {
+      "name": "IN-Kan: Thammudu (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Cy6KZIRNkyyYE7mOiFMOyQ6EVE.jpg"
+    },
+    {
+      "name": "Show Time (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFGOj6LDZachNPmXaGPQbeAu7jy.jpg"
+    },
+    {
+      "name": "IN-Kan: Sarzameen (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4boExUHg9SYaawWz18LVGrSIzW.jpg"
+    },
+    {
+      "name": "IN-Kan: Edagaiye Apaghatakke Karana (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVCr2fpROnnKO9gZybmC9SObPIJ.jpg"
+    },
+    {
+      "name": "IN-Kan: X (2022)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lopZSVtXzhFY603E9OqF7O1YKsh.jpg"
+    },
+    {
+      "name": "IN-Kan: Kuberaa (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FKafkYNJn8iDGJAfcKFg3RvO5N.jpg"
+    },
+    {
+      "name": "IN-Kan: Kuladalli Keelyavudo (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVXsNp6X9r3aBphNL2iIMkhAfkN.jpg"
+    },
+    {
+      "name": "IN-Kan: Narivetta (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xhdWk6y5hVUAOhW7MsBMA7wb10.jpg"
+    },
+    {
+      "name": "IN-Kan: Mr.Rani (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o6J0pwop2vodl23yHKJVMJNHMS.jpg"
+    },
+    {
+      "name": "IN-Kan: 8 Vasantalu (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ct4KM0zpdvHTj0DpjsxUrdsmaiN.jpg"
+    },
+    {
+      "name": "IN-Kan: Moonwalk (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZVSz9Em8tmp45rcxlV2TN33s4v.jpg"
+    },
+    {
+      "name": "IN-Kan: Sidlingu 2 (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTB7ZIsCZc2v2MCpXCWX8e2O7sh.jpg"
+    },
+    {
+      "name": "IN-Kan: Thug Life (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg"
+    },
+    {
+      "name": "IN-Kan: Uppu Kappurambu (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGJ51YVBn3YjHt3o2ovjyazeJOO.jpg"
+    },
+    {
+      "name": "IN-Kan: Heads of State (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg"
+    },
+    {
+      "name": "IN-Kan: Mazaka (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjQux36LtV5PfF4a0wgmp71Eo6p.jpg"
+    },
+    {
+      "name": "IN-Kan: Nimma Vasthugalige Neeve Javaabdaararu (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhVgR4Rq4UCzwreNFMh1GpBuKfy.jpg"
+    },
+    {
+      "name": "IN-Kan: Puppy (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8PRN8zS415JQmCg5b20LT0u9LP.jpg"
+    },
+    {
+      "name": "IN-Kan; Yuddhakaanda Chapter 2 (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltlRhsntyYrnO7itPVCkUjxil7p.jpg"
+    },
+    {
+      "name": "IN-Kan: Ace (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8N9ET0MxfaYi1R2a8my0x3JCAxW.jpg"
+    },
+    {
+      "name": "IN-Kan: Blind Spot (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODA4YmM3MWQtYjJkNC00MTVjLWE0ZGItMGVmNDYyYmY5Zjk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN-Kan: Alappuzha Gymkhana (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4OwzcY6r2L1M1S6uYzmtzjwAqX.jpg"
+    },
+    {
+      "name": "IN-Kan: Devil's Double Next Level (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS8XroVkuvsdXcCNnWUnaxj9XNX.jpg"
+    },
+    {
+      "name": "IN-Kan: Eleven (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrLStjPERNYWIESwlrfBPE3jsDb.jpg"
+    },
+    {
+      "name": "IN-Kan: Subham (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYuCCblXRgbpN8y5SCbHZzIVSCf.jpg"
+    },
+    {
+      "name": "IN-Kan: Naale Rajaa Koli Majaa (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkzYzZjN2EtMTM5NC00YTdjLWFhYTYtN2M3YjNiM2M4ZDYyXkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Padakkalam (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9m4lvnqvwppA4BIoxqcWsWna5is.jpg"
+    },
+    {
+      "name": "IN-Kan; #Single (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cX5JISvLrOrwfb0gCOV7Mz7if0.jpg"
+    },
+    {
+      "name": "IN-Kan: Alien Abhimanyu Ka Double Dhamaka (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/3041/1747998983041-t"
+    },
+    {
+      "name": "IN-Kan: Chikoo Bunty In The Ultimate Dream Chase  (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5210/1747323375210-i"
+    },
+    {
+      "name": "IN-Kan: Motu Patlu in the Game of Zones (2020)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdoQSrB0kzIRT9CWEbMbX2vHYbB.jpg"
+    },
+    {
+      "name": "IN-Kan: Tourist Family (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEffPihtdQXiXfRdfq7pPM5JDqa.jpg"
+    },
+    {
+      "name": "IN-Kan: Vadakkan (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMxQmcoZ7Dqz9n1f7M3yA3YPxTl.jpg"
+    },
+    {
+      "name": "IN-Kan: Veera Chandrahasa (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SvN6sZikMa2leMSpHevuri0oic.jpg"
+    },
+    {
+      "name": "IN-Kan: Retro (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/94lS6zIdNGozxiAgnet0BAbvMWV.jpg"
+    },
+    {
+      "name": "IN-Kan: Thudarum (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOTDBabtxHA6szYKQNQe9Y7rFlv.jpg"
+    },
+    {
+      "name": "IN-Kan: Nimitta Matra (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNbASGJgxTH0B9X1md8js8ALW92.jpg"
+    },
+    {
+      "name": "IN-Kan: HIT: The Third Case (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg"
+    },
+    {
+      "name": "IN-Kan: Agnyathavasi (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ephTFUQNYhBmYjKqMoMazzHpVqu.jpg"
+    },
+    {
+      "name": "IN-Kan: L2: Empuraan (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfaZipN3Aw5BK85nEvfr2FNg4EW.jpg"
+    },
+    {
+      "name": "IN-Kan: Firefly (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hfNjYgKqfGIprXTTTutiJ42qh0.jpg"
+    },
+    {
+      "name": "IN-Kan: Sarangapani Jathakam (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7q2oskyTlhJPOVuvdk1GL2HNNZ.jpg"
+    },
+    {
+      "name": "IN-Kan: Lovedale (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI9SP3Ao1LoKSmFEoppBCfcNSuv.jpg"
+    },
+    {
+      "name": "IN-Kan: Odela 2 (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/73jYyHedLEOzMtg14Zp54g971Ga.jpg"
+    },
+    {
+      "name": "IN-Kan: A Working Man (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg"
+    },
+    {
+      "name": "IN-Kan: Gangers (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5nZJZl9TbhGWfNcZkGPXLYMQgs.jpg"
+    },
+    {
+      "name": "IN-Kan: Chaurya Paatham (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTM3MjYwOTUtZmJhYi00ZGExLWJlYzItY2Y3MTIzNzQ5ZmZhXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Maranamass (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyzHuN55v65bFvFjRQHojNQP1x2.jpg"
+    },
+    {
+      "name": "IN-Kan: Ten Hours (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpy3tsUxCo2nQ1g2iLKiOEmZZaW.jpg"
+    },
+    {
+      "name": "IN-Kan: Manada Kadalu (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDIbx2qx7zTQNbhxwvvXofxHVdr.jpg"
+    },
+    {
+      "name": "IN-Kan: Good Bad Ugly (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8MRCA7lUIiUgswtaJOxlXONZuT.jpg"
+    },
+    {
+      "name": "IN-Kan: The Jack in the Box Rises (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg"
+    },
+    {
+      "name": "IN-Kan: Vaamana (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJKsEVUmmqkF6EN66JFuej2e7GU.jpg"
+    },
+    {
+      "name": "IN-Kan: Mukkam Post Devach Ghar (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sBQwuyel1EaJCVcexh5xWEOiWv.jpg"
+    },
+    {
+      "name": "IN-Kan: Vidyapati (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/smLWo00U0AUU7vA9DVo5Aj5CTkd.jpg"
+    },
+    {
+      "name": "IN-Kan: Another Simple Favor (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg"
+    },
+    {
+      "name": "IN-Kan: Rakshasa (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g83UlqyPYSTkbOLLsE4G7N7zZCF.jpg"
+    },
+    {
+      "name": "IN-Kan: G20 (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSee9gbGLfqwvjoWoCQgRZ4Sfky.jpg"
+    },
+    {
+      "name": "IN-Kan: Pravinkoodu Shappu (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/19RY8hiPUklE2UrjQrUiSgyVO5f.jpg"
+    },
+    {
+      "name": "IN-Kan: Perusu (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/avD34sOjy6KbU1w6Xy9LhHYg60c.jpg"
+    },
+    {
+      "name": "IN-Kan: Superboys of Malegaon (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5PDjfWpC9uY5HdF5cbsJ4wjqoq.jpg"
+    },
+    {
+      "name": "IN-Kan: Sweetheart! (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHxP4Mdgc6RwFZi7b1JDPXDus8j.jpg"
+    },
+    {
+      "name": "IN-Kan: 14 Days (Girlfriend Intlo) (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yFSguM1ZWfEhH3nm8Iizkvwgjg.jpg"
+    },
+    {
+      "name": "IN-Kan: Paru Parvathy (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WdDV5heONJKOXdA5AwhACjKRfl.jpg"
+    },
+    {
+      "name": "IN-Kan: Shivamma Yarehanchinnala (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/Shivamma_Yarehanchinala.jpg"
+    },
+    {
+      "name": "IN-Kan: Simhaguhe (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjlkMGMzYmUtYjA1Mi00NTVhLTkwZTUtYWQwZjJhNmUxNmRlXkEyXkFqcGc@._V1_QL75_UY266_CR10,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Choo Mantar (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niKNhXDy7rkvjxRoxgy31sMXQZg.jpg"
+    },
+    {
+      "name": "IN-Kan: Holland (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg"
+    },
+    {
+      "name": "IN-Kan: Laila (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4gsNxFPGpzbq0D6QK1a8vO1lBz.jpg"
+    },
+    {
+      "name": "IN-Kan: Nodidavaru Enanthare (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9supcqHOy1BeppqmBQ99lGU18iS.jpg"
+    },
+    {
+      "name": "IN-Kan: Raya and the Last Dragon (2021)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nVhgCzxKbK47OLIKxCR1syulOn.jpg"
+    },
+    {
+      "name": "IN-Kan; Officer on Duty (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucwirgaK4v9ylQyDkwoXJtDIlf7.jpg"
+    },
+    {
+      "name": "IN-Kan: Ponman (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5R1OHESXvbj1JSTbuebYZRFt05F.jpg"
+    },
+    {
+      "name": "IN-Kan: Be Happy (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugMPpC7EkY5caAZU4pAl2CYdfP0.jpg"
+    },
+    {
+      "name": "IN-Kan: Forest  (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWZjODUzYjktYzliMC00OTY0LWI3ZmMtNzlkZDQwNGM0MzI5XkEyXkFqcGc@._V1_QL75_UX180_CR0,7,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Rekhachithram (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulIAyiSVQZL1Ov6K2Tjf6wPlzFi.jpg"
+    },
+    {
+      "name": "IN-Kan: Vidaamuyarchi (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx7AYFLoupzBfdfEAlDFuOiei2A.jpg"
+    },
+    {
+      "name": "IN-Kan: Sankrathiki Vasthunam  (2025) (Kannada)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2NiMzA5MjctZTJjNC00ZWRmLTgzMTctODdhYzFmN2VlY2FhXkEyXkFqcGc@._V1_QL75_UX180_CR0,3,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Daaku Maharaaj (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGW9ad5TERuoluGSkgF1wHXP45H.jpg"
+    },
+    {
+      "name": "IN-Kan: MAX (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrkPOgbJpqCRqY0Z8cbltxLGwzl.jpg"
+    },
+    {
+      "name": "IN-Kan: Kadhalikka Neramillai (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AzblqicfDueTX5ObM9TZeFCMg4.jpg"
+    },
+    {
+      "name": "IN-Kan: My Fault: London (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bioObjvmJdDRxnWM3TrQYaMUbAQ.jpg"
+    },
+    {
+      "name": "IN-Kan: You're Cordially Invited (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muXnwAdVdEEktto0NBNMyqK3uQH.jpg"
+    },
+    {
+      "name": "IN-Kan: Game Changer (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtOGsZoLW7QceqKmsOy5nSM6Aik.jpg"
+    },
+    {
+      "name": "IN-Kan: Dhruvathaare (2025)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWYwYWM5ODUtYmJmZi00ZDg1LTgyNzUtODU5NGE3YmE0NGY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN-Kan: Nimma Vasthugalige Neeve Javaabdaararu (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7a34c6Tk9dXQBQaEkkGTJFWIvMA.jpg"
+    },
+    {
+      "name": "IN-Kan: Lover (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6cu5wybAwZ46ZzcIKrAXd3VGI0.jpg"
+    },
+    {
+      "name": "IN-Kan: Thundu (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAmO3qw7k4bARLVgIHJMNMEtnmT.jpg"
+    },
+    {
+      "name": "IN-Kan: Yuva (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/50qZ0Sdc6vQMgVhYP0WIYaL4ryZ.jpg"
+    },
+    {
+      "name": "IN-Kan: Hanu-Man (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/16Uq9KbcNDQtI48E6xwyb8wk9x9.jpg"
+    },
+    {
+      "name": "IN-Kan: Juni (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1SQY4WAM2zRDTbjzzDkiUyT6l7.jpg"
+    },
+    {
+      "name": "IN-Kan: Rebel (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FMVnpnm8oUraL9IUQNOABA7nWJ.jpg"
+    },
+    {
+      "name": "IN-Kan: Avatara Purusha 2 (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNNoxTqBjXJvxiDjC6R3PVH0XoQ.jpg"
+    },
+    {
+      "name": "IN-Kan: Matinee (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TTa1XtRAugiC6g679fFFwfj6B3.jpg"
+    },
+    {
+      "name": "IN-Kan: Marigold (2024) [HDCAM]",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVFNt4Dm2qJRm8y1DgalvQm3Zre.jpg"
+    },
+    {
+      "name": "IN-Kan: Mehabooba (2024) [HDCAM]",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzBiYTNmMjItOWQwZS00NmM5LTljMGItZDU1YWRhY2RhYTdkXkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_.jpg"
+    },
+    {
+      "name": "IN-Kan: Thooth Kaasu (2024) [HDCAM]",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/thooth-kaasu-et00391058-1710317064.jpg"
+    },
+    {
+      "name": "IN-Kan: Yuvakuru (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGQxYjliOTctOWIyNC00OWY5LWEwZjUtMmM3NjRhMGQzODU1XkEyXkFqcGdeQXVyMTY1NDkwMjIy._V1_.jpg"
+    },
+    {
+      "name": "IN-Kan: Siren (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpHjWVPf8h8i40zOLBWKbkZGvW5.jpg"
+    },
+    {
+      "name": "IN-Kan: Gaami (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nruKcKWmuP7ce7sBGBNViHJaZrZ.jpg"
+    },
+    {
+      "name": "IN-Kan: Yuva (2004)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3h7iSCBBFT40IZYuh3IjJN6fjE.jpg"
+    },
+    {
+      "name": "IN-Kan: Padikkadha Pakkangal (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmU0NDA4ZWEtMzg2ZS00Y2NmLWIyNDEtZjRmMDdlZTE5OGQ2XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg"
+    },
+    {
+      "name": "IN-Kan: KTM (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtmcypgpEgkFeWyH51zwpCbpg6W.jpg"
+    },
+    {
+      "name": "IN-Kan: Ravike Prasanga (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbMlQma8FOAX0n26ZaEQetCbDL5.jpg"
+    },
+    {
+      "name": "IN-Kan: DeAr (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGrdWSoaPklsid9POrELW7Ll7dz.jpg"
+    },
+    {
+      "name": "IN-Kan: (Tillu)² (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/unRseguQgs9YQbzSHTZKIE3qXa7.jpg"
+    },
+    {
+      "name": "IN-Kan: Byri: Pagam 1 (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zzasZEwoFn5cnhYLTJSjglxHB2.jpg"
+    },
+    {
+      "name": "IN-Kan: The Idea of You (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg"
+    },
+    {
+      "name": "IN-Kan: Abbabba (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zsmfG2uTLkLkT5Pnndp5bDPylk.jpg"
+    },
+    {
+      "name": "IN-Kan: Blink (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iWhSzciJJ81k1khAK9BKMvLelm.jpg"
+    },
+    {
+      "name": "IN-Kan: Mr. Natwarlal (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xM6vEnrnESFQptgzBjD0QqGc0ZO.jpg"
+    },
+    {
+      "name": "IN-Kan: S.I.T Special Investigation Team (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aio0XDJhR0bmpFjGehfoyJuZS5b.jpg"
+    },
+    {
+      "name": "IN-Kan: For Regn (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/szakYqqwSi8VoMmcpRQTvViAMts.jpg"
+    },
+    {
+      "name": "IN-Kan: Bade Miyan Chote Miyan (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg"
+    },
+    {
+      "name": "IN-Kan: Yuvakaru (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nUqfL3X4lG8rJia3tR3wQURiUY.jpg"
+    },
+    {
+      "name": "IN-Kan: Thooth Kaasu (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://images.moviebuff.com/74302507-b545-4860-9ede-c95011dc6307?w=1000"
+    },
+    {
+      "name": "IN-Kan: Captain Miller (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gq5OlT5ImxsNpkirpgf4rYngd3M.jpg"
+    },
+    {
+      "name": "IN-Kan: Guntur Kaaram (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WvxzCSHmjbxqc3wethZoBZ5hmA.jpg"
+    },
+    {
+      "name": "IN-Kan: Saindhav (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7c6RQCWmrl92rPg3JhzzalF4SQ.jpg"
+    },
+    {
+      "name": "IN-Kan: Onty Bunty Love Story (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FXPYF5MHPR6FZliicf68dJMzxU.jpg"
+    },
+    {
+      "name": "IN-Kan: Two Souls (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLYZdNKNCgJZTdiawujb2hBfZmF.jpg"
+    },
+    {
+      "name": "IN-Kan: Bramayugam (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/snQLwRrfQAl5YFKVefZq9Lbscki.jpg"
+    },
+    {
+      "name": "IN-Kan: Hitler (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/NDK54o9AKgSot77EvTWq7D3nWy.jpg"
+    },
+    {
+      "name": "IN-Kan: Bachelor Party (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPzriQUwDNTx7sOJJGi9jXyE7WL.jpg"
+    },
+    {
+      "name": "IN-Kan: Anweshippin Kandethum (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i32ooxvEsy5V6hDucB7hsELT9Vo.jpg"
+    },
+    {
+      "name": "IN-Kan: Game On (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVcmUR6tg0J2VTdT52PYGjb9sQ7.jpg"
+    },
+    {
+      "name": "IN-Kan: Upadhyaksha (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWxCiWA9d299zB2TBku7YBVtY4Q.jpg"
+    },
+    {
+      "name": "IN-Kan: Abraham Ozler (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBFEad9Yp2LtZNKsEbmWKruOOP2.jpg"
+    },
+    {
+      "name": "IN-Kan: Ae Watan Mere Watan (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7SsPY7nKlCsi1PPhMUOZ1of913.jpg"
+    },
+    {
+      "name": "IN-Kan: Road House (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg"
+    },
+    {
+      "name": "IN-Kan: Operation Valentine (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNvYVtRm1rvEYGLqBibL6b3Hhrv.jpg"
+    },
+    {
+      "name": "IN-Kan: Ondu Sarala Prema Kathe (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex3x0efk45SJWEdAenuJWeV6NyF.jpg"
+    },
+    {
+      "name": "IN-Kan: Somu Sound Engineer (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYc1eLAaAxUQStPLPZV8w1mggN1.jpg"
+    },
+    {
+      "name": "IN-Kan:  Kasidre Kailasa (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kailasa-kasidre-et00387739-1708096121.jpg"
+    },
+    {
+      "name": "IN-Kan: Karataka Damanaka (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGML6ATvr0lAbdFE3coP7XzZKb7.jpg"
+    },
+    {
+      "name": "IN-Kan: Naa Saami Ranga (2024)",
+      "group": "IN - 2024-2025 Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/707SWcmQlRiwTicJ0EcNhTCDSSS.jpg"
+    }
+  ]
+}

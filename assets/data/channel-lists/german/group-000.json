@@ -1,0 +1,203 @@
+{
+  "package": "german",
+  "name": "AU - Austria - Live.",
+  "groupIndex": 0,
+  "totalChannels": 39,
+  "channels": [
+    {
+      "name": "AT: Sky Sport Austria 5 HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/skysport5.png"
+    },
+    {
+      "name": "AT: Sky Sport Austria 7 HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/skysport7.png"
+    },
+    {
+      "name": "AT: ATV SD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/atv.png"
+    },
+    {
+      "name": "AT: Comedy Central HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentral.png"
+    },
+    {
+      "name": "AT: Deutsches Musik Fernsehen FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/deutschesmusikfernsehen.png"
+    },
+    {
+      "name": "AT: Hitradio Ö3 HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/40573418531.png"
+    },
+    {
+      "name": "AT: Kabel.1 DOKU FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/96570314071.png"
+    },
+    {
+      "name": "AT: N24 DOKU SD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/n24doku.png"
+    },
+    {
+      "name": "AT: ORF 1 FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/orf1.png"
+    },
+    {
+      "name": "AT: ORF 1 SD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/orf1.png"
+    },
+    {
+      "name": "AT: ORF 3 HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/orf3.png"
+    },
+    {
+      "name": "AT: ORF 3 SD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/orf3.png"
+    },
+    {
+      "name": "AT: ORF Sport+ SD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/orfsport.png"
+    },
+    {
+      "name": "AT: PRO7 MAXX FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/pro7maxx.png"
+    },
+    {
+      "name": "AT: PRO7 MAXX HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/pro7maxx.png"
+    },
+    {
+      "name": "AT: PULS 24 FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/puls24.png"
+    },
+    {
+      "name": "AT: PULS 4 SD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/puls4.png"
+    },
+    {
+      "name": "AT: R9 HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/r9.png"
+    },
+    {
+      "name": "AT: RED BULL TV FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/redbulltv.png"
+    },
+    {
+      "name": "AT: RTL FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/rtl.png"
+    },
+    {
+      "name": "AT: RTL UP FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/rtlup.png"
+    },
+    {
+      "name": "AT: RTL ZWEI FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/rtlzwei.png"
+    },
+    {
+      "name": "AT: RTL ZWEI SD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/rtlzwei.png"
+    },
+    {
+      "name": "AT: Sat.1 FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/sat1.png"
+    },
+    {
+      "name": "AT: Servus TV FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/servustv.png"
+    },
+    {
+      "name": "AT: Servus TV HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/servustv.png"
+    },
+    {
+      "name": "AT: SIXX SD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/sixx.png"
+    },
+    {
+      "name": "AT: SKY Sport Austria 3 HD (event Only)  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/skysport3.png"
+    },
+    {
+      "name": "AT: SKY Sport Austria 4 FHD (event Only)  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/skysport4.png"
+    },
+    {
+      "name": "AT: SKY Sport Austria 4 HD (event Only)  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/skysport4.png"
+    },
+    {
+      "name": "AT: Super RTL FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/superrtl.png"
+    },
+    {
+      "name": "AT: PULS 24 FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/puls24.png"
+    },
+    {
+      "name": "AT: DMAX HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/dmax.png"
+    },
+    {
+      "name": "AT: ORF 2 HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/orf2.png"
+    },
+    {
+      "name": "AT: SKY Sport Austria 2 HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/skysport2.png"
+    },
+    {
+      "name": "AT: ATV HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/atv.png"
+    },
+    {
+      "name": "AT: FOX Sports NEWS FHD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportsnews.png"
+    },
+    {
+      "name": "AT: ORF 1  HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/55004455811.png"
+    },
+    {
+      "name": "AT: ORF 3 HD  (101-SERVERS)",
+      "group": "AU - Austria - Live.",
+      "logo": "https://logo.m3uassets.com/orf3.png"
+    }
+  ]
+}

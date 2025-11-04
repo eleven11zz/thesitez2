@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IPTV Channel Lists | TVMaster</title>
+  <meta name="description" content="Browse curated channel lists for every TVMaster IPTV package." />
+  <link rel="preload" href="/assets/css/channel-lists.css" as="style">
+  <link rel="stylesheet" href="/assets/css/channel-lists.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/index.html" class="brand">
+        <img src="/assets/footer_picture.png" alt="TVMaster logo" loading="lazy" decoding="async">
+        <span>TVMaster</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
+        <span class="sr-only">Toggle navigation</span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="main-nav" id="primary-nav">
+        <a href="/index.html#hero">Home</a>
+        <a href="/index.html#lineups">Channels</a>
+        <a href="/sports/live.html">Live Hub</a>
+        <a href="/iptv-products.html" class="active">IPTV Catalog</a>
+        <a href="/tv-box-products.html">TV Boxes</a>
+        <a href="/faq.html">FAQ</a>
+        <a class="header-cta" href="/index.html#contact">Talk to Sales</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Channel Lists</h1>
+      <p>Select a package to explore spotlight channels across sports, entertainment, news, and kids categories. Lists are sourced from the latest TVMaster playlist snapshots.</p>
+    </section>
+
+    <div class="filters" data-channel-filters></div>
+
+    <section class="content">
+      <div class="summary" data-channel-summary></div>
+      <div class="channel-toolbar">
+        <div class="channel-ctas" data-channel-ctas></div>
+        <div class="channel-search">
+          <input
+            type="search"
+            data-channel-search
+            aria-label="Search channels"
+            placeholder="Search channels…"
+            autocomplete="off"
+            spellcheck="false">
+        </div>
+        <div class="group-filters is-hidden" data-group-filters></div>
+      </div>
+      <div class="channel-groups" data-channel-content>
+        <div class="empty-state">Choose a package above to view its channel lineup.</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © 2024 TVMaster · Need full playlists? Contact <a href="mailto:support@tvmaster.vip">support@tvmaster.vip</a> for enterprise exports.
+  </footer>
+
+  <script
+    src="/assets/js/channel-lists.js"
+    data-channel-source="/assets/js/channel-lists-data.json"
+    data-channel-placeholder="/assets/images/channel-placeholder.svg"
+    data-default-group="0"
+    defer></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const navToggle = document.querySelector('.nav-toggle');
+      const mainNav = document.querySelector('.main-nav');
+
+      if (navToggle && mainNav) {
+        const toggleNav = () => {
+          const isOpen = mainNav.classList.toggle('open');
+          navToggle.classList.toggle('is-active', isOpen);
+          navToggle.setAttribute('aria-expanded', String(isOpen));
+          document.body.classList.toggle('nav-open', isOpen);
+        };
+
+        navToggle.addEventListener('click', toggleNav);
+        mainNav.querySelectorAll('a').forEach((link) => {
+          link.addEventListener('click', () => {
+            if (mainNav.classList.contains('open')) toggleNav();
+          });
+        });
+      }
+    });
+  </script>
+</body>
+</html>

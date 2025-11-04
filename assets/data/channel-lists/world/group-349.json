@@ -1,0 +1,398 @@
+{
+  "package": "world",
+  "name": "HU - Hungary Movies",
+  "groupIndex": 349,
+  "totalChannels": 78,
+  "channels": [
+    {
+      "name": "HU: Heavenly Shift (2013)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjYyOTU4OTktZjNhYi00YWRiLThlMzMtNDIwZDUyMjgwZjFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Hangover II (2011)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM2MTM4MzY2OV5BMl5BanBnXkFtZTcwNjQ3NzI4NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Hangover (2009)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDI2MzBhNzgtOWYyOS00NDM2LWE0OGYtOGQ0M2FjMTI2NTllXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Superbad (2007)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Scream IV (2011)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk5OTcxNTUyNF5BMl5BanBnXkFtZTcwMDczMzE0NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Scream III (2000)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzc4MThjNDItNWIzYy00NjA5LWExMTAtNjAzZGQwZTViN2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Scream II (1997)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODE5YWJkMDMtN2ZiNC00MjI5LTkxYTgtOTkyZjUwMjU0YThiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Scream (1996)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Rush Hour III (2007)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTA0Nzg5NjQ0MDBeQTJeQWpwZ15BbWU3MDE4Mzg5NDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Rush Hour II (2001)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGM0OTM4NGYtYzkzMC00OGZmLWEwZTItOTg4ZTdkYTIxOTc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Rush Hour (1998)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGZiMzViNmEtNTNlZi00MzFmLTk5NTEtNDE2OTUzNmNlMTY4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Grown Ups II (2013)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmIzNDg3NTQtZjVkOS00Y2RlLThkZDAtMWQwY2RiM2FjNzRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Grown Ups (2010)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: American Reunion (2012)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY4MTEyMzU1N15BMl5BanBnXkFtZTcwNDQ0NTc1Nw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: American Pie Presents The Book of Love (2009)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODkwZmM5NGUtNmZlNS00MjI1LWI2ZjMtODk4ZGRiMDM3MWU1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: American Pie Presents Beta House (2007)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTg5OThhZjctNTgwMy00ZTljLTkxM2YtYjM0YWJhZWJiNzM3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: American Pie V The Naked Mile (2006)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzVhNjgwNGEtYzgzZS00MTc3LThiM2QtYzFiMTQ5ZGUzNGJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: American Pie IV Band Camp (2005)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/5a/Newamericanpiebandcamp.jpg"
+    },
+    {
+      "name": "HU: American Pie II (2001)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2I4MDEwOTctNGE0Yi00NTJlLThiZGEtNzU1YjExNmRlYzI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: American Pie (1999)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Murder Mystery (2019)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzg4NDFjNmYtZjQxMy00MDY4LWEyZjUtYzRjNjNkNjJiZTZhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ted II (2015)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ted (2012)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Borat II (2020)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWJmNDcyOTItYTE0ZS00NzAwLThjNGUtYTdhMjBjMTAwNDc4XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+    },
+    {
+      "name": "HU: Borat (2006)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk0MTQ3NDQ4Ml5BMl5BanBnXkFtZTcwOTQ3OTQzMw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Were the Millers (2013)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDQ0NWI1ZGEtY2NlMy00MWYyLTk4NGEtMTY5MmQ4YTcyY2E0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Matrix Resurrections (2021)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Matrix Revolutions (2003)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Matrix Reloaded (2003)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Matrix (1999)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Good the Bad and the Ugly (1966)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Lady and the Tramp (2019)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjlhNjVhMDItZTBjNi00MDljLWI1ODktNzU5ZTg2YWZhMWZmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Green Mile (1999)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Silence of the Lambs (1991)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: One Flew Over the Cuckoos Nest (1975)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Goodfellas (1990)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: 365 Days (2020)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg5N2U4ZTItMjc2NC00NDg2LWIzODYtOWZmNzY5Yzc5MzUxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Cloud Atlas (2012)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Pirates of the Caribbean: On Stranger Tides (2011)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Pirates of the Caribbean: At Worlds End (2007)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Pirates of the Caribbean: Dead Mans Chest (2006)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_.jpg"
+    },
+    {
+      "name": "HU: Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Unforgiven (1992)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The French Connection (1971)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDAyZDU3OWUtNWQ3Zi00ZWRkLWI4MGEtNDFlZWIzZDk5ZTZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Conversation (1974)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTY4OTVmMzgtNTBkYi00NjI1LWIzOWItNGIwNTM1ZTEzMzc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Charlies Angels (2019)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjIyYTRhNDItNzc2MS00MjkxLWFhOTItMzg1MTZkNDk5Nzc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Charlies Angels (2000)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTkyYjRiZGMtYzA0Mi00N2IyLThhZDAtYWU1OWNhNjIxNzY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Aquaman (2018)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_.jpg"
+    },
+    {
+      "name": "HU: 1917 (20169",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/iZf0KyrE25z1sage4SYFLCCrMi9.jpg"
+    },
+    {
+      "name": "HU: Made in Hungária (2009)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://media.port.hu/images/000/876/403.jpg"
+    },
+    {
+      "name": "HU: Eternal Winter (2019)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmG5bfgyH82CJwI2bYBgMwmVkSE.jpg"
+    },
+    {
+      "name": "Moleman 4: Longplay (2017)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hukJJTflX7g7RYJKCPNDUAea49H.jpg"
+    },
+    {
+      "name": "HU: 1945 (2017)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/31sxtOLEsuN2m2OWGti3uEYc6rz.jpg"
+    },
+    {
+      "name": "HU: Son of Saul (2015)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeK8ZVes3SDLPZ7fMX8rg1g2HVO.jpg"
+    },
+    {
+      "name": "HU: A Guidebook to Killing Your Ex (2016)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiiCtmLBlvabNc4wM7jH9OvF0BK.jpg"
+    },
+    {
+      "name": "HU: Extinction (2015)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwIDreu9pYCqKpv4jomqVM9yX1e.jpg"
+    },
+    {
+      "name": "HU: Mom and Other Loonies in the Family (2015)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfEXBKzu1DcFJyQcd5vJkRdC8Ta.jpg"
+    },
+    {
+      "name": "HU: The Childhood of a Leader (2016)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf1MGzVzEpoWrE5ztcBf7Mhu0Sz.jpg"
+    },
+    {
+      "name": "HU: The Last King (2016)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw7dUolSTtkfwVFj7OPYymGxpSn.jpg"
+    },
+    {
+      "name": "HU: On Body and Soul (2017)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uguWEoZelSSckxgiQctlkZ6gpfU.jpg"
+    },
+    {
+      "name": "Strangled (2016)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYj4YNq8Pfmqj8lJvhtA7ooiULr.jpg"
+    },
+    {
+      "name": "Fallen (2016)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0na2JR3mIgl5m64tW5uxB5Fa4m.jpg"
+    },
+    {
+      "name": "The White King (2017)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmMQKG8ca4xZLy9BtpXMfLXoIR2.jpg"
+    },
+    {
+      "name": "HU: Atomic Blonde",
+      "group": "HU - Hungary Movies",
+      "logo": "http://gein.detvz.us/base_img/f127782eebab8385b41ebed0a6bdf11e.png"
+    },
+    {
+      "name": "HU: K-12 (2019)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVi0yBBPj5Z96JgGWVIg94kv7bR.jpg"
+    },
+    {
+      "name": "HU: Trezor (2018)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vEeCEPDQ8lO30i7RwVSPaNGF4x.jpg"
+    },
+    {
+      "name": "HU: Genesis (2018)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOgWvHRZGH9SdEG33ScuMSPtuK3.jpg"
+    },
+    {
+      "name": "HU: Blade Runner 2049 (2017)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+    },
+    {
+      "name": "HU: Terminal (2018)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg"
+    },
+    {
+      "name": "HU: General Commander (2019)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tarle8uNAqiQfCTY95U0Oj1DxIU.jpg"
+    },
+    {
+      "name": "HU: The Song of Names (2019)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIEZG0WD0sraPqo4al6oaU1vibJ.jpg"
+    },
+    {
+      "name": "HU: The King (2019)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg"
+    },
+    {
+      "name": "HU: Back to the Future Part III (1990)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://pics.filmaffinity.com/back_to_the_future_part_iii-223713634-large.jpg"
+    },
+    {
+      "name": "Back to the Future Part II (1989)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://pics.filmaffinity.com/back_to_the_future_part_ii-618825326-large.jpg"
+    },
+    {
+      "name": "HU: Back to the Future (1985)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://pics.filmaffinity.com/back_to_the_future-100822308-large.jpg"
+    },
+    {
+      "name": "Firestarter: The Story of Bangarra (2021)",
+      "group": "HU - Hungary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sR1W8xtgaTQPzgtQjJQWLXTt8Y.jpg"
+    },
+    {
+      "name": "NCIS S01 E01 2003",
+      "group": "HU - Hungary Movies",
+      "logo": "https://www.themoviedb.org/t/p/original/mJHZYjWMo03AsIqgnQA1Z8Oa7FP.jpg"
+    }
+  ]
+}

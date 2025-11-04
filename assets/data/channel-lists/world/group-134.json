@@ -1,0 +1,18 @@
+{
+  "package": "world",
+  "name": "UK - ViaPlay - Events.",
+  "groupIndex": 134,
+  "totalChannels": 2,
+  "channels": [
+    {
+      "name": "UK: VIAPLAY EVENT INFO CHANNEL  (101-SERVERS)",
+      "group": "UK - ViaPlay - Events.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/9271ebfb1118584ecec0dd2a13f99527.png"
+    },
+    {
+      "name": "VIAPLAY UK Event 10  (101-SERVERS)",
+      "group": "UK - ViaPlay - Events.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/9271ebfb1118584ecec0dd2a13f99527.png"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "package": "world",
+  "name": "SR- Syria - Live.",
+  "groupIndex": 202,
+  "totalChannels": 6,
+  "channels": [
+    {
+      "name": "SY: Etihad TV HD  (101-SERVERS)",
+      "group": "SR- Syria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/24559368281.png"
+    },
+    {
+      "name": "SY: LANA TV HD  (101-SERVERS)",
+      "group": "SR- Syria - Live.",
+      "logo": "https://logo.m3uassets.com/lanatv.png"
+    },
+    {
+      "name": "SY: SAMA Syria HD  (101-SERVERS)",
+      "group": "SR- Syria - Live.",
+      "logo": "https://logo.m3uassets.com/samasyria.png"
+    },
+    {
+      "name": "SY: SAMA Syria TV HD  (101-SERVERS)",
+      "group": "SR- Syria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/74368320451.png"
+    },
+    {
+      "name": "SY: Syria Drama HD  (101-SERVERS)",
+      "group": "SR- Syria - Live.",
+      "logo": "https://logo.m3uassets.com/syriadrama.png"
+    },
+    {
+      "name": "SY: Syriana HD  (101-SERVERS)",
+      "group": "SR- Syria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/44421618811.png"
+    }
+  ]
+}

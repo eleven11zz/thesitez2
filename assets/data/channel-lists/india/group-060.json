@@ -1,0 +1,2143 @@
+{
+  "package": "india",
+  "name": "IN - Kannada Movies",
+  "groupIndex": 60,
+  "totalChannels": 427,
+  "channels": [
+    {
+      "name": "IN-Kan: Kingkong Is Coming Back (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfL0gjytSOjURdUpXwq8SXqa7lEgPkia9AQ&s"
+    },
+    {
+      "name": "IN-Kan: Sanju Weds Geetha 2 (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovWLBAAT7NEm69bF6Ndn8btWgsU.jpg"
+    },
+    {
+      "name": "IN-Kan: 4N6 (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjFiOWM0MDItNTJjMy00ZWRlLWFlYjctMjk2NDgyYzU5MWFjXkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: The Judgement (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWE0MWUxNzMtNmVkNi00YWNjLTk0MmMtZTE1N2EwNzhkZWI2XkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Pechi (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Pla6xHgD0kep7S9z6KfXzi6B4l.jpg"
+    },
+    {
+      "name": "IN-Kan: Karki (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTYzODVhY2YtYTUwMy00NWFiLTg5NGEtY2RkZGU1OWM5MDliXkEyXkFqcGc@._V1_QL75_UY266_CR182,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Romeo (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvonnJOEIhE5oH3Gfy9kZTHTxOn.jpg"
+    },
+    {
+      "name": "IN-Kan: John Wick: Chapter 2 (2017)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg"
+    },
+    {
+      "name": "IN-Kan: John Wick (2014)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg"
+    },
+    {
+      "name": "IN-Kan: John Wick: Chapter 3 - Parabellum (2019)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
+    },
+    {
+      "name": "IN-Kan: Kerebete (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI5LeB64W81bGui5dZVDEtDSkzA.jpg"
+    },
+    {
+      "name": "IN-Kan: Dil Kush (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWQ0YmY4YzYtOWE1YS00MjQ2LTk5NTItZjIyZDRlYTEyMGJjXkEyXkFqcGc@._V1_QL75_UY266_CR20,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Preminchoddu (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iO9t2fHvzA6PlDXSyIrnNs2s2AC.jpg"
+    },
+    {
+      "name": "IN-Kan: New Fist of Fury (1976)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Uk4Crwwuz3OHeEtOZIRxFSgSxY.jpg"
+    },
+    {
+      "name": "IN-Kan: Neeli Megha Shyama (2025)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbZNB3d7srZQIK9WRJf1cwVpeGg.jpg"
+    },
+    {
+      "name": "IN-Kan: Amruthamathi (2019)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Ub9T2KixNjOFmIPyivNJTI37x.jpg"
+    },
+    {
+      "name": "IN-Kan: Rajamartanda (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7u48QwFVVhdaR7f1LnZaeCeRQ69.jpg"
+    },
+    {
+      "name": "IN-Kan: Kaalapatthar (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTELAAH02Xv8BNXa6n2uBo853pR.jpg"
+    },
+    {
+      "name": "IN-Kan: Max (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/max-2024-et00383005-1734936047.jpg"
+    },
+    {
+      "name": "IN-Kan: Gana (2025)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTxogEhWidL7sFk3JMiBxJgErl8.jpg"
+    },
+    {
+      "name": "IN-Kan: Ratna (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDEzNzgzMjUtZjMwYy00YzZiLWJiZTItYWZiODI5NDgyZjRjXkEyXkFqcGc@._V1_QL75_UY266_CR10,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Vijayanand (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtqIUGRA4DXaqX2O3M1pOKJtskd.jpg"
+    },
+    {
+      "name": "IN-Kan: MAD (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDpOmgBfQZwOpFBcgokQGqd74r1.jpg"
+    },
+    {
+      "name": "IN-Kan: Viduthalai: Part II (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRofNEH4lnP9ZFUDrra01Ma81Vi.jpg"
+    },
+    {
+      "name": "IN-Kan: Kappu Bilupina Naduve (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RLtxuooqHIztfDa1nqXvDXH3F3.jpg"
+    },
+    {
+      "name": "IN-Kan: Hiranya (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gW4Ef6YMbPriPqktUzfQIALtGLo.jpg"
+    },
+    {
+      "name": "IN-Kan: Agent (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRmNTk1YmEtYzM3Ny00MjhiLTgwNTgtZWE0ZGM0ZjUyOWUzXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Vikaasaparva (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODhmODE4OTAtMTFiNy00YmQxLWEyZjgtMTU4ZDRmMThlYjNlXkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Srikakulam SherlockHolmes (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uFqY6ksaKQVC3DdV1mA5IjMlgr.jpg"
+    },
+    {
+      "name": "IN-Kan: Baapu - A Father's Story (2025)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwjAtrlT1swTJEdT4dhGdHidTjE.jpg"
+    },
+    {
+      "name": "IN-Kan: Kudumbasthan (2025)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSF6fDlSKI1qrftN9OKOnBLvGZH.jpg"
+    },
+    {
+      "name": "IN-Kan: Thandel (2025)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekgwx6fjFkn8lbvrup4moGGtPZY.jpg"
+    },
+    {
+      "name": "IN-Kan: Alangu (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Rmovt5T8GD3gX8Y6rvWmw6b0Yl.jpg"
+    },
+    {
+      "name": "IN-Kan: Fear (2024) (Kannada)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yNwiNsFCKXHJ0Jubpu7p9PumUl.jpg"
+    },
+    {
+      "name": "IN-Kan: Maa Nanna Superhero (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ogrryfe0uZOxSkSG4gp4PyiUpr.jpg"
+    },
+    {
+      "name": "IN-Kan: Tenant (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZxCHxjQJEZi30F69YJwTPEgzoX.jpg"
+    },
+    {
+      "name": "IN-Kan: Rewind (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8icW9QXQRx4ls9fh0Cc9DBqaQwm.jpg"
+    },
+    {
+      "name": "IN-Kan: Saddle Up For Revenge (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTjFj3rC2luP0X9Db0RxOS0PhFL.jpg"
+    },
+    {
+      "name": "IN-Kan: Identity (2025)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiFSFpRzs2ue14aVBHKwXPFSCj8.jpg"
+    },
+    {
+      "name": "IN-Kan: Pushpa 2 - The Rule (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpNcQfQ4YGtFwEcrjcK9HxVM2KF.jpg"
+    },
+    {
+      "name": "IN-Kan: The Mehta Boys (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezZWkcI8FOQmJj6aPAADV7dg12.jpg"
+    },
+    {
+      "name": "IN-Kan: Maryade Prashne (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/20gbgzSXWOXvCjQGzZj4J1aFp5t.jpg"
+    },
+    {
+      "name": "IN-Kan: Marco (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg"
+    },
+    {
+      "name": "IN-Kan: Brother (2024) (Kannada)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0a55c5dkCC84ckzLByKhCyu0nv.jpg"
+    },
+    {
+      "name": "IN-Kan: The Killer's Game (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg"
+    },
+    {
+      "name": "IN-Kan: Thiru.Manickam (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/84UUyVmkF1GZm878YthNBxaVaIy.jpg"
+    },
+    {
+      "name": "IN-Kan: Barroz (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLsp9NLIOqYA7lmEYgnlL7KdZ07.jpg"
+    },
+    {
+      "name": "IN-Kan: Thurthu Nirgamana (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DLVucAGkA8WhgsyaSTcIentB5U.jpg"
+    },
+    {
+      "name": "IN-Kan: UI (2024) (Kannada)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWoeysV4ro6wn4TE0QgqMuo6Val.jpg"
+    },
+    {
+      "name": "IN-Kan: Bougainvillea (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TgMCVaFbhSCJzBaaz6elM5cBUQ.jpg"
+    },
+    {
+      "name": "IN-Kan: Pogumidam Vegu Thooramillai (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9PskkYrJpFsS2eobDHwNl39T1J.jpg"
+    },
+    {
+      "name": "IN-Kan: Red One (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
+    },
+    {
+      "name": "IN-Kan: Mechanic Rocky (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/To7wOId0iiPveLn2nyuVIirufP.jpg"
+    },
+    {
+      "name": "IN-Kan: Thangalaan (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3ZWa3bSkAhSO9RHNEV7WgcUxDd.jpg"
+    },
+    {
+      "name": "IN-Kan: Kanguva (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZL0qIGIKrAQl6zKR6Js6w7KgzG.jpg"
+    },
+    {
+      "name": "IN-Kan: Laggam (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R5SxjwedJGotc4EprWYVg93qKc.jpg"
+    },
+    {
+      "name": "IN-Kan: Swag (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/59j909O4PVE7vZxFU0JzuDzLuo7.jpg"
+    },
+    {
+      "name": "IN-Kan: Amaran (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCB06m1KUGilEOlIzb40nkQhVY0.jpg"
+    },
+    {
+      "name": "IN-Kan: Matka (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrHIKDq9xvKJhYBDvYwmAfs8qvr.jpg"
+    },
+    {
+      "name": "IN-Kan: Sir (2024) (Kannada)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTZjZDM2NmUtOTQyNi00NzJmLWFmNzUtODk2ZjVjMGU4MGMwXkEyXkFqcGc@._V1_QL75_UX180_CR0,7,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Murphy (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dH5JFteq9CwLKk4q3E8GSjobHC.jpg"
+    },
+    {
+      "name": "IN-Kan: Appudo Ippudo Eppudo (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzpZlcdCfyLFzSXotkzrpYWuvNM.jpg"
+    },
+    {
+      "name": "IN-Kan: Jalandhara (2024) (Kannada) (CAM)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGI2Y2NjZGYtMDI1ZC00MWU4LWIyZjctNmQ3YjQ5MTQyYWQ2XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Megha (2024) (Kannada) (CAM)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjQ5MmMyMGEtZjY2MC00ZjJmLWEzYzMtOTJmYWFlOTk0NmJhXkEyXkFqcGc@._V1_QL75_UY266_CR10,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan; Namma Hudugaru (2022) (Kannada)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDY3ODlhNDctMzExZC00NjJjLTllNjQtOWI5MWIxMTkzYjc0XkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Krishnam Pranaya Sakhi (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h3swr0fu3NAm0myEaeJVTorMiG.jpg"
+    },
+    {
+      "name": "IN-Kan: Lucky Baskhar (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jifHxS5kMd6pKGIh1R3oyFSyAKN.jpg"
+    },
+    {
+      "name": "IN-Kan: Aaram Aravinda Swamy (2024) (Kannada) (CAM)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGRlZmI2YjYtODdkYi00Njc4LThiNmUtZDczYTZmMDRhNDYxXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Maryade Prashne (2024) (Kannada) (CAM)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWVhOTU2OWItNjQzMi00OWQ0LThhYzgtYzMxY2VjN2RjNDJlXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Prabhutva (2024) (Kannada) (CAM)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDNjYzI2OWYtZmQ0Mi00NTYyLTkzYzctM2FkMWIxYWRiZjhiXkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Zebra (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCGgmmMD63pKH7lnmVJ5MMLQfOm.jpg"
+    },
+    {
+      "name": "IN-Kan: Petta Rap (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt5Wv7YW6Lv4XbZJ7ZeVrswg2EZ.jpg"
+    },
+    {
+      "name": "IN-Kan: 1888 (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sY4f3X5yvyI6XLKpocCEr5XBdPQ.jpg"
+    },
+    {
+      "name": "IN-Kan: Rudrangi (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqls4AP0wQ5x3OjzCfRDUrHVWbd.jpg"
+    },
+    {
+      "name": "IN-Kan: Abbara (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7X4FmgN58DyXKD17F15fCMOeEs.jpg"
+    },
+    {
+      "name": "IN-Kan: Bhairathi Ranagal (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghA56IEkZ1FwJVDWWEihtVnRYvZ.jpg"
+    },
+    {
+      "name": "IN-Kan: Martin (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYe2ZjUhb4Kje0BpWE6kN34u2hv.jpg"
+    },
+    {
+      "name": "IN-Kan: Yadha Yadha Hi (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq5JIe4UuY3mT0pLe7Z4HW3feom.jpg"
+    },
+    {
+      "name": "IN-Kan: Yevam (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkDoVO3WujOZgh7TRpOjKkrBFkM.jpg"
+    },
+    {
+      "name": "IN-Kan: A.R.M (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/OClpEeRlHK3DrFO7QtWXtpDIOK.jpg"
+    },
+    {
+      "name": "IN-Kan: Devara: Part 1 (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tceqPVsFgoKxsKKJ5JPmp6ewqIa.jpg"
+    },
+    {
+      "name": "IN-Kan: Vettaiyan (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1q0dAC3OJZVKQcV2dG5sGvdUGqN.jpg"
+    },
+    {
+      "name": "IN-Kan: Kozhipannai Chelladurai (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsTZduXemG87iGj3djhF7IGooQX.jpg"
+    },
+    {
+      "name": "IN-Kan: Lorry Chapter-1 (2024)  (Kannada)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2JmYTQyOTUtN2U1Yy00N2UyLThjYjUtYjU3OGZmYmU5YTRjXkEyXkFqcGc@._V1_QL75_UX180_CR0,14,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Hostel Hudugaru Bekagiddare (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUOYHFerIeMGrQWREX3UDrr3AaC.jpg"
+    },
+    {
+      "name": "IN-Kan: Bagheera (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sx9vGOozrntDzlZnePoHitJakZ.jpg"
+    },
+    {
+      "name": "IN-Kan: Lubber Pandhu (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwxP9wIMBF3wKlV22Rm1YGz5QQ3.jpg"
+    },
+    {
+      "name": "IN-Kan: Ibbani Tabbida Ileyali (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uosFHzNYxINyJ2x6Ots3X7rZNjr.jpg"
+    },
+    {
+      "name": "IN-Kan: Golam (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aa30QzjokChiDOtuV27cfOSSVOA.jpg"
+    },
+    {
+      "name": "IN-Kan: Meiyazhagan (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngDEH7YqVaMCAD4LpNxRl6ScJnw.jpg"
+    },
+    {
+      "name": "IN-Kan: Motu Patlu: Kung Fu Kings (2014)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWUyHbjGhgxstnZ2dxZrR721TVe.jpg"
+    },
+    {
+      "name": "IN-Kan: Mooru Kaasina Kudure (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2l3bp25Wc3V7v8oQraEzommY69njKHI-0w&s"
+    },
+    {
+      "name": "IN-Kan: Maantrika (2024) (Kannada)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzA4M2I3ZGQtNDk0Ny00MGFjLTg2YzUtMWNiM2RhZDE1OTViXkEyXkFqcGc@._V1_QL75_UY266_CR4,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Laughing Buddha (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhF9LSMqr5fHqfU5i9J4VJsSTOB.jpg"
+    },
+    {
+      "name": "IN-Kan: Klaantha (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNhB0OiQ0JE6yjDNafKrc3m1uV.jpg"
+    },
+    {
+      "name": "IN-Kan: Kondal (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMIyH7RyXMXLMKmnSPsMHVd9QuL.jpg"
+    },
+    {
+      "name": "IN-Kan: Level Cross (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBtytEZyFKZhLk2UCzIJuOda7Fu.jpg"
+    },
+    {
+      "name": "IN-Kan: Aay (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZMkDP9XQNbfzXyn9XT0i836xop.jpg"
+    },
+    {
+      "name": "IN-Kan: Simbaa (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XEWMoA3bzVWDrH05HsN2t4Ar7R.jpg"
+    },
+    {
+      "name": "IN-Kan: Mathu Vadalara 2 (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/istPXyZrPtB0o4WGxBJpjc8lCqV.jpg"
+    },
+    {
+      "name": "IN-Kan: Vaazhai (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Kkoc8voTaZtM5YB6NxLuIzv5IY.jpg"
+    },
+    {
+      "name": "IN-Kan: Not Out (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODViMjljYzQtODM2Zi00ODNiLWE0ZTYtZWE4Zjg3ZmUyMzUxXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "Kathe Naayaka (2024) (Kannada)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_CtnWOXO7cWf_jKLTSFswd27TR4ldxTmk9g&s"
+    },
+    {
+      "name": "IN-Kan: Aarambham (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDUMoN9b6B4196Lz382GrBzH6eR.jpg"
+    },
+    {
+      "name": "IN-Kan: Om Bheem Bush (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1dtomYuwo0vkeXyu6GY1OSxO7L.jpg"
+    },
+    {
+      "name": "IN-Kan: Saripodhaa Sanivaaram (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Qsnbfz6EvUHSFWUdXhMDUEI4yA.jpg"
+    },
+    {
+      "name": "IN-Kan: Vaazha: Biopic of a Billion Boys (2024) (Kannada)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDEwZDMzMDUtMTU1Ny00YjU1LTg2ODctM2E4NTdjM2ExNTk5XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Jigar (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzYxNDk3NjQtNDU1NC00ZGUzLWFkZjgtNGY1NWMwZDk0YzI5XkEyXkFqcGc@._V1_QL75_UX180_CR0,7,180,266_.jpg"
+    },
+    {
+      "name": "IN-Kan: Family Drama (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgo9JxsaX0Kq7YbsusA3LKq0sHx.jpg"
+    },
+    {
+      "name": "IN-Kan: Mr Bachchan (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rgai1V5HYzhY8Ju8UwM87hI0l1.jpg"
+    },
+    {
+      "name": "IN-Kan: Thalavan (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4rPYq6ZaV3rjFd4INmOtivoB4Z.jpg"
+    },
+    {
+      "name": "IN-Kan: Usire Usire (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii7dntuYIzXcV6v58GApLWKUcXb.jpg"
+    },
+    {
+      "name": "IN-Kan: Bheema (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nv8rsLyTQldLdFdcglMLFkCeZEz.jpg"
+    },
+    {
+      "name": "IN-Kan: Adios Amigo (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3h3aOAEcU8oxTTnWUoEBxec0oYR.jpg"
+    },
+    {
+      "name": "IN-Kan: Visfot (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91EPjmM9RV7f8Vh7CRKE4qf2apK.jpg"
+    },
+    {
+      "name": "IN-Kan: Ayogya (2018)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1W8q4RVc24DJNWyTkJ0r1h7jKW.jpg"
+    },
+    {
+      "name": "IN-Kan: Double iSmart (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwaitETl1wiQ9kgOMxIuNOawcJP.jpg"
+    },
+    {
+      "name": "IN-Kan: The Fall Guy (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSz1qsmSJon0rqjHBxXZmrotuse.jpg"
+    },
+    {
+      "name": "IN-Kan: Scam 1770 (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bum3vgVrz7frlAFs8ESB809aAHm.jpg"
+    },
+    {
+      "name": "IN-Kan: Music Shop Murthy (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdRsJD1EYxJpFi25RrWYCEkGacm.jpg"
+    },
+    {
+      "name": "IN-Kan: Buddy (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kBQXF9Yxkqje4Ss43vHDwqDHtu.jpg"
+    },
+    {
+      "name": "IN-Kan: Abigail (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rx0Sg4cK5gO6QKkyI0JAGT5tLJb.jpg"
+    },
+    {
+      "name": "IN-Kan: Raayan (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHMbqpG7vZk1iEJaEkCCyixFbos.jpg"
+    },
+    {
+      "name": "IN-Kan: Mazhai Pidikatha Manithan (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udYR53s43JCHzqCLqDbIK5rGuGj.jpg"
+    },
+    {
+      "name": "IN-Kan: Chilli Chicken (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Aa0A7pN7IuKqen0nYuD7pIKzqf.jpg"
+    },
+    {
+      "name": "IN-Kan: Grrr.. (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4GpEsQAc9LslfEmBlOwlChxpyx.jpg"
+    },
+    {
+      "name": "IN-Kan: My Spy The Eternal City (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Bf3vCfM94bSJ1saZlyi0UW0e0U.jpg"
+    },
+    {
+      "name": "IN-Kan: The Ministry of Ungentlemanly Warfare (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg"
+    },
+    {
+      "name": "IN-kan: Jackpot! (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOsamTFIyGxjw1jLSKdZYxQBJOT.jpg"
+    },
+    {
+      "name": "IN-Kan: Kangaroo (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yB6Mr0W5J3IIWrQE8Ujdm6jQIa.jpg"
+    },
+    {
+      "name": "IN-Kan: Kotee (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMpxb3sbzOd5PsMEkhg8CnY2XGQ.jpg"
+    },
+    {
+      "name": "IN-Kan: Feel My Love (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDZkZGVmYmEtNDU0Zi00ODc2LWExODAtM2VjYjA2ZGNiMDQ5XkEyXkFqcGc@._V1_QL75_UX100_CR0,8,100,148_.jpg"
+    },
+    {
+      "name": "IN-Kan: Ranganayaka (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/leRuO93svoQuQEMRHuWWfK6oTgB.jpg"
+    },
+    {
+      "name": "IN-Kan: Satyabhama (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7I0VTzrqJ4erQHNjrwwhAA5rOTv.jpg"
+    },
+    {
+      "name": "IN-Kan: Dasharatha (2019)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/geUbi9qvCa78VBqOLWsvLe123EL.jpg"
+    },
+    {
+      "name": "IN-Kan: Bheema (2024) (Kannada) (CAM)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijZvbrf67znJyEfm9q4log9hXrw.jpg"
+    },
+    {
+      "name": "IN-Kan: Love Me If You Dare (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9KYzEg6VRqKBvL5yek4v96FRi7.jpg"
+    },
+    {
+      "name": "IN-Kan: Dune: Part Two (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+    },
+    {
+      "name": "IN-Kan: Lisa Frankenstein (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg"
+    },
+    {
+      "name": "IN-Kan: Turbo (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/CBRqel4Yzm8BS4fTMScYA1fQLD.jpg"
+    },
+    {
+      "name": "IN-Kan: One Fast Move (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdBUjfbdr1ymS0kycAT7qguOmWA.jpg"
+    },
+    {
+      "name": "IN-Kan: Indian 2 (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWQ1MDQ5YzItNTFjNC00YzdiLWFjODktMWNhNmUwMmI0MmU1XkEyXkFqcGdeQXVyMTc5ODIzOTk5._V1_QL75_UX100_CR0,4,100,148_.jpg"
+    },
+    {
+      "name": "IN-Kan: Ghudchadi (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eExcwj19vMOCMopBY8GhWzyqg6j.jpg"
+    },
+    {
+      "name": "EN: Love Lies (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ndSYaSNxWfzA0fFXsE6ok5ZLUr.jpg"
+    },
+    {
+      "name": "IN-Kan: Kailasa Kasidre (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1SmlXq6AlC8zQbh96bl33dP6C0.jpg"
+    },
+    {
+      "name": "IN-Kan: Bayaluseeme Babu (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.todaypk.llc/uploads/Bayaluseeme-Babu-Kannada-Poster.jpg"
+    },
+    {
+      "name": "IN-Kan: Roopanthara (2024) [CAM]",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9jZz3yS7AhOJlPEhwaCZcwFHSp.jpg"
+    },
+    {
+      "name": "IN-Kan: Crush (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://a.top4top.io/p_3129f4rlx0.jpg"
+    },
+    {
+      "name": "IN-Kan: Hiranya (2024) (Kannada) (CAM)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gW4Ef6YMbPriPqktUzfQIALtGLo.jpg"
+    },
+    {
+      "name": "IN-Kan: Vidyarthi Vidyarthiniyare (2024) [HDCAM]",
+      "group": "IN - Kannada Movies",
+      "logo": "https://e.top4top.io/p_31275xbcy0.jpg"
+    },
+    {
+      "name": "IN-Kan: Bairagee (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrV2C8c5N3wv4lgrCGpl0XK6gRI.jpg"
+    },
+    {
+      "name": "IN-Kan: Saramsha (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdcAJCuUyDiv7InkjDMNhOtIOLc.jpg"
+    },
+    {
+      "name": "IN-Kan: Chef Chidambara (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpImHoeIUrQg6fbYI8OkGUkVyaE.jpg"
+    },
+    {
+      "name": "Kan: Moorane Krishnappa (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCjK9ZCYAoSZ1y94fnd6Mvw8588.jpg"
+    },
+    {
+      "name": "Back Bencherz (2024) (Kannada) (CAM)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://j.top4top.io/p_3124531mm0.jpg"
+    },
+    {
+      "name": "IN-Kan: The Goat Life (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/95p65Eb3meuWj8DhldOeIz3NLPF.jpg"
+    },
+    {
+      "name": "IN-Kan: Fittrat (2019)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://l.top4top.io/p_3111tikk80.jpeg"
+    },
+    {
+      "name": "IN-Kan: Jorugaa Husharugaa (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTMWNvtRxDo4k7xdyymcucXbcMf.jpg"
+    },
+    {
+      "name": "IN-Kan: Drishya (2014)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbn9RS9f7booE1fpe7XoIgyt4bk.jpg"
+    },
+    {
+      "name": "IN-Kan: Drishya 2 (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x81FxNuSyBitPwUAX0vLhztpLiM.jpg"
+    },
+    {
+      "name": "IN-Kan: Duniya (2007)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQAjC6ZSdP3DmfqRgASkG1aUo0v.jpg"
+    },
+    {
+      "name": "IN-Kan: Eega (2012)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbCPJejbJgRIuOwUzJqcBUjCbFB.jpg"
+    },
+    {
+      "name": "IN-Kan: Ellidde Illi Tanaka (2019)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLDPZdjw76a3yOvZAzFn1xXjCTQ.jpg"
+    },
+    {
+      "name": "IN-Kan: Eradane Sala (2017)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1FtzmszMPZuCtUx7y2EYKywOJy.jpg"
+    },
+    {
+      "name": "IN-Kan: Gajakessari (2014)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m62r3Lo4VC9GLWHQPQgJDvDID9n.jpg"
+    },
+    {
+      "name": "IN-Kan: Haage Summane (2008)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR9d65b7WPOMPQBLHxqpPZU4gcb.jpg"
+    },
+    {
+      "name": "IN-Kan: Hudugaru (2011)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoIN7VeKoVuVxUGEKuKFvL4fYYL.jpg"
+    },
+    {
+      "name": "IN-Kan: The Animated Haggadah (1985)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePmGYSHMxmdNV07y2KoCdJfRWLL.jpg"
+    },
+    {
+      "name": "IN-Kan: India Sweets and Spices (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cUczTzLq1F99Pgiw6BWFsKnD7J.jpg"
+    },
+    {
+      "name": "IN-Kan: Jackie (2016)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nF9N33PfhizMEzbfxHoxXBo2vx9.jpg"
+    },
+    {
+      "name": "IN-Kan: Jolly Days (2009)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiHzvHQDXrKz12kZhnOA6R0nZEq.jpg"
+    },
+    {
+      "name": "IN-Kan: Calling Sahasra (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n49FNv8T4elzdVSwYs6G3K6gUOb.jpg"
+    },
+    {
+      "name": "IN-Kan: Joe (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRMJ4Jvr5YUXOQlYwxX4Q6H6P71.jpg"
+    },
+    {
+      "name": "IN-Kan: Animal (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg"
+    },
+    {
+      "name": "IN-Kan: Devil (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF3CTnQlVypKJnXbdL0CurjZmym.jpg"
+    },
+    {
+      "name": "IN-Kan: Fight Club (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h6t9nCYVWOLRskB35K51payMok.jpg"
+    },
+    {
+      "name": "IN-Kan: Marichi (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbvuxe8yR3HuAOlenoetP8NIBCw.jpg"
+    },
+    {
+      "name": "IN-Kan: Kaiva (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZMeydbseaFjsVm8UdpqoG5ezyM.jpg"
+    },
+    {
+      "name": "IN-Kan: Atharva (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7B1BW2CTp2HlbhfmmqoaaW43Gb.jpg"
+    },
+    {
+      "name": "IN-Kan: Har Har Mahadev (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnSPawPoBmtcd6vCTIncY3QAesD.jpg"
+    },
+    {
+      "name": "IN-Kan: Kaatera (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApGI0qCY63sXPVEvqu0etrtKBGS.jpg"
+    },
+    {
+      "name": "IN-Kan: Saba Nayagan (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYIw5Jt4xkcjObDwJqcgeLFP042.jpg"
+    },
+    {
+      "name": "IN-Kan: Ferrari (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg"
+    },
+    {
+      "name": "IN-Kan: Buy 1 Get 1 Free (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NDskxgnxuZq5aW246oC3ocouN8.jpg"
+    },
+    {
+      "name": "IN-Kan: Dune (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+    },
+    {
+      "name": "IN-Kan: 12th Fail (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eebUPRI4Z5e1Z7Hev4JZAwMIFkX.jpg"
+    },
+    {
+      "name": "IN-Kan: Sathiya Sothanai (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbMJC5CsiFWb1Ge2udEwnwEjndM.jpg"
+    },
+    {
+      "name": "IN-Kan: Leo (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg"
+    },
+    {
+      "name": "IN-Kan: Saturday Afternoon (2019)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8Mxrf6MoWjRpC3C7SzLaAUpWSZ.jpg"
+    },
+    {
+      "name": "IN-Kan: Bad Manners (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nwXOoKABY8uKXnrakaMPOkfevT.jpg"
+    },
+    {
+      "name": "IN-Kan: Tantiram (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTvQXnK2U3vtTMhHOVGteOud3av.jpg"
+    },
+    {
+      "name": "IN-Kan: Swathi Mutthina Male Haniye (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiFlG9RZHdz4rAizT8ZyP9ouyId.jpg"
+    },
+    {
+      "name": "IN-Kan: 800 (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IhUIXCoKobODeq3FbTet9gMAfx.jpg"
+    },
+    {
+      "name": "IN-Kan: Salaar: Part 1 - Ceasefire (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1C677cokQKFHbUKG9sVlIGOiX.jpg"
+    },
+    {
+      "name": "IN-Kan: Jalapata (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXMfScaomrtnhAuAr3cXk7iEY0l.jpg"
+    },
+    {
+      "name": "IN-Kan: Banaras (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t07fraPQpolW7smcwBptQglTnsW.jpg"
+    },
+    {
+      "name": "IN-Kan: Sapta Sagaradaache Ello - Side B (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DIsSaRDmmyDViTwfl9RqV9zQTn.jpg"
+    },
+    {
+      "name": "IN-Kan: Naanu Ladies (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fNbudXc4np4oTGzWsiqoOFRjVB.jpg"
+    },
+    {
+      "name": "IN-Kan: Kuiko (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGzvE0iYCNGVj5Dc3hu10Tk9ln3.jpg"
+    },
+    {
+      "name": "IN-Kan: The Exchange (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZfEQu7tX8EhcFBFgAUBcXRSy6c.jpg"
+    },
+    {
+      "name": "IN-Kan: My Name Is Shruthi (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WpGPg2V2pAMvE1Bqb3607UmoP2.jpg"
+    },
+    {
+      "name": "IN-Kan: Manku Bhai Foxy Rani (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjJlMzVhMjctODAwMy00OWVhLThmYjItOGUxN2RiYTFhOGFjXkEyXkFqcGdeQXVyNTc5MjM5NDI@.V1.jpg"
+    },
+    {
+      "name": "IN-Kan: Juliet 2 (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1AK68EkOewM5QYm8vSOWIWgNm.jpg"
+    },
+    {
+      "name": "IN-Kan: Bhavapurna (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://assets-in.bmscdn.com/discovery-catalog/events/et00374522-jbuvexpcyh-landscape.jpg"
+    },
+    {
+      "name": "IN-Kan: Darbar (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPYRg4Kwwj3w3waMPjGM9M7cLpV.jpg"
+    },
+    {
+      "name": "IN-Kan: Dry Day (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lse7qPwWpYi0bdjmjrXfam7KpXg.jpg"
+    },
+    {
+      "name": "IN-Kan: Parimala D'Souza (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://i.ytimg.com/vi/6n5w0S25SAw/maxresdefault.jpg"
+    },
+    {
+      "name": "IN-Kan: The Final Blade (2018)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r73kYgAx130I5FmmMHjCwl9qXjJ.jpg"
+    },
+    {
+      "name": "IN-Kan: Barbie (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+    },
+    {
+      "name": "IN-Kan: Wonka (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhb1qOilapbapxWQn9jtRCMwXJF.jpg"
+    },
+    {
+      "name": "IN-Kan: Zara Hatke Zara Bachke (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIziBCZWsDCzFbil4iT9TyUOnhT.jpg"
+    },
+    {
+      "name": "IN-Kan: Tatsama Tadbhava (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny31k0vI9nHPIU0h3OKYNFWdXss.jpg"
+    },
+    {
+      "name": "IN-Kan: 3 Devi (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://k.top4top.io/p_3069xju9v0.jpeg"
+    },
+    {
+      "name": "IN-Kan: Fighter (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://0gomovies.movie/wp-content/uploads/Matinee-2024-Kannada-Language-0gomovies.PNG"
+    },
+    {
+      "name": "IN-Kan: The Kill List (2020)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWcO2zLQ0mnSbYW20a5NHtUbXcN.jpg"
+    },
+    {
+      "name": "IN-Kan: Paayum Oli Nee Yenakku (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wR07XZNsWmPGFvitMN1zSk7gFbk.jpg"
+    },
+    {
+      "name": "IN-Kan: Shot Boot Three (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Lg1mq2qUPjWYdN6FQ48AOYWG0l.jpg"
+    },
+    {
+      "name": "IN-Kan: Valatty (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nJ0OUYwNR2jaPXlzPAA3WryiZr.jpg"
+    },
+    {
+      "name": "IN-Kan: MAD (2023).",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDpOmgBfQZwOpFBcgokQGqd74r1.jpg"
+    },
+    {
+      "name": "IN-Kan: Baanadariyalli (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DtggQ8zsumA6o0RFPUc9bF87p1.jpg"
+    },
+    {
+      "name": "IN-Kan: Tiger Nageswara Rao (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tiYpneYIvXfbaCE0brOoBjXP7v.jpg"
+    },
+    {
+      "name": "IN-Kan: Kannur Squad (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGR5OVq4edV7zMicFRdBAWyeCeu.jpg"
+    },
+    {
+      "name": "IN-Kan: Anjaniputra (2017)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/onmNHhm3Yf9GJLwVPNRIIpXlS07.jpg"
+    },
+    {
+      "name": "IN-Kan: Thayige Thakka Maga (2018)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjcxM2FhYzQtZTlhYy00NjRjLWE5NDUtMjVmYWFkOTk3OTI0XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
+    },
+    {
+      "name": "IN-Kan: Chaaver (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtKAARhtxOyAwqibPxfNexWkIWO.jpg"
+    },
+    {
+      "name": "IN-Kan: Pulimada (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTlba6RSP80H2Dx7wy2jqIjxDaq.jpg"
+    },
+    {
+      "name": "IN-Kan: Martin Luther King (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbjAkMUsZwMMd7U0T585uCEUq9r.jpg"
+    },
+    {
+      "name": "IN-Kan: Chithha (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GCvJiG13qqYrt6CG93DyMXHfyL.jpg"
+    },
+    {
+      "name": "IN-Kan: Candy Cane Lane (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQLC8iFicw1vVVbGMyyZzeghC4w.jpg"
+    },
+    {
+      "name": "IN-Kan: The Archies (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmhWb4NTj02FyDxwBm4x9x2JxwJ.jpg"
+    },
+    {
+      "name": "IN-Kan: Mast Mein Rehne Ka (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2y2693EHKtrpNtOuy0goF38XZX.jpg"
+    },
+    {
+      "name": "IN-Kan: Jigarthanda DoubleX (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlPTdgLfgsSv8WiQXRZ2AVIDwAi.jpg"
+    },
+    {
+      "name": "IN-Kan: Japan (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z8hNvpenAJJrtTFONoytov7zW9.jpg"
+    },
+    {
+      "name": "IN-Kan: Pandurangadu (2008)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EC02Y6WDaxSY3esH1O1ArJ8DzK.jpg"
+    },
+    {
+      "name": "IN-Kan: Sesham Mike-il Fathima (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kos67D0OPLSZryrIanPF65MJTWI.jpg"
+    },
+    {
+      "name": "IN-Kan: Spark Life (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEvcGq7AsCJ7oCXVvtATTweE05o.jpg"
+    },
+    {
+      "name": "IN-Kan: Falimy (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqOCGqzLUh76zrE1aNs4cI7L8vY.jpg"
+    },
+    {
+      "name": "IN-Kan: Aadikeshava (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkiuOF79jXjKXziVg7IYoM5XlE0.jpg"
+    },
+    {
+      "name": "IN-Kan: Sugar Factory (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ou4ewICSwrTluBQZKP6C8SI2ytN.jpg"
+    },
+    {
+      "name": "IN-Kan: 80's Buildup (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/88soUeQuYeBdsrLs28eAJ408qs3.jpg"
+    },
+    {
+      "name": "IN-Kan: Curry Mee (2024)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYGvLZhWVLPtobMj8fYv6hlBZCN.jpg"
+    },
+    {
+      "name": "IN-Kan: Mangalavaaram (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQb8ZU3BEbU7XalrqIv2WLEgwwU.jpg"
+    },
+    {
+      "name": "IN-Kan: Annapoorani (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvcSrGLCK3iaJVBc8tJZYOIohee.jpg"
+    },
+    {
+      "name": "IN-Kan: Ape vs Mecha Ape (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJaIw8OgACelojyV6YuVsOhtTLO.jpg"
+    },
+    {
+      "name": "IN-Kan: Hi Nanna (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg"
+    },
+    {
+      "name": "IN-Kan: Darbar (2020)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPYRg4Kwwj3w3waMPjGM9M7cLpV.jpg"
+    },
+    {
+      "name": "IN-Kan: Matinee (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIyZ8lremMxVIvHJtoYFboxqg5m.jpg"
+    },
+    {
+      "name": "IN-Kan: Marigold (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVFNt4Dm2qJRm8y1DgalvQm3Zre.jpg"
+    },
+    {
+      "name": "IN-Kan: Photo (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTW2xPRq6AhlIi2tvaWzxOG50T.jpg"
+    },
+    {
+      "name": "IN-Kan: Manku Bhai Foxy Rani  (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://images.moviebuff.com/c5d39483-b20c-4625-9773-1dc9e0f0528b?w=1000"
+    },
+    {
+      "name": "IN-Kan: Blink (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9d0SOdZMVrwH9zTBFY5yModuSQ.jpg"
+    },
+    {
+      "name": "IN-Kan: Kadala Theerada Bhargava (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rg6pSNWsSffsFTSAtjlqMDd4t4K.jpg"
+    },
+    {
+      "name": "IN-Kan: Purushothamana Prasanga (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGJjYzE4NDMtM2U2Yi00NmVjLTgwMDYtY2FiYzkyNTM5NjczXkEyXkFqcGdeQXVyMTA4MzQ4NzMw._V1_.jpg"
+    },
+    {
+      "name": "IN-Kan: Love (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rH0yCe7CPyToe8tg7YowDCui7D.jpg"
+    },
+    {
+      "name": "IN-Kannada: Raja Marthanda  (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2UyMzc1NjQtNjA1OC00MTM0LWE3YzQtYjNlMDUzNmYwZjhkXkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN-Kan: Rudri (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/VfGZVw9U7Da8415IzJHHecl9bS.jpg"
+    },
+    {
+      "name": "IN-Kan: Kaddha Chitra (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjY0NjgyZTAtNTRkZi00ZTg3LWFlNTQtOTQ3OTFmOTRmN2IwXkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_.jpg"
+    },
+    {
+      "name": "IN-Kan: Malikappuram (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUBwOZ5P6qHHmxpaOtMsChOWSE7.jpg"
+    },
+    {
+      "name": "IN-Kan: Shri Balaji Photo Studio (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTM1MWUwNzMtOTA0Yi00ZDVhLThhNTUtOWQzNWU4OGU3MjBhXkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_.jpg"
+    },
+    {
+      "name": "IN-Kan: Daredevil Musthafa (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKbPmWAfKu0JzX5y1ICgR341ZWU.jpg"
+    },
+    {
+      "name": "IN-Kan: 2018 (2023)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBwJ0Qxu5BMOw2Ch48ek0iFO3Wr.jpg"
+    },
+    {
+      "name": "IN-KANNADA: Head Bush -: Dual Audio (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://gein.detvz.us/base_img/74827f7423c3cd7ced297542e9ed2d45.png"
+    },
+    {
+      "name": "IN-Kannada: Kantara (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg"
+    },
+    {
+      "name": "IN-Kannada: Arjuna Sanyasi (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTYzZWNkYjAtM2Q1MC00ZTk2LThhMjItZDUxNTQ1MGI4YmJlXkEyXkFqcGdeQXVyNjY0OTkzMjk@._V1_.jpg"
+    },
+    {
+      "name": "IN-Kannaad: Kirik Shankar (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kirik-shankar-et00329447-26-05-2022-05-33-57.jpg"
+    },
+    {
+      "name": "IN-Kannada: Ammu (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckaM4pI0CzYHzGUG1bar9Q7LHbl.jpg"
+    },
+    {
+      "name": "IN-Kannada: Sakutumba Sametha",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Kannada: Thurthu Nirgamana",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5DLVucAGkA8WhgsyaSTcIentB5U.jpg"
+    },
+    {
+      "name": "IN-Kannada: Hope",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eNmNWWBWfOz2bQltJ9z1rLIva66.jpg"
+    },
+    {
+      "name": "IN-Kannada: Kotigobba 3",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sm1fiwP8ecOIyB5nO5Dc9l7DGd4.jpg"
+    },
+    {
+      "name": "IN| Vikrant Rona (2022)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IfxcpcPPuFrI5slMaH0Ln4z2o8.jpg"
+    },
+    {
+      "name": "IN-Kannada: 3rd Class",
+      "group": "IN - Kannada Movies",
+      "logo": "http://gein.detvz.us/base_img/e22c5f0f78a3895d9ef8f88db9b28a0e.png"
+    },
+    {
+      "name": "IN-Kannada: Preethi Maadi Thamasha Nodi",
+      "group": "IN - Kannada Movies",
+      "logo": "http://gein.detvz.us/base_img/bc51e82bf9e11c799fedbe776ae2bc77.png"
+    },
+    {
+      "name": "IN-Kannada: Rajeeva IAS",
+      "group": "IN - Kannada Movies",
+      "logo": "http://gein.detvz.us/base_img/d8f5e708739f925bd43c7784f8e36f6e.png"
+    },
+    {
+      "name": "IN-Kannada: Veera Maharshi",
+      "group": "IN - Kannada Movies",
+      "logo": "http://gein.detvz.us/base_img/7296899910fa1a75a217c5654bca8f06.png"
+    },
+    {
+      "name": "IN-Kannada: Bairagee",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/mrV2C8c5N3wv4lgrCGpl0XK6gRI_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: 777 Charlie",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/irmHAELoYRaECBr8zQAlD4myrfk_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Kshamisi Nimma Khaatheyalli Hanavilla",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/rkCsGe7GfEU0u1kHazfoowAqtWS_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Selfie Mummy Googl Daddy",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/ntphmjcOBcl0gZnHIn6yh9KzUdq_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Takkar",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/i2yKwio2H2k8opf4aKH0TYpiuHz_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Indira",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/iIGrWc9a84LDL4soBh2ziIvBwoW_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Nodi Swamy Ivanu Irode Heege",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/1kdWscBd6hhTK1hJz65Pt3rOlNa_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Physics Teacher",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/9hIRL4lIf5SBDjqamnIatPOa43T_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Shokiwala",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/4i5q9Rw7kJfT4A9Z5mtKuX9WH8A_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Jadaghatta",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/muQfi2Xh4tf25sbCZgaooGZfDbE_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Dear Vikram",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/2AL01qmhWd47YZa2mzVxPMOlijE_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Purushothama",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTBiNTAyYzEtMDI2MS00NWZjLWJkMDYtMWJhOTA4ZmNiODAxXkEyXkFqcGdeQXVyMTMxNjc4Mjcy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN-Kannada: Body God",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGRmMDU1NDEtMWNhNS00NDkwLWE1ZTQtZTE3N2M5YjIxNWI5XkEyXkFqcGdeQXVyODY1NzgzMDQ@._V1_QL75_UX190_CR0,8,190,281_.jpg"
+    },
+    {
+      "name": "IN-Kannada: Twenty One Hours",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/2Lu2HzME54tV3KzO8A1mrqinaWg_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Avatara Purusha: Part 1",
+      "group": "IN - Kannada Movies",
+      "logo": "http://tv365.me:900/images/gQ29E9Qy6z5ExsxnpgUTHfpZFO3_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Trikona",
+      "group": "IN - Kannada Movies",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/trikona-et00325219-23-03-2022-03-31-14.jpg"
+    },
+    {
+      "name": "IN-Kannada: ಲವ್ Mocktail 2",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/AitIMxhVAqVGt5yAr63DoIksw4B_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Family Pack",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/uZwfGXzQpX4FmIWh386FLuapcCK_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Rider",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/7AA3U4NH0FqelQEWs9RWikbxsPZ_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: 100",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/2vqtd7ppuozB6LQjKP0PsjXkCWE_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: One Cut Two Cut",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/lecQEQja7by9D7uZjAQE7H9EUqA_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: ACT-1978",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/r2CFcSBK4B1xywyvS5lxxtmhOIw_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Adhyaksha In America",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/xBXXKv0pFrvw0fy44KAooqoMwhW_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Aa Drushya",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/5dp7BDC32buS6Ei4YiytOXBdF12_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Aadi Purana",
+      "group": "IN - Kannada Movies",
+      "logo": "https://images-na.ssl-images-amazon.com/images/I/71P5qXiDwpL._RI_.jpg"
+    },
+    {
+      "name": "IN-Kannada: Aadyaa",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/u4dU8OzcdOSNX62yGLXKZGnP0ye_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Ayushman Bhava",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/nNm2ndkDSdcoWbGmum60R8eJnRP_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Agent Sai Srinivasa Athreya",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/zU002McnFjmofuUGmY21ApiOjL6_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Ala Vaikunthapurramuloo",
+      "group": "IN - Kannada Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/48DIQOSEgpoWUFBrmHW2En6aNZQ.jpg"
+    },
+    {
+      "name": "IN-Kannada: Alidu Ulidavaru",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/bwgxpKVY0GgSlvzGVNYcuMRMKB7_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Ammachi Yemba Nenapu",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/yjcwIpdl368fqhfhagov3MYnvEq_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Apple Mortgage Cake",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/3Zj7izQrWut3cq5Zwn9Ut6qKchY_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Atomic Blonde",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Avane Srimannarayana",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/2RbZNL7JRq5GhIAPrcJlm0LgsgX_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Bhakshakaru",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/hVrC1y1lzsDuqqfM6OvxwKCFxt0_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Bill Gates",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/7RVhyYblgKctUQ7jZICmsibe7yi_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Bell Bottom (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/orEfTrYCTaTvlecIpCz52lsSvjr_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Bharaate",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/mA8CScp9PQaCvGrKmwvfGRljd20_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Birbal Trilogy: Case 1 - Finding Vajramuni",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/pE7S2pQT8OgKSNUO7zjNSezL37z_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Bal Bramhachari",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/ykR8oqrWDjTiuZig00Zp1YxywbB_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: C++",
+      "group": "IN - Kannada Movies",
+      "logo": "https://i.ibb.co/Z2JyfQ9/MV5-BNz-U4-Yj-Ix-MTMt-ZTc3-Yi00-N2-Iz-LWIz-N2-Qt-Nz-Iw-Y2-Ri-Mm-M3-ODMw-Xk-Ey-Xk-Fqc-Gde-QXVy-NTY2-O.jpg"
+    },
+    {
+      "name": "IN-Kannada: DINGA",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.indianfilmhistory.com:3002/media/files_i/1580096965007i2mmmhzdxs.jpeg"
+    },
+    {
+      "name": "IN-Kannada: Drona",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/sZrWW2AN1DndzDF3GvrkWlK7eiH_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Dabangg 3",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/ruuZcKbvrHU4lMR7ye59mZLIJkG_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Damayanthi",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/8gQUNzEiS86we8xBfVRRRZFPBZj_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Demo Piece",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/rsVjeGVi3a7mdj6qDN9rIO0DAut_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Salma's Big Wish",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/nR9mgNV2FaXLJs4BzZg160dXWJC_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Face 2 Face",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/ySHBzrEt1waEXlCsItLJ3zPJAFv_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: The Fan",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/lu7CjP8YES5dJMCFg5O9o9jCkjl_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Fortuner",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/zlNfhQFIyEnomvTPFg6DbeLGjE6_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: French Biriyani",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/ixS8BiwuZrkam8l5knSL4ROXtw_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Girmit",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/cbBPQCAmW7uPs1Dfe6satQOrimr_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Gantumoote",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/vSEI8cfP9iGWVkVqCjqImYPGTDX_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Gimmick",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/rQe4LyrHWm7mlrYa6r4STvL2xwV_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Gosi Gang",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/5PyS9xxpd7x2v3mYeSeay9v1Hyl_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: The Hangover",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/jjCPcxw7QCmFPYM1t3BThdEawJK_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Hawala",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/zYoWRO1TInexTNkswPYboHrbNBU_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Ikkat (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/cJrgBsBUZvqg0vHvCPt3rb8RHUk_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: India vs England",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/diT4E2jGwrOIPJ2YrMtRFp3JuVz_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Jagame Thandhiram (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/goLoLNagbnWpPQh4YQE9R2hSLqj_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Kamarottu Checkpost",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/vKEhc1VXHFcYF3BdjXwgZIAXn8e_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Kannad Gothilla",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/gSDgrsPvmEyMC4hCDRKM49QJYYR_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Kapata Nataka Paatradhaari",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/tHtTbFWixCUKRpRNutNoLckg6Jv_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Khakii",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/x9rhAy3IeAhmyzGyaLpwhVrxye9_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Oru Adaar Love",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/hf7Lxc4bPSn5MsHBfvfZKRjOSv5_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Kirik Party",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/rt8CNGldKjtJAncjB2c6k1cCH7r_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Kiss",
+      "group": "IN - Kannada Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2f/Kiss_%282019_film%29.jpg"
+    },
+    {
+      "name": "IN-Kannada: Kollegala",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmM5ZGMwOGYtNGM5My00NjczLTk3MzctZmMzOGQ4YzhlYjQ0XkEyXkFqcGdeQXVyNzM3NDY4ODQ@._V1_.jpg"
+    },
+    {
+      "name": "IN-Kannada: Krishnan S/O CM",
+      "group": "IN - Kannada Movies",
+      "logo": "https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/512/512/0/21/33/fe9e3ca0cc0411eaa23c8be181bea5dd_1595477961557_p_medium.jpg"
+    },
+    {
+      "name": "IN-Kannada: Jarhead: Law of Return",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/6LlqyjAik3Kh68QQ9AchSJEF0Z5_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Love Mocktail",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/bJqYDmyJffTk9ruvPt6B5WTPe9B_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: MLA Mani: Patham Classum Gusthiyum",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Maara (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/iRseVdrHk4dhmwrYwbtDtxJYwA8_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Mahira",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/xPDizMoLN3yvT5vPxmjx3w0Prrw_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Majili",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/7IixlOqqY86htqlRQStVvOtkYnz_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Malgudi Days",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/hrMbGhGxvCuI7wIHgjLMJW8nEbP_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Manaroopa",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/jFPxGHVBG73qLdtKPClT8XG6qaw_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Mane Maratakkide",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/8EvmAnHHYlKUmkAIDEBgVhYx4ur_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Manne No 13",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/eKWNp7rHsRdhBJ3jp1knPH93WYQ_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Matte Udbhava",
+      "group": "IN - Kannada Movies",
+      "logo": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/matte-udbhava-et00124388-21-01-2020-12-12-08.jpg"
+    },
+    {
+      "name": "IN-Kannada: Maya Kannadi",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/cyW9nuNoVR52KiQaZfav7Mt6Iik_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Mayabazar 2016",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/3kKrUnZWHh9x88JbQUGHrK4uwjo_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Middle Class Huduga",
+      "group": "IN - Kannada Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Middle_Class_Abbayi_poster.jpg/220px-Middle_Class_Abbayi_poster.jpg"
+    },
+    {
+      "name": "IN-Kannada: Middle Class Melodies",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/xfdnv49YdBpxfIE8h0zLmBTVgm1_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Mounam",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/v3KYipBzfiNIFG5P2EH9pBloYI4_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Mukunda Murari",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/uWfEvURxtbVDXBIQO3qsy50S4rW_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Mundina Nildana",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/5rfAYqPYqahqfkpaQeUVuUEQHXd_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Nanna Prakara",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/spEcswoioFR8ObhaVpYRIMjLZK7_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Naanu Matthu Gunda",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/bA0vsPd84dUKgddulVBMM8to1UH_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Nam Gani B.Com Pass",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/a0wnM1GlBU2sWLcFTOTKqlboh3v_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Nathicharami",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/3cv0bQgu9PnH89xms2byU9ld7V2_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Navelru... Half Boiled",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/l5pruOz8sBnZErqzS5j8bl81nR7_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Nenu Local",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/5rzXz9kw7Qsar3M8kvqv0tSmaNp_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Neuron",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Nishabdham",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/d3e68bM6SUk4UuE7K6kNwcRiTRu_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: O Premave",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDVlMjU2NGEtNTAyOS00ZDU5LTg2MjItMjRlZGE4YTNiNzI4XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
+    },
+    {
+      "name": "IN-Kannada: Odeya",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/jMc2YQd2B3dHv3mzQ5ZSNz0oMEZ_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Ondu Shikariya Kathe",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/5Is6ydrcWVbpPtlrEhNyS0otj5x_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Operation Nakshatra",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/P1IKf6P4u7JfLKiw2C255uAHY0_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Agnyaathavaasi",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/lbG8xZlRnSpEAFEswG85suN1erA_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Pogaru (2021) (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/iKulrSnAylrwOvXOYmJsHGTb4r1_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Pogaru",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Padde Huli",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Pencil Box",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/uebfLGEqel7khBXj133yhnvwtm8_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Prema Entha Madhura (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://img.4movierulz.fr/prema-entha-madhura-2021-6987.jpg"
+    },
+    {
+      "name": "IN-Kannada: Puttaraju Lover of Shashikala",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/drSHV9d8liLEmIZcMa4rMKtODWq_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Randhawa",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/kRsvkhQawDwKH3pUb0KNBlIcc6Z_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Ramarajya",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/cjwv6C6vJLn87eUofFwfKdj2fnV_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Ramarjuna (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/1n8CFggl5VnkFxppEX4qzU7w9rF_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Rangasthalam",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/yiEzDgBBFC25Zd6z0r7sMngn5vr_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: RangiTaranga",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/jvE6k9noK4BaU2F1GBhVe7vvjcI_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Ratnamanjari",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/riONaA3IjBwxDgW5ZxIvq8eibXa_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Rewind (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/8icW9QXQRx4ls9fh0Cc9DBqaQwm_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Roberrt (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/gBCkf1rk9KyJt9o6wC866BM6WWi_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Rugged",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTk1YTJmZTItZTIxYi00OTdiLWJlODQtYzFlOGU5MjdjMjkyXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
+    },
+    {
+      "name": "IN-Kannada: Soorarai Pottru",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/5uimlxPCgAei8JfQUDFEUQLoyyh_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Sye Raa Narasimha Reddy",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/uEheujJysophwGaqHWPu1UCPthl_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Sarrainodu",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/9r4LCgznHZWg2vdxbZRqnlFpKIC_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Harry Potter and the Chamber of Secrets",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/sdEOH0992YZ0QSxgXNIGLq1ToUi_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Mugana Sedu",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/nQuCfmzGx8fQGeVE9o4vRO5nlko_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: The Magnificent Seven",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/ezcS78TIjgr85pVdaPDd2rSPVNs_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Shailaja Reddy Alludu",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/2Y4nCSnyPkR1KGpBphomSFj696m_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Sinnga",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/uNGvUgLMkK7lFZBMIF39ycXMi7Q_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Skyfire",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/dDf8M1yMwvBVe8VtOKxCpOog8CF_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Software Sudheer",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/i0XNF33mnWAdHgJSlqqNl6SwEaT_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Sri Bharatha Baahubali",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/j94lTdIjmEqfwJuQ96pCqNxm2HU_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Striker",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/zOkQKSowQySgBts2Ow5JrGQtgI_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: super khiladi",
+      "group": "IN - Kannada Movies",
+      "logo": "http://ip365.cx:900/images/fMiG03i11lQ5E3Q0HWMnuemr59p_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Swartharatna",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/x5Fjen120pq0x62nhySeZUeuTQO_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Tagaru",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/7IMOEfZ4QBFSo2Udi5DvVbyCDBq_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Talaq Talaq Talaq (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTU3NTFlZGMtZDhkYi00MjYxLWIxMzgtODAzMmFmMmZmMzY3XkEyXkFqcGdeQXVyMTI4NTM5MzE5._V1_.jpg"
+    },
+    {
+      "name": "IN-Kannada: Urvi",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/x3SBYxAQtwvYxzLQIo8iZG4QuvG_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: V",
+      "group": "IN - Kannada Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b5/V_%28film%29.jpg"
+    },
+    {
+      "name": "IN-Kannada: Vajramukhi",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/fcPzEk8jyzkqSsLv71za5N7y1aO_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Vijayaratha",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/bjb1bFZ2YswAt82pqVpq4kUQI5Y_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Viruddha",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/nT4o0ye3dnPo4jsPyrTB1Dwo2or_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Vrithra",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/3DVrgmRoGMpzDfcnEZ5M2kNAbSX_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Wild Dog (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/8377XckHbfJDMrkSpEa9ZQJlVE0_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Yuvarathnaa (2021)",
+      "group": "IN - Kannada Movies",
+      "logo": "http://line.megacdn.live:80/images/ZVrXoqSL8lwdN9ZQHUTf9KzGOw_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Kurup",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQU8Ru6hVHHkELTM0mAxThuXFQY.jpg"
+    },
+    {
+      "name": "IN-Kannada: Bhajarangi 2",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AhgT7FQxUE9PTinUca0S8QMeEv3.jpg"
+    },
+    {
+      "name": "IN-Kannada: Minnal Murali",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8v5oQbsSLNLAeS2Imm8NHxASjnb.jpg"
+    },
+    {
+      "name": "IN-Kannada: Muddy",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/jNWrDYMSstertJKFhIozPfhAmgA_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Karkhanisanchi Waari",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/9uW2SV4e5EYhkKeypQ7lumAxYY2_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Pushpa: The Rise - Part 1",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/27EOe4zX8M4ANWZ78Y1KYZimeJz_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Seetharam Benoy",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/gF2chNkAPwskKjhSZlolEpVArIk_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Advocate",
+      "group": "IN - Kannada Movies",
+      "logo": "https://www.thetelugufilmnagar.com/wp-content/uploads/2021/10/Advocate.png"
+    },
+    {
+      "name": "IN-Kannada: Garuda Gamana Vrishabha Vahana",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/5jWfzHXvqLllbsVL7bvV1UVTq8s_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Govinda Govinda",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/aTq2buNLJzGl5JYyIyE0Zdkm4ES_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Madhagaja",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/rFhp8DlrhUzVLO0pW3cIyGoF7S_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Nasha",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/riLBGUGqDQZ4hBZyS6RTqcHONmj_big.jpg"
+    },
+    {
+      "name": "IN-Kannada: Badava Rascal",
+      "group": "IN - Kannada Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/yuftCFGLIalzCs0ksultoaoujmm_big.jpg"
+    }
+  ]
+}

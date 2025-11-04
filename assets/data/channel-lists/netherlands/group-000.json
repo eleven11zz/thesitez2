@@ -1,0 +1,893 @@
+{
+  "package": "netherlands",
+  "name": "NL - Netherlands - Live.",
+  "groupIndex": 0,
+  "totalChannels": 177,
+  "channels": [
+    {
+      "name": "NL- NET 5 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/net5.png"
+    },
+    {
+      "name": "NL: AT 5 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/5.png"
+    },
+    {
+      "name": "NL: BBC First FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/bbcfirst.png"
+    },
+    {
+      "name": "NL: BBC First HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/bbcfirst.png"
+    },
+    {
+      "name": "NL: BVN HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/bvn.png"
+    },
+    {
+      "name": "NL: Comedy Central Extra 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentralextra.png"
+    },
+    {
+      "name": "NL: Comedy Central Extra HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentralextra.png"
+    },
+    {
+      "name": "NL: Comedy Central HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentral.png"
+    },
+    {
+      "name": "NL: DEN HAAG TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/24382729541.png"
+    },
+    {
+      "name": "NL: Family 7 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/family7.png"
+    },
+    {
+      "name": "NL: Fashion TV 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/fashiontv.png"
+    },
+    {
+      "name": "NL: Fashion TV FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/fashiontv.png"
+    },
+    {
+      "name": "NL: FOX 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/fox.png"
+    },
+    {
+      "name": "NL: FOX HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/fox.png"
+    },
+    {
+      "name": "NL: NPO 1 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/npo1.png"
+    },
+    {
+      "name": "NL: NPO 2 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/npo2.png"
+    },
+    {
+      "name": "NL: NPO 2 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/npo2.png"
+    },
+    {
+      "name": "NL: NPO 3 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/npo3.png"
+    },
+    {
+      "name": "NL: NPO Nieuws HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nponieuws.png"
+    },
+    {
+      "name": "NL: Omroep Brabant Televisie HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7068539410.png"
+    },
+    {
+      "name": "NL: Omroep Flevoland NL HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/omroepflevoland.png"
+    },
+    {
+      "name": "NL: Omroep Swest HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/6164794745.png"
+    },
+    {
+      "name": "NL: Omroep Tilburg HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/omroeptilburg.png"
+    },
+    {
+      "name": "NL: Omroep WEST HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/omroepwest.png"
+    },
+    {
+      "name": "NL: Omroep Zeeland 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/omroepzeeland.png"
+    },
+    {
+      "name": "NL: Omrop Fryslan HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/omropfryslan.png"
+    },
+    {
+      "name": "NL: OUT TV 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/outtv.png"
+    },
+    {
+      "name": "NL: RTL 4 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl4.png"
+    },
+    {
+      "name": "NL: RTL 4 FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl4.png"
+    },
+    {
+      "name": "NL: RTL 4 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl4.png"
+    },
+    {
+      "name": "NL: RTL 5 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl5.png"
+    },
+    {
+      "name": "NL: RTL 5 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl5.png"
+    },
+    {
+      "name": "NL: RTL 7 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl7.png"
+    },
+    {
+      "name": "NL: RTL 7 FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl7.png"
+    },
+    {
+      "name": "NL: RTL 7 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl7.png"
+    },
+    {
+      "name": "NL: RTL 8 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl8.png"
+    },
+    {
+      "name": "NL: RTL 8 FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl8.png"
+    },
+    {
+      "name": "NL: RTL 8 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtl8.png"
+    },
+    {
+      "name": "NL: RTL Crime HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtlcrime.png"
+    },
+    {
+      "name": "NL: RTL Lounge 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtllounge.png"
+    },
+    {
+      "name": "NL: RTL Lounge HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtllounge.png"
+    },
+    {
+      "name": "NL: RTL Z 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtlz.png"
+    },
+    {
+      "name": "NL: RTL Z HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtlz.png"
+    },
+    {
+      "name": "NL: RTV Arnhem HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtvarnhem.png"
+    },
+    {
+      "name": "NL: RTV Drenthe HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtvdrenthe.png"
+    },
+    {
+      "name": "NL: RTV Maastricht HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtvmaastricht.png"
+    },
+    {
+      "name": "NL: RTV OOST HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtvoost.png"
+    },
+    {
+      "name": "NL: RTV Rijnmond HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtvrijnmond.png"
+    },
+    {
+      "name": "NL: RTV Utrecht HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtvutrecht.png"
+    },
+    {
+      "name": "NL: RTV-7 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/2012492024.png"
+    },
+    {
+      "name": "NL: SBS 6 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/sbs6.png"
+    },
+    {
+      "name": "NL: SBS 9 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/sbs9.png"
+    },
+    {
+      "name": "NL: SBS 9 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/sbs9.png"
+    },
+    {
+      "name": "NL: SBS6 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/sbs6.png"
+    },
+    {
+      "name": "NL: Shorts TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/shortstv.png"
+    },
+    {
+      "name": "NL: Spike 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/spike.png"
+    },
+    {
+      "name": "NL: Spike HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/spike.png"
+    },
+    {
+      "name": "NL: TV 538 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tv538.png"
+    },
+    {
+      "name": "NL: TV 538 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tv538.png"
+    },
+    {
+      "name": "NL: TV Gelderland 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tvgelderland.png"
+    },
+    {
+      "name": "NL: TV Gelderland HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tvgelderland.png"
+    },
+    {
+      "name": "NL: TV Noord HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tvnoord.png"
+    },
+    {
+      "name": "NL: TV OOST 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tvoost.png"
+    },
+    {
+      "name": "NL: TV OOST HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tvoost.png"
+    },
+    {
+      "name": "NL: TV Rijnmond 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tvrijnmond.png"
+    },
+    {
+      "name": "NL: TV WEST HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tvwest.png"
+    },
+    {
+      "name": "NL: TVdrenthe HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tvdrenthe.png"
+    },
+    {
+      "name": "NL: Veronica 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/veronica.png"
+    },
+    {
+      "name": "NL: Veronica HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/veronica.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Select HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportselect.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Select FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportselect.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Select 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportselect.png"
+    },
+    {
+      "name": "NL: Ziggo Sport GOLF HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportgolf.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Voetbal HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportvoetbal.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Racing HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportracing.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Racing 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportracing.png"
+    },
+    {
+      "name": "NL: Ziggo DOCU FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/1323089667.png"
+    },
+    {
+      "name": "NL: Ziggo Sport DOCU HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportdocu.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Extra 1 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportextra1.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Extra 1 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportextra1.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Extra 2 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportextra2.png"
+    },
+    {
+      "name": "NL: Ziggo Sport Extra 2 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportextra2.png"
+    },
+    {
+      "name": "NL: ESPN 1 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn1.png"
+    },
+    {
+      "name": "NL: ESPN 1 FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn1.png"
+    },
+    {
+      "name": "NL: ESPN 2 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn2.png"
+    },
+    {
+      "name": "NL: ESPN 2 FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn2.png"
+    },
+    {
+      "name": "NL: ESPN 3 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn3.png"
+    },
+    {
+      "name": "NL: ESPN 3 FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn3.png"
+    },
+    {
+      "name": "NL: ESPN 4 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn4.png"
+    },
+    {
+      "name": "NL: ESPN 4 FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn4.png"
+    },
+    {
+      "name": "NL: Extreme Sports HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/extremesports.png"
+    },
+    {
+      "name": "NL: Eurosport 1 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "NL: Eurosport 1 4K+ HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "NL: Eurosport 2 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "NL: Eurosport 2 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "NL: ESPN 1 FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn1.png"
+    },
+    {
+      "name": "NL: ESPN 2 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn2.png"
+    },
+    {
+      "name": "NL: ESPN 4 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/espn4.png"
+    },
+    {
+      "name": "NL:VIAPLAY NL Event 1  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/95105354411.png"
+    },
+    {
+      "name": "NL: VIAPLAY NL Event 2  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/91356766811.png"
+    },
+    {
+      "name": "NL: VIAPLAY NL Event 3  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/12002302421.png"
+    },
+    {
+      "name": "NL: VIAPLAY NL Event 4  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/79564766541.png"
+    },
+    {
+      "name": "NL: VIAPLAY NL Event 5  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/94733428461.png"
+    },
+    {
+      "name": "NL: VIAPLAY NL Event 6  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/59821944301.png"
+    },
+    {
+      "name": "NL: VIAPLAY NL Event 7  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/59277146031.png"
+    },
+    {
+      "name": "NL: VIAPLAY NL Event 10  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/9078d596721e001593ff1c458e17d77a.png"
+    },
+    {
+      "name": "NL: VIAPLAY NL Event 8  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/df25c90b016709eaed46eac22ea6cc83.png"
+    },
+    {
+      "name": "NL: VIAPLAY NL Event 9  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/045565789ba1a82bba4cbeac25547e06.png"
+    },
+    {
+      "name": "NL: BABY TV 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/babytv.png"
+    },
+    {
+      "name": "NL: BABY TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/babytv.png"
+    },
+    {
+      "name": "NL: Boomerang 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/boomerang.png"
+    },
+    {
+      "name": "NL: Cartoon Network 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "NL: Cartoon Network HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "NL: Disney Channel HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "NL: DUCK TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/ducktv.png"
+    },
+    {
+      "name": "NL: Jimjam HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/jimjam.png"
+    },
+    {
+      "name": "NL: NICK JR. HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nickjr.png"
+    },
+    {
+      "name": "NL: NICK Junior 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nickjunior.png"
+    },
+    {
+      "name": "NL: NICK Junior HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nickjunior.png"
+    },
+    {
+      "name": "NL: NICK Toons 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nicktoons.png"
+    },
+    {
+      "name": "NL: Nickelodeon 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "NL: Nickelodeon HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "NL: Nicktoons HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nicktoons.png"
+    },
+    {
+      "name": "NL: NPO ZAPP HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/npozapp.png"
+    },
+    {
+      "name": "NL: Pebble TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/pebbletv.png"
+    },
+    {
+      "name": "NL: RTL Telekids 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtltelekids.png"
+    },
+    {
+      "name": "NL: RTL Telekids HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/rtltelekids.png"
+    },
+    {
+      "name": "NL: Veronica HD / Disney XD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/veronicadisneyxd.png"
+    },
+    {
+      "name": "NL: 24 Kitchen 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/24kitchen.png"
+    },
+    {
+      "name": "NL: 24 Kitchen HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/24kitchen.png"
+    },
+    {
+      "name": "NL: Animal Planet 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "NL: Animal Planet HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "NL: Discovery Channel 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "NL: Discovery Channel HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "NL: Discovery ID 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/discovery.png"
+    },
+    {
+      "name": "NL: Discovery Science 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "NL: Discovery Science HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "NL: Discovery Showcase HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryshowcase.png"
+    },
+    {
+      "name": "NL: Discovery World FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryworld.png"
+    },
+    {
+      "name": "NL: History Channel HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/historychannel.png"
+    },
+    {
+      "name": "NL: History HD 4K  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/history.png"
+    },
+    {
+      "name": "NL: Horse & Country TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/horsecountrytv.png"
+    },
+    {
+      "name": "NL: Investigation Discovery HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/investigationdiscovery.png"
+    },
+    {
+      "name": "NL: LOVE Nature 4K  HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/29323501201.png"
+    },
+    {
+      "name": "NL: LOVE Nature HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/lovenature.png"
+    },
+    {
+      "name": "NL: NAT GEO WILD FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "NL: National Geographic HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "NL: National Geographic WILD 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographicwild.png"
+    },
+    {
+      "name": "NL: National Geographic WILD HD DUT  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/52836705821.png"
+    },
+    {
+      "name": "NL: TLC HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "NL: Film1 Drama HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/film1drama.png"
+    },
+    {
+      "name": "NL: Film1 Drama 4K+ HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/film1drama.png"
+    },
+    {
+      "name": "NL: FILM 1 Action HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/film1action.png"
+    },
+    {
+      "name": "NL: Film1 Action FHD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/film1action.png"
+    },
+    {
+      "name": "NL: Film1 Action 4K+ HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/film1action.png"
+    },
+    {
+      "name": "|NL| FILM 1 Premiere HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/film1premiere.png"
+    },
+    {
+      "name": "NL: Film1 Premiere 4K+ HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/film1premiere.png"
+    },
+    {
+      "name": "NL: Film1 Family HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/film1family.png"
+    },
+    {
+      "name": "NL: Redbox Thriller 1 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/95237607141.png"
+    },
+    {
+      "name": "NL: Redbox Thriller 2 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/80022352631.png"
+    },
+    {
+      "name": "NL: Redbox Animatie 1 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/24665247681.png"
+    },
+    {
+      "name": "NL: Redbox Animatie 2 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/30102508491.png"
+    },
+    {
+      "name": "NL: Redbox Thriller 3 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/84321717961.png"
+    },
+    {
+      "name": "NL: Redbox Actie 1 HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/98027456151.png"
+    },
+    {
+      "name": "NL: TLC 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "NL: 100% NL TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/5205123607.jpg"
+    },
+    {
+      "name": "NL: 192 TV 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/192tv.png"
+    },
+    {
+      "name": "NL: 192TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/192tv.png"
+    },
+    {
+      "name": "NL: Dance Trippin HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/dancetrippin.png"
+    },
+    {
+      "name": "NL: Djazz TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/djazztv.png"
+    },
+    {
+      "name": "NL: Mezzo HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/mezzo.png"
+    },
+    {
+      "name": "NL: MTV HITS NL HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/mtvhits.png"
+    },
+    {
+      "name": "NL: MTV Music24 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/mtvmusic24.png"
+    },
+    {
+      "name": "NL: Slam!TV HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/slamtv.png"
+    },
+    {
+      "name": "NL: VH1 Classic HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/vh1classic.png"
+    },
+    {
+      "name": "NL: XITE 4K HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/xite.png"
+    },
+    {
+      "name": "NL: XITE HD  (101-SERVERS)",
+      "group": "NL - Netherlands - Live.",
+      "logo": "https://logo.m3uassets.com/xite.png"
+    }
+  ]
+}

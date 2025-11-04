@@ -1,0 +1,1018 @@
+{
+  "package": "world",
+  "name": "PL - Polish & Poland - Live.",
+  "groupIndex": 100,
+  "totalChannels": 202,
+  "channels": [
+    {
+      "name": "PL: Active Family HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/activefamily.png"
+    },
+    {
+      "name": "PL: Adventure HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/adventure.png"
+    },
+    {
+      "name": "PL: ALE KINO HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/alekino.png"
+    },
+    {
+      "name": "PL: AMC HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/amc.png"
+    },
+    {
+      "name": "PL: Animal Planet HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "PL: ATM Rozrywka TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/atmrozrywkatv.png"
+    },
+    {
+      "name": "PL: AXN Black HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/axnblack.png"
+    },
+    {
+      "name": "PL: AXN HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/axn.png"
+    },
+    {
+      "name": "PL: AXN SPIN HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/axnspin.png"
+    },
+    {
+      "name": "PL: AXN White HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/axnwhite.png"
+    },
+    {
+      "name": "PL: AXN White HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/axnwhite.png"
+    },
+    {
+      "name": "PL: BABY TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/babytv.png"
+    },
+    {
+      "name": "PL: BBC Earth 4K+ HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/bbcearth.png"
+    },
+    {
+      "name": "PL: BBC Earth HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/bbcearth.png"
+    },
+    {
+      "name": "PL: BBC First HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/bbcfirst.png"
+    },
+    {
+      "name": "PL: BBC LIFE STYLE HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/bbclifestyle.png"
+    },
+    {
+      "name": "PL: Boomerang HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/boomerang.png"
+    },
+    {
+      "name": "PL: Canal Family HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/33760872561.png"
+    },
+    {
+      "name": "PL: Canal FILM HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canalfilm.png"
+    },
+    {
+      "name": "PL: Canal FILM HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canalfilm.png"
+    },
+    {
+      "name": "PL: Canal Seriale HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canalseriale.png"
+    },
+    {
+      "name": "PL: Canal Sport 1 PLUS HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/21617829021.png"
+    },
+    {
+      "name": "PL: Canal Sport 2 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canalsport2.png"
+    },
+    {
+      "name": "PL: Canal+ 1 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canal1.png"
+    },
+    {
+      "name": "PL: Canal+ 4K HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canal.png"
+    },
+    {
+      "name": "PL: Canal+ DOMO HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/80863591701.png"
+    },
+    {
+      "name": "PL: Canal+ Family HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/14242250641.png"
+    },
+    {
+      "name": "PL: Canal+ Premium HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/33183955781.png"
+    },
+    {
+      "name": "PL: Canal+ Sport 1 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/39044115691.png"
+    },
+    {
+      "name": "PL: Canal+ Sport 2 FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canalsport2.png"
+    },
+    {
+      "name": "PL: Canal+ Sport 3 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canalsport3.png"
+    },
+    {
+      "name": "PL: Canal+ Sport 4 FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/33131201681.png"
+    },
+    {
+      "name": "PL: Canal+ Sport 4K+ HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canalsport.png"
+    },
+    {
+      "name": "PL: Cartoon Network HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "PL: CARTOONITO  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonito.png"
+    },
+    {
+      "name": "PL: CBEEBIES  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/cbeebies.png"
+    },
+    {
+      "name": "PL: CBS EUROPA  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/cbseuropa.png"
+    },
+    {
+      "name": "PL: CBS Reality FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/cbsreality.png"
+    },
+    {
+      "name": "PL: Cinemax HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax.png"
+    },
+    {
+      "name": "PL: Comedy Central HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentral.png"
+    },
+    {
+      "name": "PL: Disco POLO Music TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9637997732.jpg"
+    },
+    {
+      "name": "PL: Discovery Channel HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "PL: Discovery Historia HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryhistoria.png"
+    },
+    {
+      "name": "PL: Discovery LIFE HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/discoverylife.png"
+    },
+    {
+      "name": "PL: Discovery Science HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "PL: Discovery Turbo XTRA HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryturboxtra.png"
+    },
+    {
+      "name": "PL: Disney Channel HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "PL: Disney Channel HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "PL: Disney XD HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/disneyxd.png"
+    },
+    {
+      "name": "PL: DOKU HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/85215175051.png"
+    },
+    {
+      "name": "PL: DTX HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/dtx.png"
+    },
+    {
+      "name": "PL: E!  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/e.png"
+    },
+    {
+      "name": "PL: Eleven Sport 1 FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/elevensport1.png"
+    },
+    {
+      "name": "PL: Eleven Sport 1 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/elevensport1.png"
+    },
+    {
+      "name": "PL: Eleven Sport 3 FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/elevensport3.png"
+    },
+    {
+      "name": "PL: Eleven Sports 2 FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports2.png"
+    },
+    {
+      "name": "PL: Eleven Sports 3 FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports3.png"
+    },
+    {
+      "name": "PL: Eleven Sports 3 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports3.png"
+    },
+    {
+      "name": "PL: Eleven Sports 4 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports4.png"
+    },
+    {
+      "name": "PL: Eleven Sports 4 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports4.png"
+    },
+    {
+      "name": "PL: ESKA ROCK TV  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/eskarocktv.png"
+    },
+    {
+      "name": "PL: ESKA TV Extra HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/eskatvextra.png"
+    },
+    {
+      "name": "PL: ESKA TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/eskatv.png"
+    },
+    {
+      "name": "PL: Eurosport 2 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "PL: EXTREME SPORTS  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/extremesports.png"
+    },
+    {
+      "name": "PL: Fightbox FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/fightbox.png"
+    },
+    {
+      "name": "PL: Filmbox Arthouse HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxarthouse.png"
+    },
+    {
+      "name": "PL: Filmbox Extra HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxextra.png"
+    },
+    {
+      "name": "PL: Filmbox Family HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxfamily.png"
+    },
+    {
+      "name": "PL: Filmbox Premium HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxpremium.png"
+    },
+    {
+      "name": "PL: Fokus TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/fokustv.png"
+    },
+    {
+      "name": "PL: Fokus TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/fokustv.png"
+    },
+    {
+      "name": "PL: FOOD Network HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/foodnetwork.png"
+    },
+    {
+      "name": "PL: FOX COMEDY  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/foxcomedy.png"
+    },
+    {
+      "name": "PL: FOX HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/fox.png"
+    },
+    {
+      "name": "PL: GOLF Channel HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/golfchannel.png"
+    },
+    {
+      "name": "PL: HBO 2 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/hbo2.png"
+    },
+    {
+      "name": "PL: HBO 3 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/hbo3.png"
+    },
+    {
+      "name": "PL: HBO HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/hbo.png"
+    },
+    {
+      "name": "PL: HGTV  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/hgtv.png"
+    },
+    {
+      "name": "PL: History HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/history.png"
+    },
+    {
+      "name": "PL: Investigation Discovery HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/investigationdiscovery.png"
+    },
+    {
+      "name": "PL: KINO HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/kino.png"
+    },
+    {
+      "name": "PL: KINO Polska HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/kinopolska.png"
+    },
+    {
+      "name": "PL: KINO Polska Muzyka HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/kinopolskamuzyka.png"
+    },
+    {
+      "name": "PL: Lifetime HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/lifetime.png"
+    },
+    {
+      "name": "PL: Metro HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/metro.png"
+    },
+    {
+      "name": "PL: Minimini HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/minimini.png"
+    },
+    {
+      "name": "PL: Minimini+ HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/minimini.png"
+    },
+    {
+      "name": "PL: MTV LIVE HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/mtvlive.png"
+    },
+    {
+      "name": "PL: MUSIC VOX TV  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/9ad375e6f6c9a5e2ad3a2a64a5f97849.png"
+    },
+    {
+      "name": "PL: NAT GEO WILD HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "PL: NAT-GEO  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/geo.png"
+    },
+    {
+      "name": "PL: National Geographic People HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographicpeople.png"
+    },
+    {
+      "name": "PL: NICK JR HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/nickjr.png"
+    },
+    {
+      "name": "PL: NICK MUSIC  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/nickmusic.png"
+    },
+    {
+      "name": "PL: Nickelodeon HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "PL: Nicktoons HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/nicktoons.png"
+    },
+    {
+      "name": "PL: NOWA TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/nowatv.png"
+    },
+    {
+      "name": "PL: Nsport HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/nsport.png"
+    },
+    {
+      "name": "PL: Novelas+ HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/novelas.png"
+    },
+    {
+      "name": "PL: Paramount Channel HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/paramountchannel.png"
+    },
+    {
+      "name": "PL: PLANETE +  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/planete.png"
+    },
+    {
+      "name": "PL: POLO TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polotv.png"
+    },
+    {
+      "name": "PL: Polsat 2 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsat2.png"
+    },
+    {
+      "name": "PL: Polsat CAFE HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatcafe.png"
+    },
+    {
+      "name": "PL: Polsat DOKU FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatdoku.png"
+    },
+    {
+      "name": "PL: Polsat FILM HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatfilm.png"
+    },
+    {
+      "name": "PL: Polsat Games HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatgames.png"
+    },
+    {
+      "name": "PL: Polsat HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsat.png"
+    },
+    {
+      "name": "PL: Polsat JIM JAM HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatjimjam.png"
+    },
+    {
+      "name": "PL: Polsat Music HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatmusic.png"
+    },
+    {
+      "name": "PL: Polsat Music FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatmusic.png"
+    },
+    {
+      "name": "PL: Polsat NEWS HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatnews.png"
+    },
+    {
+      "name": "PL: Polsat NEWS 2 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatnews2.png"
+    },
+    {
+      "name": "PL: Polsat PLAY HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatplay.png"
+    },
+    {
+      "name": "PL: Polsat Rodzina HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatrodzina.png"
+    },
+    {
+      "name": "PL: Polsat Rodzina HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatrodzina.png"
+    },
+    {
+      "name": "PL: Polsat Romance HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/59806189261.png"
+    },
+    {
+      "name": "PL: Polsat Sport Extra HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsportextra.png"
+    },
+    {
+      "name": "PL: Polsat Sport Extra HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsportextra.png"
+    },
+    {
+      "name": "PL: Polsat Sport Fight FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsportfight.png"
+    },
+    {
+      "name": "PL: Polsat Sport HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsport.png"
+    },
+    {
+      "name": "PL: Polsat Sport Fight HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsportfight.png"
+    },
+    {
+      "name": "PL: Polsat Sport Premium 2 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsportpremium2.png"
+    },
+    {
+      "name": "PL: Polsat Sport Premium 3 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/65594964011.png"
+    },
+    {
+      "name": "PL: Polsat Sport Premium 6 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/28872670161.png"
+    },
+    {
+      "name": "PL: Polsat Sport Premium PPV 3 FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsportpremiumppv3.png"
+    },
+    {
+      "name": "PL: Polsat Sport Premium PPV 4 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsportpremiumppv4.png"
+    },
+    {
+      "name": "PL: Polsat Sport Premium PPV 5 FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsportpremiumppv5.png"
+    },
+    {
+      "name": "PL: Polsat Sport Premium PPV 6 FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatsportpremiumppv6.png"
+    },
+    {
+      "name": "PL: Polsat Viasat Explore HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatviasatexplore.png"
+    },
+    {
+      "name": "PL: Polsat Viasat History HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatviasathistory.png"
+    },
+    {
+      "name": "PL: Polsat Viasat Nature HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/polsatviasatnature.png"
+    },
+    {
+      "name": "PL: Power TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/powertv.png"
+    },
+    {
+      "name": "PL: PULS 2 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/puls2.png"
+    },
+    {
+      "name": "PL: Romance TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/romancetv.png"
+    },
+    {
+      "name": "PL: Scifi HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/scifi.png"
+    },
+    {
+      "name": "PL: Scifi Universal HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/scifiuniversal.png"
+    },
+    {
+      "name": "PL: Scifi Universal HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/scifiuniversal.png"
+    },
+    {
+      "name": "PL: Sport KLUB Polska HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/87824529561.png"
+    },
+    {
+      "name": "PL: Stopklatka TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/stopklatkatv.png"
+    },
+    {
+      "name": "PL: Super Polsat HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/superpolsat.png"
+    },
+    {
+      "name": "PL: Super Polsat HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/superpolsat.png"
+    },
+    {
+      "name": "PL: TEENNICK  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/teennick.png"
+    },
+    {
+      "name": "PL: Teletoon+ HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/teletoon.png"
+    },
+    {
+      "name": "PL: TLC TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tlctv.png"
+    },
+    {
+      "name": "PL: TNT HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tnt.png"
+    },
+    {
+      "name": "PL: TNT HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tnt.png"
+    },
+    {
+      "name": "PL: TRAVEL HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/travel.png"
+    },
+    {
+      "name": "PL: TTV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/ttv.png"
+    },
+    {
+      "name": "PL: TV 4 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tv4.png"
+    },
+    {
+      "name": "PL: TV 6 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tv6.png"
+    },
+    {
+      "name": "PL: TV PULS 2 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvpuls2.png"
+    },
+    {
+      "name": "PL: TV PULS HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvpuls.png"
+    },
+    {
+      "name": "PL: TV Republika HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvrepublika.png"
+    },
+    {
+      "name": "PL: TV4 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tv4.png"
+    },
+    {
+      "name": "PL: TVN 24 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvn24.png"
+    },
+    {
+      "name": "PL: TVN 24 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvn24.png"
+    },
+    {
+      "name": "PL: TVN 7 4K+ HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvn7.png"
+    },
+    {
+      "name": "PL: TVN 7 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvn7.png"
+    },
+    {
+      "name": "PL: TVN 7 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvn7.png"
+    },
+    {
+      "name": "PL: TVN Fabula HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvnfabula.png"
+    },
+    {
+      "name": "PL: TVN Fabula HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvnfabula.png"
+    },
+    {
+      "name": "PL: TVN Style HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvnstyle.png"
+    },
+    {
+      "name": "PL: TVN Turbo FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvnturbo.png"
+    },
+    {
+      "name": "PL: TVN Turbo HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvnturbo.png"
+    },
+    {
+      "name": "PL: TVN TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvntv.png"
+    },
+    {
+      "name": "PL: TVP 1 HD 1080p  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvp1.png"
+    },
+    {
+      "name": "PL: TVP 1 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvp1.png"
+    },
+    {
+      "name": "PL: TVP 2 HD 1080p  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvp2.png"
+    },
+    {
+      "name": "PL: TVP 2 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvp2.png"
+    },
+    {
+      "name": "PL: TVP 3 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvp3.png"
+    },
+    {
+      "name": "PL: TVP ABC HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvpabc.png"
+    },
+    {
+      "name": "PL: TVP HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvp.png"
+    },
+    {
+      "name": "PL: TVP Historia HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvphistoria.png"
+    },
+    {
+      "name": "PL: TVP INFO HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvpinfo.png"
+    },
+    {
+      "name": "PL: TVP Kultura HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvpkultura.png"
+    },
+    {
+      "name": "PL: TVP Kultura HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvpkultura.png"
+    },
+    {
+      "name": "PL: TVP Polonia HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvppolonia.png"
+    },
+    {
+      "name": "PL: TVP Polonia HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvppolonia.png"
+    },
+    {
+      "name": "PL: TVP Rozrywka HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvprozrywka.png"
+    },
+    {
+      "name": "PL: TVP Seriale HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvpseriale.png"
+    },
+    {
+      "name": "PL: TVP Sport HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/tvpsport.png"
+    },
+    {
+      "name": "PL: TVS TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/4327602366.jpg"
+    },
+    {
+      "name": "PL: Universal Channel HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/universalchannel.png"
+    },
+    {
+      "name": "PL: Universal HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/universal.png"
+    },
+    {
+      "name": "PL: VH1 HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/vh1.png"
+    },
+    {
+      "name": "PL: WARNER TV  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/warnertv.png"
+    },
+    {
+      "name": "PL: WP HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/wp.png"
+    },
+    {
+      "name": "PL: ZOOM TV HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/zoomtv.png"
+    },
+    {
+      "name": "PL: 13 Ulica FHD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/13ulica.png"
+    },
+    {
+      "name": "PL: 4FUN Dance HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/4fundance.png"
+    },
+    {
+      "name": "PL: 4FUN KIDS HD  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/4funkids.png"
+    },
+    {
+      "name": "PL: 4FUNTV  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/4funtv.png"
+    },
+    {
+      "name": "PL | Canal+ Extra 1  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/ca0251579828f9dc91fd916a48741674.png"
+    },
+    {
+      "name": "PL | Canal+ Extra 2  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/595256892aff2bf3b666a6e70cb60e5a.png"
+    },
+    {
+      "name": "PL | Canal+ Extra 3  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://tvprofil.com/img/kanali-logo/Canal_Extra_3_PL_logo.png"
+    },
+    {
+      "name": "PL | Canal+ Extra 4  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://www.tvpolsat.info/wp-content/uploads/2024/08/canal-plus-extra-4.jpg"
+    },
+    {
+      "name": "PL | Canal+ Extra 6  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://tvprofil.com/img/kanali-logo/Canal_Extra_6_PL_logo.png"
+    },
+    {
+      "name": "PL | Canal+ Extra 7  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/canalextra42.png"
+    },
+    {
+      "name": "PL: Motowizja  (101-SERVERS)",
+      "group": "PL - Polish & Poland - Live.",
+      "logo": "https://logo.m3uassets.com/motowizja.png"
+    }
+  ]
+}

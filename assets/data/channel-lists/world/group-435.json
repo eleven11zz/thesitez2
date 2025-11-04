@@ -1,0 +1,4853 @@
+{
+  "package": "world",
+  "name": "PT - Animation Movies",
+  "groupIndex": 435,
+  "totalChannels": 969,
+  "channels": [
+    {
+      "name": "PT: Wartorn: 1861-2010 (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iavoz5Shuna0ffJtXlBGF84IzyE.jpg"
+    },
+    {
+      "name": "PT: UglyDolls (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p97LQ1TL95mptVL2AS8Rz1cJCQg.jpg"
+    },
+    {
+      "name": "PT: Incredibles 2 (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
+    },
+    {
+      "name": "PT: Carros (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg"
+    },
+    {
+      "name": "PT: 1864: Brødre i krig (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOrLERHeUWvfZJ2vdJhpfwvS4RO.jpg"
+    },
+    {
+      "name": "PT: Frozen II (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg"
+    },
+    {
+      "name": "PT: The Addams Family (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg"
+    },
+    {
+      "name": "PT: 1888 (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sY4f3X5yvyI6XLKpocCEr5XBdPQ.jpg"
+    },
+    {
+      "name": "PT: Playmobil: The Movie (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPQzLZnfVw9fbXyxxglyOsmQBlu.jpg"
+    },
+    {
+      "name": "PT: ...Correva l'anno di grazia 1870 (1972)",
+      "group": "PT - Animation Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/aPXX2TIcOuEU6yXoPXRixaf1YBl.jpg"
+    },
+    {
+      "name": "PT: 101 Dalmatians (1996)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg"
+    },
+    {
+      "name": "PT: 101 Dalmatians II: Patch's London Adventure (2003)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFTt7pNSCJKLZ2RZldJuq6ON6Ti.jpg"
+    },
+    {
+      "name": "PT: Carrossel (1956)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1W7X2rHPTqzfYG5dZbvWcR5MzUs.jpg"
+    },
+    {
+      "name": "PT: Finding Nemo (2003)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg"
+    },
+    {
+      "name": "PT: A Pequena Sereia 2 - Regresso ao Mar (2000)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/PsD8fIxj5PjRlWxHAmer73RLuP.jpg"
+    },
+    {
+      "name": "PT: Beauty and the Beast: The Enchanted Christmas (1997)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxtpbcbf6KEIHzLetWZOVGJT2lv.jpg"
+    },
+    {
+      "name": "PT: Bolt (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg"
+    },
+    {
+      "name": "PT: Aladdin: O Regresso de Jafar (1994)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWRIDNM43q7Ylq4mFGfzy8W1LNV.jpg"
+    },
+    {
+      "name": "PT: A Bug's Life (1998)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg"
+    },
+    {
+      "name": "PT: O Corcunda de Notre Dame (1923)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZS1qmIrEx01LIAjh4yQ2rGIkIi.jpg"
+    },
+    {
+      "name": "PT: Ice Age: Continental Drift (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg"
+    },
+    {
+      "name": "PT: Felícia e os Super-Resíduos do Bem (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4e0SIucwZOw2dBKbNGxBu5weGhU.jpg"
+    },
+    {
+      "name": "PT: Pokémon 4 - Viajantes do Tempo (2001)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RFuBT8hylnBzjf7OeyXgU8YJwq.jpg"
+    },
+    {
+      "name": "PT: Output (1974)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3kBPOzuNpPdiD8ECtZeDLDS2XL.jpg"
+    },
+    {
+      "name": "PT: Space Jam - O Jogo do Século (1996)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzp6Hvn5Lrac3e0L0ypulWJvmkF.jpg"
+    },
+    {
+      "name": "PT: Spirit: Stallion of the Cimarron (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUgYrz4twiJ3QgVGpRfey984NIB.jpg"
+    },
+    {
+      "name": "PT: Os Pinguins de Madagascar em Uma Missão de Natal (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FU5m9zhA3eOfWVO4DZhpn6iwLR.jpg"
+    },
+    {
+      "name": "PT: The Incredibles (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
+    },
+    {
+      "name": "PT: Tarzan (1999)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg"
+    },
+    {
+      "name": "PT: Stitch - O Filme (2003)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjJvTzzYfJbVAv7teJfFllVbAHb.jpg"
+    },
+    {
+      "name": "PT: Tom e Jerry - Aventuras em Marte (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uge5fpkXjfLxrfTfzT79S2XAg4.jpg"
+    },
+    {
+      "name": "PT: Toy Story 2 (1999)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg"
+    },
+    {
+      "name": "PT: Tom e Jerry na Ilha do Tesouro (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgxmldGZgE8fIaTnhblSDhi2L5X.jpg"
+    },
+    {
+      "name": "PT: Tom e Jerry: Velocidade Peluda (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrWocDIUhVv7mLymhRVF5n6lk8R.jpg"
+    },
+    {
+      "name": "PT: Super Monsters and the Wish Star (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXGlF7BKrbwgaGXyed2wJgRK9c.jpg"
+    },
+    {
+      "name": "PT: Up (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+    },
+    {
+      "name": "PT: Toy Story (1995)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+    },
+    {
+      "name": "PT: Wall (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CDrcpmPyDv4caxmIO2eibfg7iM.jpg"
+    },
+    {
+      "name": "PT: Winnie the Pooh (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlFs85nq62jeR4a9iHNGB113m6x.jpg"
+    },
+    {
+      "name": "PT: Winnie the Pooh: Springtime with Roo (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/434GKJXwIye4Y7QXJy80azM38hX.jpg"
+    },
+    {
+      "name": "PT: Winnie the Pooh: A Very Merry Pooh Year (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Xfh2PPZsjEwFyLqp6bisrbdxZs.jpg"
+    },
+    {
+      "name": "PT: De Volta a Casa (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TtAmtq6iJfzh6qG4euG6eoUQDm.jpg"
+    },
+    {
+      "name": "PT: Os Marretas em Haunted Mansion (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hctd04c3kD7TppVA577C3L51yqg.jpg"
+    },
+    {
+      "name": "PT: A Volta ao Mundo em 80 Dias (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1alH6yf9FTMgqms35iqTUc5akb3.jpg"
+    },
+    {
+      "name": "PT: Les Lapins Crétins - Invasion : Objectif Mars (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHM0DBDnvFlxIvwPckaVIV6KbLw.jpg"
+    },
+    {
+      "name": "PT: Fintastic Halloween de Sharkdog (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtPok0matqyS25yBXnNmKt6NfUU.jpg"
+    },
+    {
+      "name": "PT: Cantar! 2 (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg"
+    },
+    {
+      "name": "PT: Turning Red: Estranhamente Vermelho (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg"
+    },
+    {
+      "name": "PT: Meu Querido Monstro (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1nao2h2Rgqknwb8onZM1l53MS8.jpg"
+    },
+    {
+      "name": "PT: Um Susto de Família 2 (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bz9qnV41N3gbMStjXKL2YkR9aXE.jpg"
+    },
+    {
+      "name": "PT: Buzz Lightyear (2022) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDnKL1eBkSkGGBK6WoQxZZVDCHU.jpg"
+    },
+    {
+      "name": "PT: Tico e Teco: O Comando Salvador (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOYRRVe9jhlwU8hAZ53Kg0vhIH4.jpg"
+    },
+    {
+      "name": "PT: O Despertar das Tartarugas Ninja: O Filme (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lJgQ0cTKsU4gVEVkNOc6jEJU0o.jpg"
+    },
+    {
+      "name": "PT: Biao Alberto (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SyTnaY0wte69oKdqxQLvxPT3hs.jpg"
+    },
+    {
+      "name": "PT: Barbie: Epic Road Trip (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2a1Y6a6UriLJ0U7cGjphPOWQPK.jpg"
+    },
+    {
+      "name": "PT: O Mundo da Lua (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tB7lTA1JyMj1KoUBkTbwNbfzBgt.jpg"
+    },
+    {
+      "name": "PT: The Wonderful Winter of Mickey Mouse (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dspgMFx64kA8BqkGZQK6Hk1sCV.jpg"
+    },
+    {
+      "name": "PT: The Curse of Bridge Hollow (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg"
+    },
+    {
+      "name": "PT: As Aventuras de Lia (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzl8Z3PdFQscUI568ZvGb0y5d9U.jpg"
+    },
+    {
+      "name": "PT: Estranho Mundo (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg"
+    },
+    {
+      "name": "PT: Futebol em Apuros (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WHeh743USzQoCrzPQYUKEDsTjZ.jpg"
+    },
+    {
+      "name": "PT: À Noite no Museu: O Regresso de Kahmunrah (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M19SPS4iv5rP73fuUB1VF1eano.jpg"
+    },
+    {
+      "name": "PT: Cinderela e a Pequena Feiticeira (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIgwt9wqfNrduO7seHiMFnRgzEW.jpg"
+    },
+    {
+      "name": "PT: A Elefanta do Mágico (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg"
+    },
+    {
+      "name": "PT: O Gato das Botas: O Último Desejo (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/atJxZfCaQ7kXRFSfbm8cqAKkns7.jpg"
+    },
+    {
+      "name": "PT: Barbie: Mermaid Power (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qb8cLDBAWdahrtixN2mQdI6e52.jpg"
+    },
+    {
+      "name": "PT: Homem-Aranha: Através do Aranhaverso (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg"
+    },
+    {
+      "name": "PT: Peter Pan & Wendy (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg"
+    },
+    {
+      "name": "PT: Coração de Fogo (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBYfhuIOld8UafUF5rDScxroLit.jpg"
+    },
+    {
+      "name": "PT: As Mumias (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/olT9HuXfnMVFqDGjLhllKe5EuQP.jpg"
+    },
+    {
+      "name": "PT: O Rei Macaco (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmwK5QCznqUT8bcDR7qROrxqgov.jpg"
+    },
+    {
+      "name": "PT: Miraculous: As Aventuras de Ladybug, O Filme (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZEKKCNW0vI7B7AZNdCAeq2mMAw.jpg"
+    },
+    {
+      "name": "PT: Elemental (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
+    },
+    {
+      "name": "PT: A Pequena Sereia (2023) versão PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg"
+    },
+    {
+      "name": "PT: Spy Kids: Apocalipse (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwCKYjIPXapuBtO51S81GNhoGxV.jpg"
+    },
+    {
+      "name": "PT: LEGO Disney Princesas: Missão Castelo (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbPkvDVY06gdQlxgowQebOHQGGK.jpg"
+    },
+    {
+      "name": "PT: Tartarugas Ninja: Caos Mutante (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwrFZLMPox82lsPT8MHpAYmFjw9.jpg"
+    },
+    {
+      "name": "PT: Leo (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l62iL3gJThyauCyzlsKRh8kqGX.jpg"
+    },
+    {
+      "name": "PT: Borboletas - Uma Aventura Com Pinta (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lqj5eNo87RirLdhVV8OIiImqTg.jpg"
+    },
+    {
+      "name": "PT: Patrulha Pata: o Super Filme (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUirEoPDHqKYKzpfExHPvcnz6ME.jpg"
+    },
+    {
+      "name": "PT: Strawberry Shortcake and the Beast of Berry Bog (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/43SdiZr9z9TqY5liPkY4j7GvJUt.jpg"
+    },
+    {
+      "name": "PT: Corrida Maluca (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/29pC5voJLZNoYEGeNTFhDwITdbY.jpg"
+    },
+    {
+      "name": "PT: Trolls 3: Todos Juntos! (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CQ61ZX4nMEbKiPq2OxPMcC31C7.jpg"
+    },
+    {
+      "name": "PT: LEGO Marvel Avengers: Código Vermelho (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhs2CZWqoee3JFMvSZd1Vg7HLfL.jpg"
+    },
+    {
+      "name": "PT: Wish: O Poder Dos Desejos (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WVxrnmtATdRYzn0cFJfsWPdraL.jpg"
+    },
+    {
+      "name": "PT: Os Casagrandes: O Filme (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg"
+    },
+    {
+      "name": "PT: Telma, o Unicórnio (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NbMCHYHe8neFE24i5WdFYOWJR5.jpg"
+    },
+    {
+      "name": "PT: O Panda do Kung Fu 4 (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg"
+    },
+    {
+      "name": "PT: Titina (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/YysUmqmnMN5ZWMBBFaViPIdige.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball GT : O legado do Heroi (1997)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2u09FiAuyMdS6EzOi7FH0ULciys.jpg"
+    },
+    {
+      "name": "PT: Garfield - O Filme (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJhCZ3pPjNLKxdNezjrQaQsfENP.jpg"
+    },
+    {
+      "name": "PT: Inseparáveis (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHpMRuJPinqS8EWQ8eC31JqN4Ed.jpg"
+    },
+    {
+      "name": "PT: O Cãozinho Esperto (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6SzU5Zb1AzTAKcTgpiGXm8Rn5J.jpg"
+    },
+    {
+      "name": "PT: Uma Aventura no Expresso Cattle Hill (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VqIp2P34qVkdrr82hP1Pmo5pO4.jpg"
+    },
+    {
+      "name": "PT: Baby Shark - O Grande Filme (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pF9Y5H5x94Tuo6xAZBCrGG8Wvq5.jpg"
+    },
+    {
+      "name": "PT: O Feitiço (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuHOjZH8MBq0gS07S206W5dxGkW.jpg"
+    },
+    {
+      "name": "PT: Super Wings - O Filme: Velocidade Máxima (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vX2EFi3pgmO7xW2Rfpmf4n6VBE.jpg"
+    },
+    {
+      "name": "PT: Os Caras Malvados: Assalto Assombrado (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbR70ceR2Qw2fNMDj1cvOhmTfwa.jpg"
+    },
+    {
+      "name": "PT: A Fat Wreck (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ibUnVKvvfvixDWMYqZHK2TdrMn.jpg"
+    },
+    {
+      "name": "PT: Benjamin the Elephant (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTDPM8MQBbl64cGnbFq03qwEOmH.jpg"
+    },
+    {
+      "name": "PT: Bem-vindo ao Mundo dos Ogglies (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQpEQKVtBqIQrYFccdoxGxQkDvJ.jpg"
+    },
+    {
+      "name": "PT: Buzz Lightyear do Comando Estelar - A Aventura Começa (2000)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHy4sKgA7foQ8Hofo456gCnFN9a.jpg"
+    },
+    {
+      "name": "PT: C.I.Ape (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaW0zqkYJxgdYdgykKY89jr118X.jpg"
+    },
+    {
+      "name": "PT: Cães do Espaço: Aventura Tropical (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqxZA1qshan36vK8U5cQSLUkBxY.jpg"
+    },
+    {
+      "name": "PT: Cães e Gatos 3: Patas Unidas! (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58ZwIMQbwZD243jG782KVegzm1U.jpg"
+    },
+    {
+      "name": "PT: A Abelha Maia e o Ovo Dourado (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nA6Jg8fLhJtabQYozYOUM3GzXs7.jpg"
+    },
+    {
+      "name": "PT: A Grande Viagem 2: Entrega Especial (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MCuk8d81FUauxKkK0W7ZqqeQDd.jpg"
+    },
+    {
+      "name": "PT: A Minha Fada Traquina (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Biyu5aP0o86GjxnffsHThYN4h1.jpg"
+    },
+    {
+      "name": "PT: As Aventuras de Gulliver (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEOsByOxmcY5VexXTwqLs9fygYA.jpg"
+    },
+    {
+      "name": "PT: Argonautas: Heróis do Olimpo (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCRZCkQScaK0cg2tfgqNZKYgff4.jpg"
+    },
+    {
+      "name": "PT: Astérix",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xPKYaZNIUwx4uaOK9tz28VYGdg.jpg"
+    },
+    {
+      "name": "PT: Aventura Espacial (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oYeJsxL3poxk0Kimp4PfYj5FYZ.jpg"
+    },
+    {
+      "name": "PT: À Noite, no Museu: O Regresso de Kahmunrah (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M19SPS4iv5rP73fuUB1VF1eano.jpg"
+    },
+    {
+      "name": "PT: Super Wings - O Filme: Velocidade Máxima (2023) AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vX2EFi3pgmO7xW2Rfpmf4n6VBE.jpg"
+    },
+    {
+      "name": "PT: maboroshi (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kzoPEasqFZGPGHj1imsLtTM20k.jpg"
+    },
+    {
+      "name": "PT: HAIKYU!! The Dumpster Battle (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntRU0OA4etGGiMMmH1Yw0bnaMdW.jpg"
+    },
+    {
+      "name": "PT: Ozi: A Voz da Floresta (2024) AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mf75pgIMKCayqQQfxWbHPYj8oH5.jpg"
+    },
+    {
+      "name": "PT: Cantar!: Thriller (2024) ANI",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i77OInTKcrnRlAozFOaB6D5mk15.jpg"
+    },
+    {
+      "name": "PT: Z-O-M-B-I-E-S 2 (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg"
+    },
+    {
+      "name": "PT: Heróis na Hora (2024) AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9vcWFGNRO2RtAJ3le9siiVgBo0.jpg"
+    },
+    {
+      "name": "PT: Z-O-M-B-I-E-S (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/smfvg3SfpkSS0dwCq2C9bhva3A8.jpg"
+    },
+    {
+      "name": "PT: Cricket & Antoinette (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBSLAMH5vczIWgzpa9x7Z52F4QH.jpg"
+    },
+    {
+      "name": "PT: Garbage Boy and Trash Can AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjUzOTYxYmEtZWY2NC00YjM4LTlmZjYtMTNjYTlhYTNjZDg5XkEyXkFqcGdeQXVyNTA2NDM1MDI@._V1_.jpg"
+    },
+    {
+      "name": "PT: Pretty Guardian Sailor Moon Cosmos the Movie Part 1 (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X3nxTHHM2HZCUhCvCzKYDeOeoL.jpg"
+    },
+    {
+      "name": "PT: Pretty Guardian Sailor Moon Cosmos the Movie Part 2 (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg"
+    },
+    {
+      "name": "PT: Gru - O Maldisposto 4 (2024) Audio PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWYTtmxSuWVXP22hxAeXdQZLZrh.jpg"
+    },
+    {
+      "name": "PT: Divertida-Mente 2 (Inside Out 2) (2024) AN DUAL AUDIO",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg"
+    },
+    {
+      "name": "PT: O Imaginário (2023) ANI",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2SAArWDXMUIH4Kip7D63Ik2bpW.jpg"
+    },
+    {
+      "name": "PT: Descendants: The Rise of Red (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg"
+    },
+    {
+      "name": "PT: An American in Austen (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPurbvRNfJ3KOlSLXFPoD07Cazg.jpg"
+    },
+    {
+      "name": "PT: Luck (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OpVlfJGNvX3lUqdzY0nGoA6wQa.jpg"
+    },
+    {
+      "name": "PT: Garfield - O Filme (2024) AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rC5RqXtFoTkBhNWE1dczwi4dZrX.jpg"
+    },
+    {
+      "name": "PT: Akademia Pana Kleksa (2024) ANI",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykZvwO1YvWCTV4XajuYBUXeubHA.jpg"
+    },
+    {
+      "name": "PT: The Boy and the Heron ANI",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4oZTcfGrVTXKTWg157AwikXqmP.jpg"
+    },
+    {
+      "name": "PT: Sem Tempo para Espiar: Um Filme Loud em Casa (2024) AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXVflCGYGUbNSN4TmkLqQqM1rXc.jpg"
+    },
+    {
+      "name": "PT: Divertida-Mente (2015) AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFRcOCYWYxnLDvVYhWnMm3010CU.jpg"
+    },
+    {
+      "name": "PT: Telma, o Unicórnio (2024) AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NbMCHYHe8neFE24i5WdFYOWJR5.jpg"
+    },
+    {
+      "name": "PT: Ultraman: Ascensão (2024) AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ2MhjWQtVOTDbqKvIkQp0xXjtv.jpg"
+    },
+    {
+      "name": "PT: Baby Shark - O Grande Filme (2024) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pF9Y5H5x94Tuo6xAZBCrGG8Wvq5.jpg"
+    },
+    {
+      "name": "PT: Gaga Chromatica Ball (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4mk7RY5z4l3ILOMMOcrG29vR1o.jpg"
+    },
+    {
+      "name": "PT: Mars Express (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8rUn0khoYB3G4gPPGTF1Xv9Olu.jpg"
+    },
+    {
+      "name": "PT: LEGO Jurassic Park: The Unofficial Retelling (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSq8TrEqz8NRyWJSviteKE1t249.jpg"
+    },
+    {
+      "name": "PT: Scarygirl - A Miúda Fantástica (2023) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg"
+    },
+    {
+      "name": "PT: Telma, o Unicórnio (2024)  ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NbMCHYHe8neFE24i5WdFYOWJR5.jpg"
+    },
+    {
+      "name": "PT: Pica-Pau: Campo de Férias (2024) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2INtXKQGxQLT6MhztartxiammuC.jpg"
+    },
+    {
+      "name": "PT: Príncipe Lu e a Lenda do Dragão (2024) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR2rLWHqC8aYQcG0LZD9p9tA7Mw.jpg"
+    },
+    {
+      "name": "PT: Kung Fu Panda 4 (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg"
+    },
+    {
+      "name": "PT: Johnny Puff: Missão Secreta (2024) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUHR7i0YeOulnl2HBVNV5H1z1sZ.jpg"
+    },
+    {
+      "name": "PT: Os Casagrandes: O Filme (2024) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg"
+    },
+    {
+      "name": "PT: GREAT PRETENDER razbliuto (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQwzIIyhgsFiYiXI7fNpTUvWghP.jpg"
+    },
+    {
+      "name": "PT: Momonsters, La Película (2023) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fswz5S8kjGkpT21lHCGVQ06BeNZ.jpg"
+    },
+    {
+      "name": "PT: 27 (2023) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cb0GYjhRnvcNsIvhaIGPKhJA1ZZ.jpg"
+    },
+    {
+      "name": "PT: Snoopy Presents: Welcome Home, Franklin (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjIrYzc31kHTySiovHAt0o3qDc2.jpg"
+    },
+    {
+      "name": "PT: Orion e o Escuro (2024)  ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u30bSp5Vc04wMkehvZJQJo35RC0.jpg"
+    },
+    {
+      "name": "PT: The Tiger's Apprentice (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/64ZktFMmTzsm47wdsaMOID0DzcY.jpg"
+    },
+    {
+      "name": "PT: Wonka (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhb1qOilapbapxWQn9jtRCMwXJF.jpg"
+    },
+    {
+      "name": "PT: Wish: O Poder Dos Desejos (2023) Audio PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tImBlStZQ9NYFZ7Hbik53vui3Sf.jpg"
+    },
+    {
+      "name": "PT: Trolls 3: Todos Juntos! (2023) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Wbb6vCsmVePRy0BsoXEoNwihRu.jpg"
+    },
+    {
+      "name": "PT: Wish: O Poder Dos Desejos (2023) Audio Original ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tImBlStZQ9NYFZ7Hbik53vui3Sf.jpg"
+    },
+    {
+      "name": "PT: Monsters 103 Mercies Dragon Damnation (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG8QKnaiz7JoIMh3oxdm0JJN6IG.jpg"
+    },
+    {
+      "name": "PT: Borboletas - Uma Aventura Com Pinta (2023) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Lqj5eNo87RirLdhVV8OIiImqTg.jpg"
+    },
+    {
+      "name": "PT: Diary of a Wimpy Kid Christmas: Cabin Fever (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV0996od52EJ6S8dLKvcVGsO7B.jpg"
+    },
+    {
+      "name": "PT: A Fuga das Galinhas: Estamos Fritas (2023)  ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg"
+    },
+    {
+      "name": "PT: Fulcrum (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/83sKMECqVbUzbohZmZ74lTjihrC.jpg"
+    },
+    {
+      "name": "PT: Os Super-Heróis da Selva 2 (2023) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yulntW9wPcdBdQFjfrDASU5q3HS.jpg"
+    },
+    {
+      "name": "PT: Patrulha Pata: o Super Filme (2023) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUirEoPDHqKYKzpfExHPvcnz6ME.jpg"
+    },
+    {
+      "name": "PT: Os Super Fixes! (2022) ᴘᴛ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9P5UqRu2aRTmtujc6nN7IiGKEbL.jpg"
+    },
+    {
+      "name": "PT: The Velveteen Rabbit (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg"
+    },
+    {
+      "name": "PT: The Bad Guys: A Very Bad Holiday (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/er0Gth3Tr279hFq1xeKdYxhcleO.jpg"
+    },
+    {
+      "name": "PT: Tartarugas Ninja: Caos Mutante (2023) AN",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwrFZLMPox82lsPT8MHpAYmFjw9.jpg"
+    },
+    {
+      "name": "PT: Um Voo em Grande (2023) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eR1gmRt4B6nYBvuRzplqfpiuCcd.jpg"
+    },
+    {
+      "name": "PT: South Park: Joining the Panderverse (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo! and Krypto, Too! (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kllOhDl3DyApQZ78pffMH1C2ZIn.jpg"
+    },
+    {
+      "name": "PT: My Grandfather's Demons (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPoUd6lm011MUCH54aNeMsDJl7z.jpg"
+    },
+    {
+      "name": "PT: LEGO Disney Princess: The Castle Quest (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q17tXNROOslj7uCGicKNlIf9Rx6.jpg"
+    },
+    {
+      "name": "PT: Minions (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dr02BdCNAUPVU07aOodwPYv6HCf.jpg"
+    },
+    {
+      "name": "PT: The Little Mermaid (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bV7t2Np8VG1i7h6jvPz5ZPUdAVP.jpg"
+    },
+    {
+      "name": "PT: Spy Cat (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lU2Cx5lbSNMxgeKQPDOhAUdw91y.jpg"
+    },
+    {
+      "name": "PT: The Monkey King (2023) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg"
+    },
+    {
+      "name": "PT: Checkered Ninja (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzN5xbp73TI7pjEqZ66ECNxdWJl.jpg"
+    },
+    {
+      "name": "PT: The Secret Kingdom (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dteXMzVY53GBHUgrR7vigAartsP.jpg"
+    },
+    {
+      "name": "PT: Ruby Gillman, Teenage Kraken (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ChIb3WzYAcza1vrXR56v510MWk.jpg"
+    },
+    {
+      "name": "PT: Epic Tails (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVPw9gRPsZZhzY6cIXp6h6nep5M.jpg"
+    },
+    {
+      "name": "PT: Miraculous: Ladybug",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBON9XO9Ek0DjRwMBnJNCwC96Cd.jpg"
+    },
+    {
+      "name": "PT: An Egg Rescue (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7he8glf7j41d3amgf4Nbpt3HVq1.jpg"
+    },
+    {
+      "name": "PT: Mia and Me: The Hero of Centopia (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3ZpDsvNCQUOD7ApAs9y3mFwVU4.jpg"
+    },
+    {
+      "name": "PT: The Venture Bros.: Radiant Is the Blood of the Baboon Heart (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3ZgJfyBpTox5U7RfhCDIXlHnO4.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: O Meu Aniversário (2023) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYvm8UD5ETdiUJ4rFGgfFdedgcS.jpg"
+    },
+    {
+      "name": "PT: Mavka: The Forest Song (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg"
+    },
+    {
+      "name": "PT: The Super Mario Bros. Movie (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Super: Super Hero LEG (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg"
+    },
+    {
+      "name": "PT: StarDog and TurboCat (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg"
+    },
+    {
+      "name": "PT: Paws of Fury: The Legend of Hank (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMDUDwAArpfGdtTTZ25SfwngGwt.jpg"
+    },
+    {
+      "name": "PT: The Road to El Dorado (2000)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryXm7xp4aqQyda0FU2eMfHehPBg.jpg"
+    },
+    {
+      "name": "PT: Lego Friends: The Next Chapter: New Beginnings (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg"
+    },
+    {
+      "name": "PT: Lilou (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwdZnoixkTykSOvcK3XFmLtXrFX.jpg"
+    },
+    {
+      "name": "PT: Garbage (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kekoO4Y0Vi8ewIthTbmgnMSYY0i.jpg"
+    },
+    {
+      "name": "PT: Asterix & Obelix: Mission Cleopatra (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gMmVSkY7RAxb5xRk7ej7JVhXyl.jpg"
+    },
+    {
+      "name": "PT: Miraculous: Ladybug & Cat Noir, The Movie (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg"
+    },
+    {
+      "name": "PT: The Monkey King (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg"
+    },
+    {
+      "name": "PT: Um Voo em Grande (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eR1gmRt4B6nYBvuRzplqfpiuCcd.jpg"
+    },
+    {
+      "name": "PT: Os Super Fixes! (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9P5UqRu2aRTmtujc6nN7IiGKEbL.jpg"
+    },
+    {
+      "name": "PT: Os Super-Heróis da Selva 2 (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yulntW9wPcdBdQFjfrDASU5q3HS.jpg"
+    },
+    {
+      "name": "PT: A Fuga das Galinhas: Estamos Fritas (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg"
+    },
+    {
+      "name": "PT: The Wonderful World of Mickey Mouse: Steamboat Silly (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9VIIks5Mw3mjWStOj7FvIOGtmW.jpg"
+    },
+    {
+      "name": "PT: Orion e o Escuro (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u30bSp5Vc04wMkehvZJQJo35RC0.jpg"
+    },
+    {
+      "name": "PT: Momonsters, La Película (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fswz5S8kjGkpT21lHCGVQ06BeNZ.jpg"
+    },
+    {
+      "name": "PT: Príncipe Lu e a Lenda do Dragão (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR2rLWHqC8aYQcG0LZD9p9tA7Mw.jpg"
+    },
+    {
+      "name": "PT: 27 (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cb0GYjhRnvcNsIvhaIGPKhJA1ZZ.jpg"
+    },
+    {
+      "name": "PT: Scarygirl - A Miúda Fantástica (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg"
+    },
+    {
+      "name": "PT: Johnny Puff: Missão Secreta (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUHR7i0YeOulnl2HBVNV5H1z1sZ.jpg"
+    },
+    {
+      "name": "PT: Divertida-Mente (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFRcOCYWYxnLDvVYhWnMm3010CU.jpg"
+    },
+    {
+      "name": "PT: Ultraman: Ascensão (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ2MhjWQtVOTDbqKvIkQp0xXjtv.jpg"
+    },
+    {
+      "name": "PT: Sem Tempo para Espiar: Um Filme Loud em Casa (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXVflCGYGUbNSN4TmkLqQqM1rXc.jpg"
+    },
+    {
+      "name": "PT: O Imaginário (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2SAArWDXMUIH4Kip7D63Ik2bpW.jpg"
+    },
+    {
+      "name": "PT: IF: Amigos Imaginários (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNSsIyZcbESWBm42VTo09zbjS6s.jpg"
+    },
+    {
+      "name": "PT: Night at the Museum: Kahmunrah Rises Again (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEy4VFXn3fukXRhx8TnSZtOnlcm.jpg"
+    },
+    {
+      "name": "PT: Xico's Journey (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg"
+    },
+    {
+      "name": "PT: Wish (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9ckCVKU9vW3Dxc8hbodx7mjJbe.jpg"
+    },
+    {
+      "name": "PT: Wendell & Wild (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7XxXJ7ponaLAkxiySRxox2Ssc4.jpg"
+    },
+    {
+      "name": "PT: e (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKvJsyQCTwhbuPF6XL7EoMlXQta.jpg"
+    },
+    {
+      "name": "PT: Lamp Life (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJ95RnlammhYb6ZvBbQFLq8Jqnl.jpg"
+    },
+    {
+      "name": "PT: UP - Altamente! (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnpYYl90HeR2tnAgOTaa7jk8oD.jpg"
+    },
+    {
+      "name": "PT: Under the Boardwalk (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYubl9T67KKgggQUawHs0xYMWEU.jpg"
+    },
+    {
+      "name": "PT: A Stork's Journey (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKwgGlhdhdbx0duJhCRojkEZXgU.jpg"
+    },
+    {
+      "name": "PT: Dug's Special Mission (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvK30UQ5cPxGH7ZBVpUhO6DPIM5.jpg"
+    },
+    {
+      "name": "PT: Monster Family (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjDbd43e7o2Ssn7P1l50Bv0rtIl.jpg"
+    },
+    {
+      "name": "PT: Turning Red (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
+    },
+    {
+      "name": "PT: Turma da Mônica: Laços - 2019",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TbHNFN6Ez4JB9AoiRYVoJosd7D.jpg"
+    },
+    {
+      "name": "PT: Turbo (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6GdF5hcnsU5IwaRhyhnysNy5hO.jpg"
+    },
+    {
+      "name": "PT: Trouble (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnSld96LZEsJsMRWxWjr0BvJRGp.jpg"
+    },
+    {
+      "name": "PT: Starship Troopers: Invasion (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJJY16XSazUgDvbWEXQ1ulLiz8q.jpg"
+    },
+    {
+      "name": "PT: Trolls Band Together (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkpPTZUdq31UGDovmszsg2CchiI.jpg"
+    },
+    {
+      "name": "PT: Trolls World Tour (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg"
+    },
+    {
+      "name": "PT: Trolls (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg"
+    },
+    {
+      "name": "PT: Toy Story - Os Rivais (1995)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AptcisAVyZqBllXLEGje8MjKzJI.jpg"
+    },
+    {
+      "name": "PT: Toy Story: Perdidos no Tempo (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNxLl8aRtbkJLLd0UQn8i41D7W8.jpg"
+    },
+    {
+      "name": "PT: Titeuf (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gNhlzuvJ8TP0utG6fBnqAuuzy2.jpg"
+    },
+    {
+      "name": "PT: Chip 'n Dale: Rescue Rangers (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
+    },
+    {
+      "name": "PT: The Lego Ninjago Movie (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg"
+    },
+    {
+      "name": "PT: The Boss Baby (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/unPB1iyEeTBcKiLg8W083rlViFH.jpg"
+    },
+    {
+      "name": "PT: The Boss Baby: Get That Baby! (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/epvUyxGpiaacwojju2CMa0I3Y6T.jpg"
+    },
+    {
+      "name": "PT: The Bad Guys (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg"
+    },
+    {
+      "name": "PT: Walt Disney Treasures - Mickey Mouse in Living Color (2001)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjZLVzgX9Qq1PDq8eLThXIVzAXf.jpg"
+    },
+    {
+      "name": "PT: Walt Disney Treasures (1935 - 1951) (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/17ewGIBdTlFaFM8ES6KdDhVkp2o.jpg"
+    },
+    {
+      "name": "PT: Tarzan & Jane (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/esRxshmD2BY1UPkiUHt7Gn2mksl.jpg"
+    },
+    {
+      "name": "PT: Tarzan II (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI0ANmiLaqUuBrX4v8V3ZywkyZ0.jpg"
+    },
+    {
+      "name": "PT: Tarzan (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIg7TclH6PUcvTWFh0QdtU5Wcvt.jpg"
+    },
+    {
+      "name": "PT: Small Potatoes: Who Killed the USFL? (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCkWesxsKuFf3osRFuI8P9gbmT2.jpg"
+    },
+    {
+      "name": "PT: The Black Cauldron (1985)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef11J5KGMp26kEzeg8ghAKeB65C.jpg"
+    },
+    {
+      "name": "PT: Tad, the Lost Explorer, and the Secret of King Midas (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg"
+    },
+    {
+      "name": "PT: Tad, the Lost Explorer and the Emerald Tablet (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvIVl8zdNSOAJImw1elQEzxStMN.jpg"
+    },
+    {
+      "name": "PT: Ice Princess Lily (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDjG3ihlUlCqzasAxo4InceFj46.jpg"
+    },
+    {
+      "name": "PT: The Death of Superman (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg"
+    },
+    {
+      "name": "PT: Super Monsters Save Halloween (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJqwIglIQpFeDjT9RQ6VFHTjO5d.jpg"
+    },
+    {
+      "name": "PT: StarBeam: Halloween Hero (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cdbchaIyd5L0glMxeCHJCY85bJ.jpg"
+    },
+    {
+      "name": "PT: The SpongeBob Movie: Sponge Out of Water (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg"
+    },
+    {
+      "name": "PT: Spirit (2001)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jppEf2ihUzInG37j6T0koaqGYWs.jpg"
+    },
+    {
+      "name": "PT: Soul (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQGH87OpqtYrHqMaQLDBsvtLapR.jpg"
+    },
+    {
+      "name": "PT: Sorted (2000)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDX435FpvTW9rBqkmGUnY4P7kQl.jpg"
+    },
+    {
+      "name": "PT: Smurfs: The Lost Village (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/swt9crREg1UcKgg3wGWfoFNlXOz.jpg"
+    },
+    {
+      "name": "PT: Sleepy-Time Tom (1951)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkGr5QrxigLh6c3d2YXPnYongd4.jpg"
+    },
+    {
+      "name": "PT: Tinker Bell and the Legend of the NeverBeast (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S0mmmpYStB3GqodRghcfOt81wQ.jpg"
+    },
+    {
+      "name": "PT: Tinker Bell and the Lost Treasure (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tNldk2zPUzXVKkU9aeirM9Wotu.jpg"
+    },
+    {
+      "name": "PT: Secret of the Wings (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5q72GagtB9NM4i3z7M40EXLb3ut.jpg"
+    },
+    {
+      "name": "PT: Tinker Bell (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg"
+    },
+    {
+      "name": "PT: Selvagem (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQNv9SPXzbl0ZfTVSfhFuT5EQIK.jpg"
+    },
+    {
+      "name": "PT: Scrooge (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnoPXS3VxfI08glOW9lmBHK5qjR.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo! and the Witch's Ghost (1999)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljEEGImypBFGoXU7eZSTo4vE9nC.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo! Return to Zombie Island (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo! WrestleMania Mystery (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgnxicD1qvhTrh4db9F7hJLoOaa.jpg"
+    },
+    {
+      "name": "PT: Rock Dog (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RXi2afiNJGU8EB79SD8HYoSz4O.jpg"
+    },
+    {
+      "name": "PT: Richard the Stork and the Mystery of the Great Jewel (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaWFUwAI9KMFN6w02wiI8crPrga.jpg"
+    },
+    {
+      "name": "PT: King Tweety (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg"
+    },
+    {
+      "name": "PT: Monkey Magic (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/17qLr7WaMg2XMwzeQs6xHAw0xeA.jpg"
+    },
+    {
+      "name": "PT: Red Shoes and the Seven Dwarfs (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MBiKqTsouYqAACLYNDadsjhhC0.jpg"
+    },
+    {
+      "name": "PT: Puss in Boots: The Last Wish (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
+    },
+    {
+      "name": "PT: Pup Star (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7UMzAgyN1bpVFQIbLADEEd5ZHM.jpg"
+    },
+    {
+      "name": "PT: O'SOLE MIO or \"We're gonna loose our way going home\" (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l11atVZpFZBVWUbaDDTdaYnDvVN.jpg"
+    },
+    {
+      "name": "PT: The Polar Express (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg"
+    },
+    {
+      "name": "PT: Pokémon: Giratina and the Sky Warrior (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3T08IL68EVcrUPiJLVN9KSGlXs.jpg"
+    },
+    {
+      "name": "PT: Pocahontas: Princess of the American Indians (1997)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiDQfpQrak2Y0FIVC6DhpZcfmqn.jpg"
+    },
+    {
+      "name": "PT: Playmobil: Magic (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0GxfncIA72W3mP3IfeIxjek6Ug.jpg"
+    },
+    {
+      "name": "PT: Guillermo del Toro's Pinocchio (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
+    },
+    {
+      "name": "PT: Peter Rabbit (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBWtdp8mgce4QQkH697LpaL0Iik.jpg"
+    },
+    {
+      "name": "PT: The Little Vampire (2000)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBGfZGKX3KJnljxsX6r24lzRe0i.jpg"
+    },
+    {
+      "name": "PT: Little Grey Fergie: The Secret of the Farm (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJR9Xkkgau7gLO0PwfY84v9eaNA.jpg"
+    },
+    {
+      "name": "PT: The Fox and the Hound (1981)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC3k6XBaYnulGSkK8263ABjU3Md.jpg"
+    },
+    {
+      "name": "PT: Just Super (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZxqMQTIQ6HYOzyeiDxYYtyj4H7.jpg"
+    },
+    {
+      "name": "PT: The Smurfs (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRhnslP2gW0QDym7BsMeSuioUfK.jpg"
+    },
+    {
+      "name": "PT: Meet the Robinsons (2007)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/naya0zF4kT401Sx15AtwB9vpcJr.jpg"
+    },
+    {
+      "name": "PT: The Mitchells vs. the Machines (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mI2Di7HmskQQ34kz0iau6J1vr70.jpg"
+    },
+    {
+      "name": "PT: The Boxtrolls (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg"
+    },
+    {
+      "name": "PT: The Smurfs 2 (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2c4nT4JTcBHrX6BVKrMIGmyBvK.jpg"
+    },
+    {
+      "name": "PT: The Croods (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg"
+    },
+    {
+      "name": "PT: Penguins of Madagascar (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXbpNrPDZDMEbujFoOxmMNQVMHa.jpg"
+    },
+    {
+      "name": "PT: The Aristocats (1970)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg"
+    },
+    {
+      "name": "PT: One Piece Film Red (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m80kPdrmmtEh9wlLroCp0bwUGH0.jpg"
+    },
+    {
+      "name": "PT: Saludos Amigos (1942)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdZyHjsSHYBO53o59ZMz4fOXcmk.jpg"
+    },
+    {
+      "name": "PT: Rescued by Ruby (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPlJEodEn0SSV4avo8KSawtlTlN.jpg"
+    },
+    {
+      "name": "PT: Riley's First Date? (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGLwfmLqg39822RFQMUDat0UJev.jpg"
+    },
+    {
+      "name": "PT: Merry Little Batman (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J70guF8wcErbYbRgZUBcvShgI1.jpg"
+    },
+    {
+      "name": "PT: Diário de Bordo de uma Viagem à Infância: Mundo da Lua, o Documentário (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCuKLUdu7WT17PnG5VPPiiWPJ9e.jpg"
+    },
+    {
+      "name": "PT: O Monstro Marinho - 2022",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg"
+    },
+    {
+      "name": "PT: O Diário de um Banana no Natal: Tirem-me Daqui! - 2023",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tbFuwWZOcAXySQ2A1KpxExUirH.jpg"
+    },
+    {
+      "name": "PT: O Despertar das Tartarugas Ninja: O Filme - 2022",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lJgQ0cTKsU4gVEVkNOc6jEJU0o.jpg"
+    },
+    {
+      "name": "PT: O Amigo Crocodilo - 2022",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4cqxZz2mHS0iyXvladOVltjJLQ.jpg"
+    },
+    {
+      "name": "PT: Snow (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYwdUBipecwPQrIYLoVkLOFm7zd.jpg"
+    },
+    {
+      "name": "PT: O Pequeno Vampiro - 2017",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhsPZXCBwt2fL8GoQtmLIomVRpA.jpg"
+    },
+    {
+      "name": "PT: A Ilha das Larvas: O Filme - 2020",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FROV4R9y4Ccy8mAWg0OYl6w8qk.jpg"
+    },
+    {
+      "name": "PT: O Corcunda de Notre Dame - 1996",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvdPI1neAfdMKvetXEBj4hpPQoI.jpg"
+    },
+    {
+      "name": "PT: Novos Deuses: Yang Jian - 2022",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9BAAbc28r4jubft6XpNKC6tlxR.jpg"
+    },
+    {
+      "name": "PT: Música, Maestro! - 1946",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Mu98243emXAKy8iZfymUJDgTpS.jpg"
+    },
+    {
+      "name": "PT: Mínimos 2: A Ascensão de Gru - 2022",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SfrlDY8SUiG1HSTGxHfAiVUhdy.jpg"
+    },
+    {
+      "name": "PT: Mulan II (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovAxLGM0I9Dn2DIUuYhgvNVbwht.jpg"
+    },
+    {
+      "name": "PT: Mr. Peabody & Sherman (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPcImYndWESKHzT2GHVCDsUxzYg.jpg"
+    },
+    {
+      "name": "PT: Mortal Kombat Legends: Cage Match (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eKWqTHp4OgKdx1QX1O9LxKHr1M.jpg"
+    },
+    {
+      "name": "PT: Mortal Kombat Legends: Cegueira Glaciar - 2022",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJvZHaduX9GeASdZ16hc8O9JCWz.jpg"
+    },
+    {
+      "name": "PT: Monstros e Companhia - 2001",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKiG037CiuSZqL1gxsDHyBj28lg.jpg"
+    },
+    {
+      "name": "PT: Miraculous: As Aventuras de Ladybug - O Filme (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oa9tkk1vF5pefeHHWJzRK3Lo1jo.jpg"
+    },
+    {
+      "name": "PT: Vaiana - 2016",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiVFLTR8SwQXxxEyRRt8YQK83l2.jpg"
+    },
+    {
+      "name": "PT: Matraquilhos (2013) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JexevmMkDLaRTa8JalJt7UIlue.jpg"
+    },
+    {
+      "name": "PT: Mickey Saves Christmas (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yroznFQnEjgzgHj0vBDm4Hnppv6.jpg"
+    },
+    {
+      "name": "PT: Мавка - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/chJSoWuPYwq2hiyMqTSFyc69hLj.jpg"
+    },
+    {
+      "name": "PT: Marcel the Shell with Shoes On (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg"
+    },
+    {
+      "name": "PT: Lupin III vs. Olho de Gato - 2023",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA3M1JMjcgaVYZEUPyFr5gPAe0q.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: O Plano dos Vilões (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4ck2CY4r01FXkOXz4TwJcaSiPf.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: A Gincana Na Netoland (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pX0diuVyLlOOs6YiqXrdpDVEQoX.jpg"
+    },
+    {
+      "name": "PT: Loud em Casa: O Filme - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTZe8H3vhgmGEyxvhcoEuFFGEtU.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes Platinum Collection: Volume Two (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pX3lDCRngjfTVs2Fj7HQpj00p1e.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes Collection: Best Of Bugs Bunny Volume 1 (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmzDBFOpyJAZHwxRBIVzDtJjY0d.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes: Reality Check (2003)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XWrC4KrD3By9ytWzEywFa3Onop.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes: All Stars Collection - Volume 3 (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVHQxSLMijlr6jsBHGZXYmnkA1h.jpg"
+    },
+    {
+      "name": "PT: Lightyear (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg"
+    },
+    {
+      "name": "PT: Les As de la Jungle : Opération Banquise - 2011",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP44nQ8q9x0oxrOgCJe4paDkByH.jpg"
+    },
+    {
+      "name": "PT: LEGO Star Wars: Férias de Verão (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i56VuUUxgDUQB6SzJ9xfW60Rsy1.jpg"
+    },
+    {
+      "name": "PT: LEGO Marvel Avengers: Time Twisted (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nA9AjJ8iZvbBPsFPC2FNoFj568.jpg"
+    },
+    {
+      "name": "PT: LEGO Star Wars: Especial Boas Festas (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kqN43yygrJM2ckpnYBdtJRmn1b.jpg"
+    },
+    {
+      "name": "PT: Os Super-Heróis da Selva 2 - 2023",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1q9S6SiNdap74UhZB7kHLtjvPL.jpg"
+    },
+    {
+      "name": "PT: L.O.L. Surprise! Winter Fashion Show (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik65OsEXbik1I0Di7SX9Sqv04e9.jpg"
+    },
+    {
+      "name": "PT: Kral Şakir: Cumburlop - 2023",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQerGCQVcHsVu1c2VwizUo83UBe.jpg"
+    },
+    {
+      "name": "PT: Homem-Aranha: Sem Volta a Casa - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qBccgSj0Ru9Odm1Mjv82cxDr7l.jpg"
+    },
+    {
+      "name": "PT: The Incredibles 2: Os Super-Heróis - 2018",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoSgEzw9LrXFPPjny5CvUEjxUrJ.jpg"
+    },
+    {
+      "name": "PT: A Idade do Gelo - 2002",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2NR4rJdD6bIVE61T7rhHxrrGvv.jpg"
+    },
+    {
+      "name": "PT: Gnomeo & Juliet (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg"
+    },
+    {
+      "name": "PT: Galilebre e o Templo Perdido - 2022",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIzqgCqKh69G95HDB9LWTLnLT8H.jpg"
+    },
+    {
+      "name": "PT: Futebol em Apuros - 2022",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WHeh743USzQoCrzPQYUKEDsTjZ.jpg"
+    },
+    {
+      "name": "PT: Frozen: O Reino do Gelo (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh8yowTUdhF2EIYDSo0UgpJuatI.jpg"
+    },
+    {
+      "name": "PT: À Procura de Dory - 2016",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq0bBYiDe7ttTNBtTwMBqBLPCXJ.jpg"
+    },
+    {
+      "name": "PT: A Família Addams 2 - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGSZSlmJqshcxh6Usgx9Um0utK0.jpg"
+    },
+    {
+      "name": "PT: Fuga do Planeta Terra - 2012",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvAc19zBSi10JzMqjtN8f3LkTAs.jpg"
+    },
+    {
+      "name": "PT: Entergalactic (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMU3JpuKuasjAWIbUQgCaT6pco1.jpg"
+    },
+    {
+      "name": "PT: Enchantimals: La Ville Enchantée - 2022",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/apvHSuJE6ZlDxW4s9wBi1YVgdb5.jpg"
+    },
+    {
+      "name": "PT: Ohana: Um Tesouro do Havai - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcQY8T1owyMMRmp9dZiUTUQVxKW.jpg"
+    },
+    {
+      "name": "PT: EMOJIHEAD (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGi3ilpWBETdzQE3rZgtVXIDEKz.jpg"
+    },
+    {
+      "name": "PT: Ella Bella Bingo (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg"
+    },
+    {
+      "name": "PT: Os Dragões - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4NjrnW4affBz9V95xNZV8qnQQ9.jpg"
+    },
+    {
+      "name": "PT: Esta Noite Minha Alma Partirá (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mg3q8CjyqDEgT0pGayq1IfcCxy3.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball: A Lei do Mais Forte (1996)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ9vh64p6DQDi00XDvHsp4tJSyx.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: A Fusão - 1995",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg"
+    },
+    {
+      "name": "PT: Gru - O Maldisposto 2 (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuo55j52aC6sKx3MkYxZZFC7wH6.jpg"
+    },
+    {
+      "name": "PT: Demon Slayer - O Filme: Comboio Infinito (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlGL6yoyDTAZeVzqTfD9aU1tFnr.jpg"
+    },
+    {
+      "name": "PT: Deathstroke: Knights",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykhI6BEEUG39Mrg47V1YpIrk5vy.jpg"
+    },
+    {
+      "name": "PT: DIA DO SIM - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiluKb3NgB6QmuN8hWLKIUxBxxU.jpg"
+    },
+    {
+      "name": "PT: Konstantin \"Constantine\" Belenko (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u1fQjrjd6RgpNiNkwJtDyI2h3U.jpg"
+    },
+    {
+      "name": "PT: Como Treinares o Teu Dragão: Regresso a Casa - 2019",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZbfgH0pXsv0I3LWYlEc8LSrNcd.jpg"
+    },
+    {
+      "name": "PT: Chovem Almôndegas 2 - 2013",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2prUcInmfAEdjfLUIY8RIQ1fih.jpg"
+    },
+    {
+      "name": "PT: O Capuchinho Vermelho - 2006",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ATTcaiFMdjd3V21M68xPP4xugd.jpg"
+    },
+    {
+      "name": "PT: Capitão Jake e os Piratas da Terra do Nunca: A Grande Conquista do Mar do Nunca (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Brave (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7egAJnW7qz9IGXylKSzk6YwpAv.jpg"
+    },
+    {
+      "name": "PT: Leisure Matters (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwA7k9FwFgDTv20phqXA83rSaV8.jpg"
+    },
+    {
+      "name": "PT: SpongeBob - Esponja em Missão (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg"
+    },
+    {
+      "name": "PT: Bigfoot Em Família - 2020",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Wqr1Jthqs801DAsNI71PnrPjdX.jpg"
+    },
+    {
+      "name": "PT: Ben 10 vs. the Universe: The Movie (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg"
+    },
+    {
+      "name": "PT: Batman and Superman: Battle of the Super Sons (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvffaexT5kA3chOnGxwBSlRoshh.jpg"
+    },
+    {
+      "name": "PT: Three Little Woodpeckers (1965)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOu96fvgrKiK8kw2qmNHcntpg5v.jpg"
+    },
+    {
+      "name": "PT: Barbie em A Princesa da Ilha - 2007",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8JNJV3ZI7Oi6OxsX9wDtvBAwsQ.jpg"
+    },
+    {
+      "name": "PT: Bambi 2 - O Grande Príncipe da Floresta - 2006",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpvRZcuWVT8LxQGzT5PJPWKiB5r.jpg"
+    },
+    {
+      "name": "PT: Ballerina (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg"
+    },
+    {
+      "name": "PT: Uma Aventura no Jurássico - 2012",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap4e3zJ5girxFryRddW6zXOHZAL.jpg"
+    },
+    {
+      "name": "PT: The Powerpuff Girls Movie (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAFalW8UtdJg1z1gPjXx8C1sXZq.jpg"
+    },
+    {
+      "name": "PT: As Novas Aventuras de Aladino - 2015",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLEV9gEKQaR2qso3d3QRydlOrLf.jpg"
+    },
+    {
+      "name": "PT: As Crónicas de Nárnia: O Príncipe Caspian - 2008",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnu0dlICiFTR2cnySBkpaVOjp3z.jpg"
+    },
+    {
+      "name": "PT: As Crónicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa - 2005",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLw1gxPAvkqhp5XrdO2A50Q5lTW.jpg"
+    },
+    {
+      "name": "PT: As Aventuras de Lia - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzl8Z3PdFQscUI568ZvGb0y5d9U.jpg"
+    },
+    {
+      "name": "PT: As Aventuras de Gulliver - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEOsByOxmcY5VexXTwqLs9fygYA.jpg"
+    },
+    {
+      "name": "PT: Tad e as aventuras de Tadeo",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jvIVl8zdNSOAJImw1elQEzxStMN.jpg"
+    },
+    {
+      "name": "PT: As Extra Aventuras de Winnie the Pooh - 1977",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/drmonezw1z24j1LD5haP56QRIbs.jpg"
+    },
+    {
+      "name": "PT: As Aventuras do Sr. Sapo - 1949",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mK6JBRA9g7g4dzejndEp2j346Ap.jpg"
+    },
+    {
+      "name": "PT: As Aventuras de Tintin: O Segredo do Licorne - 2011",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSzqfKyzb7nRCZ3qihPhdspZeMA.jpg"
+    },
+    {
+      "name": "PT: As Aventuras de Sammy - A Passagem Secreta - 2010",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WkTLPos0myItXrrforHMKQlTvi.jpg"
+    },
+    {
+      "name": "PT: Aqui e Agora - 2018",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNJHE5toiMWuF2GYaPY8VIl3qD1.jpg"
+    },
+    {
+      "name": "PT: Aqua Teen Forever: Plantasm (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiiw1UspF8F0JhcPcZu0WoZ3psD.jpg"
+    },
+    {
+      "name": "PT: Appleseed Alpha (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yISvzOlV0x1D667oRcUBxxDR0LZ.jpg"
+    },
+    {
+      "name": "PT: Apollo 10½: A Space Age Childhood (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OkOOZN5aGj7LjbRdHazGPfGejJ.jpg"
+    },
+    {
+      "name": "PT: Angelina Ballerina: Friends Forever (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mz2u3cgkA0FGDJVZySXkJHwT1sI.jpg"
+    },
+    {
+      "name": "PT: America: The Motion Picture (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0HnLa6FtGcslbqClKOIyvCXfpe.jpg"
+    },
+    {
+      "name": "PT: Alvin e os Esquilos: A Grande Aventura - 2015",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XuMjOFkfSpMz0ID6SSG2ISawVP.jpg"
+    },
+    {
+      "name": "PT: Alvin and the Chipmunks: The Chipettes (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/smdMofNoN8iWNJzHmwIHXbI4cho.jpg"
+    },
+    {
+      "name": "PT: All Creatures Big and Small - 2015",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KxddmXpgnggnfpPEfglMdeFi1n.jpg"
+    },
+    {
+      "name": "PT: Spycies: Agentes Especiais - 2020",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRbKCQxQ6PF9GWMWknN3LVm9sCZ.jpg"
+    },
+    {
+      "name": "PT: Action Man: Robot ATAK (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJX08YpMhOOblf7SfrCnqOhKpS4.jpg"
+    },
+    {
+      "name": "PT: Um Voo em Grande (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VTYZiDRHBMEEtzv7CPwr0ZruPn.jpg"
+    },
+    {
+      "name": "PT: Ace Ventura Júnior: Detective de Animais - 2009",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj8a9BMuIUgeKhKZRWJVeKE5jXl.jpg"
+    },
+    {
+      "name": "PT: A Elefanta do Mágico - 2023",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7weieVLynnkcFqOWA5WAmjffNB.jpg"
+    },
+    {
+      "name": "PT: A casa (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTH1GW8C1OwEr2UAzgLvl5N7RAN.jpg"
+    },
+    {
+      "name": "PT: Para Além da Lua - 2020",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWZ3atqzyZ7GT1NrptLXwFI9vVb.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z:  Filme 9 - O Super-Homem da Galáxia (1993)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yufW8vCgxW2o3egUfY7ivN5rC9B.jpg"
+    },
+    {
+      "name": "PT: A Princesa e o Sapo - 2009",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uyZwjeHH9JmfULo4WzMsDpfW0S.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Filme 8 - Uma Batalha Ardente (1993)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwgp3aihvSPONoQh0gqWU4LrPDb.jpg"
+    },
+    {
+      "name": "PT: A Estrela de Natal - 2017",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9LD4vsEFV1o1vSt0LQf7v8IHma.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball GT - Filme Especial - Goku Jr. PT-PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/giJnisBQfE1LqfOdWZojDc2lh8c.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z:  Filme 7 - A Super Batalha",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yufW8vCgxW2o3egUfY7ivN5rC9B.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Filme 6 - O Poder de 10 Milhões de Guerreiros (1992)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvlHl1IFBdBfnLA4sgyjdqeyIEU.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Filme 5 - Os Grandes Rivais (1991)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSPplgwerlYhDWV362A1oec9Hg2.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Filme 4 - O Super Guerreiro SonGoku (1991)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xolX6EZdn5n1p5YcLkDjDLe1lN7.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Filme 14 - A Batalha dos Deuses",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF8ZL7ALPQWqvlg0FPE2fgdXOkR.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z:Filme 2 - O Super Herói",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQyOTWpSQOyzLpHEOCpQwFFF0dJ.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z:Filme 3 A Grande Batalha (1990)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIdT0MMmpDoiviPw0YSLajj5cHP.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Filme 13 - O Ataque Do Dragão",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HKCZmoTK3gwYJAFBTvJETaaDFt.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Filme 12 - A Fusão",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z:Filme 11- O Ataque do Super Guerreiro (1994)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYENLK3LUDGyqz9t2G4wivDMR3W.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z:Filme 10 - Rivais Perigosos",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Filme 1 - A Zona Morta",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgSKtVLW8RPSQc4ovtXLrpReCAT.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Especial Filme 2 - O Desafio Final",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball: Filme 4 - A Lei do Mais Forte (1996)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ9vh64p6DQDi00XDvHsp4tJSyx.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball: Filme 3 - Uma Aventura Inesquecível (1988)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG5Vq24AD4TEFvQjPWOQyQKZTri.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball: O Castelo Fantástico (1987)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/scvwYMmVLI5aEBX4efEG9ByjeDu.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball: A Lenda de Shenron (1986)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: O Plano para Acabar com os Super Guerreiros Part 2",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Especial Filme 3 - Desafio Final (1993)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yprvCrZcdWNvoGmhkEy93l5NRDW.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: O Plano para Acabar com os Super Guerreiros - Parte 1",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Especial Filme 2 - Junta-te a Nós! O Mundo do Goku",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwTazcLR8ApguyLHGDWkSPKmnB0.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Z: Especial Filme 1 - O Pai de Songoku(1990)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/TQtQcckcXwkWxcij6JxJiyVXkG.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball GT: 100 Anos Depois - 1997",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/giJnisBQfE1LqfOdWZojDc2lh8c.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball: 2 O Regresso de Son Goku e dos Seus Amigos (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXHBTIUYFP5un0ySiMsSHU3alWD.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball: O Regresso de Son Goku e dos Seus Amigos (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXHBTIUYFP5un0ySiMsSHU3alWD.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball: Episode of Bardock (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5uAIJH94OnPhilGCdWbAiSGewa.jpg"
+    },
+    {
+      "name": "PT: Фиксики - Большой секрет (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1H4TNfrLYYzSFd4CICyoFIjx1vn.jpg"
+    },
+    {
+      "name": "PT: À Procura de Nemo - 2003",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jrPMq7IMLTqcuPDlK6jfruEbpq.jpg"
+    },
+    {
+      "name": "PT: Imagining Zootopia (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwLfMBuOZL7YUCQZJYTzYIFzZuu.jpg"
+    },
+    {
+      "name": "PT: Zé Colmeia - 2010",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJznQfkWmN8MDnOvwxrt1UOnEAG.jpg"
+    },
+    {
+      "name": "PT: Zumbilênio: O Parque dos Monstros - 2017",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2HamcBWs8Uv2Xgt2nNPlOtyczU.jpg"
+    },
+    {
+      "name": "PT: Zootrópolis - 2016",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyjBSQ7lCS2XolhbLeAH5HhXahY.jpg"
+    },
+    {
+      "name": "PT: Zengo (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/60Xh1xJPS0M2FyHTmnmUGHwlwLw.jpg"
+    },
+    {
+      "name": "PT: Zambézia - 2012",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWn5Ky57rwSi4utp5geFefLwK6M.jpg"
+    },
+    {
+      "name": "PT: Yu-Gi-Oh! O Filme - 2004",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrOts4zqd0B8i1Gt6IasYtTMQZb.jpg"
+    },
+    {
+      "name": "PT: 映画 妖怪ウォッチ 妖怪学園Y 猫はHEROになれるか - 2019",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYiLty3iwZS61tYm3EnCcKjL01L.jpg"
+    },
+    {
+      "name": "PT: Xana Toc Toc to your Trolipop (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jldkGbcdBweNWkDIbDIh7NySWnN.jpg"
+    },
+    {
+      "name": "PT: Xana Toc Toc ao Vivo (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Tk00svZU80Avy5oPD2VqFP3NRQ.jpg"
+    },
+    {
+      "name": "PT: Xana Toc Toc na Selva (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/catEh0GkNN5jsSFl4yu0lr5eKf7.jpg"
+    },
+    {
+      "name": "PT: Conte sauvage (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFEhSpgx444zY0I4hDfnLRpEKrM.jpg"
+    },
+    {
+      "name": "PT: Wolfwalkers (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehAKuE48okTuonq6TpsNQj8vFTC.jpg"
+    },
+    {
+      "name": "PT: Winnie the Pooh: Frankenpooh (1999)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gqfCCnCxX8Fza8sYyPoQXj2DoG.jpg"
+    },
+    {
+      "name": "PT: Watchmen: Capítulo 2 - 2024",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvSEowY2XE0Gb06FBEwQng2M6KX.jpg"
+    },
+    {
+      "name": "PT: Wallace",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kzs6gPSOWqqjZz1eHWEvNTW9Dx.jpg"
+    },
+    {
+      "name": "PT: Wall-E - 2008",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TfYp0eMPrcKNjX6PTKGGQODjfF.jpg"
+    },
+    {
+      "name": "PT: Vera (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkrIZT1XIaIDtlSOzhuvmF9p0O9.jpg"
+    },
+    {
+      "name": "PT: Upsss! Lá Se Foi a Arca... - 2015",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWQgAbAWp1Iu0f3dTQnTYnEEpUW.jpg"
+    },
+    {
+      "name": "PT: Uma Aventura no Expresso Cattle Hill - 2023",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VqIp2P34qVkdrr82hP1Pmo5pO4.jpg"
+    },
+    {
+      "name": "PT: Uma Aventura do Outro Mundo - 2018",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZY8LoT91xzaWa08m3YqBynA4Jb.jpg"
+    },
+    {
+      "name": "PT: Um Susto de Família 2 - 2021",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bz9qnV41N3gbMStjXKL2YkR9aXE.jpg"
+    },
+    {
+      "name": "PT: Shin Ultraman (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8e4WjXrOY7WH94jlhBeoYCYUVwj.jpg"
+    },
+    {
+      "name": "PT: Turning Red - Estranhamente Vermelho (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
+    },
+    {
+      "name": "PT: Trolls - Tour Mundial (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg"
+    },
+    {
+      "name": "PT: Twick or Tweety (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pve6DBzy8Qm0itmGIvlbsklEoPV.jpg"
+    },
+    {
+      "name": "PT: True (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Zs6vPeCEamSRokFoq8tBh9i4Aw.jpg"
+    },
+    {
+      "name": "PT: Transformers Prime: One Shall Stand (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqt7KbU3UwwPswTjtB0P6VVyoFa.jpg"
+    },
+    {
+      "name": "PT: Top Cats (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LPayrzLD8j8CglXzVYcd5kkmcA.jpg"
+    },
+    {
+      "name": "PT: Tom and Jerry Meet Sherlock Holmes (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TAd3Cky2D8dHzWIirna1IHa2N3.jpg"
+    },
+    {
+      "name": "PT: Tom e Jerry: O Quebra Nozes - 2007",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvXemWx3LuIQ0c2UMk4dQJ9KJ2.jpg"
+    },
+    {
+      "name": "PT: Tom e Jerry - O Anel Mágico - 2002",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w9htTCL9ikMzoduvAQfSm6bDIK.jpg"
+    },
+    {
+      "name": "PT: Tito e os Pássaros - 2019",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ymTnRmZ9F7WICOAmYNMECF7bgQ.jpg"
+    },
+    {
+      "name": "PT: Todd and the Book of Pure Evil: The End of the End (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjpDQcruvkFUwwjYC5rc3ny8F6u.jpg"
+    },
+    {
+      "name": "PT: Thomas e os seus Amigos A Grande Corrida (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: TheBox (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUmhynB9ETAAEkbnH1U9G0s3TJN.jpg"
+    },
+    {
+      "name": "PT: The Twins (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCUJHfM6iQvJNage8Py3DxYk180.jpg"
+    },
+    {
+      "name": "PT: The Swan Princess: A Royal Myztery (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljktBZh0wM8yVZcgMt3i43sjkdy.jpg"
+    },
+    {
+      "name": "PT: The Sea Beast (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg"
+    },
+    {
+      "name": "PT: The Little Prince (1979)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pi972C1zMqwdGIfUddJZJ1ctrM.jpg"
+    },
+    {
+      "name": "PT: The Legend of the Christmas Witch (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IHvprxYZ0ZVDfQbyMd5OHtGA6s.jpg"
+    },
+    {
+      "name": "PT: The Last Days on Mars (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxcQkAhpn8cvJTsU8PXblI5Qq8F.jpg"
+    },
+    {
+      "name": "PT: The Croods: A New Age (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg"
+    },
+    {
+      "name": "PT: Teen Titans: Trouble in Tokyo (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wMlDE1HzkVyYeDKuY1oDOWQlN2.jpg"
+    },
+    {
+      "name": "PT: Teen Titans Go! To the Movies (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFHihhE9hlvJEk2f1AqdLRaYHd6.jpg"
+    },
+    {
+      "name": "PT: Tarzan Goes to India (1962)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kw3ISWZT6QLkWXhbK9v6W46tdOE.jpg"
+    },
+    {
+      "name": "PT: Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbnhvFPyXKCKLNhg1pkz6rXQ4Le.jpg"
+    },
+    {
+      "name": "PT: Tangled (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ym7Kst6a4uodryxqbGOxmewF235.jpg"
+    },
+    {
+      "name": "PT: TMNT (2007)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rqLBoVBjqfIrk7QJcTF06Fn1Bd.jpg"
+    },
+    {
+      "name": "PT: Sword of the Stranger (2007)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMsUYZq5ITW3rAqF3tB7v74KEnH.jpg"
+    },
+    {
+      "name": "PT: Amada Anime Series: Super Mario (1989)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4k7mnlolh1Mhz3kQn2r2PkvBtPO.jpg"
+    },
+    {
+      "name": "PT: Super Monsters: The New Class (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dv6emhYCz6JVwUJZU5j8C4Jdi7.jpg"
+    },
+    {
+      "name": "PT: Super Monsters Save Christmas (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d96SFX22o3dIuZ0qzOLNJ7ErfGP.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes Super Stars Daffy Duck: Frustrated Fowl (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Cw7pFfqGQcElNgU0KprrbqdHFk.jpg"
+    },
+    {
+      "name": "PT: Steamboy (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZAq0hTiJTiQir5RtpiN8CkkzSZ.jpg"
+    },
+    {
+      "name": "PT: Suicide Commandoes (1962)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG2mTPyygVxHt1ipezfbPtsGla1.jpg"
+    },
+    {
+      "name": "PT: The SpongeBob SquarePants Movie (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg"
+    },
+    {
+      "name": "PT: Spider (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jireX9062do8ETnOxYcFcvse1fY.jpg"
+    },
+    {
+      "name": "PT: Speedy Gonzales (1955)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/noNjbvd1Uy7QzDZZ4eV25IIPayd.jpg"
+    },
+    {
+      "name": "PT: Shrek the Third (2007)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4SexGGQzI26E269tfpa80MZaGV.jpg"
+    },
+    {
+      "name": "PT: Snow (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iLnJlgDUGjcbrBJml7NI47P63N.jpg"
+    },
+    {
+      "name": "PT: Sgt. Stubby: An American Hero (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3eKgsZARPMrCoMZbPa3SI0La6H.jpg"
+    },
+    {
+      "name": "PT: Shaun the Sheep: The Flight Before Christmas (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eh6Yv6bAU2ghHxP1zgUlMfaOR3.jpg"
+    },
+    {
+      "name": "PT: Sem Tempo para Espiar: Um Filme Loud em Casa - 2024",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXVflCGYGUbNSN4TmkLqQqM1rXc.jpg"
+    },
+    {
+      "name": "PT: Scarygirl - A Miúda Fantástica - 2023",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tcLXVaXFG9OObnCN3a5KrymrQG.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg"
+    },
+    {
+      "name": "PT: The Rugrats Movie (1998)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZejGKCSd6nwfMx8U0Td37U2fTc.jpg"
+    },
+    {
+      "name": "PT: Ruby (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44Lb1nUSNbuWPFX28VcsOHWV6n1.jpg"
+    },
+    {
+      "name": "PT: Rock Dog 3: Battle the Beat (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg"
+    },
+    {
+      "name": "PT: Robin Hood (1973)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg"
+    },
+    {
+      "name": "PT: Riverdance: The Animated Adventure (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6TRDlVuuEXMyLSlIkDd8YhBN0r.jpg"
+    },
+    {
+      "name": "PT: Rio 2096: A Story of Love and Fury (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqvJxBR3Tpj9semsPYgCZ2tE3UZ.jpg"
+    },
+    {
+      "name": "PT: Rato Basílio - O Grande Mestre dos Detectives - 1986",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2V4c6xPivHkFp2n0U6Y6AGZz2WI.jpg"
+    },
+    {
+      "name": "PT: May the 12th Be with You (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHJ2OIgpcpSmhqXkuSWxZ3nwg1S.jpg"
+    },
+    {
+      "name": "PT: Pom Poko (1994)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zat2MMhejQyJJN6CucLI9Or9kdo.jpg"
+    },
+    {
+      "name": "PT: Porco Rosso (1992)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg"
+    },
+    {
+      "name": "PT: Purl (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8to7TlVMBwMuDgi2DJ9rVJsobE.jpg"
+    },
+    {
+      "name": "PT: Polly Pocket (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/QF4VDgczBIvb9e3WfRTD6MlPZp.jpg"
+    },
+    {
+      "name": "PT: Pokémon the Movie: The Power of Us (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oXKbOQOsPaLscHCqHjvi7hegOJ.jpg"
+    },
+    {
+      "name": "PT: Pokémon the Movie: Hoopa and the Clash of Ages (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kXRevMC1XSywmxqqRHuBcZlROT.jpg"
+    },
+    {
+      "name": "PT: Pokémon Ranger and the Temple of the Sea (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZOi06xHjsG1VqbiIwS8GkyrAOn.jpg"
+    },
+    {
+      "name": "PT: Pokémon the Movie: I Choose You! (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4U689nUPUtER5Qh1MNlLRPeh8q.jpg"
+    },
+    {
+      "name": "PT: Pokémon: The First Movie (1998)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPW3AeK3iQi1Zd9dCbdNLijE48o.jpg"
+    },
+    {
+      "name": "PT: Pokémon: Destiny Deoxys (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UV4evNh70gvPZB9KJEoh3a9B6I.jpg"
+    },
+    {
+      "name": "PT: Pokémon: Gotta Dance! (2003)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d49I7aNKDqWiqnNtL359Bzw3O7o.jpg"
+    },
+    {
+      "name": "PT: Pokémon 4Ever (2001)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thz83PS9twtVBEEAM59J1bh75nU.jpg"
+    },
+    {
+      "name": "PT: Pokémon 3: The Movie (2000)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rf1ptotD12w8NYzaKXgrjKUl4d5.jpg"
+    },
+    {
+      "name": "PT: Pokémon the Movie 2000 (1999)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/se72V9kyqmJYF1HLu5F7TEUU41g.jpg"
+    },
+    {
+      "name": "PT: Pokémon the Movie: Mewtwo Strikes Back - Evolution (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtlyO2oIMcCx2DbOM52XO2rAcgn.jpg"
+    },
+    {
+      "name": "PT: Pokémon Detective Pikachu (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg"
+    },
+    {
+      "name": "PT: Pokémon: Arceus and the Jewel of Life (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpqguVMKyPbINe0GYmMwduoaUar.jpg"
+    },
+    {
+      "name": "PT: Pokémon: The Rise of Darkrai (2007)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yElGG6lxLtQXcgBVzF7Xxq7YRa2.jpg"
+    },
+    {
+      "name": "PT: Pocahontas II: El regresso de John Smith (1996)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/22GCKbrXbKTta3rXBudAQGUP52n.jpg"
+    },
+    {
+      "name": "PT: Phineas and Ferb the Movie: Candace Against the Universe (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/afOa3CpPffC3uQCH2fhMaO3AYpB.jpg"
+    },
+    {
+      "name": "PT: Phineas and Ferb: Mission Marvel (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/da2AREjdecPInHzWeZ550X1aYDU.jpg"
+    },
+    {
+      "name": "PT: Peter Pan's Neverland Nightmare (2025)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5THDVistCJttsfCUOt6DBucY0ed.jpg"
+    },
+    {
+      "name": "PT: Águias em Patrulha (1969)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nqQyNHFU7xJeA3W4EowP6fgIN3.jpg"
+    },
+    {
+      "name": "PT: The Ducks (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTQ6jO4yLFlQwPA4C2W5RkLmnf6.jpg"
+    },
+    {
+      "name": "PT: Cinderella: After Ever After (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/CyLngXO5P06nPwhcImQIidelev.jpg"
+    },
+    {
+      "name": "PT: Paprika (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pDR74lCUfRzX4rFVwkgwRgBVZz.jpg"
+    },
+    {
+      "name": "PT: PANDA (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFbmT412dmD0yBVVd4aC8zDZTJo.jpg"
+    },
+    {
+      "name": "PT: Panda e os Caricas 3 (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpsHBrjcPWLp466uDRfPCflx6f8.jpg"
+    },
+    {
+      "name": "PT: Panda e os Caricas 4 (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dzHfccoSxDVDfAU7NwK9Nx25DJ.jpg"
+    },
+    {
+      "name": "PT: Panda e os Caricas (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXYcptG5SL6mzZ83GQsJyVAfZxS.jpg"
+    },
+    {
+      "name": "PT: PAW Patrol: Aqua Pups (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/imCUlx7MjZJpMRRAswiAZzpz1Id.jpg"
+    },
+    {
+      "name": "PT: PAW Patrol: Mighty Pups (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h09VT8gNfRBlr7S8l1lm27m4rus.jpg"
+    },
+    {
+      "name": "PT: Ozi: Voice of the Forest (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2O61Y82HdokuI5mYCJ3mO5fez5Z.jpg"
+    },
+    {
+      "name": "PT: Over the Moon (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/44KbDjAu4ya37eMDxxkTX3s4BI6.jpg"
+    },
+    {
+      "name": "PT: Rumble (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eZRgjfFWTpejRvRKyKe1EKgt9s.jpg"
+    },
+    {
+      "name": "PT: The Jungle Bunch (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ0T0yRe8iDqAgeZXRNvpAJh5z1.jpg"
+    },
+    {
+      "name": "PT: The Casagrandes Movie (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg"
+    },
+    {
+      "name": "PT: Fly Me to the Moon (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p42h1Z488l6PBCKyQ12cZRhPLm.jpg"
+    },
+    {
+      "name": "PT: Orion and the Dark (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/N2ddXhBX5kqwA9flbm2yqFtX6b.jpg"
+    },
+    {
+      "name": "PT: Open Season (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5Lctmkc1yah215Luxmci4djaiW.jpg"
+    },
+    {
+      "name": "PT: O Túmulo dos Pirilampos - 1988",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHFUyxNJfhMkKk1FwrNHd62KTEs.jpg"
+    },
+    {
+      "name": "PT: Whisper of the Heart (1995)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg"
+    },
+    {
+      "name": "PT: A Greyhound of a Girl (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/imHqX5wpta78Drj3KRSmHNoiSFV.jpg"
+    },
+    {
+      "name": "PT: The Cat Returns (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg"
+    },
+    {
+      "name": "PT: The Hairy Tooth Fairy 2 (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GQPIn1W4RQCkVWUMJzeZTiMgrF.jpg"
+    },
+    {
+      "name": "PT: Craig Before the Creek (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CCNNJyhOxGdSoFuBjWHA1c4HPT.jpg"
+    },
+    {
+      "name": "PT: The Secret World of Arrietty (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg"
+    },
+    {
+      "name": "PT: The Amazing Maurice (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydhZeUjbzVEFclUpMhLfDZSavUY.jpg"
+    },
+    {
+      "name": "PT: The Jungle Book (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Epx7F9X7DrFptn4seqn4mzBVks.jpg"
+    },
+    {
+      "name": "PT: Keane (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i0mdCNik76ULpWMQQ4YM6Ecpg1.jpg"
+    },
+    {
+      "name": "PT: Elli and the Ghostly Ghost Train (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyNtoI1r9ydJRKFGS1SCbT9ying.jpg"
+    },
+    {
+      "name": "PT: Neon Genesis Evangelion: The End of Evangelion (1997)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg"
+    },
+    {
+      "name": "PT: Fantastic Mr. Fox (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/njbTizADSZg4PqeyJdDzZGooikv.jpg"
+    },
+    {
+      "name": "PT: The Nightmare Before Christmas (1993)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+    },
+    {
+      "name": "PT: Carl's Date (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wakoF2UgsEE3fGs5KpuwMWsaNr2.jpg"
+    },
+    {
+      "name": "PT: My Father's Dragon (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hgEe1w0An5fKi3ZqIUBwOyIN2y.jpg"
+    },
+    {
+      "name": "PT: Diary of a Wimpy Kid: Rodrick Rules (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg"
+    },
+    {
+      "name": "PT: The Tale of The Princess Kaguya (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg"
+    },
+    {
+      "name": "PT: Castle in the Sky (1986)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg"
+    },
+    {
+      "name": "PT: Us Again (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IP5g4EDQdvrXxlf1qbG9WQTdI6.jpg"
+    },
+    {
+      "name": "PT: Norm (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0d0HlHkBsMlK9yXiZNJPtUkwlE.jpg"
+    },
+    {
+      "name": "PT: Nimona (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NQljeavtfl22207D1kxLpa4LS3.jpg"
+    },
+    {
+      "name": "PT: Nona (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWlFOOpijBeNMws7KwtFBB79v2S.jpg"
+    },
+    {
+      "name": "PT: The Flight Before Christmas (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEv1FpWQntCYeLW8QUwnE0uFQXa.jpg"
+    },
+    {
+      "name": "PT: Nelly Rapp – Monster Agent (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x90uEqfpj0voiXOSxBWWrp8yX0h.jpg"
+    },
+    {
+      "name": "PT: Nausicaä of the Valley of the Wind (1984)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcrkfB8SRPQCgwI88hQScua6nxh.jpg"
+    },
+    {
+      "name": "PT: A StoryBots Christmas (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/alPfz0S3QrN6cd7Kxf03EfSWKuf.jpg"
+    },
+    {
+      "name": "PT: My Little Pony: Best Gift Ever (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiVMet36PEDZqbXmjSwRh8dYNVS.jpg"
+    },
+    {
+      "name": "PT: The Strange World of Coffin Joe (1968)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/26Z1kIjVIzBaQAmdSJg19D930q2.jpg"
+    },
+    {
+      "name": "PT: Mummies (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6Ghtw9ENhTXfeUsd1Al20ZAvX.jpg"
+    },
+    {
+      "name": "PT: Mr. Zombie (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7j5tWY1MQTqcDcbxveWxVgwYUM7.jpg"
+    },
+    {
+      "name": "PT: Moana double face (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ey6HLW9fimtUw0M45fmV9exZU5.jpg"
+    },
+    {
+      "name": "PT: Momonsters: The Movie (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHbBH7335CCOcIfBoihHdwVtUSK.jpg"
+    },
+    {
+      "name": "PT: A Casa Fantasma (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBEpDF693Bql7roL6LY3SsNHg52.jpg"
+    },
+    {
+      "name": "PT: Mary Poppins (1964)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ei8hhYCMfURfPOXKBnyl61be2iV.jpg"
+    },
+    {
+      "name": "PT: Only Yesterday (1991)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOSnFE9e82iH3ZAzSTtuOkBsabJ.jpg"
+    },
+    {
+      "name": "PT: Mighty Express: Train Trouble (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8afntC3tL5wrysrjAZBwMhdnhPS.jpg"
+    },
+    {
+      "name": "PT: My Sweet Monster (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIbEHAqwK5N7PJJYmbwmxuvC7fL.jpg"
+    },
+    {
+      "name": "PT: When Marnie Was There (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg"
+    },
+    {
+      "name": "PT: Marmaduke (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMUhBeMp0vLQzaPBX0izFdnFvh0.jpg"
+    },
+    {
+      "name": "PT: Mary and The Witch's Flower (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lq3OJQiJ8hlCr23LAdHbeU3eqBF.jpg"
+    },
+    {
+      "name": "PT: Megamind vs. the Doom Syndicate (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg"
+    },
+    {
+      "name": "PT: Malcolm (1986)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLGCwLKEBJC5cWCmOnsQpOOBGfl.jpg"
+    },
+    {
+      "name": "PT: Mariah Carey's All I Want for Christmas Is You (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jv1ZhB4H5SdlG9Q1dEL8WSIIGq.jpg"
+    },
+    {
+      "name": "PT: Mother Knows Best (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7eFQxFkwDIbHZAZnZTrcuMyUSm.jpg"
+    },
+    {
+      "name": "PT: Mafalda (1993)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbGFAM3SWnf2jX27LUS9Dzn9KE5.jpg"
+    },
+    {
+      "name": "PT: Lupin III: The First (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lK0BCJWib1TFeFmQFNEJBMZfEPz.jpg"
+    },
+    {
+      "name": "PT: Fireworks (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifm8CdFjYMfEq0bLT7XwJxjZmjO.jpg"
+    },
+    {
+      "name": "PT: Lucky Luke: Daltons on the Loose (1983)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pylilt2BDpMiV4I7NlG7IBSQPUR.jpg"
+    },
+    {
+      "name": "PT: Luck (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XrraPyKPVYsc5uQbZke8qJh28i.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: Acampamento de Férias (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZPBUSqcJ2LbKYEitosojSLclkx.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: A Babá Operação Game Over (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXRU9SNAKdTM3PP7vN2zUKlup7.jpg"
+    },
+    {
+      "name": "PT: Liar, Liar, Vampire (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCVQCntHI0f8QdgFzS8OMA2ys1H.jpg"
+    },
+    {
+      "name": "PT: Lowriders (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mafycJVTwbsArAycD9yv1KzeAxH.jpg"
+    },
+    {
+      "name": "PT: Les As de la Jungle 2 : Le Trésor du Vieux Jim (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxjy5U2Yop6E4QgV2mxD2RG1JO6.jpg"
+    },
+    {
+      "name": "PT: Legend of the Guardians: The Owls of Ga'Hoole (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qweKCtPdnIP2uGp1PgWZyCV7gzj.jpg"
+    },
+    {
+      "name": "PT: La Belle et la Bête (1946)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DRTPE0oSXtqp7KekrDu72azyCI.jpg"
+    },
+    {
+      "name": "PT: The Great Arc (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e64XrMMzReZBw53TwVl94pTF5r0.jpg"
+    },
+    {
+      "name": "PT: LEGO Jurassic World: The Indominus Escape (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sKJifTlVvM7jEnFEYFwJSay5Vu.jpg"
+    },
+    {
+      "name": "PT: LEGO DC Super Heróis - Aquaman: Ataque na Atlântida (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1j8HormdXdbZZ2BJWJb9HG0LwQ.jpg"
+    },
+    {
+      "name": "PT: Kung Fu Panda Holiday (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJv3pI8pyS13rLjy0ok7a3BiE0a.jpg"
+    },
+    {
+      "name": "PT: Axel 2: Adventures of the Spacekids (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPqt10o33sQV4prcOFDP3KogRdJ.jpg"
+    },
+    {
+      "name": "PT: Justice League: Warworld (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg"
+    },
+    {
+      "name": "PT: Johnny Puff: Secret Mission (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mH1CEizCzcjl0f0S7bSf9CLLMgo.jpg"
+    },
+    {
+      "name": "PT: José (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdoY6eAiwVILfxHIhf3pYvy7Ijo.jpg"
+    },
+    {
+      "name": "PT: Jinxed (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2ClGoeLyX4Vmgzk6Q80OANCFi6.jpg"
+    },
+    {
+      "name": "PT: Inside Out (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
+    },
+    {
+      "name": "PT: The Inseparables (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmftU2Rnmv9KTteMUwjalOuZHke.jpg"
+    },
+    {
+      "name": "PT: Hotel Transylvania 3: Summer Vacation (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg"
+    },
+    {
+      "name": "PT: ICE Agent (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohb5iBs534fXd7F52AQEZDDRICd.jpg"
+    },
+    {
+      "name": "PT: Hot Wheels AcceleRacers: Ignition (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOsHnflo4Gikmk14vXX9w7s2mwi.jpg"
+    },
+    {
+      "name": "PT: Hop (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg"
+    },
+    {
+      "name": "PT: Hot Wheels: Build the Epic Race (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MZYhbLBam6b95yyoen4reYtIG6.jpg"
+    },
+    {
+      "name": "PT: Harry Potter and the Prisoner of Azkaban (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
+    },
+    {
+      "name": "PT: Harry Potter e o Cálice de Fogo (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg"
+    },
+    {
+      "name": "PT: Harry Potter e a Pedra Filosofal (2001)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg"
+    },
+    {
+      "name": "PT: Hercules (1997)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGRNcIc7xZtn5vMayrzd0laR8u2.jpg"
+    },
+    {
+      "name": "PT: Heroes of the Golden Mask (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFzHd71e1d82VYrhx0m0bxE9lrL.jpg"
+    },
+    {
+      "name": "PT: Pokémon Heroes (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eySv5rdYLW1k6LxepxCNl8ND26R.jpg"
+    },
+    {
+      "name": "PT: Despicable Me (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg"
+    },
+    {
+      "name": "PT: The Garfield Movie (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYduFGuch9OwbCOEUiamml18ZoB.jpg"
+    },
+    {
+      "name": "PT: Garfield: A Tail of Two Kitties (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRbG8Buz2eFylHL5uX8bTxgoNp9.jpg"
+    },
+    {
+      "name": "PT: Garfield (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYuyd5udAQkdwgm2gknxDMqYuOf.jpg"
+    },
+    {
+      "name": "PT: Frozen Up (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uLrjXHKRdTpPwWCKFkPIk3oXgo.jpg"
+    },
+    {
+      "name": "PT: A Frozen Christmas Time (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZQX68DyqwXz46hjA2JxBncbl3Q.jpg"
+    },
+    {
+      "name": "PT: Fantasia (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlsQh7NgCRCgOsr6KTPj1tGf6nR.jpg"
+    },
+    {
+      "name": "PT: Strange World (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXGMJUq9zcrScs02qkQuCtmWwaI.jpg"
+    },
+    {
+      "name": "PT: Ocean Waves (1993)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSR1LLMIJZ6WcQEkM82yKy4F9vQ.jpg"
+    },
+    {
+      "name": "PT: Once Upon a Studio (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiy3G1cYWV3LgKZHY6a3jL8bjYL.jpg"
+    },
+    {
+      "name": "PT: Dragon Ball Super: Super Hero (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg"
+    },
+    {
+      "name": "PT: Elemental Audio   (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
+    },
+    {
+      "name": "PT: Tangled Ever After (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak5SCuJbdf8G4NbQ1KIUHjplrF1.jpg"
+    },
+    {
+      "name": "PT: Dragonkeeper (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggZGnJLzO3BTu7ysuuIzou3Oex5.jpg"
+    },
+    {
+      "name": "PT: Dragon Quest: Your Story (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5R70ehKGh5V0ZYOdikxwSfoLGMt.jpg"
+    },
+    {
+      "name": "PT: Dragonball Evolution (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztlqrY7VgFIFmtzVsh3TPYiXCdF.jpg"
+    },
+    {
+      "name": "PT: Dragon Hill (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/49vGNSydXjgOV4LXXEYcxMR7EZP.jpg"
+    },
+    {
+      "name": "PT: Dora the Explorer: Dora's Christmas Carol Adventure (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lfyGp8GzKEJMarlYFtsBln5OTE.jpg"
+    },
+    {
+      "name": "PT: Strawberry Shortcake's Perfect Holiday (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7QE1i9evx4xiafS5RbD3Bdpxt3.jpg"
+    },
+    {
+      "name": "PT: Inside Out 2 (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+    },
+    {
+      "name": "PT: Digimon Adventure: Last Evolution Kizuna (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rElHXdBX2ou2ju1Be3QiuOJrplb.jpg"
+    },
+    {
+      "name": "PT: The Inventor (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/489kEvaylSuutUJ0GVVs6gUmirB.jpg"
+    },
+    {
+      "name": "PT: Inspector Sun and the Curse of the Black Widow (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUYleUhOpEew8wdcusS0eGytZ6T.jpg"
+    },
+    {
+      "name": "PT: Dimitri in Ubuyu (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwkwYibIGxV428Avr1QbuSFVExv.jpg"
+    },
+    {
+      "name": "PT: Arctic Dogs (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg"
+    },
+    {
+      "name": "PT: Space Dogs: Tropical Adventure (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIqmN3UZZKHNMXK5YJmRPAftxOk.jpg"
+    },
+    {
+      "name": "PT: DC League of Super-Pets (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpPMewlugFaejXjz4YNDnpTniFX.jpg"
+    },
+    {
+      "name": "PT: Fireheart (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYAUgsoel6slydF6y4NCPLW96ah.jpg"
+    },
+    {
+      "name": "PT: Rally Road Racers (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9L7N5z3qHHgSNUIUuBSaicQvpT.jpg"
+    },
+    {
+      "name": "PT: Cowboy Bebop: The Movie (2001)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/34H5bsNc0EPILVr49TfOYXj50qV.jpg"
+    },
+    {
+      "name": "PT: How to Train Your Dragon (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
+    },
+    {
+      "name": "PT: Go! Go! Cory Carson: The Chrissy (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fkF6afirsffAIWYSqcLbgue8jv.jpg"
+    },
+    {
+      "name": "PT: Tales from Earthsea (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg"
+    },
+    {
+      "name": "PT: Cinderella II: Dreams Come True (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEDbtKhZsqPo7ypCzoz3fkq73Pc.jpg"
+    },
+    {
+      "name": "PT: Checkered Ninja 2 (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg"
+    },
+    {
+      "name": "PT: Clifford - O Cão Vermelho (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g51VeVAIM7q9ZqpZRlPEqqhLThR.jpg"
+    },
+    {
+      "name": "PT: Saving Santa (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/luIe2Qe7dYmlJ37CvDaLp2sKxc1.jpg"
+    },
+    {
+      "name": "PT: Carrossel: O Filme (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mFT1RnjzI83o65kh6NRsg2P8V8.jpg"
+    },
+    {
+      "name": "PT: A Pequena Órfã (1973)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch6rallRIZ4ibMSWaukzS2htw6i.jpg"
+    },
+    {
+      "name": "PT: My Oni Girl (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k69kkwsipkPn7Nzq488kHGQTPo.jpg"
+    },
+    {
+      "name": "PT: Shaun the Sheep Movie (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GMvKNy2Ht5QwI0oV0ycYnxzWdC.jpg"
+    },
+    {
+      "name": "PT: Big Trip 2: Special Delivery (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dabXVfrAFfhDte8XVemom3mTJog.jpg"
+    },
+    {
+      "name": "PT: The Legend of Secret Pass (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFC6tJmIeAAR6RrPGqVR3fyPQeO.jpg"
+    },
+    {
+      "name": "PT: My Neighbors the Yamadas (1999)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj0ijnOozQtu52r0ncut769G1FX.jpg"
+    },
+    {
+      "name": "PT: The Breadwinner (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg"
+    },
+    {
+      "name": "PT: From Up on Poppy Hill (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRLYX4RZIyloHSJwvZKAhphAjiB.jpg"
+    },
+    {
+      "name": "PT: Bela America (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bSP0H1Bhn6N4Tt2jawUB7UPda8.jpg"
+    },
+    {
+      "name": "PT: Monster House (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg"
+    },
+    {
+      "name": "PT: Beauty and the Beast: A 30th Celebration (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWpahhg9ETkiPPsG10RtxecjK0v.jpg"
+    },
+    {
+      "name": "PT: The Three Caballeros (1944)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMfScRxw9wVLoO7LiEjziFAKLSK.jpg"
+    },
+    {
+      "name": "PT: Heróis Pokémon (2002)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGH8Z20nC7KagAHagdfk9g8iAq5.jpg"
+    },
+    {
+      "name": "PT: Bora Lá (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg"
+    },
+    {
+      "name": "PT: Bob the Builder: Mega Machines - The Movie (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gi2BzunveBprK7A8U0sJUovhuN.jpg"
+    },
+    {
+      "name": "PT: Action Man: X Missions The Movie (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/17pvmLzYlHF0RalMMyFKrgWBHwA.jpg"
+    },
+    {
+      "name": "PT: Alexandre, o Grande (1956)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3P3GiCKaEmLxzibDMzALmPbEHL.jpg"
+    },
+    {
+      "name": "PT: Um Natal do Outro Mundo (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg"
+    },
+    {
+      "name": "PT: Alvin e os Esquilos 3: Naufragados (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg"
+    },
+    {
+      "name": "PT: As Aventuras de Flora e Ulisses (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zv1NUGF2nv3smvfsLDIXEwstWpC.jpg"
+    },
+    {
+      "name": "PT: Aqui Estamos Nós: Apontamentos para Viver no Planeta Terra (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZWgclntziFRPQg0u0nI2FU4nYg.jpg"
+    },
+    {
+      "name": "PT: Tal Pai, Tal Filho (2013)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0nejXOf6e4leWhnLuEQOmC5hrX.jpg"
+    },
+    {
+      "name": "PT: Miraculous World: Nova Iorque, Heróis Unidos (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHAfw4FcU6i1X8jrr8cQZtyLsmg.jpg"
+    },
+    {
+      "name": "PT: As Fantásticas Aventuras de Tad (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmysxjUJkYmp6CmjNOKOeHMOzFA.jpg"
+    },
+    {
+      "name": "PT: As Bruxas de Roald Dahl (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg"
+    },
+    {
+      "name": "PT: Barbie: The Princess & the Popstar (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg"
+    },
+    {
+      "name": "PT: Batman: Soul of the Dragon (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDhnTtSxU5a8DtZdbbin3aZmkmU.jpg"
+    },
+    {
+      "name": "PT: O Construtor de Sonhos (1994)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgSQvsoqxPb0ZY4BVRsmQRc14n5.jpg"
+    },
+    {
+      "name": "PT: Bigfoot Em Família (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn7sNO6CD8FBHBEVcOiNv08mjy1.jpg"
+    },
+    {
+      "name": "PT: Bratz: Passion 4 Fashion - Diamondz (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfhjR3VAk79FyQSBt5mBnw9MHbz.jpg"
+    },
+    {
+      "name": "PT: Bubble (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjgwIZyEgtgy9nIdz6C5uJNel2X.jpg"
+    },
+    {
+      "name": "PT: Captain Underpants: The First Epic Movie (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKSmaPct5OEeMoD8ue30RisHlKD.jpg"
+    },
+    {
+      "name": "PT: Goodbye, Captain (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTP40kJeJ6IUsurQxtHJ1bqow83.jpg"
+    },
+    {
+      "name": "PT: Capitão Tocha (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5AtoCpX3lgbdJFMXDbLHvhX40n.jpg"
+    },
+    {
+      "name": "PT: Capitão Brasil (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9j1f42ACUwa2MbeSS1jL0fvSBzQ.jpg"
+    },
+    {
+      "name": "PT: Capuchinho Vermelho: A Verdadeira História (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg"
+    },
+    {
+      "name": "PT: Cinderela e a Pequena Feiticeira (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIgwt9wqfNrduO7seHiMFnRgzEW.jpg"
+    },
+    {
+      "name": "PT: CJ7 - O Brinquedo Mágico (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRzSfpSb3wYYshbaiMRIuFCJJGU.jpg"
+    },
+    {
+      "name": "PT: Descendants (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg"
+    },
+    {
+      "name": "PT: Longe da Árvore (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3NhrYsr1X5r7zgjJDRMNOqXZS9.jpg"
+    },
+    {
+      "name": "PT: Uma História de Encantar 2 audio PT (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg"
+    },
+    {
+      "name": "PT: Descendants 3 (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg"
+    },
+    {
+      "name": "PT: Festival Bugs Bunny (1979)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fogEHQJvyVkqk1R9ZzVyxtT5gH.jpg"
+    },
+    {
+      "name": "PT: O Diário de um Banana (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/obg6lWuNaZkoSlwrVG4VVk4SmT.jpg"
+    },
+    {
+      "name": "PT: Era uma vez um sonho (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg"
+    },
+    {
+      "name": "PT: The Fixies: Top Secret (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1H4TNfrLYYzSFd4CICyoFIjx1vn.jpg"
+    },
+    {
+      "name": "PT: Fuga do Planeta Terra (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9la0CSCJqwh6io3yk4Xv3aEZxEA.jpg"
+    },
+    {
+      "name": "PT: Go! Go! Cory Carson: Chrissy Takes the Wheel (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZvpTcUk0L8paEqegXzUcJa9nG.jpg"
+    },
+    {
+      "name": "PT: Homem-Aranha: No Universo-Aranha   (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sizv4fncWiCe8i5jWCA8xfqtCB9.jpg"
+    },
+    {
+      "name": "PT: I Used to Be Famous (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg"
+    },
+    {
+      "name": "PT: How to Train Your Dragon: Homecoming (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXj2Qrfm994yLeuADqbOieU1mUH.jpg"
+    },
+    {
+      "name": "PT: Jingle, Jangle, Jungle (1950)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1YAdiyAzylSzr02U7tSB3tpWbc.jpg"
+    },
+    {
+      "name": "PT: Rabbids Invasão: Especial Missão em Marte (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nQoUa3eY9YTqbcrPzdQVncDNfn.jpg"
+    },
+    {
+      "name": "PT: Koati - Aventura na Selva (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b22cNsuP7Qk0V0KZzcNM5NYvTnl.jpg"
+    },
+    {
+      "name": "PT: Pequeno Vampiro (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLd9FVJTwnPO3ERv82ea5IZo6Hl.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes: Rabbits Run (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEzGg81jV0OBjy3rxQtfU9WMlOt.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes – O Melhor de Bugs Bunny Vol.3 (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPgx9nDmj5xNOBVdNiqkV7EMRyR.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes Collection: Best Of Daffy And Porky Volume 1 (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZAxcSXMP3z19HJQmUsdL7FgBmk.jpg"
+    },
+    {
+      "name": "PT: 娘。DOKYU! Vol.4 (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Jfk4AIFwD2VPZkPsLU02gxCK1d.jpg"
+    },
+    {
+      "name": "PT: Sadi-Scream Vol. 5 (2007)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnD0pLM9LHY3VB4uNV9PJqOSYeD.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes Platinum Collection: Volume Three (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SY2BAmN6fIIDQheMhhJVEvbuMa.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes: All Stars Collection - Volume 4 (2005)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/npDE2Ns0zdHE0aykCgitzBCafD4.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes: Best of Porky Volume 2 (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuzVfDkzgpIMZCNe6SEY7BWzxDP.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: O Mapa do Tesouro (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RDxMKvGGqNElnHpjPenlHEJUg.jpg"
+    },
+    {
+      "name": "PT: Maléfica (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg"
+    },
+    {
+      "name": "PT: Mickey e Minnie e o Desejo de Natal (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/viZ3SvvQi7CRHJxnSKAG2lHU4AK.jpg"
+    },
+    {
+      "name": "PT: Missão: Galáxia (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcyhxHudVgK7pRJHA2B3vkrqNIi.jpg"
+    },
+    {
+      "name": "PT: My Little Pony: Uma Nova Geração (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvbj8puRj37Pc8FS4rIfVeReYFF.jpg"
+    },
+    {
+      "name": "PT: Moonbound (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vSW1xRJD0MJPRXGQoAf9D3954W.jpg"
+    },
+    {
+      "name": "PT: Monstros e Companhia (2001)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjlbN6aK1qgeg3SspFVovT2D1Me.jpg"
+    },
+    {
+      "name": "PT: My Little Pony: Equestria Girls - Friendship Games (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ih6vNDVWAeSYJYoQAk03Gykl1DJ.jpg"
+    },
+    {
+      "name": "PT: Naked Mole Rat Gets Dressed: The Underground Rock Experience (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Gj9KkOzbDr1LKjibSCDE0cV2nt.jpg"
+    },
+    {
+      "name": "PT: Nate: Talento Nato (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXyv8pAHhJGhTS1MkQf96VHUAVO.jpg"
+    },
+    {
+      "name": "PT: O Caminho de Xico (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg"
+    },
+    {
+      "name": "PT: Rise of the Teenage Mutant Ninja Turtles: The Movie (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSmTqtb7gICeRwvsEmq0uJxR4XU.jpg"
+    },
+    {
+      "name": "PT: O Estranho Mundo de Jack (1993)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+    },
+    {
+      "name": "PT: O Fantástico Patinho Feio (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJKqXpn20PvsxA8vLF5BRyORFxd.jpg"
+    },
+    {
+      "name": "PT: The Iron Giant (1999)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ct04FCFLPImNG5thcPLRnVsZlmS.jpg"
+    },
+    {
+      "name": "PT: O Panda do Kung Fu: Os Segredos do Pergaminho (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LsQpFS3JOLmVfIV38oI9YHMpi.jpg"
+    },
+    {
+      "name": "PT: The Lion King (1994)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+    },
+    {
+      "name": "PT: 765874 (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tui3Dsw8Rgj14JFa3Mbj0b3Izs.jpg"
+    },
+    {
+      "name": "PT: Os Flofos: Viagem no Tempo (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kchu0regBPDjWORUzvTblyoA5aE.jpg"
+    },
+    {
+      "name": "PT: Os Super-Heróis da Selva (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ0T0yRe8iDqAgeZXRNvpAJh5z1.jpg"
+    },
+    {
+      "name": "PT: Patrulha Pata: O Filme (2021) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Para Além da Lua (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG0TF0wj1n9p9CPy5xlIUIkF56a.jpg"
+    },
+    {
+      "name": "PT: Ovelha Choné - A perseguição",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Panda e os Caricas – A Bola de Natal",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Perdido pra cachorro (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aRvqtLoE06hTjG93lASvO7r1as.jpg"
+    },
+    {
+      "name": "PT: Perdido Pra Cachorro 2 (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFnKng3qUkfKMAr3qp6onqN32ul.jpg"
+    },
+    {
+      "name": "PT: Pinóquio (2022) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Peter Rabbit: Coelho à Solta (2021) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Christopher Robin (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg"
+    },
+    {
+      "name": "PT: Princesas do Rocl",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Roald Dahl's Matilda the Musical (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg"
+    },
+    {
+      "name": "PT: Scooby Doo e a Bruxa Fantasma (1999)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljEEGImypBFGoXU7eZSTo4vE9nC.jpg"
+    },
+    {
+      "name": "PT: 9413 (1998)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z2DVeGpKSSZ6VEISekBsUTvz2A.jpg"
+    },
+    {
+      "name": "PT: Ron Dá Erro (2021) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo! O Mistério WrestleMania (2014)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgnxicD1qvhTrh4db9F7hJLoOaa.jpg"
+    },
+    {
+      "name": "PT: Scrooge: A Christmas Carol (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyGb5JpEYMEqDDjfJKLEvPTVSjK.jpg"
+    },
+    {
+      "name": "PT: Robot Selvagem (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+    },
+    {
+      "name": "PT: Sing Street (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg"
+    },
+    {
+      "name": "PT: Snoopy Apresenta: A Escola da Lucy (2022) ᴀɴ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: With Love (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/rhn8obmeebHKhnzmI0fX5URV9ki.jpg"
+    },
+    {
+      "name": "PT: Sonic 2: O Filme (2022) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aT2vdnR3qifI21f7fHTqYW5iAAz.jpg"
+    },
+    {
+      "name": "PT: Spirit Invencível PT (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSFaiG2xgwq2Z0ceUXPyfxnITC8.jpg"
+    },
+    {
+      "name": "PT: Sonic - O Filme (2020) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg"
+    },
+    {
+      "name": "PT: Spin (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWAatef80X3zooIBQN0Y4tQCM1K.jpg"
+    },
+    {
+      "name": "PT: Space Jam: Uma Nova Era (2021) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Spirit Invencível (2021)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLE2mvuvhvzmSICOsqR9uE50Ave.jpg"
+    },
+    {
+      "name": "PT: SpongeBob: Esponja em Missão (2020) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Tad e o Segredo do Rei Midas PT (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: SpongeBob: Esponja Fora de Água (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg"
+    },
+    {
+      "name": "PT: Spycies: Agentes Especiais (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGfZfSDdi58LlygEC8FAwCUsnXC.jpg"
+    },
+    {
+      "name": "PT: Super Monstrinhos: Amigos para sempre",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Super Monstrinhos Ajudantes do Pai Natal (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Super Monstrinhos: Colegas Novos",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Super Monstrinhos: Dia de los Monsters (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Superman: Man of Tomorrow (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9GtiJiBETVFayQy7YnVdF9AucU.jpg"
+    },
+    {
+      "name": "PT: Tad e o Segredo do Rei Midas (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg"
+    },
+    {
+      "name": "PT: Tabaluga e a Princesa do Gelo (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDjG3ihlUlCqzasAxo4InceFj46.jpg"
+    },
+    {
+      "name": "PT: Teen Titans Go! - O Filme (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFHihhE9hlvJEk2f1AqdLRaYHd6.jpg"
+    },
+    {
+      "name": "PT: The Boss Baby: Bónus de Natal (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/i6HDYVK2qubLKtcjS1WtN8bch6c.jpg"
+    },
+    {
+      "name": "PT: Tesouros Walt Disney - Mickey a Cores Vol. 1 (2001)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjZLVzgX9Qq1PDq8eLThXIVzAXf.jpg"
+    },
+    {
+      "name": "PT: The Hip Hop Nutcracker (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqOGxcKViTtU7pwC24xUb1bDslw.jpg"
+    },
+    {
+      "name": "PT: The Incredibles - Os Super Heróis (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
+    },
+    {
+      "name": "PT: Troll e o Reino de Ervod (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNkGEzw9ROmoZuzdyNoZ5J6Qehf.jpg"
+    },
+    {
+      "name": "PT: The Incredibles 2: Os Super-Heróis (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
+    },
+    {
+      "name": "PT: The School for Good and Evil (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg"
+    },
+    {
+      "name": "PT: The Larva Island Movie (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg"
+    },
+    {
+      "name": "PT: Tico e Teco: O Comando Salvador (2022) Audio PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Timmy Failure: Mistakes Were Made (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg"
+    },
+    {
+      "name": "PT: Tom (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/28N4KpCIEh1ZtZn6iyuj2y5ZanP.jpg"
+    },
+    {
+      "name": "PT: Trick or Treat Scooby-Doo! (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZccw4Hj9ZF1yimnfPsX9rl3HvB.jpg"
+    },
+    {
+      "name": "PT: Trolls: Tour Mundial (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg"
+    },
+    {
+      "name": "PT: Turma da Mônica: Laços (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TbHNFN6Ez4JB9AoiRYVoJosd7D.jpg"
+    },
+    {
+      "name": "PT: Um Monstro em Paris (2011)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jerM6xBeRfIr2rLg2pICmduzoyf.jpg"
+    },
+    {
+      "name": "PT: Turuleca - A Grande Aventura (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaG10x1C8dCHkNumSslH6jwzvpt.jpg"
+    },
+    {
+      "name": "PT: Um Susto de Família (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjDbd43e7o2Ssn7P1l50Bv0rtIl.jpg"
+    },
+    {
+      "name": "PT: Tweety e Silvestre - Frenesim Felino (2010)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyDmONcIVor4tI1WcQr0HcQFGMI.jpg"
+    },
+    {
+      "name": "PT: Uma Aventura no Jurássico (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzOkddFfLexWtTozMMvPDUNe0AK.jpg"
+    },
+    {
+      "name": "PT: Uma Vida de Insecto (1998)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg"
+    },
+    {
+      "name": "PT: Uma Missão Especial de Dug (2009)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvK30UQ5cPxGH7ZBVpUhO6DPIM5.jpg"
+    },
+    {
+      "name": "PT: Upsss! Lá Se Foi a Arca...",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEJXHgpiKh89Vwjc4XUY5CIgUdB.jpg"
+    },
+    {
+      "name": "PT: Under the Sea: A Descendants Story (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIJL0VJ8McvJcdaRgi8AwVbdxwU.jpg"
+    },
+    {
+      "name": "PT: UP - Altamente!",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+    },
+    {
+      "name": "PT: Vera: Dia da Amizade",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NslNr7YGfBOCJa49L9kUfdDVIH.jpg"
+    },
+    {
+      "name": "PT: Vera: Missão Arco-Íris",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Vivo (2021) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Vida de Candeeiro (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJ95RnlammhYb6ZvBbQFLq8Jqnl.jpg"
+    },
+    {
+      "name": "PT: Wall-E (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"
+    },
+    {
+      "name": "PT: Yeti: Curse of the Snow Demon (2008)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtHGZ525XUnEybYfHoGjxmcfnyS.jpg"
+    },
+    {
+      "name": "PT: Z-O-M-B-I-E-S 3 (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QxbpQgzmTQjezu9YOeBk8JFzKg.jpg"
+    },
+    {
+      "name": "PT: Batman vs Teenage Mutant Ninja Turtles (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg"
+    },
+    {
+      "name": "PT: Zootrópolis (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg"
+    },
+    {
+      "name": "PT: Zibilla (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjDs1UxauuCz1c3XXr7pejjwHNC.jpg"
+    },
+    {
+      "name": "PT: Zog (2018)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko3AtKUsMK27LMJqpyW5uJk4FZh.jpg"
+    },
+    {
+      "name": "PT: À Procura de Nemo (2003)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg"
+    },
+    {
+      "name": "PT: Alpha and Omega: Dino Digs (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EGFzidJAvgmcTqDz6aCMVpFxDg.jpg"
+    },
+    {
+      "name": "PT: Alpha and Omega: The Big Fureeze (2016)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDyRA2qPS9iR2elCxjOsQFnGYGs.jpg"
+    },
+    {
+      "name": "PT: The very best of Bugs Bunny (2012)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uaEJ4UECsS82MlqWDgmWffNOuK.jpg"
+    },
+    {
+      "name": "PT: Alpha and Omega: Family Vacation (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLCkfzMQGXzf0CGEDojUmgLGaJ0.jpg"
+    },
+    {
+      "name": "PT: Lucky Luke, a Balada dos Dalton (1978)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aubqSxWm56sMxZXh5VqGcssrxXE.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo! Pirates Ahoy! (2006)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1xNRp1oqPAKxPJgJ1F90jvHMGr.jpg"
+    },
+    {
+      "name": "PT: O Conto de Natal dos Looney Tunes",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f568JOtSlQoevRIDBKK3YIkHbvd.jpg"
+    },
+    {
+      "name": "PT: Scooby-doo na Ilha dos Zumbis (1998)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EdvFUGvT5Pn8rUFRKCrdUzNthf.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo e Kiss em Mistérios do Rock ‘n’ Roll (2015)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTkQZPXZl9yx3tfPS9TSDZBdhHC.jpg"
+    },
+    {
+      "name": "PT: Tom and Jerry: Willy Wonka and the Chocolate Factory (2017)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzWt8ECED9kGm4LSXLSkPGBWpjE.jpg"
+    },
+    {
+      "name": "PT: Tom e Jerry: Velocidade Peluda",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pQhh5bU1KcUeXqPOteWsCkNZPK.jpg"
+    },
+    {
+      "name": "PT: Trouble: Aventura na Cidade (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfTXk9T3iNxuOcnA72AirzueLxL.jpg"
+    },
+    {
+      "name": "PT: A Arca de Noé - A Aventura",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6wH1kowr6uNFJ12CVKsRHzC0cm.jpg"
+    },
+    {
+      "name": "PT: A Minha Fada Traquina",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXsCtzppdU1SUvTtxznJyi9hiXv.jpg"
+    },
+    {
+      "name": "PT: Aventura Espacial",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YPzkMsC8pjAdGqGFKeDSSO4udE.jpg"
+    },
+    {
+      "name": "PT: Un Noël en famille",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pVykyIuGIfikETG3pMSWyqz3Zs.jpg"
+    },
+    {
+      "name": "PT: Uma história (quase) de Natal (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQC3nIJ9DQ74t9vFzUjqP8eohgX.jpg"
+    },
+    {
+      "name": "PT: Transformers: 40th Anniversary Event (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuBoAsRBvHyFUPWdkoLS64DIXop.jpg"
+    },
+    {
+      "name": "PT: Um Gato Com Sorte (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nn7raMhfVvhyvLIUdYg2ObQgowX.jpg"
+    },
+    {
+      "name": "PT: 劇場版 美少女戦士セーラームーンCosmos 前編",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iikFsNwO1N8c89H0Wk2Ezqwe4t.jpg"
+    },
+    {
+      "name": "PT: 劇場版 美少女戦士セーラームーンCosmos 後編",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg"
+    },
+    {
+      "name": "PT: IF: Amigos Imaginários (2024) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cn04pOVOFybrdHbuQjzGHVxFj7F.jpg"
+    },
+    {
+      "name": "PT: Sorte (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OpVlfJGNvX3lUqdzY0nGoA6wQa.jpg"
+    },
+    {
+      "name": "PT: Gravidade (2025)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Queen Rock Montreal & Live Aid (2007)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RXhcFfFZ8Z9323hBgG4uumDz1A.jpg"
+    },
+    {
+      "name": "PT: La Película (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Franklin (2024)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: 범죄도시 3 (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg"
+    },
+    {
+      "name": "PT: TAYLOR SWIFT | THE ERAS TOUR (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf3YO8hOqGHCupsREf5qymYq1n.jpg"
+    },
+    {
+      "name": "PT: O Maravilhoso Mundo do Mickey Mouse: O Regresso do Travesso Willie",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9VIIks5Mw3mjWStOj7FvIOGtmW.jpg"
+    },
+    {
+      "name": "PT: Finestkind (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Nj22XjqaOwc37IJ9WrOJ5UZi7q.jpg"
+    },
+    {
+      "name": "PT: Um Dia Cinco Estrelas (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbG5hNO9CsKcmIRzPyw8aN592MJ.jpg"
+    },
+    {
+      "name": "PT: Spinning Gold (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg"
+    },
+    {
+      "name": "PT: Invitación a un Asesinato",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DZN9QD2IDwG6YMuk0NvJRNbeJP.jpg"
+    },
+    {
+      "name": "PT: Ruby - Kraken Adolescente (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg"
+    },
+    {
+      "name": "PT: Ovos de Ouro: Uma Aventura em África",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7he8glf7j41d3amgf4Nbpt3HVq1.jpg"
+    },
+    {
+      "name": "PT: INTERVENÇÃO",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7BAdxykcXu702wpmKTYSnnr670.jpg"
+    },
+    {
+      "name": "PT: Mavka: A Alma da Floresta (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/adyriBXnBuhdRgAllYAurnDQtQb.jpg"
+    },
+    {
+      "name": "PT: Patas em Fúria ᴀᴜᴅɪᴏ ᴘᴛ",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Detetive Aranha",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUYleUhOpEew8wdcusS0eGytZ6T.jpg"
+    },
+    {
+      "name": "PT: Viking Warrior Women (2019)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPZ12mmc9WtTbNw9rIcAQK0fi9S.jpg"
+    },
+    {
+      "name": "PT: The Magicias Elephant (2023) ᴀɴ Audio PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Batman: The Doom That Came to Gotham (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKWN5ZzDxnfVixUavs09HfBCCA3.jpg"
+    },
+    {
+      "name": "PT: Jeg er William",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/slPrmZusQrxAoAIYfh8Znf4ExSo.jpg"
+    },
+    {
+      "name": "PT: A Maravilhosa Primavera do Mickey Mouse",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RXF6IhCILBvIEkMD5kZjSlwDad.jpg"
+    },
+    {
+      "name": "PT: The Wonderful Summer of Mickey Mouse (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sdmCWZlLwFF4GbohSQxlD24g6m.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: Acampamento de Férias 4, O Desafio Final (2023)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctftbe5zdoNzahZkoEh4YHJNwxN.jpg"
+    },
+    {
+      "name": "PT: Coisa Ruim",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEh60lxju9UissGcXirDMmLvB0Q.jpg"
+    },
+    {
+      "name": "PT: Capitão Tsubasa: Tudo Ou Nada - Filme 3",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: 100% Lobo",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg"
+    },
+    {
+      "name": "PT: 1001 Histórias do Bugs Bunny (1982)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TPSYsWquyhtzuYGh6dmoKyYWYc.jpg"
+    },
+    {
+      "name": "PT: A Bandeira Dos Piratas",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: A Casinha de Chocolate",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9B62rtroYyc0esdDquIzffjLZtr.jpg"
+    },
+    {
+      "name": "PT: Casper, o Fantasminha e a Escola de Sustos",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtp2bw9rokJ7OjG6o4JhvbpxcrA.jpg"
+    },
+    {
+      "name": "PT: Camelot - A Lenda da Espada Mágica",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y25XSKbAN7MjPd6UXk3IUw4Z8q.jpg"
+    },
+    {
+      "name": "PT: A Fairy Tale After All (2022)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXq56XNfgRgBdCW65K6goiMUr3o.jpg"
+    },
+    {
+      "name": "PT: A História de David e Golias",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10Os6Wnr2ahRyNghWkdy38nYOHm.jpg"
+    },
+    {
+      "name": "PT: A Gata Borralheira (1950)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Treasure Island (1999)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgLwBnRIXpj4f7Yz1cQp7He0ZQB.jpg"
+    },
+    {
+      "name": "PT: A Trash Truck Christmas (2020)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg"
+    },
+    {
+      "name": "PT: A Viagem de Popeye",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sb8AifHamGpA3rk8ynVzrBJ2uEV.jpg"
+    },
+    {
+      "name": "PT: A Volta ao Mundo em 80 Dias (2021) PT",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pWPTnHtvlmggjGonie1VZNKViLV.jpg"
+    },
+    {
+      "name": "PT: A Lenda de Zorro",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/duZDsuIA2uX93Vujtm89oHeTFqE.jpg"
+    },
+    {
+      "name": "PT: The All-Star Nickmas Spectacular",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mvqwsTPfJEbaSEbjnvyAbHB1jCK.jpg"
+    },
+    {
+      "name": "PT: Higglytown Heroes - To the Rescue (2004)",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Heidi Special - Winter in Dörfli",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: A Cassete de Música",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/2fpG1PiHPHdLt8X2e7WAct7EVB7.jpg"
+    },
+    {
+      "name": "PT: Smallfoot: Uma Aventura Gelada",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg"
+    },
+    {
+      "name": "PT: Sininho: Uma Aventura no Mundo das Fadas",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg"
+    },
+    {
+      "name": "PT: Sininho e o Monstro da Terra do Nunca",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3S0mmmpYStB3GqodRghcfOt81wQ.jpg"
+    },
+    {
+      "name": "PT: Shin-Chan - O Pequeno Samurai",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/tmfQp0pG9BsdTpmFpBIuUuCxtWA.jpg"
+    },
+    {
+      "name": "PT: Shin Chan - Na Ilha do Tesouro",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pKAKgrrz4jyl7HlQETu8grWR3t4.jpg"
+    },
+    {
+      "name": "PT: Shin Chan - Especial - O Floquito Conhece O Seu Primeiro Amor",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Shin Chan - Bomba Cantilena dos Rabões",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/uHqdEReaPvmyRWbOZ0uXsrNEiHu.jpg"
+    },
+    {
+      "name": "PT: Shin Chan - A Noiva Do Futuro",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Shin Chan - A Invasão",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Scooby-Doo! O Mistério Começa",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/fUbx2NFwRTmRMtwcTbzEd804WQj.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo! e a Maldição do 13° Fantasma",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hKxlzUtwyEMZDmj58ijQqr5PoZn.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo! Abracadabra-Doo",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hDfQ3DqU5fWKZinIGgo2psvLh4j.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo e o Fantasma Gourmet",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/AtHngeqD4K1Oj01ulWc1aDJhU8H.jpg"
+    },
+    {
+      "name": "PT: Scooby-Doo",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg"
+    },
+    {
+      "name": "PT: Scooby! - 2020",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/zurVOCpOLwLTBknYlgcXHWE0xvu.jpg"
+    },
+    {
+      "name": "PT: Rocko: Antigamente é que era",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nMoIFggYmEilUcS44XZuxYvHfG6.jpg"
+    },
+    {
+      "name": "PT: Renart a Raposa",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3zsgp36DvGXKNI1dmL28vfEuuRX.jpg"
+    },
+    {
+      "name": "PT: Prep' Aterragem - Travessos Contra Bonzinhos",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wJqj6tBEojifQVPEayWBlCU9tNV.jpg"
+    },
+    {
+      "name": "PT: PowerPuff Girls - Bailarico Sem Fim",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Pollyworld",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/xDYxiyiaqSNh4s3uxHlyMPRBH4R.jpg"
+    },
+    {
+      "name": "PT: Pokémon: Viajantes do Tempo",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/thz83PS9twtVBEEAM59J1bh75nU.jpg"
+    },
+    {
+      "name": "PT: Pokémon: Giratina e o Guerreiro Celeste",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/e3T08IL68EVcrUPiJLVN9KSGlXs.jpg"
+    },
+    {
+      "name": "PT: Pokémon: Arceus e a Jóia da Vida",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/tpqguVMKyPbINe0GYmMwduoaUar.jpg"
+    },
+    {
+      "name": "PT: Pokémon: Alma Gémea",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3UV4evNh70gvPZB9KJEoh3a9B6I.jpg"
+    },
+    {
+      "name": "PT: Phineas e Ferb: Férias De Natal",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Phineas E Ferb - Candace Contra O Universo",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/afOa3CpPffC3uQCH2fhMaO3AYpB.jpg"
+    },
+    {
+      "name": "PT: Pedro Coelho",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg"
+    },
+    {
+      "name": "PT: Patrulha Pata: Mighty Pups",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Patrulha Caça-Fantasma",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Os Super-Heróis da Selva",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Os Padrinhos Mágicos No Paraíso",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/tqBWqnFJnbCqDDjOsGREeiAPf0E.jpg"
+    },
+    {
+      "name": "PT: Os Feitiços de Arkandias",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Os 3 Porquinhos - Versão Longa",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: One Piece Especial Vogue Merry - Um Companheiro Diferente dos Outros",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: One Piece Especial Nami - As Lágrimas da Navegadora e os Laços da Amizad",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/uQRqA01wCnJGpxYu2KpZQ2W0osj.jpg"
+    },
+    {
+      "name": "PT: O Rei Leão Remake 2019",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: O Rato Dentinho 2",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: O Rato Dentinho",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/tcWyHT39WRYLmEN9cQtBqivm71j.jpg"
+    },
+    {
+      "name": "PT: O Quebra-Nozes e os Quatro Reinos",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg"
+    },
+    {
+      "name": "PT: O Quarteto das Vacas - Viagem à Montanha",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: O Panda do Kung Fu: Os Segredos dos Cinco Furiosos",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3HENPRM1tGRswyjgiIbP9b4sult.jpg"
+    },
+    {
+      "name": "PT: O Guia de Uma Babysitter Para Caçar Monstros",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: O Baile dos Feiticeiros",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: O Aroma das Cenouras",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Mães Precisam-se... em Marte",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Monstros e Monstrinhos",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/gyhHYJrDClwbUWtzQtc3xRiAQKE.jpg"
+    },
+    {
+      "name": "PT: Monsters, Inc. - Monstros e Companhia",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg"
+    },
+    {
+      "name": "PT: Monster High: Bem-vindos à Monster High",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/x9u5Qi5aFCmxS55GKawpINNDt2o.jpg"
+    },
+    {
+      "name": "PT: Molly, A Monstrinha",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/krs0GmuVGvOeM2DGdepK7XwBfBD.jpg"
+    },
+    {
+      "name": "PT: Moby Dick - A Baleia Bebé",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nPBReQRRZxCdGh1r6pAaYW204Ns.jpg"
+    },
+    {
+      "name": "PT: Minúsculos 2: O Filme",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/QVglFM8WHuA5F07IMzFcKu6RXa.jpg"
+    },
+    {
+      "name": "PT: Mini Natal",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/Cu4Q4I6p7ZMoX7z3svnu5dgZZs.jpg"
+    },
+    {
+      "name": "PT: Mickey, Donald e Pateta - Os Três Mosqueteiros",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Maria e a Flor das Bruxas",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Mamãe, virei um peixe",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/s9yFQD19xJqXEnAnUAZFUan25DJ.jpg"
+    },
+    {
+      "name": "PT: Looney Tunes - De Novo em Ação",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg"
+    },
+    {
+      "name": "PT: Leo - O rei leão",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+    },
+    {
+      "name": "PT: LEGO Scooby-Doo! Blowout Beach Bash",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/oryn9TbZE1vmlFkcFLYfZkx8CyB.jpg"
+    },
+    {
+      "name": "PT: Lego Scooby-Doo Hollywood Assombrada",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: LEGO Marvel Super Heroes - Adventures Frost Fight",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Lego DC Super Hero Girls: Armadilha Mental",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/niLX2txdI5GlVowJlnb5Hr26QpK.jpg"
+    },
+    {
+      "name": "PT: LEGO Aquaman - A Fúria de Atlântida",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vVTZLKNIkI7HyPeoFbPE3edAWaa.jpg"
+    },
+    {
+      "name": "PT: Kung Fu Panda: Segredos do Pergaminho",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9LsQpFS3JOLmVfIV38oI9YHMpi.jpg"
+    },
+    {
+      "name": "PT: Kung Fu Panda - Especial de Natal",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vJv3pI8pyS13rLjy0ok7a3BiE0a.jpg"
+    },
+    {
+      "name": "PT: Jingle Jangle - Um Natal Mágico",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Jantando Fora com Timon e Pumba",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/bzoM5t4E4fn1KF2r4rQpNTwTlVV.jpg"
+    },
+    {
+      "name": "PT: Isto não é um Chapéu",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Hotel Transylvania 3: Umas Férias Monstruosas",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg"
+    },
+    {
+      "name": "PT: Hop - Rebelde Sem Páscoa",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hRa9MJTgCbSuL3h2CVPwUdYOWJH.jpg"
+    },
+    {
+      "name": "PT: Homem-Aranha: No Universo Aranha",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+    },
+    {
+      "name": "PT: Garfield 2 - Dom Caixote e o Gato Pança",
+      "group": "PT - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Garfield - Um Super-Herói Animal",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ylbBsF1WKI0RrxfX89QFqrBPYKu.jpg"
+    },
+    {
+      "name": "PT: Fantástica Aventura na Quinta",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/blJhdIpad6eWfSVmBkWMvZcgkP1.jpg"
+    },
+    {
+      "name": "PT: Fantasia 2000",
+      "group": "PT - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/5rwAtUaKEK48CPUijVfVU0IPKPZ.jpg"
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+{
+  "package": "world",
+  "name": "Sports - All Sports - Live.",
+  "groupIndex": 107,
+  "totalChannels": 141,
+  "channels": [
+    {
+      "name": "ASTRO SUPERSPORTS 3 FHD MY  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/astrosupersport.png"
+    },
+    {
+      "name": "Astro SuperSport 4 HD MY  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/astrosupersport4.png"
+    },
+    {
+      "name": "ASTRO SUPERSPORTS 1 FHD MY  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/astrosupersport.png"
+    },
+    {
+      "name": "ASTRO SUPERSPORTS 2 FHD MY  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/astrosupersport.png"
+    },
+    {
+      "name": "ABU Dhabi Sports 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/abudhabisports3.png"
+    },
+    {
+      "name": "AL: Kujtesa Sport 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/kujtesasport2.png"
+    },
+    {
+      "name": "BEIN Sport 01 AR HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7102435296.png"
+    },
+    {
+      "name": "BEIN Sport 03 AR HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/6951458530.png"
+    },
+    {
+      "name": "BEIN Sport FR 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsport1.png"
+    },
+    {
+      "name": "BEIN Sports Haber FHD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportshaber.png"
+    },
+    {
+      "name": "CA: Sportsnet WEST HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetwest.png"
+    },
+    {
+      "name": "DAZN 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/dazn1.png"
+    },
+    {
+      "name": "DE: SKY Sport 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysport3.png"
+    },
+    {
+      "name": "DE: SKY Sport 4 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysport4.png"
+    },
+    {
+      "name": "DE: SKY Sport 5 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysport5.png"
+    },
+    {
+      "name": "DE: SKY Sport 6 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysport6.png"
+    },
+    {
+      "name": "DIGI Sport 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/digisport1.png"
+    },
+    {
+      "name": "DIGI Sport 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/digisport3.png"
+    },
+    {
+      "name": "DIGI Sport 4  HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7601117955.png"
+    },
+    {
+      "name": "FOX Sport 501 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9620865901.png"
+    },
+    {
+      "name": "FOX Sport 502 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7602740368.png"
+    },
+    {
+      "name": "FOX Sport 506 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsport506.png"
+    },
+    {
+      "name": "FOX Sports 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "FR: BEIN Sport 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsport2.png"
+    },
+    {
+      "name": "HOrizon Sports HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/horizonsports.png"
+    },
+    {
+      "name": "HR: Arena Sport 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport1.png"
+    },
+    {
+      "name": "LA: TNT Sports HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tntsports.png"
+    },
+    {
+      "name": "LSP: ABU Dhabi Sports 4 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/abudhabisports4.png"
+    },
+    {
+      "name": "LSP: Eleven Sports 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports2.png"
+    },
+    {
+      "name": "LSP: Eleven Sports 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports3.png"
+    },
+    {
+      "name": "LSP: FOX Sports South HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportssouth.png"
+    },
+    {
+      "name": "LSP: RMC Sport 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/rmcsport1.png"
+    },
+    {
+      "name": "LSP: VIP Arena Sport 4 HD HR  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/5893187740.png"
+    },
+    {
+      "name": "LSP: VIP NHL Network HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/4848230907.png"
+    },
+    {
+      "name": "LSP: VIP Planet Sport 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/1161759242.png"
+    },
+    {
+      "name": "LSP: VIP Sport KLUB 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9049894434.png"
+    },
+    {
+      "name": "LSP: VIP Sportsnet EAST HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/2431911860.png"
+    },
+    {
+      "name": "LSP: VIP TSN 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/4314299438.png"
+    },
+    {
+      "name": "LSP: VIP TSN 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/8283386843.png"
+    },
+    {
+      "name": "MX: FOX Sports 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "NFL Network HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nflnetwork.png"
+    },
+    {
+      "name": "NL: Extreme Sports HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/extremesports.png"
+    },
+    {
+      "name": "PRemier LIGA (bih) HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7256571084.png"
+    },
+    {
+      "name": "SKY Sports Arena HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsarena.png"
+    },
+    {
+      "name": "SKY Sports GOLF HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsgolf.png"
+    },
+    {
+      "name": "SKY Sports MAIN Event HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsmainevent.png"
+    },
+    {
+      "name": "SP: CBS Sports HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/cbssports.png"
+    },
+    {
+      "name": "SP: ESPN Deportes FHD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espndeportes.png"
+    },
+    {
+      "name": "SP: FOX Sports 2 HD NL  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "SP: TUDN HD USA  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tudn.png"
+    },
+    {
+      "name": "SPOR Smart FHD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sporsmart.png"
+    },
+    {
+      "name": "SPort KLUB 7  HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7663457170.png"
+    },
+    {
+      "name": "SPort TV 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv1.png"
+    },
+    {
+      "name": "SPort TV 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv2.png"
+    },
+    {
+      "name": "SPort TV 5  HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv5hd.png"
+    },
+    {
+      "name": "STAR Sports 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/starsports1.png"
+    },
+    {
+      "name": "TR| BEIN Sport 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsport3.png"
+    },
+    {
+      "name": "UK: FOX Sports Racing  HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7225288462.png"
+    },
+    {
+      "name": "UK: NBA TV HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nbatv.png"
+    },
+    {
+      "name": "US ESPN NEWS HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espnnews.png"
+    },
+    {
+      "name": "US: ESPN 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espn1.png"
+    },
+    {
+      "name": "US: ESPN 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espn2.png"
+    },
+    {
+      "name": "US: ESPN U HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espnu.png"
+    },
+    {
+      "name": "US: World Fishing Network HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/worldfishingnetwork.png"
+    },
+    {
+      "name": "USA: BEIN Sports Laliga HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportslaliga.png"
+    },
+    {
+      "name": "VIasat Fotboll  HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/5359725939.png"
+    },
+    {
+      "name": "VIasat Motor HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/viasatmotor.png"
+    },
+    {
+      "name": "ZIggo Sport Extra HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportextra.png"
+    },
+    {
+      "name": "ZIggo Sport GOLF HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportgolf.png"
+    },
+    {
+      "name": "ZIggo Sport Racing HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportracing.png"
+    },
+    {
+      "name": "ZIggo Sport Voetbal HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportvoetbal.png"
+    },
+    {
+      "name": "Astro SuperSport 4 HD MY  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/astrosupersport4.png"
+    },
+    {
+      "name": "ASTRO SUPERSPORTS 2 FHD MY  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/astrosupersport.png"
+    },
+    {
+      "name": "ABU Dhabi Sports 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/abudhabisports3.png"
+    },
+    {
+      "name": "AL: Kujtesa Sport 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/kujtesasport2.png"
+    },
+    {
+      "name": "BEIN Sport 01 AR HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7102435296.png"
+    },
+    {
+      "name": "BEIN Sport 03 AR HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/6951458530.png"
+    },
+    {
+      "name": "BEIN Sport FR 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsport1.png"
+    },
+    {
+      "name": "BEIN Sports Haber FHD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportshaber.png"
+    },
+    {
+      "name": "CA: Sportsnet WEST HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetwest.png"
+    },
+    {
+      "name": "DAZN 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/dazn1.png"
+    },
+    {
+      "name": "DE: SKY Sport 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysport3.png"
+    },
+    {
+      "name": "DE: SKY Sport 4 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysport4.png"
+    },
+    {
+      "name": "DE: SKY Sport 5 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysport5.png"
+    },
+    {
+      "name": "DE: SKY Sport 6 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysport6.png"
+    },
+    {
+      "name": "DIGI Sport 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/digisport1.png"
+    },
+    {
+      "name": "DIGI Sport 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/digisport3.png"
+    },
+    {
+      "name": "FOX Sport 501 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9620865901.png"
+    },
+    {
+      "name": "FOX Sport 502 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7602740368.png"
+    },
+    {
+      "name": "FOX Sport 506 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsport506.png"
+    },
+    {
+      "name": "FOX Sports 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "FR: BEIN Sport 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsport2.png"
+    },
+    {
+      "name": "HOrizon Sports HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/horizonsports.png"
+    },
+    {
+      "name": "HR: Arena Sport 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport1.png"
+    },
+    {
+      "name": "LA: TNT Sports HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tntsports.png"
+    },
+    {
+      "name": "LSP: ABU Dhabi Sports 4 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/abudhabisports4.png"
+    },
+    {
+      "name": "LSP: Eleven Sports 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports2.png"
+    },
+    {
+      "name": "LSP: Eleven Sports 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports3.png"
+    },
+    {
+      "name": "LSP: FOX Sports South HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportssouth.png"
+    },
+    {
+      "name": "LSP: RMC Sport 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/rmcsport1.png"
+    },
+    {
+      "name": "LSP: VIP Arena Sport 4 HD HR  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/5893187740.png"
+    },
+    {
+      "name": "LSP: VIP NHL Network HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/4848230907.png"
+    },
+    {
+      "name": "LSP: VIP Planet Sport 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/1161759242.png"
+    },
+    {
+      "name": "LSP: VIP Sport KLUB 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9049894434.png"
+    },
+    {
+      "name": "LSP: VIP Sportsnet EAST HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/2431911860.png"
+    },
+    {
+      "name": "LSP: VIP TSN 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/4314299438.png"
+    },
+    {
+      "name": "LSP: VIP TSN 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/8283386843.png"
+    },
+    {
+      "name": "LSP: VIP TSN 4 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/4022623003.png"
+    },
+    {
+      "name": "MX: FOX Sports 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "NL: Extreme Sports HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/extremesports.png"
+    },
+    {
+      "name": "PRemier LIGA (bih) HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7256571084.png"
+    },
+    {
+      "name": "SKY Sports Arena HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsarena.png"
+    },
+    {
+      "name": "SKY Sports GOLF HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsgolf.png"
+    },
+    {
+      "name": "SKY Sports MAIN Event HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsmainevent.png"
+    },
+    {
+      "name": "SP: CBS Sports HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/cbssports.png"
+    },
+    {
+      "name": "SP: ESPN Deportes FHD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espndeportes.png"
+    },
+    {
+      "name": "SP: FOX Sports 2 HD NL  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "SP: TUDN HD USA  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tudn.png"
+    },
+    {
+      "name": "SPOR Smart FHD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sporsmart.png"
+    },
+    {
+      "name": "SPort KLUB 7  HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7663457170.png"
+    },
+    {
+      "name": "SPort TV 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv1.png"
+    },
+    {
+      "name": "SPort TV 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv2.png"
+    },
+    {
+      "name": "SPort TV 5  HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv5hd.png"
+    },
+    {
+      "name": "STAR Sports 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/starsports1.png"
+    },
+    {
+      "name": "STAR Sports 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/starsports2.png"
+    },
+    {
+      "name": "TR| BEIN Sport 3 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsport3.png"
+    },
+    {
+      "name": "UK: FOX Sports Racing  HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7225288462.png"
+    },
+    {
+      "name": "UK: NBA TV HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nbatv.png"
+    },
+    {
+      "name": "US ESPN NEWS HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espnnews.png"
+    },
+    {
+      "name": "US: ESPN 1 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espn1.png"
+    },
+    {
+      "name": "US: ESPN 2 HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espn2.png"
+    },
+    {
+      "name": "US: ESPN U HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espnu.png"
+    },
+    {
+      "name": "US: Tennis Channel HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tennischannel.png"
+    },
+    {
+      "name": "US: World Fishing Network HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/worldfishingnetwork.png"
+    },
+    {
+      "name": "USA: BEIN Sports Laliga HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportslaliga.png"
+    },
+    {
+      "name": "VIasat Fotboll  HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/5359725939.png"
+    },
+    {
+      "name": "VIasat Motor HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/viasatmotor.png"
+    },
+    {
+      "name": "ZIggo Sport Extra HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportextra.png"
+    },
+    {
+      "name": "ZIggo Sport GOLF HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportgolf.png"
+    },
+    {
+      "name": "ZIggo Sport Racing HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportracing.png"
+    },
+    {
+      "name": "ZIggo Sport Voetbal HD  (101-SERVERS)",
+      "group": "Sports - All Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ziggosportvoetbal.png"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "package": "world",
+  "name": "TR - Turkcell TV - Live.",
+  "groupIndex": 216,
+  "totalChannels": 13,
+  "channels": [
+    {
+      "name": "TR: TABII SPORT  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg"
+    },
+    {
+      "name": "TR: TABII SPORT 2  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg"
+    },
+    {
+      "name": "TR: TABII SPORT 3  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg"
+    },
+    {
+      "name": "TR: TABII SPORT 4  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg"
+    },
+    {
+      "name": "TR: TABII SPORT 5  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg"
+    },
+    {
+      "name": "TR: TABII SPORT 6  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://cdn.prod.website-files.com/658da28223ee3a39812a4157/6634bffa8be48e31b2bf8b1b_tabii-article-e.jpg"
+    },
+    {
+      "name": "TR: 24 KITCHEN HD  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://logo.m3uassets.com/24kitchen.png"
+    },
+    {
+      "name": "TR: DREAMTURK HD  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://logo.m3uassets.com/dreamturk.png"
+    },
+    {
+      "name": "TR: FLASH HABER HD  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/77a687692639c2f96305c966d839ebcb.png"
+    },
+    {
+      "name": "TR: S SPORT HD  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://logo.m3uassets.com/ssport.png"
+    },
+    {
+      "name": "TR: Sinema Yerli  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://logo.m3uassets.com/sinemayerli.png"
+    },
+    {
+      "name": "TR: TRT COCUK HD  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://logo.m3uassets.com/trtcocuk.png"
+    },
+    {
+      "name": "TR: TRT WORLD HD  (101-SERVERS)",
+      "group": "TR - Turkcell TV - Live.",
+      "logo": "https://logo.m3uassets.com/trtworld.png"
+    }
+  ]
+}

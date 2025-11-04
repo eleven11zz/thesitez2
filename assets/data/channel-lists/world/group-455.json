@@ -1,0 +1,3463 @@
+{
+  "package": "world",
+  "name": "TR - Turkish Movies",
+  "groupIndex": 455,
+  "totalChannels": 691,
+  "channels": [
+    {
+      "name": "TR: Creed III (2023)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg"
+    },
+    {
+      "name": "TR: Life of Crime: 1984-2020 (2021)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HwH3RTBB7mS3RjCyfKuxxqiySO.jpg"
+    },
+    {
+      "name": "TR: Kelebekler Çift Uçar (1964)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/71HpOiU0IUg3hj9OkNqMAnMDXAy.jpg"
+    },
+    {
+      "name": "TR: Sahipsizler (1974)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/daxTixZs8mFlUrAM89CdVgbq6lF.jpg"
+    },
+    {
+      "name": "TR: Leyla (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A0uCXYGl9oZFWoCBc9epLYwmKL.jpg"
+    },
+    {
+      "name": "TR: Arka Sokaklar (1963)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pv2yBxEZINn7NG70QyW1X52SKfn.jpg"
+    },
+    {
+      "name": "TR: Family Romance, LLC (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/igtALo7638WulIIdBSQetdjFGWN.jpg"
+    },
+    {
+      "name": "TR: North by Northwest (1959)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg"
+    },
+    {
+      "name": "TR: Mehmed the Conqueror (1994)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAi5zmtTPUgfdnyH2zWCVr2NmfP.jpg"
+    },
+    {
+      "name": "TR: Gönül Dağı \"Kurban\" (2021)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L0eFc9ftCj85oOVwPPNiXeSbhE.jpg"
+    },
+    {
+      "name": "TR: Rüya (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/36l89C6oRlLFq3jAtnrcGNFNvMz.jpg"
+    },
+    {
+      "name": "TR: Çifte Nikâh (1962)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nemmo3ZjMTjT6Ei7jGntqsVCX4V.jpg"
+    },
+    {
+      "name": "TR: Arka (2020)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebzY8hBoXEhtcMbkDADQ30LvSx2.jpg"
+    },
+    {
+      "name": "TR: Secret Liaison (2013)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JWXEKIEl7XUsLYh3wEwDF6O96W.jpg"
+    },
+    {
+      "name": "TR: Communist Osman (2023)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxFZwzxNBi7NBIs8z8BAoLHI5nY.jpg"
+    },
+    {
+      "name": "TR: Diana Krall - Montreux Jazz Festival 2013 (2013)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sju0tGRAAjnN86sw1JebrGLZ0Nu.jpg"
+    },
+    {
+      "name": "TR: Osman Killed Me (1963)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3BDZX3cnlemXx3uFcqvOwic2JI.jpg"
+    },
+    {
+      "name": "TR: Can (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9POIoNJsIxfDXBfuo3iHXU7ahq.jpg"
+    },
+    {
+      "name": "TR: Once Upon a Time Yeşilçam: Abdurrahman Keskiner (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SnYCFaBkKP3b2IPqwfJq2att0r.jpg"
+    },
+    {
+      "name": "TR: The Night Before Christmas: A Mouse Tale (2002)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAI41MpGL3dppv3ca1cNKe0JtiO.jpg"
+    },
+    {
+      "name": "TR: Bahar (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyFYbDjw7QFHeITdvvVw2r80bkj.jpg"
+    },
+    {
+      "name": "TR: Fatih Sultan Mehmed: Yeni Çağ (2023)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/quvLSZ2f7tHKrnvsgFJJITV0JbD.jpg"
+    },
+    {
+      "name": "TR: Dozd-e Siyahpoush (1968)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDH71ZEpvBNbqE757GUgLeD0fpI.jpg"
+    },
+    {
+      "name": "TR: The Lost King (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3kOebicMlDMrfe0kTJ2YxqnFw0.jpg"
+    },
+    {
+      "name": "TR: Can (2012)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/krRTHsVgoLA9ejMO6mTYK1Np1ZZ.jpg"
+    },
+    {
+      "name": "TR: Once Upon a Time in Anatolia (2011)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o08n2xyXGTkzKy122TTNat57SHb.jpg"
+    },
+    {
+      "name": "TR: Bir Gece (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ubGt4N7JWt4JuOPpCScL6SjENp.jpg"
+    },
+    {
+      "name": "TR: Uzak (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NY7dBTve301rCKCWokqx4mZv7e.jpg"
+    },
+    {
+      "name": "TR: Saladin the Victorious (1963)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDk3uzR7Yp5PjcdPCZwsQHr26JX.jpg"
+    },
+    {
+      "name": "TR: Kaybedenler Kulübü Yolda (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/swl2YNUjirhLpCnDfrokjYiaoWO.jpg"
+    },
+    {
+      "name": "TR: A Beautiful Dream (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyn3Y6u4gG89fhBn4dddTwVji2r.jpg"
+    },
+    {
+      "name": "TR: The Train for Kraljevo (1981)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPNuC9lUZZu9DEvxpMzfMBvlQdg.jpg"
+    },
+    {
+      "name": "TR: Apocalypse Z: The Beginning of the End (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg"
+    },
+    {
+      "name": "TR: Namus Borcu (1973)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xM8XOQd6AKRRdB2mqPyBwC68jNK.jpg"
+    },
+    {
+      "name": "TR: Sadece Bir Gece (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5JpwjFKdTY9j5xs91VTlY8PPtw.jpg"
+    },
+    {
+      "name": "TR: Çift'lik Bank: Tosun Firarda (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAR3OurhmqfBiXdiRxw5opW6frw.jpg"
+    },
+    {
+      "name": "TR: Siyahlı Kadın (1967)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/102lPXx8BXpTCbLu56BCPpFYP8C.jpg"
+    },
+    {
+      "name": "TR: Hud (1963)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A168bF52vmAIGkC2Qafj7M2EmaE.jpg"
+    },
+    {
+      "name": "TR: My Grandfather's Demons (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPoUd6lm011MUCH54aNeMsDJl7z.jpg"
+    },
+    {
+      "name": "TR: In Virtual Return We (can’t) Dehaunt (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqAgmJ8fjst0OGvM1xmhYDmLQtD.jpg"
+    },
+    {
+      "name": "TR: Salkım Hanım'ın Taneleri (1999)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weMVwqegSgDHPmkmMfl9qmpZ7Dr.jpg"
+    },
+    {
+      "name": "TR: Mommo: Kız Kardeşim (2009)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaODc23oPdXpOPAWeqkWPrYcW9T.jpg"
+    },
+    {
+      "name": "TR: Çingene Kızı Zeugma (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwh4UiXbZduPw7ZJQVGNgqXtHVv.jpg"
+    },
+    {
+      "name": "TR: Nuclear Rescue 911: Broken Arrows & Incidents (2001)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0KCmXOTCeqLKDCKUQKf38xQUtY.jpg"
+    },
+    {
+      "name": "TR: Sakar Şakir (1977)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uonfsMHQPnirygqzS3LprpEvXMz.jpg"
+    },
+    {
+      "name": "TR: Oh My Ghost : The Finale (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h59dS8S28ANNfWj5nuga2PveHPP.jpg"
+    },
+    {
+      "name": "TR: Hello! Project 2014 Winter ~DE-HA MiX~ (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAsexv9K9HvywT4bv6ZFTEBT9fw.jpg"
+    },
+    {
+      "name": "TR: El candidato honesto (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmV5HPkbQuzgPo11Xm70CMQV3iZ.jpg"
+    },
+    {
+      "name": "TR: Incident at Loch Ness (2004)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsBmbcL4KiZerEwFJO4BHlvnbA8.jpg"
+    },
+    {
+      "name": "TR: Law of the Border (1966)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGpWiiHLH1ji1lRWC4kIXAZ2b3O.jpg"
+    },
+    {
+      "name": "TR: Kuruluş (1986)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/73dhz4yYoTz03WUiw96epWsnZBA.jpg"
+    },
+    {
+      "name": "TR: El Candidato Honesto (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmV5HPkbQuzgPo11Xm70CMQV3iZ.jpg"
+    },
+    {
+      "name": "TR: Badrinath Ki Dulhania (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1tV7gYSF5iw8NPR78sUHNb3YLU.jpg"
+    },
+    {
+      "name": "TR: Kuruluş Osman 190. (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://i.ytimg.com/vi/jOBrLiRA37Y/maxresdefault.jpg"
+    },
+    {
+      "name": "TR: Kudumbasthan (2025)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76AkmAqLNMMJZZWQXQ6KntEiLjK.jpg"
+    },
+    {
+      "name": "TR: Me contro Te: Il film - Vacanze in Transilvania (2023)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFLK3rDmeoN9ovaqfkVTRlJS9Iw.jpg"
+    },
+    {
+      "name": "TR: SUS (2010)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/levdQc4W9iAza6JfU10N7zc1uN0.jpg"
+    },
+    {
+      "name": "TR: Kızıl Vazo (1969)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUuS6UtWyqpTbAE66Ib1crurlMz.jpg"
+    },
+    {
+      "name": "TR: Kudüs'ün Işıkları (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmsrpIODlc4ZilL6EXbxex3hB0Y.jpg"
+    },
+    {
+      "name": "TR: Three Robbers and a Lion (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TeOV5JyaOHPu0PlsTZKL6NYvR8.jpg"
+    },
+    {
+      "name": "TR: We Can Be Heroes (2020)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg"
+    },
+    {
+      "name": "TR: Once upon a time in Iceland",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWodRzqBsjau5feC6wgroWixrAd.jpg"
+    },
+    {
+      "name": "TR: Sosyete Şakir (1970)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKBvt1wRjBFND7z6LobuGLsZKZJ.jpg"
+    },
+    {
+      "name": "TR: Distant (2002)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XKGrHh1BRnMiIRMRYRsWPQDJfh.jpg"
+    },
+    {
+      "name": "TR: Ghost in the Shell: SAC_2045 Sustainable War (2021)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNTvGWDTxb2spAp9SRLNfOo7kCM.jpg"
+    },
+    {
+      "name": "TR:  Siyahlı Kadın (1967)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/102lPXx8BXpTCbLu56BCPpFYP8C.jpg"
+    },
+    {
+      "name": "TR:  Sahipsizler (1974)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/daxTixZs8mFlUrAM89CdVgbq6lF.jpg"
+    },
+    {
+      "name": "TR: Trouble Every Day (2001)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKcd0DESrI965qjT3L9dRmkhHWJ.jpg"
+    },
+    {
+      "name": "TR: The Secret of Arkandias (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9TwXHOlSiMnYBhN0ytBGDMOQ2J.jpg"
+    },
+    {
+      "name": "TR: Lovelorn (2005)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeWO3ttq8lw32PL1m1yDxubRYmF.jpg"
+    },
+    {
+      "name": "TR: Kingdom IV: Return of the Great General (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZKKwXyZ92K0mIRpf2FbCkQa7oO.jpg"
+    },
+    {
+      "name": "TR: Friday the 13th (1980)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg"
+    },
+    {
+      "name": "TR: Mehmet Salih (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heHrmoPCP56oq9j8N7Xnt0mvW75.jpg"
+    },
+    {
+      "name": "TR: Leyla Everlasting (2020)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RnMjhdXAMdZjo56dGMKxYY6AHq.jpg"
+    },
+    {
+      "name": "TR: Kızıl Maske (1968)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gzAQsb0HTtLevde0xjFyWsk9d6.jpg"
+    },
+    {
+      "name": "TR: Lenin: Sosyalizmin Kızıl Şafağı (2012)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXhGAUtH28ttCO0VaQOG6mqMz49.jpg"
+    },
+    {
+      "name": "TR: A Tale of Three Sisters (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wltmOsIIncjRAIw8REwI0gh5Jc6.jpg"
+    },
+    {
+      "name": "TR: Sustainable (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6ZhcjWgafI5MFLK5GK69cUDKLZ.jpg"
+    },
+    {
+      "name": "TR: Bir (2021)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ1vy1WacEIZx4rK9fmxXDfLVWk.jpg"
+    },
+    {
+      "name": "DE: Bir (2021)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ1vy1WacEIZx4rK9fmxXDfLVWk.jpg"
+    },
+    {
+      "name": "DE: Bahar (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyFYbDjw7QFHeITdvvVw2r80bkj.jpg"
+    },
+    {
+      "name": "TR: The Incident (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/idb1ACZCQAsYJCFMfs9vgyBIbP1.jpg"
+    },
+    {
+      "name": "TR: Hu-Du-Men (1996)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2U64sTNSWuMz8Ck2hBgfHF0HB9.jpg"
+    },
+    {
+      "name": "TR: Children of the Otherside (2008)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqT5cQCvaPWUZSAvoauafEkItjU.jpg"
+    },
+    {
+      "name": "TR: Annem (1987)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqs2mWqq98rjFnqs45TkM9J2aZe.jpg"
+    },
+    {
+      "name": "TR: Film Adventurer Karel Zeman (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/88CAtdFlY6x70682mgdqgq1XWLf.jpg"
+    },
+    {
+      "name": "TR: Yali (2012)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oL5l49Q8Dnb1ZfHFjHODXczE8yE.jpg"
+    },
+    {
+      "name": "TR: Piyasadan Büyük Alacağımız Var (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ4yaDb1Fx1vk3RZkTv4tbBYid7.jpg"
+    },
+    {
+      "name": "TR: Heartsong (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LMdLAReF10fxO1imTiVR9OllNR.jpg"
+    },
+    {
+      "name": "TR: El Cantante (2006)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm4E66pPhJTP8fAdZKOMRDz4BSR.jpg"
+    },
+    {
+      "name": "TR: PERSONA3 THE MOVIE #1 Spring of Birth (2013)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hM8CcSlEFjo3vAIFJY3LyuSloU5.jpg"
+    },
+    {
+      "name": "TR: Sandık (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdVTneeLLWwpTGG2plfFtJxvMEZ.jpg"
+    },
+    {
+      "name": "TR: eu (2004)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2xJQvcHDTRI5fGVXduA342AZkN.jpg"
+    },
+    {
+      "name": "TR: Bahar in Wonderland (2013)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cq1jFjAlzQpJtqWGYZoSstjgg4T.jpg"
+    },
+    {
+      "name": "TR: You (1963)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t53Das5aNwFQFVNoGL8iYISH02k.jpg"
+    },
+    {
+      "name": "TR: You Do the Best You Can (2001)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNptfhMNrpE8nili8g2NdMum7UU.jpg"
+    },
+    {
+      "name": "TR: King Shakir Recycle (2022)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0kGpKB2elapYboHklgn9wLTj9x.jpg"
+    },
+    {
+      "name": "TR: Nova Zembla (2011)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg4aTHsc5yvD9DsEYsUfhHNVkH7.jpg"
+    },
+    {
+      "name": "TR: Frontera (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg"
+    },
+    {
+      "name": "TR: Love in Another Language (2009)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svwQqtjS5VFVJza0mAXXaGoWzUL.jpg"
+    },
+    {
+      "name": "TR: My Mother (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jgF7lAjTD2i3ctUkm5BKy9FWrf.jpg"
+    },
+    {
+      "name": "TR: Kral Şakir: Korsanlar Diyarı (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtxjoqwN6MztLeSfkqsniHvg08T.jpg"
+    },
+    {
+      "name": "TR: Once You're Born You Can No Longer Hide (2005)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Xqp5Htgpyr9MVpuBHEN5eyyt0k.jpg"
+    },
+    {
+      "name": "TR: Street Kings (2008)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/csXyZ1BsDBlH0PXkOFWxggEf9WF.jpg"
+    },
+    {
+      "name": "TR: Black Car (1966)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0VLEw07pFLgmsPQ41NOtSAhE5g.jpg"
+    },
+    {
+      "name": "TR: Karate Girl (1973)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rL6VpUnS3ZWTvXQuMDHhP6cnkJ8.jpg"
+    },
+    {
+      "name": "TR: Once Upon a Time In My House (2023)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFUtjwEiepGrls0kpui3evTpdxJ.jpg"
+    },
+    {
+      "name": "TR: Making Squid Game: The Challenge (2023)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/78yTLvtsMntVN1cLfzBuZj870pe.jpg"
+    },
+    {
+      "name": "TR: Kovan (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "http://line.megacdn.live:80/images/2JVxeeLwIa6d1EiqQI30U3aD1A0_big.jpg"
+    },
+    {
+      "name": "TR:  Kovan (2024)",
+      "group": "TR - Turkish Movies",
+      "logo": "http://line.megacdn.live:80/images/2JVxeeLwIa6d1EiqQI30U3aD1A0_big.jpg"
+    },
+    {
+      "name": "TR: Keeping the Bees (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXITXGXntJruJ9CogXJFjMAUiLW.jpg"
+    },
+    {
+      "name": "TR| Kovan",
+      "group": "TR - Turkish Movies",
+      "logo": "http://line.megacdn.live:80/images/2JVxeeLwIa6d1EiqQI30U3aD1A0_big.jpg"
+    },
+    {
+      "name": "TR: The Informer (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg"
+    },
+    {
+      "name": "TR: The Field Guide to Evil (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWAniWWeBf2qGAYuCPvnvYGs7pM.jpg"
+    },
+    {
+      "name": "TR: The Collection (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RKOfTEicgXDkH4x4lw3GNMf5Zh.jpg"
+    },
+    {
+      "name": "TR: Pixie Hollow Games (2011)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c962jDNYejdctu7pb8zqS2Miey9.jpg"
+    },
+    {
+      "name": "TR: The Trip (2011)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCHuQI3kchgaX29WBDVGnwrkIJs.jpg"
+    },
+    {
+      "name": "TR: The Light Between Oceans (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9S6VKZPllNgdxBUuI3GYJiqcKO.jpg"
+    },
+    {
+      "name": "TR: Star Trek Beyond (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOnd3XQIg7JBmu0UuBjZyLdsxQD.jpg"
+    },
+    {
+      "name": "TR: Pocket Hercules: Naim Suleymanoglu (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNEATX1X3B7vmKY2Brm2wumuNG4.jpg"
+    },
+    {
+      "name": "TR: Countdown (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TQ0kM41vWFWFAPbZGitOxDysZU.jpg"
+    },
+    {
+      "name": "TR: My Father's Bones (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOzdUuNKjFJg9pNxdva0QTIWXKO.jpg"
+    },
+    {
+      "name": "TR: The Front (2010)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AhEJWXHQfKTf8lIUfsoeZi4FV8.jpg"
+    },
+    {
+      "name": "TR: Goodbye Christopher Robin (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg"
+    },
+    {
+      "name": "TR: my suburban stories (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOIgYBLSrvcIuYkbK4KDgBKyNTa.jpg"
+    },
+    {
+      "name": "TR: Bullet to the Head (2013)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/arJfxShfuZPhqfBZZU6DkPZfnjn.jpg"
+    },
+    {
+      "name": "TR: My Mother's Wound (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HX8UG0Pcrkz8A9kSFjYxbMhLGR.jpg"
+    },
+    {
+      "name": "TR: Don't. Get. Out! (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1051biKSE5MriLrfHCRuVZHS2Qc.jpg"
+    },
+    {
+      "name": "TR: Our Hodja (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypGIoHbCrrPgCO1ZntKxr6iQoKX.jpg"
+    },
+    {
+      "name": "TR: The Guest (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTQyODc5MTAwM15BMl5BanBnXkFtZTgwNjMwMjA1MjE@._V1_.jpg"
+    },
+    {
+      "name": "TR: When I'm Done Dying (2021)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcePR02PffVGXaru2ouF43xK6Sy.jpg"
+    },
+    {
+      "name": "Silver Skates (2020)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/shxG0AoYUvQsoDwUd2r3tBbYHv6.jpg"
+    },
+    {
+      "name": "Security (2021)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLjN3vIw63GJ6m1J2fhGL3D2VXd.jpg"
+    },
+    {
+      "name": "Prime Time (2021)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEegKDrhRZVnn0Y87TdKqGwjowo.jpg"
+    },
+    {
+      "name": "Oksijen 2021 DUAL 1080p NF WEB-DL DDP5.1 H264-BTRG",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Kaykayci.Kiz.2021.DUAL.1080p.NF.WEB-DL.DDP5.1.H.264-TURG",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Ferry (2021)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6n1pu9thpCVHILejsuhKf3tNCV.jpg"
+    },
+    {
+      "name": "El Camino de Xico 2020 DUAL NF WEB-DL 1080p x264 AC3",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Butun Kizlar Adina 2021 DUAL 1080p NF WEB-DL AAC H264 - BTRG",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Çiçero - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/kRKL8tCx6pUyE8ae04eWyTa2c5G.jpg"
+    },
+    {
+      "name": "Çat Kapi Ask- 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qJBE0n96hXssX38dN98dpROLSLP.jpg"
+    },
+    {
+      "name": "Ä°fritin Diyeti Cinnia - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Zor Oyun Kapanmayan Bir Hesap- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Zohak (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rfeqAZacozdbqT7EDe8OOV2Xf2.jpg"
+    },
+    {
+      "name": "Zoe (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hagf4LA3FRD2o1wI3LhNzl0t5vo.jpg"
+    },
+    {
+      "name": "Zengin Kismet - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Yolsuzlar Çetesi (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eybHWBRRsmoJEY8dqKklvTJzinZ.jpg"
+    },
+    {
+      "name": "Yolculuk (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rYvsctUwtsSbCxv599M8gIa5YB.jpg"
+    },
+    {
+      "name": "Yok Artik 2 - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9Q4shtq2uvdsrIZ3EEjAseLEMMB.jpg"
+    },
+    {
+      "name": "Yav He He (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6i07u5RAkbMYlG4Jx6I5saOpF5.jpg"
+    },
+    {
+      "name": "Yaşamak Güzel Şey (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/981YahoG3JA1FlnfGQGJ9piPajd.jpg"
+    },
+    {
+      "name": "Yanlis Anlama - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/cssnKY9qQHKvHtoy3dGyNzs0SX9.jpg"
+    },
+    {
+      "name": "Yanimda Kal - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3T56ZJlmWKMei5q6RmEW3Uoxqkw.jpg"
+    },
+    {
+      "name": "Yalancı Damat (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Wjn2ROwVpYzCpYT1l2EERu39Oi.jpg"
+    },
+    {
+      "name": "Yakisikli Prens- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jBkQjdlA1EMD2zSX4WLHDbxs6vX.jpg"
+    },
+    {
+      "name": "Yagmurlarda Yikansam - 2015",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Woman at War (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IwRoLxbYF1Vu1KxHt0aLbyeS5u.jpg"
+    },
+    {
+      "name": "Wine Country (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mi5l29DQFdwrTXxbqM2OLbs830H.jpg"
+    },
+    {
+      "name": "Wildlife Full - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Whitney (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1c6dTycYBMZs2T1wKA6bknLLa6.jpg"
+    },
+    {
+      "name": "White Boy Rick (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIyqAObXHVHpJmbpun95d5iYlMx.jpg"
+    },
+    {
+      "name": "What Men Want (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg"
+    },
+    {
+      "name": "Walk. Ride. Rodeo. (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUQyvpTtirjQRYi4gVRsVrDvf6T.jpg"
+    },
+    {
+      "name": "Vezir Parmagi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/iQUByrwG9TZUJ5o0DNirUfXrjMm.jpg"
+    },
+    {
+      "name": "Ver Kaç (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmfNT0Ngpg4HTIA4sTaz7uBNhGg.jpg"
+    },
+    {
+      "name": "Venom (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg"
+    },
+    {
+      "name": "Velvet Buzzsaw (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rViQPcrWthMNecp5XnkKev6BzW.jpg"
+    },
+    {
+      "name": "Utøya: July 22 (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg"
+    },
+    {
+      "name": "Us (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg"
+    },
+    {
+      "name": "ultrAslan - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Üç Harflilerin Musallat Oldugu Büyülü Konakta Ruh Çagiran Gençlerin Hazin Hikayesi (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4fkb1F7Ssdkx7cQbfFukRzGf01.jpg"
+    },
+    {
+      "name": "Üç Harfliler: Beddua (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gedNzpV1PCEKzM2ulACibv1t6dS.jpg"
+    },
+    {
+      "name": "Twisted (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLtA4kfVcPHIPZxIUjwvdHiW1EU.jpg"
+    },
+    {
+      "name": "Tut Yüreğimden Anne (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4lF3nU9kIVOmcsunxpvMFzVXND.jpg"
+    },
+    {
+      "name": "Trust (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPxFuxa7qYkwhhKKQMWX15ogRPo.jpg"
+    },
+    {
+      "name": "Triple Threat (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg"
+    },
+    {
+      "name": "Trileçe (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XfLqEzCrWaSjsysBv8WjWZ0HWZ.jpg"
+    },
+    {
+      "name": "Transit (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fq4hQDX9iExGMcTXLEhvJU1EZFm.jpg"
+    },
+    {
+      "name": "Trading Paint (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV9G1nO6YxEWzXblqMUFoS19R9v.jpg"
+    },
+    {
+      "name": "Touch Me Not (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AG2c0ugxclSRk6MMWyeWAVBfxe.jpg"
+    },
+    {
+      "name": "Tolkien (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PkKsI7EXAcnov2ap6dnu3fYWFe.jpg"
+    },
+    {
+      "name": "Time Freak (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSDctngY0Oiq6l2LcJDk8k6smvg.jpg"
+    },
+    {
+      "name": "The World Is Yours (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8l0pdMuVgqIYXBvNUr4TXdpmFj.jpg"
+    },
+    {
+      "name": "The Tribe - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/8w4JecmVtqcSMk4mdiHURzISsYz.jpg"
+    },
+    {
+      "name": "The Trap (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x1ggUFGyBEGC6p2qvog38eCaie.jpg"
+    },
+    {
+      "name": "The Son of Bigfoot (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg"
+    },
+    {
+      "name": "The Snow Queen: Mirror Lands (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8251dVxltnhqbt2DaO9bwJYmvAK.jpg"
+    },
+    {
+      "name": "The Sisters Brothers (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTgomqYRTXT3BXQScnIo8uHDyWC.jpg"
+    },
+    {
+      "name": "The Silence (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTVOquzxw2DPF3MKuYd1ynz9F6H.jpg"
+    },
+    {
+      "name": "The Seagull (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGezCjuo1sLgRNivShDR9CETCUe.jpg"
+    },
+    {
+      "name": "The Ruthless (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dmWp12lQua3Bpqu8CwsaGKNVUE.jpg"
+    },
+    {
+      "name": "The Row (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR2PZ92HTZDFuEpxePJhf0WBCyJ.jpg"
+    },
+    {
+      "name": "The Professor and the Madman (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtGCDLhfjW96qVarwctnuTpGOtD.jpg"
+    },
+    {
+      "name": "The Professor (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cypBSinhGuQaZ7VuOmGtcKMp91G.jpg"
+    },
+    {
+      "name": "The Princess Switch (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8XgZE8CsHiYN243MEd07GLCep.jpg"
+    },
+    {
+      "name": "The Princess and the Dragon (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8lY7bzTZ9LsimEVjSLpRDW9fEZ.jpg"
+    },
+    {
+      "name": "The Possession of Hannah Grace (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg"
+    },
+    {
+      "name": "The Poison Rose (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSzyUmg719TgAxarFZYWjLLMqvS.jpg"
+    },
+    {
+      "name": "The Perfect Date (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5LqnnkN09124CSE8yGskeCv3kb.jpg"
+    },
+    {
+      "name": "The Night Eats the World (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rR2PxT0clt1Hhw5Cv0YGk5DD2H.jpg"
+    },
+    {
+      "name": "The New Romantic (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh6oz3RoKwTIqvcFLQ1dEqNWCCB.jpg"
+    },
+    {
+      "name": "The Mule (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/klazQbxk3yfuZ8JcfO9jdKOZQJ7.jpg"
+    },
+    {
+      "name": "The Miracle Season (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIVYjwi8QcZ9AQk4WRYgW4iUmXb.jpg"
+    },
+    {
+      "name": "The Marine 6: Close Quarters (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApPQa5MVbHkVXNKrXHpHSXd1puu.jpg"
+    },
+    {
+      "name": "The Man Who Killed Don Quixote (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4o4zw2c9sfHvszIb5xpuFagnouR.jpg"
+    },
+    {
+      "name": "The Lego Movie 2- 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/QTESAsBVZwjtGJNDP7utiGV37z.jpg"
+    },
+    {
+      "name": "The Legend of Cocaine Island (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pFL9lzMMPHfxYeQNyxRPBZmtEe.jpg"
+    },
+    {
+      "name": "The Legacy of a Whitetail Deer Hunter (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEz6ArsPGzVnizMS1fWrvrQcp7t.jpg"
+    },
+    {
+      "name": "The Last Summer (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAn3MRAUwbjVApN3qYkvsTEOAvx.jpg"
+    },
+    {
+      "name": "The Last Laugh (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/CSGJd80ajL7G7BIusniFi8XtFc.jpg"
+    },
+    {
+      "name": "The Killer Downstairs (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ltFyHCmkB1klcEXyC9p256qrbu.jpg"
+    },
+    {
+      "name": "The Intruder (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9xKyetr0ihJ2K6HJMeXzc4IwEv.jpg"
+    },
+    {
+      "name": "The Hard Way (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwtLphVv3ZbIblc79YNYbZuzbzb.jpg"
+    },
+    {
+      "name": "The Guest Aleppo to Istanbul - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "The Great Hack (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrGgUzasEUA7v8uChRhUUFzLwE.jpg"
+    },
+    {
+      "name": "The Girl in the Spider's Web (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg"
+    },
+    {
+      "name": "The Favourite (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg"
+    },
+    {
+      "name": "The Dirt (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg"
+    },
+    {
+      "name": "The Curse of La Llorona (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg"
+    },
+    {
+      "name": "The Commuter (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg"
+    },
+    {
+      "name": "The Christmas Chronicles (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg"
+    },
+    {
+      "name": "The Boy Who Harnessed the Wind (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOr7RxHw15MMXNxGMXSmngDqHyI.jpg"
+    },
+    {
+      "name": "The Beach Bum (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXMxdC7T0t3dxislnUNybcvJmAH.jpg"
+    },
+    {
+      "name": "The Aftermath (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/slGZ8miznmAZAaDHEz6BKo7f1N5.jpg"
+    },
+    {
+      "name": "Tez 13. Gece (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptKNRDO9q2DXPBR4mNknCPYP5c7.jpg"
+    },
+    {
+      "name": "Tereddut - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/um5XZsYoKCB2gt6I6dk7z1Yf01n.jpg"
+    },
+    {
+      "name": "Temel ile Dursun Istanbul'da (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gIzhbTeqECLsaDqI38J5N0F62E.jpg"
+    },
+    {
+      "name": "Taxi 5 (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUs9qkQz8zPwi910jntTvrOmTOC.jpg"
+    },
+    {
+      "name": "Tau (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqYOlCee3X7cKg05EOQH1htcHmy.jpg"
+    },
+    {
+      "name": "Tatli Seyler - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hKatiy5ECl9dArtZ3TVSRk6Hztx.jpg"
+    },
+    {
+      "name": "Tatlim Tatlim - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mu7P2NrfN1h78ZaJXi3tgZvfEzr.jpg"
+    },
+    {
+      "name": "Tatlı Bela (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zYbkgqlvROkXpTJvNaRKjrUUdd.jpg"
+    },
+    {
+      "name": "Tamam Miyiz - 2013",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hEMltGaowYEbgVisstGsMwtcxlZ.jpg"
+    },
+    {
+      "name": "Taipei - High Resolution - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nWjICXX6LOtKMzftEWvMH8PbH4p.jpg"
+    },
+    {
+      "name": "Tabaluga & Lilli - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wDjG3ihlUlCqzasAxo4InceFj46.jpg"
+    },
+    {
+      "name": "Super Polisler 2 - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/57SZgdugVClIy22rfnANeBJ5KsN.jpg"
+    },
+    {
+      "name": "Super Monsters Furever Friends (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Mar7KWdm4muSueufwDm7T4kctJ.jpg"
+    },
+    {
+      "name": "SuperFly (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg"
+    },
+    {
+      "name": "Sümela'nın Şifresi 3: Cünyor Temel (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg"
+    },
+    {
+      "name": "Sükut Evi (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lz2YddTzgi2ePn5VGwxthJ4QNu.jpg"
+    },
+    {
+      "name": "Status Update (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/E4twRNScyq3g6tRpvK6X8LdD1z.jpg"
+    },
+    {
+      "name": "Spider-Man: Into the Spider-Verse (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+    },
+    {
+      "name": "Sorry For Your Loss (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnzov4Gn2YU97GxwOtk2Qk7LFa4.jpg"
+    },
+    {
+      "name": "Sonsuz Ask - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/dnVrVJT1Ek0jHyOjHtUnUW6SSrg.jpg"
+    },
+    {
+      "name": "Son Kuslar - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pGCA2c6eWEzu3ym5ah5Pw6dX5vR.jpg"
+    },
+    {
+      "name": "Somuncu Baba: Askin Sirri (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmGjjZFA8TvtFm2UD6ynxZxbGQh.jpg"
+    },
+    {
+      "name": "Sofra Sirlari - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/fZsxuy1BNdwENAwQHOVxuCWgZ6F.jpg"
+    },
+    {
+      "name": "Smallfoot (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg"
+    },
+    {
+      "name": "Sinyalciler - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/kmqMHz9lNwxnDCqtnZkX9PynRYs.jpg"
+    },
+    {
+      "name": "Sinsiran: Yasak Aşk (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehUx2opziJRjFPQxCYXw6C2Cpgc.jpg"
+    },
+    {
+      "name": "Silsile - 2014",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jHmWm7S2pjL0j70p4dB5GOH1BKR.jpg"
+    },
+    {
+      "name": "SihirbazlÄ±k Okulunda Bir Turk - 2015",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Sihirbazlık Okulunda Bir Türk (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xc9KBnMDP8tTddPKvFctHTd9Wr.jpg"
+    },
+    {
+      "name": "Siccin 4 - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/8zuhJulB5s77cZAfs5yt8FsWuuR.jpg"
+    },
+    {
+      "name": "Shoplifters (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg"
+    },
+    {
+      "name": "Shazam! (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg"
+    },
+    {
+      "name": "Seytanin Çocuklari-El Ebyaz (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymLYBAolEV6thjhNyQWuzELQAuQ.jpg"
+    },
+    {
+      "name": "Sen Kiminle Dans Ediyorsun - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wkrWymEQIfiT2oeho9idezzKzXe.jpg"
+    },
+    {
+      "name": "Seni Seviyorum Adamım (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/stKSIA2c67tT4ZRSzVqsLg71fZj.jpg"
+    },
+    {
+      "name": "Seni Seven Ölsün (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/slsIBDd0aCPCSlwcKdHKuHVMZim.jpg"
+    },
+    {
+      "name": "Seni Gidi Seni (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/utMnbRmzidD0nchiz43Np8inQmz.jpg"
+    },
+    {
+      "name": "Sen Benim HerŞeyimsin (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlRvvrsnjM7lObLqpqZ3BMOWenD.jpg"
+    },
+    {
+      "name": "Sekerat Son (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fgJQG30znxxUcSXtXhBCDJCRJn.jpg"
+    },
+    {
+      "name": "See You Yesterday (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg"
+    },
+    {
+      "name": "Secret Obsession (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKMeE6oYzBVzhA6xLGb8PPWEruF.jpg"
+    },
+    {
+      "name": "Searching (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk9R56ZFlofbBzfwBnHlDyg5DMs.jpg"
+    },
+    {
+      "name": "Scorpian King - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Scooby-Doo! & Batman: The Brave and the Bold (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSPeF1zoYH8kCOhFMu7x3B55zu6.jpg"
+    },
+    {
+      "name": "Sarikamis Cocuklari - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/po0fJiyltbNVYdb31e71p7D6znO.jpg"
+    },
+    {
+      "name": "Sansimi Seveyim - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/asDzU3FRwg2xbaNdldtcKDcIQ5I.jpg"
+    },
+    {
+      "name": "Salur Kazan Zoraki Kahraman - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7YTxsBOKiw7ZsS028UXpsYDVCY8.jpg"
+    },
+    {
+      "name": "Saftirikler (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVcpAQZ7NvHeRYGTKSmDheFrZZ.jpg"
+    },
+    {
+      "name": "Sadece Sen (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/agS2gv4wKh8pQe13tI2FNEKSdAa.jpg"
+    },
+    {
+      "name": "Saban Oglu Saban - 1977",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/sqbAPSftoXd9z5llk1oKsvzyGBv.jpg"
+    },
+    {
+      "name": "Ruzgar - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/zhXlJeEpcXxxYvzIWihNO7qha6m.jpg"
+    },
+    {
+      "name": "Rus'un Oyunu (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmA1RWLFJV68ftPvRCVVDQn02mc.jpg"
+    },
+    {
+      "name": "Running for Grace (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EM6JvWiFPSkgpHLml6yA1hy1SL.jpg"
+    },
+    {
+      "name": "Royal Matchmaker (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2FZRv4EqTwMWKKzJFlMeFfmgg.jpg"
+    },
+    {
+      "name": "Robin Hood Otto Bathurst - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Rio 2 (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpCqpv8y0cDb7mgIPeTv70W9vmF.jpg"
+    },
+    {
+      "name": "Rio (2011)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/BSZ2dA3G369e3pHIXGhh5orzPt.jpg"
+    },
+    {
+      "name": "Rim of the World (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg"
+    },
+    {
+      "name": "Revenge (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SzcCFHiEkw8IhWS4KPAsznzkkD.jpg"
+    },
+    {
+      "name": "Resimdeki Sevgili (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1H8Mp6EyQPWn5Orupl74d4i4a1d.jpg"
+    },
+    {
+      "name": "Reign of the Supermen (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9TzqscNRUaG8HqEP3K1jUvi8pC.jpg"
+    },
+    {
+      "name": "Recep Ivedik 4 (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfimoHipN4TVBkUJW6727C085i1.jpg"
+    },
+    {
+      "name": "Recep Ivedik 3 (2010)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KJjf6KqBUfhRKpPxy2fX30BSbl.jpg"
+    },
+    {
+      "name": "Recep Ivedik 2 (2009)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3GELlXNY5Muduu7znhlgYOLTrR.jpg"
+    },
+    {
+      "name": "Recep Ivedik (2008)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ag2wjMtkhrPdHQHCT6YN2EHUvd.jpg"
+    },
+    {
+      "name": "Ralph Breaks the Internet (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEnH5meR381iMpmCumAIMswcQw2.jpg"
+    },
+    {
+      "name": "Rafadan Tayfa- Istanbul Dehlizleri - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Rabbit School - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/6BQyI5qfDNcpuSFPmJEzOfSUFOw.jpg"
+    },
+    {
+      "name": "Raazi (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rJYiH0rGugxuTY8hffJLuCuF01.jpg"
+    },
+    {
+      "name": "Puzzle (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axEHNlZguGLwmKfDXyRpGVMGRFI.jpg"
+    },
+    {
+      "name": "Psisik - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wEzsAFTmwy39on7B9fndNdtAkKC.jpg"
+    },
+    {
+      "name": "Predator Avci Guclendi - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Prangalı Yarim (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Fa1h2u3TqqcXe0wch1pEFBnYG1.jpg"
+    },
+    {
+      "name": "Poyraz Karayel: Küresel Sermaye (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqvAeFZrtneRMRphOel90Aruge0.jpg"
+    },
+    {
+      "name": "Polar (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOBEpKVLl8Q9CZScbOcRRVISezV.jpg"
+    },
+    {
+      "name": "Pet Sematary (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg"
+    },
+    {
+      "name": "Pet Names (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9akncfmb1TueARaMzUlBfg5S7Db.jpg"
+    },
+    {
+      "name": "Peppermint (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg"
+    },
+    {
+      "name": "Pegasus: Pony With a Broken Wing (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywNNEM44laI6y8UkiGxpbJPmt0g.jpg"
+    },
+    {
+      "name": "Parayı Bulduk (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpumwTlQVzJH0AECmCLsIGdQysQ.jpg"
+    },
+    {
+      "name": "Papatya (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehyy4V0FzsbpeVPo2rvbB0Liue9.jpg"
+    },
+    {
+      "name": "Pamuk Prens (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/57oalQKYFyOacJsuFFwqR5Ts4SQ.jpg"
+    },
+    {
+      "name": "Painkillers - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/2T3AawFmSrp9kGEn5LpAA1TGCQ3.jpg"
+    },
+    {
+      "name": "Pachamama (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZrqG7icldmNYc4NgDwE3dd5tS7.jpg"
+    },
+    {
+      "name": "Outlawed (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27WJUPZtF5pPM9tm76AsmhR0wBF.jpg"
+    },
+    {
+      "name": "Oteki Taraf - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1ZJfyC319mdV3mrmYHiNrPLtbgE.jpg"
+    },
+    {
+      "name": "Osman Pazarlama (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7iglRmskSPTTUqt0LJWOnaRgLD.jpg"
+    },
+    {
+      "name": "Organize isler Sazan Sarmali- 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/yHVRfj6x7Mr1d8Ew3lysD9SsIX0.jpg"
+    },
+    {
+      "name": "Operation Finale (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlIdPeH5IrR1qRErschnVQeZAQu.jpg"
+    },
+    {
+      "name": "On the Basis of Sex (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg"
+    },
+    {
+      "name": "Olumlu Dunya - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/rciymOhVvvaL7JqVJGsG8KGC3tE.jpg"
+    },
+    {
+      "name": "Oldu Mu Şimdi? (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylOO3c9eJg4zbnc8cSIdYs8zh0G.jpg"
+    },
+    {
+      "name": "Oh, Ramona! (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg"
+    },
+    {
+      "name": "Oflu Hoca Trakya\\'da - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/iENz8BAu037ZN1SB8gWMBwvNc9A.jpg"
+    },
+    {
+      "name": "Oflu Hoca'nın Şifresi 2 (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUNpfXAtghxi4CKpeswb2fURip.jpg"
+    },
+    {
+      "name": "O.G. (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouf0Hq3dtyryraPAuEZAHSBwtLc.jpg"
+    },
+    {
+      "name": "Nothing to Hide (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEYbEDrgKOtGVyO2c8R4zwXUVR0.jpg"
+    },
+    {
+      "name": "Nothing Like a Dame (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBHnbVb0YJMRtgBb6VgTTcT4TFf.jpg"
+    },
+    {
+      "name": "Not Cinderella's Type (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eytQpuI0w8YvBFMQ7qxCh22TZfV.jpg"
+    },
+    {
+      "name": "Nostalgia (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbvexHHFLEonIuXul2AVpnwgrZw.jpg"
+    },
+    {
+      "name": "Noel Prensi Kraliyet Dugunu - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Next Gen (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg"
+    },
+    {
+      "name": "Nereden Nereye (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wekY6dL06Cdy1TTnXzC5ivxIpEs.jpg"
+    },
+    {
+      "name": "Natural Vice - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/tJUGvSkS77nin2qlf6szAsjTDdq.jpg"
+    },
+    {
+      "name": "Nancy Drew ve Gizli Merdiven - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/g805FevFI8BkmvorvyITZ1kGJcr.jpg"
+    },
+    {
+      "name": "Müslüm (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYPsV9ufMlB857JBkG1KW83W2Ft.jpg"
+    },
+    {
+      "name": "My Little Pony Filmi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/AiJRCzcZSVs9xPHoEKZRp80TyTA.jpg"
+    },
+    {
+      "name": "Mutlu Canavar Ailesi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/gjDbd43e7o2Ssn7P1l50Bv0rtIl.jpg"
+    },
+    {
+      "name": "Musabbar (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/poCIvkaIcvW018n2FnzqYobGyJE.jpg"
+    },
+    {
+      "name": "Murder Mystery (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSMSO9xupd4R4vwTPqigHn2quLN.jpg"
+    },
+    {
+      "name": "Mumya - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Muhalif Başkan (2013)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m85L8D8NruFZi4mHZPIfHWdoNjc.jpg"
+    },
+    {
+      "name": "Morning Show Mystery- Mortal Mishaps - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/x7gLsQYNMRSgzF1gPRs53oFekxK.jpg"
+    },
+    {
+      "name": "Miss Bala (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg"
+    },
+    {
+      "name": "Mirai (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg"
+    },
+    {
+      "name": "Minyonlar- 2015",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/dr02BdCNAUPVU07aOodwPYv6HCf.jpg"
+    },
+    {
+      "name": "Minuscule 2: Mandibles from Far Away (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/QVglFM8WHuA5F07IMzFcKu6RXa.jpg"
+    },
+    {
+      "name": "Mile 22 (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg"
+    },
+    {
+      "name": "Mezeci Ciragi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mIaYExgpv5S0vzfUdrlf6dHgEfg.jpg"
+    },
+    {
+      "name": "Mezarcı (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLRSxv2yr0KPOf9jiA9NYFAqVTM.jpg"
+    },
+    {
+      "name": "Mercy Black (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6e0eblwQS11J5ZBb5PNoigCKWGB.jpg"
+    },
+    {
+      "name": "Meg Derinlerdeki Dehset - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg"
+    },
+    {
+      "name": "Measure of a Man (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSK7N9T9uqp7WqaFffKPhPxx0mB.jpg"
+    },
+    {
+      "name": "May the Devil Take You (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3UqtKPPWmDX4514kWF8hluCbsk.jpg"
+    },
+    {
+      "name": "Mavi Bisiklet - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Mata Batin 2 - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/l9bABi3FSgDavkIZbANlgWMq1Mq.jpg"
+    },
+    {
+      "name": "Master Z: Ip Man Legacy (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VxEvOF7QDovsG6ro9OVyjH07LF.jpg"
+    },
+    {
+      "name": "Maskeli Krolar (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wncVqvwSRX8nUmx8oGgKnedH6YY.jpg"
+    },
+    {
+      "name": "Masha i Medved 3 (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkfTKP7WGs43HoUKgB9PfYlsRp8.jpg"
+    },
+    {
+      "name": "Masha and the Bear 2 - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Mary Poppins- Sihirli Dadi Donuyor - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Martıların Efendisi (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbxNi8rswcmhv4G8RSwW167WMjL.jpg"
+    },
+    {
+      "name": "Marrying Mr. Darcy (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQvrNB7XnC8rHP8tbHyiPCjEYqK.jpg"
+    },
+    {
+      "name": "Mara (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg"
+    },
+    {
+      "name": "Mandy (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg"
+    },
+    {
+      "name": "Malibu Rescue- The Movie - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Madeline Madelinei Oynuyor - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Little Italy (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdSSmzYKqViKH7mkQwgOVSALrOO.jpg"
+    },
+    {
+      "name": "Leto (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rOkRmIhoPoyKUa5kDrIPizcglk.jpg"
+    },
+    {
+      "name": "LEGO Ninjago Filmi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg"
+    },
+    {
+      "name": "Leave No Trace (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w69iId8e80xBpyF0r2rfZoqRwQj.jpg"
+    },
+    {
+      "name": "Laugh or Die (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L0QhTjs5dmOxbPUt5GCsrn0OF1.jpg"
+    },
+    {
+      "name": "La quietud - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/8VTB3INNVY3xE72MhKQqN3Yvmjc.jpg"
+    },
+    {
+      "name": "Lanet - Ervah Cinleri - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mAfs5CroxbIrX0JSOFLTGXda6jM.jpg"
+    },
+    {
+      "name": "Lake Placid: Legacy (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBZXrR5zlGdRAXuugtUQo9D4dCp.jpg"
+    },
+    {
+      "name": "Kötü Kedi Serafettin - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/4Z7HdaTw7M2sqGjZzjncE4YPRNV.jpg"
+    },
+    {
+      "name": "Kuslar Bizim Gibi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/588YWW3CtLtrHfMFDS6Ehf5RdKW.jpg"
+    },
+    {
+      "name": "Kurtlar Vadisi Vatan - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9ySkFLATDGH6ML0AA87QldiGQyB.jpg"
+    },
+    {
+      "name": "Kurtlar Vadisi Irak - 2006",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/s7NOQ6u6elKB7KiZVd3uUY3igW0.jpg"
+    },
+    {
+      "name": "Kurtlar Vadisi Filistin - 2011",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/5B9mXAFQoE6n25z6GXO3qKoHHLG.jpg"
+    },
+    {
+      "name": "Kursk - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Kucuk Vampir - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/i9z2rBO4i5MhbvpEIxXZUoXSYUo.jpg"
+    },
+    {
+      "name": "Kucuk Kahramanlar - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg"
+    },
+    {
+      "name": "Kucuk Esnaf - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/w3KvLx4SugUpyi71wP7zXaQ2m7m.jpg"
+    },
+    {
+      "name": "Kucuk Ayak- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg"
+    },
+    {
+      "name": "Kriminal Polis - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Kral Şakir: Oyun Zamanı (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1DbPfL5yRDYaTU3ekt3PexrwbJ.jpg"
+    },
+    {
+      "name": "Kotu Cocuk - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1v7pUkiUFLuvTHEiAWuS6BjHCQw.jpg"
+    },
+    {
+      "name": "Korfez - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/4MS8RfDng1e7jLp6Ge1f7EjVihV.jpg"
+    },
+    {
+      "name": "Kor - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Kopek Adasi- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg"
+    },
+    {
+      "name": "Kolpacino 3 - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/a8kWG7jAJjoAGlsSwX7CXrmXoAQ.jpg"
+    },
+    {
+      "name": "Kolonya Cumhuriyeti - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/yVQAN2mWVdwsvKFbvF3zS39bS7K.jpg"
+    },
+    {
+      "name": "Koca Dunya - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/4eBglv6FmvKQM2bDIZVmRxNaEmE.jpg"
+    },
+    {
+      "name": "Knock Down the House (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAfixuZIFVbWIsWytzROJDY85D7.jpg"
+    },
+    {
+      "name": "Kizim ve Ben - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Kizim için - 2013",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3SMRLTrxgARvRIQyLBCDb2cdHCn.jpg"
+    },
+    {
+      "name": "Kiz Babasi - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/A2qvErf6Wh37ARLiA6KlT0i5VbB.jpg"
+    },
+    {
+      "name": "Kirpi (2009)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSmfH5rhEIeZDW5Yl6EQs5uNlpu.jpg"
+    },
+    {
+      "name": "Kidnapping Stella (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c66emcavlUODl3aZjM7v0yAlR9P.jpg"
+    },
+    {
+      "name": "1 Kezban 1 Mahmut: Adana Yollarında (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7QYOQo0vtWGQIzGy5WqtRJ0Sg.jpg"
+    },
+    {
+      "name": "Ketenpere (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLvUlTSLs93gPkUVJBgcfzf8AkP.jpg"
+    },
+    {
+      "name": "Kesif - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Kesari (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBxAsfoWD5JZPE1Lw0eCkBD09EW.jpg"
+    },
+    {
+      "name": "Kendime İyi Bak (2014)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5d14EIwmUuL9Hb0fq7ss11oke5.jpg"
+    },
+    {
+      "name": "Kelebekler - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7FfL2IFkVnwqK95mQVY3IYJK9kR.jpg"
+    },
+    {
+      "name": "Kaçma Birader (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO27kvr7d9a2QF6JazYl53hODVB.jpg"
+    },
+    {
+      "name": "Kayseri Aslani Cin Isi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/bjiHAYHI0qFMwzfGjcgxxAZeaUG.jpg"
+    },
+    {
+      "name": "Kayip Prenses - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jJaRhOk9FaPTIqP8L4NqnOYEXHo.jpg"
+    },
+    {
+      "name": "Kayip Karincalar Vadisi 2 - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/QVglFM8WHuA5F07IMzFcKu6RXa.jpg"
+    },
+    {
+      "name": "Kayip Inci - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ac2PX43uyFGsfwVDN4Rxp4khzzb.jpg"
+    },
+    {
+      "name": "Kayhan (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMd6L1eMhqJgplZeLrmPuvM6yWx.jpg"
+    },
+    {
+      "name": "Karlar Ulkesi Olafin Macerasi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/As8WTtxXs9e3cBit3ztTf7zoRmm.jpg"
+    },
+    {
+      "name": "Kardesim Benim - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/75vVvpgzpNTaptYmQoyLMzvvF1R.jpg"
+    },
+    {
+      "name": "Kar - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Kaptan Dusukdon - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vKSmaPct5OEeMoD8ue30RisHlKD.jpg"
+    },
+    {
+      "name": "Kapalak Kizi - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/2ZGutgz9N7W7KpFDizKcoP9f3sn.jpg"
+    },
+    {
+      "name": "Kan Kardeşler (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWZnPmrXzZhMJESc1X8Bgf0ZW7U.jpg"
+    },
+    {
+      "name": "Kafir (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBFSA6qD0wjdeUMh6YtjpKXaoWd.jpg"
+    },
+    {
+      "name": "Kadere Tutsak (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKupUODJp0vvgqFW6kdOxrVe4EJ.jpg"
+    },
+    {
+      "name": "Kabadayi - 2007",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/q8mpVlzCOoF92bHICJkJQGodqVN.jpg"
+    },
+    {
+      "name": "Justice League vs. the Fatal Five (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9F4yd1lnTKFHZkme1nuPWmH1hbl.jpg"
+    },
+    {
+      "name": "Juanita (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKq6LErlgWizCtl3DcdYv86xn2e.jpg"
+    },
+    {
+      "name": "Iyi Oyun - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/acEpu5jGa2dWjTWED07BnAQPSTl.jpg"
+    },
+    {
+      "name": "Iyi Ki Dogdun Mickey - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Isn't It Romantic (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg"
+    },
+    {
+      "name": "Iron Sky: The Coming Race (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5t2Nf1F7iQUKTrODg93xmQzZLj.jpg"
+    },
+    {
+      "name": "IO (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg"
+    },
+    {
+      "name": "In the Aisles (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qmeZlLSBkQ34AtfeoaF7usnfRr.jpg"
+    },
+    {
+      "name": "Instant Family (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dic3GdmMpxxfkCQfvZnasb5ZkSG.jpg"
+    },
+    {
+      "name": "Instant Death (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVm3AUJhZb6lPjkhTVLtSTZQIV4.jpg"
+    },
+    {
+      "name": "Inflame (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuVHk9wZ6iLZSiwbQimiyGs4XcF.jpg"
+    },
+    {
+      "name": "In Darkness (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4gJEE1zpImXE8MYkeq4sB69mfZ.jpg"
+    },
+    {
+      "name": "Inanilmaz Aile 2 - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
+    },
+    {
+      "name": "Imkansiz Olasilik - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/msJferZGD7HytWz2QFgrha3Pt0W.jpg"
+    },
+    {
+      "name": "Ilk Opucuk - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/y1aGJVgkk06fTyPiwLIzHSCaDRb.jpg"
+    },
+    {
+      "name": "Ikinci Sans - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1BAdN2rHBfxfA3LEC8J61reRVAU.jpg"
+    },
+    {
+      "name": "Ikimizin Yerine - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/xdVEvb0WCzzcZxcf2DP8RCCZp1n.jpg"
+    },
+    {
+      "name": "Iki Iyi Cocuk- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/dA11hnQOcKqYthg6ujAbaYJWX0m.jpg"
+    },
+    {
+      "name": "Iftarlik Gazoz - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9SWxIHHQLNmILDBiksHus2Ej0tC.jpg"
+    },
+    {
+      "name": "Icimdeki Ses - 2015",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qDvxgQ5BeCfyOTAINR3UkHCpnBc.jpg"
+    },
+    {
+      "name": "Icerdekiler - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jbZSFgTR18cGBlu9JPrddcEOOEZ.jpg"
+    },
+    {
+      "name": "I Am Mother (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3jWxwWRFqvNDJTvBcmKJVHnzKK.jpg"
+    },
+    {
+      "name": "Hüddam (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/guDQzXQNscgektD6AJMTkdP9XNV.jpg"
+    },
+    {
+      "name": "Hürkuş: Göklerdeki Kahraman (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PXBLeAjphppr0wG95blW41tOvO.jpg"
+    },
+    {
+      "name": "How to Train Your Dragon: The Hidden World (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+    },
+    {
+      "name": "Hostiles (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqoezyB51GfhiloOB5ZErg5HXas.jpg"
+    },
+    {
+      "name": "Holmes & Watson (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/orEUlKndjV1rEcWqXbbjegjfv97.jpg"
+    },
+    {
+      "name": "High Life - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ftRRIYNzpTDYeTznrAxgT5v1vJY.jpg"
+    },
+    {
+      "name": "High Flying Bird (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccE21xixa1zhkGtWDr4n8ReOp40.jpg"
+    },
+    {
+      "name": "He's Out There (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi9Zo4uIATSe8cQ96cCOWJ1qdGw.jpg"
+    },
+    {
+      "name": "Her Sey Seninle Güzel- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mOeLppymP0jaNXqOtlfs088qfgJ.jpg"
+    },
+    {
+      "name": "Hereditary (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHV8HHlhwNup2VbpiACtlKzaGIQ.jpg"
+    },
+    {
+      "name": "Here comes the Grump jet - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Hep Yek 3 (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldonbY71Av4gwgggjBwESVVswct.jpg"
+    },
+    {
+      "name": "Hep Yek 2 (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iysnnAsVQh13JZjXAGpkiFWW6A0.jpg"
+    },
+    {
+      "name": "Hep Yek (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/102egdIhmEGIyvSpdWJdWIX2wk0.jpg"
+    },
+    {
+      "name": "Hellboy (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg"
+    },
+    {
+      "name": "Hedefim Sensin (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb5biqh5wWhI0gcnAlJVZYDmuxw.jpg"
+    },
+    {
+      "name": "Hearts Beat Loud (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umiWoEo9aNH2bQnuDZnoFJJxfZn.jpg"
+    },
+    {
+      "name": "Hayatim Yalan - Second Act - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/maUMIZVGs8g1hYtq4dQ9Lg9FtVF.jpg"
+    },
+    {
+      "name": "Hayatımız Film (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "Harmony (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TibOXa3ZTHfAWuf840orXm0Zoo.jpg"
+    },
+    {
+      "name": "Happy Death Day 2U (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg"
+    },
+    {
+      "name": "Halloween (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXs0zkv2iGVViZEy78teg2ycDBm.jpg"
+    },
+    {
+      "name": "Hailey Dean Gizemi 3 - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Hailey Dean Gizemi 2 - Hailey Dean Mysteries A Marriage Made For Murder - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Hadi Be Oğlum (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVDNXbfZkv8tNSxePw0qLtq8Kdg.jpg"
+    },
+    {
+      "name": "Hababam Sinifi Yeniden - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/5tIGirUEU44fqSZu9x6C5MizIc1.jpg"
+    },
+    {
+      "name": "Güzel İkili (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezYLsyNueIqXZgZvixsDHs7iijE.jpg"
+    },
+    {
+      "name": "Günesi Gördüm - 2009",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/12f1B21UGEcXiwrY0Iiw2O9OlSk.jpg"
+    },
+    {
+      "name": "Gönül Yarasi - 2005",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qeWO3ttq8lw32PL1m1yDxubRYmF.jpg"
+    },
+    {
+      "name": "Göktasi- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/6H2c3zEhXHCh374yaVGCutFE2ZH.jpg"
+    },
+    {
+      "name": "Gürbüz: Hadi Allah'a Emanet (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEawKty9tpLNJ20jNlD5UHRXXHq.jpg"
+    },
+    {
+      "name": "Guller - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1QABcK0ooLZY0Yu91658nOqcsLI.jpg"
+    },
+    {
+      "name": "Greta (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Lgk1OGexD0fU8QqDBQHcvEwd1Z.jpg"
+    },
+    {
+      "name": "Green Book (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg"
+    },
+    {
+      "name": "Görevimiz Tatil (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SMPKDOmCfB4XvS804LGGH1rsKm.jpg"
+    },
+    {
+      "name": "Good Sam (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HYTN6cCfqUwBEGAlKcXhEjiSEd.jpg"
+    },
+    {
+      "name": "Gokdelen - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/52ml62vClzrlqvXZq2FEW6UF6c1.jpg"
+    },
+    {
+      "name": "Gocebe - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/t3Mxx6iNB75puzJSiNwJL6ElWXc.jpg"
+    },
+    {
+      "name": "Girls with Balls - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/cd7WFEjGgcpOSKRYbQoTCDkdhIX.jpg"
+    },
+    {
+      "name": "Geniş Aile 2: Her Türlü (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ryvTErMGoXrI3EDTbuNhL8WQwz.jpg"
+    },
+    {
+      "name": "Genc Pehlivanlar - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9Yo1qtMRXFybBNELs8eW8r8UEym.jpg"
+    },
+    {
+      "name": "Gefahr 6 - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Gecmisteki Sir - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/yFKW9tz2QNr9D6xi1f5ywkxFppK.jpg"
+    },
+    {
+      "name": "Galveston (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4oJPtd6ilux9NU9wXomTWBI90B.jpg"
+    },
+    {
+      "name": "Fyre (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg"
+    },
+    {
+      "name": "Freedom Fighter - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jo6ItNdatsIJuIN6WNXI94q74Yq.jpg"
+    },
+    {
+      "name": "For Today I Do- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/bGucFJGHeTqrK5Au4rYFzaZ8JIz.jpg"
+    },
+    {
+      "name": "First Man (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg"
+    },
+    {
+      "name": "Fantastic Beasts: The Crimes of Grindelwald (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"
+    },
+    {
+      "name": "Family Vanished (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vged18BBC2LkG4vPF1EGef0s7KD.jpg"
+    },
+    {
+      "name": "Faith Under Fire- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/t5tsIUyD4nwchVVTZgxAQ0Rez9D.jpg"
+    },
+    {
+      "name": "Extremely Wicked, Shockingly Evil and Vile (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUZJ7gZpNTW4FvvDpglVFYQFeW2.jpg"
+    },
+    {
+      "name": "Eva (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDIQvVf8ZyAxf3WzJhbn15hpXPK.jpg"
+    },
+    {
+      "name": "Eskiya - 1996",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nRr6jmqHczMCS3UfZLGQr5pksmd.jpg"
+    },
+    {
+      "name": "Eski Sevgili (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHklTCmHJyYAOJYeVZU3aI9TObY.jpg"
+    },
+    {
+      "name": "Eski Köye Yeni Adet (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSLyafWqPj0on5vHaI7enyQ8JBT.jpg"
+    },
+    {
+      "name": "Eski Evdeki Buyulu Saat - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qM66Hv4ByAxnilr0jaqCA9uOD4Y.jpg"
+    },
+    {
+      "name": "No Escape Room (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP0mfM0MafLVMD36kgbvZpr9gbz.jpg"
+    },
+    {
+      "name": "Enes Batur Hayal mi Gercek mi - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hs2N7o1tSfdN5uRX1jn8sR18EGn.jpg"
+    },
+    {
+      "name": "Elliot: The Littlest Reindeer (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufcYhMgXtdL3OQBdR3G3p23pBni.jpg"
+    },
+    {
+      "name": "El Degmemis Ask - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/8lIt33IKoLfyiGfBeaJf2GPhInf.jpg"
+    },
+    {
+      "name": "Eksi Elmalar - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qeSM2hY8K3NEs0IeO5mHgQz6bap.jpg"
+    },
+    {
+      "name": "Eighth Grade (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg"
+    },
+    {
+      "name": "Dünyanın En Güzel Kokusu (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oD2UyzAviX1N4GGEcneDpIyxSKe.jpg"
+    },
+    {
+      "name": "Dusman Kardesler - Freres ennemis- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mo9qdzENQLzdqLnbqAlDP4Vou0T.jpg"
+    },
+    {
+      "name": "Dursun Cavus - 2014",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/6rVfrNgZZ0ckrmcA2d5aMuRrxXC.jpg"
+    },
+    {
+      "name": "Durante la tormenta- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hmhYM1CNBhpWTYjUEZ4leQDmIYw.jpg"
+    },
+    {
+      "name": "Durak - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Dünyanın En Güzel Kokusu 2 (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6h86GqYIpgKjiPsz6S7CE7kCf.jpg"
+    },
+    {
+      "name": "Dugum Salonu - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/gUP5PNxCOBgfy87lXo6oGYqxyTl.jpg"
+    },
+    {
+      "name": "Drunk Parents (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwFaM56RH2gZYdPZgnVyVABYedR.jpg"
+    },
+    {
+      "name": "Dragged Across Concrete- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/dQ9EkVyPYJNVCfP5jWXRe4faUFA.jpg"
+    },
+    {
+      "name": "Dönerse Senindir (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgeX1LwkO03rYlavaHOMrMAo7CG.jpg"
+    },
+    {
+      "name": "Dogman (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaZq1G8sJHv9f9a5IzioQlS3REX.jpg"
+    },
+    {
+      "name": "Direniş Karatay (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2Mt1m3JITS90QM7NZJQbTIOk2I.jpg"
+    },
+    {
+      "name": "Dipdip Bir Okyanus Macerasi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mShTMzDNfHgTgA3N81TEefL0EMv.jpg"
+    },
+    {
+      "name": "Die Maske- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg"
+    },
+    {
+      "name": "Devrim Arabalari - 2008",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1FUuUG7bY8QIfoWSVLV7pofVf7q.jpg"
+    },
+    {
+      "name": "Detective Pikachu Pokemon - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg"
+    },
+    {
+      "name": "Destination Wedding (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg"
+    },
+    {
+      "name": "Deniz ve Gunes - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/o35QkaL5NRmkJVbHcIBf2HaMAQg.jpg"
+    },
+    {
+      "name": "Deli ve Dahi Full - The Professor and the Madman - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Deli Ormanli - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Deliha 2 (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBFH41dB1452KMDTAezAjFD5rKO.jpg"
+    },
+    {
+      "name": "Deli Dumrul (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddauSJkh4uBN7M2BbERcRcEvN61.jpg"
+    },
+    {
+      "name": "Degistir Bakalim - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/y90rpD4edJqSu7sdydBCMYKeESX.jpg"
+    },
+    {
+      "name": "Dedemin Fişi (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWglnWnzZOSPKU58Qo2ZVMUb3py.jpg"
+    },
+    {
+      "name": "Dede Korkut Hikayeleri: Bamsi Beyrek (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu9pTKDPASd44H5NY83G2U2BhQ5.jpg"
+    },
+    {
+      "name": "Deccal 2 (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O6BlaBM4pUmyL6ng1rCyq2Ar5T.jpg"
+    },
+    {
+      "name": "Death Race - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg"
+    },
+    {
+      "name": "Deadwood - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/fCQ13cqd02dop7Chkov0fPl4r3t.jpg"
+    },
+    {
+      "name": "Davetsiz (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1k3f2Q47gqDWL2bIg4l0guYGGtY.jpg"
+    },
+    {
+      "name": "Darrow & Darrow 2- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nwl7xvAO4wbGDTSmtAL7h6OmfU9.jpg"
+    },
+    {
+      "name": "Dargın Kuzenler (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKzlZgEHao7HDtX6ClkBpi0l6S4.jpg"
+    },
+    {
+      "name": "Darbe (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UM8xry5UzJbYefVlZDAic9wYbk.jpg"
+    },
+    {
+      "name": "Damat Takimi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nybzhRKbQMvvPwvoB81SUSLf87J.jpg"
+    },
+    {
+      "name": "Damat Kogusu - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3crdXi41BJtc2SaSIWkfP70y6Uz.jpg"
+    },
+    {
+      "name": "Dadas - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Cumali Ceber 2 (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdR5ya9nONK6K35ZuclK81GMeJN.jpg"
+    },
+    {
+      "name": "Cuce Dedektif Serlok - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg"
+    },
+    {
+      "name": "Crypto (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg"
+    },
+    {
+      "name": "Critters 5 - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/iQJQNElDQqQ3iXf46pyMmhReoyp.jpg"
+    },
+    {
+      "name": "Cold Blood Legacy - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/uGMIxhhMvQEE0mNlATXpEAG4mgl.jpg"
+    },
+    {
+      "name": "Çocuklar Sana Emanet (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2p8RpYjiZY6NomyzPtlsOq3AdNA.jpg"
+    },
+    {
+      "name": "Close (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kjUGqPIv6kpxJUvjmeQX7nQpKd.jpg"
+    },
+    {
+      "name": "Clickbait (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wqb3jSlQAq3nBkpk1jkzNxN0nb.jpg"
+    },
+    {
+      "name": "Ciplak Vatandas - 1985",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mofgrvRQ41WomkXFNnBoVpFUTyR.jpg"
+    },
+    {
+      "name": "Cin Tepesi - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hm1fgzZBFc0JO8OU4IqDvyCv7BQ.jpg"
+    },
+    {
+      "name": "Cingöz Recai (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLn4GYsJSl9jtWz6dOlstq2GRMP.jpg"
+    },
+    {
+      "name": "Cinderella (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU671OvIwJLdHjS9GiKhRpdEe4o.jpg"
+    },
+    {
+      "name": "Cilgin Hirsiz 3 - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg"
+    },
+    {
+      "name": "Cilgin Hirsiz 2 - 2013",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/oyMPJJZoOpLHgJoFPUOn6DgkbWJ.jpg"
+    },
+    {
+      "name": "Cilgin Hirsiz - 2010",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg"
+    },
+    {
+      "name": "CiciBiciler Vahsi Doga - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/xBFONzKumCg2Iufoh2EhJXBFvAp.jpg"
+    },
+    {
+      "name": "Cicero Yerli Sansursuz- 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Cicek Abbas - 1982",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/bWmzV0RNVYXAHXvl2CvAmjbH5kI.jpg"
+    },
+    {
+      "name": "Chimera Strain (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ksNuAeuVf5Oxwj0Y6lCwYotD1P.jpg"
+    },
+    {
+      "name": "Çetrefilli (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/727qCzZHR5DoTVasnd8XrBkJmEG.jpg"
+    },
+    {
+      "name": "Çetin Ceviz 2 (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUvUpede3hU0VuLtJsfhm3nPO3j.jpg"
+    },
+    {
+      "name": "Cenaze Isleri - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/gLTC4rEkZ2w8mQQDnpm9ixmMhyi.jpg"
+    },
+    {
+      "name": "Cebimdeki Yabanci - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1iWCVSE8nXpSZ3EnAGuPz3Bp6WH.jpg"
+    },
+    {
+      "name": "Ceberrut (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfdigQNd1S4yBUHyAe0cIvMWYhl.jpg"
+    },
+    {
+      "name": "Capt\\'n Sharky- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/gzzLxFHwbuc0T9KfhAMZkarwUZd.jpg"
+    },
+    {
+      "name": "Capharnaum Full- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Can Feda (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufCJQavVWW21oRPZi4wz1KF8tTW.jpg"
+    },
+    {
+      "name": "Can Dostlar- 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7oGKezkwWcwL3Q0M2S8p16suJZL.jpg"
+    },
+    {
+      "name": "Canavar Gibi Turk Isi Frankestayn - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qnWbwMxNuNIi5NWLO55DY23lhJl.jpg"
+    },
+    {
+      "name": "Çanakkale: Yolun Sonu (2013)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zplFjv7n0TGgCkMo4Q60qsbNLyT.jpg"
+    },
+    {
+      "name": "Cam Yarmasi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/tAh6pVF3ak56Fv98wfowDQjLNp.jpg"
+    },
+    {
+      "name": "Calgi Cengi Ikimiz - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7HwfW2l8HyKEN6CDbhcFl8XlOTg.jpg"
+    },
+    {
+      "name": "Çakallarla Dans 4 (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWuIDnnVlEOhTQu43P9NdbsZuUK.jpg"
+    },
+    {
+      "name": "Cakallarla Dans 3 Sifir Sikinti - 2014",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7fNAIanGhqUUMyBVymDuuUn7JRP.jpg"
+    },
+    {
+      "name": "CagrÄ±lan - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Börü - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/OGabWhuHqTzVrJQ2eHfazmgHZi.jpg"
+    },
+    {
+      "name": "Butun Saadetler Mumkundur - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/4mLfbOr50ZjtIRZPBQeo9AtOPjv.jpg"
+    },
+    {
+      "name": "Burning- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hxGv1O2W5SOJTmiBc45CL842mrx.jpg"
+    },
+    {
+      "name": "Bumblebee (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg"
+    },
+    {
+      "name": "Bu Iste Bir Yalnizlik Var - 2013",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/rL7fm3A3m43piaGrQk4RYvMQqEk.jpg"
+    },
+    {
+      "name": "Breakthrough (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/85BfZAYh4zC1U6NBz2ZkXb3y67v.jpg"
+    },
+    {
+      "name": "Boşu Bir Yerde (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/37eAvcozCxN8M0vAa2WbiN4dohn.jpg"
+    },
+    {
+      "name": "Borç- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/yFQAi1oChh99WHmtsfY9GXRXWUj.jpg"
+    },
+    {
+      "name": "Bordo Bereliler Suriye (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsGaeKHjk9kNOL4PTor3hBaz9Zb.jpg"
+    },
+    {
+      "name": "Borc Harc - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7c2AHwVme4xbNb5lPrvMVbIwtVP.jpg"
+    },
+    {
+      "name": "Boonie Bears: The Big Shrink (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SHjHTSbbl9bWe4dFCignISpGEA.jpg"
+    },
+    {
+      "name": "Boluk - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Bold Pilot- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wlbdp77MMh1R0TWRZjsYGQTLIVb.jpg"
+    },
+    {
+      "name": "Blue Night- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/j0Kr99KebJUSlNMtVruC0fN2hUf.jpg"
+    },
+    {
+      "name": "Blindspotting (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4UvwoMmQiztTqeUnExDU5hoCdP.jpg"
+    },
+    {
+      "name": "BlacKkKlansman (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg"
+    },
+    {
+      "name": "Bizum Hoca - 2014",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ypGIoHbCrrPgCO1ZntKxr6iQoKX.jpg"
+    },
+    {
+      "name": "Bizim Koyun Sarkisi - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/2JOjzYTeJMOUuRDuQCkXdoqTeuQ.jpg"
+    },
+    {
+      "name": "Bizi Hatirla (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBZttDgNpaM4B39FDFeIjcu8BuT.jpg"
+    },
+    {
+      "name": "Bizans Oyunlari - Geym of Bizans - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qsk4vQaQtMhG9b8kp7pd48pysa4.jpg"
+    },
+    {
+      "name": "Bizans Oyunları (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bGA3jhJlniL6EoZQ5kdJ4N358L.jpg"
+    },
+    {
+      "name": "Bittin Sen (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj4DK8kyZTLSlY2YmyYNo0JZ7JJ.jpg"
+    },
+    {
+      "name": "Bir Nefes Yeter (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/meHe8MgQiYIWyfZYzzMqPQLCnyp.jpg"
+    },
+    {
+      "name": "Birlesen Gonuller - 2014",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/tQOi2RNte2FEqXLwizmY5DvnRPO.jpg"
+    },
+    {
+      "name": "Bir Damla Aşk (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC8tmLfKSKKQC376ozarwJNwe8m.jpg"
+    },
+    {
+      "name": "Bir Bucuk Polis - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7oxV17djCcUE2xFgrL5YE7RedX.jpg"
+    },
+    {
+      "name": "Bir Baba Hindu (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzNliU2fx8Ou4vfQjvzjevcYT60.jpg"
+    },
+    {
+      "name": "Bir Aşk İki Hayat (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZN3SJiMQiLHGzukQcgIH1WfpEs.jpg"
+    },
+    {
+      "name": "Bi O Kalmisti - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vHc7VrA3SM2XXkR4oC1VTbLWIYW.jpg"
+    },
+    {
+      "name": "Beyaz Melek (2007)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbTORQrOAy6DTcwgTBG0oa7VA1k.jpg"
+    },
+    {
+      "name": "Bernie the Dolphin (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc2emcyFQVsnCrTwH5MdZiJeRcx.jpg"
+    },
+    {
+      "name": "Berlin Kaplanı (2012)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6894gV9WOpuqs9EbMuSxXJSIvE9.jpg"
+    },
+    {
+      "name": "Benzersiz (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGQuzNkwyHmxcDq5751PekvY9Or.jpg"
+    },
+    {
+      "name": "Benim Dünyam (2013)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSfVrYiUMeriPWC710su8SjrN5W.jpg"
+    },
+    {
+      "name": "Benim Babam Bir Melek (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWOhBqC02Mfyy93hRStXTpdn026.jpg"
+    },
+    {
+      "name": "Bende Kal - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Bel Canto (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pRvnOhFdANmdzDXfuLlZV9jwSb.jpg"
+    },
+    {
+      "name": "Belalılar (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBLsGQE7gFIZfnK9fDW1lAgysHV.jpg"
+    },
+    {
+      "name": "Beceriksiz Katil (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1mopcockfQPg1vmEaPPVURDrd6.jpg"
+    },
+    {
+      "name": "Bebek Geliyorum Demez (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKtzKpLDaZm9Njl23Kv1gBRZIqk.jpg"
+    },
+    {
+      "name": "Beats (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8P13nIvkkizVBzd2RpegsRt5zP.jpg"
+    },
+    {
+      "name": "Battle (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfGhtAX7xe7W0ZgEcM2n6tnxgc0.jpg"
+    },
+    {
+      "name": "Batman Gotham\\'in Gaz Lambalari - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7souLi5zqQCnpZVghaXv0Wowi0y.jpg"
+    },
+    {
+      "name": "Batman: Hush (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg"
+    },
+    {
+      "name": "Basimiz Belada - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/8mIPkV0abPurDQ2tflLAe6DGS8v.jpg"
+    },
+    {
+      "name": "Bana Git De (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/13sO8nkPp2iFTDGtDpsCTNXVMAX.jpg"
+    },
+    {
+      "name": "Balkanskiy rubezh- 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/okiB4NUriKKbGjAtVSzveicPTtu.jpg"
+    },
+    {
+      "name": "Balik - 2014",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Bajrangi Bhaijaan (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4v1UPQJy3YL3A2YCg2MrVLgamj8.jpg"
+    },
+    {
+      "name": "Bahtiyar Bahtıkara (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9DmPB1bgTonWFefM4mVYXe09N5.jpg"
+    },
+    {
+      "name": "Bad Samaritan (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOG5Cj9URclWa0zyESPBuRCvAFh.jpg"
+    },
+    {
+      "name": "Bad Police- 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/k4QPUYRupu7Jv8ZWS9hiLw5OuhB.jpg"
+    },
+    {
+      "name": "Badem Şekeri 4 (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kldcoBpPFftACqJYVt8o16JdV4R.jpg"
+    },
+    {
+      "name": "Babam ve Oglum - 2005",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ephCcqJYZFUnkQC7Oudah2qUL6O.jpg"
+    },
+    {
+      "name": "Baba Mirası (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/73Fbk3iGLNtHaZORVBYmfQhvzxN.jpg"
+    },
+    {
+      "name": "Babamin Kanatlari - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/4jam6ORO6UfADG0HtCGutgHJPTc.jpg"
+    },
+    {
+      "name": "Babamın Ceketi (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7FT1fDyzBLqmG7qVUJWQ7ch8Gz.jpg"
+    },
+    {
+      "name": "Babaların Babası (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSusydXBkGIeUVbIozrZ42Q8PK4.jpg"
+    },
+    {
+      "name": "Azem 4: Alacakaranlık (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AibyTJWIZiODBbL0bkvqu5zl9EC.jpg"
+    },
+    {
+      "name": "Ayrilik Acisiyla Bas Etmek - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ngKYg4hgBlVvjg3NF4Z4xqArT4Z.jpg"
+    },
+    {
+      "name": "Ay Lav Yu Tuu (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgoCKMLSgj6cYir5Ze6VsCKFU4D.jpg"
+    },
+    {
+      "name": "Aykan (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUdV5cnPi391MymTaBSaWKMgLgY.jpg"
+    },
+    {
+      "name": "Aydede (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvhKIUBsbX0v6vjCHRTzyDoK4dh.jpg"
+    },
+    {
+      "name": "Atçalı Kel Mehmet (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWWSmq47XTTCBZy7Y9xCv65wGG0.jpg"
+    },
+    {
+      "name": "A Star Is Born (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
+    },
+    {
+      "name": "Asli Gibidir - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/11rXKsHUs917KKng8FbY2V3iHob.jpg"
+    },
+    {
+      "name": "Aşk Uykusu (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUWfpLaLGDhSfRrAAiBVVboITEx.jpg"
+    },
+    {
+      "name": "Aşk Olsun (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vKO3hLFyKi3AKOSr2M9dDaMgnt.jpg"
+    },
+    {
+      "name": "Ask Masali - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9Vb9UDOVXSoN9N7YWzIaSpJZg13.jpg"
+    },
+    {
+      "name": "Askin Goren Gozlere Ihtiyaci Yok - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vBCLzOugMsMr2otLs0qYBBNxgAW.jpg"
+    },
+    {
+      "name": "Askin Bes Hali - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Ask Bu Mu? (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C4KmYpWOagIXHvHGbR8RwFxAuf.jpg"
+    },
+    {
+      "name": "Arkadaşlar Arasında (2013)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW3Q0OPrdDe1WOqkaR0gpEiud99.jpg"
+    },
+    {
+      "name": "Arif V 216 (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioHlvY7dlbZQLLmo7CRyy28B6sC.jpg"
+    },
+    {
+      "name": "Arapsaçı (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcP0xgA5u07vlLWhkpeVsyLXQhP.jpg"
+    },
+    {
+      "name": "Arama Motoru - 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Arada Yerli- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "A quien te llevarias a una isla desierta- 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/19yUi8HkQbyKLjdt9ab2U9ZUFmk.jpg"
+    },
+    {
+      "name": "Aquaman (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLPffWMhMj1l50ND3KchMjYoKmE.jpg"
+    },
+    {
+      "name": "A Private War (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAh6uDR9bBznybiJCVYZNJmjg63.jpg"
+    },
+    {
+      "name": "And: Geçmişin Bedeli (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27RCPmDMdMQG8Kb9deusEpD2754.jpg"
+    },
+    {
+      "name": "And Breathe Normally (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYoOX37zNCHWZMg6s0dRpVrkyU.jpg"
+    },
+    {
+      "name": "Anaokulu Ogretmeni - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pwavkdZb2xNRh5Y9MHhkZJ2UaHT.jpg"
+    },
+    {
+      "name": "Anamız Var (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VkuuL07DlE5ctpNpm1p5mh7Q4C.jpg"
+    },
+    {
+      "name": "Anadolu Kartallari - 2011",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/keovFHBEEJNOoBppsTvP5YvG6mO.jpg"
+    },
+    {
+      "name": "Amerikali Kiz - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vxrYNN7NwMweBG8BPHxhItFVSir.jpg"
+    },
+    {
+      "name": "American Made (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg"
+    },
+    {
+      "name": "Always Be My Maybe (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BO6pPa7qDcpPYct061Luh9fvst.jpg"
+    },
+    {
+      "name": "Alpha (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/afdZAIcAQscziqVtsEoh2PwsYTW.jpg"
+    },
+    {
+      "name": "All About Nina (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcOV7ALpm0CiIyeTxP3Ncjrc7HA.jpg"
+    },
+    {
+      "name": "Alita: Battle Angel (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg"
+    },
+    {
+      "name": "Ali Kundilli 2 (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uy8ne5u23MZ62157D8eiHDgxLb.jpg"
+    },
+    {
+      "name": "Ali Baba ve 7 Cuceler - 2015",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/x5o8vK2BJlXU8qtgNoNNIObJ1rw.jpg"
+    },
+    {
+      "name": "Alfa Kurt - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/afdZAIcAQscziqVtsEoh2PwsYTW.jpg"
+    },
+    {
+      "name": "Ailecek Saskiniz - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ulvZA5VSMCs2msRXiC1UtClBhYA.jpg"
+    },
+    {
+      "name": "In the Family (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxA6UjZqRX1LFCQ6kgjpbCCP3JI.jpg"
+    },
+    {
+      "name": "Ahlat Agaci - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/s7kGE1MChkHD5VX8sv7SOGabGMZ.jpg"
+    },
+    {
+      "name": "Aglak Arif - 2019",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "Against the Clock- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "After (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg"
+    },
+    {
+      "name": "A Fortunate Man (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/394BkiPZ5h3IceM5wuZXt3t3g1C.jpg"
+    },
+    {
+      "name": "A Dog's Journey (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wquJChp0NpoqthYdE3YjXNNxvVC.jpg"
+    },
+    {
+      "name": "Adam ve Çocuk (2016)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/stNjMektF7VBxmWb6MUX08HjvHb.jpg"
+    },
+    {
+      "name": "Adalet 2 - 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg"
+    },
+    {
+      "name": "Aci Tatli Eksi - 2017",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/81kt2NES2LBx485Ftj63zEX6Aml.jpg"
+    },
+    {
+      "name": "A Christmas Carol (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdcxUe43hmgp9MGiL8LpIaDzaHj.jpg"
+    },
+    {
+      "name": "A.R.O.G (2008)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/epeAdevCGBh2rBmE9Pht3cCttvx.jpg"
+    },
+    {
+      "name": "A.I. Rising (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXosp6MFBxYi4m6ZmE4u1auReHc.jpg"
+    },
+    {
+      "name": "A-X-L (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg"
+    },
+    {
+      "name": "2036 Origin Unknown (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg"
+    },
+    {
+      "name": "15 August (2019)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljlTv2QEr7veniFMGADrzSgpmAy.jpg"
+    },
+    {
+      "name": "10x10- 2018",
+      "group": "TR - Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "7 Emotions (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLD7MvZUQR1BsaT55M5FcefTBzt.jpg"
+    },
+    {
+      "name": "4N1K 2 (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/usZhPpdh1dU0Av9VNWovvTojzqD.jpg"
+    },
+    {
+      "name": "4N1K (2017)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uUj0l7TPuzZToomlwltuUkI74g.jpg"
+    },
+    {
+      "name": "4Got10 (2015)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xbjVErtO1VGWWL8MD7GX0j5llg.jpg"
+    },
+    {
+      "name": "3 Vakte Kadar (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzGyK0CEYKtEqIe0UGz6b6Wcpq3.jpg"
+    },
+    {
+      "name": "3 Faces (2018)",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/clpmeXLRg65zGGP1zoyYOLIakQG.jpg"
+    },
+    {
+      "name": "VOD- Siccin 3 2016",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/kUZJoSDQ42ccWUjNU9k69c56aMg.jpg"
+    },
+    {
+      "name": "TR: Winter Sleep 2014",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg"
+    },
+    {
+      "name": "TR: My Father and My Son",
+      "group": "TR - Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MZYwUWJhLADpExD2zMj4uINeFM.jpg"
+    }
+  ]
+}

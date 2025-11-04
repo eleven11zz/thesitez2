@@ -1,0 +1,253 @@
+{
+  "package": "german",
+  "name": "DE - Entertainment - Live.",
+  "groupIndex": 21,
+  "totalChannels": 49,
+  "channels": [
+    {
+      "name": "⭐⭐⭐ Entertainment ⭐⭐⭐  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/entertainment.png"
+    },
+    {
+      "name": "DE : RTL HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtl.png"
+    },
+    {
+      "name": "DE: 13 Street HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/96691181321.png"
+    },
+    {
+      "name": "DE: 3SAT FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/3sat.png"
+    },
+    {
+      "name": "DE: ARD Alpha HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/ardalpha.png"
+    },
+    {
+      "name": "DE: BR Fernsehen HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/fernsehen.png"
+    },
+    {
+      "name": "DE: Comedy Central FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentral.png"
+    },
+    {
+      "name": "DE: DAS Erste FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/daserste.png"
+    },
+    {
+      "name": "DE: DAS Erste HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/daserste.png"
+    },
+    {
+      "name": "DE: Heimat Canal HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9670567907.jpg"
+    },
+    {
+      "name": "DE: Heimatkanal HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/heimatkanal.png"
+    },
+    {
+      "name": "DE: HR Fernsehen HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/fernsehen.png"
+    },
+    {
+      "name": "DE: Hse24 Extra HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/hse24extra.png"
+    },
+    {
+      "name": "DE: Kabel 1 HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/kabel1.png"
+    },
+    {
+      "name": "DE: Kabel EINS Classics HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/kabeleinsclassics.png"
+    },
+    {
+      "name": "De: Kabel Eins FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/kabeleins.png"
+    },
+    {
+      "name": "DE: MDR Sachsen-anhalt HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/mdrsachsenanhalt.png"
+    },
+    {
+      "name": "DE: Munchen TV HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/munchentv.png"
+    },
+    {
+      "name": "DE: NDR HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/ndr.png"
+    },
+    {
+      "name": "DE: NOW HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/now.png"
+    },
+    {
+      "name": "DE: ORF 1 HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/orf1.png"
+    },
+    {
+      "name": "DE: ORF 2 HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/orf2.png"
+    },
+    {
+      "name": "DE: Pearl.TV SHOP HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/pearltvshop.png"
+    },
+    {
+      "name": "DE: PRO 7 FUN HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/pro7fun.png"
+    },
+    {
+      "name": "DE: PRO 7 MAXX HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/pro7maxx.png"
+    },
+    {
+      "name": "DE: Prosieben FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/prosieben.png"
+    },
+    {
+      "name": "DE: Prosieben MAXX HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/prosiebenmaxx.png"
+    },
+    {
+      "name": "DE: rbb fernsehen Berlin FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rbbfernsehenberlin.png"
+    },
+    {
+      "name": "DE: Romance TV HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/romancetv.png"
+    },
+    {
+      "name": "DE: RTL 2 HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtl2.png"
+    },
+    {
+      "name": "DE: RTL Crime HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtlcrime.png"
+    },
+    {
+      "name": "De: RTL FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtl.png"
+    },
+    {
+      "name": "DE: RTL II HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtlii.png"
+    },
+    {
+      "name": "DE: RTL Living FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtlliving.png"
+    },
+    {
+      "name": "DE: RTL Nitro HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtlnitro.png"
+    },
+    {
+      "name": "DE: RTL Passion HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtlpassion.png"
+    },
+    {
+      "name": "DE: RTL PLUS HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtlplus.png"
+    },
+    {
+      "name": "DE: RTL Zwei FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtlzwei.png"
+    },
+    {
+      "name": "DE: Rtlup HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/rtlup.png"
+    },
+    {
+      "name": "DE: SAT 1 Emotions HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/sat1emotions.png"
+    },
+    {
+      "name": "DE: SAT 1 FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/sat1.png"
+    },
+    {
+      "name": "DE: SAT 1 GOLD HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/sat1gold.png"
+    },
+    {
+      "name": "DE: SAT 3 HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/15445648381.png"
+    },
+    {
+      "name": "DE: SRF 1 HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/srf1.png"
+    },
+    {
+      "name": "DE: SWR HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/swr.png"
+    },
+    {
+      "name": "DE: VOX FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/vox.png"
+    },
+    {
+      "name": "DE: Voxup HD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/voxup.png"
+    },
+    {
+      "name": "DE: ZDF FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/zdf.png"
+    },
+    {
+      "name": "DE: ZDF NEO FHD  (101-SERVERS)",
+      "group": "DE - Entertainment - Live.",
+      "logo": "https://logo.m3uassets.com/zdfneo.png"
+    }
+  ]
+}

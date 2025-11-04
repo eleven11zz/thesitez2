@@ -1,0 +1,23 @@
+{
+  "package": "world",
+  "name": "LB - Libya - Live.",
+  "groupIndex": 163,
+  "totalChannels": 3,
+  "channels": [
+    {
+      "name": "LB:  218 TV HD  (101-SERVERS)",
+      "group": "LB - Libya - Live.",
+      "logo": "https://logo.m3uassets.com/218tv.png"
+    },
+    {
+      "name": "LB: AL Hadath HD  (101-SERVERS)",
+      "group": "LB - Libya - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/52553161641.png"
+    },
+    {
+      "name": "LB: Jamahiria TV HD  (101-SERVERS)",
+      "group": "LB - Libya - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/3e49f9fc153aa0a601623c8476310388.png"
+    }
+  ]
+}

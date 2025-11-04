@@ -1,0 +1,593 @@
+{
+  "package": "world",
+  "name": "HU - Thriller Movies",
+  "groupIndex": 352,
+  "totalChannels": 117,
+  "channels": [
+    {
+      "name": "HU: The Client (1994)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWQzNGEyODctZGY4My00ZjA3LWI0OWUtMWQ3NzVkMzQyN2ZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Death Sentence (2007)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzY4Yzc5MjgtNWU5ZC00MzhiLTg0ZDQtNjM1ZWRjYzZhY2NhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: As Good as Dead (2010)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM1MTA5NzA2NF5BMl5BanBnXkFtZTcwNDg3Njc1Mw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: A Sacrifice (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGQ1M2UzNzEtMzQ4Ny00NWVjLTg0YmMtZGVkYzNkMjM5MzM2XkEyXkFqcGc@._V1_QL75_UX147_.jpg"
+    },
+    {
+      "name": "HU: Flightplan (2005)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGQyZmQ1OGItYWNkNi00YzU4LWJmZjktNTQyZjNlOGNmNWJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Breaking (2022)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODA2NjJhZWMtOGIwOC00NGI2LWFlMmEtMmQ2YzVhN2VlYzgzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: An Honest Life (2025)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmVkM2NhMTEtZGY3NC00NTU0LTllODQtMDQyOGZiYjk1NzE3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Moneyball (2011)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Brick (2025)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGRjZTI5NmEtNWQzNi00ZDUxLWFmZmQtOGFiZmNkZGY1MDc5XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+    },
+    {
+      "name": "HU: The Sum of All Fears (2002)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDcyNGIyYWQtZDI2OS00YTU3LTg3OTItMDM2ZTIzZmFkMGYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Amateur (2025)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjhkZjM3ZWYtMjUxMS00YzhlLTkxZWYtMzhkMzFhOTQ1NjRkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Black Bag (2025)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzA1OWU4NDMtMDUxMC00NWI4LWJhYjUtYWQ0OGQ5MTc2NDRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Valkyrie (2008)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Drop (2025)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWUyOTNlMjItNWUyZC00ZGJiLTg3MDMtODJmMGQyMGY3NzU3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Collateral (2004)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Drop (2014)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGNlMDM4ODUtZjYxMy00MjkxLThjNGQtYmM3MDZiMWRkMmNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Now You See Me II (2016)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTVjNTA0ZWEtNzU2Ny00Njg1LWE1MmEtZTUyZGQzYTVlY2Q5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Now You See Me (2013)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Endless Summer Syndrome (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTczZDRmNWItZDcyMy00MDJlLTliYmYtNGVlMzIwMTMwOGVhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Da Vinci Code (2006)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Butterfly Effect (2004)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDk0ZDJiODEtNWM2ZC00OWYxLWExN2YtNTFlNjI4NTVmZmZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Eileen (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGNjMzc3ZWMtODc0MS00MWU3LTkxMDMtMjQ4MjhkZmRmNzMwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Angels and Demons (2009)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEzNzM2MjgxMF5BMl5BanBnXkFtZTcwNTQ1MTM0Mg@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Primal Fear (1996)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTJlYjM5MTYtZWU3YS00ZDRhLTk1MWEtZGQyODc1ZDU2MWEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Love Lies Bleeding (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWUxZTliMDgtOWVkZS00MjkwLWI5ZWUtNTZmMjhlYTFlN2I5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Get Carter (2000)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkzMDk3Njg3NF5BMl5BanBnXkFtZTYwNTIzMzU3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Where the Crawdads Sing (2022)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGM5ODU5YTktMGUxYi00YjQyLTk0MzgtZTg0MWQ2NDg0YTA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Generals Daughter (1999)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmZiZjk0OTQtZDhiNS00YzRjLWJmOWItZjM3ZGI4NDU5NDE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Exterritorial (2025)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjVkMzI2MjAtYzA3NC00OGE1LWEyZDMtODc0YTc5NTZjYzFiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: You Cant Run Forever (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmI4YWY1YzktOWQzYy00NDE2LWEzOTYtNDE5ZjNjODY5ZWM2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Slingshot (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWQyZGNlODctNGFkOC00NzNlLTk1YTItZDgzMDc1OGZiMjlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Sleeping Dogs (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTViZDg5MTQtNzA3MC00OTlkLWEwYzAtODY2MWVlY2Y4NGY3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kontroll (2003)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA3Nzk5MTE4Nl5BMl5BanBnXkFtZTcwMzEwODgyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Deep (1977)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzg4YzgxOWItYjM5OC00ZDE2LWI2ZDUtZjhmN2U5NjQ3MDdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Children of Men (2006)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: A Haunting in Venice (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTgwODdhZTMtYTFiNy00NzI1LTkwZWEtNjI2NWZiMzFmMjJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Impossible (2012)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjM1ZTJkMjctY2M0ZC00ZTkyLTliYTktNzYxYWIzYTAyOTRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Outbreak (1995)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGYxY2Q0YzUtMmE3OS00ZmQ5LWFiOGUtZDZmNTJlM2YyZjJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Knowing (2009)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTMyMjgyMDIyM15BMl5BanBnXkFtZTcwNjg3MjAyMg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Contagion (2011)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY3MDk5MDc3OV5BMl5BanBnXkFtZTcwNzAyNTg0Ng@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Tourist (2010)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTMyMzc3OTkwMV5BMl5BanBnXkFtZTcwMjc0MTgwNA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Prestige (2006)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg"
+    },
+    {
+      "name": "HU: The Game (1997)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGUzNzQwNmMtNzI3Mi00ZDIwLWJlM2ItMTA5N2Q2ZDMxMjJiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Oldboy (2003)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Never Die Alone (2004)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQzMDE4MzM2NF5BMl5BanBnXkFtZTYwMDM1MDA3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Memento (2000)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmQ3MjliNjAtNWFiZS00YWI1LTlmZTktMzBiNDE1NjRhZjU0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Match Point (2005)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ1NzQ4OTM4MV5BMl5BanBnXkFtZTcwNzY2OTQzMw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Irreversible (2002)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTE2MWM1NTgtMGVjMy00ZGU2LWE4YTUtNTRlNWRhZWE2NmM0XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    },
+    {
+      "name": "HU: Flight (2012)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Alto Knights (2025)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjk2MDg4ZDgtZjkxMC00NmRkLTg0NDEtNDY5NTIxYWYyMWU3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Inferno (2016)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Copycat (1995)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2ZiODRlYWMtOGViYS00ZTNiLTlkMGQtZTAxY2IyMDAzYzU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Conclave (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: A Simple Favor (2018)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmM4MGFkMTItNzI1ZS00ODZlLThjYjktMTQyYmQzM2M2M2Y3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Millers Girl (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTM0NWEyYjItYjYzNy00MzY5LTg0ZDQtNjFhMzViYzdhY2FkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Night Hunter (2018)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDU1NmIwNTItYjdhMC00OTZlLTk0NWMtYTNlNmE0NjgyOWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: First Reformed (2017)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTRkOTUxZDItNDU0OC00ODQzLWJkMWEtYjBiODViNGMyYjhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Basic Instinct (1992)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWYwYmQzYTctMjg5Ni00NWZkLWI5NzItZGFjMDM2NDkyNGZlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Vanilla Sky (2001)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTg5YmYyMzAtYmEzZi00MzA2LWIxMTMtZTc1N2ZjNTA3ZDU2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Bank Job (2008)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmQ5OTkxZDMtYTAxYS00OWE1LThhMWItYjdlYjJmNWZlNWU5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Mothers Instinct (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDcwMDRhZjQtNTU0YS00YmZlLTk4ZWEtNWMyOTE2ZDI0NWUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Instinct (1999)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGUyOTVkMDQtYzFjNy00MDVkLThlOWEtMTkwNzY4MjY3ZjI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Following (1998)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjZiMTI5OGItZWJhMC00OGRiLTk1NzAtYmNmZTM0MzFmNGM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Cleaner (2007)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDAzMGU2ZWItNDJiOS00MjgxLWJlOTMtOTc5MTlkMGI3Njg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Aftermath (2017)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDMxMDJlY2QtNmM5NS00ZTlkLTllNjgtODNlYzI2NTE0NDVjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Killer Night Shift (2018)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjYwYTIyNjAtMjVkNi00MGRjLTljZDMtODM2N2VmZmNhNTYwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Stanford Prison Experiment (2015)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUyNDIyMTA4NV5BMl5BanBnXkFtZTgwODM2MDMxNjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Experiment (2010)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmMxZTZmNzktZTk1ZS00ODgyLWFlZTgtODlkMGY5YzhkZDJiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Experiment (2001)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGZlYzlkMjctN2U5Zi00OTQ1LTk2ZGMtYzMzYzYwMTY4MzFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Kiss the Girls (1997)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGMyYzdlYTUtNjcwNi00ZDE0LWEwNDEtN2EyMGE3OWM3Zjg0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Babygirl (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmUwODYwODAtYWZkZS00YmUwLWFmMWEtOGNjMjE2NDk3OWIwXkEyXkFqcGc@._V1_QL75_UX190_CR0,7,190,281_.jpg"
+    },
+    {
+      "name": "HU: The Social Experiment (2022)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWQwZTNjYjktYzE1OS00ZjNmLWE3YzctNjMyYWZiNzJkOTk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Out of Sight (1998)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2U3OGQ0NTMtNmQxYS00MmRiLTg2OTctZDI3ZjNjZjM5N2NlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Domestic Disturbance (2001)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTcxZjFlYjMtZjM3MS00NmI5LWFmZjctMjYxN2NkZTc0MWZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Holland (2025)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTJjZmE4Y2UtYzQ5OS00N2Y2LWEzYjEtNzhiMjA3YTlkMjdjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Layer Cake (2004)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTI5MTE1OTAzOV5BMl5BanBnXkFtZTcwNDc2OTgyMQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Hoodlum (1997)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGZlNDE0ZDUtZmM3Ny00M2Q4LWI5NzQtZGJhMWQ4Y2FiY2E3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Eastern Promises (2007)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcwMzU0OTY3NF5BMl5BanBnXkFtZTYwNzkwNjg2._V1_.jpg"
+    },
+    {
+      "name": "HU: American Gangster (2007)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Outfit (2022)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTY2M2U5OTEtNDljYS00MGQwLWI4YzQtOGJiMzUxM2IyYjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Reservoir Dogs (1992)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: My Name is Vendetta (2022)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODBiZDNmMDgtODQ3NS00NjFmLWIyNTEtMDFlZTA5MzNlYjU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Untouchables (1987)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjVlNTk3NGYtOWE0OC00MDI4LThlZWItZGMwMTdmYzcwM2Y5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Handmaiden (2016)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Searching (2018)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWUyNjQxMTEtZDUwNC00NmI5LTkzYzEtZGM1NGFhYTk1NGU3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Red Lights (2012)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQzMjYwNTc2M15BMl5BanBnXkFtZTcwMTY0Mjc4Nw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Parasite (2019)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Boiling Point (2021)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjM3MWE4ZDktNDMzNi00OGM0LWI0NzYtYWQ3OGFjNDNjOWMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: 2:22 (2017)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjg0MDEzNzktNmI2OC00YzIxLWJhOGQtZWQ5ODQ1OWQ3YTQ5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Gran Torino (2008)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Revelations (2025)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGU2YWNiMTgtMDdmMi00M2FjLWE1MmQtMDg3NTE3MzA1YWQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Knock at the Cabin (2022)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTk1YWIwZGYtNzAxOS00ZWMyLWI2ZGYtZTBjYjEyNDlmM2VlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Saltburn (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjk4NGE3MWItMDRhMy00YzhiLTk0MGUtZDlkNmQxYWIxYzc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Your Lucky Day (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU4NTgyYmUtMmQwMC00MjQxLTg3Y2MtZDdiNGYxNGNmZmU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Last Stop in Yuma County (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmVjZGZjOGItMjIxOS00MDI2LWEyNmMtMDVjZjQ1NmUzM2M3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Body of Lies (2008)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTgzOTY3MTM0OV5BMl5BanBnXkFtZTcwNjc5MTI5MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Phone Booth (2002)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjJhYTNhYmEtODcyOS00ZGEwLWEwZTYtNzlkMmY0MjQ1OWQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Infinite Storm (2022)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjg3YjIxNjgtYzg1MS00MzU1LWJhYzktYzgwNzZhNmUyNmYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Girls Night Out (2017)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2RjZDI0MTYtMGFmZC00ZDM4LTk4N2QtMmQ1YTZkYmNjMWZhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Trap (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzJiN2UyZjgtMjQ3MS00MDhhLTg5ZDItZmVjMTU3MTcwNzE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Prisoners (2013)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: No Country for Old Men (2007)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Mulholland Dr (2001)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Memories of Murder (2003)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Crimson Tide (1995)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTNhZDk2NmQtNDc3ZC00Nzk3LWFmNTctYTc0OWMyNGM0ZWYyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Gravity (2013)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Uncut Gems (2019)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmI0YjA5NjItYzExYi00NzkxLTkxNDctNGJjYTZhM2M0NDQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Count of Monte Cristo (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY4NTA3ZDYtMWVkYy00MGNkLTlmYzUtODQ5YjZlZTA3YjA5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Nightmare Alley (2021)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNThlMDUzMDEtOTY1ZC00MzI3LThlOGItYjI0MTdkZDliNDEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Knox Goes Away (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTY1ZDVhZTgtODg1MC00YWNkLWI4ODctMzZjZmE4NWVkN2Q5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Killers of the Flower Moon (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Juror II (2024)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM4YjA1NTItOWI3Ni00MzAwLThmMjMtNmM2MWY2Y2ZmOGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Juror (1996)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDVjZDlkZWMtZjg3Mi00OTc3LWI2YmYtMjYyZmVjZDRjN2E0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Inside Man (2006)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Inside (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWJkY2I3NWQtYWZiMC00MjFjLWIyOGItMjZlNWJkYmRiODdkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Anatomy of a Fall (2023)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Hangover III (2013)",
+      "group": "HU - Thriller Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTA0NjE1MzMzODheQTJeQWpwZ15BbWU3MDY4MTQ3Mzk@._V1_.jpg"
+    }
+  ]
+}

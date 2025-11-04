@@ -1,0 +1,1308 @@
+{
+  "package": "world",
+  "name": "HU - Action Movies",
+  "groupIndex": 342,
+  "totalChannels": 260,
+  "channels": [
+    {
+      "name": "HU: The Woman King (2022)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzM4ODY0NzctZDIyNC00MzE4LWI3NDYtYjIyYTUyZWFmYzJkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Commuter (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc0NDg1MjI4OV5BMl5BanBnXkFtZTgwMDIwMTEwNDI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Hounds of War (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGM4NTYxMjktOTIxMS00NTQ0LWI1ZjAtY2JmODM1YjgyNTUzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Erased (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM3MjQwNzE1OF5BMl5BanBnXkFtZTcwMDYyNDYyOQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Day of Reckoning (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTI4ZDFjODAtZDBjMC00ZTc4LTlhOWItMmUxZGUxNDZlYzM3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Thunderbolts (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDZlZDZkNzItMWI3My00ODBlLWFjZjUtNzI3MjZiNTdiYTY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Karate Kid Legends (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2MwYTlkY2MtNmUzNy00MTljLThjNDAtZGUzNzMxMzcxNzM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: High Rollers (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjQ3NmY4NjMtZmFlYy00YThmLWI2MGEtMWJjNWM1NmFiZDQzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Days of Thunder (1990)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjM0NjgwYjAtMjQ3Mi00NDY1LTgwMDktZGJkOGRkMTBkMDA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Drive (2011)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTFmNTFlOTAtNzEyNi00MWU2LTg3MGEtYjA2NWY3MDliNjlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Le Mans (1971)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmNmNjViZDYtZDhmOC00M2E5LWI2NmYtNDg2YWFhNzMxOWFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Mad Max Fury Road (2015)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Need for Speed (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzdkZWQ1ZGMtNTRjZS00ZjhhLTk5YjEtNDBiMDY3NzA0YjM0XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    },
+    {
+      "name": "HU: Ninja Assassin (2009)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcxNDYzMjU1Ml5BMl5BanBnXkFtZTcwMTYzOTM3Mg@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Italian Job (2003)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjJjNzc5YjAtZjU2Ni00ZjVkLTkzYmItM2E2NDM0NWE1YmJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Transporter Refueled (2015)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjAyMDE2ODU3Ml5BMl5BanBnXkFtZTgwODU0MTA0NjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Transporter III (2008)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkxNzg1OTU4M15BMl5BanBnXkFtZTcwMjcyMjI5MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Transporter II (2005)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ5MDM0MTI2N15BMl5BanBnXkFtZTcwNTM5NDczMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Transporter (2002)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Old Guard II (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmFhNWY1MjEtZTkyZS00ZWIzLTk4ZWItMDM0MzliNmE1ZGZhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Old Guard (2020)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2RkNjA1YmMtM2VlYi00ZjllLThjN2MtOTFmZGM4MTMwNjAyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Plane (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDAyYjZmNjctOWE2Mi00ZDBiLWE2YjEtMWM1YmM0NmYzOGQwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Infinite (2021)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTZhMWU0NzEtNzViMC00NzljLWJlNzYtYTA4MGE1YWFmOTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Heads of State (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWFmNjg0ZGMtZmI5OC00YTAwLWFiMmMtOWRkNzQ0OTE1YWEwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Land of Bad (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg"
+    },
+    {
+      "name": "HU: Warfare (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzEyYjE1NmEtOTFmNy00ZmQxLThlYzctOGRjNmQ0N2VjMmNmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Huntsman Winters War (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjY0YTM4ZTAtZjliYS00YzgwLTg0NWEtYzgwNWViMTNiOTQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Losers (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjU3MTU0NDI4Nl5BMl5BanBnXkFtZTcwMTE0NDMyMw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Accountant II (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjFiY2I0NTEtNjdjNy00MTljLThkOWYtMzNiYjYyMDcxYjhkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Platoon (1986)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDViODhmNjEtNWQ2Zi00MDdjLWIzMjAtODA4NjI1Y2I0YmIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Paycheck (2003)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTczMzU5NDk4MV5BMl5BanBnXkFtZTYwNDQxNzc3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: K O (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzUxZmM3ZmItNGFjMS00MTdiLTk0ZDItYjk5MzBkMTM3ZTAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Kill Em All (2017)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzNlOWE4ZjMtOTcwNy00ZThhLWJiM2QtNGExZmJiNDhmYzJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Casino Royale (2006)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Anna (2019)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGZmMGE3MGQtZGMzNC00NDJhLWExNzMtYmI2YjkwZWZhMTJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: xXx Return of Xander Cage (2017)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzcwMjkxMzQ3NV5BMl5BanBnXkFtZTgwMzgyNDA5MDI@._V1_.jpg"
+    },
+    {
+      "name": "HU: xXx State of the Union (2005)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTliNDIxZTUtOGViNC00Mzk4LThkYWEtNDFiMjU0ZTcwYjhhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: xXx (2002)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Tomb Raider (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTIwNWU2NTEtMDQ0Yi00MjFkLThhN2UtMjJhOGVjN2UyYzFkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: A Working Man (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmQxZGIxNTYtYTQwMy00ODdkLWI0MmQtM2E0ZmIyNmYzMGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ride On (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjVmNzIyNDMtNWIyZi00ZGYxLThlZjYtMWQ2MDVkNTNhMDM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Gone in Sixty Seconds (2000)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTIwMzExNDEwN15BMl5BanBnXkFtZTYwODMxMzg2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: From Paris with Love (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNThhNDcyYjktNTNkOC00NDFmLTkyMjAtNGU2NjYyY2ZlMjBhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Drop Zone (1994)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOThiNGQxNjAtNDQ1NC00YWQ0LTliMjktYzc3MTU2ZmI0NjMzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Dracula Untold (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ballerina (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTgxNzA0MDktYzc5ZC00MGY3LWIwYjItMDJhNzE2ZGFjYmE1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ant Man and the Wasp (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODVkY2ZmZTAtYzFhMi00YzZlLWE2YWMtMDBiYjY2OTU4ZWM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Tin Soldier (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWU1YjExZmMtNjg5OS00MGVlLWExNTMtMDAyMmYxNTM5YWZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Last Bullet (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://s.movieinsider.com/images/p/175/865255_m1741654730.jpg"
+    },
+    {
+      "name": "HU: Lost Bullet II (2022)",
+      "group": "HU - Action Movies",
+      "logo": "https://resizing.flixster.com/a5Ra0ZwQx_UBK6Y_0Ba8V4kuFuw=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22740630_v_v7_ac.jpg"
+    },
+    {
+      "name": "HU: Lost Bullet (2020)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2M0MDA2MDAtYTUyNC00NGFlLTllYTEtMDE3NTlkMWM4ZTQ0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ronin (1998)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Conan The Barbarian (2011)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ1NDUyODk5NF5BMl5BanBnXkFtZTcwODk0MjIwNg@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Conan The Destroyer (1984)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjhlZDAwM2UtNDE0MS00MWVkLWJhNWQtMmRkNjk4ZWNlMTcxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Conan The Barbarian (1982)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjhlZDAwM2UtNDE0MS00MWVkLWJhNWQtMmRkNjk4ZWNlMTcxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: 47 Ronin (2013)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc0MjE2NzE0OV5BMl5BanBnXkFtZTgwNTU5MjE1MDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Robin Hood (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTJmY2Q2NTYtNjcxMy00MjQ5LThkMDktYTFmYzk2NzllM2I0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Robin Hood (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM5NzcwMzEwOF5BMl5BanBnXkFtZTcwNjg5MTgwMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Robin Hood Men in Tights (1993)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2ZkMGU1OGUtZTJlOS00MmE5LWIxZjQtYWRlZDljMGJkMTZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Robin Hood Prince of Thieves (1991)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTUyMjA5NDktNWY5Ny00ZWU4LWE4Y2ItMDYzZTk0NzU3ZWMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Robin Hood (1991)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBmNWJmNmItNjQ1Mi00YzE0LWEwYTctMGJhNDE5NDk1YWQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Adventures of Robin Hood (1938)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjA3NzFjNmItYTkwZi00NmMyLWFiMDgtMzY4NjY1ODE0NTg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Take Cover (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDZjNTZkMGEtYjM4ZC00OWU1LThmZmUtMjNhMWM4Njg4YmRhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kill Bill II (2004)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2FiNzhiZTctNzU1Mi00NDkwLWExNDMtZTg0MjYyNzhkNWNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Kill Bill (2003)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Elevation (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2NiNDM0NWYtNzQxNi00NmY1LTg1YmYtMDE5ZmQzMGJlMGQzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: J2 J Retribution (2021)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjY0YTVjNGYtOWRmNC00MjI2LTkyZjMtYzIwMWU5YjI0YWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Demolition Man (1993)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWY3ZThmN2QtMzVkNS00MjczLTllNDQtOGEwN2M0ZTFkMWMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Wrath of Man (2021)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Weekend in Taipei (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2JiNDJiN2EtNGRlNC00ODE2LTgwNmQtOGFiZTk0NjZlMmFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Three Musketeers II Milady (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2MyY2EzNmMtODMxYS00YzNjLWI2NzUtNDgwMjk5NDM4ZmQzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Three Musketeers DArtagnan (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDk5NGY4ZjEtNzc1My00NWI4LWEyNjgtNzUxZTUzZDc0OWVkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Equalizer III (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTM1OTAyYmQtY2ZiZS00NTRlLWEyZDYtZWMyYjMyOTE2YWE4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Equalizer II (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Equalizer (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: No Time to Die (2021)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGZiOGZhZDQtZmRkNy00ZmUzLTliMGEtZGU0NjExOGMxZDVkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Expendables IV (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjgyMmRmM2EtYWY5ZC00ZTllLWJhM2QtMGRlNGEzMWEzYzllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Expendables III (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Expendables II (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkwZGYyYzktNmEzMS00ZDkzLTlkMjEtYTdiOWExM2Y2ZjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Expendables (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Shooter (2007)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmE0NWZiMjktY2U4MC00MDVmLTljMGMtMWZiMThiNjczNzViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Seal Team 6 The Raid on Osama Bin Laden (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjkzNGVhMWYtMWIwYi00OWNiLTk1OGItM2IwNmExNDdkODA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Havoc (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWFiNWVlOWYtYjg1NS00ZjQ0LWI3N2QtZjdmM2I5OGI3NTBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Dungeons and Dragons Honor Among Thieves (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGRjMjQ0ZDAtODc0OS00MGY1LTkxMTMtODhhNjY5NTM4N2IwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Cleaner (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmE1MzkyMDctZjgzNC00YzkxLWI1YTctY2E4YzNjNmI1YTljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Breathe (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTgxN2U4YjMtM2FmNS00YjliLWFhNGUtN2M3NGMyYjQyMDVlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn (2020)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTgwNWEwOWMtNGIxMy00YzU5LTk2MzgtMjAzMmM1MjZiY2RiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Armor (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGFiM2VkMmUtZWU5Yy00NjAyLWEwN2QtNGQ4OGQ2ZGE3MDZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Predator (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Predators (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODNhMWY0MDQtNjgwZC00YjM3LWEwMDItMWM3MTg4ZjA5ODgwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Predator II (1990)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjFjMjRkYWUtNmI4YS00ZmMwLWFiMmYtNWViY2RjZjMyODQ4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Predator (1987)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWEzMDI0MTUtMjQ0Yy00MGRhLWI4YjAtZTgzZTM3NTYxZGJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Bullet Train Explosion (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTVhMGM1NTYtMmI0MC00NjA2LTljMmUtYmJiNmZkMDVhMTIxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Battle Los Angeles (2011)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGI1MzU4MGMtYjY5MC00MDNjLWI3OTMtYjM5YzcwOTg5NWNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Risen (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTAzNjQ1Mzk2MjNeQTJeQWpwZ15BbWU4MDU0MDk1Mjcx._V1_.jpg"
+    },
+    {
+      "name": "HU (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NfpoYfVmSrM2p056gSRlUzUcgq.jpg"
+    },
+    {
+      "name": "HU: Volcano (1997)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzAxNWU2OTMtOTMwMi00NmQ3LThlNmEtNzY5NGYwNjg2ZWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: World War Z (2013)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: United 93 (2006)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTI1Nzc3NjAwOF5BMl5BanBnXkFtZTcwNzYzMjYzMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Tower (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzEyNTIzODI5NF5BMl5BanBnXkFtZTgwMzI1MTAzMjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Finest Hours (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTY1MDU1NzYzN15BMl5BanBnXkFtZTgwOTA0MDQyNzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Day After Tomorrow (2004)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGZmNDYyNmMtNDQyNy00OTkzLTg1OGUtYWJiNmQ5Y2Q5ZGU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Speed (1994)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDc2ODI5YWQtMmM2ZS00MTdmLWEyNWEtNmRmOGE5NGZlYWMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: San Andreas (2015)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmQzNDEzMzMtM2U5OS00YTUzLWI2NDYtYjI2NjAyNWE5YzMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Rampage (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_.jpg"
+    },
+    {
+      "name": "HU: Non Stop (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTI3NzcxMjkzMl5BMl5BanBnXkFtZTgwMDY0NTQ0MDE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Universal Soldier Regeneration (2009)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmI3NWQzZjEtYzU3Yi00MzRmLWE3OWEtMjViZjY4MmQ2Yjg5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Universal Soldier Day of Reckoning (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM3ODMxMDY0MF5BMl5BanBnXkFtZTcwNDc3MTY0OA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Tenet (2020)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU0ZjZlYTUtYzIwMC00ZmQzLWEwZTAtZWFhMWIwYjMxY2I3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Leon The Professional (1994)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kingdom of Heaven (2005)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzdhNGZhMjQtYjVmNy00OWMyLTk1MmQtZGNhZDYwMzZlZjI3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Hell or High Water (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Death Warrant (1990)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDZhYmNlZjQtN2ZkOS00NGQ3LThmZGUtYTI2NzIzNmFlNDQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ben Hur (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjQ2NzYxMDQ2OV5BMl5BanBnXkFtZTgwMDk2MzczOTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ben Hur (1959)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: We Die Young (2019)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDc1ZjUwZmQtNzdlOC00Yzg1LWE2NmQtZTQxOGMzYmZmOTI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Universal Soldier IV The Return (1999)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDkwYjg1OWYtOTJmZi00ZGY1LTkzMjYtYjAxYjA4ZGJiODhiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Universal Soldier III Unfinished Business (1998)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQzNTc1MTMzNV5BMl5BanBnXkFtZTcwNzQxMjIyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Universal Soldier II Brothers in Arms (1998)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjAwNTgxMTM5MV5BMl5BanBnXkFtZTcwNTYyNzcxMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Universal Soldier (1992)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTdmYzQ1YzYtMjFlYi00NGU2LWE2YTEtZDljMWNmYzBhMzFhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Quest (1996)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzkxNjYzZmEtZTA4Ni00MzBhLWE2N2UtZWM3N2M3YTA5ZmE1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Book of Eli (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjk4N2U2YTAtNWEzZC00N2VmLTlkNDctMjg5YjI4OTExZTFhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Sudden Death (1995)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmUwYmQ1MGYtNDk4MC00YjkyLTg2YTktZmE3NmZkZDY2MGE1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kickboxer Retaliation (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWFjNjBmYzQtZjMzZC00MTYwLThiNzItNzk4NDYwMmQ0ZWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Kickboxer Vengeance (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODAwNjYyNjcxOF5BMl5BanBnXkFtZTgwODcyMDA1OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Kickboxer V The Redemption (1995)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQzNDcwODk2MF5BMl5BanBnXkFtZTcwMTY2MjU1MQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kickboxer IV The Aggressor (1994)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUzMjI5MzUyOF5BMl5BanBnXkFtZTcwMTU4MjUyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Kickboxer III The Art of War (1992)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ3NzE3NjM0Ml5BMl5BanBnXkFtZTcwNjQ1NjgxMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Kickboxer II The Road Back (1991)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcyMjQxMDc0MV5BMl5BanBnXkFtZTgwMzY0NTkwMzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Kickboxer (1989)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjQ2NjVkMjAtNGYzZC00ZTZiLWJlZjYtMTNlYWNiZDVlMDZkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Drunken Master II (1994)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzBlMGZlZTctODdmYi00N2ZkLThkYjItZDdiNTQzNWIxMjAzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Drunken Master (1978)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzQyYjIyMTMtNzU4Yy00ODBkLTgyZDItZDJiZjc4MzVmMzA5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Death Race IV Beyond Anarchy (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTE3NWY3N2YtMWFlMS00YzZhLTgzNjctMGQ0NWFmMWU4ZDU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Death Race III Inferno (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI2ZjQ5NTAtYmE4OC00NGE0LTkwMzctNDQwNWJjNTc0NzY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Death Race II (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTliOWJiY2YtYmIyMC00MWQzLTgyMzMtYjMwZGY5MGIxMGI1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Death Race (2008)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjdlNmJjM2ItYjkwOS00NDMxLWFjM2QtNzcyZjJkYzEzYzQ5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Cobra (1986)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODczYzNiMjgtZGU4Yi00ZmM2LWFiNzMtMjcyMTA1YzMwNTk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Bloodsport (1988)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmRkMGNkZWYtNzk3ZC00OGM0LThjMzMtMDg2YzViMTJmNjNhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Big Stan (2007)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzNkZGQzMWEtZGU3YS00YWI4LTg3YmEtMmVmMjRhZjg2ZTM5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Legend of Tarzan (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzY3OTI0OTcyMF5BMl5BanBnXkFtZTgwNjkxNTAwOTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Mission Impossible VI Fallout (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk3NDY5MTU0NV5BMl5BanBnXkFtZTgwNDI3MDE1NTM@._V1_.jpg"
+    },
+    {
+      "name": "HU: Mission Impossible V Rogue Nation (2015)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjUwZjg2ZjAtY2RhZi00YmZjLTlhNGQtOWQwNDk1MjhhM2NhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Mission Impossible IV Ghost Protocol (2011)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Mission Impossible III (2006)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzY1MzdjMjYtNDJiZS00N2U4LWI0MWQtZTRiZWYxMzU3ZmI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Mission Impossible II (2000)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWFjM2NhMTAtNDU1My00ODUxLTkwMzYtODQzNzM0ODM0ZWQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Mission Impossible (1996)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Abyss (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDgxZjEzMjUtNGExMC00ODg3LTk3ZjgtZDNjYWFkYWU2OWExXkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+    },
+    {
+      "name": "HU: Monster Hunter (2020)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2E0NWQxOTgtNzQ0OC00OGM0LTk4OTQtMzAwYTVjZTdjNGY2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Total Recall (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWYzNDNiYzUtNWMwOS00YmFkLTkzN2UtYmVmOGJlNDdjZWUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Tomorrow War (2021)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmUyNzY2YWYtNWQ0My00ODMwLTkwOTQtOTA0ZjM0MjRmYjJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Great Wall (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA3MjAzOTQxNF5BMl5BanBnXkFtZTgwOTc5OTY1OTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Love Hurts (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBmMTVkNWItZWY4Yy00MjI0LWFiMmMtMWM4ZGQ3NTg0MDE1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kung Fu Jungle (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc1NjA2Mzk2M15BMl5BanBnXkFtZTgwMDY3NjIxNTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kindergarten Cop II (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk2NzIzNTA5MV5BMl5BanBnXkFtZTgwMDI4NzE2ODE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kindergarten Cop (1990)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: G20 (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2EyOTc0ZDEtMmRlNC00OTQ0LWEyNDItOWFjYjM0ZjRjNTYxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Fast Charlie (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmU0ZGJhMTQtMWM4ZS00MGFjLWFiMjItMGExNjQwMDZiNTUwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Classified (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDdlZmNkYTUtOTU0MC00NDAwLWJiMWQtMmI5YjgzZDY1OGFmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Naked Gun from the Files of Police Squad (1988)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTI5N2I1MjAtNTc0Yy00ZDIyLThkZTctMGQ5NTBhNjIwMWQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Yamakasi II The Great Challenge (2004)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmI2NGY1MTYtMGVlOS00Yjg0LTliNmUtOWVjYmIzOWRhMTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Yamakasi (2001)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGU4ZTg1M2QtZDNkOS00ZThmLTg5NDQtMWMwYzBkMzhjYzAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Top Secret (1984)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWQ0ZDZjYjAtNTM3My00ZGI4LWJjNDYtMjVmM2IwOTdjMjU2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Top Gun (1986)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWVkNzExZTctZjE1Yi00MmViLThiMzAtMzdiZDk5OGQ4NzRkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Tombstone (1993)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmQyMzlhNjUtMzRjYS00MWY4LWI5MDAtZGU1MWE2M2E0OGMxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Saint (1997)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzFiY2VmYmMtZWM4Yi00OWJiLTgxNGUtZjJlYjc2NGU0YmQ4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Robinson Crusoe (1997)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA4Njc4NTg3Nl5BMl5BanBnXkFtZTYwMTA0ODM5._V1_.jpg"
+    },
+    {
+      "name": "HU: Crusoe (1988)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzBhNWMwMzQtYWQ3OC00MzkyLThmNGQtNDUyODA1ZTFiZGVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Bloodshot (2020)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Sniper Ghost Shooter (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTFlY2VhNGUtYzY0Yy00OGE3LWExYzMtYzNhMDAwMzI4N2NmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Taken II (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkwNTQ0ODExOV5BMl5BanBnXkFtZTcwNjU3NDQwOA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: 2 Fast 2 Furious (2003)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTQzYzEwNWMtOTAwYy00YWYwLWE1NTEtZTkxOGQxZTM0M2VhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Taken III (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjM5MDU3NTY0M15BMl5BanBnXkFtZTgwOTk2ODU2MzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Taken (2008)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTAxNTY2NjMtYjk5Yy00Nzg4LTkyMmItYmMzMDM2OWQ1ZGQ3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Mechanic Resurrection (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjYwODExNzUwMV5BMl5BanBnXkFtZTgwNTgwNjUyOTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kandahar (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTQ5NTlkZTctODdmMi00Nzc1LWI0NTMtYmY0MDhjZTBkYjI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ashanti (1979)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDMwYTE0MWItZjMxMC00NzFiLThjMzMtZWU0ODFmZmNlMTc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Smokin Aces (2006)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzM4YmE2NWMtMjYxZS00OWU4LTk5NTctYzA4YTFlOTExNDM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: French Connection II (1975)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjdiZWZlMjAtMWQ0My00NTYwLTgzODQtYTAyMDA4ODQ0MmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Out for Justice (1991)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWQzNWU1YTktMTg2Yi00NjNlLTk4NTktNjcwN2Y4ZWRlYTkwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Black Rain (1989)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzIzNTAzN2EtNjY2ZC00MmFjLWJjMmEtOTY5MGFlYTgwYWUyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Last Duel (2021)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGZiNDFkNDgtNDlmNS00NzZmLTg4MmItMzJkYjdmMjJkZDliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Hunger Games The Ballad of Songbirds and Snakes (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDk2YjNhYzEtYzg2ZC00OWEwLWJhYzgtMGUzMWVjNDFmYzI5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Hunger Games Mockingjay II (2015)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Hunger Games Mockingjay (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Hunger Games Catching Fire (2013)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_.jpg"
+    },
+    {
+      "name": "HU: The Hunger Games (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Karate Kid (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI0NDMyZTMtOWFlMC00NjJlLTgwZDYtZWJiOGQ0YWQ2YTZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Next Karate Kid (1994)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2FhMzYzZjMtOGFhZS00OWQxLWI2Y2ItMWYyZjJiNjE4YWRlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Karate Kid III (1989)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTc2NzYyYTktYTJhMi00OGY2LWE0YzYtNjgwNWU4ZGZiYjg0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Karate Kid II (1986)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzEyYjlhNWMtNTdmOC00N2M4LWI0OWEtZGE3NTJkOWJhYTYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Karate Kid (1984)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2I3ZmZhNzctMzBlNC00YTc2LWE1MmEtY2ZkMzg3Y2I1ZDJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Inglourious Basterds (2009)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Baby Driver (2017)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Gardener (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2ZjMzk0MWItM2JlMi00Y2NhLThjNTAtYmEwNjA3NGI3YmQ0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Star Trek Section 31 (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWMwNDdmYTAtOWJiNy00MzE0LThlZTMtODdhOWVkZDgyYjI3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Alarum (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmJkNTNhZWMtNzIzMC00NzgzLTlmYTctYTcyNGIyMjliYWRjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ad Vitam (2025)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDEzZDcxYTAtN2YxZC00OGYzLWI3MDktNmEzYWJmMjQyNDBiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: John Wick Chapter IV (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODQ0MTg5NTMtYTA3ZC00OGEyLWJlYzktNzI1ZDBkNDJjNzllXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: John Wick Chapter III Parabellum (2019)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjdlNWFlZjEtM2U0NS00ZWU5LTk1M2EtZmQxNWFiZjk0MGM5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: John Wick Chapter II (2017)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_.jpg"
+    },
+    {
+      "name": "HU: John Wick (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Lucy (2014)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Knights of the Zodiac (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTVmMjZiN2QtYzgzYy00ZThjLThmZDQtYjVhNWFkMTkyMTM5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Jack Reacher (2012)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Hereafter (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE2MzU3Nzk4M15BMl5BanBnXkFtZTcwODcxNTI5Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Shaft (2019)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWUzNjIxY2EtNGNjMC00N2U1LTk1YzItMzUwOWIzOTc1OGRjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Triple 9 (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjQyMjg2NDk0MV5BMl5BanBnXkFtZTgwNzU5Njc5NjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Rebel Ridge (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTE4ZDE5ZTktZWZkMC00MGY4LWFkZDUtZTc5YWU3NzM2YmM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Argo II (2015)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2QyZTIyMGMtMTNiNy00MmZiLTlkNjYtZjljMTEyNGQxMzRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Argo (2004)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjY1MzNhNjUtMWU1ZC00MjkxLTg3ODEtN2QyMzU4Zjk4ZWRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Accountant (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjczMWQzYzAtNmY2Mi00MGY1LWEyNWItZTdjYzBiZjg4MDIxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Snowpiercer (2013)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Skycraper (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWYyYTExNWMtZGYyYy00YTEzLTg5MzEtY2YyMDI3MDNlMjcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Sixty Minutes (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGI0MjI4MjUtOGY4OS00MGRmLWI1N2ItMzU4ZDM0ZWM4ZTI2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Sisu (2022)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjAxN2RmYjktMDE2OS00MWM5LThlZTQtZDY4YzAxMWQyZWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Pain and Gain (2013)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Nobody (2021)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Enemy at the Gates (2001)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODM5MmQyYjktMzg5Ny00Y2Y1LThlNWQtNjQ5OGMwNmY2YjcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Den of Thieves (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Clash of the Titans (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYxNjg4MzU5OV5BMl5BanBnXkFtZTcwOTA3NTUwMw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Borderlands (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDhkMzQzZmQtOGQ1NS00Y2FhLTkzYjAtNWE1MmRiOWM1MjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Riders of Justice (2020)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzBhYjAwY2EtNmM2MC00ZGU0LWI5M2UtNDk0ZTNjYjYzYWI5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Bullet Train (2022)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Free Guy (2021)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2I0MGMxYjUtZTZiMS00MzMxLTkzNWYtMDUyZmUwY2ViYTljXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Shadow Master (2022)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2I4NTYzNTgtNTQ4Yy00MTQwLTgyN2EtOGRmMWE4YWUxMDM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Rocky Balboa (2006)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM2OTUzNDE3NV5BMl5BanBnXkFtZTcwODczMzkzMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Rocky V (1990)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM2Mzc4MTYxM15BMl5BanBnXkFtZTcwODY5NTk1NA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Rocky IV (1985)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjJiYzRiYWMtZTgyZC00YjliLWIwZWMtZTJlYjkyYzc2MDMxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Rocky III (1982)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDYzNDQ3Y2MtODc1Zi00ZTBkLWIzZWUtOGY0NGZmYWZhMWQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Rocky II (1979)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWM5N2Q5OWMtZTA5Ny00NTJlLWI4YzEtMzkyNDM1YzEwNWM1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Rocky (1976)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Jack Reacher Never Go Back (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODQ3ODQ3NDI4NV5BMl5BanBnXkFtZTgwMDY1Mzk5OTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Yip Man IV (2019)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGVjMDEzNjMtMWJmMy00NDdjLWFkMzItOTBhZTE3OWU0YmM4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Yip Man III (2015)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkxNzc0MjgwN15BMl5BanBnXkFtZTgwMzY3Nzk1NzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Yip Man II (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzEzYTBmYjgtNjQzMi00YmNiLTkyZGItOGFhMzEzOWY3MjI4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Yip Man (2008)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE0NDUzMDcyOF5BMl5BanBnXkFtZTcwNzAxMTA2Mw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Northman (2022)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzgwM2JiY2MtNWQ5OC00NDc1LWExMjYtYmY2YjViZmViYWM5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Bad Boys for Life (2020)",
+      "group": "HU - Action Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg"
+    },
+    {
+      "name": "HU: Twilight of the Warriors Walled In (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTIzODllOTItMmQ3ZC00Yzg0LTg3NjgtZjBiODNmYzViYTE0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Extraction II (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGQwNDdhODAtY2Y0Ni00YzFhLTk1OGUtY2RkMDAzNzBmZjAxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Extraction (2020)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDBhMmI3OWYtZTA2Ny00Y2RjLTliMWQtYWY5MGIwN2RlZGFjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Mission Impossible Dead Reckoning Part One (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Black Stallion (1979)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzgzOTgwOTEzM15BMl5BanBnXkFtZTcwMzI2MTcyNA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Hidalgo (2004)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTgyNjg5MjcxMl5BMl5BanBnXkFtZTcwNDQxMzQyMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Taxi V (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmVmYzBiMWMtZWM1NC00NWI0LWEyNDQtOGQ0NmQxNDE1NGYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Taxi IV (2007)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTJhY2RmNzUtMDk3ZS00ZDI4LWI3M2YtOTVmOGE5MDg5YjIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Taxi III (2003)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzdjODU5ODQtZjkzOC00MTNiLWFhZjQtNDcyZmI1MmM2Yzg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Taxi II (2000)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzBjNDE0YmUtZTIxZS00YzJkLTlhMzAtNjQ4OTExNDQ4YzhlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Taxi (1998)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjhlNzc5NmMtYmRmZC00ZmI1LWI1NTctNTU4ZDc0NmU4ZDA0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Fall Guy (2024)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2U0MTJiYTItMjNiZS00MzU4LTkxYTAtYTU0ZGY1ODJhMjRhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Gran Turismo (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA0N2YyNmYtZDk4Ny00ODE2LThmZWQtNGJiMDk0YzhiNzE5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Creed III (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWY0MTRmY2YtMzBlYi00NjlkLThkZWYtMmE2NzJiZmIzODFkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Creed II (2018)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTBmYTg3YTItZjUzYi00MGU2LThiNDUtMDA3NjNmMTFiYzZkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Creed (2015)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWM3NjY2ZDctMGZiYy00OGFlLThkMTktOTY2MDM2YjE2OTliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Killer (2023)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU2MTlkMTctNWI3MC00ODUzLTlmYzQtMzZjYjVmMmYwZGU0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Undisputed IV (2016)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGY0ZjEwNGUtZTJmYy00ZDNiLTllMTYtN2Q5YjRkNDllYzdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Undisputed III (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWNhMTlmY2MtMjVkNy00ZjM1LWI3NzAtZDExZTcxNDgwNjkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Undisputed II (2006)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE2MDA1MzgwMl5BMl5BanBnXkFtZTcwODg4NzAzMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Undisputed (2002)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTUyNjU3N2YtNDc0Ni00NmY0LTlkZjMtZGI4MjUwNmFiZDRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Unstoppable (2010)",
+      "group": "HU - Action Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI4NDQwMDM0N15BMl5BanBnXkFtZTcwMzY1ODMwNA@@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+}

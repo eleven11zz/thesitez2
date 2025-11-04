@@ -1,0 +1,3968 @@
+{
+  "package": "world",
+  "name": "GR - 2022-2023 Greece Movies",
+  "groupIndex": 335,
+  "totalChannels": 792,
+  "channels": [
+    {
+      "name": "GR - A Line of Fire (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSG2mg1998DUAam6X9EA6SeJmqD.jpg"
+    },
+    {
+      "name": "GR: Who Do I Belong To (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqHRWmT8hKiC2ua9F5r4qnWaMEI.jpg"
+    },
+    {
+      "name": "GR: Weapons (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg"
+    },
+    {
+      "name": "GR: War of the Worlds (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvirUYrva23IudARHn3mMGVxWqM.jpg"
+    },
+    {
+      "name": "GR: The Occupant (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg"
+    },
+    {
+      "name": "GR: The Map That Leads to You (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg"
+    },
+    {
+      "name": "GR: The Diplomat (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwl9Y4px8TTIQK4N19k6gnW1RnX.jpg"
+    },
+    {
+      "name": "GR: Superman (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg"
+    },
+    {
+      "name": "GR: Stolen: Heist of the Century (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqZOJkBd3DR6ioacm136lP7BGvi.jpg"
+    },
+    {
+      "name": "GR: One Hit Wonder (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdHEtyOoB8cyFDwqFMMGK1q0RlM.jpg"
+    },
+    {
+      "name": "GR: Night Always Comes (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg"
+    },
+    {
+      "name": "GR: Mission: Impossible - The Final Reckoning (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg"
+    },
+    {
+      "name": "GR: Materialists (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg"
+    },
+    {
+      "name": "GR: Hallow Road (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVsgV7ak6vR5xyXFggooJQinXBg.jpg"
+    },
+    {
+      "name": "GR: Guns Up (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RokBWEkQqJRZEVP3DPwGm5MYh6.jpg"
+    },
+    {
+      "name": "GR: Gold Rush Gang (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7j6jZNhCTnsZy5QItpruDwyBWoo.jpg"
+    },
+    {
+      "name": "GR: The Forbidden City (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOFKztoqEyvEYldr1dNxy2M1Oo5.jpg"
+    },
+    {
+      "name": "GR: Fall for Me (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTs9SNBuk3DuB8D0p3mSsPYN7J.jpg"
+    },
+    {
+      "name": "GR: F1 (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg"
+    },
+    {
+      "name": "GR: Eenie Meanie (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/12Va3oO3oYUdOd75zM57Nx1976a.jpg"
+    },
+    {
+      "name": "GR: Eddington (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg"
+    },
+    {
+      "name": "GR: Dracula (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWSHYKkfdEZdeyqmgV5ZfgREOjH.jpg"
+    },
+    {
+      "name": "GR: Descendent (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Of1UCdomAu0mJY2SNHHGjhnvx9.jpg"
+    },
+    {
+      "name": "GR: Americana (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/FgViA2C8C3iYxuDvdxAd4VsCiR.jpg"
+    },
+    {
+      "name": "GR: Alienoid: Return to the Future (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RClncz0GTKPZzSAcAalHCw0h3g.jpg"
+    },
+    {
+      "name": "GR: Abraham's Boys (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e10AbPwcJk5b7ja3MQUVr5wHEeq.jpg"
+    },
+    {
+      "name": "GR: Wall to Wall (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcyWZZ6cfrxLmdFsA5NMsg0gAgS.jpg"
+    },
+    {
+      "name": "GR: Ziam (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHYj2t3NzsjkHVYa0bPri4sMBsg.jpg"
+    },
+    {
+      "name": "GR: Wake Up (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DxnaRTXgX0BhB7059UYFuAbDO6.jpg"
+    },
+    {
+      "name": "GR: Tornado (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iow3KuKBJN2Hfqi7i7Tq3pZUbAa.jpg"
+    },
+    {
+      "name": "GR: The Unholy Trinity (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSK2sdgeBr41HoKckDZHE4L5zYV.jpg"
+    },
+    {
+      "name": "GR: The Phoenician Scheme (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtEqpy0K1iVuCebRwWqT6BZ6jLN.jpg"
+    },
+    {
+      "name": "GR: The Firing Squad (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoiXBduSKakUadgFpfAizl8S6nK.jpg"
+    },
+    {
+      "name": "GR: Sovereign (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWXUMfnMj4ioReprwsDZgt8sghK.jpg"
+    },
+    {
+      "name": "GR: Saint Clare (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE0q4awk7zto3Eql4cAeJuVAns9.jpg"
+    },
+    {
+      "name": "GR: M3GAN 2.0 (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oekamLQrwlJjRNmfaBE4llIvkir.jpg"
+    },
+    {
+      "name": "GR: Push (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHl7uh5dp2AafgRv0XW7WXpavK5.jpg"
+    },
+    {
+      "name": "GR: Madea's Destination Wedding (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg"
+    },
+    {
+      "name": "GR: Ice Road: Vengeance (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQN9rZj06rXMVkk76UF1DfBAico.jpg"
+    },
+    {
+      "name": "GR: How to Train Your Dragon (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg"
+    },
+    {
+      "name": "GR: Karate Kid: Legends (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AEgggzRr1vZCLY86MAp93li43z.jpg"
+    },
+    {
+      "name": "GR: Final Destination Bloodlines (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg"
+    },
+    {
+      "name": "GR: Far Haven (2023)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAs9OwMZe9s5KeAr9sL22S7yNGd.jpg"
+    },
+    {
+      "name": "GR: Else (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8khqkOfg1DNlQeP6yRPUlEcy41f.jpg"
+    },
+    {
+      "name": "GR: Bring Her Back (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tObSf1VzzHt9xB0csanFtb3DRjf.jpg"
+    },
+    {
+      "name": "GR: Almost Cops (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bcndiaTgu1Kj5a6qyCmsWYdtI.jpg"
+    },
+    {
+      "name": "GR: The Ritual (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy56jsxq9fXG7OWQCViNa4ttpzU.jpg"
+    },
+    {
+      "name": "GR: The Old Guard 2 (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg"
+    },
+    {
+      "name": "GR: The Last Rodeo (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpATW9o83IwYqPkiT7WLqL2jxlF.jpg"
+    },
+    {
+      "name": "GR: The Amateur (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg"
+    },
+    {
+      "name": "GR: Off the Grid (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMUVnkcx2VawTBJYnnnRN8fxJpb.jpg"
+    },
+    {
+      "name": "GR: Jurassic World Rebirth (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/khohu1IKmgGNvETjEaxZaWBw4fr.jpg"
+    },
+    {
+      "name": "GR: Heads of State (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg"
+    },
+    {
+      "name": "GR: Frozen: The Hit Broadway Musical (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrRlxuVP6vOHYXPnL4u4FA1q9lq.jpg"
+    },
+    {
+      "name": "GR: Diablo (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg"
+    },
+    {
+      "name": "GR: Deep Cover (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg"
+    },
+    {
+      "name": "GR: Bigfoot: Blood on the Farm (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqd0pCJF3jACSS8xHaFqjp72Bbn.jpg"
+    },
+    {
+      "name": "GR: Ballerina (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg"
+    },
+    {
+      "name": "GR: After Us, the Flood (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/stkq5KoSDWoE1YgDfeQPElNkcPZ.jpg"
+    },
+    {
+      "name": "GR: Πήτερ Παν (2003)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/izHl2iWyezQNk8ULuKktV2oaTyg.jpg"
+    },
+    {
+      "name": "GR: Η Ταξιαρχία των Λύκων (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kAjGEOLWF1FXZy5DgghdoCD4OO.jpg"
+    },
+    {
+      "name": "GR: Γεύση από Ερωτα (1966)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNWVNeQYfN7mYDl5R0xhvyru0BA.jpg"
+    },
+    {
+      "name": "GR: Angels Fallen: Warriors of Peace (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg"
+    },
+    {
+      "name": "GR: Το Κοροϊδάκι Της Δεσποινίδος (1960)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXhA8Z3vzoxhv4q7w2Ie6JIjmpf.jpg"
+    },
+    {
+      "name": "GR: Pacto de fuga (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziao1KWNkw4X5qL7rWCSJ6lyjX9.jpg"
+    },
+    {
+      "name": "GR: Ζητείται Ψεύτης (1961)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bO8WUkTwcjhRRZxJACUIhpLWop4.jpg"
+    },
+    {
+      "name": "GR: Ηθικόν Ακμαιότατον (2006)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7hEgodvHqEhANgQ81uCsjXCl8V.jpg"
+    },
+    {
+      "name": "GR: Λάρισα Εμπιστευτικό (2012)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68iPQRPRNE1WLLBFY7EiTQM5OxD.jpg"
+    },
+    {
+      "name": "GR: Παν.δη.μία",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/uKWPADFphkdke2EiuBPKNMDgWaU.jpg"
+    },
+    {
+      "name": "GR: Ο Δρόμος Του Κεραυνού (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/561V8mxKNZnZH1OMdgnctsgg2QE.jpg"
+    },
+    {
+      "name": "GR: Μια παπαδιά στα μπουζούκια (1983)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUsTDo2XYiF39oec115gLc0R5XS.jpg"
+    },
+    {
+      "name": "GR: Kraven the Hunter (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/i47IUSsN126K11JUzqQIOi1Mg1M.jpg"
+    },
+    {
+      "name": "GR: Σέρλοκ Ζουμπόμς",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg"
+    },
+    {
+      "name": "GR: Ψηλός, Λιγνός Και Ψεύταρος (1985)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJv9N56oyCESV8d1dApLe0IxxN7.jpg"
+    },
+    {
+      "name": "GR: Χριστούγεννα στην Πλατεία με την Ντόλι Πάρτον (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fmnCR1UpojTl5FRBu7OzZTibA4.jpg"
+    },
+    {
+      "name": "GR: Queer (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MXM2xxVYdr4iPR0LtWaFbQuaDp.jpg"
+    },
+    {
+      "name": "GR: Ο Πολικός Αρκούδος και οι Ανίκητοι (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJyKKnCLdS8ybQxBRj3dYzNU8R0.jpg"
+    },
+    {
+      "name": "GR: Back in Action (1994)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cADs1ZbZbkvgr6TJtnPHi6PypxL.jpg"
+    },
+    {
+      "name": "GR: Stalked by My Doctor: A Sleepwalker's Nightmare (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsxHCGUonx654B35ywhN9KG9lhO.jpg"
+    },
+    {
+      "name": "GR: Σπιρτόκουτο (2003)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4qO46PThmTqhVKvoxG95HV5FXn.jpg"
+    },
+    {
+      "name": "GR: Μπαγκς Μπάνι: Τρελά Χριστουγεννιάτικα Παραμύθια (1979)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrnrXPlBQxci62gysPjNSlYeG5a.jpg"
+    },
+    {
+      "name": "GR: Το Κοινωνικό Δίλημμα (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdmagxKK7g2rPkdltC7Kga2MBbp.jpg"
+    },
+    {
+      "name": "GR: Small Things Like These (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/rdcO38cbWFg002nXg5QYtk7Tz4L.jpg"
+    },
+    {
+      "name": "GR: Η Ζουγκλοπαρέα (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWxcC4fh1M4QiGcuUqe8LlTTEvw.jpg"
+    },
+    {
+      "name": "GR: Rogue (2007)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abFDVe71e7UE5MpAqjZvUYT2U7M.jpg"
+    },
+    {
+      "name": "GR: Νόμος Περί Τέκνων (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/st338ipkhRT01UlVO6O8lUGmDIn.jpg"
+    },
+    {
+      "name": "GR: Too Much Info Clouding Over My Head (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j66YcARnHWhz2Cd0LQRHQEDtQR1.jpg"
+    },
+    {
+      "name": "GR: Escape from Pretoria (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GGS0jkFFCnmdStvZED6NL6V7gd.jpg"
+    },
+    {
+      "name": "GR: Χριστουγεννιάτικο Ημερολόγιο (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiCeUExxUTGbU6FXORLf673uwvK.jpg"
+    },
+    {
+      "name": "GR: Εγώ, ο Απαισιότατος 3 (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FkKsPyxn7WGbWHufIAKkw0VybD.jpg"
+    },
+    {
+      "name": "GR: Ο Κλέαρχος η Μαρίνα και ο κοντός (1961)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWQM8cjcKjgXzAt4qwYYkLCGI7t.jpg"
+    },
+    {
+      "name": "GR: Η Ταινία Lego Ninjago (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJ9vPaspStZmzaFMTFMRCwQKp2Y.jpg"
+    },
+    {
+      "name": "GR: Τζαμάικα (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/duNLM7qlfHLDUxKsxuUaUZNalPV.jpg"
+    },
+    {
+      "name": "GR: Perfect Strangers (1950)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3ZYbSDs7BKKB5drJKuIgjpnjwf.jpg"
+    },
+    {
+      "name": "GR: Η Παρείσφρηση (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj6yKWE1pCk6ePgNqL4HltRuZjq.jpg"
+    },
+    {
+      "name": "GR: Nosferatu (1991)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJrEOWIAkv59HSzY9N6gWxW2RAg.jpg"
+    },
+    {
+      "name": "GR: Παύση (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ECH9N6zqkESpQn2EbDb95PfztJ.jpg"
+    },
+    {
+      "name": "GR: Η Διαπαιδαγώγηση Της Κάμερον Ποστ (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TW1wEtK3tNtJG1k2AU6l2pavk9.jpg"
+    },
+    {
+      "name": "GR: The Scientist (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8Pi3MHOKw6lTPBPs6NF82qqWFx.jpg"
+    },
+    {
+      "name": "GR: Τσίου (2005)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEfYUtrIO8Fa5U8P5ibzdsdHOdg.jpg"
+    },
+    {
+      "name": "GR: Cuckoo (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lBIJzsAIPa5iMyG0ChlP9WbHM0.jpg"
+    },
+    {
+      "name": "GR: Miss Nobody (1920)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rW4wnmJVcBrVZju2CVedTbC7ERq.jpg"
+    },
+    {
+      "name": "GR: Οι Μπάτσοι με τα Κουστούμια (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJAe5fBN90JbFj7AhZpyorY2W7i.jpg"
+    },
+    {
+      "name": "GR: Παράσιτα (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5o0eAVPa1FDwEaJhNV3wtFDvws.jpg"
+    },
+    {
+      "name": "GR: Young Aphrodites (1963)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3ariRzMfwePqmTAeJxvCFI8sBIo.jpg"
+    },
+    {
+      "name": "GR: Ανάμεσά μας (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kw2nKYnkG8Ty9j58wxs650VwHyb.jpg"
+    },
+    {
+      "name": "GR: Wicked (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gp6TJEs5atttH9xFqEootyQz5o.jpg"
+    },
+    {
+      "name": "GR: Ad Vitam (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg"
+    },
+    {
+      "name": "GR: Maleficent: Mistress of Evil (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg"
+    },
+    {
+      "name": "GR: Cosmic Candy (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exyfZnuWKuRKmUC3CHkjoySpROS.jpg"
+    },
+    {
+      "name": "GR: L'ultime hommage (2006)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXII9Lz9dKlnNWv1bGumGbnUv5i.jpg"
+    },
+    {
+      "name": "GR: Mnemophrenia (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SCydb16gojRoAJHTEwybUnzn41.jpg"
+    },
+    {
+      "name": "GR: Τεστοστερόνη (2005)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFDTa2xGBbGgbIXezB3mKb8zPS2.jpg"
+    },
+    {
+      "name": "GR: Nightbitch (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg"
+    },
+    {
+      "name": "GR: Princesa Adormecida (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2snH1Itt1Zs20KFLyIFqPOkyJaV.jpg"
+    },
+    {
+      "name": "GR: Lee (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nKXkZB1zP1RwrqkK8v8dPnSP5f.jpg"
+    },
+    {
+      "name": "GR: Τετάρτη 04.45 (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHdeVQZy2l1zSkmUhlHKP1kjz1e.jpg"
+    },
+    {
+      "name": "GR: Source Code (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg"
+    },
+    {
+      "name": "GR: Παραγγελιά! (1980)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI28HEoOcJODHqzXjar4m1Js49r.jpg"
+    },
+    {
+      "name": "GR: Νοτιάς (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrr8kibQErzrHbjAw92FyaF7IqI.jpg"
+    },
+    {
+      "name": "GR: Μπάντι, Ο Ροκ Σταρ (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9x2UM6tbB3oJTyWXBzR2o0X8uPU.jpg"
+    },
+    {
+      "name": "GR: Ο Κατάσκοπος που με Παράτησε (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvZ89Ln9wx64YZcr2v5h63jGY8e.jpg"
+    },
+    {
+      "name": "GR: Grave Torture (2012)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJRA64vmQjFSGjanFeNjKixQ4n0.jpg"
+    },
+    {
+      "name": "GR: ΚΑΖΑΝΤΖΑΚΗΣ (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Zombio 2: Chimarrão Zombies (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5doBmp5arzi1qn1aCxJf2tRmqy.jpg"
+    },
+    {
+      "name": "GR: Venom: The Last Dance (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg"
+    },
+    {
+      "name": "GR: La stanza accanto (1994)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oESLBZVSmHQJHxCNKOtpH49MmKn.jpg"
+    },
+    {
+      "name": "GR: Η Στροφή (1982)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbtuLLHt9p3B5Vk9GEWnXMxGUH1.jpg"
+    },
+    {
+      "name": "GR: Soul Kicking (2006)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/45C1eWzflVHCCsVFsGWoAleimpO.jpg"
+    },
+    {
+      "name": "GR: Bruised (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axibOQF9QnThrr8M37ufAYurP4R.jpg"
+    },
+    {
+      "name": "GR: Η Καλόγρια (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHNsU6vkq9VDZVQYedzpAhAxkvO.jpg"
+    },
+    {
+      "name": "GR: Αλαντίν (1992)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/texekd5VzgmplkikE8CRiNbABNu.jpg"
+    },
+    {
+      "name": "GR: The Eternal Beauty Of Snowboarding (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKeYR0endtHTwDWoVEqyrpaWKiG.jpg"
+    },
+    {
+      "name": "GR: ΠΑΝ.δη.ΜΙΑ (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysE3CDlCTE5iiXjnIqyNs26SwAz.jpg"
+    },
+    {
+      "name": "GR: Mighty Oak (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/558uVM7dVqT35hNy1SKMRcpTdhi.jpg"
+    },
+    {
+      "name": "GR: The Wretched (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCBslw91HrA66w8fsMqhKMvtgff.jpg"
+    },
+    {
+      "name": "GR: Cut Throat City (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9702nIZf5EVxS3FrzycamQUlSjw.jpg"
+    },
+    {
+      "name": "GR: Mary (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdcyHzqqBrzPGJFVH29ONnzsV6I.jpg"
+    },
+    {
+      "name": "GR: Ένα Αστέρι Γεννιέται (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryCWNq447ZZ8IgNgco4s6d9oAWj.jpg"
+    },
+    {
+      "name": "GR: Τάιλερ Ρέικ: Η Φυγάδευση (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg"
+    },
+    {
+      "name": "GR: Οι Αριστόγατες (1970)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2o3JPsqTTFLvMMq2CpmWZZMPrpX.jpg"
+    },
+    {
+      "name": "GR: Wrong Turn 4: Bloody Beginnings",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/r1JNXwJkKO696NlGTyqkw96yoT9.jpg"
+    },
+    {
+      "name": "GR: 15 Aygoustos (2013) [GR]",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Στον Ίδιο Ρυθμό (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pASeM9pyZtqDqTkXD1mNvqqh9hK.jpg"
+    },
+    {
+      "name": "GR: Οι Τελευταίες Ημέρες του Αμερικανικού Εγκλήματος (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg"
+    },
+    {
+      "name": "GR: Chief of Station (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3SDHU1P6rpTJBlmKcm5aIkFHTGJ.jpg"
+    },
+    {
+      "name": "GR: Щелкунчик (1973)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96A0Y4XfhaOmmb8fN38fCFam1Ip.jpg"
+    },
+    {
+      "name": "GR: The Fighter (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfsFerGhO1h6rLk8vwLgMyQ8WVJ.jpg"
+    },
+    {
+      "name": "GR: Πάει Καιρός (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/teKQO4aJgqulbDgyEm5bC9jo6Gj.jpg"
+    },
+    {
+      "name": "GR: Le dolci signore (1967)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf31ob8bHZsgCH01J8PutaOnaTA.jpg"
+    },
+    {
+      "name": "GR: Ο Γκρινιάρης (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIM55l2dolag2X7bQvau6aerUXP.jpg"
+    },
+    {
+      "name": "GR: Κληρονομιά (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEpfvgTQsc768zNND0SjMelbnLH.jpg"
+    },
+    {
+      "name": "GR: Πόλη στα Όπλα (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oC6UwQQm79VxHJUoSi8vcE6Jsm.jpg"
+    },
+    {
+      "name": "GR: Τώρα που φεύγω απ'τη ζωή (1966)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd0lR2mtm3dsrkcdVevcGOWncAZ.jpg"
+    },
+    {
+      "name": "GR: 星门深渊 (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WJOD7UgfL10Zep9lXrJuuc2e1r.jpg"
+    },
+    {
+      "name": "GR: Μία Κάποια Εκπαίδευση (2009)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/29kSosB0jW2ThaJmX6ZY1UQ1pHA.jpg"
+    },
+    {
+      "name": "GR: Οι Απίθανοι 2 (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBv2NzMeG5oitADifMENRdXwSG2.jpg"
+    },
+    {
+      "name": "GR: The Taverna (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3DTONyykaPOTcO0WWIclg2r9Wcu.jpg"
+    },
+    {
+      "name": "GR: The Last Note",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruO6LEatwZQVob6sv5yBtPIVYxm.jpg"
+    },
+    {
+      "name": "GR: Mufasa: The Lion King (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/lurEK87kukWNaHd0zYnsi3yzJrs.jpg"
+    },
+    {
+      "name": "GR: Φιλιά και Σφαίρες (2005)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg"
+    },
+    {
+      "name": "GR: Το Γατοξόρκι (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg3Z5LrIAbDB4SISN8zw6jRAUgr.jpg"
+    },
+    {
+      "name": "GR: The Apprentice (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/83t0ZOzoMFgVFszTdi9mbTYUrXM.jpg"
+    },
+    {
+      "name": "GR: Πάντινγκτον 2 (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDIudGVtJFzQ5NgDxREfmmD2pxS.jpg"
+    },
+    {
+      "name": "GR: Περιπέτεια στο Νότιο Πόλο (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Z9WlwC7hcyrGQWaJvkRCiBo5nf.jpg"
+    },
+    {
+      "name": "GR: Μετέωρα (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/penk2NVk7xrUMStAWCinTpMUVC8.jpg"
+    },
+    {
+      "name": "GR: Λαλάκης ο εισαγόμενος (1984)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhJVw7rGVOgsJygDwhEIJmVWGpY.jpg"
+    },
+    {
+      "name": "GR: Success Story (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/stWR9FAspcn4UZHne6DhautN9Tn.jpg"
+    },
+    {
+      "name": "GR: Τα Χρονικά των Χριστουγέννων (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg"
+    },
+    {
+      "name": "GR: Πολυξένη: Μια Ιστορία Από Την Πόλη (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h70pZ0PIYqooSEn0GIuxZo2UUN.jpg"
+    },
+    {
+      "name": "GR: Swallows and Amazons (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5ZVbjos0CqhKLMV77YzX6r12Ls.jpg"
+    },
+    {
+      "name": "GR: Megalopolis (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qNtMKw73sGEXPchhrsU2B9Vmhm.jpg"
+    },
+    {
+      "name": "GR: Το παιδί του σωλήνα (1982)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSB4adsXvvqI89Lq4GQ5GsUAvXX.jpg"
+    },
+    {
+      "name": "GR: Underwater (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUwtwOlJ52YlclTPaJWupBL3Ye5.jpg"
+    },
+    {
+      "name": "GR: Culpa tuya (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg"
+    },
+    {
+      "name": "GR: Ενόλα Χολμς (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg"
+    },
+    {
+      "name": "GR: Οι Γαμπροί της Ευτυχίας (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bA8UbZfaTLtaA3PW5utiUlG0lXt.jpg"
+    },
+    {
+      "name": "GR: Το Φυλακτό (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEVyAkEkpwpfyx4oZMg22A8ivDI.jpg"
+    },
+    {
+      "name": "GR: Central Park Dark (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUjMLQtaDHFEw89jr5tt4kZDZRZ.jpg"
+    },
+    {
+      "name": "GR: Απόψε Τρώμε στης Ιοκάστης (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1xv9Fbxg6DV0mNakfFTgquGzjB.jpg"
+    },
+    {
+      "name": "GR: Ο Σεισμός (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjpRl28i4BewF8PQhqezHIfy97V.jpg"
+    },
+    {
+      "name": "GR: Blackmail Boys (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqnyJB6rjRdz9Sh3QYdZYNSJyEo.jpg"
+    },
+    {
+      "name": "GR: Μαζί Τα Φάγαμε (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5p5aBEw7zDSlcZLre2owZ9RXyh.jpg"
+    },
+    {
+      "name": "GR: Η Μπαλάντα της Τρύπιας Καρδιάς (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zH4ZwUDMCnKVL7hc2fLdLVKegGe.jpg"
+    },
+    {
+      "name": "GR: Η Κόρη Του Ρέμπραντ (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EDRLREe8YtUtTZUSftLl3S6uBt.jpg"
+    },
+    {
+      "name": "GR: Unstoppable (2004)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IGu2f9ItfMuXfM8TuPUizBot1j.jpg"
+    },
+    {
+      "name": "GR: Adelfia Mou Alhtes Poulia Tolis Boskopoulos (1971) [GR]",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Μην Ανησυχείς, Δε θα Φτάσει Μακριά με τα Πόδια (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZSOQTnOGeylFZh6PgoceCrt1Hj.jpg"
+    },
+    {
+      "name": "GR: Δυνάμεις του Σκότους (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXQQHVTAfn5emTEVm4uqUsE4FIJ.jpg"
+    },
+    {
+      "name": "GR: Κηδεία Είναι, Θα Περάσει (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/da7SeaHf96f7cogYT9tDzz5UQ0e.jpg"
+    },
+    {
+      "name": "GR: Tesla (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "GR: Πάντα ο Διάβολος (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oe8AYefZ2GAcQ5TlFyiJNJOEpn2.jpg"
+    },
+    {
+      "name": "GR: Vergogna Schifosi (1969)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddHJIfrIU0Ra5C0ZjL1cKsZxTzb.jpg"
+    },
+    {
+      "name": "GR: Ένας Βλάκας Και Μισός (1959)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IeBi1xMIBUqbU3GaGlXuYAdkcW.jpg"
+    },
+    {
+      "name": "GR: The Homestay (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi2w0Dk8YVHx1BCxSCdQzxlvtpE.jpg"
+    },
+    {
+      "name": "GR: Lost Girls & Love Hotels (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQgXwuJrlpzGDI8169tRQRy71Nv.jpg"
+    },
+    {
+      "name": "GR: Τα Καμάκια (1981)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUC8Ji6KN9aLLhMaG2WKsxCIRkd.jpg"
+    },
+    {
+      "name": "GR: Carry-On (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/rwL4MbF2poznrXUbrZljPgEmLbT.jpg"
+    },
+    {
+      "name": "GR: Bookworm (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg"
+    },
+    {
+      "name": "GR: The Current Occupant (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl2oCYmEB0iKWZIVQWOH5Ao5Mo4.jpg"
+    },
+    {
+      "name": "GR: Φερδινάνδος (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwnfwnIOOEc53mG0mGtm3x9YAyI.jpg"
+    },
+    {
+      "name": "GR: Λούφα και Παραλλαγή: Σειρήνες στη Στεριά (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GyFDUb1kaHUl6mClMWDH81PyIl.jpg"
+    },
+    {
+      "name": "GR: Ο Γύρος του Κόσμου με τους Τιμόν και Πούμπα (1996)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/braRB0G0hq6rLETMM7q5efykrmo.jpg"
+    },
+    {
+      "name": "GR: The Childrens Train (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/kfQvaLi9P5JdyWjz0b5IhIjLCu1.jpg"
+    },
+    {
+      "name": "GR: The Return (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ROvTxTwcCN8CyxrV4Rhun9MhYD.jpg"
+    },
+    {
+      "name": "GR: Αρχηγός από Κούνια (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5gepUBdoIFLsIi5nVBqyhdrFLG.jpg"
+    },
+    {
+      "name": "GR: Χάνσελ και Γκρέτελ: Κυνηγοί Μαγισσών (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j343Rpj3WeNvP0SV80zveve70io.jpg"
+    },
+    {
+      "name": "GR: Η γυναικάρα με τα πράσινα (1985)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO8ypdKNxzYpcQPLOdD2uirpKBO.jpg"
+    },
+    {
+      "name": "GR: Άκοπο Διαμάντι (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+    },
+    {
+      "name": "GR: Saturday Night (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hk7JciWGMyElCBvcRa34iZnXjt.jpg"
+    },
+    {
+      "name": "GR: The Valiants of Samothrace (2003)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wnvQp9kiMRW9T6pGOKujzsgogFI.jpg"
+    },
+    {
+      "name": "GR: A-X-L (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg"
+    },
+    {
+      "name": "GR: Las leyes de la frontera (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qrq7sGXraFM6H9OcHFKQTKe8A3f.jpg"
+    },
+    {
+      "name": "GR: Η Παιχνιδιάρα (1967)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8fAbsLtzjrdSbSH0fdMNJcUuga.jpg"
+    },
+    {
+      "name": "GR: Οξυγόνο (2003)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/30qgJW6ZxlKJAwlYnRsaraOhfPw.jpg"
+    },
+    {
+      "name": "GR: Ριζότο (2000)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TcoL21SqlRURPKVKClEYFmmmup.jpg"
+    },
+    {
+      "name": "GR: She Dies Tomorrow (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogTna9bUzldTV5l2nyuyJV4tbCH.jpg"
+    },
+    {
+      "name": "GR: Η ζωή ενάμιση χιλιάρικο (1995)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQHF1cIHoYETs424xpz5okY3dok.jpg"
+    },
+    {
+      "name": "GR: Μόλις Χώρισα (2008)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3biKIC1en01KwJILsNs6mo8zKwi.jpg"
+    },
+    {
+      "name": "GR: Φάντασμα με Γόβες (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/phX4R5hjaavV2w1EcMXCtL5uDP.jpg"
+    },
+    {
+      "name": "GR: Black Field (2009)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubNsAqUXwsv06iojrsQSOPqtqtm.jpg"
+    },
+    {
+      "name": "GR: The Very Poor, Inc. (2000)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/sJ2hwtxfqImbHr3n9N1gTUJDemv.jpg"
+    },
+    {
+      "name": "GR: Τζέιμς Μποντ, Πράκτωρ 007: Spectre (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4zNqIQ6Z9NhsV5EhXw4zrnHBSi.jpg"
+    },
+    {
+      "name": "GR: Κατοχή (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg"
+    },
+    {
+      "name": "GR: Juror #2 (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg"
+    },
+    {
+      "name": "GR: Πλατεία Αμερικής (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFgQmxsRZxLfCjOvu2wLJrH0cC9.jpg"
+    },
+    {
+      "name": "GR: Secret Society of Second Born Royals (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qnO3aXSqkKCDw5cEVyNUDexI4NJ.jpg"
+    },
+    {
+      "name": "GR: Αριζονεσ (2023)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Χωρίς Ελπίδα Επιβίωσης 2 (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcqZ1BZe0a0yyvRiEOmRThR6rR6.jpg"
+    },
+    {
+      "name": "GR: Βαλκανιζατέρ (1997)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5F4NOG54K4f9543PQzDiiiPknA0.jpg"
+    },
+    {
+      "name": "GR: Μια Πάπια, Μα Ποια Πάπια (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZnxak7rYqW0FVmMdfMpKKZI4t4.jpg"
+    },
+    {
+      "name": "GR: Βαδίζοντας στους Αιθέρες (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmYvQwiIBeJPjGgmYiSr5gM4XAj.jpg"
+    },
+    {
+      "name": "GR: Νοκ άουτ (1986)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bDdMROLDbty9rSvodOws2tzwzX.jpg"
+    },
+    {
+      "name": "GR: Θα Σε Κάνω Βασίλισσα (1964)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dyrhSE81lc94Ynsc7ZZiK7NyzJ.jpg"
+    },
+    {
+      "name": "GR: Φεγγάρι, σου 'ρχομαι (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhSiFInbkJEZr3AWe0MTNBkHiWe.jpg"
+    },
+    {
+      "name": "GR: Οίκτος (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9frTwTehJZlPypNmM27m22J2srR.jpg"
+    },
+    {
+      "name": "GR: Sonic the Hedgehog 4 (2027)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg"
+    },
+    {
+      "name": "GR: Air Strike(GR)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ve7xmUK167YZloN8LnSyhKmmNgE.jpg"
+    },
+    {
+      "name": "GR: Ακάλυπτος (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qcfdBe6Pp1iel9ODWqjEkK41GF.jpg"
+    },
+    {
+      "name": "GR: Spoiled Brats (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nW5LHayHlbavYD6XRM9SjKi55uu.jpg"
+    },
+    {
+      "name": "GR: Εφάπαξ (2001)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTo0cwgm6DfgMnb6G1wNMdDWJxK.jpg"
+    },
+    {
+      "name": "GR: Φωνάζει Ο Κλέφτης (1965)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMR0xycs0JvnZuZdMAQiZj18ua8.jpg"
+    },
+    {
+      "name": "GR: Η Εποχή των Παγετώνων (2002)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEYK9KoE8ZBpV0qgZrTmmtLcfhO.jpg"
+    },
+    {
+      "name": "GR: Τα σαΐνια του Κόλινγουντ (2002)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGrcgXSa8OwH9sJXEz5BYvIR04M.jpg"
+    },
+    {
+      "name": "GR: Το Κορίτσι της Κάμερας (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7m3sSQhnoT2uuxUsxF4mQX6opr.jpg"
+    },
+    {
+      "name": "GR: Robogirl (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TwVl3ejQvMOiASm8zWwMibHPDD.jpg"
+    },
+    {
+      "name": "GR: Αυτοκίνητα 3 (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCu2paa6M2zGzqSFvUVhSuzLosU.jpg"
+    },
+    {
+      "name": "GR: Bonhoeffer: Pastor. Spy. Assassin (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WtImcI6k9XOcnPmSeN2Kzpf4ay.jpg"
+    },
+    {
+      "name": "GR: (1985) [GR]",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Red One (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO7EbUx1upksUopffTevkfuvOO3.jpg"
+    },
+    {
+      "name": "GR: Ευτυχισμένος Όσκαρ (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCADnvCXflXmEGSVJcNwhFt2HH7.jpg"
+    },
+    {
+      "name": "GR: Αφεντικό (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR9kYBmJ5JZBdDtS9CIziHdKTSD.jpg"
+    },
+    {
+      "name": "GR: Η παγωμένη περιπέτεια του Όλαφ",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Το Πολικό Εξπρές (2004)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Mqk0MYb7rqgcjG5lOP4qPusFXg.jpg"
+    },
+    {
+      "name": "GR: Πώς να Εκπαιδεύσετε το Δράκο σας 3 (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMXkr5aH44efaa2k4FtBHLYL3aq.jpg"
+    },
+    {
+      "name": "GR: Η ιστορία των πρώτων Χριστουγέννων",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Tenet (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdkXPG1dBkd8VnuzQIyzh6B2o0X.jpg"
+    },
+    {
+      "name": "GR: The Lord of the Rings: The War of the Rohirrim (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg"
+    },
+    {
+      "name": "GR: G.I. Joe: Αντίποινα (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZKk8XA0VrvRSdMQvBAF5Nzniwo.jpg"
+    },
+    {
+      "name": "GR: Πελέ (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVKAep8V6rrFh0IhABC0bkzjwK5.jpg"
+    },
+    {
+      "name": "GR: Βαϊάνα (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DSen38zMhnuJNUJHA58y8bzoaJ.jpg"
+    },
+    {
+      "name": "GR: Les Chatouilles (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/h3oNso475RURIBQmrVkyEfwrWOS.jpg"
+    },
+    {
+      "name": "GR: Ο Μαγεμένος Πρίγκιπας (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMjlRcioIfdlYXKOECzs7Jiz5by.jpg"
+    },
+    {
+      "name": "GR: Lost on a Mountain in Maine (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/elKEzHpbdoTMkK0IpUKcK6x1Ttl.jpg"
+    },
+    {
+      "name": "GR: Ο Πεταλούδας (1973)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPS0OSoR6Cs7cQDtrALdsXZRzpY.jpg"
+    },
+    {
+      "name": "GR: Jimmy Vestvood: Amerikan Hero (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z82d7Etu9nThYlo0kR6BOlRt9e0.jpg"
+    },
+    {
+      "name": "GR: Βαρύς γλυκός και... μερακλής! (1988)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/akcnteauo8c9sn7HcPEuMNMLog0.jpg"
+    },
+    {
+      "name": "GR: Φύγαμε! (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxfCWWyvU1ZIOomTXFHMYrCS4fs.jpg"
+    },
+    {
+      "name": "GR: Μήλα (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fmEceo8bVSxG6PUXxMykEnfmLZ.jpg"
+    },
+    {
+      "name": "GR: 4 MAYRA KOYSTOYMIA (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: The Hard Way (1980)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tloF0xEftl2OWQQ7NOYNM1ui7mP.jpg"
+    },
+    {
+      "name": "GR: Νύχτα Επιβίωσης (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3YyfWhzqvYqdd8YV6eixFEZJ3X.jpg"
+    },
+    {
+      "name": "GR: Bearcave (2023)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/dfVxS1vMUS39iQNj5zaDm3ZKnw6.jpg"
+    },
+    {
+      "name": "GR: Το Τανγκό των Χριστουγέννων (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDuiXwUzeR0sdi09A2RNJJqaP3.jpg"
+    },
+    {
+      "name": "GR: Κρίστοφερ And Γουίνι",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Ξύπνημα στον Εφιάλτη (1990)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufLcHIi1aXjjH8MediAMvnwDsVI.jpg"
+    },
+    {
+      "name": "GR: Archive (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg"
+    },
+    {
+      "name": "GR: A Boy Called Christmas (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1sRejtiHOZGggZd9RcmdqbapLM5.jpg"
+    },
+    {
+      "name": "GR: 101 Skilia tis Dalmatians (OLD) (KIDS) [GR]",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Το Γάλα (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQeZO0DXNoMr1BNmiL9TuzfxDc.jpg"
+    },
+    {
+      "name": "GR: The Players (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLJSamC1Z6w69GwWqyvKMyzZr4T.jpg"
+    },
+    {
+      "name": "GR: Dracula of Exarcheia (1983)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/Afdnms4IfOgdjrzB75x4RtEpzgQ.jpg"
+    },
+    {
+      "name": "GR: Άρπα Colla (1982)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdfU3B9vYYuFlGnTyZTU23G1pvW.jpg"
+    },
+    {
+      "name": "GR: Venom (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9cvLbJheMdD1jCdP7U2RcOeXCX.jpg"
+    },
+    {
+      "name": "GR: Tora! Tora! Tora! (1970)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/c311sN931DixuZRer0JGYCwpx9N.jpg"
+    },
+    {
+      "name": "GR: Άοπλος και επικίνδυνος (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rk3Z0X5SnkwimBZj2AQjb5DHHI1.jpg"
+    },
+    {
+      "name": "GR: Η Μανούλα, το Μανούλι και ο Παίδαρος (1982)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7giOX46H7I6t31lOyVs2PkAIs2n.jpg"
+    },
+    {
+      "name": "GR: Έρωτας και Τέρατα (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg"
+    },
+    {
+      "name": "GR: Armor (2014)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/88LXVEZwRwD1NHw9aQF69oiFzWA.jpg"
+    },
+    {
+      "name": "GR: Το Πάρκο των Θαυμάτων (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WS4feA5wyIXrjVK4ntgqmSV7TO.jpg"
+    },
+    {
+      "name": "GR: Assault on Station 33 (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSAvEMPr8ddriiIX2fxbaPwpa5a.jpg"
+    },
+    {
+      "name": "GR: Μόνοι στο Παρίσι (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWxNZ6y7gCE68FPr8mTjfY2FQ56.jpg"
+    },
+    {
+      "name": "GR: My Cousin Rachel (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLPm7mjg8a8Y5veds4fhSWwvlFS.jpg"
+    },
+    {
+      "name": "GR: Eftihia (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/oXK69ImFmvBUpop1UVn7KCuHW2a.jpg"
+    },
+    {
+      "name": "GR: The Red Virgin (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzjOeazNmTFro5G801mX3ktwd9g.jpg"
+    },
+    {
+      "name": "GR: Ξενοδοχείο για Τέρατα 3: Ώρα για διακοπές (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7nuDLkrZk0FJOCpLphCZ1lraA.jpg"
+    },
+    {
+      "name": "GR: Νήsos (2009)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/efK2kker8j4NJdThkhOFeGhoRbZ.jpg"
+    },
+    {
+      "name": "GR: Το Κορίτσι των Αλόγων (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNQ7st9dFXUXENMcsAuVxcrIBfA.jpg"
+    },
+    {
+      "name": "GR: Maria (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dGsp6MNYBVbRaHDgf8LoeLZ57w.jpg"
+    },
+    {
+      "name": "GR: Ύψωμα 33 (1998)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5V828Z8nG5ABfc5h8Vu15PHCV1y.jpg"
+    },
+    {
+      "name": "GR: I Love You, Stupid (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/u3o9zubROS6F3JOMbRzx4Y81JWS.jpg"
+    },
+    {
+      "name": "GR: Dont Die: The Man Who Wants to Live Forever (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Lazareth (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/36o8ancoKDKW1sstzMi0YYkQkpU.jpg"
+    },
+    {
+      "name": "GR: Πολιορκία (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwKfrT2K3Cx8ngGOUomUe9sHHoq.jpg"
+    },
+    {
+      "name": "GR: Αμερικάνικο Ειδύλλιο (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mS8npT8C1Qi97SKDSQZDYlkUPz.jpg"
+    },
+    {
+      "name": "GR: Howard Lovecraft & the Frozen Kingdom (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eKjZo8bGjzbEEw99Iy0hhLUQHF.jpg"
+    },
+    {
+      "name": "GR: Ουζερί Τσιτσάνης (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrUic9oheDDVhCxxzEgfXTTjhBC.jpg"
+    },
+    {
+      "name": "GR: Η μεγάλη των γάτων σχολή (1988)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN81r4f7AHVsdHwM5dQgLaaFHJP.jpg"
+    },
+    {
+      "name": "GR: Sonic the Hedgehog 3 (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
+    },
+    {
+      "name": "GR: Queen of Katwe (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8V2ud6uhV7qH6wEDoQ4Ujw99ji.jpg"
+    },
+    {
+      "name": "GR: Αμετανόητος εργένης (1999)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhDn0yzCDkVCzHEtoLdASSLDHxn.jpg"
+    },
+    {
+      "name": "GR: Click: The Calendar Girl Killer (1990)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNR1Su1jX5ecGDZ8y6cITuTu9fj.jpg"
+    },
+    {
+      "name": "GR: Get Away (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ser6ZCKHMXhQISKULYCxz6Saf3I.jpg"
+    },
+    {
+      "name": "GR: Kereta Berdarah (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzBdYD2u7uZJzpPt8wPTm2yI8Id.jpg"
+    },
+    {
+      "name": "GR: Ρεμπέτικο (1985)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMfttvUWJ4PhzQdOfAnadPhIMKI.jpg"
+    },
+    {
+      "name": "GR: Περπατώντας με τους Δεινόσαυρους: Η ταινία σε 3D (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0zTzx59HsJXMaFaNuXFhfwEPes.jpg"
+    },
+    {
+      "name": "GR: I Dream of My Friends (1993)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/fpjUQ2dg4U3JE2S9f9OyouvDY5I.jpg"
+    },
+    {
+      "name": "GR: The Kissing Booth 2 (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg"
+    },
+    {
+      "name": "GR: Καταραμένη σπορά (1956)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg"
+    },
+    {
+      "name": "GR: Μπουλμπούλ (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg"
+    },
+    {
+      "name": "GR: Tonight We Dine at Iokastis (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/w1xv9Fbxg6DV0mNakfFTgquGzjB.jpg"
+    },
+    {
+      "name": "GR: Jingle Jangle: A Christmas Journey (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/5RbyHIVydD3Krmec1LlUV7rRjet.jpg"
+    },
+    {
+      "name": "GR: Il Paramedico (1982)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4Z1KvQ7UC4CiktHp6icTgm20hD.jpg"
+    },
+    {
+      "name": "GR: Στο Βάθος Κήπος (2009)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke9waalaVjLgY0VD43G48LD7k8K.jpg"
+    },
+    {
+      "name": "GR: Το Κόλπο του Αιώνα (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Pnynm6IhR5J5CeWPK6m6mlzKmk.jpg"
+    },
+    {
+      "name": "GR: Η Νέα Γκουφοταινία (2000)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pllMIq89MxfK6tWrb8Lbzjs9goC.jpg"
+    },
+    {
+      "name": "GR: Ο Κύριος Τζόουνς (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZCUb98qFgKT9aDnBC4bzQdomqn.jpg"
+    },
+    {
+      "name": "GR: Νήsos 2: Το κυνήγι του χαμένου Θησαυρού (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCPnqEjiOVlxnnpxuMcKlfF0EZ7.jpg"
+    },
+    {
+      "name": "GR: A Christmas Prince: The Royal Wedding",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/2bLQTbFWrsunSVQsvOWZAAGACbf.jpg"
+    },
+    {
+      "name": "GR: The Mandela Effect (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B38NHh9C4jHFaKMVAAHssEmvpc.jpg"
+    },
+    {
+      "name": "GR: Ghosts of Red Ridge (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/eNyj1J1GMasLYzss61o2rXz8Lpi.jpg"
+    },
+    {
+      "name": "GR: Prospect (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HpAwszXLsD8GeypDzK0me7fPFA.jpg"
+    },
+    {
+      "name": "GR: Της Κακομοίρας (1963)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaQ4zzEpZkmEWPvoLFFW1W5POlJ.jpg"
+    },
+    {
+      "name": "GR: Seized (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4SHHEf6MH1Z1GmUZBtHwJL7YbY.jpg"
+    },
+    {
+      "name": "GR: Η γυναικάρα απτο Κιλκίς (1985)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Το Τελευταίο Καταφύγιο (1945)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tnliph0BmvpSIkEshWI2Ms6IpB.jpg"
+    },
+    {
+      "name": "GR: The Clean Up Crew (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oinz9e5xvcn0hDQZyWUGPJ0oVye.jpg"
+    },
+    {
+      "name": "GR: Σκοτεινές Δυνάμεις (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYfcxSOCobVhHVhm2qiisxOXUBI.jpg"
+    },
+    {
+      "name": "GR: The Cruise of Love (1988)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/x7DDKwiC5ZWhN4qlB8lNGVlg8GT.jpg"
+    },
+    {
+      "name": "GR: Άλυτη (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/urRBjhOJEv4VnvEQVUlJSuo4NkI.jpg"
+    },
+    {
+      "name": "GR: Viena and the Fantomes (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c4GhelRi8VF6M51CIgkMPKH90O.jpg"
+    },
+    {
+      "name": "GR: Η Γυναίκα Είναι... Σκληρός Άνθρωπος (2005)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t238LkbmqQQTWO1tWmtDGlgN151.jpg"
+    },
+    {
+      "name": "GR: Ο Λούκυ Λουκ στη Ντέιζι Τάουν (1971)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egc1X729MrrVYcbAH20rTpHaXPA.jpg"
+    },
+    {
+      "name": "GR: Κοινός Παρονομαστής (2014)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yldpZEihAfm7XSHrkm7naILycCj.jpg"
+    },
+    {
+      "name": "GR: Heretic (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr96XzlzsONrQrGfdLMiwtQjott.jpg"
+    },
+    {
+      "name": "GR: Zizotek (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qk8jRLPayW2hd7YfwcWERMqBxaj.jpg"
+    },
+    {
+      "name": "GR: Ο αόρατος (2007)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSJloUNJSKWJzQ4RbxBFKOA2p2m.jpg"
+    },
+    {
+      "name": "GR: 28 Oktwbriou to Oxi (1971) [GR]",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "GR: Weekend in Taipei (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg"
+    },
+    {
+      "name": "GR: Σκοτεινός Διάδρομος (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ly2QX6tN8VZNB40RjbA4zCkcLr.jpg"
+    },
+    {
+      "name": "GR: The Babysitter: Killer Queen (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/imy1OoT1xddt2kqw6hhc4v01e8i.jpg"
+    },
+    {
+      "name": "GR: Ο Γιος του Μεγαλοπατούσα (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktPaJONbyKb6GRaBl2rEAz7Wv3t.jpg"
+    },
+    {
+      "name": "GR: The Big Cannon (1981)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/fmsUHABC3PIRy3UkmcDWOulHkdN.jpg"
+    },
+    {
+      "name": "GR: A Thief and a Gentleman (1986)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/zyzUc2zfgqrddZy82AmMet9wpos.jpg"
+    },
+    {
+      "name": "GR: Η Μπαλάντα του Μπάστερ Σκραγκς (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg"
+    },
+    {
+      "name": "GR: STRAW (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg"
+    },
+    {
+      "name": "GR: Sinners (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg"
+    },
+    {
+      "name": "GR: Shadow Force (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IEW24vBiZerZrDlgLVSUU3oT1C.jpg"
+    },
+    {
+      "name": "GR: Predator: Killer of Killers (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbimIPTVsSlnmqSW5ngEsUxtHLM.jpg"
+    },
+    {
+      "name": "GR: On Swift Horses (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qs2AeWbLklk9I5UbI8bllZVfF2V.jpg"
+    },
+    {
+      "name": "GR: Mountainhead (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg"
+    },
+    {
+      "name": "GR: Lost in Starlight (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXlUIfwejWa9YvugU9V773dUASY.jpg"
+    },
+    {
+      "name": "GR: Lilo",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOzWz53TwD0vx1z3ZfzPMJKfk8.jpg"
+    },
+    {
+      "name": "GR: K.O. (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcM2sUiAeP4zXwx4ADSvgc9S58k.jpg"
+    },
+    {
+      "name": "GR: Irish Ashes (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnswhxoK8xGBNIG7LWFiVIM1W4w.jpg"
+    },
+    {
+      "name": "GR: Fountain of Youth (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg"
+    },
+    {
+      "name": "GR: Espantaho (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/itRDwuQxbtmgaxyrHI4rGiIrxxX.jpg"
+    },
+    {
+      "name": "GR: Ed Kemper (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pu2DM7Tle20WnLThBqOfpPToqW6.jpg"
+    },
+    {
+      "name": "GR: Chhorii 2 (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCgKANxZJW645pXdmJdBb4ysRPk.jpg"
+    },
+    {
+      "name": "GR: Bono: Stories of Surrender (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctofSj5nMQDtB1q9TdIQx30P3bY.jpg"
+    },
+    {
+      "name": "GR: Armed (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZCjLIwNgjx0yVDG7R4qygfalSH.jpg"
+    },
+    {
+      "name": "GR: Winter Spring Summer or Fall (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqtMRn27ztlRbFRvfHI9SXHSOns.jpg"
+    },
+    {
+      "name": "GR: Warfare (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg"
+    },
+    {
+      "name": "GR: Tin Soldier (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFFDrFLXywFhy6khHes1LCFVMsL.jpg"
+    },
+    {
+      "name": "GR: Thunderbolts* (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9EtP1Yrzv6v7dMaC9mRaGhd1um.jpg"
+    },
+    {
+      "name": "GR: The Ugly Stepsister (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/crX9rSg9EohybhkEe8iTQUCe55y.jpg"
+    },
+    {
+      "name": "GR: The Biggest Fan (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgUmsekYPOt9ZQ8ero91qRnmhQY.jpg"
+    },
+    {
+      "name": "GR: The Assessment (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1K7be85FAauSbVPzCQ0GjOXUqu.jpg"
+    },
+    {
+      "name": "GR: Snow White (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLxWocqheC8XbXbxqJ3x422j9PW.jpg"
+    },
+    {
+      "name": "GR: Sea Lions of the Galapagos (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hw5MPJDFA9jIrJfJzqrmdTCbrE.jpg"
+    },
+    {
+      "name": "GR: Rust (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg"
+    },
+    {
+      "name": "GR: Nonnas (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg"
+    },
+    {
+      "name": "GR: Karol G: Tomorrow Was Beautiful (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg"
+    },
+    {
+      "name": "GR: Havoc (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg"
+    },
+    {
+      "name": "GR: Goodrich (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/269xdEQkEQjjPtM2WeVDAeetJn8.jpg"
+    },
+    {
+      "name": "GR: Flintoff (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLwoKiOMQAuwA6XWnCPZZFwHNzP.jpg"
+    },
+    {
+      "name": "GR: Exterritorial (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg"
+    },
+    {
+      "name": "GR: Drop (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS2S5lpfgRIRQOb7LDCjNsQqKjp.jpg"
+    },
+    {
+      "name": "GR: Detained (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtIWcxnueqEOg2WhIk4cHjtv41D.jpg"
+    },
+    {
+      "name": "GR: Death of a Unicorn (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXR32JepFwD1UHkplWqtBP1K79z.jpg"
+    },
+    {
+      "name": "GR: Chasing the Wind (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pg6sFi0pv8cPelkJGLZqmUxh24F.jpg"
+    },
+    {
+      "name": "GR: Bullet Train Explosion (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmzxlDBwgvRbpPJzNQwizyn9UEn.jpg"
+    },
+    {
+      "name": "GR: Killer Book Club (2023)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZH0sAUV0nfEEDBUdWBMLjs2XnN.jpg"
+    },
+    {
+      "name": "GR: Last Bullet (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qycPITRqXgPai7zj1gKffjCdSB5.jpg"
+    },
+    {
+      "name": "GR: Bad Influence (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghhooCOqQDqC6vhS1SVN2tCE0k8.jpg"
+    },
+    {
+      "name": "GR: A Simple Favor (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg"
+    },
+    {
+      "name": "GR: Another Simple Favor (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg"
+    },
+    {
+      "name": "GR: 1992 (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPvFmQZM5HMspryyYbrtW02NR0G.jpg"
+    },
+    {
+      "name": "GR: The Alto Knights (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg"
+    },
+    {
+      "name": "GR: Pets (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fceOcpao9ElxZUdb9Y7zKKgFk5X.jpg"
+    },
+    {
+      "name": "GR: Opus (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg"
+    },
+    {
+      "name": "GR: Meet the Khumalos (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEZHHgL1g4oA6OCntHGudDIgQlb.jpg"
+    },
+    {
+      "name": "GR: Magpie (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6mB5j1IiM00Pl2u71hQXRcHV70.jpg"
+    },
+    {
+      "name": "GR: Magazine Dreams (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg"
+    },
+    {
+      "name": "GR: Locked (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhkiqXpfpufwxVrdSftzeKIANl3.jpg"
+    },
+    {
+      "name": "GR: It Feeds (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNcVsbNvJRDnMrloUCvb6Tii52r.jpg"
+    },
+    {
+      "name": "GR: In the Lost Lands (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6HJH3gXtUqVinyFKWi7Bjh73TM.jpg"
+    },
+    {
+      "name": "GR: Home Sweet Home: Rebirth (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg"
+    },
+    {
+      "name": "GR: High Rollers (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHowAaChDjwueySmwVbsjHmpWa.jpg"
+    },
+    {
+      "name": "GR: Henry Danger: The Movie (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg"
+    },
+    {
+      "name": "GR: G20 (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv6oWAleCJZUk5htrGg413t3GCy.jpg"
+    },
+    {
+      "name": "GR: Find Me Falling (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg"
+    },
+    {
+      "name": "GR: Festival of the Living Dead (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/85iZ4LWNcsAOZhVxf8xYscDKIQe.jpg"
+    },
+    {
+      "name": "GR: Borderline (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg"
+    },
+    {
+      "name": "GR: A Working Man (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUkUZ8eOnrOnnJAfusZUqKYZiDu.jpg"
+    },
+    {
+      "name": "GR: The Life List (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fg98cVo7da7OIK45csdLSd4NaU.jpg"
+    },
+    {
+      "name": "GR: The Last Stop in Yuma County (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6ae2MMh8PpSamO3cIttLM5B18v.jpg"
+    },
+    {
+      "name": "GR: Someone Like You (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsvD0BjEQIIoh2PpE5X7VXmSrQO.jpg"
+    },
+    {
+      "name": "GR: Riff Raff (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPSur71bxvFVdQ6RdKv0yaVKT2n.jpg"
+    },
+    {
+      "name": "GR: Rich Flu (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKmn4SrS41loy8gMzyxups69Xof.jpg"
+    },
+    {
+      "name": "GR: Novocaine (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg"
+    },
+    {
+      "name": "GR: Mickey 17 (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg"
+    },
+    {
+      "name": "GR: Holland (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg"
+    },
+    {
+      "name": "GR: Con Mum (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA5ZHflyzsxmR09Ce53w9Ng0tIx.jpg"
+    },
+    {
+      "name": "GR: Cleaner (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg"
+    },
+    {
+      "name": "GR: Carjackers (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbkPMTz2vVai7Ujyp0ag7AM9SrO.jpg"
+    },
+    {
+      "name": "GR: Bring Them Down (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jskL5eOFTQknpRalJ4chVYyuFo.jpg"
+    },
+    {
+      "name": "GR: Black Bag (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPovtU4b96LHcoeEwRkGHI5btw.jpg"
+    },
+    {
+      "name": "GR: Becoming Led Zeppelin (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAxteOtjaeQN045qNNbSEwu78c4.jpg"
+    },
+    {
+      "name": "GR: Anna (2019) Dual",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hoWcpU5jGVvPi7p5Fqg8BWeinu.jpg"
+    },
+    {
+      "name": "GR: A Minecraft Movie (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg"
+    },
+    {
+      "name": "GR: A Little Something Extra (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhL8QC7O6fFfwgV6pDf1WSOxGcY.jpg"
+    },
+    {
+      "name": "GR: A Knight's War (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/janjdSMrTRGtPrI1p9uOX66jv7x.jpg"
+    },
+    {
+      "name": "GR: The Fire Inside (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMorkoCdZJ1xmKv0VAXcpUax6Ar.jpg"
+    },
+    {
+      "name": "GR: The Electric State (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRdxyW5ZmhD3ycStlb7gwOewTuE.jpg"
+    },
+    {
+      "name": "GR: Silent Zone (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg"
+    },
+    {
+      "name": "GR: Hagen (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQ1nTnV6neOhBeDJj87IUHDLwb0.jpg"
+    },
+    {
+      "name": "GR: Last Breath (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w04Xg5Bnqj7ECdCxTsHgqK6AtJW.jpg"
+    },
+    {
+      "name": "GR: Delicious (2025)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1ZIvviAEuIHcH9x6sv112mSvTR.jpg"
+    },
+    {
+      "name": "GR: Amber Alert (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI0WxsgVFE5RkPA7G6PznWRxBEW.jpg"
+    },
+    {
+      "name": "GR: Agents (2024)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvdkVb070AqZZpTBOZzbrnsGL3d.jpg"
+    },
+    {
+      "name": "GR: Crypto (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg"
+    },
+    {
+      "name": "GR: Pet Sematary (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg"
+    },
+    {
+      "name": "GR: 10 ημέρες χωρίς μαμά (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ih0727BoT24cg87aOVfppZyqzNQ.jpg"
+    },
+    {
+      "name": "GR: Digger (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwH8azDUBj4jDMFCfXxVdUNswXU.jpg"
+    },
+    {
+      "name": "GR: Cloud 9 (2014)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztrYqCPwFult7UMTiHyVxp1xHSc.jpg"
+    },
+    {
+      "name": "GR: DOS: Μια Ιστορία Αγάπης Απ' Την Ανάποδη (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIEtdnhaqrW5kk775uWGpPANXg2.jpg"
+    },
+    {
+      "name": "GR: Dragon Ball Z: Battle of Gods (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxZEdYcHMuD8SSuwusDnK9CD2H1.jpg"
+    },
+    {
+      "name": "GR: 11 Meetings with My Father (2012)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooDz84afzq3wF1gXjdjLDCB5v4j.jpg"
+    },
+    {
+      "name": "GR: 7 Prisoners  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg"
+    },
+    {
+      "name": "GR: GR -1968 (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2P8e3TF1CWPBuDpT2OULTdviwP.jpg"
+    },
+    {
+      "name": "GR: 180 MOIRES (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRPlz8qDsqzyGJ5bB5rQK04yZdj.jpg"
+    },
+    {
+      "name": "GR: 7500  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg"
+    },
+    {
+      "name": "GR: @9: At nine (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBsmOCTbhzjxdEM57WBUcbOSiiz.jpg"
+    },
+    {
+      "name": "GR: American Pie Presents: Girls' Rules  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqvX5A24dbIWaeYsMTxxKX5qOfz.jpg"
+    },
+    {
+      "name": "GR: Ace (2022)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zK8qx4Ul2K89FhtHfJyMf4Gi1jm.jpg"
+    },
+    {
+      "name": "GR: Adults in the Room (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3Cb5AkA5eDucPLlIEHzzVfzJcz.jpg"
+    },
+    {
+      "name": "GR: AI Love You (2022)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBiJOvHCSWORnFpc4yItflIkdTi.jpg"
+    },
+    {
+      "name": "GR: Allou to oneiro, ki allou to thavma (1957)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/krGkekxdNflS7Nk4p6r6LYnAi1g.jpg"
+    },
+    {
+      "name": "GR: Amerika Square (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeNVenor2PEMbK9FJ9iHnzH8ZMS.jpg"
+    },
+    {
+      "name": "GR: Another Me (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryGdE6W9oMSKSRE0CSaHActo4oh.jpg"
+    },
+    {
+      "name": "GR: Antebellum: Η Εκλεκτή (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg"
+    },
+    {
+      "name": "GR: Apo Erota (2022)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDmlvSM8gY0ycMU0f690aaqoCTA.jpg"
+    },
+    {
+      "name": "GR: Bad Boys for Life  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg"
+    },
+    {
+      "name": "GR: Benedetta  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eJfB8ZwnspJV4IwREbRrfiyVag.jpg"
+    },
+    {
+      "name": "GR: Cherry (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg"
+    },
+    {
+      "name": "GR: Chemical Hearts  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1MNlZYqhoD4U7sd7pjxD6SUf4z.jpg"
+    },
+    {
+      "name": "GR: Coming 2 America (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWBPLkqNApY5pgrJFMiI9joSI30.jpg"
+    },
+    {
+      "name": "GR: Chevalier (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91kb0L9fkGtoL86zhDWZqzsG1BU.jpg"
+    },
+    {
+      "name": "GR: Common Denominator (2014)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yldpZEihAfm7XSHrkm7naILycCj.jpg"
+    },
+    {
+      "name": "GR: Copshop  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/szArp3dQlVajpsqpyPFVAFHFsa3.jpg"
+    },
+    {
+      "name": "GR: Crying... Silicon Tears  (2001)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bi5paxTmFDPIomPsxpTcPMDfiE.jpg"
+    },
+    {
+      "name": "GR: Dangerous  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTtkQGC7qKlSRQJZYtAWAmYdH0A.jpg"
+    },
+    {
+      "name": "GR: Dark Waters: The Cost of Being a Hero  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://d2j1wkp1bavyfs.cloudfront.net/image-assets/685234/oAlLl2ZePjQSRstSysML7GSfpBI.jpg?d=360x540&q=50"
+    },
+    {
+      "name": "GR: Daughter of the Wolf (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghoNQkJX9Hk1m8GxTsBg4Xez1gn.jpg"
+    },
+    {
+      "name": "GR: Debt Collectors (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8FWpw3WHUo9EvU1xMWZRjdRlN3.jpg"
+    },
+    {
+      "name": "GR: Do It Yourself (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg6HpmwR4w5PlqHoWQPc9y5i4FV.jpg"
+    },
+    {
+      "name": "GR: Dolittle (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg"
+    },
+    {
+      "name": "GR: Dragonheart: Vengeance  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qs6gz6atyQcAvqC6qZaslOjliUG.jpg"
+    },
+    {
+      "name": "GR: Dumbo (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTF2omZq1izOeplnnSACxhs4NLF.jpg"
+    },
+    {
+      "name": "GR: Echoes of the Past (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zArux8QGV9dh67OkrH3OHfNgb7g.jpg"
+    },
+    {
+      "name": "GR: Enemy Lines (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vG8qBkByy9naORB6zahcntIC2N.jpg"
+    },
+    {
+      "name": "GR: Entwined (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0WrsrB39BvlkwgHZnCNTKDFIEC.jpg"
+    },
+    {
+      "name": "GR: Extracurricular (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPX6i486V5ZJkDvNkMAvqCDUVA2.jpg"
+    },
+    {
+      "name": "GR: Extremely Non-Graphic (2008)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbCJ0kF2bbgk2W942HqsTQ2He7m.jpg"
+    },
+    {
+      "name": "GR: Fantasy Island (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg"
+    },
+    {
+      "name": "GR: Fatal Affair (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg"
+    },
+    {
+      "name": "GR: Fatman (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4n8QNNdk4BOX9Dslfbz5Dy6j1HK.jpg"
+    },
+    {
+      "name": "GR: Feel the Beat (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg"
+    },
+    {
+      "name": "GR: Flight  (2012)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AjXgBM2lkpG3FLQO0f6AK3Bi1e.jpg"
+    },
+    {
+      "name": "GR: Forever (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQYH0ozz2VWOYdQS1Mg4yTrn8Nt.jpg"
+    },
+    {
+      "name": "GR: Free Subject (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLr9oXPuPezMkMDOva2BRJcoQFZ.jpg"
+    },
+    {
+      "name": "GR: Gabriel's Inferno  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg"
+    },
+    {
+      "name": "GR: Gemini Man  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg"
+    },
+    {
+      "name": "GR: Gia Panta 2020",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQYH0ozz2VWOYdQS1Mg4yTrn8Nt.jpg"
+    },
+    {
+      "name": "GR: Glass (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg"
+    },
+    {
+      "name": "GR: Go Karts (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnOSpITigPAG2SvmoxTSFJy35sv.jpg"
+    },
+    {
+      "name": "GR: Greyhound: Η Μάχη του Ατλαντικού (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjMbDciooTbJPofVXgAoFjfX8Of.jpg"
+    },
+    {
+      "name": "GR: Guns Akimbo (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kNnf7BwRCEm4bcFkdiE0T4U25s.jpg"
+    },
+    {
+      "name": "GR: Hamilton (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1B7tW0t399VDjAcWJh8m87469b.jpg"
+    },
+    {
+      "name": "GR: Happy Birthday",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DprWSbxeQlrRyoQOZJvR9S7U3E.jpg"
+    },
+    {
+      "name": "GR: Hardcore  (2004)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hShWXsl6GvLk7dPMEZbnCApIQJG.jpg"
+    },
+    {
+      "name": "GR: Harriet (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNmuY9vOx1AEh3G8G1IUppFKAgj.jpg"
+    },
+    {
+      "name": "GR: Heavenquest: A Pilgrim's Progress (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLDPLia17AwMqSaRHccyAlInkch.jpg"
+    },
+    {
+      "name": "GR: Holly Slept Over  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQt9IC25jeJ0r1T4q6i29qDca3y.jpg"
+    },
+    {
+      "name": "GR: Holy Boom  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcFnI3ec55uvLKoweVtzULGJl1g.jpg"
+    },
+    {
+      "name": "GR: Host  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7dZpJDORYs5c56dydbrLFkEXpE.jpg"
+    },
+    {
+      "name": "GR: Hotwired in Suburbia (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDr7VhB8sTGc38fK7wrvRSFhMF6.jpg"
+    },
+    {
+      "name": "GR: Hubie Halloween (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbhC6qRydXyRmpUdcl9bL9rARya.jpg"
+    },
+    {
+      "name": "GR: If the Violin Were a Bird (1984)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iua5unkhBl2lAXGFT2OIFLnhvq7.jpg"
+    },
+    {
+      "name": "GR: Ilias Petropoulos: A World Underground (2005)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pnrkk2ym7GuWvc9CfErsHV6pPD.jpg"
+    },
+    {
+      "name": "GR: I Love Karditsa (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76wk7EZ2zn9Cscwpah76f4aLru6.jpg"
+    },
+    {
+      "name": "GR: Ip Man 4: The Finale (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg"
+    },
+    {
+      "name": "GR: In Between the Trees  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqJS1CDTgkJU7Sik2GlRUtZyFfP.jpg"
+    },
+    {
+      "name": "GR: Inception (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojCYOPJNUPGs9ZRrOkG08OXBQ9o.jpg"
+    },
+    {
+      "name": "GR: I Neraida Kai to Palikari (1969)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Mkc0RXMMTZxtWMvMMy8BayCW5m.jpg"
+    },
+    {
+      "name": "GR: Invisible (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7YloejVvMZpCUB6PtumeMzTnrP.jpg"
+    },
+    {
+      "name": "GR: I Prosfugopoula (1938)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1nYJPDPCAo2XCsmpG0tDLEfNM4.jpg"
+    },
+    {
+      "name": "GR: James vs. His Future Self  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8sByTC0QUTk5IMrCvl1hTNh0KV.jpg"
+    },
+    {
+      "name": "GR: John Henry  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwtOfT2hUs9TjqOnqj40JyJ71Ke.jpg"
+    },
+    {
+      "name": "GR: Jumanji: The Next Level (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg"
+    },
+    {
+      "name": "GR: Jumanji: The Next Level  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zkHAeMKtY8l5I3ZbWvwPRhOAku.jpg"
+    },
+    {
+      "name": "GR: Just Broke Up (2008)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92qTbUXZp29jfIXs7GzI6io9R3z.jpg"
+    },
+    {
+      "name": "GR: Kamikazi, agapi mou (1983)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysRL6LMYr8oyxTAUlQh4MbgukFi.jpg"
+    },
+    {
+      "name": "GR: Kill Chain  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy0Xs5mGtD92PyKvsl0lxzbzscG.jpg"
+    },
+    {
+      "name": "GR: Killerman  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWpbW893AGmSBbFdACjY0xllw7D.jpg"
+    },
+    {
+      "name": "GR: Kim Possible (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t37Xa74GFO1R3kebocqSV4hFrPO.jpg"
+    },
+    {
+      "name": "GR: Klearchos, Marina and Short (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9M8Io4txEcPJ0Mc1aLVVmOJ3uf.jpg"
+    },
+    {
+      "name": "GR: Kiss the Ground  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1fUwIQpJPOYNcDeFzX1o7Gd6J9.jpg"
+    },
+    {
+      "name": "GR: Lacta-Η γεύση της αγάπης - Η ταινία (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAxBrZLh5mxXtFRRCekHtZRx997.jpg"
+    },
+    {
+      "name": "GR: Last Moment of Clarity (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHWbWIB2YntY9865pXfqoVf8vAy.jpg"
+    },
+    {
+      "name": "GR: Lassie Come Home (1943)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boMs7uR8yJEnHKSvzkszS6eenmz.jpg"
+    },
+    {
+      "name": "GR: Made in Italy  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKjD3DTZjRI3Ipkf7Oz5zAILnwD.jpg"
+    },
+    {
+      "name": "GR: Last Christmas  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iC1o6mlZE2eFHnEwVzdfe4xxIn3.jpg"
+    },
+    {
+      "name": "GR: Learn How to Read and Write, Son (1981)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fF1nPCqlUOtU59aYARzFn5hiZO.jpg"
+    },
+    {
+      "name": "GR: Like a Boss  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jagLrSx41JKcMzxPhUsAoOiS0ji.jpg"
+    },
+    {
+      "name": "GR: Loafing and Camouflage (1984)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VZBeIEAMYwlqHSGjAlhJNjBlpl.jpg"
+    },
+    {
+      "name": "GR: Loufa kai parallagi: Seirines sti steria (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GyFDUb1kaHUl6mClMWDH81PyIl.jpg"
+    },
+    {
+      "name": "GR: Love, Guaranteed  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K22JB6fZZLBuM0knfl8rs9Zoxg.jpg"
+    },
+    {
+      "name": "GR: Lysistrata (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUliSvsV2LRfKzSS5YuasRuL1PM.jpg"
+    },
+    {
+      "name": "GR: Malibu Rescue: The Next Wave  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7B1gSxMdgZCCJcMRgo65T5lByMw.jpg"
+    },
+    {
+      "name": "GR: Man of God (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvbyqV8CPMSiqaeOXteRXYg6CPI.jpg"
+    },
+    {
+      "name": "GR: Mortal Kombat (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xmx8oPlbDaxTjHsIOZvOt5L3aJ.jpg"
+    },
+    {
+      "name": "GR: Midway to Love  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvLI9q2TJfa6GZT8RiCcQ0b7ryl.jpg"
+    },
+    {
+      "name": "GR: Miss Fisher και η κραυγή των δακρύων  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQWPwTDB6aikTmxYhp668sdRobd.jpg"
+    },
+    {
+      "name": "GR: Mon frère  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMW0B2Hou4nXnZGCPkucRSgI3U0.jpg"
+    },
+    {
+      "name": "GR: Moon Dust (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://fastly-s3.allmovie.com/iva/movie/145184/300/145184.jpg"
+    },
+    {
+      "name": "GR: Mortal (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg"
+    },
+    {
+      "name": "GR: MotoGP 2019 Review  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGG0eJ7b88kk5V0SHJYUuTADkUZ.jpg"
+    },
+    {
+      "name": "GR: Mulan (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
+    },
+    {
+      "name": "GR: Murder Manual  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gro3wXf2mGMdL8LW3FBkgSO78FW.jpg"
+    },
+    {
+      "name": "GR: My Spy  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg"
+    },
+    {
+      "name": "GR: Mythopathy (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrr8kibQErzrHbjAw92FyaF7IqI.jpg"
+    },
+    {
+      "name": "GR: Offering to the Storm  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLZeYC5XBi3SuJFhyNFpAGGneQH.jpg"
+    },
+    {
+      "name": "GR: Oblivion  (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg"
+    },
+    {
+      "name": "GR: Oi 900 tis Marinas (1961)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82IVhj3UzT0JWnHMXYOeLQcuFgd.jpg"
+    },
+    {
+      "name": "GR: O kapetanios ki i horeftria (1989)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.zartans.com/image/cache/catalog/MOVIES/VHS/GREEK-CULT/1759020231441-1000x1000.jpeg"
+    },
+    {
+      "name": "GR: On the Rocks  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg"
+    },
+    {
+      "name": "GR: Ouzeri Tsitsanis (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7n6KzGIw1nr6Bm1BseWWG5EH3PW.jpg"
+    },
+    {
+      "name": "GR: Palm Springs  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg"
+    },
+    {
+      "name": "GR: Playing with FIRE: The Documentary  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMGSXTUChyJPJnSQh9vr9jr5Nia.jpg"
+    },
+    {
+      "name": "GR: Peninsula  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmzfmGxXxSF716SYBW6seMgxMWE.jpg"
+    },
+    {
+      "name": "GR: Peppermint  (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg"
+    },
+    {
+      "name": "GR: Polyxeni (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h70pZ0PIYqooSEn0GIuxZo2UUN.jpg"
+    },
+    {
+      "name": "GR: Project Power  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "name": "GR: Po, po! Manoulia mana mou!",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://bcdn.vendora.gr/0/2a/4f/2a4ffb0984978a52b7549bb0b051c87a1d05525b.jpg?class=l"
+    },
+    {
+      "name": "GR: Prey (2022)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg"
+    },
+    {
+      "name": "GR: Psych 2: Lassie Come Home  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LXQUhkzo27jKotK7poHkNaw59B.jpg"
+    },
+    {
+      "name": "GR: Resistance  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/As22MQ8G3ILsdzsSIv1u9qEz6hE.jpg"
+    },
+    {
+      "name": "GR: Rembetiko (1983)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bruXtZhukST9eP2ABKanlltoBC.jpg"
+    },
+    {
+      "name": "GR: Repo Men  (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/briDKf5nrLzox2zcI6pquKeqWz8.jpg"
+    },
+    {
+      "name": "GR: Sala samobójców. Hejter (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fX3XYJZLumDtTfncHY233Cwiorj.jpg"
+    },
+    {
+      "name": "GR: Risotto (2000)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TcoL21SqlRURPKVKClEYFmmmup.jpg"
+    },
+    {
+      "name": "GR: Save Yourselves!  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/za0KbrYRWsfwL2lPGMG9GXHQNpU.jpg"
+    },
+    {
+      "name": "GR: Scream (1964)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdLSBpeb1bCVWOEdVzPBdcoAcpk.jpg"
+    },
+    {
+      "name": "GR: Secret November (2002)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFIqssq4HAN5e9r20yFkkIUT8S.jpg"
+    },
+    {
+      "name": "GR: See You in Hell, My Darling  (1999)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hv2HVKe8pGMq0mu22XbAICFr7V.jpg"
+    },
+    {
+      "name": "GR: Seriously Single  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qptLj4WxATqp3MZq97JmhYjtc9B.jpg"
+    },
+    {
+      "name": "GR: Sex Και Ψυχανάλυση (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pi5IH9zLMhRB1DQyt5zq7Nq7Be.jpg"
+    },
+    {
+      "name": "GR: Shirley  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSwTnNS7TKAS79Sz9LvyqlBxxrU.jpg"
+    },
+    {
+      "name": "GR: Siege on Liperti Street (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iakzRe3ooPwTCZnriolwS1fh2Yn.jpg"
+    },
+    {
+      "name": "GR: Skin Walker  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqbr6U2tvQvvSIEQjoKJNKeOok0.jpg"
+    },
+    {
+      "name": "GR: Sniper: Assassin's End  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiymaaYeAl9ZBoyUz2tz4k2XaKv.jpg"
+    },
+    {
+      "name": "GR: Sniper: Assassin's End (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiymaaYeAl9ZBoyUz2tz4k2XaKv.jpg"
+    },
+    {
+      "name": "GR: Sonic - THE MOVIE (1970)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJUmBvv5KKe5Oi3kkyVsONo2hZI.jpg"
+    },
+    {
+      "name": "GR: Sonic the Hedgehog - Around the World in 80 Seconds  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QtynDpIcbwhNxFAAKNXapodGGo.jpg"
+    },
+    {
+      "name": "GR: Spin Me Round (2022)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQ3EWU329YDGi4BOrEHpopq0BZi.jpg"
+    },
+    {
+      "name": "GR: Standing Aside, Watching (2013)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/47l16p6LXVaqpMI6oVJIwMJa8NI.jpg"
+    },
+    {
+      "name": "GR: Star Trek Beyond  (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnQp8GmOWahIgQaH60Kwez3TNzw.jpg"
+    },
+    {
+      "name": "GR: Stone Years (1985)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfM6P4I3j7S9zCImLjhtYJlRcxr.jpg"
+    },
+    {
+      "name": "GR: Tainted  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQhIPRY9k7SxwslI4vwQg4TBMA2.jpg"
+    },
+    {
+      "name": "GR: Tall, Thin and a Big Liar (1985)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJv9N56oyCESV8d1dApLe0IxxN7.jpg"
+    },
+    {
+      "name": "GR: Tanhaji: The Unsung Warrior  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vO0gmWUmLAnVUtVbuWEScIWEAy.jpg"
+    },
+    {
+      "name": "GR: The Bachelor (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N28Bt0hccf2fZiCIJVqsAfRqSE.jpg"
+    },
+    {
+      "name": "GR: The Boy, the Dog and the Clown  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l54ovwJJgAlt9RPMWMnBUJtUl3H.jpg"
+    },
+    {
+      "name": "GR: The Boys in the Band  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D2gi13hnrXWaspWuWmdbEZ8bef.jpg"
+    },
+    {
+      "name": "GR: The Broken Hearts Gallery  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGkr4r1e8nubmSNKJpv3HL6sFrA.jpg"
+    },
+    {
+      "name": "GR: The Chronicles of Rebecca  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv6k22ylqyKiX4ZAs2TTlJaNyI4.jpg"
+    },
+    {
+      "name": "GR: The Conjuring: The Devil Made Me Do It  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/isghxwTkgHsSfoEmXK1QZEYTjUl.jpg"
+    },
+    {
+      "name": "GR: The Death",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBmDNNEukyBXhqtH3ehWWUnJOmF.jpg"
+    },
+    {
+      "name": "GR: The Doorman  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pklyUbh4k1DbHdnsOMASyw7C6NH.jpg"
+    },
+    {
+      "name": "GR: The Fable: The Killer Who Doesn't Kill  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSiRzRAbT5p9V0RKbEFM6ikk2Hu.jpg"
+    },
+    {
+      "name": "GR: The Forty-Year-Old Version  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilMExVn5xyfIWAnqngqAB0OFsE5.jpg"
+    },
+    {
+      "name": "GR: The Girl of the Taverna (1952)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9Zz1dDmX7P5d5FCVT58lNgqF52.jpg"
+    },
+    {
+      "name": "GR: The Good Liar  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM7chTMSMUALhSQS85rjrMTQGZN.jpg"
+    },
+    {
+      "name": "GR: The Island (2009)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/efK2kker8j4NJdThkhOFeGhoRbZ.jpg"
+    },
+    {
+      "name": "GR: The Larva Island Movie (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg"
+    },
+    {
+      "name": "GR: The Last Boy Scout  (1991)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6IhU7Vuy9kvK3xrJRZnDd7Zh7H.jpg"
+    },
+    {
+      "name": "GR: The One and Only Ivan (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktk2TlhVrukJv1jPJbiWY3nsHM6.jpg"
+    },
+    {
+      "name": "GR: The Limousine (2014)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLyZfoE0rJXsTE94pKYB5vEZSBH.jpg"
+    },
+    {
+      "name": "GR: The Love of Ulysses (1984)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfeGDrhjavT7GKrDEJcqBYdJ2Ja.jpg"
+    },
+    {
+      "name": "GR: The Magic City (1955)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpKgQttzr1mtWgLZ3TBjOunXFit.jpg"
+    },
+    {
+      "name": "GR: The Magic Mirror (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KJchDlgJwpgwez3y7FINdaJSiu.jpg"
+    },
+    {
+      "name": "GR: The Man with the Carnation (1980)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PpeepjpCZkF6IHfjc61ZrHlJlQ.jpg"
+    },
+    {
+      "name": "GR: The Rhythm Section (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/spTr0VYyRtl36Lkk6nCnnbFXhus.jpg"
+    },
+    {
+      "name": "GR: The Miracle of the Sargasso Sea (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OZaeGyAyCzytciOuReIdaxosh6.jpg"
+    },
+    {
+      "name": "GR: The Silencing  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnN1ncxEOO1TY0gYL2FWxJqlhlL.jpg"
+    },
+    {
+      "name": "GR: The Owners  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzFatNrw0lhKD5NxaU6zC7S2KjP.jpg"
+    },
+    {
+      "name": "GR: The Peanut Butter Falcon  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ8mOLbtr9yfD80nxOnoUKJxXYr.jpg"
+    },
+    {
+      "name": "GR: The Sound of Silence  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXkv8lkX9gdJyUxxrulJ2PWzidI.jpg"
+    },
+    {
+      "name": "GR: The Pink Cat (1985)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZ0vPsDIqDP62zK80sdCi8cdx6s.jpg"
+    },
+    {
+      "name": "GR: The Princess Switch 3: Romancing the Star  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4r6PuRqRdy46chzEMftrgrQQ7D.jpg"
+    },
+    {
+      "name": "GR: The Quarry  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sxN5XRWPXes5gg2E9sGRTkhMAb.jpg"
+    },
+    {
+      "name": "GR: The Rhythm of Crime (1981)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7H7HV1pJOsv5Tqo4esTw0Btcmt.jpg"
+    },
+    {
+      "name": "GR: The Tax Collector  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg"
+    },
+    {
+      "name": "GR: The Sleepover  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iEc34Qje2V3FZnrSXKfZsbiHjW.jpg"
+    },
+    {
+      "name": "GR: The Swindlers (1954)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJsHZlleoyAH2Ak13TSTQLgpTXu.jpg"
+    },
+    {
+      "name": "GR: Togo  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg"
+    },
+    {
+      "name": "GR: The Wolf's Call  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bxIzp9w9l9ZzGVwNaIKOaem05A.jpg"
+    },
+    {
+      "name": "GR: Timmy Failure: Mistakes Were Made (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg"
+    },
+    {
+      "name": "GR: The Thing About Harry  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdn5NdFMcsub3QUwlovOA9fPJoW.jpg"
+    },
+    {
+      "name": "GR: Twin Murders: The Silence of the White City  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOA4MbyJZVJHGZ38wC4LPpruBBX.jpg"
+    },
+    {
+      "name": "GR: Tremors: Shrieker Island  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg"
+    },
+    {
+      "name": "GR: The Waiter (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVGYTbtfCHFsUnFTHHQs3vRIGIf.jpg"
+    },
+    {
+      "name": "GR: Trauma Center  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K73wvCTBA3XKgZTtOZWgENUnis.jpg"
+    },
+    {
+      "name": "GR: tick, tick...BOOM! (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
+    },
+    {
+      "name": "GR: Two of Us (2000)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYNZiFc4PKZ00tBDEhlv6aJWC7E.jpg"
+    },
+    {
+      "name": "GR: To xypnima tis anoixis AKA Spring Awakening (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJU36CuX0pozvpzHovCL3zzFaIZ.jpg"
+    },
+    {
+      "name": "GR: Tsiou  (2005)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEfYUtrIO8Fa5U8P5ibzdsdHOdg.jpg"
+    },
+    {
+      "name": "GR: Unpregnant  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wZPuZIYjfO2eEHgOKUdJ8QjC6E.jpg"
+    },
+    {
+      "name": "GR: Underworld: Blood Wars  (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDupSRbqxJhSrjKQI33w7Fd8Owz.jpg"
+    },
+    {
+      "name": "GR: Unfair World  (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPnSo2xNl9e2nXbgIBAxeRECvJh.jpg"
+    },
+    {
+      "name": "GR: Up, Down and Sideways (1992)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cr3R1YAtru2upczeWkw22ZDN09W.jpg"
+    },
+    {
+      "name": "GR: Welcome to Sudden Death  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/elZ6JCzSEvFOq4gNjNeZsnRFsvj.jpg"
+    },
+    {
+      "name": "GR: Vampires vs. the Bronx  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcdBUbbYNccz8q9LOuBEKC1avMA.jpg"
+    },
+    {
+      "name": "GR: Vasika... kalispera sas",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDH6QuzSeytYjzzYoLktgWRzm13.jpg"
+    },
+    {
+      "name": "GR: We Summon the Darkness  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXAwq18CJYmzhLZNbLpBf3dG3A5.jpg"
+    },
+    {
+      "name": "GR: Wendy  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nphsStbtAuJ2IaXtCvDXDwMUF5N.jpg"
+    },
+    {
+      "name": "GR: Venom: Let There Be Carnage  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CRxFbOKzHpGVGp8SaaCNlAY2DD.jpg"
+    },
+    {
+      "name": "GR: Vourate Geitonoi: The Movie (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwumt7OY0Yy2tuZUhqivdhvtn2H.jpg"
+    },
+    {
+      "name": "GR: Voyage to Cythera  (1984)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1upp3fkHlNi0iOp5NiM6RftuqZ.jpg"
+    },
+    {
+      "name": "GR: Willy's Wonderland  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/keEnkeAvifw8NSEC4f6WsqeLJgF.jpg"
+    },
+    {
+      "name": "GR: Zack Snyder's Justice League (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg"
+    },
+    {
+      "name": "GR: What Happened to Monday  (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aSARLtJUwbxjHA0HDHcAZc2xoo.jpg"
+    },
+    {
+      "name": "GR: What We Found  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfef0c4bKXvjpwGfRAEZ0zNYckp.jpg"
+    },
+    {
+      "name": "GR: Work It  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg"
+    },
+    {
+      "name": "GR: World Gone Mad (1963)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWcNqp3Lo2bnr2pvV4XrlorB3Pv.jpg"
+    },
+    {
+      "name": "GR: Worlds Apart (2015)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuDTX2SjZAd9FTyMGJE08pcsTKH.jpg"
+    },
+    {
+      "name": "GR: You Should Have Left  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg"
+    },
+    {
+      "name": "GR: Worlds Apart (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TNXCual5bjJLkp3DLNB86t3Eqo.jpg"
+    },
+    {
+      "name": "GR: Zeros and Ones  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6balsDWCFMHPaPT6rFoBpNjR6z.jpg"
+    },
+    {
+      "name": "GR: Άδικη κατάρα (1967)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3wsXl8Gy6USMovy5zxtVzCtLyw.jpg"
+    },
+    {
+      "name": "GR: Έξοδος 1826 (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJzQs1SXgPOty32hitp2AeKwpkZ.jpg"
+    },
+    {
+      "name": "GR: Όνειρα στην Καλιφόρνια (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHsu8swJSgqDrsPiu7adBjOPLlp.jpg"
+    },
+    {
+      "name": "GR: Όσο Κρατά ο Πόλεμος  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AojRnYAdJEScffAOlFpOHs5iy0i.jpg"
+    },
+    {
+      "name": "GR: Αβάνα, η Πόλη των Κατασκόπων (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzjbeyEwmlpxu5CMzmFz8IDVELm.jpg"
+    },
+    {
+      "name": "GR: Αγνώστου Προέλευσης (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJHSParlylICnI7DuuI54nfTPRR.jpg"
+    },
+    {
+      "name": "GR: Αιγαίο SOS (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUSWedkvDQHDxfxIbhF3u3KJsb1.jpg"
+    },
+    {
+      "name": "GR: Αιγαίο SOS  (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7A7RlatKw1UPFa0HPG8Su9Xa9eE.jpg"
+    },
+    {
+      "name": "GR: Ανήφορος (1964)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCs2bwsRgYdBstmX8Yn8btRYruE.jpg"
+    },
+    {
+      "name": "GR: Αναζητώντας Τον Χέντριξ (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcTNDCs9Ftb0DiMGgTvtLD8SJi.jpg"
+    },
+    {
+      "name": "GR: Αποστολή στον Άρη  (2000)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bOaiFQZsBEjUZWGPUv3s9pdvhu.jpg"
+    },
+    {
+      "name": "GR: Απόλυτος Πράκτορας  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhNHCeJDFDaB00A46AoCw2mggdE.jpg"
+    },
+    {
+      "name": "GR: Απόστρατος (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sNclm5n7kzJsMo16CPWhISOTk6.jpg"
+    },
+    {
+      "name": "GR: Βίος και Πολιτεία (1987)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/275fw7lVoQ6NP2BbwC1UsHISyPf.jpg"
+    },
+    {
+      "name": "GR: Βουράτε Γειτόνοι: Η Ταινία (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EKiIaKUeUfqZq5HpXUnQ3Wfxe9.jpg"
+    },
+    {
+      "name": "GR: Γη και Αίμα  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWj5vi1luRP82SGogUEBTJwLXgb.jpg"
+    },
+    {
+      "name": "GR: Για Πάντα (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQYH0ozz2VWOYdQS1Mg4yTrn8Nt.jpg"
+    },
+    {
+      "name": "GR: Γυναίκες Δηλητήριο (1993)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8fuV6CZa21cCXqZt8iwAYlED6K.jpg"
+    },
+    {
+      "name": "GR: Διαίσθηση (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2rJGjlesDKxugl7ypW8n3Mipjl.jpg"
+    },
+    {
+      "name": "GR: Διαστημικά Καλάθια: Η Νέα Γενιά (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/spFEYaHFoUhUVj6MIZLgSCfonFA.jpg"
+    },
+    {
+      "name": "GR: Δυστυχώς Απουσιάζατε (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZhrE1RFiOWn4QuJsHFkuEgndOo.jpg"
+    },
+    {
+      "name": "GR: Εγκληματίες πρώτης τάξεως  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5UfdYc9S6ICru6wfnKxEZCEBVm.jpg"
+    },
+    {
+      "name": "GR: Εγώ, ο Γιαννούλης Χαλεπάς (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SgTKDhIOeCW4P3Z5oDSfrcLruB.jpg"
+    },
+    {
+      "name": "GR: Ελεύθερο Θέμα (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLjuvu0APZsaYAZDp2mUCJV6tge.jpg"
+    },
+    {
+      "name": "GR: Ενήλικοι στην Αίθουσα (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGSUMkRfLDkrLzxb0ekwOLP0Bpo.jpg"
+    },
+    {
+      "name": "GR: Εξολοθρευτής: Σκοτεινό Πεπρωμένο  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHVGzY3wqNnJH7JeDEbX6PpGkSH.jpg"
+    },
+    {
+      "name": "GR: Ζητείται Μπαμπάς (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eII9dyLFsGmpJnj2fAGAnYjzQMg.jpg"
+    },
+    {
+      "name": "GR: Η Καγκελόπορτα (1978)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.kedros.gr/thumbnails/images/2016/03/fragias_h_kageloporta_2016.jpg.thumb_600x868_4815f6ba89fb6f39b1530a814c426f5d.jpg"
+    },
+    {
+      "name": "GR: Η Καρδιά Του Κτήνους (2005)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukdecWYWbg3HIuhZgvpda2KbL7h.jpg"
+    },
+    {
+      "name": "GR: Η Μοίρα Γράφει Την Ιστορία (1957)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIl8YAOGYE0ZN8LW433Q8tb3WVH.jpg"
+    },
+    {
+      "name": "GR: Η Παλιά Φρουρά (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg"
+    },
+    {
+      "name": "GR: Η Τάξη του '83 (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exlQEMxbolmsCE4D5Ky6u4onnvC.jpg"
+    },
+    {
+      "name": "GR: Η Οικογένεια Άνταμς  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qf9gbmduGAVLRM3hlfyy5lp86NE.jpg"
+    },
+    {
+      "name": "GR: Η Ταινία Lego 2 (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/QTESAsBVZwjtGJNDP7utiGV37z.jpg"
+    },
+    {
+      "name": "GR: Η διακριτική γοητεία των αρσενικών (1999)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNDimXF9S3lMx1qehgY1TrqVcD6.jpg"
+    },
+    {
+      "name": "GR: Η κατάρα της μάνας  (1961)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvJ6yurV6YuPYJEXpGrwDQHYrrz.jpg"
+    },
+    {
+      "name": "GR: Και Ο Πρώτος Ματάκιας (1982)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzrCaprZEkulfRfFN5guY9zWpqs.jpg"
+    },
+    {
+      "name": "GR: Καπόνε (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/75gDv38UgRtAukSxNXcjatyQmEa.jpg"
+    },
+    {
+      "name": "GR: Κι Αν Φύγω... Θα Ξανάρθω (2005)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTRr8oyyWmMcSQtDNrfm0UQFB7B.jpg"
+    },
+    {
+      "name": "GR: Κόντρα σε Όλα (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+    },
+    {
+      "name": "GR: Κόφι και Καρίμ (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg"
+    },
+    {
+      "name": "GR: Λειτουργία Πτήσης (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLXisj0j39zaktmoU72tVtOXx6W.jpg"
+    },
+    {
+      "name": "GR: Ληστεία στην Καταιγίδα (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucktgbaMSaETUDLUBp1ubGD6aNj.jpg"
+    },
+    {
+      "name": "GR: Λούφα Και Παραλλαγή: Σειρήνες Στο Αιγαίo  (2005)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KySHtTnhdsCu0YpHWk1sE6nxLs.jpg"
+    },
+    {
+      "name": "GR: Μ' Αγαπάς (1989)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohUFBec6cPeu5XKl0QlVoC07lpC.jpg"
+    },
+    {
+      "name": "GR: Μάντεψε τι κάνω τα βράδια (1984)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh7mkM8WrpCugxExaAzdRaW039X.jpg"
+    },
+    {
+      "name": "GR: Με τον Ορφέα τον Αύγουστο (1996)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3y2Dl01rHb9z9sMmKIuiF4qhRF.jpg"
+    },
+    {
+      "name": "GR: Μικρές Κυρίες  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fGHgw2NwpZD4Iw7E9FVQ2uD5IH.jpg"
+    },
+    {
+      "name": "GR: Μικρό έγκλημα (2008)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMbxuM7qoMert3mZT5GrHXiEYY5.jpg"
+    },
+    {
+      "name": "GR: Μοσούλη (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vjephttoBH1ujOZcsqWlftLbhg.jpg"
+    },
+    {
+      "name": "GR: Μουλάν (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
+    },
+    {
+      "name": "GR: Μπουμπουλίνα  (1959)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pay640JM6lO99OIoNcxPbZTADym.jpg"
+    },
+    {
+      "name": "GR: Νικόστρατος ο πελεκάνος (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxMW5l5k1jd7ev0oxVLuELpgwXn.jpg"
+    },
+    {
+      "name": "GR: Ντούλιτλ (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg"
+    },
+    {
+      "name": "GR: Ο Αγκαλίτσας (1985)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27EzsentnfjMuWwjVUcZpm49k7G.jpg"
+    },
+    {
+      "name": "GR: Ο Βασιλιάς των Λιονταριών  (1994)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tX0k1qq1eMO66fqglYMxR5RjsY.jpg"
+    },
+    {
+      "name": "GR: Ο Επόμενος Superstar του WWE (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzg5AEEu1T7nFOCq4gKbGBObhdk.jpg"
+    },
+    {
+      "name": "GR: Ο Δυναστείας (1985)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF8mpeO0g00kwXYXh2K2nPZGZqU.jpg"
+    },
+    {
+      "name": "GR: Ο Μυστικός Κήπος (1993)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zf6h5dJ7wVG7LqMO9dhHGHVejzj.jpg"
+    },
+    {
+      "name": "GR: Ο Καβαλάρης Των F.M. Stereo (1986)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFTgXGKBzFIulbaOkVMK36Ee0Oc.jpg"
+    },
+    {
+      "name": "GR:  Ο Καμικάζι Τσαντάκιας (1982)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Y9rdG5ipRNb3L21o6idso6D8uE.jpg"
+    },
+    {
+      "name": "GR: Οι Νέοι Μεταλλαγμένοι (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZNw9xxtwbEf25NYoz52KdbXHPM.jpg"
+    },
+    {
+      "name": "GR: Οι Ζωές που δεν Έζησα (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg"
+    },
+    {
+      "name": "GR: Οι Σκιές του Μπρούκλιν  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecGjtD6NObCQ84ZKa6xNrnQZLYn.jpg"
+    },
+    {
+      "name": "GR: Οι Σφυριχτές  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0biTqK1NibqOOmlP6uOug7he6R.jpg"
+    },
+    {
+      "name": "GR: Οι Φανταρίνες (1979)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFeytkY08yow0w7SKecRrJY1K3p.jpg"
+    },
+    {
+      "name": "GR: Οι πόντιοι (1986)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5oE7oLhAFCl029b5JIvrwtNf7K.jpg"
+    },
+    {
+      "name": "GR: Πάτερ Γκομένιος (1982)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qc20FvGv3OdIgg4vdjWt5s0i2Mk.jpg"
+    },
+    {
+      "name": "GR: Πέραν κάθε υποψίας (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpZ2SfwLHjuf2HmgaFko32cPgbl.jpg"
+    },
+    {
+      "name": "GR:  Παπασούζας φαντομάς (1983)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTQN2MwBB9dQoAFFRcm0gGZSpfz.jpg"
+    },
+    {
+      "name": "GR: Παπαφλέσσας (1971)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8l54jVef5DBWzKOZpQvb1SSiIZ.jpg"
+    },
+    {
+      "name": "GR: Περάστε... Φιλήστε... Τελειώσατε! (1986)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/50VwE8LKELl0zrCZJvimXY053xA.jpg"
+    },
+    {
+      "name": "GR: Πόλεμος στο Σπίτι (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qIp0Bn3NPDWAvAI5Bhq1GVGwC5.jpg"
+    },
+    {
+      "name": "GR: Ρεβέκκα (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGhllBArW7ImDycSMIG5bj6GEPL.jpg"
+    },
+    {
+      "name": "GR: Περιμένοντας Τη Νονά (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0IiAPDNCnuxHUVQDKtEaBeLnPV.jpg"
+    },
+    {
+      "name": "GR: Ποτέ δεν είναι αργά (1968)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/geaaK3lRaBNbkz63Sv2Tf72Lj5b.jpg"
+    },
+    {
+      "name": "GR: Πράσινη Θάλασσα (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qilVyfaGDhcYCEW4Ml3JrFaI1Yf.jpg"
+    },
+    {
+      "name": "GR: Σκέφτομαι να Βάλω Τέλος (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg"
+    },
+    {
+      "name": "GR: Σαν το Σκύλο με τη Γάτα 3 (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg"
+    },
+    {
+      "name": "GR: Ράφτης (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpIOlqHEf399jDOsP06LgftKImS.jpg"
+    },
+    {
+      "name": "GR: Σπένσερ: Εμπιστευτικό (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg"
+    },
+    {
+      "name": "GR: Σμύρνη μου Αγαπημένη  (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNIxR2yXEfQsebKeHhSi03iVSlN.jpg"
+    },
+    {
+      "name": "GR: Σοκολάτα (2000)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pb2xpBtzkUBgBe4jdn0KVfEuaHt.jpg"
+    },
+    {
+      "name": "GR: Σπούτνικ (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAUzmhP54bE1vPXaY7FbuZREJlR.jpg"
+    },
+    {
+      "name": "GR: Στα Μαχαίρια (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvqk7vG3ma3t8MtbxYddvcll1y9.jpg"
+    },
+    {
+      "name": "GR: ΤΟ ΥΠΟΣΤΕΓΟ ΤΩΝ ΝΕΚΡΩΝ (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjcYBuSHl1IWDDxRtJPr30yEucU.jpg"
+    },
+    {
+      "name": "GR: Στόχος Νούμερο Ένα  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQ6CVyA95dYKKbAW8F7srtORDx.jpg"
+    },
+    {
+      "name": "GR: Τέλος Χρόνου (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMszdTo0UuGcAEEDHsQL9dmwLIG.jpg"
+    },
+    {
+      "name": "GR: Τα Πιτσουνάκια (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg"
+    },
+    {
+      "name": "GR: Τα Φιλαράκια του Άγιου Βασίλη (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rW6rXvT6AeNC4AUBC2HJiiLpwly.jpg"
+    },
+    {
+      "name": "GR: Τα κορίτσια της βροχής (2012)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7ds2sdZVhdAufP36B1q68GSBzf.jpg"
+    },
+    {
+      "name": "GR: Τα παιδιά του Γουίντερμιρ (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okccWF2PgHA8SMB4gJrvTUxTKP9.jpg"
+    },
+    {
+      "name": "GR: Τα στοιχειά του πολέμου (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jR2SSICqmyaVV4lcR3PfNldJBPc.jpg"
+    },
+    {
+      "name": "GR: Τα ψίχουλα του κόσμου (1967)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahJ7wnrFfMOc5uFavaXELg2qLlF.jpg"
+    },
+    {
+      "name": "GR: Το 'χεις! (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpY2ZhxqsHYXjaaFUHzQ0nmIjYs.jpg"
+    },
+    {
+      "name": "GR: Το Έτερον Ήμισυ  (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fGPFS5ALfnfSAfLXikUVAWlwCi.jpg"
+    },
+    {
+      "name": "GR: Το Βιβλίο της Ζούγκλας (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOEOlmLP71IojeJ91dyJ9Nsb8O8.jpg"
+    },
+    {
+      "name": "GR: Το Κάλεσμα της Άγριας Φύσης (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg"
+    },
+    {
+      "name": "GR: Το Κτήνος (1975)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CAIDrtERBAtEgHhGle4jYMCgSL.jpg"
+    },
+    {
+      "name": "GR: Το Κυνηγητό Ξεκινά (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iF1eloJBtw0frs2EeshncF2oRCT.jpg"
+    },
+    {
+      "name": "GR: Το Ξύπνημα Της Άνοιξης  (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1QFljz6oRbceT42ICKIzXKKMWR.jpg"
+    },
+    {
+      "name": "GR: Το Πορτρέτο μιας Γυναίκας που Φλέγεται (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg"
+    },
+    {
+      "name": "GR: Το Σαββατοκύριακο των Μυστικών (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg"
+    },
+    {
+      "name": "GR: Το Τανγκό των Χριστουγέννων  (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDuiXwUzeR0sdi09A2RNJJqaP3.jpg"
+    },
+    {
+      "name": "GR: Το Τελευταίο Σημείωμα  (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2m6NLbR3E7rtikEIWSL88YmSUeH.jpg"
+    },
+    {
+      "name": "GR: Το Ψώνιο (1983)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcA5SmNCpQd9aIVYibccF1qj9az.jpg"
+    },
+    {
+      "name": "GR: Το μπάτσελορ 2 (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/etBkxUHvMafgXFMTicO9w0QfobG.jpg"
+    },
+    {
+      "name": "GR: Το μπάτσελορ 3",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6j8ibxJuZJP1vxy6q6rhqb4NyRo.jpg"
+    },
+    {
+      "name": "GR: Το μυστικό: Τόλμησε να ονειρευτείς (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mCqEeBA0MW7H6akFrFQXJu68rU.jpg"
+    },
+    {
+      "name": "GR: Το πιο Ψυχρό Παιχνίδι  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YRO2Jamqb6ck5vJqrwWgMFWuPW.jpg"
+    },
+    {
+      "name": "GR: Του Κόσμου τα Νέα (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg"
+    },
+    {
+      "name": "GR: Τρόμος σε Ζωντανή Μετάδοση (2021)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP4zj8B2xJWLjeWwN9N9DQdFvdo.jpg"
+    },
+    {
+      "name": "GR: Φαντασία  (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/de2BqzY70RbBvN7o1Km1oHNl8OJ.jpg"
+    },
+    {
+      "name": "GR: Φαντασία (2019)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/de2BqzY70RbBvN7o1Km1oHNl8OJ.jpg"
+    },
+    {
+      "name": "GR: Φύγαμε  (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKIxWq9ZnPJ1hsfZ8gPXH71GeMx.jpg"
+    },
+    {
+      "name": "GR: Χάρισμα  (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mt0Br7pRKsDau2HKTzmYhyXDKNH.jpg"
+    },
+    {
+      "name": "GR: Χαλβάη 5-0 (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDELOxfnXWdJBr7LZdxoa3vtanx.jpg"
+    },
+    {
+      "name": "GR: Χαρά  (2012)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/joHRSELKc3FvXHJxJPFoUhFElfZ.jpg"
+    },
+    {
+      "name": "GR: Χριστούγεννα",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKWmpheKjncn6AkVYUJUQ7Xleo9.jpg"
+    },
+    {
+      "name": "GR: The Truffle Hunters (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8kuHpb1AKvRVbYbxBK4hua008p.jpg"
+    },
+    {
+      "name": "GR: Χρυσή Αυγή: Προσωπική υπόθεση  (2016)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TN7ToviDy3TuFzS2Wy6nP3uiAI.jpg"
+    },
+    {
+      "name": "GR: Χρόνια πολλά  (2017)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DprWSbxeQlrRyoQOZJvR9S7U3E.jpg"
+    },
+    {
+      "name": "GR: Χωρίς Διαφυγή-Ακολούθησέ με (2020)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/glwOyoD0Pzxzyb3l7nELEgjSjQ8.jpg"
+    },
+    {
+      "name": "GR: Χωρίς Σύνορα  (2011)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r46Bpv1yaFjE96nUgw70qyrE9R8.jpg"
+    },
+    {
+      "name": "GR: Χώρα Προέλευσης  (2010)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyXDIHsensRWqAE9RtUJXqSgDw2.jpg"
+    },
+    {
+      "name": "GR: μαζι τα φαγαμε παγκαλος (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://www.politeianet.gr/components/com_virtuemart/shop_image/product/172F50A13F216D9DA39F3A29ABFB3659.jpg"
+    },
+    {
+      "name": "GR: Т-34 (2018)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dA6mPgdFMA03MjerpnndYytyKdT.jpg"
+    },
+    {
+      "name": "GR:  I ekdikisis tou kavallari (1962)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oEJMXvqABbm8C5aNIlsFxrQKIa.jpg"
+    },
+    {
+      "name": "GR:  I Love You (1971) SAGAPW",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5T5RQncKkX9Vtv3awXE71Yko12.jpg"
+    },
+    {
+      "name": "GR:  The Policeman of the 16th Precinct (2008)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI9OYjdIUFJhzYgSZE0BHlS8rDS.jpg"
+    },
+    {
+      "name": "GR:  To pio labro asteri (1967)",
+      "group": "GR - 2022-2023 Greece Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJL6uBFugMvDLeJY6NZvB2qfVXg.jpg"
+    }
+  ]
+}

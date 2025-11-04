@@ -1,0 +1,388 @@
+{
+  "package": "world",
+  "name": "BG - Bulgaria - Live.",
+  "groupIndex": 7,
+  "totalChannels": 76,
+  "channels": [
+    {
+      "name": "BG: Planeta  HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0bb49eae60e1f855268eaac68041e2a6.png"
+    },
+    {
+      "name": "BG: BNT 1 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/bnt1.png"
+    },
+    {
+      "name": "BG: BNT 2 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/bnt2.png"
+    },
+    {
+      "name": "BG: BNT 3 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/bnt3.png"
+    },
+    {
+      "name": "BG: BNT 4 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/bnt4.png"
+    },
+    {
+      "name": "BG: BTV Action HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/btvaction.png"
+    },
+    {
+      "name": "BG: BTV Cinema HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/btvcinema.png"
+    },
+    {
+      "name": "BG: Bulgaria ON AIR HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/12478337301.png"
+    },
+    {
+      "name": "BG: Diema Sport HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/diemasport.png"
+    },
+    {
+      "name": "BG: Diema Sport 1 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/34069467061.png"
+    },
+    {
+      "name": "BG: Diema Sport 2 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/diemasport2.png"
+    },
+    {
+      "name": "BG: Diema Sport 3 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/diemasport3.png"
+    },
+    {
+      "name": "BG: Discovery Channel HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "BG: DSTV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/dstv.png"
+    },
+    {
+      "name": "BG: Folklor TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/folklortv.png"
+    },
+    {
+      "name": "BG: HBO 1 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/hbo1.png"
+    },
+    {
+      "name": "BG: HBO 2 FHD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/hbo2.png"
+    },
+    {
+      "name": "BG: KINO NOVA HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/kinonova.png"
+    },
+    {
+      "name": "BG: MAX Sport 1 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/maxsport1.png"
+    },
+    {
+      "name": "BG: MAX Sport 2 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/maxsport2.png"
+    },
+    {
+      "name": "BG: MAX Sport 3 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/maxsport3.png"
+    },
+    {
+      "name": "BG: MAX Sport 4 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/maxsport4.png"
+    },
+    {
+      "name": "BG: NOVA TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/novatv.png"
+    },
+    {
+      "name": "BG: TV+ HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/tv.png"
+    },
+    {
+      "name": "BG: AGRO TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/agrotv.png"
+    },
+    {
+      "name": "BG: ALFA TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/alfatv.png"
+    },
+    {
+      "name": "BG: AMC TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/amctv.png"
+    },
+    {
+      "name": "BG: Animal Planet HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "BG: AUTO Motor Sport HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/automotorsport.png"
+    },
+    {
+      "name": "BG: AXN TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/92619407631.png"
+    },
+    {
+      "name": "BG: AXN White HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/axnwhite.png"
+    },
+    {
+      "name": "BG: Balkanika Music TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/balkanikamusictv.png"
+    },
+    {
+      "name": "BG: BG Music HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/music.png"
+    },
+    {
+      "name": "BG: Bloomberg TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/bloombergtv.png"
+    },
+    {
+      "name": "BG: BNT 1 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/bnt1.png"
+    },
+    {
+      "name": "BG: BNT 2 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/bnt2.png"
+    },
+    {
+      "name": "BG: BNT 3 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/bnt3.png"
+    },
+    {
+      "name": "BG: Bomerang Television HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/88588344141.png"
+    },
+    {
+      "name": "BG: BSTV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/bstv.png"
+    },
+    {
+      "name": "BG: BTV Action HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/btvaction.png"
+    },
+    {
+      "name": "BG: BTV Action HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/btvaction.png"
+    },
+    {
+      "name": "BG: BTV Cinema HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/btvcinema.png"
+    },
+    {
+      "name": "BG: BTV Comedy HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/btvcomedy.png"
+    },
+    {
+      "name": "BG: BTV HD (BG)  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/btv.png"
+    },
+    {
+      "name": "BG: CBS Reality HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/cbsreality.png"
+    },
+    {
+      "name": "BG: Cinemax 1 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax1.png"
+    },
+    {
+      "name": "BG: Cinemax 2 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax2.png"
+    },
+    {
+      "name": "BG: CITY Music HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/citymusic.png"
+    },
+    {
+      "name": "BG: CODE Fashion TV FHD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/codefashiontv.png"
+    },
+    {
+      "name": "BG: DA Vinci Learning HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/davincilearning.png"
+    },
+    {
+      "name": "BG: Diema Family HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/diemafamily.png"
+    },
+    {
+      "name": "BG: Discovery SCI HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/discoverysci.png"
+    },
+    {
+      "name": "BG: Disney Channel HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "BG: DUCK TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/ducktv.png"
+    },
+    {
+      "name": "BG: EURO Sport 2 HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "BG: Evrokom TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/48739773301.png"
+    },
+    {
+      "name": "BG: Evropa TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/2166067135.png"
+    },
+    {
+      "name": "BG: Fightbox FHD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/fightbox.png"
+    },
+    {
+      "name": "BG: Filmbox Extra HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxextra.png"
+    },
+    {
+      "name": "BG: FOOD Network HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/foodnetwork.png"
+    },
+    {
+      "name": "BG: FOX Crime HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/foxcrime.png"
+    },
+    {
+      "name": "BG: FOX LIFE HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "BG: Iconcerts HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/iconcerts.png"
+    },
+    {
+      "name": "BG: KINO NOVA HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/kinonova.png"
+    },
+    {
+      "name": "BG: MAX Sport HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/88729226541.png"
+    },
+    {
+      "name": "BG: Movie STAR HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/moviestar.png"
+    },
+    {
+      "name": "BG: National Geographic HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "BG: Nickelodeon HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "BG: NOVA Sport HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/novasport.png"
+    },
+    {
+      "name": "BG: Retro Music TV HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/retromusictv.png"
+    },
+    {
+      "name": "BG: RING BG HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/ring.png"
+    },
+    {
+      "name": "BG: Sport PLUS HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/sportplus.png"
+    },
+    {
+      "name": "BG: THE Voice HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/thevoice.png"
+    },
+    {
+      "name": "BG: Tiankov Orient FOLK FHD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/tiankovorientfolk.png"
+    },
+    {
+      "name": "BG: Trace Sport Stars HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "https://logo.m3uassets.com/tracesportstars.png"
+    },
+    {
+      "name": "BG: Viasat Nature  HD  (101-SERVERS)",
+      "group": "BG - Bulgaria - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/93889933181.png"
+    }
+  ]
+}

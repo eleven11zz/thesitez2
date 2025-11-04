@@ -1,0 +1,63 @@
+{
+  "package": "world",
+  "name": "ES - Entretenimiento - Live.",
+  "groupIndex": 64,
+  "totalChannels": 11,
+  "channels": [
+    {
+      "name": "AMC Break FHD (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "https://logo.m3uassets.com/amcbreak.png"
+    },
+    {
+      "name": "AMC Crime (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "https://logo.m3uassets.com/amccrime.png"
+    },
+    {
+      "name": "BUEN VIAJE (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/e5eee426126a921175ee66d239011526.png"
+    },
+    {
+      "name": "Canal Iberalia HD (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/ttgge.png"
+    },
+    {
+      "name": "CAZA Y Pesca FHD (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "https://logo.m3uassets.com/cazaypesca.png"
+    },
+    {
+      "name": "Cazavision (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "https://logo.m3uassets.com/cazavision.png"
+    },
+    {
+      "name": "Iberalia TV HD (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "https://logo.m3uassets.com/iberaliatv.png"
+    },
+    {
+      "name": "ORIGINALES (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/59d0e199af68edf7bb5714ffb8164f3e.png"
+    },
+    {
+      "name": "SURF (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "https://logo.m3uassets.com/surf.png"
+    },
+    {
+      "name": "TOROLE (ES)  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c302482a9407786cee3873d83689f338.png"
+    },
+    {
+      "name": "ES: onetoro  (101-SERVERS)",
+      "group": "ES - Entretenimiento - Live.",
+      "logo": "https://cultoro.es/wp-content/uploads/2024/03/Logo-Onetoro.jpg"
+    }
+  ]
+}

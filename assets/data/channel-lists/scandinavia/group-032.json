@@ -1,0 +1,423 @@
+{
+  "package": "scandinavia",
+  "name": "EN - Animation Movies",
+  "groupIndex": 32,
+  "totalChannels": 83,
+  "channels": [
+    {
+      "name": "EN: Trick or Treat Scooby-Doo! (2022)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZccw4Hj9ZF1yimnfPsX9rl3HvB.jpg"
+    },
+    {
+      "name": "Two Buddies and a Badger The Great Big Beast (2022)",
+      "group": "EN - Animation Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTQ3MTIzNDktMzIyOC00NmQxLWE5YTctNmJmZDdkNTg2ZWRhXkEyXkFqcGdeQXVyMjM3ODA2NDQ@._V1_.jpg"
+    },
+    {
+      "name": "EN: Xico's Journey (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ZyfUC0THygJkVoO2J7NxsdPI5.jpg"
+    },
+    {
+      "name": "EN: Weathering with You (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg"
+    },
+    {
+      "name": "EN: Trolls World Tour (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg"
+    },
+    {
+      "name": "EN: Toy Story 4 (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg"
+    },
+    {
+      "name": "EN: Toy Story 3 (2010)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cpGytCB0eqvRks4FAlJoUJiFPG.jpg"
+    },
+    {
+      "name": "EN: Toy Story 2 (1999)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVGu0zsezaSCuN67zgNhzjeNI9Z.jpg"
+    },
+    {
+      "name": "EN: Toy Story (1995)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+    },
+    {
+      "name": "EN: Tom and Jerry Blast Off to Mars! (2005)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRqkEo3cZInJK5EWATfl5aV3XmC.jpg"
+    },
+    {
+      "name": "EN: The Willoughbys (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WrMmjdZvpxLQh1tCQ9tOd1asOb.jpg"
+    },
+    {
+      "name": "EN: The SpongeBob Movie: Sponge on the Run (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg"
+    },
+    {
+      "name": "EN: The Road to Kingdom Hearts III (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnXPfD8TGwXd75acyxyPlAHE8W4.jpg"
+    },
+    {
+      "name": "EN: The Magic School Bus Rides Again in the Zone (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFRTAKLbzgbMejxjBgZ1xVBd22J.jpg"
+    },
+    {
+      "name": "EN: The Magic School Bus Sees Stars",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/us0qLc5d64kM8nhKYksIUjQJwii.jpg"
+    },
+    {
+      "name": "EN: The Lion King II: Simba's Pride (1998)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg"
+    },
+    {
+      "name": "EN: The Lego Star Wars Holiday Special (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyzJSI7UZZzz5Toj10rYGF5689z.jpg"
+    },
+    {
+      "name": "EN: The Lego Movie (2014)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbctonEnewCYZ4FYoTZhs8cidAl.jpg"
+    },
+    {
+      "name": "EN: The Larva Island Movie (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg"
+    },
+    {
+      "name": "EN: The Knight & The Princess (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JBDhLgvQD0eBnxsQDPqYnrt169.jpg"
+    },
+    {
+      "name": "EN: The Good Dinosaur (2015)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM50iVbcnzQUIoc9TmUUk0SP4P4.jpg"
+    },
+    {
+      "name": "EN: The Croods: A New Age (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg"
+    },
+    {
+      "name": "EN: The Croods (2013)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg"
+    },
+    {
+      "name": "EN: Superman: Red Son (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg"
+    },
+    {
+      "name": "EN: Superman: Man of Tomorrow (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg"
+    },
+    {
+      "name": "EN: StarDog and TurboCat (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg"
+    },
+    {
+      "name": "EN: Spies in Disguise (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/30YacPAcxpNemhhwX0PVUl9pVA3.jpg"
+    },
+    {
+      "name": "EN: Space Jam (1996)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jY3eCEknk8mUoJZasSQj7Sa2UfC.jpg"
+    },
+    {
+      "name": "EN: Space Dogs: Tropical Adventure (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIqmN3UZZKHNMXK5YJmRPAftxOk.jpg"
+    },
+    {
+      "name": "EN: Sonic Prologue (2014)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4Pl9047A2sX97DLruAy5DbXgqj.jpg"
+    },
+    {
+      "name": "EN: Sonic Maskarada (2006)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e23LjxgIwSEUtEg0BiMJ7mjB7d.jpg"
+    },
+    {
+      "name": "EN: Sonic (2013)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AZD2XOT112g63naIIfc7KJv2Rb.jpg"
+    },
+    {
+      "name": "EN: Shark School (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2yPu4PbfGOfp5TiRO0EJ5heZkX.jpg"
+    },
+    {
+      "name": "DE: Gunmen Of The Rio Grande (1964)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnDLXdc604rEk3FwmmdcTfDeeHR.jpg"
+    },
+    {
+      "name": "EN: Ribbit (2014)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUXzC2KHl3A4SANUlBdUqIeq2fF.jpg"
+    },
+    {
+      "name": "EN: Red Shoes And The Seven Dwarfs (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MBiKqTsouYqAACLYNDadsjhhC0.jpg"
+    },
+    {
+      "name": "EN: Raya and the Last Dragon (2021)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg"
+    },
+    {
+      "name": "EN: Rango (2011)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9GJiKuuJ650dte0gyzLD3ILcIh.jpg"
+    },
+    {
+      "name": "EN: Pets United (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtwqIYSOCRwEndZTg9s6iWjEZc1.jpg"
+    },
+    {
+      "name": "DE: Ori Devuda..! (2022)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sdQDyUYDpSFIGd9UetguWV4yRY.jpg"
+    },
+    {
+      "name": "EN: Onward (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg"
+    },
+    {
+      "name": "EN: Octonauts and the Caves of Sac Actun (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlizMbZByBYPOC4i2AN64e4W1iM.jpg"
+    },
+    {
+      "name": "EN: My Hero Academia: Heroes Rising (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGVbrulkupqpbwgiNedkJPyQum4.jpg"
+    },
+    {
+      "name": "EN: Mr Bean  11 hour",
+      "group": "EN - Animation Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Mortal Kombat Legends: Scorpion's Revenge (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VlXER3FImHeFuUjBShFamhIp9M.jpg"
+    },
+    {
+      "name": "EN: Monsters University (2013)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/upaMBEonGeZGQc3xtUVZOfe1lGl.jpg"
+    },
+    {
+      "name": "EN: Monsters, Inc. (2001)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgheSKxZkttIe8ONsf2sWXPgip3.jpg"
+    },
+    {
+      "name": "EN: Mimi and the Mountain Dragon (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJg9YnuYzSCG9A5yKtJaTRNExNT.jpg"
+    },
+    {
+      "name": "EN: Maya the Bee Movie (2014)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMQ88CvnQroSjxk4IhM7YNbcjTx.jpg"
+    },
+    {
+      "name": "EN: Magic Arch (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOyuQvgyakZABLrl4oXRamBGEI6.jpg"
+    },
+    {
+      "name": "EN: Lupin III: The First (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnTuIOzW5TOgTIfFz9oGUgC1vO2.jpg"
+    },
+    {
+      "name": "EN: Lamp Life (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJ95RnlammhYb6ZvBbQFLq8Jqnl.jpg"
+    },
+    {
+      "name": "EN: Klaus (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q125RHUDgR4gjwh1QkfYuJLYkL.jpg"
+    },
+    {
+      "name": "EN: Justice League Dark: Apokolips War (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg"
+    },
+    {
+      "name": "EN: Jungle Beat: The Movie (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgC67SOxd9xkjN4Bnvjtuj1vI8T.jpg"
+    },
+    {
+      "name": "EN: Inside Out (2015)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg"
+    },
+    {
+      "name": "EN: Illumination Presents: Minions Holiday Special (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZI1nByCI0jOQqAUeTahU3j6pt1.jpg"
+    },
+    {
+      "name": "EN: How to Train Your Dragon: The Hidden World (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+    },
+    {
+      "name": "EN: How to Train Your Dragon 2 (2014)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg"
+    },
+    {
+      "name": "EN: Hotel Transylvania (2012)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg"
+    },
+    {
+      "name": "EN: Here We Are: Notes for Living on Planet Earth (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZWgclntziFRPQg0u0nI2FU4nYg.jpg"
+    },
+    {
+      "name": "EN: Happy Halloween, Scooby-Doo! (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg"
+    },
+    {
+      "name": "EN: Green Lantern: Emerald Knights (2011)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zk3mqtoNzyiiXiotufJ3pwShoGc.jpg"
+    },
+    {
+      "name": "EN: Finding Nemo (2003)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg"
+    },
+    {
+      "name": "EN: Dreambuilders (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmCGAiPrtW2EbumW3UGoRUiSP4V.jpg"
+    },
+    {
+      "name": "EN: Dragons: Rescue Riders: Secrets of the Songwing (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ECPZaRczTQiUgPtZzyOiHxlfbe.jpg"
+    },
+    {
+      "name": "EN: Dragons: Rescue Riders: Huttsgalor Holiday (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JZ3I9BDzVkDWRIGBl75MIig8Xg.jpg"
+    },
+    {
+      "name": "EN: Detective Conan: The Fist of Blue Sapphire (2019)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/86Y6qM8zTn3PFVfCm9J98Ph7JEB.jpg"
+    },
+    {
+      "name": "EN: Detective Conan: The Crimson Love Letter (2017)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTC98aqIJltte2SBnRTq1CsJL1D.jpg"
+    },
+    {
+      "name": "EN: Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3daOEMQCOGU2n9EbUC0PICnUCek.jpg"
+    },
+    {
+      "name": "EN: Deathstroke: Knights & Dragons - The Movie (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFIHbiy55smzi50RmF8LQjmpGcx.jpg"
+    },
+    {
+      "name": "EN: Cranston Academy: Monster Zone (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/maBFNvaxae6IgLL4qwz7hvz19EZ.jpg"
+    },
+    {
+      "name": "EN: Combat Wombat (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg"
+    },
+    {
+      "name": "EN: Coco (2017)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+    },
+    {
+      "name": "EN: Walt Disney Cartoon Classics: Here's Donald (1987)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNUCNTtp6jvaJUYUcag8WgNPOis.jpg"
+    },
+    {
+      "name": "EN: Burrow (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQcHvMc7gVG6OWVotVLDeRkrRl.jpg"
+    },
+    {
+      "name": "EN: Bobbleheads: The Movie (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7gNfiDRZLgNka0Q7hPmRgmxLoG.jpg"
+    },
+    {
+      "name": "EN: Bigfoot Family (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwMW49v8FvqPUXS8YSdhP1XOchj.jpg"
+    },
+    {
+      "name": "EN: Batman: Death in the Family (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg"
+    },
+    {
+      "name": "EN: Barbie & Chelsea the Lost Birthday (2021)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/esS12yF3CDuk5juvdFvi4PIwOuW.jpg"
+    },
+    {
+      "name": "EN: Angela's Christmas Wish (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ftutOnMM5JHl69mvkNbs8f1AUR.jpg"
+    },
+    {
+      "name": "EN: Altered Carbon: Resleeved (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlIYzx7cc4Wvaoh7ShjF2HZG45.jpg"
+    },
+    {
+      "name": "EN: A Go! Go! Cory Carson Christmas (2020)",
+      "group": "EN - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTsULguy08O7nRmkhifnGtAcDq9.jpg"
+    }
+  ]
+}

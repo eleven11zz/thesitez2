@@ -1,0 +1,813 @@
+{
+  "package": "latin",
+  "name": "LT - Latino Movies",
+  "groupIndex": 58,
+  "totalChannels": 161,
+  "channels": [
+    {
+      "name": "LT: Un desastre de altura (Downhill) (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruLqLb2bfWKykckxVlVZayuBOgW.jpg"
+    },
+    {
+      "name": "LT: The Hunger Games: Mockingjay - Part 1 (2014)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg"
+    },
+    {
+      "name": "LT: The Hunger Games: Catching Fire (2013)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1e7dLMLrJ5CxAW588m55WFQ1PK.jpg"
+    },
+    {
+      "name": "LT: The Beatles: Eight Days a Week - The Touring Years (2016)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6q7Jy4vXgXXoCoHX4lpCaKvcMV.jpg"
+    },
+    {
+      "name": "LT: Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/euVaCiCWz3AALcQXHT6aUqdGUo6.jpg"
+    },
+    {
+      "name": "LT: He Who Dares: Downing Street Siege (2014)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSitWCCjkMAxijcoPZm2nmitUKR.jpg"
+    },
+    {
+      "name": "LT: Fire & Rescue - Arabic Subtitle - 2014",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pZzdFmztwmg0FUOVCMa7vReHhQN.jpg"
+    },
+    {
+      "name": "LT: Elcano & Magallanes: First Trip Around the World -2019",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qqEkwYHrney6AhbzcEz2FXOuqEW.jpg"
+    },
+    {
+      "name": "LT: Sheep & Wolves: Pig Deal (2019)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVizGmUr06F8LrVXt6nEYrmwmos.jpg"
+    },
+    {
+      "name": "LT: Disney- Elcano & Magallanes: First Trip Around the World (2019)",
+      "group": "LT - Latino Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "LT: The Rental (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg"
+    },
+    {
+      "name": "LT: The Haunting of Alcatraz (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/crElqQ3vJuKyuGjbnK6OfuZ67UN.jpg"
+    },
+    {
+      "name": "LT: The Babysitter: Killer Queen (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx7akzfwbPCLlxKgZ1NycThFC92.jpg"
+    },
+    {
+      "name": "LT: Patients of a Saint (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uSR3687xtyS207S8nYp1voT9mR.jpg"
+    },
+    {
+      "name": "LT: Otra vuelta de tuerca (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/uiMHiHp9eAjJty8rddoUnL9G5fU.jpg"
+    },
+    {
+      "name": "LT: Nocturno (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkRtfFOOH2ap0C8wRdqELFMR0la.jpg"
+    },
+    {
+      "name": "LT: Nadie duerme en el bosque esta noche (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pZmxz0UaV1yOFsIIYmJhe2vANP.jpg"
+    },
+    {
+      "name": "LT: La maldición (The Grudge) (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ABPIUINn2zZWtyW8xPsCppT7OB.jpg"
+    },
+    {
+      "name": "LT: La Caza (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7I4oqVJjVs1H21lRIeCNNJ4WA.jpg"
+    },
+    {
+      "name": "LT: Gretel & Hansel (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBBBXseq4k4dI63k06XIrsc02j8.jpg"
+    },
+    {
+      "name": "LT: El Atrapasueños (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg"
+    },
+    {
+      "name": "LT: Deep Blue Sea 3 (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKthjUmxjHjvJK8FktFfQdmwP12.jpg"
+    },
+    {
+      "name": "LT: Cámara policial (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/akmjfKPlxBAdXi4G1TZOirty8Ia.jpg"
+    },
+    {
+      "name": "LT: Cuties (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSWUadNb4njB2eF4zb2OYdLFAYp.jpg"
+    },
+    {
+      "name": "LT: Cajas oscuras (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z1zkb4Z9hUlEuC0oMagVJaPUeS.jpg"
+    },
+    {
+      "name": "LT: Bulbbul (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg"
+    },
+    {
+      "name": "LT: Brahms: The Boy II (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg"
+    },
+    {
+      "name": "LT: Asesinos Sádicos (2021)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76rlfITDiYRiraGuE64QMGtvohs.jpg"
+    },
+    {
+      "name": "LT: Amulet (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6p2xoOYwRgam0fxEOPZeCCh0i3q.jpg"
+    },
+    {
+      "name": "LT: Un desliz fatal (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg"
+    },
+    {
+      "name": "LT: Mrs. Serial Killer (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qogeMcCcqilL2PGUUY7KbrpWsj.jpg"
+    },
+    {
+      "name": "LT: Mentiras Peligrosas (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m85QIC42laGfLDxW7DzIFDrWogP.jpg"
+    },
+    {
+      "name": "LT: Mal de ojo (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVwganYfJgrLXu26BuW82BJo73.jpg"
+    },
+    {
+      "name": "LT: La Herencia (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l13mt3oHErSkkqJbN1bjzgtK0Vq.jpg"
+    },
+    {
+      "name": "LT: La corazonada (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2rJGjlesDKxugl7ypW8n3Mipjl.jpg"
+    },
+    {
+      "name": "LT: Glass Houses (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fZGWJjStklNAbYfqrinkj9cv0G.jpg"
+    },
+    {
+      "name": "LT: Estoy pensando en dejarlo (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg"
+    },
+    {
+      "name": "LT: El robo del siglo (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdKJ6LdA65RFxjNYIL8fV89Tv0d.jpg"
+    },
+    {
+      "name": "LT: El hombre invisible (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg"
+    },
+    {
+      "name": "LT: Crímenes de familia (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDi6wKgECUjDug2gn4uODSqZ3yC.jpg"
+    },
+    {
+      "name": "LT: Bronx (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSpm2mMbkd0hLTRWBz0zolnLAyK.jpg"
+    },
+    {
+      "name": "LT: Bad Boys for Life (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg"
+    },
+    {
+      "name": "LT: La Traición (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ut2w1uvpF8AzN5zBY1zJbrO5UYL.jpg"
+    },
+    {
+      "name": "LT: A Murder to Remember (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW0QaPUU3i86Fi0muh3bVAMk1Qu.jpg"
+    },
+    {
+      "name": "LT: Violet y Finch (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SafxuMKQiw4reBiWKVZJpJn80I.jpg"
+    },
+    {
+      "name": "LT: Viena and the Fantomes (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c4GhelRi8VF6M51CIgkMPKH90O.jpg"
+    },
+    {
+      "name": "LT: Retrato de un amor (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdqZqIcWt0Ne2Io2OA9iWqqMuCA.jpg"
+    },
+    {
+      "name": "LT: Rebecca (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSKVKcCXdKxkbgf0LL8lBTPG02e.jpg"
+    },
+    {
+      "name": "LT: Música, Glamour y Fama (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkB9iVfMuNHQUT2yqsKO418QQjS.jpg"
+    },
+    {
+      "name": "LT: Isi & Ossi (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZ7H0kCwEM6CQ0dyCs2H4RkU130.jpg"
+    },
+    {
+      "name": "LT: Efectos colaterales del amor (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FQT3DtiTdBtuXGLK5QyxOFu5zm.jpg"
+    },
+    {
+      "name": "LT: A todos los chicos: P.D. Todavía te quiero (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoCZ84UK0E3X7ru4VAE2ept88zl.jpg"
+    },
+    {
+      "name": "LT: Amor garantizado (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K22JB6fZZLBuM0knfl8rs9Zoxg.jpg"
+    },
+    {
+      "name": "LT: Amor de gata (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QJ4yVmSxuLQX8vHW4elcqUa1T8.jpg"
+    },
+    {
+      "name": "LT: Ahí te encargo (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v230KtHmd261EA4OSMMSC2TCiA8.jpg"
+    },
+    {
+      "name": "LT: Una noche de locos (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yADcc2D0uaIwP2BHCaKPz0daAAI.jpg"
+    },
+    {
+      "name": "LT: Think Like a Dog (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDbOrc2RtIA37nLm0CzVpFLrdaG.jpg"
+    },
+    {
+      "name": "LT: Las brujas (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1y92244iBlKW04rEnaEK8i8tPY.jpg"
+    },
+    {
+      "name": "LT: DeSastre & Total. Agencia de detectives nº 1 (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZuZxrHo3O6hGuadDBtOy2H2pSB.jpg"
+    },
+    {
+      "name": "LT: Tyler Rake (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJsIn1YJw4fVnxD19vP43MJWYW5.jpg"
+    },
+    {
+      "name": "LT: Twist (2021)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sXthW46RwmPBdacGHnhOzLv40d.jpg"
+    },
+    {
+      "name": "LT: Todo el día y una noche (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWEP25l4PiX7DgMOMU5ZReExz1q.jpg"
+    },
+    {
+      "name": "LT: Su último deseo (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5c92MLKdEeWX9ZqwhjM82nj9zn7.jpg"
+    },
+    {
+      "name": "LT: Se busca papá (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SGdP60ebBDDxdnWo5VulwmR44C.jpg"
+    },
+    {
+      "name": "LT: Pacto de Fuga (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDFfu73R8uO94ydFtdxEdSfTlg6.jpg"
+    },
+    {
+      "name": "LT: On the Rocks (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg"
+    },
+    {
+      "name": "LT: Nadie sabe que estoy aquí (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/c7CTxNNPeg6MH9VA9BBvMKdPmSh.jpg"
+    },
+    {
+      "name": "LT: Mientras estés conmigo (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD7JLFdRzfr0Pa7AZetnNepYDeM.jpg"
+    },
+    {
+      "name": "LT: Madame Claude (2021)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9miY5tHWmvVAft4gjqyaXyhLYHY.jpg"
+    },
+    {
+      "name": "LT: Los chicos de la banda (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D2gi13hnrXWaspWuWmdbEZ8bef.jpg"
+    },
+    {
+      "name": "LT: La llamada de lo salvaje (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jngNKSF4NlRB7LnOgnq1tnvKfu.jpg"
+    },
+    {
+      "name": "LT: Horse Girl (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNQ7st9dFXUXENMcsAuVxcrIBfA.jpg"
+    },
+    {
+      "name": "LT: Hooking Up (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5QXP7qdwtPRiZy6cQTjRoaTXuW.jpg"
+    },
+    {
+      "name": "LT: Hater (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWlN2L8a8ImW1wAqko0IMfyIpd.jpg"
+    },
+    {
+      "name": "LT: Fuga de Pretoria (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1U0LBEaGwQM9sUNfj0flSoGStzJ.jpg"
+    },
+    {
+      "name": "LT: Freaks: 3 superhéroes (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/slP4VYu9Bs0niFMzwchaQ7R9G69.jpg"
+    },
+    {
+      "name": "LT: For the Love of Jessee (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJOiiP4mN5aSadoQY31UKDwlQLG.jpg"
+    },
+    {
+      "name": "LT: En plan estrella de rock (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbFgoQKRH8QiFMcLs4D52VznKUz.jpg"
+    },
+    {
+      "name": "LT: El sumiller (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zc3j4vsBXtt1HAHMIAGpAIHS6jW.jpg"
+    },
+    {
+      "name": "LT: El juicio de los 7 de Chicago (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIzTCHXJp5UKi4izt9DtlWksaBz.jpg"
+    },
+    {
+      "name": "LT: El jardín secreto (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/figneljeYCOBLAyyi1odZxz8h5g.jpg"
+    },
+    {
+      "name": "LT: El banquero (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxV1aV1ca2gKLnEoNdzaeySmgU.jpg"
+    },
+    {
+      "name": "LT: Da 5 Bloods: Hermanos de armas (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg"
+    },
+    {
+      "name": "LT: Casa ajena (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K0EpAAVI29ge1jJPys6SuqMq7R.jpg"
+    },
+    {
+      "name": "LT: Tony Parker: La última canasta (2021)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZgw36jwqby3sxT7jU8to8Sq9Di.jpg"
+    },
+    {
+      "name": "LT: Descansa En Paz Dick Johnson (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg"
+    },
+    {
+      "name": "LT: La cantera (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiURvVCrSqXEFACiCH62GJykTUJ.jpg"
+    },
+    {
+      "name": "LT: Enola Holmes (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg"
+    },
+    {
+      "name": "LT: El diablo a todas horas (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIw4e4ZRMznLj21mASBcXIUuOsN.jpg"
+    },
+    {
+      "name": "LT: Arkansas (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieNGttYsxunAANK9LRZa4LdkEqi.jpg"
+    },
+    {
+      "name": "LT: Work It: Al ritmo de los sueños (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg"
+    },
+    {
+      "name": "LT: Veinteañera, divorciada y fantástica (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpC0bIYYfAY0wLa8sjlzIspMQr4.jpg"
+    },
+    {
+      "name": "LT: Vampiros contra el Bronx (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSpm2mMbkd0hLTRWBz0zolnLAyK.jpg"
+    },
+    {
+      "name": "LT: The Swing of Things (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOrZOaDd5RfF873lKoWE6rkZG9c.jpg"
+    },
+    {
+      "name": "LT: Stargirl (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwsrtzSrr7G6xjxsa7IwaAMHpEF.jpg"
+    },
+    {
+      "name": "LT: Spenser Confidential (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg"
+    },
+    {
+      "name": "LT: Solterísima (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qptLj4WxATqp3MZq97JmhYjtc9B.jpg"
+    },
+    {
+      "name": "LT: Socias y enemigas (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e13bJRPDJe5q0TnCRmDQfWQRZtD.jpg"
+    },
+    {
+      "name": "LT: Rebelión de los Godínez (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRNdTQtAKZUP3D9N2zx5y8O0f1E.jpg"
+    },
+    {
+      "name": "LT: No andaba muerto, estaba de parranda (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFURPjN59Gvmtq89s7GnsD3QIAl.jpg"
+    },
+    {
+      "name": "LT: Modo avión (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZBhyl83F07syVhQ0q21NBZSCC.jpg"
+    },
+    {
+      "name": "LT: Mi primer beso 2 (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kjPY71yrktwRJ7NVl6Ttb6tl5V.jpg"
+    },
+    {
+      "name": "LT: Las Pildoras de mi Novio (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVSOXCBuPXw8yXqbNfwU9ogIp88.jpg"
+    },
+    {
+      "name": "LT: Las aventuras del Doctor Dolittle (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/12UGnmb4YdovJZ2QKjRMIsAJ16E.jpg"
+    },
+    {
+      "name": "LT: La otra Missy (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MQScaFf8Uu8Hj9omCQju4KsWAA.jpg"
+    },
+    {
+      "name": "LT: La lista de a la mierda (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4wCmmGj8N5Md27lYZKgNLGXZV.jpg"
+    },
+    {
+      "name": "LT: Fiebre del ladrillo (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW06KTvAqAZXaVQOQGApjDdhkSW.jpg"
+    },
+    {
+      "name": "LT: Festival de la Canción de Eurovisión: La historia de Fire Saga (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wi7rpl9Ge1fxwArw9dP2BgkUi7.jpg"
+    },
+    {
+      "name": "LT: Emma. (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg"
+    },
+    {
+      "name": "LT: El Halloween de Hubie (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHH1TvTUJT6P4n8qgFYrYpAZPdt.jpg"
+    },
+    {
+      "name": "LT: Corazón loco (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg"
+    },
+    {
+      "name": "LT: Conquista a medias (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gReRqOnhWEKOrRj6dW7wE1qfbzd.jpg"
+    },
+    {
+      "name": "LT: Como perros y gatos: La patrulla unida (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kn6N5FqvjLghwA0k3padBCw6ZKt.jpg"
+    },
+    {
+      "name": "LT: Borat, película film secuela (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0TRERSqgiPujFJqKaz9cskmqcx.jpg"
+    },
+    {
+      "name": "LT: Bill y Ted salvan el universo (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Sybzk8HS4hkyGJWNFvxpTF628.jpg"
+    },
+    {
+      "name": "LT: Berlin, Berlin: la novia se fuga (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7dbF4YXX5fMbxisAbQpwwknwa.jpg"
+    },
+    {
+      "name": "LT: Bajo El Sol De Riccione (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly1zIjlj1MuV7zHJ9NaPu0Xp2rR.jpg"
+    },
+    {
+      "name": "LT: Atrapa ese email (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLM1mMby4jTdsQm8ImCRMY0BXLz.jpg"
+    },
+    {
+      "name": "LT: Amor de Calendario (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrrVDbl02FKuGoinanB0Y1aBr5W.jpg"
+    },
+    {
+      "name": "LT: Amor. Boda. Azar (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hPYjrxkw4r9RVX5NcDGTz2zaOJ.jpg"
+    },
+    {
+      "name": "LT: Scooby! (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/zurVOCpOLwLTBknYlgcXHWE0xvu.jpg"
+    },
+    {
+      "name": "LT: Feliz Halloween, Scooby-Doo! (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ojSrGq5qIBObrodYilJQPXSYv6r.jpg"
+    },
+    {
+      "name": "LT: Superman: Man of Tomorrow (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg"
+    },
+    {
+      "name": "LT: Superman: Hijo Rojo (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p55DBjjWnU421XqEDQhnP512UiK.jpg"
+    },
+    {
+      "name": "LT: Onward (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg"
+    },
+    {
+      "name": "LT: Más allá de la Luna (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7wYZzjhBzhfS6QsvrjVKi7v0MO.jpg"
+    },
+    {
+      "name": "LT: Mortal Kombat Legends: La venganza de Scorpion (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VlXER3FImHeFuUjBShFamhIp9M.jpg"
+    },
+    {
+      "name": "LT: Los hermanos Willoughby (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TRsvYMjJFHKi43g9MSPYU3Epzu.jpg"
+    },
+    {
+      "name": "LT: Liga de la Justicia Oscura - Guerra Apokolips (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg"
+    },
+    {
+      "name": "LT: ¡Shazam!: Magia y monstruos (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ziIyuNNNwYqv0qbOpV9VvvdnRBb.jpg"
+    },
+    {
+      "name": "LT: Larva: Aventuras en la isla - La película (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg"
+    },
+    {
+      "name": "LT: La princesa Cisne: una boda real (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf82AT3tzhm3YlTnqivLvCqfX7R.jpg"
+    },
+    {
+      "name": "LT: Justice League Dark: Apokolips War (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg"
+    },
+    {
+      "name": "LT: Jungle Beat: The Movie (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgC67SOxd9xkjN4Bnvjtuj1vI8T.jpg"
+    },
+    {
+      "name": "LT: Dragones al rescate: El secreto del Ala Cantarina (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ECPZaRczTQiUgPtZzyOiHxlfbe.jpg"
+    },
+    {
+      "name": "LT: Bob Esponja: Un héroe al rescate (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sp9fYcVbUHDFgGZpLvCSJsplfbd.jpg"
+    },
+    {
+      "name": "LT: Aventura de Princesa (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/e4qXQXXaVYvHBE3Rx5x3qrmxorB.jpg"
+    },
+    {
+      "name": "LT: Consejos de una canguro para cazar monstruos (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJvuUUhHM3FtoXL0qlHPtsfwq8n.jpg"
+    },
+    {
+      "name": "LT: Artemis Fowl (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI8ocADh22GtQFV28vGHaBZVb0U.jpg"
+    },
+    {
+      "name": "LT: Zona de Riesgo (2021)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQ2aNqcIGopI2AsTREc8sQlz6CN.jpg"
+    },
+    {
+      "name": "LT: Una Noche en Bangkok (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K2uP9uhxVDYteUQLHhLUvEXbzL.jpg"
+    },
+    {
+      "name": "LT: Get Out Alive (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1IKhHbjDcaGTn0YLvoASGwTlzxN.jpg"
+    },
+    {
+      "name": "LT: Tiempo de caza (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Wjb8RqoCgB0OjHwBI9zXQcn8TL.jpg"
+    },
+    {
+      "name": "LT: Sonic: La película (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg"
+    },
+    {
+      "name": "LT: Sobrevive esta noche (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAzG8J0M5qNF8EQhzYqNZaJUqcs.jpg"
+    },
+    {
+      "name": "LT: Rogue (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOw5JD8IlD546feZ6oxbIjvN66P.jpg"
+    },
+    {
+      "name": "LT: Project Power (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "name": "LT: Mulán (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd7ElSRYhN2CFqMcyH8rqrwLbd6.jpg"
+    },
+    {
+      "name": "LT: Los últimos días del crimen (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/trZcRJJDEm0SWUkDwgR3VyrB1oG.jpg"
+    },
+    {
+      "name": "LT: Los vigilantes de Malibú: La nueva ola (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7B1gSxMdgZCCJcMRgo65T5lByMw.jpg"
+    },
+    {
+      "name": "LT: Los nuevos mutantes (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBWrc52L3NmJLMZwfLzmP61ZO3.jpg"
+    },
+    {
+      "name": "LT: La vieja guardia (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzYP4eiDmBoVztMUmWtKqMZcUGN.jpg"
+    },
+    {
+      "name": "LT: La Deuda 2 (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGgCTPrWqyyUpfXVXETBmmOQdHr.jpg"
+    },
+    {
+      "name": "LT: La bala perdida (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJnMB74XMDWMiIgREuzklPC3wQE.jpg"
+    },
+    {
+      "name": "LT: Greyhound: enemigos bajo el mar (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHmGs4uAIOdPgseCgOH0eEsmTKD.jpg"
+    },
+    {
+      "name": "LT: El ritmo de la venganza (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7s8CxIVvtAfNJQlTcYIWy7XpM2.jpg"
+    },
+    {
+      "name": "LT: El club secreto de los no herederos al trono (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKLvBS6eGIAzaFNjW9JRszwEs40.jpg"
+    },
+    {
+      "name": "LT: Bloodshot (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg"
+    },
+    {
+      "name": "LT: Aves de presa (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wLqXiiiaTSK8Y0n7N85O0jaNJm.jpg"
+    },
+    {
+      "name": "LT: A prueba de balas 2 (2020)",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGILkFnRrpdiNtDaHeekGZSn5o5.jpg"
+    },
+    {
+      "name": "LT: Dating Amber 2021",
+      "group": "LT - Latino Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMJnfNm1qqFdRYTUtAVqKyjgJAm.jpg"
+    }
+  ]
+}

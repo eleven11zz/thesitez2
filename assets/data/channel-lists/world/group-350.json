@@ -1,0 +1,418 @@
+{
+  "package": "world",
+  "name": "HU - Romantic Movies",
+  "groupIndex": 350,
+  "totalChannels": 82,
+  "channels": [
+    {
+      "name": "HU: The Map That Leads to You (2025)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzRmN2ZkYjQtZTRiZC00N2NmLWJmZWUtNzYyNmZmYzFmMTExXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Love Untangled (2025)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk2MTk3ZTUtMzJiYS00NWE5LTliMTItYTEyMmU1Y2JiZDZmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Fall for me (2025)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODUyOTc1ZDYtNjc5Ny00MzRkLTg5MDQtYTU3ZjM1MTExY2Y4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: My Oxford Year (2025)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWU0YTc0OWYtOWJjNy00ZDYzLWFlMTItMGZkNzM4YjQ5OWQzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Other End of the Line (2008)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ3MTMzMjcxOF5BMl5BanBnXkFtZTcwMzI5NTg5MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Right Girl (2015)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzE3MTA4YjMtZjEwMi00YTgyLWI4NzctMWI5YjliMmVjOWY1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Love Tactics II (2023)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWVlZGRiMDUtMDM1MS00NzExLTk4NmMtMTBiYjc3YjJkODdiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Love Tactics (2022)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjY2N2Y1ZDQtYzA2Ny00NGJjLWJjOTUtZGQzOGI0YzdlMjM1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Love at First Sight (2023)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTY0M2EyNGUtYmZiYi00MTVlLThkMWMtMjNkZjg5Nzg2NjRmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Me Before You (2016)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Water Drops on Burning Rocks (2000)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGQwNWFjYTItNjRjMS00OWZjLWJkMmMtY2QzZTNlNjk0YzFkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Bad Influence (2025)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzBkMDZiOTYtN2U0Zi00NWU4LWFkMmYtZTUwOGYwZGE2NjdhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Spring Summer Fall Winter and Spring (2003)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTI0ODMwOTIxOV5BMl5BanBnXkFtZTcwMzE2NDUyMQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Permanent Midnight (1998)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzgyYjFlOTgtNjIzNy00MWU2LWFmMGItMTdjZjJiZDliOThkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: A Lot Like Love (2005)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTczMzM0NTkxMF5BMl5BanBnXkFtZTgwNjQzMDYyMDI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Mother and Child (2009)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg4NTM5MTE0N15BMl5BanBnXkFtZTcwOTM2MTgyMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: While You Were Sleeping (1995)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTJmOWIzY2YtYmE2ZC00NDRiLWIzYmMtNTkyNmNlMTA0N2NkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Wonder Wheel (2017)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTA2NjAyMDIzMzleQTJeQWpwZ15BbWU4MDg1NTEwNjMy._V1_.jpg"
+    },
+    {
+      "name": "HU: All of US Strangers (2023)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDU2ZjBlOTUtMTIzMC00OWI0LTg2OTAtZmUxYTE2MzdhNzZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Agora (2009)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzFkMjcyMTMtYWNhYy00ZjY3LWFkZjEtMDk3NjUwNTgzYzUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Adrift (2018)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkxMTI2MjE4OF5BMl5BanBnXkFtZTgwMjIyODQzNTM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Fault in Our Stars (2014)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTA4ODg5YWUtYmZiYy00Y2M4LWE0NjEtODE5MzhkYmJmZGEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: My Life Without Me (2003)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGZiMDNkMzItOGU1NS00NWZlLWJkMDktYzg2OTQyOTFmZmIxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Wimbledon (2004)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTg1ZmFkNDYtOTA1ZS00NjMwLWEwZGUtNDc0NDFhMzEzNmExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Her (2013)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Life or Something Like It (2002)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2I2OWE5ZjgtNjdhMi00NzdiLWFkYmEtMjhhOWJjODljMjc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Somethings Gotta Give (2003)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjZjMWM4MmQtMGQ5Ni00MzRiLWFiNjAtYzg2NmZmNGJmMGI4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Passion Play (2010)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDkzMzE1ODY1Ml5BMl5BanBnXkFtZTcwMzcyNDcxNQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Empire Records (1995)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTk1M2Q1NTEtNDk0ZS00OTBkLThkODctZGFjNmRhM2U3YTA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Bridget Jones Mad About The Boy (2025)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDdlY2Y2ZWEtYjk4Mi00Yjg3LWFlM2MtMWI1ZjVlNGQ5NTNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Curious Case of Benjamin Button (2008)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjIyNDExOWItM2Y4ZC00NmY3LWFlN2ItYTJlZDQ1NTJlZTUwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Olympic Dreams (2019)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDgzMDA0OWQtNWFhNi00ZDc4LThiY2MtZGJlNzZhNjA5NDA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: My Big Fat Greek Wedding III (2023)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWQ4Yzk5ZTctMmZlZC00OGI1LWIxYWItNTg1ODg4MzFjZTZiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: My Big Fat Greek Wedding II (2016)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTA1MjMzNDM2M15BMl5BanBnXkFtZTgwNTg3NzQ1NzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: My Big Fat Greek Wedding (2002)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWVmZmM3ZmUtNTU5ZS00ZmUxLTk0NDYtNWIxZjY4Zjk0MjQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Clueless (1995)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTgwYjQ1NDktOTcwNi00MWZhLTliYWQtZDg5NjZhY2U5ZTNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Somebody I Used To Know (2023)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjIxOTY3NDQtYzc3ZC00ZmJlLWI2YmYtOGI4OWIyMTI0YWJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Good Will Hunting (1997)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Maid in Manhattan (2002)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWZmNGI2Y2QtMjBmNi00ZDNhLWE2ZWMtMTAwYzdkNjMwY2NkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Father of the Bride (2022)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTgyNGZiNDAtMzNhMS00MjUwLWFiNjAtN2VhZDc2NzZmZDAxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Life List (2025)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjNhNzUyMTQtYTFiZS00NzM2LWI3YTgtZmI1ZTA1MDUzMzBhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The princess Switch III Romancing the Star (2021)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzIxMTdkNmMtODZhMS00YzEwLTgxZDItOWUzZTU5MzI4YjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Princess Switched Again (2020)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODc5MzUyMzgtY2QwNS00OTVlLWIyMDEtOWVjYzM5MGY1OTY1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Princess Switch (2018)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYyMjYxMjEzOF5BMl5BanBnXkFtZTgwMjAwNDE3NjM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ruby Sparks (2012)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE2OTM5OTUyOF5BMl5BanBnXkFtZTcwODI4Nzg3Nw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Pretty Woman (1990)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzZiZjAxODItYzJhNi00ZjgyLThlMWEtMWI4NjM3YjNlN2M4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Cooler (2003)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjUwMTgyN2UtMGI2OS00NDFjLTk1MjQtYTJmMDQwNGYyYzU1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Eternal Sunshine of the Spotless Mind (2004)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Emma (2020)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDdkZjg3YWYtMjMyNS00NmM0LTk4NWItMzA0MWYxN2U0MWY5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Titanic II (2010)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTMxMjQ1MjA5Ml5BMl5BanBnXkFtZTcwNjIzNjg1Mw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Titanic (1997)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Sosyal Climbers (2025)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTlkOTg4ZWItZTBiNy00NTAwLWE3NjAtNGQ3ZGJlZDA0ZDYwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: After Ever Happy (2022)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTEyZTdlZWItYzk4ZC00MWE2LTliMzUtYzU0ZWYxODEyYmQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Twilight Saga Breaking Dawn Part 2 (2012)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Twilight Saga Breaking Dawn Part 1 (2011)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjBlY2M2MTctMzU3Yi00MTY3LTlkMTAtMzhlMzY1YjZlYTA2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Twilight Saga Eclipse (2010)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Twilight Saga New Moon (2009)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTI3MjE3NDIxNF5BMl5BanBnXkFtZTcwODM3NTY5Mg@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Twilight (2008)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Red White and Royal Blue (2023)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzYyMzIyZjQtYzJkYi00M2E4LWI0YTUtOWVlNzk5NGI4YWY1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Burning Betrayal (2023)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGVmODcyMmQtN2FlYy00ZjhlLWIyMDEtNzkyZmZiNDk1YzRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: How to Be Single (2016)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzI4MDMwMzUwNF5BMl5BanBnXkFtZTgwMDgyNzkyNzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: A Ciganytabor az Egbe Megy (1976)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://axioart.com/images/live_images/200/5169/36.jpg"
+    },
+    {
+      "name": "HU: The kissing Booth III (2021)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWQyMTJiZWYtNzQ2Mi00Y2E1LThmNzgtNGU0ZjQ3NTg5YWRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Kissing Booth II (2020)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2IzODA4YTktZDkwOS00MTRkLWE3NjgtYjMwZTFlNTBhNjhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Kissing Booth (2018)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Idea of You (2024)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDEzOWUyNDQtOGI5Zi00YTcyLWJmNzYtNzIzNTM0MjhlYzIzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Summertime Blues (1988)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGY2ZmZhZGQtMGEzZS00NTNlLWE2ODMtZGVmNzc1MzY2MWY0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Young Love (1987)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjdhNjkyZjktMzk0My00YTQzLWEwZTItMmIyODQ0N2NjNzg1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Up Your Anchor (1985)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI0NTI0NjQ0MV5BMl5BanBnXkFtZTgwNzY4NTkwMzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Private Popsicle (1982)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzJlOTU1OTAtZDIyYS00OGZhLTliOTAtNzQ1NjBlYTNkNjRhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Hot Bubblegum (1981)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWFkNTBkZTItYTdlZi00NmI2LTlmNzctNGRlYjdjOTAxOGUxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Going Steady (1979)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjdkNTBlMWEtNGQ2OS00OTI1LWIzMmYtZTJlMjg5YjczNzdmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Lemon Popsicle (1978)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmEyZDE2OTUtM2MzYi00YmY5LWE2ZjItOTk1NjNhYTA2ZWIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Fifty Shades Freed (2018)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjUzMzg1ZGItYTc0MS00NjNhLWFiMDUtYmM2MDQzNThmYzA0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Fifty Shades of Black (2016)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ3MTg3MzY4OV5BMl5BanBnXkFtZTgwNTI4MzM1NzE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Fifty Shades of Grey (2015)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTdhZGE0YWYtMzc2MS00Zjk1LTliNWMtODVlZTY1NTdjZGJmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Fifty Shades Darker (2017)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Worst Person in the World (2021)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGEyYzBiYmItZDM4OC00NTdmLWJlYzctODdiM2E2MjZmYTU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Priscilla (2023)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWRjYjVhYWUtNjM2OS00OWE1LTk5ZmYtZDM3MjllNzI1ZmQ4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Past Lives (2023)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Crazy Rich Asians (2018)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_.jpg"
+    },
+    {
+      "name": "HU: Charlies Angels Full Throttle (2003)",
+      "group": "HU - Romantic Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM0MTg3OTU5N15BMl5BanBnXkFtZTYwMDc4MzU3._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+}

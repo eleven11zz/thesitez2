@@ -1,0 +1,523 @@
+{
+  "package": "world",
+  "name": "HU - Hungary - Live.",
+  "groupIndex": 84,
+  "totalChannels": 103,
+  "channels": [
+    {
+      "name": "HU: AXN HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/axn.png"
+    },
+    {
+      "name": "HU: AMC HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/amc.png"
+    },
+    {
+      "name": "HU: AXN Black HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/axnblack.png"
+    },
+    {
+      "name": "HU: AXN White HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/axnwhite.png"
+    },
+    {
+      "name": "HU: Cinemax HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax.png"
+    },
+    {
+      "name": "HU: Cinemax 1 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax1.png"
+    },
+    {
+      "name": "HU: Cinemax 2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax2.png"
+    },
+    {
+      "name": "HU: DIGI FILM HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/digifilm.png"
+    },
+    {
+      "name": "HU: EPIC Drama HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/epicdrama.png"
+    },
+    {
+      "name": "HU: Film+ HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/afilm.png"
+    },
+    {
+      "name": "HU: FILM 1 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/film1.png"
+    },
+    {
+      "name": "HU: FILM 4 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/film4.png"
+    },
+    {
+      "name": "HU: FILM Mania HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/filmmania.png"
+    },
+    {
+      "name": "HU: Filmbox HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/filmbox.png"
+    },
+    {
+      "name": "HU: Filmbox Family HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxfamily.png"
+    },
+    {
+      "name": "HU: Filmbox Premium HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/filmboxpremium.png"
+    },
+    {
+      "name": "HU: HBO 2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/hbo2.png"
+    },
+    {
+      "name": "HU: HBO 3 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/hbo3.png"
+    },
+    {
+      "name": "HU: HBO Cz/hu HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/hbo.png"
+    },
+    {
+      "name": "HU: Izaura TV HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/izauratv.png"
+    },
+    {
+      "name": "HU: Jocky TV HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/jockytv.png"
+    },
+    {
+      "name": "HU: Mozi+ HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/mozi.png"
+    },
+    {
+      "name": "HU: Moziverzum HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/moziverzum.png"
+    },
+    {
+      "name": "HU: Paramount Channel HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/paramountchannel.png"
+    },
+    {
+      "name": "HU: Paramount Network HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/paramountnetwork.png"
+    },
+    {
+      "name": "HU: Prime HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/prime.png"
+    },
+    {
+      "name": "HU: SONY Channel HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/sonychannel.png"
+    },
+    {
+      "name": "HU: SONY MAX HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/sonymax.png"
+    },
+    {
+      "name": "HU: Sorozat HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/sorozat.png"
+    },
+    {
+      "name": "HU: Sorozat+ HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/sorozat.png"
+    },
+    {
+      "name": "HU: Animal Planet HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "HU: DA Vinci Learning HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/davincilearning.png"
+    },
+    {
+      "name": "HU: DIGI Animal World HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/digianimalworld.png"
+    },
+    {
+      "name": "HU: DIGI LIFE HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/digilife.png"
+    },
+    {
+      "name": "HU: Discovery Channel HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "HU: Discovery World FHD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryworld.png"
+    },
+    {
+      "name": "HU: Galaxy4 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/galaxy4.png"
+    },
+    {
+      "name": "HU: NAT GEO HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/natgeo.png"
+    },
+    {
+      "name": "HU: National Geographic HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "HU: NAT GEO WILD HU HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "HU: National Geographic WILD HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographicwild.png"
+    },
+    {
+      "name": "HU: Ozone Network HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/ozonenetwork.png"
+    },
+    {
+      "name": "HU: Spektrum HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/spektrum.png"
+    },
+    {
+      "name": "HU: Spektrum HOME HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/spektrumhome.png"
+    },
+    {
+      "name": "HU: Travel Channel FHD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/travelchannel.png"
+    },
+    {
+      "name": "HU: Viasat Explore HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/viasatexplore.png"
+    },
+    {
+      "name": "HU: Viasat History HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/viasathistory.png"
+    },
+    {
+      "name": "HU: Viasat Nature FHD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/viasatnature.png"
+    },
+    {
+      "name": "HU: TV 2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/tv2.png"
+    },
+    {
+      "name": "HU: Bonum HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://curl.pk/img/u/be282fa834949df626e52fac937b5ce34197.jpg"
+    },
+    {
+      "name": "HU: Chili TV HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/chilitv.png"
+    },
+    {
+      "name": "HU: Comedy Central HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentral.png"
+    },
+    {
+      "name": "HU: Comedy Central Family HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentralfamily.png"
+    },
+    {
+      "name": "HU: COOL HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/cool.png"
+    },
+    {
+      "name": "HU: DUNA Televizio HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/65793580521.png"
+    },
+    {
+      "name": "HU: DUNA World HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/dunaworld.png"
+    },
+    {
+      "name": "HU: EWTN HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/ewtn.png"
+    },
+    {
+      "name": "HU: FEM 3 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/fem3.png"
+    },
+    {
+      "name": "HU: FEM3 HU HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/fem3.png"
+    },
+    {
+      "name": "HU: FOOD Network HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/foodnetwork.png"
+    },
+    {
+      "name": "HU: LIFE TV HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/lifetv.png"
+    },
+    {
+      "name": "HU: M1 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/m1.png"
+    },
+    {
+      "name": "HU: M2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/m2.png"
+    },
+    {
+      "name": "HU: M5 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/m5.png"
+    },
+    {
+      "name": "HU: Music Channel HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/musicchannel.png"
+    },
+    {
+      "name": "HU: RTL GOLD HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/rtlgold.png"
+    },
+    {
+      "name": "HU: RTL II HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/rtlii.png"
+    },
+    {
+      "name": "HU: RTL KLUB HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/rtlklub.png"
+    },
+    {
+      "name": "HU: RTL+ HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/rtl.png"
+    },
+    {
+      "name": "HU: Story 4 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/story4.png"
+    },
+    {
+      "name": "HU: Super TV 2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/supertv2.png"
+    },
+    {
+      "name": "HU: Tisza TV HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/tiszatv.png"
+    },
+    {
+      "name": "HU: TLC  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "HU: TV Paprika HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/tvpaprika.png"
+    },
+    {
+      "name": "HU: TV4 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/tv4.png"
+    },
+    {
+      "name": "HU: Viasat 3 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/viasat3.png"
+    },
+    {
+      "name": "HU: Viasat 6 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/viasat6.png"
+    },
+    {
+      "name": "HU: Viasat 3 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/viasat3.png"
+    },
+    {
+      "name": "HU: TV 2 Comedy HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/tv2comedy.png"
+    },
+    {
+      "name": "HU: DIGI Sport 1 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/digisport1.png"
+    },
+    {
+      "name": "HU: DIGI Sport 2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/digisport2.png"
+    },
+    {
+      "name": "HU: DIGI Sport 3 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/digisport3.png"
+    },
+    {
+      "name": "HU: Eurosport 1 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "HU: Eurosport 2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "HU: Extreme Sports HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/extremesports.png"
+    },
+    {
+      "name": "HU: M4 Sport HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/m4sport.png"
+    },
+    {
+      "name": "HU: Eurosport 1 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "HU: Sport 1 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/sport1.png"
+    },
+    {
+      "name": "HU: Sport 2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/sport2.png"
+    },
+    {
+      "name": "HU: Super TV 2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/supertv2.png"
+    },
+    {
+      "name": "HU: Spiler 2 HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/spiler2.png"
+    },
+    {
+      "name": "HU: ATV Hungary HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/atv.png"
+    },
+    {
+      "name": "HU: HIR TV HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/hirtv.png"
+    },
+    {
+      "name": "HU: Muzsika TV HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/muzsikatv.png"
+    },
+    {
+      "name": "HU: Slager TV HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/slagertv.png"
+    },
+    {
+      "name": "HU: Boomerang HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/boomerang.png"
+    },
+    {
+      "name": "HU: Disney Channel HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "HU: Cartoon Network HU HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "HU: Jimjam HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/jimjam.png"
+    },
+    {
+      "name": "HU: Minimax HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/minimax.png"
+    },
+    {
+      "name": "HU: Nickelodeon HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "HU: NICK JR HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/nickjr.png"
+    },
+    {
+      "name": "HU: TV 2 KIDS HD  (101-SERVERS)",
+      "group": "HU - Hungary - Live.",
+      "logo": "https://logo.m3uassets.com/tv2kids.png"
+    }
+  ]
+}

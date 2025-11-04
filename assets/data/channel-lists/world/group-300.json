@@ -1,0 +1,1493 @@
+{
+  "package": "world",
+  "name": "ES - 2024-2025 Spanish Movies",
+  "groupIndex": 300,
+  "totalChannels": 297,
+  "channels": [
+    {
+      "name": "ES: Jurassic World Rebirth (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg"
+    },
+    {
+      "name": "ES: F1 (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PXZIUsSDh4alB80jheWX4fhZmy.jpg"
+    },
+    {
+      "name": "ES: Madame Clicquot, la gran dama del champagne (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHvEktXi74hp4xQlWuiRFjTijSg.jpg"
+    },
+    {
+      "name": "ES: Madame Clicquot, la gran dama del champagne (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHvEktXi74hp4xQlWuiRFjTijSg.jpg"
+    },
+    {
+      "name": "ES: Woodwalkers (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n84V8SLmc7242ltKRePD5uvP8Xb.jpg"
+    },
+    {
+      "name": "ES: Woodwalkers (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n84V8SLmc7242ltKRePD5uvP8Xb.jpg"
+    },
+    {
+      "name": "ES: Strange Darling (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Od2gOpFpYyPrAnYGbgsFXUcS15.jpg"
+    },
+    {
+      "name": "ES: Strange Darling (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Od2gOpFpYyPrAnYGbgsFXUcS15.jpg"
+    },
+    {
+      "name": "ES: Tierra Baja (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m28I4KLQVRmw5F4n5s7lfVdrFkk.jpg"
+    },
+    {
+      "name": "ES: Mikaela (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnTNpOoqjqOLj2oIoGE9MnPFa4o.jpg"
+    },
+    {
+      "name": "ES: La rinoceronte Lulu (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/benRKKXC4337aP5rsnW91afi2PS.jpg"
+    },
+    {
+      "name": "ES: K.O. (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg"
+    },
+    {
+      "name": "ES: Harta (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAf8Is1xX4gq4Jk14iFC1qhmT8R.jpg"
+    },
+    {
+      "name": "ES: Amenaza en el aire (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8T6nkYb4W8BIeafmFffyfsRciTL.jpg"
+    },
+    {
+      "name": "ES: Viaje de fin de curso: Mallorca (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8E8EqXqETV8ggPiOkHjaBU8H9N.jpg"
+    },
+    {
+      "name": "ES: Viaje de fin de curso: Mallorca (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8E8EqXqETV8ggPiOkHjaBU8H9N.jpg"
+    },
+    {
+      "name": "ES: La viuda negra (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuabL0qp3zygLDEjImbPiWR9j2e.jpg"
+    },
+    {
+      "name": "ES: La mitad de Ana (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9MU1BtnhHooojObwlg3DD6vo2A.jpg"
+    },
+    {
+      "name": "ES: Zoe, mi amiga muerta (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qKKsLEydjnPmqhklF0bdcztOt2.jpg"
+    },
+    {
+      "name": "ES: Zoe, mi amiga muerta (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qKKsLEydjnPmqhklF0bdcztOt2.jpg"
+    },
+    {
+      "name": "ES: ES- Fuera de la ley LQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaqdopkqw3KQlC2HQ94broRGSJb.jpg"
+    },
+    {
+      "name": "ES: Fuera de la ley HQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaqdopkqw3KQlC2HQ94broRGSJb.jpg"
+    },
+    {
+      "name": "ES: Las chicas del balcón LQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/QBrj5LazI61JjeYEScoIPbetaH.jpg"
+    },
+    {
+      "name": "ES: Las chicas del balcón HQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/QBrj5LazI61JjeYEScoIPbetaH.jpg"
+    },
+    {
+      "name": "ES: El contable 2 LQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPFqduxDH46k6KnXa7x0jOQnSu3.jpg"
+    },
+    {
+      "name": "ES: El contable 2 HQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPFqduxDH46k6KnXa7x0jOQnSu3.jpg"
+    },
+    {
+      "name": "ES: Los pecadores LQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gL6puhup6PXqrKqItWbGA8LF529.jpg"
+    },
+    {
+      "name": "ES: Warfare: Tiempo de guerra LQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcVPbpoUwzWzcg6Wg8tX0hWXwwP.jpg"
+    },
+    {
+      "name": "ES: Warfare: Tiempo de guerra HQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcVPbpoUwzWzcg6Wg8tX0hWXwwP.jpg"
+    },
+    {
+      "name": "ES: Woodwalkers LQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n84V8SLmc7242ltKRePD5uvP8Xb.jpg"
+    },
+    {
+      "name": "ES: Woodwalkers HQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n84V8SLmc7242ltKRePD5uvP8Xb.jpg"
+    },
+    {
+      "name": "ES: La mitad de Ana (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c24RWnJzwAtWZ039o9u6K7c8jyw.jpg"
+    },
+    {
+      "name": "ES: La dinastía de la espada LQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iU7ppQ1djpUI8Rqagw8bqJNjv0i.jpg"
+    },
+    {
+      "name": "ES: La fiebre de los ricos LQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymKkHgkgXQTObC17L0GRlALGPHZ.jpg"
+    },
+    {
+      "name": "ES: La fiebre de los ricos HQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymKkHgkgXQTObC17L0GRlALGPHZ.jpg"
+    },
+    {
+      "name": "ES: Zoe, mi amiga muerta HQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qKKsLEydjnPmqhklF0bdcztOt2.jpg"
+    },
+    {
+      "name": "ES: Zoe, mi amiga muerta LQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qKKsLEydjnPmqhklF0bdcztOt2.jpg"
+    },
+    {
+      "name": "ES: Fin de fiesta LQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfY0oxDOvltyZv3ZH6e7yJGUMjh.jpg"
+    },
+    {
+      "name": "ES: The Alto Knights HQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZrMqok5ZQH82R1YqBu3LcG26ON.jpg"
+    },
+    {
+      "name": "ES: The Alto Knights LQ (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZrMqok5ZQH82R1YqBu3LcG26ON.jpg"
+    },
+    {
+      "name": "ES: Strange Darling LQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Od2gOpFpYyPrAnYGbgsFXUcS15.jpg"
+    },
+    {
+      "name": "ES: Strange Darling HQ (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Od2gOpFpYyPrAnYGbgsFXUcS15.jpg"
+    },
+    {
+      "name": "ES: Strange Darling UHD (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Od2gOpFpYyPrAnYGbgsFXUcS15.jpg"
+    },
+    {
+      "name": "ES: Beating Hearts (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu9dRyKcUHTfKcqsomUtpord4t3.jpg"
+    },
+    {
+      "name": "ES: Corazones rotos (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaDDFibgdo3zJxoHb1pKLVNnciV.jpg"
+    },
+    {
+      "name": "ES: Un Hombre Diferente (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8nynAOohBR0fWp8TEVtdr34jzo.jpg"
+    },
+    {
+      "name": "ES: A Different Man (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg"
+    },
+    {
+      "name": "ES: Con el agua al cuello (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO09KKSjE0c8vbRuv2CELOYEbqy.jpg"
+    },
+    {
+      "name": "ES: Con el agua al cuello (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO09KKSjE0c8vbRuv2CELOYEbqy.jpg"
+    },
+    {
+      "name": "ES: Until Dawn (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y98BJzQ4uM8t9f3ftE1gY4OGEmd.jpg"
+    },
+    {
+      "name": "ES: Until Dawn (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y98BJzQ4uM8t9f3ftE1gY4OGEmd.jpg"
+    },
+    {
+      "name": "ES: Memorias de un caracol (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/itb0oMYkglNqMUkXE7mrDyFtwuL.jpg"
+    },
+    {
+      "name": "ES: Policán (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUzwACFxvpbsD8kBr1IUI4JtXz0.jpg"
+    },
+    {
+      "name": "ES: Ojalá estuvieras aquí (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVRDebamaWViYk9P7q8FgJ8CJO8.jpg"
+    },
+    {
+      "name": "ES: La calle del terror: La reina del baile (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCpcdDQGc7ndoNCRCQUkLFgjmBF.jpg"
+    },
+    {
+      "name": "ES: Fuera de pista 2 (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL9Pg5qYLsPPlJrClmvuBMTaC4o.jpg"
+    },
+    {
+      "name": "ES: La fuente de la eterna juventud (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJ9qnZLhmj6wD3NgOe6lKoXJQMx.jpg"
+    },
+    {
+      "name": "ES: La fuente de la eterna juventud (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJ9qnZLhmj6wD3NgOe6lKoXJQMx.jpg"
+    },
+    {
+      "name": "ES: Voces de libertad (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCuph6GHSgRNpNYnkrxrXkyj6k5.jpg"
+    },
+    {
+      "name": "ES: Confidencial (Black Bag) (2025) LQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKRQtsAhmaww4VST3vzgK5G8pRJ.jpg"
+    },
+    {
+      "name": "ES: Confidencial (Black Bag) (2025) HQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKRQtsAhmaww4VST3vzgK5G8pRJ.jpg"
+    },
+    {
+      "name": "ES: La batalla de Montecassino (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hY9R1YDtZGeU3A83jC8PMneXcT.jpg"
+    },
+    {
+      "name": "ES: Float (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPpaxvoQJ2xomVtirSqbDDNl79T.jpg"
+    },
+    {
+      "name": "ES: Prófugo por accidente (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7QB75hlCqB8iKBfeO5TnpajQGn.jpg"
+    },
+    {
+      "name": "ES: Prófugo por accidente (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7QB75hlCqB8iKBfeO5TnpajQGn.jpg"
+    },
+    {
+      "name": "ES: ES -La cita (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gc83Ao5AP59gQVjnxAps2oFy2ag.jpg"
+    },
+    {
+      "name": "ES: El secreto del orfebre (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPW9fszYL0EG7YJW4NwvnAZbfuq.jpg"
+    },
+    {
+      "name": "ES: El secreto del orfebre (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPW9fszYL0EG7YJW4NwvnAZbfuq.jpg"
+    },
+    {
+      "name": "ES: A Working Man (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCsn3MV3QOJWnGVCb8B8VWrX5Qp.jpg"
+    },
+    {
+      "name": "ES: A Working Man (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCsn3MV3QOJWnGVCb8B8VWrX5Qp.jpg"
+    },
+    {
+      "name": "ES: Una película de Minecraft (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFLRoikELtD8RqkKT1aOiLjOF3s.jpg"
+    },
+    {
+      "name": "ES: Una película de Minecraft (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFLRoikELtD8RqkKT1aOiLjOF3s.jpg"
+    },
+    {
+      "name": "ES: Bambi, una vida en el bosque (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dMXS6qWeA8RjTklhF0ngD5G5rA.jpg"
+    },
+    {
+      "name": "ES: Bambi, una vida en el bosque (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg"
+    },
+    {
+      "name": "ES: Blancanieves (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg"
+    },
+    {
+      "name": "ES: Blancanieves (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg"
+    },
+    {
+      "name": "ES: Y2K (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qndubIQalyxBJI5EBNZKGXEX74q.jpg"
+    },
+    {
+      "name": "ES: Y2K (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qndubIQalyxBJI5EBNZKGXEX74q.jpg"
+    },
+    {
+      "name": "ES: Rock Bottom (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZDzGsPZEGsLwDeBQBb8omTQyDk.jpg"
+    },
+    {
+      "name": "ES: Overlord: El reino sagrado (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWPhQZZKPDZaxRlx18A9l657vO5.jpg"
+    },
+    {
+      "name": "ES: Marcello Mio (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJiFmwvYQTYIIx5sCUjLKTPtF5t.jpg"
+    },
+    {
+      "name": "ES: Los estafadores (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioiiLYBbKvNqUHWzAVMgXATisQ3.jpg"
+    },
+    {
+      "name": "ES: Los estafadores (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioiiLYBbKvNqUHWzAVMgXATisQ3.jpg"
+    },
+    {
+      "name": "ES: Harbin (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GxQAMh6CpltOYX4kjPLVO0Xrzz.jpg"
+    },
+    {
+      "name": "ES: Harbin (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GxQAMh6CpltOYX4kjPLVO0Xrzz.jpg"
+    },
+    {
+      "name": "ES: El caso Ángelus, la fascinación de Dalí (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0cmXImnfAxUA3z27oOUzCFS2T3.jpg"
+    },
+    {
+      "name": "ES: Un matrimonio mortal en Carolina del Norte (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8G6CoHY1psABHv312r39NeOPdu.jpg"
+    },
+    {
+      "name": "ES: Mala influencia (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg"
+    },
+    {
+      "name": "ES: Dismantling an Elephant (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/M0V6s0WrPsYTd0HxjbZjYAqY9B.jpg"
+    },
+    {
+      "name": "ES: Cuckoo (2024) LQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaNfJX6MT6kyRDfbH62Deazl0sD.jpg"
+    },
+    {
+      "name": "ES: La semilla de la higuera sagrada (2024) HQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/la5B2gNMQeEgBtAM1ClSgknkfQB.jpg"
+    },
+    {
+      "name": "ES: Stream (2024) LQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/az0k8pzdeqrrEO9iu8vL081bjA0.jpg"
+    },
+    {
+      "name": "ES: La bala perdida 3 (2025) LQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSGXolaGLJZxueTXxEE2WsgEoNh.jpg"
+    },
+    {
+      "name": "ES: El ejecutor (2024) LQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4o4fh62VZewnBotiVT33d0dvPsX.jpg"
+    },
+    {
+      "name": "ES: Nonnas (2025) LQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZEOKj5wtgUGpaQkzJRl7cjEv21.jpg"
+    },
+    {
+      "name": "ES: La evaluación (2025) HQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tIE8BcUfousuV3pxyRxuRCptDM.jpg"
+    },
+    {
+      "name": "ES: The Assessment (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1K7be85FAauSbVPzCQ0GjOXUqu.jpg"
+    },
+    {
+      "name": "ES: Pídeme lo que quieras (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg"
+    },
+    {
+      "name": "ES: Vivir el momento (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/RiE4GRCOgSS9OgDi4nUuEvgGyK.jpg"
+    },
+    {
+      "name": "ES: Un lío de millones (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/59GkGcRommZ2vVyznJxrpuSvUMS.jpg"
+    },
+    {
+      "name": "ES: Presunta inocente (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/srcLoyoyLN1cbuCNVSrsSk5xYDY.jpg"
+    },
+    {
+      "name": "ES: Las vidas de Sing Sing (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JccNwUnxZTCHK1vL5p0H4NgTin.jpg"
+    },
+    {
+      "name": "ES: Las vidas de Sing Sing (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JccNwUnxZTCHK1vL5p0H4NgTin.jpg"
+    },
+    {
+      "name": "ES: Ciudad de asfalto (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3UTxssA0vuhBlQ7fvUBoptsdB8.jpg"
+    },
+    {
+      "name": "ES: Ciudad de asfalto (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3UTxssA0vuhBlQ7fvUBoptsdB8.jpg"
+    },
+    {
+      "name": "ES: Karaoké (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JjeH6CYkwl8KsBX4SlJIx4PdUb.jpg"
+    },
+    {
+      "name": "ES: Otro pequeño favor (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZr2QCUbsekpiLnZ7788twcLpSn.jpg"
+    },
+    {
+      "name": "ES: Otro pequeño favor (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZr2QCUbsekpiLnZ7788twcLpSn.jpg"
+    },
+    {
+      "name": "ES: Nocturnal (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgSFFG6HbyzSHOZCwf03iwokDhW.jpg"
+    },
+    {
+      "name": "ES: Gravedad cero (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rOMi0FAfFwLfS1qsoklDAejI70.jpg"
+    },
+    {
+      "name": "ES: La fraternidad (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rPdJYrZ8LVCCwPMlzmIbr5y0Aw.jpg"
+    },
+    {
+      "name": "ES: El destino de Maya (2024) HQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajdqc3vDVzH0e3zw1N9tIySA2Jn.jpg"
+    },
+    {
+      "name": "ES: Extraterritorial (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTYbNWz4kI1P3GzEVvWZwyZT7Uv.jpg"
+    },
+    {
+      "name": "ES: Tu Sangre (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CejCSLSQdLS9Rh8dYFutKhAybJ.jpg"
+    },
+    {
+      "name": "ES: La luz que imaginamos (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6erZpKik89aVFUWoJiTLbcpXzL.jpg"
+    },
+    {
+      "name": "ES: Better Man (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg"
+    },
+    {
+      "name": "ES: Pánico en el tren bala (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDyJuHpn0Sh19fMv52vRTwGBx4g.jpg"
+    },
+    {
+      "name": "ES: Estragos (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weCzRfUhHPJpQ0uEYAdeommg0gM.jpg"
+    },
+    {
+      "name": "ES: Estragos (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weCzRfUhHPJpQ0uEYAdeommg0gM.jpg"
+    },
+    {
+      "name": "ES: El ladrón de joyas (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzuus3qrQct2JeoAs2AGMYzKzjZ.jpg"
+    },
+    {
+      "name": "ES: Ash (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg"
+    },
+    {
+      "name": "ES: Alba del desierto (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJxo8xxVnSaPAf9EdkjAfKwmoQK.jpg"
+    },
+    {
+      "name": "ES: La luz que imaginamos (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5Z8wBEPMWRjK6cOQsj2ixOlATS.jpg"
+    },
+    {
+      "name": "ES: Better Man (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak7VgAaI94K6CbbFuL22xIBJtyE.jpg"
+    },
+    {
+      "name": "ES: Ash (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg"
+    },
+    {
+      "name": "ES: Los Simpson: Planeta Amarillo (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vshMKR0CMTCQLjbSWN8seEVgPK5.jpg"
+    },
+    {
+      "name": "ES: Este amor sí que duele (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg"
+    },
+    {
+      "name": "ES: Este amor sí que duele (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg"
+    },
+    {
+      "name": "ES: Telaraña (2024) LQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kddQ5u0gQp0rhwCrN6ixFdV8s3H.jpg"
+    },
+    {
+      "name": "ES: La batalla de Montecassino (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hY9R1YDtZGeU3A83jC8PMneXcT.jpg"
+    },
+    {
+      "name": "ES: Sin instrucciones (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucYIwMAS4vh2p54EZG3pOr02uis.jpg"
+    },
+    {
+      "name": "ES: iRehén (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xduStDf3yiIL6WDIuhIdLX5rRGv.jpg"
+    },
+    {
+      "name": "ES: Juego de Ladrones 2: Pantera (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsfOvNfUGogZGfSDfMN4hCOM1kR.jpg"
+    },
+    {
+      "name": "ES: Parthenope (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ntJMZMlrfriYnsvWVAERLSCXTa.jpg"
+    },
+    {
+      "name": "ES: Parthenope (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ntJMZMlrfriYnsvWVAERLSCXTa.jpg"
+    },
+    {
+      "name": "ES: Oh, Canada (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MbhhZP62zitaouJxkKb1tiQcEU.jpg"
+    },
+    {
+      "name": "ES: Oh, Canada (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MbhhZP62zitaouJxkKb1tiQcEU.jpg"
+    },
+    {
+      "name": "ES: El reino de la mafia (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dr0fcM8n7Hb09t67ekgH5Zp1FEz.jpg"
+    },
+    {
+      "name": "ES: El reino de la mafia (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dr0fcM8n7Hb09t67ekgH5Zp1FEz.jpg"
+    },
+    {
+      "name": "ES: El más allá (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLbFoMTwi3vDzUfNpg1Va19F7HC.jpg"
+    },
+    {
+      "name": "ES: The Brutalist (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zayAddI9yPOTi34x9M21ezei9JV.jpg"
+    },
+    {
+      "name": "ES: The Brutalist (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zayAddI9yPOTi34x9M21ezei9JV.jpg"
+    },
+    {
+      "name": "ES: Cónclave (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkOgeASTlWwyKLBNblHVwWmAKhD.jpg"
+    },
+    {
+      "name": "ES: Cónclave (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkOgeASTlWwyKLBNblHVwWmAKhD.jpg"
+    },
+    {
+      "name": "ES: Bookworm (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg"
+    },
+    {
+      "name": "ES: Bookworm (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg"
+    },
+    {
+      "name": "ES: Blackwater Lane (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pwOM3fIVUzB51oIH6fw1d3onFd.jpg"
+    },
+    {
+      "name": "ES: Blackwater Lane (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pwOM3fIVUzB51oIH6fw1d3onFd.jpg"
+    },
+    {
+      "name": "ES: Capitán América: Brave New World (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/im71UJzBqY03swuGYVR28j0JFM2.jpg"
+    },
+    {
+      "name": "ES: Capitán América: Brave New World (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/im71UJzBqY03swuGYVR28j0JFM2.jpg"
+    },
+    {
+      "name": "ES: Zorro y Liebre salvan el bosque (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEwqKPeG3BMZRWJEirP6YHVkpVK.jpg"
+    },
+    {
+      "name": "ES: Muerte en la nieve (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL1hTzUWgZzphFP1FwfeZiQaGz5.jpg"
+    },
+    {
+      "name": "ES: Muerte en la nieve (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL1hTzUWgZzphFP1FwfeZiQaGz5.jpg"
+    },
+    {
+      "name": "ES: ¿Es el enemigo? La película de Gila (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hETrPWqSyw3Kui3yiZIPausbwD8.jpg"
+    },
+    {
+      "name": "ES: El arte del perdón (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgVxyVikFcxXaNkbPU3LWqlOQ6b.jpg"
+    },
+    {
+      "name": "ES: The Alto Knights (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPoZ3dqOW7J9gyqTaf6zcd5PBPb.jpg"
+    },
+    {
+      "name": "ES: The Alto Knights (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPoZ3dqOW7J9gyqTaf6zcd5PBPb.jpg"
+    },
+    {
+      "name": "ES: Novocaine   (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/miHABFjxMyoKKtFMzqfaD8cU5Sk.jpg"
+    },
+    {
+      "name": "ES: Los superhéroes de Malegaon (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuxmpcPlmsOiBSadI5byoPGEV4.jpg"
+    },
+    {
+      "name": "ES: Las hijas del califato (Rabia) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mp9H82AfFOh60XOAYHgMCqDNRi.jpg"
+    },
+    {
+      "name": "ES: Superpapá (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYuxZUxHbyHpnKI1qe06zoaGpqM.jpg"
+    },
+    {
+      "name": "ES: Chicos de hielo en el trópico (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWT2YoO6TOEYjBd0OTJXPyebmj4.jpg"
+    },
+    {
+      "name": "ES: Mickey 17 (2025) HQ",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZMGC839jsKNAweGeQDBZDmu6ka.jpg"
+    },
+    {
+      "name": "ES: Mickey 17 (2025) 4K",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZMGC839jsKNAweGeQDBZDmu6ka.jpg"
+    },
+    {
+      "name": "ES: Hombre lobo (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg"
+    },
+    {
+      "name": "ES: Hombre lobo (2025) 4K",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg"
+    },
+    {
+      "name": "ES: G20 (2025) 4K",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg"
+    },
+    {
+      "name": "ES: Flow, un mundo que salvar (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/337MqZW7xii2evUDVeaWXAtopff.jpg"
+    },
+    {
+      "name": "ES: In the Summers (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyZ0IvkSjoU7ShhLh1wjfVz0QXN.jpg"
+    },
+    {
+      "name": "ES: Hipnosis  (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MV3iQlWPjJSZgltidxIwuuiwO0.jpg"
+    },
+    {
+      "name": "ES: Hipnosis (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEAGT9C51QjtOMVh1RIXMKDmCXf.jpg"
+    },
+    {
+      "name": "ES: Hereje  (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg"
+    },
+    {
+      "name": "ES: Enciéndeme   (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/32obpfCjRsIenzkZ5oM5F3w0d65.jpg"
+    },
+    {
+      "name": "ES:  Desmontando a Lucía (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zWj356Tr4SyWdgnZ0qGYc6m5v7.jpg"
+    },
+    {
+      "name": "ES: Cuando cae el otoño (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2mc0VzGuVoWcp5EKhfqjuQDe7b.jpg"
+    },
+    {
+      "name": "ES:  Amanece en Samaná (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLJlN27YGDKZNpR0RRxlgLIfoLP.jpg"
+    },
+    {
+      "name": "ES:  Al otro barrio (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNNCIduqMy8EJo6Rbl8U0cpdWZI.jpg"
+    },
+    {
+      "name": "ES: Absolución   (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/26D1gPCZkDB94NHcIzK7vXJeXca.jpg"
+    },
+    {
+      "name": "ES: Absolución  (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/26D1gPCZkDB94NHcIzK7vXJeXca.jpg"
+    },
+    {
+      "name": "ES: DJ encubierto (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2pegSby27ebOwW361GJb1aKcxa.jpg"
+    },
+    {
+      "name": "ES: A prueba (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXgBHj3g0aLH5OWbgZJpNX7zMhT.jpg"
+    },
+    {
+      "name": "ES: Destino: Titán (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nO4t5lUWQNoSsV8Pt8s0UUYuHk3.jpg"
+    },
+    {
+      "name": "ES: Winner (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvTlXCh0XKukjsQtFGC4qtnO6Cz.jpg"
+    },
+    {
+      "name": "ES: Winner (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB6K99UCdqavRi82dFn0ZMhG4gC.jpg"
+    },
+    {
+      "name": "ES: ¿Quién es quién? (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmF2wScZgC1t24D2F4yIoNBtFd.jpg"
+    },
+    {
+      "name": "ES: ¿Quién es quién? (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmF2wScZgC1t24D2F4yIoNBtFd.jpg"
+    },
+    {
+      "name": "ES: Pídeme lo que quieras (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg"
+    },
+    {
+      "name": "ES: Los silenciosos (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qHoQfLwK3ZDB9gqse87HBZ5aUD.jpg"
+    },
+    {
+      "name": "ES: Los silenciosos (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svlDdCrU3nuoHPfHwjY1ByAsk6.jpg"
+    },
+    {
+      "name": "ES: La noche eterna (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1tW6ClGJ2x1h88qpklqnCIAzF1.jpg"
+    },
+    {
+      "name": "ES: La noche eterna (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1tW6ClGJ2x1h88qpklqnCIAzF1.jpg"
+    },
+    {
+      "name": "ES: Mi lista de deseos (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6K6spYEWf7aDGsY4EdkScZW1Hl.jpg"
+    },
+    {
+      "name": "ES: Promesas de corazón (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwGzsJT36GzT1UU39SKlSav1h7n.jpg"
+    },
+    {
+      "name": "ES: La madre de las estafas (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYfC4J5JFzsCCuJYbMLqpB5z81j.jpg"
+    },
+    {
+      "name": "ES: Lady Sakura (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNd70r6mtI0w0ZcNVpzdCc2gp8a.jpg"
+    },
+    {
+      "name": "ES: Holland (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg"
+    },
+    {
+      "name": "ES: Holland (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg"
+    },
+    {
+      "name": "ES: Criminales de lujo (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpAbueORafYSgTk2oSc2t6ayktb.jpg"
+    },
+    {
+      "name": "ES: Carjackers (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QZ3B6R3PTL54AESD11HfqeFzON.jpg"
+    },
+    {
+      "name": "ES: Alexander y el Viaje Terrible, Horrible, Espantoso, Horroroso. (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg"
+    },
+    {
+      "name": "ES: Criminales de lujo (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpAbueORafYSgTk2oSc2t6ayktb.jpg"
+    },
+    {
+      "name": "ES: Escape (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofXI3eJfpLvwZlwRV9iO1d9r6H7.jpg"
+    },
+    {
+      "name": "ES: Escape (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofXI3eJfpLvwZlwRV9iO1d9r6H7.jpg"
+    },
+    {
+      "name": "ES: Queer (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w18FVX4a42hWZO6QB07IGBTEFGo.jpg"
+    },
+    {
+      "name": "ES: Queer (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w18FVX4a42hWZO6QB07IGBTEFGo.jpg"
+    },
+    {
+      "name": "ES: Me contro te - la película: operación espías (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/upG5DLCYPt9czIFaecAis0ddety.jpg"
+    },
+    {
+      "name": "ES: El Crítico de Teatro (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FZvc0cxvgemwGEXBZyJC6qDQLJ.jpg"
+    },
+    {
+      "name": "ES: Boreal (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WzRqdFqD26vWVbj7xmzgUVH2Xh.jpg"
+    },
+    {
+      "name": "ES: Los últimos románticos (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAQA0Ftb3kxSUgoo4eQkHoA7rpz.jpg"
+    },
+    {
+      "name": "ES: Tiempo compartido (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LY7la8PwaXCGeG8otvJjYIsepo.jpg"
+    },
+    {
+      "name": "ES: Edipo esclavo (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSF1WoGLSufDwfaCJk7lAfrRhC2.jpg"
+    },
+    {
+      "name": "ES: Cupido confuso (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqHwh2Str8xUaIIxCAIaJHlETv5.jpg"
+    },
+    {
+      "name": "ES: Divino tesoro (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPACBqB9ec5NBWQRT1tVYdiCy02.jpg"
+    },
+    {
+      "name": "ES: Winnie the Pooh 2: El bosque sangriento (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/17UmQl8TuDmHWGlcKeFIjnR8bJF.jpg"
+    },
+    {
+      "name": "ES: Tú no eres yo (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmlFSgLtV6VoosKHqpxALVsCZH9.jpg"
+    },
+    {
+      "name": "ES: Raqqa: Spy vs. Spy (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDzliBDT3xuNnifOX8qBIAJI8oA.jpg"
+    },
+    {
+      "name": "ES:  Raqa (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xB40gvmC7c3XuIeITCs8ylmjHHH.jpg"
+    },
+    {
+      "name": "ES: El Ministro de Propaganda (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRNVZJNfQmF3hwj4jeC6ZbJd3zC.jpg"
+    },
+    {
+      "name": "ES: El Ministro de Propaganda (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRNVZJNfQmF3hwj4jeC6ZbJd3zC.jpg"
+    },
+    {
+      "name": "ES: La batalla de los mundos (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRK7clR2wtHNQndCymOLLjCRAGa.jpg"
+    },
+    {
+      "name": "ES: Bird (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8f6lD6wlZRP1FCz5SU4q86M2TuB.jpg"
+    },
+    {
+      "name": "ES: Bird (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8f6lD6wlZRP1FCz5SU4q86M2TuB.jpg"
+    },
+    {
+      "name": "ES: ... y mujer (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jBVq1NJAW1RR67yYP3uudO4PER.jpg"
+    },
+    {
+      "name": "ES: Omni Loop (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKrwq3HeyFcl5MXb7tcsileoF9I.jpg"
+    },
+    {
+      "name": "ES: En un confín del mundo (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI5eWAvq68mddW6JkRodywrOBF.jpg"
+    },
+    {
+      "name": "ES: Doble espionaje (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjDs56iwx4i29VQ1RbSkqO9RUyU.jpg"
+    },
+    {
+      "name": "ES: Duplicidad, de Tyler Perry (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg"
+    },
+    {
+      "name": "ES: Bridget Jones: Loca por él (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K4xBef7N7YZTnke23FiNTHBGNU.jpg"
+    },
+    {
+      "name": "ES: Z Zone (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynW7ZFLZsbVQozvzdAOLdQrLL9P.jpg"
+    },
+    {
+      "name": "ES: A Complete Unknown (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQXkbxB2kqY5yyG3KTheE4WU0x4.jpg"
+    },
+    {
+      "name": "ES: Verano en diciembre (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fk09Rg7OWGWRgX2c2GE73UhV7Aj.jpg"
+    },
+    {
+      "name": "ES: Solitude (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbodTEtvoeqCUgY9F74GlWclEBN.jpg"
+    },
+    {
+      "name": "ES: Las chicas de la estación (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQvdnUdonX3JJiOaiU64N2XsY7c.jpg"
+    },
+    {
+      "name": "ES: La ciudad de los guerreros (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gwxDPkp091c8rMp4W8RT8aeEnz.jpg"
+    },
+    {
+      "name": "ES: El baño del diablo (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba7rO3SLB9qKuT0dw2edDA9Jp9Q.jpg"
+    },
+    {
+      "name": "ES: La gran Lillian Hall (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BB8ieZw3mnlqicXQcObLnMuky4.jpg"
+    },
+    {
+      "name": "ES: Eternal (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cASxZyI3spiUyMrmEPlNyk7i7YP.jpg"
+    },
+    {
+      "name": "ES: Tiburona (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9TpXnGskHRQcHtX4NYndP6o0zA.jpg"
+    },
+    {
+      "name": "ES: La última parada de Arizona (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg"
+    },
+    {
+      "name": "ES: La última parada de Arizona (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGv2wLO3vZacOCm73kEOY8uRQIC.jpg"
+    },
+    {
+      "name": "ES: The Fire Inside (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0jGvovA17SDcjjUSFcI5XGSWDl.jpg"
+    },
+    {
+      "name": "ES: Novia a medida (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KPOwqmdKRvzfbpAFbv9TbCTqgE.jpg"
+    },
+    {
+      "name": "ES: No le cuentes a mamá que la niñera ha muerto (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoK4U8sjUpXw0Ex5ouHqpon1VAm.jpg"
+    },
+    {
+      "name": "ES: No le cuentes a mamá que la niñera ha muerto (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoK4U8sjUpXw0Ex5ouHqpon1VAm.jpg"
+    },
+    {
+      "name": "ES: Historia de pastores (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrMM5hhQVuud5Or1TaXCAbmIfkr.jpg"
+    },
+    {
+      "name": "ES: Héroes al amanecer (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82Ljm5kxoW0DR6xRej94GgnjxoX.jpg"
+    },
+    {
+      "name": "ES: Esperando la noche (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vsZi00TVXkWBqqDhSAMEhlxJSL.jpg"
+    },
+    {
+      "name": "ES: Esperando la noche (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vsZi00TVXkWBqqDhSAMEhlxJSL.jpg"
+    },
+    {
+      "name": "ES: El maestro del crimen (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4PV5K4vig2shSyOtVAGv2gFwbO.jpg"
+    },
+    {
+      "name": "ES: El maestro del crimen (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4PV5K4vig2shSyOtVAGv2gFwbO.jpg"
+    },
+    {
+      "name": "ES: El juicio del perro (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bskz6vDAxgpBfHuJoKrK0LeG4Ir.jpg"
+    },
+    {
+      "name": "ES: Dark Match (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6E6fBED3ix7FmrWUWZdeYG4vqK8.jpg"
+    },
+    {
+      "name": "ES: Another You (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg"
+    },
+    {
+      "name": "ES: The Parenting (HQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg"
+    },
+    {
+      "name": "ES: The Parenting (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg"
+    },
+    {
+      "name": "ES: Estado eléctrico (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg"
+    },
+    {
+      "name": "ES: El ejecutor (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4o4fh62VZewnBotiVT33d0dvPsX.jpg"
+    },
+    {
+      "name": "ES: El baño del diablo (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4J8vwl0XbWg2qZndwO5mgZluYG.jpg"
+    },
+    {
+      "name": "ES: El baño del diablo (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4J8vwl0XbWg2qZndwO5mgZluYG.jpg"
+    },
+    {
+      "name": "ES: Nadaaniyan (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKOBmI4IA7NJ9MQngDIQUyv1i0I.jpg"
+    },
+    {
+      "name": "ES: Delicia (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzaHDRtLwveEC3hsA3q2PKMTjye.jpg"
+    },
+    {
+      "name": "ES: Colmillos del Bayou (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVoBCxDHmpXhidKWhIubG2I0ffJ.jpg"
+    },
+    {
+      "name": "ES: Snack Shack (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg"
+    },
+    {
+      "name": "ES: Rob Peace (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BwKbTidW5QaEKb1pVY3p4u9cVg.jpg"
+    },
+    {
+      "name": "ES: Malas lenguas (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7Ijn4fEnYjGl45OoyxBOnFy7Hc.jpg"
+    },
+    {
+      "name": "ES: Furia (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7x70RqrI88yCDzfbEzjJPnTgEXf.jpg"
+    },
+    {
+      "name": "ES: Antes era divertido (LQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7gL2H9JM0dMBxY0fTGFFnuiBKs.jpg"
+    },
+    {
+      "name": "ES: Siempre Estaré Contigo (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G4x0LgwDXc2BXAC9qhxy1P08OS.jpg"
+    },
+    {
+      "name": "ES: Rob Peace (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BwKbTidW5QaEKb1pVY3p4u9cVg.jpg"
+    },
+    {
+      "name": "ES: Snack Shack (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg"
+    },
+    {
+      "name": "ES: Antes era divertido (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7gL2H9JM0dMBxY0fTGFFnuiBKs.jpg"
+    },
+    {
+      "name": "ES: Operación zombi (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/CmoQBKGLt8bWSlVjLL57TbQ3WR.jpg"
+    },
+    {
+      "name": "ES: Malas lenguas (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7Ijn4fEnYjGl45OoyxBOnFy7Hc.jpg"
+    },
+    {
+      "name": "ES: Furia (HQ) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7x70RqrI88yCDzfbEzjJPnTgEXf.jpg"
+    },
+    {
+      "name": "ES: La acompañante (LQ) (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyloao2GWttUvS7KVcEM2eSDwUn.jpg"
+    },
+    {
+      "name": "ES: Sumisión química: el caso Gisèle Pelicot (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/omoI9FazHCqdbaVxzEwKXEAlpMe.jpg"
+    },
+    {
+      "name": "ES: Miss Italia no debe morir (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ95TtMjaFmfLhiIaQYR9DrTX8q.jpg"
+    },
+    {
+      "name": "ES: Companion (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg"
+    },
+    {
+      "name": "ES: Bastion 36 (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/19G9YouWQXIIyHiPS4VEAqCr7h1.jpg"
+    },
+    {
+      "name": "ES: Perdido en la montaña (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UWcxTBuBs6kax7IB57aKE2Ccxv.jpg"
+    },
+    {
+      "name": "ES: La maldición del colgante (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH2UI7qwvKtmHk9vFTxxnCQPLKa.jpg"
+    },
+    {
+      "name": "ES: Sosyal Climbers (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cr6y0nWdfPb3yZT9Iz63zTE1dQE.jpg"
+    },
+    {
+      "name": "ES: Por el mal camino (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNCVMaK3UMR6yyAoH0YnOSwlZTd.jpg"
+    },
+    {
+      "name": "ES: Oni-Goroshi: Ciudad de los demonios (2025)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg"
+    },
+    {
+      "name": "ES:  El silencio de Marcos Tremmer (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jB26CKrdHYbqZPKotbUfieqkbNl.jpg"
+    },
+    {
+      "name": "ES:  My Name Is Loh Kiwan (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxZTNl6uQOnVe3h3xxYI1aVFQwM.jpg"
+    },
+    {
+      "name": "ES:  The Parades (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdEtrHGY7wuJ9WTnlYkTsnklAdF.jpg"
+    },
+    {
+      "name": "ES:   Dune: Part Two (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg"
+    },
+    {
+      "name": "ES:   El astronauta (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4G7NXuQ0hDCdO6PUQswyU0VDiF.jpg"
+    },
+    {
+      "name": "ES: Megamind vs. the Doom Syndicate (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg"
+    },
+    {
+      "name": "ES:   Código 8 (Parte 2) (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZxUL08hcs1tzLF7v7SA6enD118.jpg"
+    },
+    {
+      "name": "ES: Mea Culpa (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg"
+    },
+    {
+      "name": "ES:  Through My Window 3: Looking at You (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW5QD6b0z21x7ngAi5Fs6T23k0x.jpg"
+    },
+    {
+      "name": "ES: Lights Out (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg"
+    },
+    {
+      "name": "ES: The Heartbreak Agency (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLrW7KuGgDhvddvxPKl3g9h7Wim.jpg"
+    },
+    {
+      "name": "ES: Madame Web (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gCwRJWKG7PnEVtCxgKymF9kKxO.jpg"
+    },
+    {
+      "name": "ES: WWE Bad Blood (2024)",
+      "group": "ES - 2024-2025 Spanish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzM438Ly6kqTnsYb3Ys29MK4QLo.jpg"
+    }
+  ]
+}

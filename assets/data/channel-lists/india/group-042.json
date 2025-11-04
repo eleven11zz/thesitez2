@@ -1,0 +1,2408 @@
+{
+  "package": "india",
+  "name": "IN - 2022-2023 Hindi Movies - Bollywood",
+  "groupIndex": 42,
+  "totalChannels": 480,
+  "channels": [
+    {
+      "name": "IN-Tam: Thammudu (1999)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNW91EcYqlhgHccmbEIjmaPL7h1.jpg"
+    },
+    {
+      "name": "IN: Outhouse (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thZAl6v5rZGXIwrQcypwMoM5v49.jpg"
+    },
+    {
+      "name": "IN: Love All (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTLRHRJIQLRtsv9Q1rbUgRlE3A2.jpg"
+    },
+    {
+      "name": "Gaalipata 2 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bA68sKaX8aOnWeKKpLLUriCmY2C.jpg"
+    },
+    {
+      "name": "IN: Bicycle Days (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjM0MWMxNWMtMGQyMC00OWM2LWFiZDUtODU5N2JjYzM5ZjY1XkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg"
+    },
+    {
+      "name": "IN: Yadha Yadha Hi (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq5JIe4UuY3mT0pLe7Z4HW3feom.jpg"
+    },
+    {
+      "name": "IN: Paramporul (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MeB5UtD7UPT22Vn10d8Ialvk19.jpg"
+    },
+    {
+      "name": "IN: Samajavaragamana (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuyNHfcDJVwLfhgjHYmXlQZyK93.jpg"
+    },
+    {
+      "name": "IN: 1910 Evil Awakens (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWUwOGEyNjktMmFkYi00YWE1LWI4NGEtOWNmNTA3YjM4NGM3XkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg"
+    },
+    {
+      "name": "IN: Aavasavyuham: The Arbit Documentation of an Amphibian Hunt (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8K518nNnuBrnBVtKScVxyVSvjM.jpg"
+    },
+    {
+      "name": "IN: Driver Jamuna (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cev24xOOl5BFPgKOZCCREkTVW8w.jpg"
+    },
+    {
+      "name": "IN: Spark (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEvcGq7AsCJ7oCXVvtATTweE05o.jpg"
+    },
+    {
+      "name": "IN: Agent (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjgxY2QzZmMtYjhhYi00YmMwLWE2NjAtOTNmZmM2N2U4ZWVmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "IN: Mrs. (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2coys6g8PRqiP0sHEA2T6uLkEf.jpg"
+    },
+    {
+      "name": "IN: Garudan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SHg4ye34sD8ReJPplVp7oB06BK.jpg"
+    },
+    {
+      "name": "IN: Kida (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaihZH3P23B9ty4Xk7mRlLiMtPO.jpg"
+    },
+    {
+      "name": "IN: Kaatera (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApGI0qCY63sXPVEvqu0etrtKBGS.jpg"
+    },
+    {
+      "name": "IN: Jack N Jil (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzY3ZTY2NDItZDFlNi00YmEwLTg5ZmQtYzdmYzAyOTU4N2I2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "IN: Rangabali (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRWjzNu6HFzT3prCE3OGp4lmMC.jpg"
+    },
+    {
+      "name": "IN: Ginna (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9c2QaEKnZdV5c8cLVwiw9d5Wm9l.jpg"
+    },
+    {
+      "name": "IN: Ranga (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7zAUffET6L3IdSfoYHJaHuWgYT.jpg"
+    },
+    {
+      "name": "IN: Dark Nature (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Jm81QWo7moA0woO5VsdjFO5wGe.jpg"
+    },
+    {
+      "name": "IN: Mark Antony (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xz1lfMrFlNtZ4H8DQKvYog8ilR.jpg"
+    },
+    {
+      "name": "IN: Rudrangi (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqls4AP0wQ5x3OjzCfRDUrHVWbd.jpg"
+    },
+    {
+      "name": "IN: Little Miss Rawther (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6opwQL2jTeDLu2TLQLxfXrsASJZ.jpg"
+    },
+    {
+      "name": "IN: Jorugaa Husharugaa (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rijbMzAExrA3gdqkgIqJFwrjWzT.jpg"
+    },
+    {
+      "name": "IN: Two Souls (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLYZdNKNCgJZTdiawujb2hBfZmF.jpg"
+    },
+    {
+      "name": "IN: Mangalavaaram (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZxBWGqdoQ3lX7oPjtI41Yby59j.jpg"
+    },
+    {
+      "name": "IN: Conjuring Kannappan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtyWDHQZElXYVETNZ4r8Wb6OZ2U.jpg"
+    },
+    {
+      "name": "IN: The Ladykiller (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fz0I7piUbwzqDZexJeUlMm6L8Q.jpg"
+    },
+    {
+      "name": "IN: Bairagee (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrV2C8c5N3wv4lgrCGpl0XK6gRI.jpg"
+    },
+    {
+      "name": "IN: Ladki (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV69fiUL9oCtWItvHmUYEr3WXPG.jpg"
+    },
+    {
+      "name": "IN: Das Ka Dhamki (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jiEtPhwG8YSGnzIX27IzqKDR2y.jpg"
+    },
+    {
+      "name": "IN: My Name Is Shruthi (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mJ83rDp2wbuUkLK2L6nHMc3McK.jpg"
+    },
+    {
+      "name": "IN: Antony (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMzYc8h8Yf7s9Vf0DvsMzKcxEB2.jpg"
+    },
+    {
+      "name": "IN: Ramarao On Duty (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/snChpyepTGL6BUDeXNuRwDGZOmM.jpg"
+    },
+    {
+      "name": "IN: Zara Hatke Zara Bachke (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIziBCZWsDCzFbil4iT9TyUOnhT.jpg"
+    },
+    {
+      "name": "IN: 8 A.M. Metro (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRPfT9sQzMSbDMH8c1qxVWFy8zT.jpg"
+    },
+    {
+      "name": "IN: Skanda (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yptFZA0VzjZMBoKgLml49pI6Ckn.jpg"
+    },
+    {
+      "name": "IN: Demons (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/47QH8QAhTAwiyVCYGh2BJVQgzJO.jpg"
+    },
+    {
+      "name": "IN: Lavaste (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTXJTmMn37imtkvSVO09t5UQ4mU.jpg"
+    },
+    {
+      "name": "IN: Farrey (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ihdqS2PvRcjN1i9ozQxtyoKvBX.jpg"
+    },
+    {
+      "name": "IN: Bhamakalapam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuWjJYDqh3MCnXcuj9VkMHvsIVA.jpg"
+    },
+    {
+      "name": "IN: Badhai Ho Beti Huee Hai (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTlmMTExNGUtMTlhYi00MGVmLWE2M2QtMjJkNjExYmVhZTRkXkEyXkFqcGdeQXVyMTU4MzgyMzUy._V1_.jpg"
+    },
+    {
+      "name": "IN: Atharva (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7B1BW2CTp2HlbhfmmqoaaW43Gb.jpg"
+    },
+    {
+      "name": "IN: Battery (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQNsuh9CnVTjP0PSqORMu46BjOk.jpg"
+    },
+    {
+      "name": "IN: Tiger Nageswara Rao (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tiYpneYIvXfbaCE0brOoBjXP7v.jpg"
+    },
+    {
+      "name": "IN: Saba Nayagan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYIw5Jt4xkcjObDwJqcgeLFP042.jpg"
+    },
+    {
+      "name": "IN: Dunki (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPRb1mbVHGop0egQ7153y0lhzGL.jpg"
+    },
+    {
+      "name": "IN: Salaar: Part 1 - Ceasefire (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/47Qhmf5OySjG5QUcfVqzqzjpCS2.jpg"
+    },
+    {
+      "name": "IN-Mar: Aatmapamphlet (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ma5u2X3R0HUcG4dURMaQDWTbHrQ.jpg"
+    },
+    {
+      "name": "IN: Jigarthanda DoubleX (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmdnYWq2gVlDXunnC0AE1yzOQva.jpg"
+    },
+    {
+      "name": "IN: Pippa (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GyC7jjfFIt8Ee9FXV49XFNxrFz.jpg"
+    },
+    {
+      "name": "IN: Ustaad (2023) Dual Audio",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGEwMTA4ZTYtZmExOC00YTg3LThlYzYtOGM0ZDRjZDdhZGU5XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg"
+    },
+    {
+      "name": "IN: Skanda (2023) Dual Audio",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://filminformation.com/wp-content/uploads/2023/09/Skanda.jpg"
+    },
+    {
+      "name": "IN: Mr. Pregnant (2023) Dual Audio",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGJmMDRlOTQtOGE0ZC00ZjRlLTkxNjQtYjY5NWJiODQ4M2RjXkEyXkFqcGdeQXVyMTUxNTMxOTM3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: Ghoomer (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6npQ0MxlmCqPPF8H5xK4yGt7ZLL.jpg"
+    },
+    {
+      "name": "IN: Fukrey 3 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E5qIvLBNrv4onx5SxnNz5Monac.jpg"
+    },
+    {
+      "name": "IN: Shot Boot Three (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Lg1mq2qUPjWYdN6FQ48AOYWG0l.jpg"
+    },
+    {
+      "name": "IN: HER: Chapter 1 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov0gXlRyU7fH7Oo5mXAFtm0DdVT.jpg"
+    },
+    {
+      "name": "IN: Valatty (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/je9zwsmL97GACDoXdlVxbgoZR2w.jpg"
+    },
+    {
+      "name": "IN: Jawan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg"
+    },
+    {
+      "name": "IN: 7:11 PM (2023) Dual Audio",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/07/711-PM-Movie-Review-and-Rating.jpg"
+    },
+    {
+      "name": "IN: Ramabanam (2023) Hind ORG",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeIM-zeK7GuYYrwEcwK5ofcSszzax3Uu9HSg&usqp=CAU"
+    },
+    {
+      "name": "IN: Chandramukhi 2 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OT9dFROPL4t53tt3WQ4rl033zC.jpg"
+    },
+    {
+      "name": "IN: Iraivan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRusAvFszxi96hzBfAQWezqnUQl.jpg"
+    },
+    {
+      "name": "IN: Ganapath (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5kngie7G0bR9CL3tcWhZLwIpIc.jpg"
+    },
+    {
+      "name": "IN-EN: Dream Girl 2 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/spiHFvHk7vqsIF4wAU7S6wcTzek.jpg"
+    },
+    {
+      "name": "IN: Ramabanam (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYpJc2TdwJugZF3cG7o7HWwixQy.jpg"
+    },
+    {
+      "name": "IN: Yaadhum Oore Yaavarum Kelir (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8broKyZelH6nKk92ucxMd7Y9M2.jpg"
+    },
+    {
+      "name": "IN: Virupaksha (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqMn4h9ctOyumII2nXDnm5mRTxQ.jpg"
+    },
+    {
+      "name": "IN: Balagam (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5Wtp4BcMm6Z03rjik11AS5UYhd.jpg"
+    },
+    {
+      "name": "IN: Harkara (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIwLD6e0BsoVFMS8aKoPYTlwEEp.jpg"
+    },
+    {
+      "name": "IN: Mayagadu (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeKRSyiiU7wXUf5NNOU7VrQ0x68.jpg"
+    },
+    {
+      "name": "IN: Sapta Sagaradaache Ello – Side A (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7yKhtAa9PU7IBJooPS79fwAizW.jpg"
+    },
+    {
+      "name": "IN: Miss. Shetty Mr. Polishetty (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S4BRlZPfzrludhsPDPVe6fEoxV.jpg"
+    },
+    {
+      "name": "IN: Khufiya (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbHUuTEo2DsYLoXCjkL8kB0oPhy.jpg"
+    },
+    {
+      "name": "IN: Gadar 2 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipoUI3FzVTczg2r8mYxNlE5SsMh.jpg"
+    },
+    {
+      "name": "IN: OMG 2 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kApiO3oL6t100aCtkcwEhk2kqgK.jpg"
+    },
+    {
+      "name": "IN: Kushi (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t62pmGjImf4rg4VXsbIImKJgVan.jpg"
+    },
+    {
+      "name": "IN-EN: Nowhere (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPmFLClCQakJKQShgqgKNIGYzJB.jpg"
+    },
+    {
+      "name": "IN: Adiyae! (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/snFGD6m4kz79MsufQZ6yef8qpIj.jpg"
+    },
+    {
+      "name": "IN: Tumse Na Ho Payega (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziz7A8NgRExxeCxmTYGE6VGuMKs.jpg"
+    },
+    {
+      "name": "IN: King of Kotha (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJv2ROkp55GxiCx9AFECZ2Cj2RJ.jpg"
+    },
+    {
+      "name": "IN: RDX: Robert Dony Xavier (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6QRQ0bHGt9Wc1BBTZsa1iB2PAm.jpg"
+    },
+    {
+      "name": "IN: F3: Fun and Frustration (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6yJv8fyNONChZ6bSAGsLEnvDKt.jpg"
+    },
+    {
+      "name": "IN: Jaane Jaan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wydlTcs1Op0DEKTfAsJOfi0bGQ.jpg"
+    },
+    {
+      "name": "IN: Journey of Love 18+ (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CDgkXPMQfMt3Kity3VHtYQNTao.jpg"
+    },
+    {
+      "name": "IN: Bhola Shankar (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgip2gbwu19ITJw1KvzLjKHIInt.jpg"
+    },
+    {
+      "name": "IN: Ikshu (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDIxNDAwM2ItNjhmOS00MWZiLTk2YzctNzU3Y2M5OWExMzZkXkEyXkFqcGdeQXVyMTEwOTUyOTg5._V1_.jpg"
+    },
+    {
+      "name": "IN: Rocky and Rani's Love Story (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg"
+    },
+    {
+      "name": "IN: Haddi (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sq61lHgNdKyvpXOgwhZoc4Iosno.jpg"
+    },
+    {
+      "name": "IN: Jailer (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTmMxAHqX4vsIDE6HPPxOR0Q6TN.jpg"
+    },
+    {
+      "name": "IN: Kanwar (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ow3EDBT6FxjyzWIPsYVaB0uuigu.jpg"
+    },
+    {
+      "name": "IN: Non Stop Dhamaal (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxDjPPJsa6u5Cs0V4WDj11iqMsj.jpg"
+    },
+    {
+      "name": "IN: Akelli (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eBiqmlak6K5nipdayoGRYH2ON5.jpg"
+    },
+    {
+      "name": "IN: Friday Night Plan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QIAFlELWwP8xfo2Xwf7oleDcUE.jpg"
+    },
+    {
+      "name": "IN: BRO (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/PY9PUiVUBirsNPMm5HwHz0ee2U.jpg"
+    },
+    {
+      "name": "IN: Rudrangi (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqls4AP0wQ5x3OjzCfRDUrHVWbd.jpg"
+    },
+    {
+      "name": "IN: Pichaikkaran 2 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZ6b5VYTZRFI1Q66tsOQXKokre7.jpg"
+    },
+    {
+      "name": "IN: Viraata Parvam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pebVSzYPI9qR4xlmDt5dQXoVxP3.jpg"
+    },
+    {
+      "name": "IN: The Receptionist (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFMPayo7qfQKoMmGytBzR4K7sSq.jpg"
+    },
+    {
+      "name": "IN: Mumbaikar (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/we0j8oUGcUEHXBTfjo1M6EnBNc0.jpg"
+    },
+    {
+      "name": "IN: Boo (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VszbVarbnPamsVwQAZDUCpIcfG.jpg"
+    },
+    {
+      "name": "IN: Rakshak - India's Braves (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVBVV9CjlcHGYBJy5LqJOfs1KTB.jpg"
+    },
+    {
+      "name": "IN: Por Thozhil (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ2BbjGBDRW5Q5Q9jgEknuiEQ0f.jpg"
+    },
+    {
+      "name": "IN: Neeyat (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHLEle6lz50GH97D7bAcingUlxG.jpg"
+    },
+    {
+      "name": "IN: 1920: Horrors of the Heart (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysY2dMaSeEzx84J7VIsyXuX785x.jpg"
+    },
+    {
+      "name": "IN: Gurudev Hoysala (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHQoPISBmpOeBIZQGTNTqaUFSsX.jpg"
+    },
+    {
+      "name": "IN: Adipurush (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg"
+    },
+    {
+      "name": "IN: Waltair Veerayya (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4mx225pbBH5i0KSjc3t1pO5hIy.jpg"
+    },
+    {
+      "name": "IN: Maaveeran (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w59pbhQRvLXuKNdBaKu51iJzoP.jpg"
+    },
+    {
+      "name": "IN: Satyaprem Ki Katha (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IeIhUyBioSrgq2tN5jpCToKJjG.jpg"
+    },
+    {
+      "name": "IN: Spy (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ru2TxiCxuvIBTr1DxL13PSZTZuO.jpg"
+    },
+    {
+      "name": "IN: Hawa (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg"
+    },
+    {
+      "name": "IN: Pareshan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBZrhlzFOjEQl7vzNosRu1ab2Ke.jpg"
+    },
+    {
+      "name": "IN: Fatafati (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boUwVljEdNJxIqn2gnO4d5BkUHE.jpg"
+    },
+    {
+      "name": "IN: Ugram (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnsJnyCUefcHDQT1OnFgUOSR2nR.jpg"
+    },
+    {
+      "name": "IN: One Friday Night (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btXJ6t7RPV0unNwmXaktUEMDmB0.jpg"
+    },
+    {
+      "name": "IN: Farhana (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLjgNPF9d78ifCuaY7zb9Xxd9oc.jpg"
+    },
+    {
+      "name": "IN: Trial Period (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpGnnQ0zu1Utxh8F0QUgZ9d2hol.jpg"
+    },
+    {
+      "name": "IN: Bawaal (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RSzMrThyee8eaAVVhw3gHGo6nl.jpg"
+    },
+    {
+      "name": "IN: Jaane Do (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://world4ufree.skin/wp-content/uploads/2023/07/Download-Jaane-Do-2023-Hindi-Movie.jpg"
+    },
+    {
+      "name": "IN: Ishq-e-Nadaan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h063MhmRssjzCGEsu6NuSGjpLla.jpg"
+    },
+    {
+      "name": "IN: Katharbasha Endra Muthuramalingam (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/72ZO0zs9NuEAEsLOMnoPcKnW6sm.jpg"
+    },
+    {
+      "name": "IN: Shiv Shastri Balboa (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsoIubOQStW2cXfZ83ibYB6FKZV.jpg"
+    },
+    {
+      "name": "IN: Blind (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLJPi71MIH6cwJidPv7VXs9Dokh.jpg"
+    },
+    {
+      "name": "IN: Janaki Jaane (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YrXfW28FDIfJr4AOooMVp61x4Y.jpg"
+    },
+    {
+      "name": "IN: HIT: The 2nd Case (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iujSvQImdSTKDaIjTmZ2hDzgFti.jpg"
+    },
+    {
+      "name": "IN: Tarla (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAyEiIDGZHYFPaGMBdVcBCqwOnD.jpg"
+    },
+    {
+      "name": "IN: IB 71 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3tDKjw14Ig3suHOx8GSBtCxEX7.jpg"
+    },
+    {
+      "name": "IN: IIFA Awards Main Event (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "http://gein.detvz.us/base_img/8498c4cb409d85bfdeffeaa551ff49dd.png"
+    },
+    {
+      "name": "IN: 1920 Horrors of the Heart (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysY2dMaSeEzx84J7VIsyXuX785x.jpg"
+    },
+    {
+      "name": "IN: Sergeant (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTcxM2M5MDMtYWEwYy00ZmExLWJmOTgtNjIwMmRkNTk4M2Y4XkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_QL75_UY281_CR46,0,190,281_.jpg"
+    },
+    {
+      "name": "IN: Lust Stories 2 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5x729JI6wZs9hCqX7tc7oH87ih.jpg"
+    },
+    {
+      "name": "IN: Afwaah (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/deBTwlgJ6vrup7zpCODofbebZGZ.jpg"
+    },
+    {
+      "name": "Lakadbaggha (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgyHSVTw42PMHxnq0KOXbTVwu5C.jpg"
+    },
+    {
+      "name": "IN: Aseq (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNJrK1uvoBPoYEVTAqI8ZSyrpdI.jpg"
+    },
+    {
+      "name": "IN: Tiku Weds Sheru (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8STpwE6844GRBvlMACG0leiDWb.jpg"
+    },
+    {
+      "name": "IN: Kisi Ka Bhai... Kisi Ki Jaan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ2JqgfWniQLnXPM5WkM7f1rqaY.jpg"
+    },
+    {
+      "name": "IN: Veeram (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZKIcCTLTmc2jn8sieFj5sIyrjF.jpg"
+    },
+    {
+      "name": "IN: August 16, 1947 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/75BAvjIU5yAnNAJRF7uVorBnNRd.jpg"
+    },
+    {
+      "name": "IN: Gumraah (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv5Vlh6rgHedbuO4hOMgtrdnN28.jpg"
+    },
+    {
+      "name": "IN: Siya (2022):",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNhNUoZcdEIThFQTQPhzx78og9K.jpg"
+    },
+    {
+      "name": "IN: IIFA Awards - Weekend With The Stars (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://thedailyguardian.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-04-at-1.56.43-PM.jpeg"
+    },
+    {
+      "name": "Sirf Ek Bandaa Kaafi Hai (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8wMjVoQOyo9XUOrQk60WCcklCj.jpg"
+    },
+    {
+      "name": "IN: Jaggu Ki Lalten (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjHXJLqdIxdQ4lY6DTul8UA6X8v.jpg"
+    },
+    {
+      "name": "IN: I Love You (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u04epjbCqF6xx2G5fR9TV1IM8Wu.jpg"
+    },
+    {
+      "name": "IN: Family Politics of Blood (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://staticimg.spicyonion.com/images/profile/title/family-politics-of-blood-hindi-movie/family-politics-of-blood-hindi-movie.jpg"
+    },
+    {
+      "name": "IN: Ponniyin Selvan: Part II (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fMM5yjLYJNfO3CSQBpfC1kqeIK.jpg"
+    },
+    {
+      "name": "IN: Bloody Daddy (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX8k6oKpIsWHpfWNz3Bu4wUuliA.jpg"
+    },
+    {
+      "name": "IN: Teri Khata (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGIxNTBhYjktMmM5Ny00MWM2LWFiZWYtMDI2NDRjNjFlNzhlXkEyXkFqcGdeQXVyNDU1NTgyNjU@._V1_.jpg"
+    },
+    {
+      "name": "IN: Before You Die (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jWAOjXWW6Pt708uGqbjPvSfhm3.jpg"
+    },
+    {
+      "name": "Zindagi Shatranj Hai (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JTSyqOWnUSUZLj6Ybw2oq8G9oj.jpg"
+    },
+    {
+      "name": "IN-TEL: Michael (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HChuuIpOungXAtotqVfhCBZUBK.jpg"
+    },
+    {
+      "name": "IN-TM: Dada (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7C2u4oXoMFQBaSJqqcyU3qpwKy.jpg"
+    },
+    {
+      "name": "IN: Bheed (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJ3uHEY9LLP0BpdPy0KlJzYnmkv.jpg"
+    },
+    {
+      "name": "IN: Operation Mayfair (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/riHtNCga1E2jGyZuWI6jxuGNWVh.jpg"
+    },
+    {
+      "name": "IN: Dasara (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgIbeYWlfzSGHJ8VtawQ4rf52a7.jpg"
+    },
+    {
+      "name": "IN: Bhediya (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZtq44ZmxBW0E3tAeLG6UdJe9aj.jpg"
+    },
+    {
+      "name": "IN: Bandaa (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8wMjVoQOyo9XUOrQk60WCcklCj.jpg"
+    },
+    {
+      "name": "IN: Mrs. Chatterjee Vs Norway (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy26E04DxYdICergibgtAFIUuDo.jpg"
+    },
+    {
+      "name": "IN: Kathal (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzVMUMN3tkLXdGbLHbOJ6sfXYI.jpg"
+    },
+    {
+      "name": "IN: Ved (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNd1IkaAVOvrkDqvCsjEiSrWn29.jpg"
+    },
+    {
+      "name": "IN: Haryana (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wV2GTrSLncwWMGCdOpSoXy0euze.jpg"
+    },
+    {
+      "name": "IN: Super Machi (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQAyybjuXoJ6uLwZ8GLXtvG3fF8.jpg"
+    },
+    {
+      "name": "IN: Ravanasura (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI8qMT1QtkHy2yiSpj2FCEMV0Tw.jpg"
+    },
+    {
+      "name": "IN: Vikram Vedha (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8L4vvIQvO8viLw8wyi2slQmU2sW.jpg"
+    },
+    {
+      "name": "IN: Shaakuntalam (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YKaTWjZckGH5lb3cRFHWWIjVk2.jpg"
+    },
+    {
+      "name": "IN: Victoria : Ek Rahasya (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SxcwD8mXRRyvwn4MMBZsPhQs7X.jpg"
+    },
+    {
+      "name": "IN: Phulrani (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjlMC1ugY8ylKepDiDX7jbzrKw.jpg"
+    },
+    {
+      "name": "IN: Bholaa (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIpevyUKHn2tYydRWeHIDz51YXW.jpg"
+    },
+    {
+      "name": "IN: Ramabanam (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYpJc2TdwJugZF3cG7o7HWwixQy.jpg"
+    },
+    {
+      "name": "IN: Titu Ambani (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMyM2AmGvVgY7aV2D2vvkJMtfzB.jpg"
+    },
+    {
+      "name": "IN: Biswa Kalyan Rath's Mood Kharaab (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6KjzOBUHUGieirNYd0MmLmkd6b.jpg"
+    },
+    {
+      "name": "IN: Corona Papers (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKZXVZxZlSs4i7HKaUxPlSwiyuF.jpg"
+    },
+    {
+      "name": "IN: Tu Jhoothi Main Makkaar (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SWDuSTAJfnOMdEsnlqPW4vUf0l.jpg"
+    },
+    {
+      "name": "IN: Bad Boy (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjk5NmQ5ZDEtZWFlZi00NDVjLTlhZGYtZTNjZWE3Y2Q5MzkxXkEyXkFqcGdeQXVyNzIzNDA1MTQ@._V1_.jpg"
+    },
+    {
+      "name": "IN: 68th Filmfare Awards (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://tse3.mm.bing.net/th?id=OIF.nhOs9ulUIvHW8DXZ9JNnQQ&pid=Api&P=0"
+    },
+    {
+      "name": "IN: Sindhooram (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJ8HbyTuz0K2Vqsm9A2TZTDnc2m.jpg"
+    },
+    {
+      "name": "IN: Bhraanti – An illusion (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://tse3.mm.bing.net/th?id=OIF.EYT66V5KBeYJLAM7L22amA&pid=Api&P=0"
+    },
+    {
+      "name": "IN: U-Turn (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nyMIlmfknVJRlxETTnuFSuVkGz.jpg"
+    },
+    {
+      "name": "IN: Chengiz (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkEQiWvOp4MYElFfnFv8jqajVPR.jpg"
+    },
+    {
+      "name": "IN: Holy Cow (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aGHjbHR5wX05GtnlZVEWzkOnJO.jpg"
+    },
+    {
+      "name": "EN: The Haunting (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wi0cpqCn1Y2iYiPL2eQxYCBYiT8.jpg"
+    },
+    {
+      "name": "IN:  Republic (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://tse4.mm.bing.net/th?id=OIP.-2rJJr0kcU8O4cyGTfhlXQAAAA&pid=Api&P=0"
+    },
+    {
+      "name": "IN: Big Dhamaka (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://media5.bollywoodhungama.in/wp-content/uploads/2022/12/Big-Dhamaka-dubbed.jpg"
+    },
+    {
+      "name": "IN: Selfiee (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ch9aRoMvUoAh2kMd1HbjxC8Cuu.jpg"
+    },
+    {
+      "name": "IN: Das Ka Dhamki (2023) [HQDubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jiEtPhwG8YSGnzIX27IzqKDR2y.jpg"
+    },
+    {
+      "name": "IN: Shehzada (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXTpTEfl7I9II9dsyq0UJaFOg2X.jpg"
+    },
+    {
+      "name": "IN: Kahani Rubber Band Ki (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://tse2.mm.bing.net/th?id=OIP.jV8goTPz9N7k_JoIUsA5VwAAAA&pid=Api&P=0"
+    },
+    {
+      "name": "IN: Mrs. Undercover (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEKwOfgo3IMGNNGkDF0WJQtrmIx.jpg"
+    },
+    {
+      "name": "IN: Acharya (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgTZdg25d8RN2hIHbqSTijdeX1.jpg"
+    },
+    {
+      "name": "IN: Kabzaa (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7XnsJy6E9W5GiTu17cSRYyAK9A.jpg"
+    },
+    {
+      "name": "IN: Romancham (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p8ux2AGYn3U2mEAbKmizAh6PL1.jpg"
+    },
+    {
+      "name": "IN: Marriage Me Dhamal (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://dotmovies.click/wp-content/uploads/2023/04/Marriage-Me-Dhamal.jpg"
+    },
+    {
+      "name": "IN: Faraaz (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjUxZmMxY2UtZTBjYi00ODYzLWJmZjQtODMyODc4N2I4MzAyXkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_.jpg"
+    },
+    {
+      "name": "IN: Gaslight (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTg5OWI1MGEtZjgzMC00ZTgwLWI2MDMtYWY2ZTI4NDk5YzQ3XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg"
+    },
+    {
+      "name": "IN: Pagal Premi – Seemathurai (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://www.mp4moviez.com.ph/cover/pagal-premi-(seemathurai)-2022-hindi-dubbed-hdrip.jpg"
+    },
+    {
+      "name": "IN: Purusha Pretham (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://ww2.jiorockers.city/details/Preview/96423.jpg"
+    },
+    {
+      "name": "IN: Chor Nikal Ke Bhaga – Netflix Original (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDMwZjQ2YzUtZDQyMC00MjcwLTlmN2MtZGY4OGEyMzMzNTk4XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg"
+    },
+    {
+      "name": "IN: Check (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://files.prokerala.com/movies/pics/800/first-glimpse-of-youth-star-actor-nithiin-yeletics-s-much-anticipated-flick-118271.jpg"
+    },
+    {
+      "name": "IN: Sorry Day (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://staticimg.spicyonion.com/cache/images/profile/title/sorry-day-hindi-movie/sorry-day-hindi-movie225x300.jpg"
+    },
+    {
+      "name": "IN: Police Power (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://i.ytimg.com/vi/_gmCuS5A4Wc/maxresdefault.jpg"
+    },
+    {
+      "name": "IN: Ruler (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://assets.voxcinemas.com/posters/P_HO00007640.jpg"
+    },
+    {
+      "name": "IN: Udd Ja Re (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDVkNTkzZGMtZWU5OS00NjkyLWJjNTctNjZhZTMyYWYzMTAwXkEyXkFqcGdeQXVyMTA5NDk1NTg0._V1_.jpg"
+    },
+    {
+      "name": "IN: Pathaan (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg"
+    },
+    {
+      "name": "IN: Kaapa (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/57FJfMSAyLbtLsQq1jYyrtwpgqV.jpg"
+    },
+    {
+      "name": "IN: Gol Gappe 2023",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnjcvg1ExU1FJM5mGgim1gzwHqtJ4-CORRMkIOj965SHg0y3rHzYW8Sno&s=10"
+    },
+    {
+      "name": "IN: Asli Fighter – Okka Ammayi Thappa (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://images.moviebuff.com/0c98a69e-3aca-4209-8369-75497381aef2?w=500"
+    },
+    {
+      "name": "IN: Vaathi (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLK1ER5Kzpsse789vBKnp8S1aRB.jpg"
+    },
+    {
+      "name": "IN: Asli Cricket (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTgzYTI3NTQtYzQzYS00YWZiLTg5YmItNTliNjZhMzEzMjM3XkEyXkFqcGdeQXVyMTM3MzcxOTg2._V1_.jpg"
+    },
+    {
+      "name": "IN: Am I Next (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://movies4u.foundation/wp-content/uploads/2023/03/Am-I-Next.jpg"
+    },
+    {
+      "name": "IN: Kuttey (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://cdn.bollywoodmdb.com/fit-in/cover/300x450/16815_kuttey_cover.jpg"
+    },
+    {
+      "name": "IN: Bachchan Pandey (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://tse3.mm.bing.net/th?id=OIP.wbdpsMvs6xywlsGzTpt-0QHaJQ&pid=Api&P=0"
+    },
+    {
+      "name": "IN: 90ML (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://tse4.mm.bing.net/th?id=OIP.1za-ur3hBnzAnA49gFPw9gHaEK&pid=Api&P=0"
+    },
+    {
+      "name": "IN: Christy (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vroJQMcR4hynkuFbqMhjA4NjOTK.jpg"
+    },
+    {
+      "name": "IN: Love Ka Spin – Kerintha (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w500/cIzWmsYLMMLUYK3lxW9oN8AiwQr.jpg"
+    },
+    {
+      "name": "IN: 18 Page (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "http://gein.detvz.us/base_img/4c9f68c054cf78b957fcbe82a0221cc7.png"
+    },
+    {
+      "name": "IN: Varisu (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMUIsV6u0pPqfv1j8tGxbJw40sw.jpg"
+    },
+    {
+      "name": "IN: Laththi Charge (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVtD1kDMTgr00vNL4V2TNuotHyI.jpg"
+    },
+    {
+      "name": "IN: Hridayam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFkNDFiMjQtZTg0MC00OGNjLTllMDgtNDFhNzgxYzFlZmI3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+    },
+    {
+      "name": "IN: Operation Friday (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "http://gein.detvz.us/base_img/9090e3e04931c55389d920fd14a0c029.png"
+    },
+    {
+      "name": "IN:  Kabeela Ek Rahasya (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://dotmovies.cam/wp-content/uploads/2022/05/Kabeela-Ek-Rahasya-2022.jpg"
+    },
+    {
+      "name": "IN: Khatarnak Jalpari (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://i.ytimg.com/vi/bc4_9_PbCas/maxresdefault.jpg"
+    },
+    {
+      "name": "IN:  Kanjoos Majnu Kharchili Laila (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTY4NTlmZmQtYzI2Ny00ZmIxLWJkMjEtMGIxMzU2YTMyMGRmXkEyXkFqcGdeQXVyNDM2NjkyNDA@._V1_.jpg"
+    },
+    {
+      "name": "IN:  Run Baby Run (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWIxODRiYWQtOWUyYS00NTA2LTkwNDYtNDcyMWEzNGRiNDAxXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: Tantrakarma (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://tvwish.com/img/program/598468.webp"
+    },
+    {
+      "name": "IN:  Christopher (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmI4MmExNGQtNmM0Zi00MzRiLWFiZjgtZmU2MDA3MDNlN2MwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+    },
+    {
+      "name": "IN: Chhatriwali 2023",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWQwMDUzNTQtZDFiMC00ZTVkLThkMTctMzNlZjY3Y2Y2NWE5XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg"
+    },
+    {
+      "name": "IN: Arjuna Phalguna (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGMzZmJkYzAtYmU5Ny00NjU1LWJjZGYtMzRhYzk2ZGFkYmExXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+    },
+    {
+      "name": "IN:  Bundal Baaz – Naanum Rowdy Dhaan (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/39/Naanum_Rowdy_Dhaan_poster.jpg"
+    },
+    {
+      "name": "IN: Anbulla Ghilli (Dear Ghilli) (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTIwMDAzOTEtN2VlNy00ZDRhLWFmZDQtMzU0NGMxNWFiYTM2XkEyXkFqcGdeQXVyMjg5Mzc4NTE@._V1_.jpg"
+    },
+    {
+      "name": "IN:  BhajaRangi 2 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z564539/portrait/1920x77094b4dbc86ffd4954b0ac4bb4c4b6d812.jpg"
+    },
+    {
+      "name": "IN: Shut Up Sona (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z5168390/portrait/1920x770129f8b06a76248729a62d7f05fa4fb9f.jpg"
+    },
+    {
+      "name": "IN:  Mere Desh Ki Dharti (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzFjNmJkNjMtMTM2ZS00OWYxLWJhYmEtZDljZTk1ZjcxYWI3XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg"
+    },
+    {
+      "name": "IN:  Gumnaam – Rakshasudu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://images.ottplay.com/posters/c9cd2c3e274005dec3a58c624f133f17.jpg"
+    },
+    {
+      "name": "IN:  Karma Strikes (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://i.imgur.com/DEbp5Jf.jpg"
+    },
+    {
+      "name": "IN-EN: The Legend (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/43/The_Legend_Official_poster.jpeg"
+    },
+    {
+      "name": "IN:  Gulmohar (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzcwMjczMzEtODNhMS00MjhhLTlhNDUtOThiMWQxOTYzMWJlXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: Arjun Gowda (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z5189944/portrait/arjungowdapfp1ag1920x77021072022c262f21415954967b77b3a44d5f975234ff6f266a2cd4154ae3846ec79f4e4c0.jpg"
+    },
+    {
+      "name": "IN:  Run For Life Bhaag (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://images.ottplay.com/posters/8c31ff7bc43910f27b4aacf64ff78de7.jpg"
+    },
+    {
+      "name": "IN:  Kya Bolti Tu – Next Enti (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDRkODA0NGYtODdkNC00NTdhLWFjNTktZmUzNTQ4ODk2MGQ3XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg"
+    },
+    {
+      "name": "IN:  Tedhi Medhi Kahaniyaan (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://i.imgur.com/q1Wxu8J.jpg"
+    },
+    {
+      "name": "IN:  Paltu Janwar (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGE4YTIzNWYtOTBkMy00M2IyLWE4Y2ItOTJhODg5OTRjNDNlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+    },
+    {
+      "name": "IN:  Varudu Kaavalenu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmNiN2Y1NmYtZDRiNi00NGNmLWE1NjQtNjFhYjFmOGVlMjM4XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN:  Appan (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDVlMzVjNDUtZDczNC00YWYyLWFjMWUtMzJhMjQwNzAyZGI0XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN:  Love Mocktail (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzVmMzJkODktN2JiZC00YTYyLWJiZTAtNmUzNTRhMTdjZDYwXkEyXkFqcGdeQXVyMTExNjE4MzAw._V1_.jpg"
+    },
+    {
+      "name": "IN: Veera Simha Reddy (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRjml27flCBq4r1oo9GpjnEgCpr.jpg"
+    },
+    {
+      "name": "IN: Captain (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXtU4HbgvJTisY43gyYlbqqXizd.jpg"
+    },
+    {
+      "name": "IN:  Jagamemaya: Instant Karma (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTA0Yjg5OTUtYzk4NC00OTQ1LWFiMTMtMDg2OGI0ZjVhMTFkXkEyXkFqcGdeQXVyMTQ2NTg1MzAz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN:  DJ Wale Babu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dj-wale-babu-et00342236-1665573314.jpg"
+    },
+    {
+      "name": "IN: Ardhasathabdh (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjU4MTVmYzEtOWNkZi00YmNhLWI0MDQtM2Q5NjMzOTYxYmFhXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN:  Rabia and Olivia (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Poster_of_movie_Rabia_%26_Olivia.jpeg/220px-Poster_of_movie_Rabia_%26_Olivia.jpeg"
+    },
+    {
+      "name": "IN: Kuruthi Aattam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTdjMWFlZGQtNmMxMC00MDA2LTgyMzItMjZkZmYxOGVlZjNlXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg"
+    },
+    {
+      "name": "IN: Gold (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejXBuNLvK4kZ7YcqeKqUWnCxdJq.jpg"
+    },
+    {
+      "name": "IN: Kranti (2023) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/79b3hTg8dIQf29ArB6xRRzoTKKt.jpg"
+    },
+    {
+      "name": "IN: Hunt (2023) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QnfT7zunSxKwbQmmT9FoxccwZe.jpg"
+    },
+    {
+      "name": "IN: Cirkus (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYabsIaJEYfjfyGRwQAp66fzF2D.jpg"
+    },
+    {
+      "name": "IN: Mukhachitram (2022) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7WpuYoWoyZ0ZtGcCJTD424aKvj.jpg"
+    },
+    {
+      "name": "IN: The Last Coffee (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4i7ZccAZcBeS0br4OsypZ7xr3e.jpg"
+    },
+    {
+      "name": "IN: Malikappuram (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CFhiwbxJXu7YpOJG3vG1TRB0Zd.jpg"
+    },
+    {
+      "name": "IN: Lost (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://img.wegreenkw.com/sites/3/2023/02/Lost-Movie-2023.webp"
+    },
+    {
+      "name": "IN: Raangi (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zld0TGM1hOzRrbzzzQWWXqqT8v5.jpg"
+    },
+    {
+      "name": "IN: Vedha (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C9VkUY4zOOiSJWhqkdfMAAQcCa.jpg"
+    },
+    {
+      "name": "IN: Ardh (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLSgNq1rZw9pBxxfNV8fi5lK290.jpg"
+    },
+    {
+      "name": "IN: Salaam Venky (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAuD8aAiTK6U4xOnoqSHgZPcwbM.jpg"
+    },
+    {
+      "name": "IN: Thunivu (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLQKCGNAl5b0DZihbyWhtLzESwR.jpg"
+    },
+    {
+      "name": "IN: Vattam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bj6prxFyLKKJ7BpTBiRIBJA6TE1.jpg"
+    },
+    {
+      "name": "IN: Urvasivo Rakshasivo (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mx2S3ofW9HP6GeMKt53lQ4NSwWr.jpg"
+    },
+    {
+      "name": "IN: Almost Pyaar with DJ Mohabbat (2023) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRDaWIMq6voFCrCJMdBI1O65N8j.jpg"
+    },
+    {
+      "name": "IN: Gatta Kusthi (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkKA5pR0Nm0xoqnbfGds7sPdQ4X.jpg"
+    },
+    {
+      "name": "IN: Ek Naradham (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://www.full4movies.team/wp-content/uploads/2023/02/Download-Ek-Naradham-2023-H.jpg"
+    },
+    {
+      "name": "IN: Dear Sathya (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qm0y0vLhD0uCrdKAN32FeyE5cTG.jpg"
+    },
+    {
+      "name": "IN: Korameenu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKbROPE3pmJcI25uObghQjHOC8b.jpg"
+    },
+    {
+      "name": "IN: Yugi (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aP1CsA2K41c3N5lkYnq7N0rUDvs.jpg"
+    },
+    {
+      "name": "IN: Anubhav Singh Bassi: Bas Kar Bassi (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXCkGcysVC5hwBtO1n2GW0A7aKb.jpg"
+    },
+    {
+      "name": "Angithee 2 (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://fs1.extraimage.org/picupto/2023/01/29/Angithee-2-2023-Hindi-Movie-1080p-HDRip-1.7GB-Download.jpg"
+    },
+    {
+      "name": "IN: Saturday Night (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQrNM5Vsr9CK8o6lmofav9Dueq9.jpg"
+    },
+    {
+      "name": "IN: An Action Hero (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92hQUSB4vqkOH97znKLD8YFheZB.jpg"
+    },
+    {
+      "name": "IN: Enemy (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg"
+    },
+    {
+      "name": "IN: Gulu Gulu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJz2CYXftC38whpXbb4hCQfnVJX.jpg"
+    },
+    {
+      "name": "IN: Chhatriwali (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj6QBEx3QMMxfz5AqDtFEgvlfSb.jpg"
+    },
+    {
+      "name": "IN: Mission Majnu (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3FYvvl1NaNbHV4lCg47MVT6kvb.jpg"
+    },
+    {
+      "name": "IN-EN: Mr. Tarak (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTQ0MTVmZGMtYTJjMi00NTVlLWJkZTktN2I3NTEzZmIyZWM5XkEyXkFqcGdeQXVyMTU4ODg4MzMx._V1_.jpg"
+    },
+    {
+      "name": "IN-EN: D Block (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTlhYWE1OGQtOGFjYy00ZGQwLWI0NDMtZTYxY2VjNjVlMTJhXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg"
+    },
+    {
+      "name": "IN-EN: Poikkal Kuthirai (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWY1YTA2NzUtMGQ3OS00YTE2LWJhNDgtYjFhOGQ1YWM0NDUwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
+    },
+    {
+      "name": "IN: Gunchakkar (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/ghanchakkar-et00012371-24-03-2017-16-47-14.jpg"
+    },
+    {
+      "name": "IN: Varalaru Mukkiyam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Tx51gugSzdDcZUPnSg8JgR7TDb.jpg"
+    },
+    {
+      "name": "IN: Mukundan Unni Associates (2022) [Multi Audio]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aEuV7eLbc0KXVBbtRZr1avWjSL.jpg"
+    },
+    {
+      "name": "IN: Mister Mummy (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZcDBlTEqqlp2o3Vmmwcm7Ntxoa.jpg"
+    },
+    {
+      "name": "IN: Sirivennela (2023)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://www.thenextplanet.homes/Media/Media/Bollywood/Bollywood20_25/Sirivennela_2023.jpg"
+    },
+    {
+      "name": "IN: Mr. Tharak (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2E1JkCEJUMccpPwz9W2sL7U8eY.jpg"
+    },
+    {
+      "name": "IN: D Black (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTlhYWE1OGQtOGFjYy00ZGQwLWI0NDMtZTYxY2VjNjVlMTJhXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg"
+    },
+    {
+      "name": "IN: Saudi Vellakka (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wleL3eWeIVapr84WcdRA2h2t2pS.jpg"
+    },
+    {
+      "name": "IN: Sinam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/insaaYkngspFTbOuBgZItmsl9Fx.jpg"
+    },
+    {
+      "name": "IN: Thai Massage (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYPis1a03mHIIUXDScAKLHvEfBO.jpg"
+    },
+    {
+      "name": "IN: Uunchai (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqDjg117q3M9lJ4nSQBAyL47M6N.jpg"
+    },
+    {
+      "name": "IN: DSP (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNsXIPkKplKkCd2I3J6W3Vgqbyc.jpg"
+    },
+    {
+      "name": "IN: Rocket Gang (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8icRtVuWUDvBITWCeMBmRTL8chu.jpg"
+    },
+    {
+      "name": "IN: Mili (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ36QCd5SPRpivJkVgZMqKyfgCz.jpg"
+    },
+    {
+      "name": "IN: Drishyam 2 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wk8Vu0DI0MiNLaXXiVqAwjLRKL5.jpg"
+    },
+    {
+      "name": "IN: Butterfly (2022) [Multi-Audio]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://data1.ibtimes.co.in/en/full/769703/anupama-parameswaran-butterfly.jpg?w=570&h=799"
+    },
+    {
+      "name": "IN: Junglemahal the awakening (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzhkNjQ0MDAtNjNlOS00ZTU3LWE1MjktNzEwNTA1ZTViNjZjXkEyXkFqcGdeQXVyMjkyNjI2OTU@._V1_.jpg"
+    },
+    {
+      "name": "IN: Double XL (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5pOwxgBj5M67FpiFLwOxSbJiVI.jpg"
+    },
+    {
+      "name": "IN: Sivuddu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://movies4u.boats/wp-content/uploads/2022/12/Sivudu.jpg"
+    },
+    {
+      "name": "IN: Night Drive (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MppZ7JA97dpykUuYM7SQfchS5A.jpg"
+    },
+    {
+      "name": "IN :Cottage No. 1303 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUHAEB417GcEBeYRp33ANNNsx6x.jpg"
+    },
+    {
+      "name": "IN: Tara vs Bilal (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlXRWO02WDB3rAyJ3JjQ0RiKcbg.jpg"
+    },
+    {
+      "name": "IN: Ardha Shathabdham (2021)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjGMCA1U4K0jMiPa8mtyMqDnVLs.jpg"
+    },
+    {
+      "name": "IN: Kala (2022) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDc2MzI3NjMtYWNiNy00ZDY2LWFlOGUtY2M5YjdlZmVkZTBiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+    },
+    {
+      "name": "IN: Jaya Jaya Jaya Jaya Hey (2022) [Multi-Audio]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAc6mHHJxmiAbkxrF0TipvRRZW7.jpg"
+    },
+    {
+      "name": "IN: Phone Bhoot (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWfP8YrbqqznOHWbYC2mbqcV2ZR.jpg"
+    },
+    {
+      "name": "IN: Vadh (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgv1gGpX1Q9EjEiFYNJqC6nX1MF.jpg"
+    },
+    {
+      "name": "IN: Jagamemaya (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw6QnhvKFR0MYnINe7FlZWRBY9A.jpg"
+    },
+    {
+      "name": "IN: Yatra (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://hdmoviehub.cfd/wp-content/uploads/2022/12/Yatra-2022-movie-poster.jpg"
+    },
+    {
+      "name": "IN: Matto Ki Saikil (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODhjMWMxMzAtZDRlZC00ZTBlLWExMmYtYzA3MTY1YjM5OTNkXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg"
+    },
+    {
+      "name": "IN: Roy (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGNlZDhlMDQtZTc0Ni00YTY2LTk4ZTYtNzRlMzNkY2QwOTg2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+    },
+    {
+      "name": "IN: Code Name: Tiranga (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4n0jbLbjWartTSi2Fcp2mwbwc.jpg"
+    },
+    {
+      "name": "IN: Govinda Naam Mera (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdjHaiqxtkIW8uuklbhgAv0ngTk.jpg"
+    },
+    {
+      "name": "IN: Macherla Niyojakavargam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w300/2HO2ywO1LfeenYqJ6AuBi7venGf.jpg"
+    },
+    {
+      "name": "Maarrich (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWVjYWJkNTQtYjY3Mi00MGRmLTkxNDItYjdlM2JlNzc5Mjk1XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: Doctor G (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojQbYD4pHKBrnxrG0FBdqGCHhlq.jpg"
+    },
+    {
+      "name": "IN: Har Har Mahadev (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnSPawPoBmtcd6vCTIncY3QAesD.jpg"
+    },
+    {
+      "name": "IN: Sarkaru Vaari Paata (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFwdKKDmgzKjZGFnSJma7I5XMpk.jpg"
+    },
+    {
+      "name": "IN: Yashoda (2022) [Multi-Audio]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5OiXMDSARtHK4vdGBr6ZGgrw7B.jpg"
+    },
+    {
+      "name": "IN: Kantara (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg"
+    },
+    {
+      "name": "IN: Thank God (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgEJpG2RBGNaXJWBwQWtxYXYxE6.jpg"
+    },
+    {
+      "name": "IN: Blurr (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kzawtUzZIhfMrIsFTDOK7phR6v.jpg"
+    },
+    {
+      "name": "IN: Repeat (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTU3NGFiZTYtZjBiMi00NDg2LTljZDktN2YwZjk1OTY4NWJlXkEyXkFqcGdeQXVyMTU2NDkwOTAw._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: Love Today (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrZB9rO3TQ6ezIoc2tku3pztSao.jpg"
+    },
+    {
+      "name": "IN: Zakir Khan: Tathastu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKIyc4DHs8TV8seyNBLAuxvsgFY.jpg"
+    },
+    {
+      "name": "IN: India Lockdown (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR8lTcL81n5oHtxmGHMWxag0XOc.jpg"
+    },
+    {
+      "name": "IN: Nazarandaaz (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRu6wDtD6t0qgY1w5eiWrSSoOhx.jpg"
+    },
+    {
+      "name": "IN: Chup (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3tJMHzqCa3R1CA9lW4n6obJvxJ.jpg"
+    },
+    {
+      "name": "IN: Goodbye (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzc4ZTAxMmMtZjdmMS00YWRmLTlmNDUtMjBiNGYzNzJjZTJhXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg"
+    },
+    {
+      "name": "IN: Monster (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzc1MjZkOTctNDY3Mi00NTZmLWFjYzktMjkyZjYwZWQ1Nzc3XkEyXkFqcGdeQXVyNTI0NzU5ODc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: Freddy (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://myimg.bid/images/2022/12/01/Freddy-2022-Hindi-HDRip-Full-MMovie-HDHub4u.jpg"
+    },
+    {
+      "name": "IN: Ram Setu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d14btEr1IdwITOpwsktGLYJ8O5v.jpg"
+    },
+    {
+      "name": "Goa Trip (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGFiNmNhMDktY2E3OC00OWI0LTlhYmQtNDFiNWE4YTcxM2M2XkEyXkFqcGdeQXVyMTQ3NzMwMDQx._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: DJ Tillu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XKg3VhpFDXdAktwKvFMSuIneE3.jpg"
+    },
+    {
+      "name": "IN-EN: Ghislaine Maxwell: Filthy Rich (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9vl0FxtPQaiTOMRoKYhEuu9xw3.jpg"
+    },
+    {
+      "name": "IN: The Warriorr (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIbE0HxhcqD243ThAkTiz6vyh5c.jpg"
+    },
+    {
+      "name": "IN: Last Film Show (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btE5TxACspwSxqva9yAVdfOnJGB.jpg"
+    },
+    {
+      "name": "IN: Pathonpatham Noottandu (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL1pf85mtn1SEHODLetoHRGdxnN.jpg"
+    },
+    {
+      "name": "IN: GodFather (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmIxMjM2N2MtYjJiMC00NDNmLWExMDEtZjYyYjIyNjMzMDEwXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg"
+    },
+    {
+      "name": "IN-EN: Dhokha: Round D Corner (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcNf2j9e5iDWAfLr7pS9uusgXx5.jpg"
+    },
+    {
+      "name": "IN: Saroj Ka Rishta (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj69QqhUlxRYn5HfE3Q4ZN5qw41.jpg"
+    },
+    {
+      "name": "IN: Sita Ramam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4aaTHL75q66F7VejVpkefQNJ9k.jpg"
+    },
+    {
+      "name": "IN: Ori Devuda..! (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sdQDyUYDpSFIGd9UetguWV4yRY.jpg"
+    },
+    {
+      "name": "IN: Pakka Commercial (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ8inMWG3TyPILtK5h4YRj45vH8.jpg"
+    },
+    {
+      "name": "IN: Hero (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGQyZDlhYjQtYTE0Ny00YzFkLTkwNGMtNDRlNDRmOTE5OGZmXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg"
+    },
+    {
+      "name": "IN: Sardar (2022) [HQ-Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR3is73DV1FspI5hRrvG6s5Zbv8.jpg"
+    },
+    {
+      "name": "IN: Monica, O My Darling (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEksr0T34utTkeg0DB1Au4M0jto.jpg"
+    },
+    {
+      "name": "IN: Rorschach (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKVeDdgpjR8CAEd73ioDe7wni4o.jpg"
+    },
+    {
+      "name": "IN: Bimbisara (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QxZRJsODH2kNZ6oNd3qug73FoQ.jpg"
+    },
+    {
+      "name": "IN: Ponniyin Selvan: Part I (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSNyZUeqDdii0doQ9970E90kCkb.jpg"
+    },
+    {
+      "name": "IN: Stand Up Rahul (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBlZzBubOXpbbUqnnfB4V73pwSX.jpg"
+    },
+    {
+      "name": "IN: Banaras (2022) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t07fraPQpolW7smcwBptQglTnsW.jpg"
+    },
+    {
+      "name": "IN: Godse (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d9eICFsRBFtQdC4MfCQ1Tg8DnJ.jpg"
+    },
+    {
+      "name": "IN: Kaduva (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hCGn1wVS7yMlF9vcq6poZtZlYE.jpg"
+    },
+    {
+      "name": "IN: Tadka (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cE9ZPnIJmct8URu61j19OTASNY.jpg"
+    },
+    {
+      "name": "IN: Brahmastra Part One: Shiva (2022) [MULTI AUDIO]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x61qdvHIsr9U53FwoLVDQqAGur0.jpg"
+    },
+    {
+      "name": "IN: The Ghost (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AulIkX8l9u17lcQfEubU8n0cnwk.jpg"
+    },
+    {
+      "name": "IN: Bheemla Nayak (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14KeWSkgzTbfJmmD4bXT9mwkaYz.jpg"
+    },
+    {
+      "name": "IN: Naane Varuvean (2022) [HQ Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfiAftin05Rw8XhIdxG9wkAwJIU.jpg"
+    },
+    {
+      "name": "IN: Krishna Vrinda Vihari (2022) [HQ Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJzzc1xc1zJ8XymyBRbT4Ue1oR9.jpg"
+    },
+    {
+      "name": "IN: Gangster Gangaraju (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mR2jQQe4MmrLbxFRZ1AjV36F0E7.jpg"
+    },
+    {
+      "name": "IN: Antakshari (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xtzQHA1Hx7JYTJ20h8RL4DfG87.jpg"
+    },
+    {
+      "name": "IN: Shivarjuna (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGViNWQ1NDItYTM5NS00N2E4LWFkOGItYjY5Y2NmZDNmOTFlXkEyXkFqcGdeQXVyMTA4NDIzMTY1._V1_SX300.jpg"
+    },
+    {
+      "name": "IN: Dongalunnaru Jagratta (2022) [HQ Dubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTdmZjM3MTUtYzUwYy00NDM0LWFjNjYtNzMwNzQyNDQwNzlmXkEyXkFqcGdeQXVyMTU2NDkwOTAw._V1_.jpg"
+    },
+    {
+      "name": "IN: First Day First Show (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muQsPsvXvTWZ3XyxNpzh4Pebsme.jpg"
+    },
+    {
+      "name": "IN: Atithi Devobhava (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1eUqOyh0sF9V89UgLvPei5Q8zz.jpg"
+    },
+    {
+      "name": "IN: Liger (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBZJAdfmcwhyvkwK1XajnHECdoY.jpg"
+    },
+    {
+      "name": "IN-EN: The Infernal Machine (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg"
+    },
+    {
+      "name": "IN: Ammu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckaM4pI0CzYHzGUG1bar9Q7LHbl.jpg"
+    },
+    {
+      "name": "IN: Son of Alibaba Nalpathonnaman (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec24VVpzOCPLX1xj1q9PFynPlU0.jpg"
+    },
+    {
+      "name": "IN: Doctor (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2I0OGFlMjQtZDlkMy00YzMzLWJmZGUtNzc3ZDc4YTAyOGM3XkEyXkFqcGdeQXVyMTA5MjQ4MDg4._V1_.jpg"
+    },
+    {
+      "name": "IN: Dobaaraa (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0Ayozn8O69UEjDvXnT5noIgUJp.jpg"
+    },
+    {
+      "name": "IN: Palthu Janwar (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b581PJG9dLh7zJVn8uUkl1pFkkm.jpg"
+    },
+    {
+      "name": "IN: Heaven (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2ZkOWNiN2QtYzhjNy00MjRhLTkyMWQtNDcyMWI0NjZmZDdiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+    },
+    {
+      "name": "IN: Mrigja (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTA4MTI3OGUtNjMxYi00NTg1LWExMjEtNjA0MmM3NzI4MzI1XkEyXkFqcGdeQXVyNzcyMzcwOTk@._V1_.jpg"
+    },
+    {
+      "name": "IN: Judaa Hoke Bhi (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ri38SVmTtzDT1jbSanHrq3p1LPr.jpg"
+    },
+    {
+      "name": "IN: Laal Singh Chaddha (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCoL86dGU4cPtnAr2fdZc0l7Nf.jpg"
+    },
+    {
+      "name": "IN: Maja Ma (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aibIe4IdGQvO142HyvB7rIoAut.jpg"
+    },
+    {
+      "name": "IN: Karthikeya 2 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKKoQndNfbDOLfYM1Zogt7miGF1.jpg"
+    },
+    {
+      "name": "IN: Raksha Bandhan (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykefXRqhM7HVnLWPtXWcWCcvBy6.jpg"
+    },
+    {
+      "name": "IN: 777 Charlie (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/irmHAELoYRaECBr8zQAlD4myrfk.jpg"
+    },
+    {
+      "name": "IN: Plan A Plan B (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4UntiTBZ4j2joz0GZFmybIOAr4.jpg"
+    },
+    {
+      "name": "IN: Atithi Bhooto Bhava (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQlIJocc9FXBDoOSeGXapJfOg22.jpg"
+    },
+    {
+      "name": "IN: Babli Bouncer (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcC4ZrmIbIcoi6CsqEp95axgOa0.jpg"
+    },
+    {
+      "name": "IN: Main Hoon Sarfira – Ninu Veedani Needanu Nene (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://fs1.extraimage.org/picupto/2022/09/20/MV5BYjU1ZDNjMjAtMDVmYy00MTBmLWI3YzctMWJlYTAxNWJjNjgxXkEyXkFqcGdeQXVyODk2ODI3MTU._V1_.jpg"
+    },
+    {
+      "name": "IN: Deja Vu (2022) [HQDubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "http://gein.detvz.us/base_img/98867742832059bbf01231eef3fad8c4.png"
+    },
+    {
+      "name": "IN: Viruman (2022) [HQDubbed]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6kc9cgm9c3bVa3xWPM7Z15ZJQ0.jpg"
+    },
+    {
+      "name": "IN: Vikrant Rona (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IfxcpcPPuFrI5slMaH0Ln4z2o8.jpg"
+    },
+    {
+      "name": "IN: Nay Varan Bhat Loncha Kon Nai Koncha (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy3HbayxugRGRgcjlK860yna1s6.jpg"
+    },
+    {
+      "name": "IN: Nna Thaan Case Kodu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qd4dZuYRmgJtBQUm1E8zclAZXE4.jpg"
+    },
+    {
+      "name": "IN: 67th Filmfare Awards (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ortmALHaQ5NS35l6FJN14F6viRI.jpg"
+    },
+    {
+      "name": "IN: Thallumaala (2022) [HQDubb]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XkOLjtiJQKZ4HwdtMKe2jwDOR0.jpg"
+    },
+    {
+      "name": "IN: Cobra (2022) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTBiZmI1YjYtNDAwYy00YmFmLWE2YTktOTgwYWIxNWVhYWVjXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: Ek Villain Returns (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/amAbP9YbIAlAXHdIon1x8l7aDFT.jpg"
+    },
+    {
+      "name": "IN: Thar (2022) 4K",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PK1WRr8dOF7FG5G4VCal4GcnPT.jpg"
+    },
+    {
+      "name": "IN: Khuda Haafiz: Chapter 2 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWYGHG6yIG8Fh8LwhbGnnaYNYyX.jpg"
+    },
+    {
+      "name": "IN: Cuttputlli (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVQweL2bdoTlmrVYbcicZQ5VcNP.jpg"
+    },
+    {
+      "name": "IN: Sundari Gardens (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kt29FO3gSNZWS9jjHaRTky1I1o8.jpg"
+    },
+    {
+      "name": "IN: HIT: The First Case (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKcbVK6QgxUjiHOE2xooRXTH0mz.jpg"
+    },
+    {
+      "name": "IN: Sherdil: The Pilibhit Saga (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZr9b23OmxcqSRL8OOSYm9cbdGF.jpg"
+    },
+    {
+      "name": "IN: Shamshera (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rryN6GhaoovO3sM8IEqGyKgCmXf.jpg"
+    },
+    {
+      "name": "IN: Don (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzYyMGFlMDYtZmM0OS00ZDA0LTk5MmMtYzEwYTFlNzFiNjMzXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: Sarileru Neekevvaru (2020)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IhWzaIOowmXattw8Xozwr9rJ76.jpg"
+    },
+    {
+      "name": "IN: Nikamma (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gm19HSx2qZI67l9qhcNuCjGSznX.jpg"
+    },
+    {
+      "name": "IN: Shabaash Mithu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4T4LGIRErWK7bomHFlSJirGZ4T.jpg"
+    },
+    {
+      "name": "IN: Cadaver (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7R2AEvAYOUsS5JBFpbZU5915YT.jpg"
+    },
+    {
+      "name": "IN: Gargi (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gN32gdxdXd96Usl1vEzg7RFMQ7.jpg"
+    },
+    {
+      "name": "IN: Om (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBZEDW004FLzPTdBpko6Qf4lACJ.jpg"
+    },
+    {
+      "name": "IN: Gotakhor (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cblhwonki1o1PPOjGoMda7PcdXU.jpg"
+    },
+    {
+      "name": "IN: Paggal (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://i2.extraimage.info/pix/2022/08/06/ab96204f7180252b16be07da7562d7aa.jpg"
+    },
+    {
+      "name": "IN: Okka Ammayi Thappa (2016)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gPeSYVReHQ6aKHHlskoEQbzC7a.jpg"
+    },
+    {
+      "name": "IN: Darlings (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBdzLLrz5AIX1OupDqWeYc0YGJw.jpg"
+    },
+    {
+      "name": "IN: Rocketry: The Nambi Effect (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAG7S6X73B74CeLjo8gcVoWtunr.jpg"
+    },
+    {
+      "name": "IN: FIR (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWzHTCh3ZCUsotpP7zyOBkb2bB7.jpg"
+    },
+    {
+      "name": "IN: Good Luck Jerry (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74DixzUjyRCgGGyyPDqYr11Ds32.jpg"
+    },
+    {
+      "name": "IN: JugJugg Jeeyo (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovyWtXhPRKKpSyMUIVYBWiurggY.jpg"
+    },
+    {
+      "name": "IN: Baba, Baby O... (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MpFqpfP8XEs62JQ8zgH3hq27CN.jpg"
+    },
+    {
+      "name": "IN: Katha Kanchiki Manam Intiki (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcXONaQSsmQ7zgW0KqzCc3B2HPt.jpg"
+    },
+    {
+      "name": "IN: RRR (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg"
+    },
+    {
+      "name": "IN: Ranveer vs Wild with Bear Grylls (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bNdVdSw6A16aSlSrA9iQX1jct.jpg"
+    },
+    {
+      "name": "IN: Janhit Mein Jaari (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2bUJ6CBqimqcofBr4X0j0Ph89U.jpg"
+    },
+    {
+      "name": "IN: Jaadugar (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx1SbUeuafTm1s5jbcvzg3F1JUD.jpg"
+    },
+    {
+      "name": "IN: Laali (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmZUhNAurr9pGLdJvG3iscoUYOC.jpg"
+    },
+    {
+      "name": "IN: Vikram (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg"
+    },
+    {
+      "name": "IN: Paka (River of Blood) (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjVmZmI2MDEtMjllNy00NDIwLWJiZGUtNjc3NmY3MTViZDMyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg"
+    },
+    {
+      "name": "IN: Operation Romeo (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTyR9BDP4OCRMYUhHBYszRpFXE1.jpg"
+    },
+    {
+      "name": "IN: Major (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTQwODI0YTYtZmIxYy00YTk2LWFlMDgtNmI1M2ZiNjRiZDBmXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg"
+    },
+    {
+      "name": "IN: Dhaakad (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR45x6uJDJTdlwCAM0sQbl8WE9E.jpg"
+    },
+    {
+      "name": "IN: Samrat Prithviraj (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/itjop20yizH1cwB44tIo5JivPSq.jpg"
+    },
+    {
+      "name": "IN: Forensic (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bn2sQizEJ0qsntJRvjULsd5vk44.jpg"
+    },
+    {
+      "name": "IN: Anek (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIHF8WrZpoomx0QSVTe74NeYGUD.jpg"
+    },
+    {
+      "name": "IN: Bhajarangi 2 (2021)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhgT7FQxUE9PTinUca0S8QMeEv3.jpg"
+    },
+    {
+      "name": "IN: Bangarraju (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/bangarraju-et00316733-10-01-2022-01-52-07.jpg"
+    },
+    {
+      "name": "IN: Bhool Bhulaiyaa 2 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg"
+    },
+    {
+      "name": "IN: CBI 5: The Brain (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5w2XN3DNkbJ1k8kIB29PXjpbAuU.jpg"
+    },
+    {
+      "name": "IN: Jayeshbhai Jordaar (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dv93VspYwwNPbvdB0AcddhiDrGU.jpg"
+    },
+    {
+      "name": "IN: Puzhu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dklbhxy6I33rq7Km2fjrfa31mH0.jpg"
+    },
+    {
+      "name": "IN: Innale Vare (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6KQlbvY2BCqLoh67P6F7mkBjZs.jpg"
+    },
+    {
+      "name": "IN: Sharmaji Namkeen (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGsI606hmcpPkUpt9iHBMDpxlKk.jpg"
+    },
+    {
+      "name": "IN: Jungle Cry (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5FtkxJad6gKErNhYZJwHL8SO9w.jpg"
+    },
+    {
+      "name": "IN: Jersey (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2D5MXrwBBymQ7DjG0cOFen2yh.jpg"
+    },
+    {
+      "name": "IN: Dark Rose: The Name of Fear (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://curl.pk/img/u/50260b070998cabe325aa2cd48b49c043609.jpg"
+    },
+    {
+      "name": "IN: Veerame Vaagai Soodum (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lokTyhRjuQpfBHjZv4KLGvuc0NK.jpg"
+    },
+    {
+      "name": "IN: Anek (2022) [HDCAM]",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDGnXFZNWagAeo6phBUKkPdzvtx.jpg"
+    },
+    {
+      "name": "IN: Heropanti 2 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfKTqIwMRYblzesiidC91E1g5Cf.jpg"
+    },
+    {
+      "name": "IN: Runway 34 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edRmta5mJHrnmRmcHiH3RVDtaZE.jpg"
+    },
+    {
+      "name": "IN: Attack (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jGKbYuZtdxSNOocI6ZziQeiY4n.jpg"
+    },
+    {
+      "name": "IN: Toolsidas Junior (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCXMgoS1P5vmCDHHuFBulvswR7M.jpg"
+    },
+    {
+      "name": "IN: K.G.F: Chapter 2 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wobXQ8VLfCHvgbevNMy8Rxvo41.jpg"
+    },
+    {
+      "name": "IN: The Kashmir Files (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k079zl4TcFVK0n5CypQeYqSkwdU.jpg"
+    },
+    {
+      "name": "IN: Beast (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hqtjslVCaDVgblg7iCtGIy7exO.jpg"
+    },
+    {
+      "name": "IN: Jhund (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5rzrjzdzEuPX7Gcc4KphutBejj.jpg"
+    },
+    {
+      "name": "IN: Thar (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiRG2E8A8Km56celb68UnJJzODr.jpg"
+    },
+    {
+      "name": "IN: Gangubai Kathiawadi (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg"
+    },
+    {
+      "name": "IN: Aaraattu (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qt5zIVjW1ThRhJkSetOFlnySsoW.jpg"
+    },
+    {
+      "name": "IN: Bachchhan Paandey (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuUtbT376pIhgTxJuEVGFx9sBvz.jpg"
+    },
+    {
+      "name": "IN: James (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/james-et00312373-16-03-2022-09-14-19.jpg"
+    },
+    {
+      "name": "IN: Rider (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmMzYTgxZWItNjNiMi00MjU2LTg5ODQtMmVlNjlkYjU2Zjk0XkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_.jpg"
+    },
+    {
+      "name": "IN: Dasvi (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xNdRj4jK8R7FWX93d2uEshJXMS.jpg"
+    },
+    {
+      "name": "IN: Etharkkum Thunindhavan (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BU4qoPUPiOSiLue8ni8VdxNP4U.jpg"
+    },
+    {
+      "name": "IN: Hey! Sinamika (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3t6kgGJqsSMtKitIXXBPgWSqeCf.jpg"
+    },
+    {
+      "name": "IN: Bheeshma Parvam (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vtSFcwagN0O5psdS69xPRaLYkS.jpg"
+    },
+    {
+      "name": "IN: Kaun Pravin Tambe? (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6t4nzjbmlGDAYnNvUeo6zxMySC.jpg"
+    },
+    {
+      "name": "IN: Valimai: The Power (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xa5USFw4I2SQPlD3wZ9kRn9shtB.jpg"
+    },
+    {
+      "name": "IN: Lalitham Sundaram (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYLRXkWe9xyBqWzeP0jaE375uyN.jpg"
+    },
+    {
+      "name": "IN: Jalsa (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oR23tKHNmpQ3CxMm5lf4nCWRRw0.jpg"
+    },
+    {
+      "name": "IN: Khiladi (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egPl7IcGBmt1GQGY2KoBgujMlT3.jpg"
+    },
+    {
+      "name": "IN: Dumdaar Khiladi 2 (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDQyYzExNjAtZjU2Yi00NzFlLTk2ODItOGY4NzU5OTE5MjEyXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN: Badhaai Do (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMT7jS0GijTEgVUVLot1wwNa8Ia.jpg"
+    },
+    {
+      "name": "IN: Love Hostel (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NcLpimjbptWqDT2UbcT4dxs6ad.jpg"
+    },
+    {
+      "name": "IN: Banaras - The Red Land (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://i0.wp.com/bolly4u.ninja/wp-content/uploads/2022/02/Banaras-The-Red-Land-2022-WEB-DL-Hindi-Movie-Download-720p.jpg?fit=315%2C448&ssl=1"
+    },
+    {
+      "name": "IN: MaNan A Kaisi Yeh Yaariyan Movie (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://i.imgur.com/hDtcmoj.jpeg"
+    },
+    {
+      "name": "IN: A Thursday (2022)",
+      "group": "IN - 2022-2023 Hindi Movies - Bollywood",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptOVJ3cJ8dEWsVynKhvgtGDjU1v.jpg"
+    }
+  ]
+}

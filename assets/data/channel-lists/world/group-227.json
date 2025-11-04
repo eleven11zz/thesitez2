@@ -1,0 +1,828 @@
+{
+  "package": "world",
+  "name": "AL - Drama Movies",
+  "groupIndex": 227,
+  "totalChannels": 164,
+  "channels": [
+    {
+      "name": "AL: Land of Mine (2015)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg"
+    },
+    {
+      "name": "AL: Menace II Society (1993)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LMphX9ZcidYfdAyBYrjJQUtHZq.jpg"
+    },
+    {
+      "name": "AL: Meet Joe Black (1998)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDPAjvfPMomkKF7cMRmL5Anak61.jpg"
+    },
+    {
+      "name": "AL: Meeting Evil (2012)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGbgCFTN7zUFF6NddoQC8L883HP.jpg"
+    },
+    {
+      "name": "AL: Mary Shelley (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg"
+    },
+    {
+      "name": "AL: Mary Queen of Scots (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg"
+    },
+    {
+      "name": "AL: Martin Eden (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPusQjToEdPmh6dsdZAXsh42nOn.jpg"
+    },
+    {
+      "name": "AL: Marfa Girl 2 (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9LqBpPYiSv0TK58j9UV2wlsS0q.jpg"
+    },
+    {
+      "name": "AL: Marfa Girl (2012)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSfvmK5XFKUVn6k869lG1UUAMfF.jpg"
+    },
+    {
+      "name": "AL: Manifesto (2015)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eszm6c7GxD0ztbRQpqkG04P8iui.jpg"
+    },
+    {
+      "name": "AL: Mandela: Long Walk to Freedom (2013)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzjwDSwLbalv7bCXnFbkAuIxXLx.jpg"
+    },
+    {
+      "name": "AL: Mail Order Monster (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnxNqC3S9qgyx4PdwT1MybcpCYJ.jpg"
+    },
+    {
+      "name": "AL: Loveless (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBUsLGZoGuLKMuHj19mjG9iCDoq.jpg"
+    },
+    {
+      "name": "AL: Love's Enduring Promise (2004)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DZnImlZv6tgBLwfsit5z3qIn9E.jpg"
+    },
+    {
+      "name": "AL: Little Women (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+    },
+    {
+      "name": "AL: Light of My Life (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbQQrOclR6G4r3T3EuOjp0f6VG9.jpg"
+    },
+    {
+      "name": "AL: Leviathan (2014)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg"
+    },
+    {
+      "name": "AL: Leave No Trace (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w69iId8e80xBpyF0r2rfZoqRwQj.jpg"
+    },
+    {
+      "name": "AL: Lawless (2012)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmjy8rX4lY2x1UCJIH24VvUtDXJ.jpg"
+    },
+    {
+      "name": "AL: La Haine (1995)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f37UqJ9aJtilApJV4J7N3n9vo3Y.jpg"
+    },
+    {
+      "name": "AL: Kursk (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg"
+    },
+    {
+      "name": "AL: Kurbaan (2009)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLG5R5pgVpTMFQbVeGhcUu1xSH1.jpg"
+    },
+    {
+      "name": "AL: Kiss and Cry (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHErYJ2TfP0ihIEMpD2zCvbVIIB.jpg"
+    },
+    {
+      "name": "AL: Kings (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEQIshX0y64hYjjDbE1KqevW04e.jpg"
+    },
+    {
+      "name": "AL: King of Thieves (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtfS7y2XQ0vjTrm6khq508N0Ehk.jpg"
+    },
+    {
+      "name": "AL: King Lear (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHd0YS1PGxjfZCVbYi9Hetg7zZd.jpg"
+    },
+    {
+      "name": "AL: Kincsem (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqNp7KbfoKENdLOEJQggvGGUepJ.jpg"
+    },
+    {
+      "name": "AL: Just Say Goodbye (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHVlfvADGo9EMfEU6iMYsrTkusW.jpg"
+    },
+    {
+      "name": "AL: Just Mercy (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YJNp1cquIkX8JxFwkKNEFQ9tgr.jpg"
+    },
+    {
+      "name": "AL: Jonathan (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTd0PBJkA1HLM9yImDnRZDzGAwb.jpg"
+    },
+    {
+      "name": "AL: Jinn (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xBbgmfkRdrWpW1KfamxQyTFmaw.jpg"
+    },
+    {
+      "name": "AL: Jane Eyre (2011)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5mTxitBJNy5QtPKLFhuSB6GkzG.jpg"
+    },
+    {
+      "name": "AL: Jan Dara: The Finale (2013)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4lssuJy025HTnMmxS1jTNBGlZ.jpg"
+    },
+    {
+      "name": "AL: Jalebi (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIJYLvMMWTsEpNFVxU6YwTzdOzL.jpg"
+    },
+    {
+      "name": "AL: Incendies (2010)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO6VMoZco5jaAVm2QJ2VgPolUnx.jpg"
+    },
+    {
+      "name": "AL: Il divo (2008)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Rb4Uel3gziuDEgJ71xfZelayVP.jpg"
+    },
+    {
+      "name": "AL: If Beale Street Could Talk (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhUIOTSi3kr4290tKrVyeriyvrv.jpg"
+    },
+    {
+      "name": "AL: Iceman (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaFpc99fTKhBJtoSbILwZIzHRtO.jpg"
+    },
+    {
+      "name": "AL: Hunger (2008)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXSZaacDkHTmvJJvq0VwsbqlHXI.jpg"
+    },
+    {
+      "name": "AL: Hostiles (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqoezyB51GfhiloOB5ZErg5HXas.jpg"
+    },
+    {
+      "name": "AL: Home Again (2012)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEcfHyB7G4DdrOpRTXBN34bG4um.jpg"
+    },
+    {
+      "name": "AL: Holiday (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NU063sVE2Y3zNg8isOIG5RSrDL.jpg"
+    },
+    {
+      "name": "AL: High Strung (2016)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFbSZvnx2ECc9hGUdbBXfx3704L.jpg"
+    },
+    {
+      "name": "AL: High Life (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg"
+    },
+    {
+      "name": "AL: High Flying Bird (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccE21xixa1zhkGtWDr4n8ReOp40.jpg"
+    },
+    {
+      "name": "AL: Hereafter (2010)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmUNWiK1wMgLtkLHx9VTBm8VaD6.jpg"
+    },
+    {
+      "name": "AL: Heaven Is for Real (2014)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4k7KCwLPDixM13J2JYcqt9kHZ7.jpg"
+    },
+    {
+      "name": "AL: Hara-Kiri: Death of a Samurai (2011)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqIqSoxbsVTfcr6CgTtSpzJBkYt.jpg"
+    },
+    {
+      "name": "AL: Hamari Adhuri Kahani (2015)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWeiGPq1uav2j5bnjeQhIk7VP51.jpg"
+    },
+    {
+      "name": "AL: Gully Boy (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg"
+    },
+    {
+      "name": "AL: Gone Baby Gone (2007)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIo4a0fCUFth4yVG3QToquAxuRG.jpg"
+    },
+    {
+      "name": "AL: Gold (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCcdW6nHRcrKWraErYV5g3tut7Q.jpg"
+    },
+    {
+      "name": "AL: Gloria Bell (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTfAWQXUceUszmifA4AwkIsDccQ.jpg"
+    },
+    {
+      "name": "AL: Girl (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg"
+    },
+    {
+      "name": "AL: Ginger & Rosa (2012)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EmQri2RwjN5zELdAtUY52k71pN.jpg"
+    },
+    {
+      "name": "AL: Giant Little Ones (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4U3nFK1JcvfCm9SyBta2g0eTwU.jpg"
+    },
+    {
+      "name": "AL: Gettysburg (1993)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/566AVv5fwoQTdFy37JXc8QcyDSy.jpg"
+    },
+    {
+      "name": "AL: Get Rich or Die Tryin' (2005)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaEJu8vFKtrAoSRtw3xjCf1aM5d.jpg"
+    },
+    {
+      "name": "AL: Fruitvale Station (2013)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvHYetUIshAPtMhtVtBT7dW5hqh.jpg"
+    },
+    {
+      "name": "AL: Forever My Girl (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKqdggnIPeOI15VqtBZTkvh4hA9.jpg"
+    },
+    {
+      "name": "AL: For a Handful of Kisses (2014)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TRmf5vVKGTSVJ2uWrSlBUlP9iB.jpg"
+    },
+    {
+      "name": "AL: Five Minarets in New York (2010)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqcRs578GT1kwqjOEcqbDQDf8Z4.jpg"
+    },
+    {
+      "name": "AL: Fish Tank (2009)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg"
+    },
+    {
+      "name": "AL: First Match (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwmtK6A7jwriIY0gh0HUgvI1ETA.jpg"
+    },
+    {
+      "name": "AL: First Man (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg"
+    },
+    {
+      "name": "AL: Fireproof (2008)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfoCG75j1YaNyfZGPg0rWy3nFmU.jpg"
+    },
+    {
+      "name": "AL: Finding Neverland (2004)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9jgLICNCEb3lvWdNaIKAG9pRdp.jpg"
+    },
+    {
+      "name": "AL: Final Portrait (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkzgkapX0cUEdWSJXnqvAZolRzU.jpg"
+    },
+    {
+      "name": "AL: Fifty Shades Freed (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZedQHPQVveaIYmDSTazhT3y273.jpg"
+    },
+    {
+      "name": "AL: Fantastic Beasts: The Crimes of Grindelwald (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"
+    },
+    {
+      "name": "AL: Experimenter (2015)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcVhkScQvO4QH5rqOkZwXJo1K99.jpg"
+    },
+    {
+      "name": "AL: Enter the Wild (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x66k8PyMeGk6Ctj9GqWg7go0vvg.jpg"
+    },
+    {
+      "name": "AL: Eight Below (2006)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdbjp6X12WRlLJrMlKrbSgjdpuC.jpg"
+    },
+    {
+      "name": "AL: Edward Scissorhands (1990)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg"
+    },
+    {
+      "name": "AL: Earthquake Bird (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyKnosHXQ7kkhlGwqsWOvn4RgKR.jpg"
+    },
+    {
+      "name": "AL: Driven (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQzAuANZi8pmiN2Fi0EKGolgFoM.jpg"
+    },
+    {
+      "name": "AL: Downton Abbey (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg"
+    },
+    {
+      "name": "AL: Downfall (2004)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg"
+    },
+    {
+      "name": "AL: Donnie Darko (2001)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg"
+    },
+    {
+      "name": "AL: Dirty Dancing: Havana Nights (2004)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fL0psQFnroOkBpj3RLqkWJrnO2X.jpg"
+    },
+    {
+      "name": "AL: Diplomacy (2014)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eG0QiflFJsFRDq3QWoihMnWoqKC.jpg"
+    },
+    {
+      "name": "AL: Delibal (2015)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUsENXfyBu6uE8YmWXuSbsWNzjc.jpg"
+    },
+    {
+      "name": "AL: Dead Poets Society (1989)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ai40gM7SUaGA6fthvsd87o8IQq4.jpg"
+    },
+    {
+      "name": "AL: Cuck (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdTn8bDrghtLml0jgkagzlIXlWC.jpg"
+    },
+    {
+      "name": "AL: Crown Vic (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUFuuUMd4nMbt3pdzulnFRxbY6e.jpg"
+    },
+    {
+      "name": "AL: Crown Heights (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksTHqOb8bPPdbIsZXHnWX3NrgfH.jpg"
+    },
+    {
+      "name": "AL: Crooked House (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AewyKG2cvgZQBG4XU6SVomfu1k5.jpg"
+    },
+    {
+      "name": "AL: Creed II (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg"
+    },
+    {
+      "name": "AL: Corpus Christi (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VZlm8sEwxkE3L5nXxz17QLj1sF.jpg"
+    },
+    {
+      "name": "AL: Corn Island (2014)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXfqkcug2GewkSmpIVdmzMSzu3Q.jpg"
+    },
+    {
+      "name": "AL: Confucius (2010)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCRMOp9LvgSdpvJm1xvjFGKGfNY.jpg"
+    },
+    {
+      "name": "AL: Cold Mountain (2003)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/32MsALfK6shuSopCrFjSNoxDc5p.jpg"
+    },
+    {
+      "name": "AL: Cloud Atlas (2012)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/amNMifaMEd0FBOR289OcnRAJjTI.jpg"
+    },
+    {
+      "name": "AL: City of Angels (1998)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuzxpUjHsbQJXV3kB9ZAdCimM60.jpg"
+    },
+    {
+      "name": "AL: Cities of Last Things (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbDV4ORpC2oV2A7WyivBoDDNScw.jpg"
+    },
+    {
+      "name": "AL: Christmas Inheritance (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg"
+    },
+    {
+      "name": "AL: Cardboard Gangsters (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8xEFeBpEYxA4rUYEvEYUaeYDcG.jpg"
+    },
+    {
+      "name": "AL: Capernaum (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFnfTVADj8yOxwzprYOmTPselk8.jpg"
+    },
+    {
+      "name": "AL: Butterfly Caught (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92hgBg1aHIuNy7tod9PC40HmZtI.jpg"
+    },
+    {
+      "name": "AL: Brokeback Mountain (2005)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsbzfe9eLOEl5rJX04nPEr1eoAi.jpg"
+    },
+    {
+      "name": "AL: Bright Star (2009)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddfiAicb5zs4D2qCtpuJdsalePs.jpg"
+    },
+    {
+      "name": "AL: Bridge to Terabithia (2007)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xFxGodKPMFLheS8rujFSmLfcq4.jpg"
+    },
+    {
+      "name": "AL: Brexit: The Uncivil War (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKfYKQQMNARXOgyf5ieVeGWlNQU.jpg"
+    },
+    {
+      "name": "AL: Breathe (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLu2N0QVfSpk10RJ17HLHyRUmww.jpg"
+    },
+    {
+      "name": "AL: Breakthrough (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/85BfZAYh4zC1U6NBz2ZkXb3y67v.jpg"
+    },
+    {
+      "name": "AL: Bravetown (2015)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XQvhq0bM9Odwr1Nf1fY6QsWOMM.jpg"
+    },
+    {
+      "name": "AL: Born to Be Blue (2015)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEdh2CkSyDXBTAPlNS6uLF9yTTH.jpg"
+    },
+    {
+      "name": "AL: Bombshell (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg"
+    },
+    {
+      "name": "AL: Bomb City (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kho48mWJ5xuiLn5bpuIvO6ZP7ep.jpg"
+    },
+    {
+      "name": "AL: Blue Valentine (2010)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg"
+    },
+    {
+      "name": "AL: Blade Runner 2049 (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+    },
+    {
+      "name": "AL: Black Mirror: Bandersnatch (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg"
+    },
+    {
+      "name": "AL: BlacKkKlansman (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg"
+    },
+    {
+      "name": "AL: Black '47 (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg"
+    },
+    {
+      "name": "AL: Birds of Passage (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUXD9HrnDqZKnw6p1iZnyeQYShd.jpg"
+    },
+    {
+      "name": "AL: Bigger (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0g1NcBUTYzPqIa45EEFrTD3qed.jpg"
+    },
+    {
+      "name": "AL: Big Fish (2003)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjK063yCgaBAluVU72rZ6PKPH2l.jpg"
+    },
+    {
+      "name": "AL: Beyond the Clouds (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7vLxt7VVWfCnFcqdE45Y4VdlEe.jpg"
+    },
+    {
+      "name": "AL: Berlin, I Love You (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9LdjJWgYIaOkvG7NtTcq5Ox4nO.jpg"
+    },
+    {
+      "name": "AL: Benji (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvmhEcqzN2bUZvEmEIh9SjhTkr6.jpg"
+    },
+    {
+      "name": "AL: Bel Canto (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pRvnOhFdANmdzDXfuLlZV9jwSb.jpg"
+    },
+    {
+      "name": "AL: Bedways (2010)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Dyn152ce3Jp4zwqlVLIi5rw5AK.jpg"
+    },
+    {
+      "name": "AL: Beautiful Boy (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7gsLrNxpSf8NF5IZIrcOEfMyA3.jpg"
+    },
+    {
+      "name": "AL: Beasts of the Southern Wild (2012)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQJmWekGYlXhezGUb21xFfEfwhH.jpg"
+    },
+    {
+      "name": "AL: Barbara (2012)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gbbUhlDhPppNk8c8xEZftbO2nV.jpg"
+    },
+    {
+      "name": "AL: Bait (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehud81VR5oNYC0hlam5Xznbt26C.jpg"
+    },
+    {
+      "name": "AL: Badla (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKpzbERuhogYTwI3PwfVsAHXnuO.jpg"
+    },
+    {
+      "name": "AL: A Walk Among the Tombstones (2014)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQTHTZezSudf27mMQtedHf1XpgO.jpg"
+    },
+    {
+      "name": "AL: A Violent Man (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMLJ6dKZvg07ioc9WNV66TEaDGH.jpg"
+    },
+    {
+      "name": "AL: A Twelve-Year Night (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIjFYuYGmb1ngGzycKTSHXxx0M5.jpg"
+    },
+    {
+      "name": "AL: A Star Is Born (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
+    },
+    {
+      "name": "AL: Ash Is Purest White (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6UkF23uWkO25x7UEMnT0H4R5GR.jpg"
+    },
+    {
+      "name": "AL: Ashes in the Snow (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRMgle7vPFvSMq5R76JhsH54W4S.jpg"
+    },
+    {
+      "name": "AL: A Separation (2011)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg"
+    },
+    {
+      "name": "AL: Article 15 (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egknEWNt2B0slG2OC0gSpLZdVHj.jpg"
+    },
+    {
+      "name": "AL: Arctic (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxRc0Y4IjSRLC2fYaguXQtJCI4e.jpg"
+    },
+    {
+      "name": "AL: A Quiet Life (2010)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jE2b7aojjGkLdzPZFbseyeBoMRD.jpg"
+    },
+    {
+      "name": "AL: A Pure Formality (1994)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBIc2Mc0Ds5HiYD1YOXGD3xTTUI.jpg"
+    },
+    {
+      "name": "AL: A Private War (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAh6uDR9bBznybiJCVYZNJmjg63.jpg"
+    },
+    {
+      "name": "AL: Appaloosa (2008)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLLUC8QaNx4BK1Vuf7XqSyd8icX.jpg"
+    },
+    {
+      "name": "AL: An Elephant's Journey (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCRT8Gs0QrZpS1PwPB9QSQXQcpm.jpg"
+    },
+    {
+      "name": "AL: An Elephant Sitting Still (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJfkDnsY9z9ohWdyzyCAqYZxbnS.jpg"
+    },
+    {
+      "name": "AL: American Woman (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfHzFvjjmbMQhqOpcs6gnG8Mbxx.jpg"
+    },
+    {
+      "name": "AL: American Animals (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg"
+    },
+    {
+      "name": "AL: Amateur (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWUvlNxKSMdegAoY5eMOqPwMKIb.jpg"
+    },
+    {
+      "name": "AL: Alpha (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/afdZAIcAQscziqVtsEoh2PwsYTW.jpg"
+    },
+    {
+      "name": "AL: All the Bright Places (2020)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SafxuMKQiw4reBiWKVZJpJn80I.jpg"
+    },
+    {
+      "name": "AL: All Styles (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHwGKBD6YneE1gejRP4X2z4gZWM.jpg"
+    },
+    {
+      "name": "AL: Ajami (2009)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oL2INtBiEx6lnaJDeIi7X7TE95s.jpg"
+    },
+    {
+      "name": "AL: A Fortunate Man (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/394BkiPZ5h3IceM5wuZXt3t3g1C.jpg"
+    },
+    {
+      "name": "AL: Adopt a Highway (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2nzyAsOufAhqEEhsr0ArTCQBPz.jpg"
+    },
+    {
+      "name": "AL: Ad Astra (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg"
+    },
+    {
+      "name": "AL: A Clockwork Orange (1971)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sHeTAp65WrSSuc05nRBKddhBxO.jpg"
+    },
+    {
+      "name": "AL: A Ciambra (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIkDmCWDIWyHAQgKCZpuD5d8kKl.jpg"
+    },
+    {
+      "name": "AL: A Christmas Carol (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKW48tnZKaHLBIxxgoAf9BIpyRv.jpg"
+    },
+    {
+      "name": "AL: About Time (2013)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iR1bVfURbN7r1C46WHFbwCkVve.jpg"
+    },
+    {
+      "name": "AL: A Beautiful Mind (2001)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg"
+    },
+    {
+      "name": "AL: Aashiqui 2 (2013)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z18DWXBRxn3kz00sIVhC7ZK39Qm.jpg"
+    },
+    {
+      "name": "AL: 99 Homes (2014)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHKquMw8tT7eOjWb1ecR41soLzD.jpg"
+    },
+    {
+      "name": "AL: 37 Seconds (2019)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kM70qpiQ3P1agNAZwlsUrBnv6Nw.jpg"
+    },
+    {
+      "name": "AL: 20th Century Women (2016)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mso2rEr9i0MilRIOao5HaWFipS9.jpg"
+    },
+    {
+      "name": "AL: 6 Balloons (2018)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg"
+    },
+    {
+      "name": "AL: 5 Days of War (2011)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnMThO1o6zyKAY0C3LUmccVg7SU.jpg"
+    },
+    {
+      "name": "AL: 1 Mile To You (2017)",
+      "group": "AL - Drama Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/by5sJxbg7HXdqSm05oYT54AsZTg.jpg"
+    }
+  ]
+}

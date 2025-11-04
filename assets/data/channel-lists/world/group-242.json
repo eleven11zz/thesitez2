@@ -1,0 +1,358 @@
+{
+  "package": "world",
+  "name": "AR - Documentary Movies",
+  "groupIndex": 242,
+  "totalChannels": 70,
+  "channels": [
+    {
+      "name": "AR: Worth",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnabVjHsy1cFc5QBAHC1CYLTOJB.jpg"
+    },
+    {
+      "name": "AR: We Take The Low Road",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh8Ix2UUgz1cJZyEeIa4D8YKdcM.jpg"
+    },
+    {
+      "name": "AR: The Warrant",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7RTqHWAQsVeMr1BkSWzeRTaORE.jpg"
+    },
+    {
+      "name": "AR: The Viking War",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BEY3dAb6ZVHzND1Ewmw2PTAl76.jpg"
+    },
+    {
+      "name": "AR: The Sisters Brothers",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Tl2nZ6uvmxwK14Skbf9VFHEHpX.jpg"
+    },
+    {
+      "name": "AR: The Promise",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg"
+    },
+    {
+      "name": "AR: The Legend Of 5 Mile Cave",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dN5P2csjDMq8OkwCi95uG0PpW40.jpg"
+    },
+    {
+      "name": "AR: The Last Witness",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4d6UHuQ2gpsaN38pMSZ42Fj6hi.jpg"
+    },
+    {
+      "name": "AR: The Imitation Game",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg"
+    },
+    {
+      "name": "AR: The Great War",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB8sqwHkVZWBvhEn71ICewPCfNS.jpg"
+    },
+    {
+      "name": "AR: The Duel",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF7PKbM4KpjF7e6KOUoluoz78fl.jpg"
+    },
+    {
+      "name": "AR: The 15:17 To Paris",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg"
+    },
+    {
+      "name": "AR: Sword Of Vengeance",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Amiy63LurXkazLZAjz57ivPvioJ.jpg"
+    },
+    {
+      "name": "AR: Run For The High Country",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WXyl2AVUVrt9uIT89ykoBIHxPy.jpg"
+    },
+    {
+      "name": "AR: Ronaldo",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdr6Jx39KErvSeQFVREjxeEK4lk.jpg"
+    },
+    {
+      "name": "AR: Robin Hood: The Rebellion",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYbJl9D2woKQTXVOaQs01Qs7CCa.jpg"
+    },
+    {
+      "name": "AR: Robert The Bruce",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4zbpukEorfECSc5vkZ20vhwNec.jpg"
+    },
+    {
+      "name": "AR: Outlaw King",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rT49ousKUWN3dV7UlhaC9onTNdl.jpg"
+    },
+    {
+      "name": "AR: Never Grow Old",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulDNzqcjJpZY3SoLugmLuLCi0Ry.jpg"
+    },
+    {
+      "name": "AR: Les Misérables",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dU8UbgPHnnSA4gHJXNqEhKCNc6b.jpg"
+    },
+    {
+      "name": "AR: Hotel Mumbai",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9pPf94tlxnVFGaX2RosKiViKng.jpg"
+    },
+    {
+      "name": "AR: Hickok",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFAhzmqiBaxJjqKdA1iqKYr3YDo.jpg"
+    },
+    {
+      "name": "AR: Harriet",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg"
+    },
+    {
+      "name": "AR: Hamilton",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1B7tW0t399VDjAcWJh8m87469b.jpg"
+    },
+    {
+      "name": "AR: Forsaken",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8cygP0cqsrPv9W0PyxfIFemg3L.jpg"
+    },
+    {
+      "name": "AR: Ford V Ferrari",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnZJXIIC0fwDUpxhMH1KK9by5H.jpg"
+    },
+    {
+      "name": "AR: First Man",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCG9BOM4bOrPSQ5d5reTQRaLWiu.jpg"
+    },
+    {
+      "name": "AR: Emperor",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6BMM5UjC9fqGWqlzeWCHJjBNyy.jpg"
+    },
+    {
+      "name": "AR: Eminence Hill",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pra6Bz7oCY9RcYcfKSB8gqds9Y.jpg"
+    },
+    {
+      "name": "AR: Churchill's Secret",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N53Kw74mGfa8LhBtrpFLhg3lXm.jpg"
+    },
+    {
+      "name": "AR: Boudica: Rise Of The Warrior Queen",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzH4opbPXr4Xnr9daCt8EQ2nrHP.jpg"
+    },
+    {
+      "name": "AR: Badland",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/217ddlMrnXll436baw7y5ERmz3x.jpg"
+    },
+    {
+      "name": "AR: Soldier's Heart",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJkYXEfM2teq48u3HBcvvjgqIb1.jpg"
+    },
+    {
+      "name": "AR: Anthropoid",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hUghRVVkBYufftfNQkGevY5AmE.jpg"
+    },
+    {
+      "name": "AR: American Confederate",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIzYnmd08igDPeVguhqPB0vppaZ.jpg"
+    },
+    {
+      "name": "AR: A Fistful Of Lead",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ci5A9TPmNajMxt1L8p4KlZ76sc9.jpg"
+    },
+    {
+      "name": "AR: 22 July",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/34osIViLgpz6lEnkxXpTJMbNRBW.jpg"
+    },
+    {
+      "name": "AR: Who Am I?",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Sz5wpszfLNEf4B9TD8nti7Xwdj.jpg"
+    },
+    {
+      "name": "AR: USS Indianapolis: The Legacy",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hodQYPwrzZcmeOeUN37XDUmy6MX.jpg"
+    },
+    {
+      "name": "AR: The Social Dilemma",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4CBsXaGcltcHGbcxsWD5VfEaiU.jpg"
+    },
+    {
+      "name": "AR: Shawshank: The Redeeming Feature",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7DGM74MRfiLqEveVKwh0jnQ8zX.jpg"
+    },
+    {
+      "name": "AR: Journey To The Oscars",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "AR: The Great Battle Of The Volga",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTWXNmSmMxXcHXas0qJBxgQ3luR.jpg"
+    },
+    {
+      "name": "AR: Clarkson: The Good The Bad The Ugly",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zECf3zK3pv8wBwPGRcWXMBDk2Ot.jpg"
+    },
+    {
+      "name": "AR: Vietnam: The Bombing",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qlbkyjCHbmaiK3ZUPk7tZsoTKu.jpg"
+    },
+    {
+      "name": "AR: The Art Of 'Spirited Away'",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1iaVnI4mTaETwAKTLyIAKFwQSJ.jpg"
+    },
+    {
+      "name": "AR: Kurosawa Akira: Tsukuru To Iu Koto Wa Subarashii: Shichinin No Samurai",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/asZGvMVmut2gEbEGlQ1yfUlOd3C.jpg"
+    },
+    {
+      "name": "AR: Seventeen",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "AR: Secrets Of The Saqqara Tomb",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NyihqDHhkF4xIdGHvNJgjytB55.jpg"
+    },
+    {
+      "name": "AR: School Life",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeU3BmGQGpLaEOPd5dnR8WpVPfj.jpg"
+    },
+    {
+      "name": "AR: Making Saving Private Ryan",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "AR: S W E A T",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfX7dL7sZd1OWCKUqz1GFZPCt6n.jpg"
+    },
+    {
+      "name": "AR: The Real Pirates of the Caribbean (2004)",
+      "group": "AR - Documentary Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "AR: Animation Outlaws",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bK1HZfueyD0F5EKi25o5S2i3y0f.jpg"
+    },
+    {
+      "name": "AR: Synchrondoku \"Once Upon A Time    In Hollywood\"",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylVB752cMAtqZNp2wTNN3q43JO6.jpg"
+    },
+    {
+      "name": "AR: Liberation",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiXOwkH2znhW0obpiq9JZoMhNQh.jpg"
+    },
+    {
+      "name": "AR: Last Letters",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Y8zfuRspWB4xNONI4uLn1QR0G3.jpg"
+    },
+    {
+      "name": "AR: Fang Den Haider",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGA9GJq36pJLxd8H2Uk5mlnZ2pN.jpg"
+    },
+    {
+      "name": "AR: The Green Book: Guide To Freedom",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JQmPWE8ZCGx6D3Z2ZIy1MU6ZSU.jpg"
+    },
+    {
+      "name": "AR: Father Soldier Son",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AIU4rH3ExBHQg92UHYxFYxP82M.jpg"
+    },
+    {
+      "name": "AR: Everybody Knows    Elizabeth Murray",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLk31035adOtF4RpBH56TlgyNS3.jpg"
+    },
+    {
+      "name": "AR: The Dream Factory",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W8VvLu2ukuSkUfdMvGw9jpEvt9.jpg"
+    },
+    {
+      "name": "AR: Dick Johnson Is Dead",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg"
+    },
+    {
+      "name": "AR: Believer",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jXKnbaBBI4OeQTSuSEKLqWzM5H.jpg"
+    },
+    {
+      "name": "AR: The Making Of Anna And The Apocalypse",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "AR: The Animal World",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "AR: American Murder: The Family Next Door",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg"
+    },
+    {
+      "name": "AR: Above The Best",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRoHp7WqzSpMcKVCclSduede6hc.jpg"
+    },
+    {
+      "name": "AR: 6 Days",
+      "group": "AR - Documentary Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e01r20rKS4J8bZCWqxhYrmNSGKE.jpg"
+    },
+    {
+      "name": "AR: Beyond the Wasteland",
+      "group": "AR - Documentary Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/mxJ1xeh54PUhQa7UxCHqdy6yBz5_big.jpg"
+    }
+  ]
+}

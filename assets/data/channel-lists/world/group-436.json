@@ -1,0 +1,2813 @@
+{
+  "package": "world",
+  "name": "PT - Comédia Movies",
+  "groupIndex": 436,
+  "totalChannels": 561,
+  "channels": [
+    {
+      "name": "PT: Curral de Moinas - Os Banqueiros do Povo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nPV3vE1tnCBWwufh7NlquYNjhZl.jpg"
+    },
+    {
+      "name": "PT: A Fada do Lar",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/z9IwjN2Z4oQR5CpOq9nrVji83Q7.jpg"
+    },
+    {
+      "name": "PT: Rüyanda Görürsün",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vdxN87J2SdCkeGt2WuF6xSV4ElO.jpg"
+    },
+    {
+      "name": "PT: Tudo Isto é Fado",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/seaqA6RN0SuU5vcLKwgpLr7x9xl.jpg"
+    },
+    {
+      "name": "PT: Old Dogs",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kBGqhumfOuDCpIErICWPHcXNvah.jpg"
+    },
+    {
+      "name": "PT: Cambio tutto!",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/4U9m5Os17ohx0jU16krXthvw1xQ.jpg"
+    },
+    {
+      "name": "PT: Olha Quem Fala",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jP8QnZuXezD8I1eBGDwYZPU2Efp.jpg"
+    },
+    {
+      "name": "PT: O Panda do Kung Fu: Os Segredos do Pergaminho",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/A1zrNJr9b56p6TxTeXGlKnUV6t6.jpg"
+    },
+    {
+      "name": "PT: O Candidato Honesto 2",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1bbM1DuAlaoxWxhDGiVnfH2ubMc.jpg"
+    },
+    {
+      "name": "PT: Shazam",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/b5jbUHQ7DRHYbbKFR40d2kyr2zV.jpg"
+    },
+    {
+      "name": "PT: Regresso a Halloweentown",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Mmp6EbWACGPIqdA6b6TYsUA3TN.jpg"
+    },
+    {
+      "name": "PT: Christopher Robin",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zTlGXx2A1JwdaLvLQXmb0lYBdDt.jpg"
+    },
+    {
+      "name": "PT: Jumanji: O Nivel Seguinte",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg"
+    },
+    {
+      "name": "PT: Norbit",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sExfA7YUSXQJRGmOZ9v52lxd16I.jpg"
+    },
+    {
+      "name": "PT: The Loop",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jL6txnziFSeEifQkqnPBtaPaiXU.jpg"
+    },
+    {
+      "name": "PT: O Buscador",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zpeJyyX6panT3IiKFrEFwJ6oxRL.jpg"
+    },
+    {
+      "name": "PT: Enkel für Anfänger",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/lmNUnDSxVgNbC5jDBzliK4eh7jx.jpg"
+    },
+    {
+      "name": "PT: Catfight",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/j3kLVDNJlU6IIMmtMmFjtSBat7y.jpg"
+    },
+    {
+      "name": "PT: Vigarices a Dobrar",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/x7u85jbkrHGV6sPrV6Y6A3wez90.jpg"
+    },
+    {
+      "name": "PT: Infamous",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iJolHGjHnBDIJuIRDTOj8PGqcok.jpg"
+    },
+    {
+      "name": "PT: Nate: A One Man Show",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9qlU4IocPnu8NYM6NJBOGhgvyEN.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: Um Natal Muito Atrapalhado",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/biXaoEHitB8v5tkQJUjDNx6Z1fn.jpg"
+    },
+    {
+      "name": "PT: Buffaloed",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zutA6VGSDIXhLMqAuGs8LhGfO6r.jpg"
+    },
+    {
+      "name": "PT: Tô Ryca!",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oB7hflIVj3gKGB2R4gtnx5mHFyU.jpg"
+    },
+    {
+      "name": "PT: Nudes",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jaek64htZEdFco7317VzBcpz7c7.jpg"
+    },
+    {
+      "name": "PT: No Gogó do Paulinho",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qmCAciCurvDWZJY8wo3lvo9S9b2.jpg"
+    },
+    {
+      "name": "PT: Minha Mãe é Uma Peça 3: O Filme",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg"
+    },
+    {
+      "name": "PT: A Rosa Azul de Novalis",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fBzmfJXFhG5gxQWFfGrAKvt46M6.jpg"
+    },
+    {
+      "name": "PT: Primos",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mPZj6Uym4xCxADxkuWSKKEV5azf.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: O Hotel Mágico",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ggVEV9z7k3Fd2DqnDiSudVCgCU3.jpg"
+    },
+    {
+      "name": "PT: Não Vamos Pagar Nada",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0izXc21pFtf98dwiiudIGmm4lX.jpg"
+    },
+    {
+      "name": "PT: Beast Mode",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mfwtlayvpMCz4Kr4WTpotfxhiE8.jpg"
+    },
+    {
+      "name": "PT: Robin Williams: Come Inside My Mind",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ak9DZnzInl9oIUlXxsFsUd37ueh.jpg"
+    },
+    {
+      "name": "PT: Eu Sou Mais Eu",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8crHQVVD8KfTxl7VeImVBEjG9Ei.jpg"
+    },
+    {
+      "name": "PT: Ladrões de Tuta e Meia",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cpTxK16MVLpB9RgDOEAjGohcE12.jpg"
+    },
+    {
+      "name": "PT: 10 Days In Sun City",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ghLfQZ7ngsYlWk1M6CNHrHgpIiZ.jpg"
+    },
+    {
+      "name": "PT: 10 Regras Para Um Relacionamento Aberto",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/dX8IMDXbVWJ7fq0AX0efog1SMX5.jpg"
+    },
+    {
+      "name": "PT: 15 August",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ljlTv2QEr7veniFMGADrzSgpmAy.jpg"
+    },
+    {
+      "name": "PT: 2 Dias Em Nova York",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/tK6G639JfQV36WRr9wTu1D9iZRg.jpg"
+    },
+    {
+      "name": "PT: 28 Dias",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ph8BaYRcgZqeDryd3tdZu9yrMzX.jpg"
+    },
+    {
+      "name": "PT: 7 Pecados Rurais",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cgbYWBAVmKkxC7WzIWktV5ekvgH.jpg"
+    },
+    {
+      "name": "PT: A Canção de Lisboa",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pBaaNgZU89MRYsl6POuqzFhCYOm.jpg"
+    },
+    {
+      "name": "PT: Tudo Para Ficar Com Ele",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nzoZlFQAfleU2YhAI36RgL9r1jh.jpg"
+    },
+    {
+      "name": "PT: A Comédia Divina",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nST3Dq2SRGDqj4IZCmlmKHulXWt.jpg"
+    },
+    {
+      "name": "PT: A Dama e o Vagabundo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qXgDAfHX4eBFUZnOG4C6cn0pbuT.jpg"
+    },
+    {
+      "name": "PT: A Datilógrafa",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/38VTklqmhtfmk9Hcykrw54r8h1x.jpg"
+    },
+    {
+      "name": "PT: Le hérisson",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/z6SsJkC3ELgNjAKgnMkEdAKd1e2.jpg"
+    },
+    {
+      "name": "PT: A Família Addams",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/lppFgN1ujhKlGgDahBhy7lOFHUs.jpg"
+    },
+    {
+      "name": "PT: A Futile and Stupid Gesture",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/rrZ557e02py4gztOUsXKl00vdz1.jpg"
+    },
+    {
+      "name": "PT: Bee Movie - A História de uma Abelha",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/dC0f3uld9Ea51QzlLleSFxWy2Hw.jpg"
+    },
+    {
+      "name": "PT: A Home with a View",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wOMFzaD18ZUb5xHKhoMmdZ1ArF2.jpg"
+    },
+    {
+      "name": "PT: O Trapalhão na Ilha do Tesouro",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/azrBKuXCdKAIfg7P60SS3RhnEXB.jpg"
+    },
+    {
+      "name": "PT: Um Funeral em Família",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1VxYsfaNTglHFL0hqgJGeXv0JOz.jpg"
+    },
+    {
+      "name": "PT: A Mãe É Que Sabe",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/g1hD8B1VBaybXh8C2QRAptbX8lh.jpg"
+    },
+    {
+      "name": "PT: A Menina da Rádio",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iWsZm7OHzIUNksgSvEpq3NMQSok.jpg"
+    },
+    {
+      "name": "PT: A Minha irmã Invisível",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nAnDgsO68q4XrjOXalVrARKsp4B.jpg"
+    },
+    {
+      "name": "PT: A Mulher Invisível",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zMvgFdnpWp9BKyUUvbTdOCDchNN.jpg"
+    },
+    {
+      "name": "PT: A Noite do Espanto - Parte 2",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/whMgDO52v23QeWhMyDki5a3mgpu.jpg"
+    },
+    {
+      "name": "PT: A Outra Caixa (2016)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mg12G6Dq4k077DXOZYjp0aujPmx.jpg"
+    },
+    {
+      "name": "PT: Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/znAUgmoJKXDrCzkju51zyhtTZeN.jpg"
+    },
+    {
+      "name": "PT: The Promotion",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jlxlLsk6cP81Bdqm25UHRBQKNW6.jpg"
+    },
+    {
+      "name": "PT: A Redea Solta - Os Doze Presentes De Natal",
+      "group": "PT - Comédia Movies",
+      "logo": "https://filmes-online.pt/media/28/zoe-e-raven-os-doze-presentes-de-natal_81001412.jpg"
+    },
+    {
+      "name": "PT: A Todos os Rapazes que Amei",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ghcDEzN43GGUxduTJgNhKDn6a3I.jpg"
+    },
+    {
+      "name": "PT: A Verdadeira Treta (2008)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AQ709TlqkXKIAMimsXsFFIMrsY.jpg"
+    },
+    {
+      "name": "PT: O Natal Maluco de Harold e Kumar",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/VhAAJ3CWQrlvxUhDnkuWdqY3gI.jpg"
+    },
+    {
+      "name": "PT: A Vida de um Campeão",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/26lLdJ8IG5EfzJwusx2DpfsuwLf.jpg"
+    },
+    {
+      "name": "PT: Apesar de Tudo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hO8Pt1AJ43JjAHmzZ5TTycs0MDs.jpg"
+    },
+    {
+      "name": "PT: A Última Famel",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kDG3CF8xcb4yp2NuTrdvWxKsQ92.jpg"
+    },
+    {
+      "name": "PT: A.C.O.D.",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iU5DZVXV8br0dnYl0ngu1Ih5WaS.jpg"
+    },
+    {
+      "name": "PT: Ponto de Ação",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg"
+    },
+    {
+      "name": "PT: Adam Sandler: 100% Fresh",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ykIpbOWvqx3Jz6oMFss5ldIVkfU.jpg"
+    },
+    {
+      "name": "PT: Addicted To Fresno",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/lrzRVg6VVHcSMyWpbUFBRKnTeQk.jpg"
+    },
+    {
+      "name": "PT: Agradar, Amar e Correr Depressa",
+      "group": "PT - Comédia Movies",
+      "logo": "https://imagens.publicocdn.com/imagens.aspx/714742?tp=KM"
+    },
+    {
+      "name": "PT: Ai Que Vida!",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/81mkDEy4uEIVTep0PWcn46qYHzC.jpg"
+    },
+    {
+      "name": "PT: Aldeia da Roupa Branca",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/3CtdXL3UrIdqsWsH1iTe245goYf.jpg"
+    },
+    {
+      "name": "PT: Alex Strangelove",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6OemqmvthXswt5KFmtXBCMMloJ4.jpg"
+    },
+    {
+      "name": "PT: Alguém Como Eu",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pfSjQvdAZxKCSq7t2rzAGxYoPCb.jpg"
+    },
+    {
+      "name": "PT: Ali Wong: Hard Knock Wife",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6M3dPVWt9I9R3zIv3NGFLqkbegu.jpg"
+    },
+    {
+      "name": "PT: Tem Alienígenas no meu Quarto",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/25KcoQPWwftvPzRRGGFB3I8Cnx8.jpg"
+    },
+    {
+      "name": "PT: All",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/o5JwaP07fgkNhl7DEHRxRjPBE9T.jpg"
+    },
+    {
+      "name": "PT: Amar. Casar. Recomeçar.",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8HmGeaNdzKRX9O1farSm3bBwciD.jpg"
+    },
+    {
+      "name": "PT: American Ultra: Agentes Improváveis",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bi2MCDYvrZQPf1uXyvfVYPE57Mz.jpg"
+    },
+    {
+      "name": "PT: Ammore e malavita",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/49q4CTKlHX5Y8pzSsr27akt6lhR.jpg"
+    },
+    {
+      "name": "PT: Amy Schumer: Growing",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zZJYPkiCI0PFv8tUc8qViyC2oKx.jpg"
+    },
+    {
+      "name": "PT: Ana",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bYHxq8yNLTr7LZP2wBjpMPkW6EV.jpg"
+    },
+    {
+      "name": "PT: Andhadhun",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg"
+    },
+    {
+      "name": "PT: Andover",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vTfIj7hk2GktMDfE8d98AIsDtz0.jpg"
+    },
+    {
+      "name": "PT: Anna e o Apocalipse",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xNcIsTzSjWKvn9se2gcSOupzWeW.jpg"
+    },
+    {
+      "name": "PT: Another WolfCop",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/amvOMZgMGCg7sxScBJZOFdirlqD.jpg"
+    },
+    {
+      "name": "PT: Antar Ibn Ibn Ibn Shaddad",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wagvCjqRZVpqCp3VpYfdzJ2SCCE.jpg"
+    },
+    {
+      "name": "PT: Aqui Há Gato!",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/i457G22lL9t2yhEFdYz5Nd1M5DV.jpg"
+    },
+    {
+      "name": "PT: Arizona",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sLqutab3wuUfPBu27rXcoaEd6WD.jpg"
+    },
+    {
+      "name": "PT: Exército de Um Homem Só",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/itgKDJFcOrcl3heVcYmkV11j0tS.jpg"
+    },
+    {
+      "name": "PT: As Aventuras do Dr. Dolittle",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ll0CP1o1pa99yntJUrwiEl8XD5.jpg"
+    },
+    {
+      "name": "PT: As Novas Aventuras de Aladino",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/eLEV9gEKQaR2qso3d3QRydlOrLf.jpg"
+    },
+    {
+      "name": "PT: As Vigaristas do Sexo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/p3hRmgKBrIevsFf4kQDV2g5D1H9.jpg"
+    },
+    {
+      "name": "PT: Bandidos",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hjhiwnIWwN6Vs8CyewS2MczapsB.jpg"
+    },
+    {
+      "name": "PT: Todos Para Sul",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bbgOLOhb1ngWb5YHJncCzK02Bdk.jpg"
+    },
+    {
+      "name": "PT: Bad Therapy",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/4dXeF33A7tlWggztDfyTYUmq8Zy.jpg"
+    },
+    {
+      "name": "PT: Bad Trip",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8wGq9UpJ85irxQcEmSxiQH4Z3ta.jpg"
+    },
+    {
+      "name": "PT: Baja",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9EVbnMh0YRZaarjW3tA7iexLDAc.jpg"
+    },
+    {
+      "name": "PT: Balas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/eNZ8yUl1PydQTAGJuAtL96WEly4.jpg"
+    },
+    {
+      "name": "PT: Road to Bali (1953)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGMKGeTbf610pKsAQ15AB2cVuet.jpg"
+    },
+    {
+      "name": "PT: Bangla",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5v1oSJZgsj7W3334GQX34fbdIWh.jpg"
+    },
+    {
+      "name": "PT: Beatriz at Dinner",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/obOhjpLQ720cdJMdhprOLBMrJI1.jpg"
+    },
+    {
+      "name": "PT: Bem-Vinda a Quixeramobim (2022)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vdr6W7bs8LJMOGgwIJiAQUfG3Q.jpg"
+    },
+    {
+      "name": "PT: Benny",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/50T1xbtuNKPPbEGrLQeRG4FDdPd.jpg"
+    },
+    {
+      "name": "PT: Bert Kreischer: Hey Big Boy",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fHE0eH64mNqSHxMv2x6C3YKCy9X.jpg"
+    },
+    {
+      "name": "PT: Best F(r)iends: Volume 1",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pJScjayJpp6t539HC6hdTgsTuA7.jpg"
+    },
+    {
+      "name": "PT: Between Two Ferns: The Movie",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cHxc8v1GkzdjjhF2qnpG6wdXrOT.jpg"
+    },
+    {
+      "name": "PT: Big Time Movie (2012)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIFqLhlK8fhYnBCrrYedKHTzlhg.jpg"
+    },
+    {
+      "name": "PT: Bigfoot e Seus Amigos",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/7qqJ3gcYFmV29Gq7xT8g5Pj4WaH.jpg"
+    },
+    {
+      "name": "PT: Bigger Fatter Liar (2017)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6jMDEIebIHpZKePOZzhlEDeROW.jpg"
+    },
+    {
+      "name": "PT: Bill Burr: Paper Tiger",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zho1ypBSxia3bHCSeB4Znpzh7nM.jpg"
+    },
+    {
+      "name": "PT: Bingo - O Rei das Manhãs",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6tFYnSI4a5r9RVig0cOXba67v9T.jpg"
+    },
+    {
+      "name": "PT: Birthmarked (2018)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfxSYqFbjdbzv7Z8IonyB0h8ezA.jpg"
+    },
+    {
+      "name": "PT: BlacKkKlansman: O Infiltrado",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg"
+    },
+    {
+      "name": "PT: Blackadder",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5SiKQcwWXSmVQBXTjOkqYSy1guv.jpg"
+    },
+    {
+      "name": "PT: Blindspotting (2018)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4DRZfTqOlmzNWAvy4vcKWkgEGL.jpg"
+    },
+    {
+      "name": "PT: Blockbuster",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2yf1tZYBW0xFBtH09u2Rys54DAj.jpg"
+    },
+    {
+      "name": "PT: Blood Fest",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oglP0iKN7PXXzPny7jEuPqHIczg.jpg"
+    },
+    {
+      "name": "PT: Bodied",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/l3Fx4jRr5Y7aCdookIIN2hR4vlw.jpg"
+    },
+    {
+      "name": "PT: Bombairiya",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cWXVQMhOZpMPFsR7Ea2dGO7aEwH.jpg"
+    },
+    {
+      "name": "PT: Book of Monsters",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2yTwzpgMFteCVpNqFbNyDQyyLjv.jpg"
+    },
+    {
+      "name": "PT: Boundaries",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2SqQITP3CONmmiy1sx5z1z0RKog.jpg"
+    },
+    {
+      "name": "PT: O Estado das Coisas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/45OzWnoHbQA4JXiLQBwJeaotfeG.jpg"
+    },
+    {
+      "name": "PT: Bridget Jones's Baby (2016)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k703Pb5C0NsLvXPgFk8kAKnLylq.jpg"
+    },
+    {
+      "name": "PT: Bucha",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg"
+    },
+    {
+      "name": "PT: The Grand Budapest Hotel",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9bFFixCXZ53AKMpzbvygFVJ0ZLL.jpg"
+    },
+    {
+      "name": "PT: Café e Cigarros",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/myLbZRsgRVyfj1luCvUcgB9cjGs.jpg"
+    },
+    {
+      "name": "PT: Café Society",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/lTxL70gyzcL3iMTFRjtiGroATyJ.jpg"
+    },
+    {
+      "name": "PT: Can You Ever Forgive Me?",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5FcFLK1Cb4x3KDCjjpBPJuRWb7T.jpg"
+    },
+    {
+      "name": "PT: Doce Argumento",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/u9PG1LG0zLnl6QQxw4WoRJEroXF.jpg"
+    },
+    {
+      "name": "PT: Capitão Falcão",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qf4BQq1tuKhqrXSwhzyaQP3xoDW.jpg"
+    },
+    {
+      "name": "PT: Capitão Fantástico",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/t4UH0AJql4paQMq4Dlg1gk2tqhk.jpg"
+    },
+    {
+      "name": "PT: Carrossel - O Filme",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/7mFT1RnjzI83o65kh6NRsg2P8V8.jpg"
+    },
+    {
+      "name": "PT: Chacrinha, o Eterno Guerreiro",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9h0B8b7OBFDoC32ilJSPOSZQMpa.jpg"
+    },
+    {
+      "name": "PT: Chacrinha: O Velho Guerreiro",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gc7etlrBltoFNOdkVhaQeCyxWOi.jpg"
+    },
+    {
+      "name": "PT: Breakfast of Champions",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nshApUssXnCvLIuK4Sehpty8BY9.jpg"
+    },
+    {
+      "name": "PT: Doze é Demais 2",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hJtbh5Mr0xfgWcwGZkrlWFrPLaB.jpg"
+    },
+    {
+      "name": "PT: Chef",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/szggiHnascY4NzMX9QozuN0QBSv.jpg"
+    },
+    {
+      "name": "PT: Chief Daddy",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xXPTMbyZL5h176JhWKW5oGxiKYy.jpg"
+    },
+    {
+      "name": "PT: Chocante",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/dokMmYTOzQVChqUrYNnGDm9TwWk.jpg"
+    },
+    {
+      "name": "PT: Chorar de Rir",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/4JC24Qczhu5pOopBU4zqWSGfEnX.jpg"
+    },
+    {
+      "name": "PT: Chris Rock: Tamborine",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pf9fQsDY2HvCsSQ6ObYBkMsdo5.jpg"
+    },
+    {
+      "name": "PT: Cicha Noc",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qEJsuFtYkXWVEa0Nvf90VjAZNOI.jpg"
+    },
+    {
+      "name": "PT: Cinderela Pop",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/uL0TrrV5MHQFkwRxlho0dDKTwvm.jpg"
+    },
+    {
+      "name": "PT: Cine Holliúdy",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/rvTLvv9hxJEcdLfbhOWtZP7swkh.jpg"
+    },
+    {
+      "name": "PT: City Island - Segredos à Medida",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nobKb2G6yVprYkwwYS8BmQrzguA.jpg"
+    },
+    {
+      "name": "PT: Clickbait",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/g7x0H6stB1K5BrPuqcjMUV4XVMM.jpg"
+    },
+    {
+      "name": "PT: Cold War",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/k01APCskM3HW3x4BE0enFY4j2Cz.jpg"
+    },
+    {
+      "name": "PT: Comédia InAPPropriada",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/b4A165Pej83phY9PklhpNBpDxmv.jpg"
+    },
+    {
+      "name": "PT: Comedy Central Roast of Bruce Willis",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cvNdyLvmyfEiKfKV5kFAaIlNNCU.jpg"
+    },
+    {
+      "name": "PT: Como Se Tornar o Pior Aluno da Escola",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/olRSTQXTNRPwIUIjbeVs5LGrYGC.jpg"
+    },
+    {
+      "name": "PT: Como é Cruel Viver Assim",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9U14Dip0WmvEUMrU8cCcqipoHZF.jpg"
+    },
+    {
+      "name": "PT: Deadtime Stories",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8SeOVZuztvHjEjrxbnSgTzblfAl.jpg"
+    },
+    {
+      "name": "PT: Cook Up a Storm",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jHMVa4VWLxggvbDo2Ol1ln4obJs.jpg"
+    },
+    {
+      "name": "PT: Podres De Ricos",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kYqS2lRNNAhSHpTWGMCHfBlzjTz.jpg"
+    },
+    {
+      "name": "PT: Crimes e Escapadelas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6vC6MLYUICH57MmEVi1UaNaj2Qs.jpg"
+    },
+    {
+      "name": "PT: Crô em Família",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/i3hfC09ov7ozxAwbof8IwcahYUi.jpg"
+    },
+    {
+      "name": "PT: Crónicas de Natal",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/yKnSdQ0hjc9e6LG1e9r5EvjLfwy.jpg"
+    },
+    {
+      "name": "PT: Cool as Ice (1991)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO0YbAJiMPFMquixdZgbC98I3MP.jpg"
+    },
+    {
+      "name": "PT: D.L. Hughley: Contrarian",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oa86wKpThSQu2yVQNofpdwuLZRp.jpg"
+    },
+    {
+      "name": "PT: Daddy",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/4WW6sV8oWdn1f6KCayfx3whqN5b.jpg"
+    },
+    {
+      "name": "PT: Pai Há Só Um!",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nwnKLn9tiQJwiLKxxKJB8QMUJ2m.jpg"
+    },
+    {
+      "name": "PT: Sob o Sol do Oeste",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/44Z6vp5QGDvlVgptuHSEvlYRk1u.jpg"
+    },
+    {
+      "name": "PT: Dany de Boon - Des Hauts-De-France",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/7Il7OY2k8nIveh7XWThq7JUnBwJ.jpg"
+    },
+    {
+      "name": "PT: Daphne (2017)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z5hfRmasEUeypPczBjW92GzMgb.jpg"
+    },
+    {
+      "name": "PT: Dave Chappelle: Sticks",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hsyPTPoFDhUw5aGcj7dxAx3i1Qp.jpg"
+    },
+    {
+      "name": "PT: Dave Made a Maze",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z5sEOC8Y7bdrg7FmIfNGkNniyX.jpg"
+    },
+    {
+      "name": "PT: De Pernas Pro Ar 3",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/7O75EXzA8sx6gTuCGEvYcG13MYq.jpg"
+    },
+    {
+      "name": "PT: Ricki e os Flash",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2cSyUBeWyQOX7m8BB8y6zPcNB65.jpg"
+    },
+    {
+      "name": "PT: De Volta para Melonia",
+      "group": "PT - Comédia Movies",
+      "logo": "https://media.fstatic.com/Xx0lDuXtg0Kjdms-yhh8Y0CRFJI=/195x289/smart/media/movies/covers/2010/11/db1871445632cc62ef09a4346988ab30.jpg"
+    },
+    {
+      "name": "PT: Dead Shack",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/dAYhnAAoQvyNcsnh5k03GWVwixZ.jpg"
+    },
+    {
+      "name": "PT: Dead in a Week (Or Your Money Back)",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/f4ANVEuEaGy2oP5M0Y2P1dwxUNn.jpg"
+    },
+    {
+      "name": "PT: DeadTectives",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2kLfDWIC0SiakBppsITYkwxlpo.jpg"
+    },
+    {
+      "name": "PT: Dean",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qO5DIwznN6p3ms87ZrStB0pz9EW.jpg"
+    },
+    {
+      "name": "PT: Debaixo do Mesmo Tecto",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jljVoBWPCWKtCsg27CcvdBNF3ec.jpg"
+    },
+    {
+      "name": "PT: Dois é Uma Família",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wn3Sjt1igkXnrpo0wy4NniP3EcJ.jpg"
+    },
+    {
+      "name": "PT: Dennis, o Pimentinha Ataca Novamente",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9AnwwTia1JiQH6lItJ3dSz9onvI.jpg"
+    },
+    {
+      "name": "PT: Derradeira Viagem",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/3V9A6E55krJNDcGhLsYK4YL0Mun.jpg"
+    },
+    {
+      "name": "PT: Deus é Brasileiro",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xBZ3zMmMEWyvOw1Dh97FRF0Pk1p.jpg"
+    },
+    {
+      "name": "PT: Diamantino",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hiSv2UfIjJH9TIbetFuxOgfgshm.jpg"
+    },
+    {
+      "name": "PT: A Pequena Bruxa",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jHLU9j3EplqT5FeDL6JCrlZaQIW.jpg"
+    },
+    {
+      "name": "PT: Divórcio",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zOI81CTgr1ZkDR62RFOTu6mtFrv.jpg"
+    },
+    {
+      "name": "PT: Chamem-me Dolemite",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sZuQkwHEiXxWN3W2Z8cJelKWbRE.jpg"
+    },
+    {
+      "name": "PT: Devil",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/3mX5z3sRgGexEMJ1YoJhpefB4gD.jpg"
+    },
+    {
+      "name": "PT: O Senhor Doutor",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/aRkaHVK8qPuG0ckmp1lgtoFeid1.jpg"
+    },
+    {
+      "name": "PT: Pequena Grande Vida",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8P3Z0UEvx03Iqh8yHD54Tr16Dcv.jpg"
+    },
+    {
+      "name": "PT: Dry Martina",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gA6nTGlDtFdRtGEYHSEBzSJ1Xzy.jpg"
+    },
+    {
+      "name": "PT: Duas de Mim",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jrs1YqNT9HeZfQaXENohXBvIPWS.jpg"
+    },
+    {
+      "name": "PT: Dude – A Vida é Assim",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ac2bAPqL1RI8BMUnjYbxILlgnmR.jpg"
+    },
+    {
+      "name": "PT: Dumplin",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg"
+    },
+    {
+      "name": "PT: A Vida é Bela",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/h8PEObIiYUo4wHGo2qgWge2wqzv.jpg"
+    },
+    {
+      "name": "PT: Eighth Grade",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5cXqKpHo2vydjnaYOGbYrKbqXk8.jpg"
+    },
+    {
+      "name": "PT: El que se enamora pierde",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qJp6ES9hEBGPHM2JoLivmSGn3So.jpg"
+    },
+    {
+      "name": "PT: Em 97 Era Assim",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/lcNOTXZTtKq9stb0T5KgCXvMx0J.jpg"
+    },
+    {
+      "name": "PT: Embargo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fXTllvhOiRLtOlvhsu40vggmytp.jpg"
+    },
+    {
+      "name": "PT: Era Uma Vez um Deadpool",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/l6mbdXVinpYl4pWZ6CkySX6dUZ9.jpg"
+    },
+    {
+      "name": "PT: Eu Fico Loko",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qAB1pfwi92gkblvL4gwoSRuNoSp.jpg"
+    },
+    {
+      "name": "PT: Todos Querem o Mesmo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg"
+    },
+    {
+      "name": "PT: Ghost Killers vs. Bloody Mary (2018)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXChjh6YQFNDH5mUd0A2Fs7DjFE.jpg"
+    },
+    {
+      "name": "PT: F*",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1vh1i0JwSeKs5sD8jamH4dvTmVX.jpg"
+    },
+    {
+      "name": "PT: Family Plan",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5wXWyZn5W8VSIL6nrLUMhMcBZxR.jpg"
+    },
+    {
+      "name": "PT: O Pai Do Ano",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gSzFZXfSrszRwqhBmyjWif8Bhm5.jpg"
+    },
+    {
+      "name": "PT: Children of a Lesser God (1986)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAiJlASIXC306qpqe5NZX2GgVlQ.jpg"
+    },
+    {
+      "name": "PT: Filme B - A Bonequinha da Mamãe (2017)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbEbgvh7YxvcOuETcbjgiZUAKIT.jpg"
+    },
+    {
+      "name": "PT: Filme B - Entre Mortos e Vivos (2017)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/buFygRmKCjOTuorRwtF22rHftvJ.jpg"
+    },
+    {
+      "name": "PT: Filme da Treta",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kqvPVd7VaVc1I8ogbQd9vlgeoco.jpg"
+    },
+    {
+      "name": "PT: Acertando o Passo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kCe2XDCfmZRtBkuJ1QFX1UQ6Az5.jpg"
+    },
+    {
+      "name": "PT: Luta de Profs",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5fyrr1TZ1c92BgpqwldiSwkZcki.jpg"
+    },
+    {
+      "name": "PT: Bem-Vindo à Meia-Idade",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zDETzyiUH9r3OMDioeCs8LZpY50.jpg"
+    },
+    {
+      "name": "PT: Flor Da Juventude",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/h9ebO0DrVMmOX3cx4xK8xpElmPA.jpg"
+    },
+    {
+      "name": "PT: Magal e os Formigas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hl4k1IUSX3kD7lZ7thu6zx1acHs.jpg"
+    },
+    {
+      "name": "PT: Noelle",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+    },
+    {
+      "name": "PT: Frank and Cindy (2015)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvF839EGPWaHwC3jRkLivxvABif.jpg"
+    },
+    {
+      "name": "PT: Frat Pack",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gVNik48a4FbakVUfjMGhbkcsXBu.jpg"
+    },
+    {
+      "name": "PT: Sexta-Feira Muito Louca",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pFJVyQaSgflMoE07ECQGA3vzpP8.jpg"
+    },
+    {
+      "name": "PT: Fright Night 2: New Blood",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cp2959zvia5B3wgsv4pOurHndvb.jpg"
+    },
+    {
+      "name": "PT: Ghoulies",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nPRRp2bGNOhHKbxeZPrrmWqFVfo.jpg"
+    },
+    {
+      "name": "PT: Gabriel Iglesias: One Show Fits All",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bbXeogreIMbpIOGUdRnIlU1rKiG.jpg"
+    },
+    {
+      "name": "PT: Garfield em Férias",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6lEkPT4rmNugWEDvVRwp3krzwkd.jpg"
+    },
+    {
+      "name": "PT: Gente que viene y bah",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ftNFLYiGtKzAyZIwixXXieJUCxA.jpg"
+    },
+    {
+      "name": "PT: Fast Food Nation (2006)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcRgWIj4p6FtezgZTl4YoxYbSJ7.jpg"
+    },
+    {
+      "name": "PT: Ghost Light",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/64AYlt8H9sOP4wg90SahUJzFilH.jpg"
+    },
+    {
+      "name": "PT: Os Caça-Fantasmas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ESJStBUQf4ogoRGoa1aqyf6qXq.jpg"
+    },
+    {
+      "name": "PT: Ghoulies IV",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1KDDamzUKmnYrmlrRzbtmeG91la.jpg"
+    },
+    {
+      "name": "PT: Ladrões Com Muito Estilo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sUP26yq5K8MlRwhAwZ0sklddERD.jpg"
+    },
+    {
+      "name": "PT: Love Shot (2019)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF4S03aT43ZkEOrDiXyA1CNUnrL.jpg"
+    },
+    {
+      "name": "PT: Good Kids",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vQgQjGfISQYP9MpJU0muKHXCmoS.jpg"
+    },
+    {
+      "name": "PT: Gosto se Discute",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/c7NEj5uPMd9r6cS5uAcKxd48Dhf.jpg"
+    },
+    {
+      "name": "PT: Gostosas, Lindas e Sexies",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZSferLm5pYVl9ufYHsazXxEAQl.jpg"
+    },
+    {
+      "name": "PT: Grávida... Mas Pouco!",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nT70zkKkTMUaE83UfxeRDHug5ZZ.jpg"
+    },
+    {
+      "name": "PT: Hannah Gadsby: Nanette",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xyDapdXEqic7pkLFvvvEW5dI3or.jpg"
+    },
+    {
+      "name": "PT: Hari Kondabolu: Warn Your Relatives",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/w8Kj9At2DwcoPoMFuUnoy12AWje.jpg"
+    },
+    {
+      "name": "PT: Harith Iskander: I Told You So",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2A5yhcjfsSMnfhnkKWRBKOgG9Js.jpg"
+    },
+    {
+      "name": "PT: Hedwig - A Origem do Amor",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/anfnUsRpCWJulfwauAWxZiMsRmt.jpg"
+    },
+    {
+      "name": "PT: Guilherme Duarte: Por Falar Noutra Coisa",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/n6wqrnDhyXxS3UYPtJuqQ6UEwub.jpg"
+    },
+    {
+      "name": "PT: Francês Ha",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/txUhdN9ijwxx5bWpYMtsDjav10s.jpg"
+    },
+    {
+      "name": "PT: Hilfe, ich habe meine Eltern geschrumpft",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qTD3ErhG3NlS6vV3PXZ0mxyRfsW.jpg"
+    },
+    {
+      "name": "PT: La Odisea de los Giles",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zoNcp56MfZdydVcxPRLEgsv9Mmy.jpg"
+    },
+    {
+      "name": "PT: High Society",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/3oOYKdgeU8yUPTAAtHUd9ynCmUf.jpg"
+    },
+    {
+      "name": "PT: Hindi Medium",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/laYowJmKFM0HjKGuTwUSSPo4Xci.jpg"
+    },
+    {
+      "name": "PT: Fábrica de Loucuras",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sxnlQEb8dugTFK2KyFrq3iv3bHn.jpg"
+    },
+    {
+      "name": "PT: Holiday Rush (2019)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccL8XtMJSAl5VRoOdyKn7Cd0QA2.jpg"
+    },
+    {
+      "name": "PT: Uma Casa Cheia",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cYtSGwqq5fbfYckCqYplchg3MCo.jpg"
+    },
+    {
+      "name": "PT: Sozinho em Casa 2 - Perdido em Nova Iorque",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nnLldrxLB4mDlZGAd5s4KfIVg4R.jpg"
+    },
+    {
+      "name": "PT: Sozinho em Casa 3",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jhWdLN2W6xZRgym1jruhjDvZfDQ.jpg"
+    },
+    {
+      "name": "PT: Soul Men",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sMogRKA7hUsugpxPouvwoQiaA6f.jpg"
+    },
+    {
+      "name": "PT: House II: The Second Story (1987)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7oeP88diI9mUyaOX2vyoncBozB.jpg"
+    },
+    {
+      "name": "PT: Hurricane Bianca: Da Rússia com ódio",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/uNgzRqZg24SoMV6laY8BL77UlMC.jpg"
+    },
+    {
+      "name": "PT: Eu Não Sou um Homem Facil",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/4zNw5nVeQkdj3HS82HRBRkQXbvf.jpg"
+    },
+    {
+      "name": "PT: I Do... Until I Don",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fF1ezP8NSxApAI97JUcMDwfNSn5.jpg"
+    },
+    {
+      "name": "PT: Já Não Pertenço a Este Mundo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7RLIppO4PJhUQn2897GyHecdWj.jpg"
+    },
+    {
+      "name": "PT: Sexy por Acidente",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zAVxVGlxWFOV9ae4hPh9eau2PDk.jpg"
+    },
+    {
+      "name": "PT: Ibiza",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ml0RD4YEycTKAGiHuFyaMd96FYn.jpg"
+    },
+    {
+      "name": "PT: If I Were You",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/3ailoLxnLabN3Dj5nVpy25iMrOD.jpg"
+    },
+    {
+      "name": "PT: Iliza Shlesinger: Elder Millennial",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/3jBX5ev8yjKIQbIeclt7KcSL2rj.jpg"
+    },
+    {
+      "name": "PT: Iliza Shlesinger: Unveiled",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/dZellJcKfqIFKgZ10gzMC3Ompyj.jpg"
+    },
+    {
+      "name": "PT: In a Relationship",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gStQtKWyHxEnLUrKNPHcs4DpbRK.jpg"
+    },
+    {
+      "name": "PT: International Falls",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/16dhaqcsbSbzxytxI6tuDe058sI.jpg"
+    },
+    {
+      "name": "PT: Internet Famous",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8YhNTVi3FVyqoKUCdZNWLYAdtjd.jpg"
+    },
+    {
+      "name": "PT: Iznogoud",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bXrsjV1GPzvQq6bhINom9V8O16g.jpg"
+    },
+    {
+      "name": "PT: Izzy Gets the F*ck Across Town",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/PB9GF6RkDNVPhuk4hl1WICeomU.jpg"
+    },
+    {
+      "name": "PT: Jack e Jill Contra o Mundo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xbwMLHVFP35h1u151Rrl168dYYR.jpg"
+    },
+    {
+      "name": "PT: Jamaica Abaixo de Zero",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2Kh8pwKysLic3iaFvOdKBsDFZG9.jpg"
+    },
+    {
+      "name": "PT: James vs. His Future Self",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2lH5nlFfsQifGKEYAYyZBxTXyIw.jpg"
+    },
+    {
+      "name": "PT: Jim Jefferies: Freedumb",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pveFZQKiUomWAxXu65zGSwiKoKD.jpg"
+    },
+    {
+      "name": "PT: Jiminy Glick in Lalawood",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/solzUBVwgMtdQRTQtBV56VPFZSy.jpg"
+    },
+    {
+      "name": "PT: Jimmy Carr: The Best of Ultimate Gold Greatest Hits",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wnBc9cG5ZzlqfgUw6wTVm9MH6kC.jpg"
+    },
+    {
+      "name": "PT: Jo Koy: Live from Seattle",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wKEGwRmv7mAPaQ00bpIPvr8KROq.jpg"
+    },
+    {
+      "name": "PT: Jogo da Apanhada",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/3h6I8EZkN8W8RkYekuJiOcA3XDv.jpg"
+    },
+    {
+      "name": "PT: John Mulaney",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/rP8knLNDHN6VlUi89nWuqaWUdoo.jpg"
+    },
+    {
+      "name": "PT: John Mulaney: Kid Gorgeous at Radio City",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fERO7sktbElVbGS1SGDKzQJWxtn.jpg"
+    },
+    {
+      "name": "PT: Johnny English Volta a Atacar",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cnchtu8rXPFAkvii9WC4htmt9CZ.jpg"
+    },
+    {
+      "name": "PT: Josie and the Pussycats",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vvKAoWj1kxj8tofpktatJ2D9w91.jpg"
+    },
+    {
+      "name": "PT: Juliet, Nua",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/91NEnbtc1mYrgB2oTafGdABy5og.jpg"
+    },
+    {
+      "name": "PT: Jungle 2 Jungle",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/dOTtdHNmdKaE8GrC6arlZA08o7h.jpg"
+    },
+    {
+      "name": "PT: Katt Williams: Great America",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6p9W1Ppd8YEVcNHrSWnGcQoqXil.jpg"
+    },
+    {
+      "name": "PT: Ken Jeong: You Complete Me, Ho",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hAJJwaHuEj8dF82Bb0VSwigvCw1.jpg"
+    },
+    {
+      "name": "PT: Kevin Hart",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg"
+    },
+    {
+      "name": "PT: Kevin Hart: Irresponsible",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fpFsj2IQekSi9cjOlRyBiIoLBY4.jpg"
+    },
+    {
+      "name": "PT: Dave Chappelle: Killin",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xQAwaRVkaYtgEbFzsUrYzduJsOd.jpg"
+    },
+    {
+      "name": "PT: O Rei de Staten Island",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg"
+    },
+    {
+      "name": "PT: A Voz da Lua",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/A7bjDjeMuCUW8SEsZiyGSTjQg0v.jpg"
+    },
+    {
+      "name": "PT: La Belle Époque",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zofCXkSIruI8PsTWKiONIa2RI57.jpg"
+    },
+    {
+      "name": "PT: Ladies in Black",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fOOffEUdqjslx9u5WyCEL2WqsER.jpg"
+    },
+    {
+      "name": "PT: Landline",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2J8VR4OecoqdCqjT3A9f01h6fZZ.jpg"
+    },
+    {
+      "name": "PT: Late Night",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xxwb5KBqS0SHsUcyLgWMk3vuVxY.jpg"
+    },
+    {
+      "name": "PT: Le monde est à toi",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/u09SXhszZ9nfoexu6TI4ZlmwDAK.jpg"
+    },
+    {
+      "name": "PT: Lez Bomb",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/tBiZAkXngPoT80iWxUI9ebSBXli.jpg"
+    },
+    {
+      "name": "PT: Alma da Festa",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kgHRznD5Zs1VAGykQ7oF7D3Rcm2.jpg"
+    },
+    {
+      "name": "PT: Like Father",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/myIqVgGUEgIMFdD752azAak8rQ3.jpg"
+    },
+    {
+      "name": "PT: Little Evil",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/o05HsLCfghb0XqGgnqtmF5yTSX3.jpg"
+    },
+    {
+      "name": "PT: Pequenos Monstros",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wXluEUAs53EZw2wtoyLOGAD6rVg.jpg"
+    },
+    {
+      "name": "PT: Vivir dos veces",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wNEiyhz0dQum37K0NyWf3a1ZDKr.jpg"
+    },
+    {
+      "name": "PT: Lommbock",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zVWcpJDmN3rudl2OKUE4DACzQS8.jpg"
+    },
+    {
+      "name": "PT: Lost in London",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/z4Q6AZH6ZpcIy1QtVS2oXuzPO82.jpg"
+    },
+    {
+      "name": "PT: Love per Square Foot",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hELQ0htEiE0NHWvmVrPZ4sSrkBF.jpg"
+    },
+    {
+      "name": "PT: Lucky Luke",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9WKOvK0LZuUmE0rgs7Xl7s2FPeR.jpg"
+    },
+    {
+      "name": "PT: Luna Papa",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/k4GCxO2M0qIeRp3bhfPVhe9yJaY.jpg"
+    },
+    {
+      "name": "PT: MIB: Homens de Negro - Força Internacional",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg"
+    },
+    {
+      "name": "PT: Jogada de Mestre 2: Totalmente Radical",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vJGYu6ZcGuJpWTf6LtDhFtxjuEw.jpg"
+    },
+    {
+      "name": "PT: Macunaíma",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ib1oitnYGp9Cl5AWddrtaJ8X90.jpg"
+    },
+    {
+      "name": "PT: Made in Italy",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9auhUl9txZvtlDIxkK5njUKtk3e.jpg"
+    },
+    {
+      "name": "PT: Malapata",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/q3js3Zexz5EDOaAvL9vm4FsPwzv.jpg"
+    },
+    {
+      "name": "PT: Malasartes e o Duelo com a Morte",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/A7wR2bxwQfiFJJqw8G4YMBtjpSv.jpg"
+    },
+    {
+      "name": "PT: Maré de Azar",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cjen0vxjybwItQPH3NNCJuME2MY.jpg"
+    },
+    {
+      "name": "PT: LAventure des Marguerite",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/dneHtelc4qqqOJzzaGzpixjA88W.jpg"
+    },
+    {
+      "name": "PT: Maridos à Água",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/f7AbYjGQGnJw5L0xC61bnlPYl7m.jpg"
+    },
+    {
+      "name": "PT: O Regresso de Mary Poppins",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg"
+    },
+    {
+      "name": "PT: Mascots",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1RLPYhfCASgTx5HBntN0Xc8TSJF.jpg"
+    },
+    {
+      "name": "PT: Material Girls",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/rXqt8GxcJcOGmJhdwXPZ8YUMtQa.jpg"
+    },
+    {
+      "name": "PT: Matilda",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/anKGylXCQ8NUv41TusuxIxbA06i.jpg"
+    },
+    {
+      "name": "PT: Mau Mau Maria",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/o168O5miZpz0c4ZmFnoLy4ozODO.jpg"
+    },
+    {
+      "name": "PT: Men with Brooms",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/w2HftVv0kEgSEAfQ0fnbMi53yyK.jpg"
+    },
+    {
+      "name": "PT: Onde Está a Vovó? - Coloquei a avó no freezer",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xxMXxMHOvJszWpp9idxMXmw2K7f.jpg"
+    },
+    {
+      "name": "PT: Escola: os Piores Anos da Minha Vida",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/72CpA16HcU0fK4XrDzPlhKdMmq4.jpg"
+    },
+    {
+      "name": "PT: Mulheres Procuram-se Para Ir a Casamento",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bsvGCy1N1JSZ1rcaCgz518qz5Jn.jpg"
+    },
+    {
+      "name": "PT: Minha Vida em Marte",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5jFmp5RmaBAY0LoEYZb4KDp0GZc.jpg"
+    },
+    {
+      "name": "PT: Mo Amer: The Vagabond",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/heNInp9sT78QVWH36NEG1cvCqhL.jpg"
+    },
+    {
+      "name": "PT: Mortadela e Salamão: Missão Não Possível",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/q3OKhXgSNTMDfRU7gexr3r5eUII.jpg"
+    },
+    {
+      "name": "PT: Stage Mother",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bk58RjuXhQSLUDvcdgtpeoMI77c.jpg"
+    },
+    {
+      "name": "PT: Um Avô Muito à Frente",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/3OxvnE2mvA1tkhdkHTSHl16kl0u.jpg"
+    },
+    {
+      "name": "PT: Mulheres Alteradas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ynauMHrCs9KIZx5tTPf0LFYSdp6.jpg"
+    },
+    {
+      "name": "PT: Potiche - Minha Rica Mulherzinha",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/tJzOWQzImJnkCQXXD9tLJM651EH.jpg"
+    },
+    {
+      "name": "PT: Murilo Couto - Eu, eu, Murilo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jKRBijMI5yR4kwNSWXFRasYUkvC.jpg"
+    },
+    {
+      "name": "PT: A Passagem",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ohFgl7yIrnaqptUdsXDXLKPdHGt.jpg"
+    },
+    {
+      "name": "PT: Mi obra maestra",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/d4ihi2TPPVEGU6JwhyfhyYORq2Z.jpg"
+    },
+    {
+      "name": "PT: Não Se Aceitam Devoluções",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2I7tRFLss54Kjyq9p0gPf74lXXo.jpg"
+    },
+    {
+      "name": "PT: Não Te Preocupes, Não Irá Longe a Pé",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5M8LjtjPamwSkbp3SWye8Xb1dkz.jpg"
+    },
+    {
+      "name": "PT: Natale a 5 stelle",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zidRgKuxNHOvc3lXANwhZPKgws0.jpg"
+    },
+    {
+      "name": "PT: Nefta Football Club",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wRa0zStfGUA345pdz4h2E3OxNzP.jpg"
+    },
+    {
+      "name": "PT: Má Vizinhança 2",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/n7fD88Zdowjcvd6IkwjD8ijxQ5P.jpg"
+    },
+    {
+      "name": "PT: Nekrotronic",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zT0G9rNziv26mx5Q2QS1ecwzaQ6.jpg"
+    },
+    {
+      "name": "PT: Nicky Larson et le Parfum de Cupidon",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gVKfVxoHE34nUUoehs0shNzpEVe.jpg"
+    },
+    {
+      "name": "PT: A Turma da Noite",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kM3QlCTSnLQSkY4kzNxddOSKouU.jpg"
+    },
+    {
+      "name": "PT: No Pique de Nova York",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xIKUAFQfSCs7PMGyF1UlLNmXH6Q.jpg"
+    },
+    {
+      "name": "PT: Noites Mágicas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hUEew5FdsTFmuJ2Zb9EeQw4tBl2.jpg"
+    },
+    {
+      "name": "PT: Novos Amigos Improváveis",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/owS1Q6igHQIOoOaeoZ4GZijcvWf.jpg"
+    },
+    {
+      "name": "PT: Abc do Amor",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9BC3AqynC8nul1t40hLPF5ephb8.jpg"
+    },
+    {
+      "name": "PT: O Abominável Dr. Phibes",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sqr5h6CsxzOeN8WUJbgISCbUaOD.jpg"
+    },
+    {
+      "name": "PT: O Amor é Lindo ... Porque Sim!",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kADNcV5Twy7GsmYHwVdh9kQzLmC.jpg"
+    },
+    {
+      "name": "PT: Les Tribulations d",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/lPD3X5lReehDrvI9tb0W4kofTw5.jpg"
+    },
+    {
+      "name": "PT: O Candidato Honesto",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/dNFjUdDmyJmAST6qOz2ie10UwTP.jpg"
+    },
+    {
+      "name": "PT: O Clube dos Canibais",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/4yTeBlAjG7qAQqEzQIO9b1k62b.jpg"
+    },
+    {
+      "name": "PT: O Crepúsculo dos Heróis",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/A9klJ0SabkN9vR5OvVKsrqC0EEN.jpg"
+    },
+    {
+      "name": "PT: O Falcão Manteiga de Amendoim",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/k5SKnVfT9oP6pCo1fNPzeE4mFt5.jpg"
+    },
+    {
+      "name": "PT: Flesh Eating Mothers",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/uKBkX4iDdEOxWVV6JfQ5v5IQ6gc.jpg"
+    },
+    {
+      "name": "PT: Spite Marriage",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/eXt4ilTxsrY5a1Lagp1TE79vIvN.jpg"
+    },
+    {
+      "name": "PT: O Homem Perfeito",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/A7cZjJDYmHUFYmbIFJmPuOrNgMw.jpg"
+    },
+    {
+      "name": "PT: O Homem Que Matou Don Quixote",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/4MftyanrGzjRuTRACfsn5Zgp7ON.jpg"
+    },
+    {
+      "name": "PT: O Lampião da Estrela",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/imWE9Ij50wx2nn7ZIGO2vEZHqnT.jpg"
+    },
+    {
+      "name": "PT: O Leão da Estrela",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/y8ibBWhnGs9qk0CnLCpjj7ov3ns.jpg"
+    },
+    {
+      "name": "PT: O Meu Belo Sol Interior",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9XxItXXZbKDXeVpyrrZ821buWK9.jpg"
+    },
+    {
+      "name": "PT: O Meu Nome é Bill",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/u5EqwPmzc40qIyUUSMvoaWVsSMc.jpg"
+    },
+    {
+      "name": "PT: The Other Side of the Wind",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kFky1paYEfHxfCYByEc9g7gn6Zk.jpg"
+    },
+    {
+      "name": "PT: O Pátio das Cantigas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/m36cPnGtwcNXReA5wqeIfi8qYo3.jpg"
+    },
+    {
+      "name": "PT: O Pequeno Vampiro",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bgP1LycjqCEkZL5cn3Ha4pfsUix.jpg"
+    },
+    {
+      "name": "PT: O Querido Lilás",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/tCAsAFdaQ8wjs5Gz9f8Y8m32ZT9.jpg"
+    },
+    {
+      "name": "PT: O Shaolin do Sertão",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hHmD5ziiVvOM1femGTazj4bfkGK.jpg"
+    },
+    {
+      "name": "PT: Histórias Assustadoras: O Susto de Shrek",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wH4zCbgNJxjnQAzJj48zitzsu3A.jpg"
+    },
+    {
+      "name": "PT: O Último Virgem",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5yVqc1K0XWiJAf6YvRgfzlezvEr.jpg"
+    },
+    {
+      "name": "PT: Os Gatos não Têm Vertigens",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/yk16xLIOTSD1PV6K5cCF5N4kfnA.jpg"
+    },
+    {
+      "name": "PT: Festa de Natal da Empresa",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/nI8KLxN9oeOHj76hPrj5dxP75lE.jpg"
+    },
+    {
+      "name": "PT: Office Uprising",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fcRAOCmDcFYivMNM5ink3OMMe0V.jpg"
+    },
+    {
+      "name": "PT: Lucky Luke - Os Dalton À Solta",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/47KQ8p0OfhZce8aGxD24dgl3Dav.jpg"
+    },
+    {
+      "name": "PT: Os Parças",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9PuLtiji3ZN6o2Uan9SqDl8wdYX.jpg"
+    },
+    {
+      "name": "PT: Pee-wee",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/k5bZS2NsgVswuThBfyJYaV6T6zu.jpg"
+    },
+    {
+      "name": "PT: Miamor perdido",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kULYM5oKad5qn3lsxeBIIHtkcEw.jpg"
+    },
+    {
+      "name": "PT: Dickie Roberts: Former Child Star",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6dgCPSVEEMU2BLvxOzBAvkQjIeL.jpg"
+    },
+    {
+      "name": "PT: Um Ritmo Perfeito 2",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2EOgcQMgfx2iwnvwyiOuSgthVa8.jpg"
+    },
+    {
+      "name": "PT: Pitching Tents",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vLOZdRd8EPT4CMp2oRH2HNInda3.jpg"
+    },
+    {
+      "name": "PT: Um Novo Caminho",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iopgVt2g1r61T4OSmpHMcCc6TBy.jpg"
+    },
+    {
+      "name": "PT: Ponto Morto",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pOaujWH4SlaZEWVOr3M0mnOULvy.jpg"
+    },
+    {
+      "name": "PT: Porta dos Fundos: Se Beber, Não Ceie",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bIHfllTfcwi2luTIWjQEv92bn1B.jpg"
+    },
+    {
+      "name": "PT: Portugal Não Está à Venda",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/86lSKGraanwlHL9fm1h7Xp9MFW9.jpg"
+    },
+    {
+      "name": "PT: Pottersville",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zlQgswQ5GEklrbv8MkohQHyomZu.jpg"
+    },
+    {
+      "name": "PT: Prevenge",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5OWrwvKscVc7Md0IvtTLZmjXbKt.jpg"
+    },
+    {
+      "name": "PT: Private Life",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0LxunoOD30s1d9fgwFQ0JTUCva.jpg"
+    },
+    {
+      "name": "PT: Puppet Master: The Littlest Reich",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jBpdumeRBDqnGXAu5uzeD2UVqML.jpg"
+    },
+    {
+      "name": "PT: Gato de Botas: Preso num Conto Épico",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/rdBzfAGThrxyKYgbJCMziRi9CMz.jpg"
+    },
+    {
+      "name": "PT: Putas Marcianas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8z9QVB34OJSZoR6j1UYv8jEQMnw.jpg"
+    },
+    {
+      "name": "PT: Buscando a Marcos Ramírez",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/aTVfvmNbm4kEkFIFCzv7LonHu4c.jpg"
+    },
+    {
+      "name": "PT: Raposa Manhosa e Outras Histórias",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ljlk2PiLDVixX7KF1QEH6sRb2Az.jpg"
+    },
+    {
+      "name": "PT: Red Dog: True Blue",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ynVc8dxrWUuVguEtdCmmBpBDyXD.jpg"
+    },
+    {
+      "name": "PT: Refrigerantes e Canções de Amor",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/4OiwPy98puLqWKdRhrpCXYQdh0p.jpg"
+    },
+    {
+      "name": "PT: Riquinho",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/58HIspo9ihHAab1d86O5kYXCaaK.jpg"
+    },
+    {
+      "name": "PT: Roast José Castelo Branco",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/p9mgmLzfF8ACpPOP0RCCi1jj92Y.jpg"
+    },
+    {
+      "name": "PT: Comedy Central Roast of Alec Baldwin",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9jxg3sr2ut4QSYeepSDDU17s5Nv.jpg"
+    },
+    {
+      "name": "PT: Ruas Rivais",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/godqtD2nczJSu17qqEHpeEhbDkD.jpg"
+    },
+    {
+      "name": "PT: Rúcula Com Tomate Seco",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/816mIajV9nMjvvSN0DiM1UVMFFv.jpg"
+    },
+    {
+      "name": "PT: Russell o Cãopeão",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/t7fc8XJ9EcTI2u6AyhW9AiG3iR4.jpg"
+    },
+    {
+      "name": "PT: Russell Peters: Almost Famous",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oe21fgpqpvuEO3WoWtA62z5chYi.jpg"
+    },
+    {
+      "name": "PT: The Golden Rut",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/rau3nqF5DSFzxNVgu2KyPkozW2L.jpg"
+    },
+    {
+      "name": "PT: Sandy Wexler",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/38SDqWOt4utiLOnWlas7BfrYQGS.jpg"
+    },
+    {
+      "name": "PT: Sarah Silverman: A Speck of Dust",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvTyPBdS4tiJ4Nv2zPnT9kAjSoD.jpg"
+    },
+    {
+      "name": "PT: Se Eu Fosse Você",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hAgYPRPXmTxEbCv96YXZTotl4ae.jpg"
+    },
+    {
+      "name": "PT: Se Eu Fosse Você 2",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mnNbnS0RyEmPETkxcfaH0BkJalW.jpg"
+    },
+    {
+      "name": "PT: Sinbad - A Lenda dos Sete Mares",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/7zTnVOs8nGgMxT9rRWAeYOXvZWa.jpg"
+    },
+    {
+      "name": "PT: Smurfs - A Aldeia Perdida",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/7DtiMnR55uSRIUAaIpnEMwYdGFD.jpg"
+    },
+    {
+      "name": "PT: Snoopy e Charlie Brown: Peanuts - O Filme",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/lnBbIL2gYex4aVomvZOg5ZGtOOa.jpg"
+    },
+    {
+      "name": "PT: Socorro, Virei uma Garota!",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jYnLQknm25NbKjfnzIc00BQIV8Z.jpg"
+    },
+    {
+      "name": "PT: Sol Alegria",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xbEkZORp3RYzDWs1t6XHYWSTyeY.jpg"
+    },
+    {
+      "name": "PT: Sol Goode",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/geVTfFgPmnSrJu6hUzpX4zjD0JM.jpg"
+    },
+    {
+      "name": "PT: Um Suburbano Sortudo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/lFChpljQt82f9SnjJdXEQ0uYVd1.jpg"
+    },
+    {
+      "name": "PT: Spark - Uma Aventura Espacial",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cqnbrAisymjREliVZKUTg5UgFBu.jpg"
+    },
+    {
+      "name": "PT: Speech",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/x5K8dpvgb3C3GtCtQWo1PhUkXGP.jpg"
+    },
+    {
+      "name": "PT: Step Sisters",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/cncHzM37IbohkBX7tlSTiULfIsO.jpg"
+    },
+    {
+      "name": "PT: Steven Universe: The Movie",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ahA8oEtJuHLeSDSghIhZU7gWxWX.jpg"
+    },
+    {
+      "name": "PT: Stitch - O Filme",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wjJvTzzYfJbVAv7teJfFllVbAHb.jpg"
+    },
+    {
+      "name": "PT: Summer of 8",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vFep6GZqIe2wyfmoGoxGJe5N2Mj.jpg"
+    },
+    {
+      "name": "PT: Suntan",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sAknvVkyiGssLf20k4FAZB3FUnZ.jpg"
+    },
+    {
+      "name": "PT: Super Troopers 2",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/k1NtEx1RiAVN1MXlbm2aAvUd1uo.jpg"
+    },
+    {
+      "name": "PT: Talvez uma História de Amor",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/bflYSyIxPCL1DJJ4bp3t6VBJ1Dj.jpg"
+    },
+    {
+      "name": "PT: Ted 2",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kblxjPVIXaIQ7iHo5b2LaBOEllD.jpg"
+    },
+    {
+      "name": "PT: Tartarugas Ninja Heróis Mutantes: O Romper das Sombras",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/28CV4RE4BayVZnbw7FdXbcvzSQb.jpg"
+    },
+    {
+      "name": "PT: Temporada de patos",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6fAtEqYJRyBmyjrXm1ggJsBkbHr.jpg"
+    },
+    {
+      "name": "PT: Terminal de aeroporto",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2etVXcWUsoaWvOlRt3bSXIOrW5P.jpg"
+    },
+    {
+      "name": "PT: A Babá",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg"
+    },
+    {
+      "name": "PT: The Boss Baby",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6rctP6SAW7caWbx9NgxGnn3fU07.jpg"
+    },
+    {
+      "name": "PT: Um Desastre de Artista",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mIu3lfpxwt5YprslsSjnU0nZj8y.jpg"
+    },
+    {
+      "name": "PT: A incrível Jessica James",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zVWBQx6tsYmVDW9OWI6XIIYh611.jpg"
+    },
+    {
+      "name": "PT: The F**k-It List",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oIxGqt2XKTLEKLHVffIv9hUlW0T.jpg"
+    },
+    {
+      "name": "PT: Gente de Bem",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/xQmaplNLuaW96TK334QkKKSGBQB.jpg"
+    },
+    {
+      "name": "PT: The Late Bloomer",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5vgO6edWtHLAy4DE2LkPxpWiqgg.jpg"
+    },
+    {
+      "name": "PT: The Layover",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg"
+    },
+    {
+      "name": "PT: Little Hours",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/8gVvB0RrMZAzYuKp6Y23hjxzw5q.jpg"
+    },
+    {
+      "name": "PT: A Feiticeira do Amor",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/yd87qXSnMioaBh8H9LN6rNxDhoJ.jpg"
+    },
+    {
+      "name": "PT: The Matchbreaker",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sztdKdVYFNdz6Q6D11Pd8IyCqPK.jpg"
+    },
+    {
+      "name": "PT: The Meyerowitz Stories (New and Selected)",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg"
+    },
+    {
+      "name": "PT: O Cavalheiro com Arma",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/24wx6tKWPQwum5DLXgvNicFgrf3.jpg"
+    },
+    {
+      "name": "PT: Os Visitantes - A Revolução",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/uDet56zdtPSWnwMDDru1FjF5S0m.jpg"
+    },
+    {
+      "name": "PT: Lá Vêm os Pais",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/rUWXKRKsbInckc8h5k6Tte8V8Zl.jpg"
+    },
+    {
+      "name": "PT: This Beautiful Fantastic",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qRr3hJJC3a6AI3EUJ3GrUqQ13TI.jpg"
+    },
+    {
+      "name": "PT: Tini: El gran cambio de Violetta",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zjH4uWn4nNI397BaSw73ZeCrWdY.jpg"
+    },
+    {
+      "name": "PT: Todo Clichê do Amor",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1zJIxQ8BDq4dIRhDJCTMfTk5rj1.jpg"
+    },
+    {
+      "name": "PT: Tom Segura: Disgraceful",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ll5QVhDsp6MbNWWZAGXc8vFu6Y9.jpg"
+    },
+    {
+      "name": "PT: Tracy Morgan: Staying Alive",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/khMAxp24RhZeZYgLup0uSgRlU58.jpg"
+    },
+    {
+      "name": "PT: Traições (con)sentidas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oASzoTqt8LafgPIzfuzhgxV9SbJ.jpg"
+    },
+    {
+      "name": "PT: A Mala e os Errantes",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jgQlsW25abkrlIvPiCTHBL2UYu2.jpg"
+    },
+    {
+      "name": "PT: Trevor Noah: Afraid of the Dark",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/u3mlmqv3KxYEDZL9Cc1dwjnN8Le.jpg"
+    },
+    {
+      "name": "PT: Trolls",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qVbNDmPrbnfgINfEoAMx41N7IfH.jpg"
+    },
+    {
+      "name": "PT: Verdadeiras Memórias de um Assassino Internacional",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/muJ9FvDSTm4txkATsKWPADb1zTI.jpg"
+    },
+    {
+      "name": "PT: Tudo Acaba Em Festa",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wnlOjxVeUXHwcHOEN0s1vSgJHCh.jpg"
+    },
+    {
+      "name": "PT: Turno da Morte",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/lNQ9eRifPkAEqqrzP8wSqU3lRdM.jpg"
+    },
+    {
+      "name": "PT: Uma Aventura do Outro Mundo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/y0Sj5vBlVYfykPTDJtAsY5MHy9q.jpg"
+    },
+    {
+      "name": "PT: Uma Aventura no Jurássico",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/c60TZggGozoJR5OpVlMJTXFFKTj.jpg"
+    },
+    {
+      "name": "PT: Uma Noite em Sampa (2017)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tegS9SqfGxy8m1XxEhL4URjVzL.jpg"
+    },
+    {
+      "name": "PT: Upsss! Lá Se Foi a Arca",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iEQc0MWnN53aQuBHGNDHLicCvoQ.jpg"
+    },
+    {
+      "name": "PT: Grizzly Park",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/eAv1CkmDuvvLsTLCm50dDXhZaNA.jpg"
+    },
+    {
+      "name": "PT: Vai que Cola 2: O Começo",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ekJG2dZMOzEbKGI4PW45vc52Go8.jpg"
+    },
+    {
+      "name": "PT: Victor Crowley",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qdJixiTYeEBOGURuMrX0sCxGFkP.jpg"
+    },
+    {
+      "name": "PT: Virados do Avesso",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/sOGFf9i8CHCM58m45xzYkSPTto8.jpg"
+    },
+    {
+      "name": "PT: Os Traficantes",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/uv9g0yF3z10tWWq24OQewQf6r5e.jpg"
+    },
+    {
+      "name": "PT: Máquina de Guerra",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hhMQlanXtlkuXHEpq3i1WrYNnUf.jpg"
+    },
+    {
+      "name": "PT: When We First Met",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qds0JSt6DvKbu3I1JErMIP1Rk0U.jpg"
+    },
+    {
+      "name": "PT: Whindersson Nunes: Adulto",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oilvqcZDNXpneiouCZEY2qZXmwp.jpg"
+    },
+    {
+      "name": "PT: Porquê Ele?",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/yOxuLkzG7TTUITEZm6kivuHmIiR.jpg"
+    },
+    {
+      "name": "PT: Wiener-Dog",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/s7D9c9kSdYbYO3hSvZHVBiUf9gk.jpg"
+    },
+    {
+      "name": "PT: Wilson",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/m63h5MxevYrKn3720hVgKZAx86S.jpg"
+    },
+    {
+      "name": "PT: O Mundo Encantado de Gigi",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zIiZ82pChCStwmRsLNuRX5VyoRM.jpg"
+    },
+    {
+      "name": "PT: Youth in Oregon",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/krVlJeLCPWzYGtomf9yUdmqlvkQ.jpg"
+    },
+    {
+      "name": "PT: Zathura - Aventura no Espaço",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fyfsHYE7WuncbPvcu6AsiI9YRit.jpg"
+    },
+    {
+      "name": "PT: Zombies! Zombies! Zombies!",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/XYJGHTHJ3mbMaXlRbz08t4Ftzz.jpg"
+    },
+    {
+      "name": "PT: Borat, o Filme Seguinte",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/h4ciG34AaQLfk38ltBGMDdxLeF5.jpg"
+    },
+    {
+      "name": "PT: Convenção das Bruxas",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kQDfB6dPYoiuUtbSYusNopSXyVp.jpg"
+    },
+    {
+      "name": "PT: Meu Passado me Condena",
+      "group": "PT - Comédia Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ypGPyNewWQREYMW3Iv45UEiehf2.jpg"
+    },
+    {
+      "name": "PT: The Internship Games (2015)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oljhQWTZeyArEDlVkYPHWIRn8Y.jpg"
+    },
+    {
+      "name": "PT: The Situation",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3BNqD7CtGlEjwbSshW5cPAc3Qec.jpg"
+    },
+    {
+      "name": "PT: Operation Nation",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/iyJNumu9bpLCXWcutryAvkVlGhN.jpg"
+    },
+    {
+      "name": "PT: A Picture of Her",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/iviFpnmCu0qs6VzH9H0WlhX4aja.jpg"
+    },
+    {
+      "name": "PT: Spirited",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg"
+    },
+    {
+      "name": "PT: Asterix",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg"
+    },
+    {
+      "name": "PT: Banger.",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yC2KRI4cWkcWwWIpXMZpyHAOyNz.jpg"
+    },
+    {
+      "name": "PT: Quatro Amigas Numa Fria",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4QDkxzuZ1klmF3OYYM10xaMFIfu.jpg"
+    },
+    {
+      "name": "PT: Everyone Knows Better",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/vZvLobUR1FF0PXPMN6sS4U71ahh.jpg"
+    },
+    {
+      "name": "PT: Curral de Moinas - The Peoples Bankers",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/nPV3vE1tnCBWwufh7NlquYNjhZl.jpg"
+    },
+    {
+      "name": "PT: Lulli",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ztJHKv6KSSgCTWAI2STrX2BeuJZ.jpg"
+    },
+    {
+      "name": "PT: Dad Rocks",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8Ynf2NSLdi1EZEIuHMoO6Qbjb6Y.jpg"
+    },
+    {
+      "name": "PT: The Brass Teapot",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6txTmb8OIimrQezgD8ERMmrrbnT.jpg"
+    },
+    {
+      "name": "PT: The Proposal",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6stnAm1wSek8ZrislwK4xGTyCnt.jpg"
+    },
+    {
+      "name": "PT: Did You Hear About the Morgans?",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/f4ueTTP7pCLau2hoAGMuzrgg8rL.jpg"
+    },
+    {
+      "name": "PT: Hollywood Shuffle",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zS7yvQoB2RSQ4OtmZNbQdwdL5bX.jpg"
+    },
+    {
+      "name": "PT: Swiss Army Man",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8pxn8CQ6SD6tly75lrKw08wfZKv.jpg"
+    },
+    {
+      "name": "PT: Nanny McPhee and the Big Bang",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg"
+    },
+    {
+      "name": "PT: The Hippopotamus",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gU84M23dwakvYtcppMfTNFLmFbf.jpg"
+    },
+    {
+      "name": "PT: The Go-Getters",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/86koSxrck41SoT9uSh3qdErOm65.jpg"
+    },
+    {
+      "name": "PT: Enola Holmes",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/riYInlsq2kf1AWoGm80JQW5dLKp.jpg"
+    },
+    {
+      "name": "PT: 10 Things We Should Do Before We Break Up",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg"
+    },
+    {
+      "name": "PT: On a Magical Night",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/l44RScRCr5AJJtonRatFgmOFRZ0.jpg"
+    },
+    {
+      "name": "PT: The Broken Hearts Gallery",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wGkr4r1e8nubmSNKJpv3HL6sFrA.jpg"
+    },
+    {
+      "name": "PT: Dating Amber",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cMJnfNm1qqFdRYTUtAVqKyjgJAm.jpg"
+    },
+    {
+      "name": "PT: Life Is Beautiful",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg"
+    },
+    {
+      "name": "PT: Holly Slept Over",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pQt9IC25jeJ0r1T4q6i29qDca3y.jpg"
+    },
+    {
+      "name": "PT: The Comeback Trail",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ublJIJbc2NZ30ptXj4O2d2apo1t.jpg"
+    },
+    {
+      "name": "PT: Contra",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/m2p8j2qVJNV26GyoEF4GJOv0xQg.jpg"
+    },
+    {
+      "name": "PT: Teenage Vampire",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6mZbgjiVTV46FCYA1Q5Zw50nx7f.jpg"
+    },
+    {
+      "name": "PT: Triangle of Sadness",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg"
+    },
+    {
+      "name": "PT: This Is the Year",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hwmvdgpCT7obPNF5ZaQKmPuo9Uq.jpg"
+    },
+    {
+      "name": "PT: Unplugging",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tFL9lRtVUEmsVcggoag0u4H14mJ.jpg"
+    },
+    {
+      "name": "PT: The Trip",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ygTIsPG7dREi5AlO0S9EMbmvdae.jpg"
+    },
+    {
+      "name": "PT: Together Together",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9WtVYwBs3a5zIzuSc169VLBIiS.jpg"
+    },
+    {
+      "name": "PT: The Valet",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg"
+    },
+    {
+      "name": "PT: The Christmas Games",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tsF67uKoerYgnevLej5Vo9xlGF8.jpg"
+    },
+    {
+      "name": "PT: The Nan Movie",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rHOQEt5x3MIznoqXtuTJWblHtYz.jpg"
+    },
+    {
+      "name": "PT: The Guardians of the Galaxy Holiday Special",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg"
+    },
+    {
+      "name": "PT: The Munsters",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kJaEVFhDouD72GKANMkYqzQky9n.jpg"
+    },
+    {
+      "name": "PT: The Legend of the Christmas Witch: The Origins",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/b2Yv544mACPTcp8ZrfIaLOcQXj6.jpg"
+    },
+    {
+      "name": "PT: The Perfect Dinner",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/neTgFAKHUWnbWu5cEjnrNNzFBZN.jpg"
+    },
+    {
+      "name": "PT: The Getaway King",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/dfoudpFhAo5Mn8Sqyuu4Y006ITQ.jpg"
+    },
+    {
+      "name": "PT: The Honeymoon",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/vyT1SavljB1WLDutl0Bj0P1sCCj.jpg"
+    },
+    {
+      "name": "PT: The Estate",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mYgS4djsVj61kzEpX43LklGUfgK.jpg"
+    },
+    {
+      "name": "PT: The Lost Treasure",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/geuUDUWRQcYJ36IlyHMdhd2tKb0.jpg"
+    },
+    {
+      "name": "PT: Star-Crossed Romance",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jKb9Te6w6Xbd27Oro9PBK90uok8.jpg"
+    },
+    {
+      "name": "PT: Spoiler Alert",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zdXoC9hgPieyT2x3TXcZGeRbpJZ.jpg"
+    },
+    {
+      "name": "PT: Our Ladies",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oYCJrihcGexpdyTHwnJ57LrrOSH.jpg"
+    },
+    {
+      "name": "PT: Roald Dahl\\'s Matilda the Musical",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg"
+    },
+    {
+      "name": "PT: Playing God",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5eXtK7BQMAYVktjVf78s0scMTdX.jpg"
+    },
+    {
+      "name": "PT: Pups Alone",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2MJo65VVurU1GKqr0oDHBim0as4.jpg"
+    },
+    {
+      "name": "PT: Off the Rails",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2T2QqMlUvWz2uOwoMa1gp4PWUhz.jpg"
+    },
+    {
+      "name": "PT: See How They Run",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/r3rpSAi2yukZwr9H2km0WKGODWo.jpg"
+    },
+    {
+      "name": "PT: Sex Appeal",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg"
+    },
+    {
+      "name": "PT: Seriously Red",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pt4GDCqpa7w6zk9XBXnKOKyAkLV.jpg"
+    },
+    {
+      "name": "PT: Psych 3: This Is Gus",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jwabAxbqMLt6uNWjGE6KpRyeoDS.jpg"
+    },
+    {
+      "name": "PT: Space Oddity (2023)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/612ajBEu9bUEF3jic7r0PnjG5vP.jpg"
+    },
+    {
+      "name": "PT: Sex, Shame and Tears 2",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tgCA3cO2pM8UTPU3P81ZRbyp0VW.jpg"
+    },
+    {
+      "name": "PT: Santa vs Reyes (2022)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvDJbZYs2p4eOdyJ8R2dfdJp2Qq.jpg"
+    },
+    {
+      "name": "PT: It's a Wonderful Binge (2022)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hU9ouAPcg2LG7n85WUxjKwPq2y4.jpg"
+    },
+    {
+      "name": "PT: Home Sweet Home Alone (2021)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg"
+    },
+    {
+      "name": "PT: Jackass Forever (2022)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugIdyvtAzHWOguD91UjHKoAvfum.jpg"
+    },
+    {
+      "name": "PT: Today We Fix the World",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oNAOqq4x2qXdER1HLThRHRRUeTf.jpg"
+    },
+    {
+      "name": "PT: Happily",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uCV98jOIxwd0SMICfHFNcuo5CHS.jpg"
+    },
+    {
+      "name": "PT: Retirement Home",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lLrCA0MaLFZS518fkaeMUavJOGG.jpg"
+    },
+    {
+      "name": "PT: Moonshot",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/thqgzBPEDYQX0taszVus5nYMtTZ.jpg"
+    },
+    {
+      "name": "PT: Marilyn's Eyes",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/thHmfbg56EDMCTmjEuz6Xo5M8hV.jpg"
+    },
+    {
+      "name": "PT: Mack",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wGrtEDEBMZ7MtFNeQ7M8dL8B8yD.jpg"
+    },
+    {
+      "name": "PT: India Sweets and Spices",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2cUczTzLq1F99Pgiw6BWFsKnD7J.jpg"
+    },
+    {
+      "name": "PT: Lyle, Lyle, Crocodile",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg"
+    },
+    {
+      "name": "PT: Meskina",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1qP4A0ivvWzGJjeOkQ7tBHW1eOE.jpg"
+    },
+    {
+      "name": "PT: Meet Cute",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9rp4nj7L3V5tPm2pWks4sX8NVKY.jpg"
+    },
+    {
+      "name": "PT: My Wonderful Life",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/32FStOrYlaKTitw9m4ue3WmQTRX.jpg"
+    },
+    {
+      "name": "PT: King",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kEyi52oFS45X5sb78kAMnfrenxm.jpg"
+    },
+    {
+      "name": "PT: The Bigfoot Project",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lYpg8nNA56ciQOm0MyXjW9SF63Z.jpg"
+    },
+    {
+      "name": "PT: Seize The Moment",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zW5fz9LBkVZz3GT0fgTRnjzn7fp.jpg"
+    },
+    {
+      "name": "PT: Easter Sunday",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/peyxSGjFpLdoxfvojrYEiTqfEAu.jpg"
+    },
+    {
+      "name": "PT: When Christmas Was Young",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6Fdku46UeJnny4xZK8E1sTVMBRe.jpg"
+    },
+    {
+      "name": "PT: Nanas Secret Recipe",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/npeQ040vEjVIA7E4BFYu9CfW1Ek.jpg"
+    },
+    {
+      "name": "PT: The Portable Door",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/49NQGuvaMWYeAD22h135tFd2Grs.jpg"
+    },
+    {
+      "name": "PT: Ode to Joy",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tpYPids0rVYTrtEjKPeXWZNwBk3.jpg"
+    },
+    {
+      "name": "PT: Entre Mulheres e EspiÃµes",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4ruCgR2bVk0gC2PJOagSIBGk72N.jpg"
+    },
+    {
+      "name": "PT: The Bachelorette Party",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/k7hjglQPc9NEofu1jMvrZNKAukb.jpg"
+    },
+    {
+      "name": "PT: Adam",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/n4HBr4ps1OwO6OuNWG4Vt22kUfF.jpg"
+    },
+    {
+      "name": "PT: Open",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/v22m5nX1PZ2erinKFzZ7zV7fKHz.jpg"
+    },
+    {
+      "name": "PT: Sextape",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lUgxmlOMVgDSU8x2uuiaK8ymA4R.jpg"
+    },
+    {
+      "name": "PT: All for Nikki",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yxrBExRDxOzEOAtn5qTrg6CLYSC.jpg"
+    },
+    {
+      "name": "PT: Masters of Love",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qxmzVO4wq5tOiAayGn1YyYpC5oZ.jpg"
+    },
+    {
+      "name": "PT: Gospel",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yXYnB3tNLaCg8YXJounvhybk0SH.jpg"
+    },
+    {
+      "name": "PT: Freestyle",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9Dv2IKD6ap7hlEgQhKPZnmG2Qxa.jpg"
+    },
+    {
+      "name": "PT: Marry Me (1932)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Amr8uvfOUfhRY7ybCAuIs7suI8R.jpg"
+    },
+    {
+      "name": "PT: Our Time Is Up (2004)",
+      "group": "PT - Comédia Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    }
+  ]
+}

@@ -1,0 +1,1408 @@
+{
+  "package": "world",
+  "name": "AR - Horrer Movies",
+  "groupIndex": 245,
+  "totalChannels": 280,
+  "channels": [
+    {
+      "name": "AR: The Collector (2009)",
+      "group": "AR - Horrer Movies",
+      "logo": "https://archive.org/download/the-collector-2009_202306/The%20Collector%20%282009%29.png"
+    },
+    {
+      "name": "AR: Üç Harfliler: Beddua",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Hrogqiypgekz0kj5WaRoOcxsQW.jpg"
+    },
+    {
+      "name": "AR: Z",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7U6HTvhFV6z9bvIyPydJeVI3Ao.jpg"
+    },
+    {
+      "name": "AR: You Might Be The Killer",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IjCrl9VMWPG5yHG9ZiqFcnFIRw.jpg"
+    },
+    {
+      "name": "AR: Wounds",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1omoZD5ExFvjm1JM7n35UccXf9.jpg"
+    },
+    {
+      "name": "AR: Witnesses",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VMoVKi4gnjuqE9O2QrNBqpUsMI.jpg"
+    },
+    {
+      "name": "AR: Witches In The Woods",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYlHTdKFnhjNsJ0jvHMsJCIFG0l.jpg"
+    },
+    {
+      "name": "AR: Widow's Walk",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/37QmczJAqqhulf3Ectn8KcQVJsw.jpg"
+    },
+    {
+      "name": "AR: We Summon The Darkness",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXAwq18CJYmzhLZNbLpBf3dG3A5.jpg"
+    },
+    {
+      "name": "AR: Werewolves Of The Third Reich",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0STupjcDiX6TeyfkxXWMxEOSyW.jpg"
+    },
+    {
+      "name": "AR: Welcome To Hell",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfq7HCX1pnZSZdtfxHaPJJLGkow.jpg"
+    },
+    {
+      "name": "AR: Valentine DayZ",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBHVAbUebr5v0vB4WJKjAssxbnK.jpg"
+    },
+    {
+      "name": "AR: Unfriended: Dark Web",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnj2opTQWGaLtB7kZ4OuMtG2RWa.jpg"
+    },
+    {
+      "name": "AR: True Fiction",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58Xfqyp9nOgOyQRWE7OyzvCYddW.jpg"
+    },
+    {
+      "name": "AR: Trench 11",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIv460nXqX8T5fjwemgFOPs6DGH.jpg"
+    },
+    {
+      "name": "AR: Tone-Deaf",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yHOLVfLHnbAHYqxV2PwtE32kBm.jpg"
+    },
+    {
+      "name": "AR: Thriller",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mliD95nVqBijPGQdZ3xcg8Nsagu.jpg"
+    },
+    {
+      "name": "AR: The Wrath",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "AR: The Wolf Of Snow Hollow",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXeTSXR5ryFwxrlpmD9hhXJTAuc.jpg"
+    },
+    {
+      "name": "AR: The Witch In The Window",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhKCxcrpuBJH8sC68taJ6O3sqNv.jpg"
+    },
+    {
+      "name": "AR: The Witch Files",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iV3wApODDu4J0pG8lvhxsCkfH61.jpg"
+    },
+    {
+      "name": "AR: The Witch",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o384OC1tCV8nCnozkM6y4MiSqsw.jpg"
+    },
+    {
+      "name": "AR: The Wind",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcfPHZHSQODLCWdkUVLYATNyEVo.jpg"
+    },
+    {
+      "name": "AR: The Voices",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFV4GnGheaTRpe5FHHbxyWsOpsp.jpg"
+    },
+    {
+      "name": "AR: The Vigil",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/veeX4nMbbVr85WEyy9f86QFM3XQ.jpg"
+    },
+    {
+      "name": "AR: The Veil",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9hB3QrBIUDSHCmwbceVxVgLRqv.jpg"
+    },
+    {
+      "name": "AR: The Tunnel 2019",
+      "group": "AR - Horrer Movies",
+      "logo": "http://line.megacdn.live:80/images/caruG4UuTpTJwfmYqz7Z4K1YSVp_big.jpg"
+    },
+    {
+      "name": "AR: The Tunnel",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DVbNEtDE2ov26E4Qgh4JsMIX36.jpg"
+    },
+    {
+      "name": "AR: The Shallows",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42HlPJmiE6rQdtT2lYzPPMQYvqG.jpg"
+    },
+    {
+      "name": "AR: The Russian Bride",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWMPtD16XoPx40kEiJE0giAmWH2.jpg"
+    },
+    {
+      "name": "AR: The Rental",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg"
+    },
+    {
+      "name": "AR: The Remains",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k76aHHeRgqZsdjcSvkzq2KBQLj4.jpg"
+    },
+    {
+      "name": "AR: The Prodigy",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQYkNs1YbosAooLv8u1nXhcGXay.jpg"
+    },
+    {
+      "name": "AR: The Prey",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Au0B3gvC8zlHJDNbhjzkzSMcKa.jpg"
+    },
+    {
+      "name": "AR: The Possession Of Hannah Grace",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg"
+    },
+    {
+      "name": "AR: The Pale Door",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkAZb9jteax1XRnEFlCU9Oer1YJ.jpg"
+    },
+    {
+      "name": "AR: The Pact",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0a4iSc5yKEiV15NCTI5GwrZudc.jpg"
+    },
+    {
+      "name": "AR: The Ninth Passenger",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMMv9v5t2SiKu9LiGgmnhdGFYBu.jpg"
+    },
+    {
+      "name": "AR: The Mummy: Rebirth",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aD5lS1D4tDGMhDdQLV991zHp2IM.jpg"
+    },
+    {
+      "name": "AR: The Manson Family Massacre",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1jzT5lb6kb3LSD80ElJl8vsN44.jpg"
+    },
+    {
+      "name": "AR: The Limehouse Golem",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9NnEq4Be7hhwSvkNf6dOAD8ppi.jpg"
+    },
+    {
+      "name": "AR: The Legend Of Halloween Jack",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PHkDuVYkuuOdcNDRJT3g7LfNXi.jpg"
+    },
+    {
+      "name": "AR: The Huntress: Rune Of The Dead",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiQcXvOgw9HjlaEufrNEG7amK15.jpg"
+    },
+    {
+      "name": "AR: The House Of Violent Desire",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9t1I3MEndYAhzDY7LdCIqVoZRB.jpg"
+    },
+    {
+      "name": "AR: The Hole In The Ground",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaHzlrdgSQsBXiP3fDxi8SLBDes.jpg"
+    },
+    {
+      "name": "AR: The Head Hunter",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqQ9WfTr4BpF6bJjz4GMS4BuLhb.jpg"
+    },
+    {
+      "name": "AR: The Haunting Of Sharon Tate",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzIQjfKmrTKf25y3N3VU88bFn8H.jpg"
+    },
+    {
+      "name": "AR: The Haunting Of Margam Castle",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2BlIxjAaj0WERGrIehnczNE0On.jpg"
+    },
+    {
+      "name": "AR: The Ghost Beyond",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBgQpptxcqSXWPf9cPXBjPyXEbH.jpg"
+    },
+    {
+      "name": "AR: The Gallows Act II",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7gpJfzOPbDjs6NclYOuFq7Z1mu.jpg"
+    },
+    {
+      "name": "AR: The Final Wish",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lFQPOhOAg1gAQgFsXdfYfXFbI6.jpg"
+    },
+    {
+      "name": "AR: The Final Scream",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8iK06ZnNY3EZZmdsg04bcl1P4o.jpg"
+    },
+    {
+      "name": "AR: The Doll 2",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y10Ll8lFOIZNIVxvraVirT1GMT5.jpg"
+    },
+    {
+      "name": "AR: The Diabolical",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcsLncHy7H0rCFPZg2h2AOR20HV.jpg"
+    },
+    {
+      "name": "AR: The Devil's Hand",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j1kcIXqQbZ2SDqybrIqX4LTgsJ.jpg"
+    },
+    {
+      "name": "AR: The Devil's Doorway",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOFn9lYmI8SAi15nhht37rhwxzT.jpg"
+    },
+    {
+      "name": "AR: The Dark Within",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/taVY30BYQYHcq3eT7T8AWSbkV0C.jpg"
+    },
+    {
+      "name": "AR: The Darkness",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7i7yuJoXCv12rQwYdSWcImhryrL.jpg"
+    },
+    {
+      "name": "AR: The Dark And The Wicked",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y63Sa7F2YFQPDSNQpS45p1iwTJ1.jpg"
+    },
+    {
+      "name": "AR: The Dark",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPUJsR3UJ6AUOKxx0d6dOlLHln4.jpg"
+    },
+    {
+      "name": "AR: The Dare",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1Y25FYzXoXi1G9bY5m1qMBlmI4.jpg"
+    },
+    {
+      "name": "AR: The Curse Of Lilith Ratchet",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMsbISl5Mbqqxtadia7dqGcXJXW.jpg"
+    },
+    {
+      "name": "AR: The Craft: Legacy",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg"
+    },
+    {
+      "name": "AR: The Conjuring 2",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg"
+    },
+    {
+      "name": "AR: The Cleansing Hour",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8A5wtWCpvBqB2h3Wy6NQSK92zeq.jpg"
+    },
+    {
+      "name": "AR: The Circle",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yynsTnPTV6XejH3mPkFQr2v4ZWW.jpg"
+    },
+    {
+      "name": "We are the Boys",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "AR: 666: The Beast",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/atQSwhJ86P4vhn41SVdcMSW1LQM.jpg"
+    },
+    {
+      "name": "AR: The Bad Seed",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m10QitDjpbZgFP1syXgVOv2pH7.jpg"
+    },
+    {
+      "name": "AR: The Axiom",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvjNGoFJcUQD5qStnjIpn424GxD.jpg"
+    },
+    {
+      "name": "AR: The Autopsy Of Jane Doe",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K0wjP8kPCiPYy9PtXBGuypyt5I.jpg"
+    },
+    {
+      "name": "AR: The Appearance",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqbroxcyk9CsroVMcGLUJ331OlS.jpg"
+    },
+    {
+      "name": "AR: The Amityville Murders",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/czMYViYqaNrvxaRyhUR0PTPyOig.jpg"
+    },
+    {
+      "name": "AR: The 16th Episode",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2CkoNuhYludbc2PvH6rX3HVRvr.jpg"
+    },
+    {
+      "name": "AR: Terrortory 2",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6gb87rw41INTG59Fzifapc13Kb.jpg"
+    },
+    {
+      "name": "AR: Tempus Tormentum",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg"
+    },
+    {
+      "name": "AR: Tales From The Hood 3",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixlGLeLtkmoKvJUY0nq9sk3zauR.jpg"
+    },
+    {
+      "name": "AR: Sweetheart",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg"
+    },
+    {
+      "name": "AR: Suzzanna: Bernapas Dalam Kubur",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTjRovjEDbZCsABVx3HQwjE6xmW.jpg"
+    },
+    {
+      "name": "AR: Suspiria",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EsopdJZbHk2UvFHuwDuGkTaWOn.jpg"
+    },
+    {
+      "name": "AR: Strange Nature",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXFkg7S6OBkuevT54Tm2XsJjKRa.jpg"
+    },
+    {
+      "name": "AR: Strange Events",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfwdPFyLRWRfqFuzyMJ6A9RKZy1.jpg"
+    },
+    {
+      "name": "AR: Star Light",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdj3GaTfvTACkB2XAzfHzIY45lZ.jpg"
+    },
+    {
+      "name": "Arg Stairs (2017)",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrYEfb8WZkCdhjfY6mUxDC2MUOp.jpg"
+    },
+    {
+      "name": "AR: Split",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqb9WsmZmDIKxqYmBJ9lj7J6hzn.jpg"
+    },
+    {
+      "name": "AR: Soul To Keep",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/78Wbn56epTxmznY4qOhn4JjFHXU.jpg"
+    },
+    {
+      "name": "AR: Slumber",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV6JPfEk4BdOeXm6COYEwvhU6Yc.jpg"
+    },
+    {
+      "name": "AR: Sleep No More",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRXuj0eELMSRi5LVml7DGF2lE90.jpg"
+    },
+    {
+      "name": "AR: Skin Walker",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqbr6U2tvQvvSIEQjoKJNKeOok0.jpg"
+    },
+    {
+      "name": "AR: Sinister 2",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaUsNmDx3PU6jOEKKu4r2NkdHsI.jpg"
+    },
+    {
+      "name": "AR: Siccîn 6",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufgenUJfKPQSLFu2meMycctRR7M.jpg"
+    },
+    {
+      "name": "AR: Siccîn 5",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Wjk7MqsHU9UxqlaTdqtl02E9P.jpg"
+    },
+    {
+      "name": "AR: Shifter",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bljTZsCjm8sZFTKS7Aq4HttDR7k.jpg"
+    },
+    {
+      "name": "AR: Shadow",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mGtMVwXrv8vGAoYKeS1889fruU.jpg"
+    },
+    {
+      "name": "AR: Seven In Heaven",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/elReufFR4NYFiBVRsD0wB2F6FDf.jpg"
+    },
+    {
+      "name": "AR: Scary Stories To Tell In The Dark",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7GvmHR10Rr4L17pX5fiErjarNf.jpg"
+    },
+    {
+      "name": "AR: Robert Reborn",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8V2qB4ehyGCEMBsLPXDNiTvcx7.jpg"
+    },
+    {
+      "name": "AR: Rings",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FoczK6tDFzC9OyHiMMNIeNspek.jpg"
+    },
+    {
+      "name": "AR: Return Of The Tooth Fairy",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8XFS2FVStaBPS2vLqUuH2bAjVf.jpg"
+    },
+    {
+      "name": "AR: Relic",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg"
+    },
+    {
+      "name": "AR: Regression",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/luHpMTmU1ygtEgdOTSSj0i9nd8E.jpg"
+    },
+    {
+      "name": "AR: Red Island",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX7SOesChX57rIyg3BYr5RcwTZy.jpg"
+    },
+    {
+      "name": "AR: Reborn",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibPT9S9zA2Q3ung84PRrBoUdPa3.jpg"
+    },
+    {
+      "name": "AR: Realms",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3CLStp0Prl8qIebBe6TJLmHZAR.jpg"
+    },
+    {
+      "name": "AR: Ready Or Not",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg"
+    },
+    {
+      "name": "AR: Rabid",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIsuIWnvDozlQP4ya6OZEXqDecj.jpg"
+    },
+    {
+      "name": "AR: Pledge",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eol8FnndIY8drMknjUnRCjYaIe.jpg"
+    },
+    {
+      "name": "AR: Phoenix Forgotten",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0BbjmTPSqF1QnZxHNc1GQ4JIHc.jpg"
+    },
+    {
+      "name": "AR: Pet Graveyard",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj8vYLY5yrJC8AgNsLgJc5e1IY3.jpg"
+    },
+    {
+      "name": "AR: Pentagram",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugBJ5JOVjvdSUEfBurMSRUa1muA.jpg"
+    },
+    {
+      "name": "AR: Penance",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s6rel3i5MIn2RTntNkUgFuTYSr.jpg"
+    },
+    {
+      "name": "AR: Patrick",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XC1JGA2Le2EpJLVZsGd76jZenf.jpg"
+    },
+    {
+      "name": "AR: Patient Zero",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jOqatpfh0aKYhl6fN83RK69UtC.jpg"
+    },
+    {
+      "name": "AR: Parasite",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDsUWvTHbSsI62u63S8B6Jjgztb.jpg"
+    },
+    {
+      "name": "AR: One Remains",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nhr3iR5cyfhPBITnVX8XCeFdI2.jpg"
+    },
+    {
+      "name": "AR: Oculus",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaJjGlF1lVN9Zzh555Czk7TjqwW.jpg"
+    },
+    {
+      "name": "AR: Nothing But The Blood",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JkGYObv640oRRrC78zL21ATwVv.jpg"
+    },
+    {
+      "name": "AR: No Such Thing As Monsters",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0mVwd53uw3BKU634w4XnMXDuZD.jpg"
+    },
+    {
+      "name": "AR: No Escape Room",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP0mfM0MafLVMD36kgbvZpr9gbz.jpg"
+    },
+    {
+      "name": "AR: Nocturne",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJNFiWBGYSMbfTAk6Ygqdj6Rahq.jpg"
+    },
+    {
+      "name": "AR: Nightshift",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2e3ciKCO2FYd5Q7DkzRRtbe01xI.jpg"
+    },
+    {
+      "name": "AR: Nereus",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NzA5cgmWY2f6dlGNALVLUEdgaQ.jpg"
+    },
+    {
+      "name": "AR: Nefarious",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysvExqb8kZIH6kpi8RhmD6J06Lq.jpg"
+    },
+    {
+      "name": "AR: My Soul To Keep",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/goJ7Raosf7mKHuMzEzdRkC3gKXk.jpg"
+    },
+    {
+      "name": "AR: Morgan",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1Qb1I0wVvk8FQaNaat9DHlKFGc.jpg"
+    },
+    {
+      "name": "AR: Muere, Monstruo, Muere",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NggkGYo5MR4HuuKIjDWfR09k0e.jpg"
+    },
+    {
+      "name": "AR: Monster Party",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fF650Hj5CvFyTOS6aDmPjjw7i4Q.jpg"
+    },
+    {
+      "name": "AR: Monsterland 2",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcNWwhOjf9kZ8bvFxFFiM3ZIOYc.jpg"
+    },
+    {
+      "name": "AR: Midsommar",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg"
+    },
+    {
+      "name": "AR: Mercy Black",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6e0eblwQS11J5ZBb5PNoigCKWGB.jpg"
+    },
+    {
+      "name": "AR: Mary",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdcyHzqqBrzPGJFVH29ONnzsV6I.jpg"
+    },
+    {
+      "name": "AR: Mandy The Haunted Doll",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFRKNQrwNRfRPjZHtW11Kac53HC.jpg"
+    },
+    {
+      "name": "AR: Malevolent",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg"
+    },
+    {
+      "name": "AR: Malevolence 3: Killer",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWoZgTHsEJmIM371XJ6P27p09gk.jpg"
+    },
+    {
+      "name": "AR: Maggie",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twa9gXjocLM629sJrQYVtmF306R.jpg"
+    },
+    {
+      "name": "AR: Ma",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg"
+    },
+    {
+      "name": "AR: Look Away",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WTEFOwFBx0mHurnEfv27I0FOe2.jpg"
+    },
+    {
+      "name": "AR: Living Space",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAmiAsUKy0wyl0C7QAOScsqC120.jpg"
+    },
+    {
+      "name": "AR: Leprechaun Returns",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kToQsV04Jel1ob7VJ471LDz7wD.jpg"
+    },
+    {
+      "name": "AR: Leatherface",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nV7LPlyhUxKn5y0nuItCr8D1OSu.jpg"
+    },
+    {
+      "name": "AR: Lasso",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVhPR1eiUH8igFcvwUNR2B5OhEL.jpg"
+    },
+    {
+      "name": "AR: Kuntilanak",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/64b5CSGsnmnx9oiWR6hzadsjWME.jpg"
+    },
+    {
+      "name": "AR: Krampus Origins",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eXPgPhYoCSzRhJQQAGWHw7ExaF.jpg"
+    },
+    {
+      "name": "AR: Krampus",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxnRNv9GL5tupUoVPE5lT2RdO9q.jpg"
+    },
+    {
+      "name": "AR: Killer Kate!",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEtY9NtzImWHZavWTQMWub6RYgj.jpg"
+    },
+    {
+      "name": "AR: Itsy Bitsy",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PS6uPVN2lFwVeNrEnC3j7sv8ed.jpg"
+    },
+    {
+      "name": "AR: I Trapped The Devil",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/95ioOrJWlUTKskXpGLDlOpahu8.jpg"
+    },
+    {
+      "name": "AR: Invoking 5",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/acWKUq8d7GtyeHZ2r5EqCTwCEib.jpg"
+    },
+    {
+      "name": "AR: Investigation 13",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziYgvakhHQEaOV1w75hISCqQ4T8.jpg"
+    },
+    {
+      "name": "AR: Into The Void",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/irgJyd0uSs06zqzPEspWMpTYM8h.jpg"
+    },
+    {
+      "name": "AR: In The Tall Grass",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RxhzwFkAUqMt215Brb06u8P8pn.jpg"
+    },
+    {
+      "name": "AR: Insidious: Chapter 3",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg"
+    },
+    {
+      "name": "AR: Inside The Boys",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSdIww4SLrJQWxm8PbiLkCNLSke.jpg"
+    },
+    {
+      "name": "AR: In Fabric",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZRXZBUWOca282mLEcfdnHkCmdC.jpg"
+    },
+    {
+      "name": "AR: In Extremis",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/884W5RBOIUYlrfE0GG86DW2X6VA.jpg"
+    },
+    {
+      "name": "AR: Hush",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/drlFhq62JFy2GP1jEHySoP5e8pe.jpg"
+    },
+    {
+      "name": "AR: Housewife",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a43YtQdaebpWI66VxcbQFFgTgCc.jpg"
+    },
+    {
+      "name": "AR: House Of Afflictions",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gPoqQrjgRrDCXhnASkCdtjgBgz.jpg"
+    },
+    {
+      "name": "AR: Host",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/BGFm9YaerOGelQbNAjxELYDNCj.jpg"
+    },
+    {
+      "name": "AR: Holiday Hell",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DQPhaAofHNxMAZO7f9MB1QegmL.jpg"
+    },
+    {
+      "name": "AR: Hoax",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hK7s0dsNLGyEFokHyvyyTj1KCYL.jpg"
+    },
+    {
+      "name": "AR: Hell House LLC III: Lake Of Fire",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eezmAJ1mUqDFTqfQtmpPAroQ9B.jpg"
+    },
+    {
+      "name": "AR: Hell Fest",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgLlnlrUtTKXkdrgMBwUfkyAkya.jpg"
+    },
+    {
+      "name": "AR: Headhunter",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/na6HC3DB1ADMzT8jIVLDXATK5Tf.jpg"
+    },
+    {
+      "name": "AR: Haunting Of The Mary Celeste",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk179gfqaW3TV191VN7xU0dLAi.jpg"
+    },
+    {
+      "name": "AR: Haunt",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/haQSrjFlq30I60UVN1VsB6uRwKM.jpg"
+    },
+    {
+      "name": "AR: Happy Death Day",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg"
+    },
+    {
+      "name": "AR: Happy Birthday Hannah",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xksIMJEo19VM0roLtSDMR54deFW.jpg"
+    },
+    {
+      "name": "AR: Halloween Party",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMWGCghDVr3x9zGvyQFRZn8pIsX.jpg"
+    },
+    {
+      "name": "AR: Green Room",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbIQqzwjARLEAZFJXQAtIMSYCbL.jpg"
+    },
+    {
+      "name": "AR: Glass",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mclE3h8qHoXM2ZfCMUa2LlHUZZ6.jpg"
+    },
+    {
+      "name": "AR: Girl On The Third Floor",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeEptluyFULHQLRFnVPKgp8ecLb.jpg"
+    },
+    {
+      "name": "AR: Ghosts Of War",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBeL6pPUPo0wnyTmiuxPegcibPf.jpg"
+    },
+    {
+      "name": "AR: Ghost Ship",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLb2tiGqUfVKdqo3BK9r0DIg9UH.jpg"
+    },
+    {
+      "name": "AR: Ghost In The Graveyard",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kU5vF1HWs2bhECAFz9VO3GQPvxC.jpg"
+    },
+    {
+      "name": "AR: Fright Fest",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/af5r2eMuYlTYPoDNiHaTqqkd6g0.jpg"
+    },
+    {
+      "name": "AR: Freaky",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg"
+    },
+    {
+      "name": "AR: Follow Me",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/glwOyoD0Pzxzyb3l7nELEgjSjQ8.jpg"
+    },
+    {
+      "name": "AR: Fanged Up",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT5IGZlYv7GP8XdzlhjoCOaS55n.jpg"
+    },
+    {
+      "name": "AR: Extremity",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cewpBXCzcBWNrfpwrSs83PxW2Xk.jpg"
+    },
+    {
+      "name": "AR: Extraterrestrial",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmiG916iIh6w378qBjRfTonqOWb.jpg"
+    },
+    {
+      "name": "AR: Extracurricular",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIaLoYxiMce7xZKXfjFmiYTbH7z.jpg"
+    },
+    {
+      "name": "AR: Escape Room",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCthgwsV0AXIMqliQL6njAWf7Sb.jpg"
+    },
+    {
+      "name": "AR: Eloise",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hXgwxOhaLwmyAE67Ky6ZOjyTdL.jpg"
+    },
+    {
+      "name": "AR: Eli",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg"
+    },
+    {
+      "name": "AR: Draug",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PtIw0roIIRJGh8Al7Zh1o5JHOw.jpg"
+    },
+    {
+      "name": "AR: Dracula Untold",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dN3D3AvOsZ60jBth9LYhZFjgAUz.jpg"
+    },
+    {
+      "name": "AR: Door In The Woods",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGGvoC4tdpPGNl17T3VJl6gz8MN.jpg"
+    },
+    {
+      "name": "AR: Don't Knock Twice",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxiz9zHLrqC5JfKVPbkKBboiSzI.jpg"
+    },
+    {
+      "name": "AR: Don't Look Back",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVlJ1UjGn5oIMvvJVyoFd7cRwxv.jpg"
+    },
+    {
+      "name": "AR: Don't Let Them In",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7C56BGdfmPZYk1xh4gC1HO6plI.jpg"
+    },
+    {
+      "name": "AR: Don't Hang Up",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZYTKvFKYtuUybTUmnIiUKCjNnZ.jpg"
+    },
+    {
+      "name": "AR: Doctor Sleep",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p69QzIBbN06aTYqRRiCOY1emNBh.jpg"
+    },
+    {
+      "name": "AR: Disturbed Souls On Campus",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1w1I4n2C8o8c3lzHjdC58T2kl8q.jpg"
+    },
+    {
+      "name": "AR: Disrupted",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/foDW5YJ24enxNNCkDfcuo02dDO1.jpg"
+    },
+    {
+      "name": "AR: Discarnate",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NAWW7zTG0zhrBfHk0sTy1hQlFb.jpg"
+    },
+    {
+      "name": "AR: Die In One Day",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Afm0v1dkRUNdMcskU8Sgaf0eo.jpg"
+    },
+    {
+      "name": "AR: Demon Eye",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6ADSF1shguym04rKdUJ2Ss78DC.jpg"
+    },
+    {
+      "name": "AR: Dementia",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9V8mKoRfsOUMj2m3yRUTbwR437.jpg"
+    },
+    {
+      "name": "AR: Death Of Me",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F9xUvb1JMWUMkFV2Yq3aiueAbq.jpg"
+    },
+    {
+      "name": "AR: Death House",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/piTubymqkO6QEuURTSccIV6d5PL.jpg"
+    },
+    {
+      "name": "AR: Deathcember",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEmsHJvFigUPMmhl5CjaLjw5jNT.jpg"
+    },
+    {
+      "name": "AR: Deal With The Devil",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/16ewC0kjQQCpb8rQBPPrY1IP2h9.jpg"
+    },
+    {
+      "name": "AR: Dead Voices",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqPwUvYOnX4VJx77rLNYMT7q6NW.jpg"
+    },
+    {
+      "name": "AR: Dead Squad: Temple Of The Undead",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9yQUutIUcKtsVbFnbmtex7rV62.jpg"
+    },
+    {
+      "name": "AR: Deadsight",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1g9mqAoRtnNZTHvccgbNjwoba7.jpg"
+    },
+    {
+      "name": "AR: Dead Dicks",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwOXjMaL4tk1Zr0XFI8UVwjgg8L.jpg"
+    },
+    {
+      "name": "AR: Darlin'",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnNjlXAQan8WdNtQMfdldAGoqMF.jpg"
+    },
+    {
+      "name": "AR: Dark Was The Night",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLJPuZltlAJ9E4OTGYLYh5LDjsB.jpg"
+    },
+    {
+      "name": "AR: Dark Sister",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpcKxsx9CQuV9Phi12b2IRj3dlm.jpg"
+    },
+    {
+      "name": "AR: Darkness Visible",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SKsjAwh9DeqWnauzYzdG90znzO.jpg"
+    },
+    {
+      "name": "AR: Dark Encounter",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nc18JXQ4yLkClFFJQUYgFahMBhZ.jpg"
+    },
+    {
+      "name": "AR: Curse Of The Scarecrow",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6VDPhntesW1D1cS5nRcYZp7DAj.jpg"
+    },
+    {
+      "name": "AR: Cupid",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1QQPNKNSqhE45HxofvAmLgGLki.jpg"
+    },
+    {
+      "name": "AR: CTRL",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMpWotn1k5Hom2LodElLJ2G0aIo.jpg"
+    },
+    {
+      "name": "AR: Cry Havoc",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiLqDzCkK8y2ULazQSdDnoUeO28.jpg"
+    },
+    {
+      "name": "AR: Cry For The Bad Man",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDuFIEyVwS95rlm9z0ygp0PHbhw.jpg"
+    },
+    {
+      "name": "AR: Cruel Peter",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CXlIZFOOjpEwoTbvqVLmp9zWrM.jpg"
+    },
+    {
+      "name": "AR: Critters Attack!",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQJQNElDQqQ3iXf46pyMmhReoyp.jpg"
+    },
+    {
+      "name": "AR: Crimson Peak",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9TOb5anVwZeSbYjU1qNxPk3KUk.jpg"
+    },
+    {
+      "name": "AR: Creep Nation",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OP1PYFBrXCf7FIOgmtfpXVCZAb.jpg"
+    },
+    {
+      "name": "AR: Creed",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dWnkoNJnmSTik05Ex5xnmlLORc.jpg"
+    },
+    {
+      "name": "AR: Countdown",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCDPKUMX5xrxxQY8XhGVCKO3fks.jpg"
+    },
+    {
+      "name": "AR: Cleavers: Killer Clowns",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/azHt4IQN1SshlUTjrqtjKJcCMHO.jpg"
+    },
+    {
+      "name": "AR: Child's Play",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg"
+    },
+    {
+      "name": "AR: Central Park",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egOPjCJK9VXOJmtmfxF8h8oaYJC.jpg"
+    },
+    {
+      "name": "AR: Cell",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5N6Pw3P6TqQnGcqiVkhO9u85KB.jpg"
+    },
+    {
+      "name": "AR: Catskill Park",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yholAWxuvKUlkg2rHS9s396n4u.jpg"
+    },
+    {
+      "name": "AR: Candy Corn",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTBTFKHAPKPBynoHgMnEBsIWw22.jpg"
+    },
+    {
+      "name": "AR: Cabin Fever",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsGAVZ4gc3ctgNDdVbU9KQb1oxV.jpg"
+    },
+    {
+      "name": "AR: Bullets Of Justice",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIVqlqhEefl8vVgZGMFfyYNICrP.jpg"
+    },
+    {
+      "name": "AR: Brightburn",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg"
+    },
+    {
+      "name": "AR: Boo!",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lnt9yuLlPwmYW3LLzWmQQWrUmK.jpg"
+    },
+    {
+      "name": "AR: Brahms: The Boy II",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg"
+    },
+    {
+      "name": "AR: Bone Tomahawk",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg"
+    },
+    {
+      "name": "AR: Bonehill Road",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7kQTZErzgq3JaxfgXuDFC4MJA3.jpg"
+    },
+    {
+      "name": "AR: Blood Vessel",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kavmE1zj7w3KaaG1NMXp1lZGLZV.jpg"
+    },
+    {
+      "name": "AR: Blood Myth",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nB0qo0U3kAgo3ubUu5zSFXheTFl.jpg"
+    },
+    {
+      "name": "AR: Blood Bound",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pN5eXLQCW4qsUj0UNnPp2H6qNd.jpg"
+    },
+    {
+      "name": "AR: Black Christmas",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMBlUzqwpz9ffbeLsYjyHPp8tn8.jpg"
+    },
+    {
+      "name": "AR: Black Box",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z1zkb4Z9hUlEuC0oMagVJaPUeS.jpg"
+    },
+    {
+      "name": "AR: Big Top Evil",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0ILH92O6zNorl72xzeE2DPVR42.jpg"
+    },
+    {
+      "name": "AR: Better Watch Out",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/liI4c3GYaKuAo4FsCF4RKvFFqbV.jpg"
+    },
+    {
+      "name": "AR: Beneath Us",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqo4lQ5n0hGSdztBLURleHUDnmu.jpg"
+    },
+    {
+      "name": "AR: Beloved Beast",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K2onYXG9GqB3pQkdG2plPOTYxd.jpg"
+    },
+    {
+      "name": "AR: Before Someone Gets Hurt",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUgoy8qSCZ5Y5pBiu5ipufvS16d.jpg"
+    },
+    {
+      "name": "AR: Becky",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqbQtMffXwa3oprse4jiHBMBvdW.jpg"
+    },
+    {
+      "name": "AR: Bad Hair",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/979LvAwRGCkVFgJ04uyPcsPaPF2.jpg"
+    },
+    {
+      "name": "AR: The Dark At The End Of The Tunnel",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXBvbtrvCzAths9qKHzh841nHUL.jpg"
+    },
+    {
+      "name": "AR: Ashes",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/418o6XhqU8GlbYY34F1oLYEdOvS.jpg"
+    },
+    {
+      "name": "AR: Aquaslash",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbjuZet696AjgDPPQDWDxz3Tq2U.jpg"
+    },
+    {
+      "name": "AR: Apostle",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg"
+    },
+    {
+      "name": "AR: A Place In Hell",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaAZVmLYf0xxMQ6JoxmLCOKeUMq.jpg"
+    },
+    {
+      "name": "AR: Anything For Jackson",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W4jCXl5sznY5hlVzNTwNV4AoIW.jpg"
+    },
+    {
+      "name": "AR: Anyone Home?",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mC0faO3ox1LXgvbcFZQlZuAn8Qy.jpg"
+    },
+    {
+      "name": "AR: Antebellum",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg"
+    },
+    {
+      "name": "AR: Annabelle: Creation",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/snYI6TDLkB8wL7SHFyBV6qkJuPx.jpg"
+    },
+    {
+      "name": "AR: Angels Fallen",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ykk0j8rtUXP8420J0xPLD34sni.jpg"
+    },
+    {
+      "name": "AR: Amulet",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/51v67HYQtDkTiqHbIjq7tT8uCHP.jpg"
+    },
+    {
+      "name": "AR: Amityville Island",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1b59rLYEw3WaBGrKBpxaHrEbhUq.jpg"
+    },
+    {
+      "name": "AR: Alpha Wolf",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx5q8NQb0AevMW4V0pZ79nKXgC3.jpg"
+    },
+    {
+      "name": "AR: Along Came The Devil 2",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOmrCA6cO38ZFK1xjZu7Mx9F65E.jpg"
+    },
+    {
+      "name": "AR: Alone In The Dead Of Night",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmrqaBLNGCvbpab5JBWqZTd8rDQ.jpg"
+    },
+    {
+      "name": "AR: All Light Will End",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/OiReATeSgIyIPePtNeaUfQfDGX.jpg"
+    },
+    {
+      "name": "AR: Alien: Covenant",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg"
+    },
+    {
+      "name": "AR: Against The Night",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t28BqgsQqwsgwTge37InGTshySQ.jpg"
+    },
+    {
+      "name": "AR: A Dark Song",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fguce8M1bZnWjVkRWCFh9P3kt6A.jpg"
+    },
+    {
+      "name": "AR: Abominable",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvLvDoGvpGkKOgfmTd4HkPp66Du.jpg"
+    },
+    {
+      "name": "AR: Abigail Haunting",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HW3anU6Zan76XxbCDkd845j4zV.jpg"
+    },
+    {
+      "name": "AR: Aake",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayl8xMCv1lhiOAqg53DgQv745rc.jpg"
+    },
+    {
+      "name": "AR: 47 Meters Down",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IgdRUTdHyoI3nFORcnnYEKOGIH.jpg"
+    },
+    {
+      "name": "AR: 47 Meters Down: Uncaged",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkzavHoNnGCDwt39tNtObhLyD6e.jpg"
+    },
+    {
+      "name": "AR: 30 Miles From Nowhere",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhiUh9HudEdlXoOix1vwawfFfZG.jpg"
+    },
+    {
+      "name": "AR: 13Hrs",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qhqOgZPShib1ACuUthMB0IT0jr.jpg"
+    },
+    {
+      "name": "AR: Underground",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbjIfNKe8wLxYM9eUXaN0vv0pO9.jpg"
+    },
+    {
+      "name": "AR: 3rd Night",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/scJSKsAaIaq9Fw3YINLL0Jj5Jay.jpg"
+    },
+    {
+      "name": "AR: 1st Summoning",
+      "group": "AR - Horrer Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XX4E8zK1l0RXgurixcCP3gxRTr.jpg"
+    },
+    {
+      "name": "AR: Devil's Island",
+      "group": "AR - Horrer Movies",
+      "logo": "http://line.megacdn.live:80/images/eVamYkW77fGAv2GyFiGYehqj5Ne_big.jpg"
+    },
+    {
+      "name": "AR: The Kindred",
+      "group": "AR - Horrer Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/99PE8haWB7nLky627wJBsWn2awJ.jpg"
+    },
+    {
+      "name": "AR: See for Me",
+      "group": "AR - Horrer Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/g2n1lFIFXC0lpG32ysUhFi0Uz61_big.jpg"
+    }
+  ]
+}

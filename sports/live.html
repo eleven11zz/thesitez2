@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live Sports Streams | Upcoming Events Powered by TVMaster</title>
+  <meta name="description" content="Browse upcoming Premier League, NFL, NBA, and UFC fixtures with TVMaster. Live channel listings, device tips, and instant access to 24-hour trials.">
+  <link rel="preload" href="/assets/css/sports-live.css" as="style">
+  <link rel="stylesheet" href="/assets/css/sports-live.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <a href="/index.html" class="brand">
+        <img src="/assets/footer_picture.png" alt="TVMaster logo" loading="lazy" decoding="async">
+        <span>TVMaster</span>
+      </a>
+      <nav class="main-nav">
+        <a href="/index.html#hero">Home</a>
+        <a href="/sports/" class="active">Sports</a>
+        <a href="/sports/live.html">Live Hub</a>
+        <a href="/devices/">Devices</a>
+        <a href="/setup/">Setup</a>
+        <a href="/country/">Countries</a>
+        <a href="/iptv-products.html">Catalogs</a>
+        <a href="/faq.html">FAQ</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="live-hero">
+      <h1>Live Sports Streaming Hub</h1>
+      <p>Up-to-the-minute fixtures pulled from TheSportsDB so you can see what’s streaming next. Filter by sport, check channels, and jump straight into the right TVMaster setup or free trial.</p>
+    </section>
+
+    <section class="featured-slider" data-live-slider hidden>
+      <div class="slider-header">
+        <h2>Next Kickoffs</h2>
+        <div class="slider-controls">
+          <button type="button" class="slider-button" aria-label="Scroll previous" data-live-prev>&larr;</button>
+          <button type="button" class="slider-button" aria-label="Scroll next" data-live-next>&rarr;</button>
+        </div>
+      </div>
+      <div class="slider-track" data-live-track></div>
+    </section>
+
+    <div class="filters" data-live-filters></div>
+
+    <section class="events-wrapper" data-live-wrapper></section>
+  </main>
+
+  <footer>
+    © 2024 TVMaster · Live Sports Hub. <a href="/sitemap.xml">Sitemap</a>
+  </footer>
+
+  <script src="/assets/js/nav.js" defer></script>
+  <script type="module" id="live-events-script" data-events-feed="/assets/js/events.json" src="/assets/js/events.js"></script>
+</body>
+</html>

@@ -1,0 +1,233 @@
+{
+  "package": "world",
+  "name": "DE - Deutschland Sky - Live.",
+  "groupIndex": 33,
+  "totalChannels": 45,
+  "channels": [
+    {
+      "name": "DE: DAZN BAR 1 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/daznbar1.png"
+    },
+    {
+      "name": "DE: DAZN BAR 2 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/daznbar2.png"
+    },
+    {
+      "name": "DE: Eagle Cinema Aktion HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/eaglecinemaaktion.png"
+    },
+    {
+      "name": "DE: Eagle Cinema Horror HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/eaglecinemahorror.png"
+    },
+    {
+      "name": "DE: Eurosport 1 FHD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "DE: Eurosport 2 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "DE: MAX KINO 2 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/maxkino2.png"
+    },
+    {
+      "name": "DE: MAX KINO 3 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/maxkino3.png"
+    },
+    {
+      "name": "DE: MAX KINO 4 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9329566273.png"
+    },
+    {
+      "name": "DE: MAX KINO 5 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/5095795557.png"
+    },
+    {
+      "name": "DE: MAX KINO HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/maxkino.png"
+    },
+    {
+      "name": "DE: MAX Select 2HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7582014285.png"
+    },
+    {
+      "name": "DE: MAX Select 3HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/8678996187.png"
+    },
+    {
+      "name": "DE: Netflix Deutsche 6 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/1757964436.png"
+    },
+    {
+      "name": "DE: SKY 1 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/sky1.png"
+    },
+    {
+      "name": "DE: SKY Action HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skyaction.png"
+    },
+    {
+      "name": "DE: SKY Atlantic HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skyatlantic.png"
+    },
+    {
+      "name": "DE: SKY Bundesliga 8 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skybundesliga8.png"
+    },
+    {
+      "name": "DE: SKY Cinema Family HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skycinemafamily.png"
+    },
+    {
+      "name": "DE: SKY Cinema FUN HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skycinemafun.png"
+    },
+    {
+      "name": "DE: SKY Krimi HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skykrimi.png"
+    },
+    {
+      "name": "DE: SKY Select 1 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skyselect1.png"
+    },
+    {
+      "name": "DE: SKY Select 2 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skyselect2.png"
+    },
+    {
+      "name": "DE: SKY Select 3 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skyselect3.png"
+    },
+    {
+      "name": "DE: SKY Select 4 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skyselect4.png"
+    },
+    {
+      "name": "DE: SKY Select 5 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skyselect5.png"
+    },
+    {
+      "name": "DE: SKY Select 6 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skyselect6.png"
+    },
+    {
+      "name": "DE: SKY Select 7 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skyselect7.png"
+    },
+    {
+      "name": "DE: SKY Sport 1 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysport1.png"
+    },
+    {
+      "name": "DE: SKY Sport 10 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysport10.png"
+    },
+    {
+      "name": "DE: SKY Sport 3 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysport3.png"
+    },
+    {
+      "name": "DE: SKY Sport 4 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysport4.png"
+    },
+    {
+      "name": "DE: SKY Sport 5 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysport5.png"
+    },
+    {
+      "name": "DE: SKY Sport 6 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysport6.png"
+    },
+    {
+      "name": "DE: SKY Sport 7 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysport7.png"
+    },
+    {
+      "name": "DE: SKY Sport 9 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysport9.png"
+    },
+    {
+      "name": "DE: SKY Sport Bundesliga 1 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysportbundesliga1.png"
+    },
+    {
+      "name": "DE: SKY Sport Bundesliga 2 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysportbundesliga2.png"
+    },
+    {
+      "name": "DE: SKY Sport Bundesliga 3 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysportbundesliga3.png"
+    },
+    {
+      "name": "DE: SKY Sport Bundesliga 4 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysportbundesliga4.png"
+    },
+    {
+      "name": "DE: SKY Sport Bundesliga 5 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysportbundesliga5.png"
+    },
+    {
+      "name": "DE: SKY Sport Bundesliga 7 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysportbundesliga7.png"
+    },
+    {
+      "name": "DE: SKY Sport Bundesliga 9 HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysportbundesliga9.png"
+    },
+    {
+      "name": "DE: SKY Sport NEWS HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/skysportnews.png"
+    },
+    {
+      "name": "DE: SYFY HD  (101-SERVERS)",
+      "group": "DE - Deutschland Sky - Live.",
+      "logo": "https://logo.m3uassets.com/syfy.png"
+    }
+  ]
+}

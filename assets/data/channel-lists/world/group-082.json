@@ -1,0 +1,88 @@
+{
+  "package": "world",
+  "name": "FR - News - Live.",
+  "groupIndex": 82,
+  "totalChannels": 16,
+  "channels": [
+    {
+      "name": "FR: BFM Business HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/bfmbusiness.png"
+    },
+    {
+      "name": "FR: BFM TV HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/bfmtv.png"
+    },
+    {
+      "name": "FR: C NEWS HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/cnews.png"
+    },
+    {
+      "name": "FR: Cnews FHD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/cnews.png"
+    },
+    {
+      "name": "FR: Cnews HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/cnews.png"
+    },
+    {
+      "name": "FR: Euronews HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/euronews.png"
+    },
+    {
+      "name": "FR: France 24 HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/24.png"
+    },
+    {
+      "name": "FR: France INFO HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/info.png"
+    },
+    {
+      "name": "FR: France O HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/o.png"
+    },
+    {
+      "name": "FR: I24 NEWS HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/i24news.png"
+    },
+    {
+      "name": "FR: KTO HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/kto.png"
+    },
+    {
+      "name": "FR: KTO TV France HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/70075688331.png"
+    },
+    {
+      "name": "FR: LCI HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/lci.png"
+    },
+    {
+      "name": "FR: LCI HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/lci.png"
+    },
+    {
+      "name": "FR: LCP HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/lcp.png"
+    },
+    {
+      "name": "FR: RTS UN HD  (101-SERVERS)",
+      "group": "FR - News - Live.",
+      "logo": "https://logo.m3uassets.com/rtsun.png"
+    }
+  ]
+}

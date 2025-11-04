@@ -1,0 +1,3843 @@
+{
+  "package": "world",
+  "name": "TR - Netflix Movies",
+  "groupIndex": 454,
+  "totalChannels": 767,
+  "channels": [
+    {
+      "name": "TR: Gerisayım",
+      "group": "TR - Netflix Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5TQ0kM41vWFWFAPbZGitOxDysZU.jpg"
+    },
+    {
+      "name": "TR: Johnny English Strikes Again",
+      "group": "TR - Netflix Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/TCsRhbg6qSpJfJfgcnkm0wNiNP.jpg"
+    },
+    {
+      "name": "TR: Johnny English Reborn",
+      "group": "TR - Netflix Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9LZbmS7FTCuzgrXfhnexZXzgVSB.jpg"
+    },
+    {
+      "name": "TR: Johnny English",
+      "group": "TR - Netflix Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9LZbmS7FTCuzgrXfhnexZXzgVSB.jpg"
+    },
+    {
+      "name": "TR: Cash: Para Kokusu",
+      "group": "TR - Netflix Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/4x9u5HsxeSJu9SW9Pf6fVVDPwxv.jpg"
+    },
+    {
+      "name": "TR: Broad Peak",
+      "group": "TR - Netflix Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hssJ3koEXveKRDXb3r6ujEuySGF.jpg"
+    },
+    {
+      "name": "EN: Loving Adults (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNSqObjKszcxr55buQafQF9ARiC.jpg"
+    },
+    {
+      "name": "TR: The Festival of Troubadours Asiklar Bayrami",
+      "group": "TR - Netflix Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hcIhpCOj4JdvWMyaXUDXOqf7Opj.jpg"
+    },
+    {
+      "name": "TR: The Seven Deadly Sins: Grudge of Edinburgh Part 1",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/g1CSJZwI51YPGATc5iiExxfwvyg.jpg"
+    },
+    {
+      "name": "TR: Kung Fu Hustle",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg"
+    },
+    {
+      "name": "TR: Crawlspace",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yZVByCjWvKdSWcYLacoFmnOoSpm.jpg"
+    },
+    {
+      "name": "TR: Heart of Stone",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg"
+    },
+    {
+      "name": "TR: The Future Groom",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4sDJ0Si1SFxhtRFLgTWwLz2bNXn.jpg"
+    },
+    {
+      "name": "TR: Halloween Kills",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4CclCDyQXBBgz62Qtp3CoflQE5g.jpg"
+    },
+    {
+      "name": "TR: The Coldest Game",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/7YRO2Jamqb6ck5vJqrwWgMFWuPW.jpg"
+    },
+    {
+      "name": "TR: Against All Odds",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/Ac0m41QYoxYBfRoU4cL491vOfEv.jpg"
+    },
+    {
+      "name": "TR: The Glass House",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6z52uWRcOHte8NFte2gXK0ApBPM.jpg"
+    },
+    {
+      "name": "TR: Hellboy",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hjblR6bPZR0PvFwztHcEBCjYf7d.jpg"
+    },
+    {
+      "name": "TR: Head to Head",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cviUizb4Wil59E9tE7cu6IC2IpG.jpg"
+    },
+    {
+      "name": "TR: Untold: Hall of Shame",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg"
+    },
+    {
+      "name": "TR: Untold: Johnny Football",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/e7CKgRnRdE7bk1jl2vhJniX89cU.jpg"
+    },
+    {
+      "name": "TR: Soulcatcher",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/l1f9JSPjCfNftigEii1SDK1g2b3.jpg"
+    },
+    {
+      "name": "TR: Mark Cavendish: Never Enough",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/n4tGTDDCjSko6a7fNU2rbK7ur7T.jpg"
+    },
+    {
+      "name": "TR: Untold: Jake Paul the Problem Child",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/p8nTgFJwkiwqhQQZEtjLgtXgY6U.jpg"
+    },
+    {
+      "name": "TR: National Security",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/nWQqUPhvkSYCdIcc1iaaImuUBB0.jpg"
+    },
+    {
+      "name": "TR: Awakenings",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg"
+    },
+    {
+      "name": "TR: The Seven Deadly Sins: Grudge of Edinburgh Part 2",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/516MFML05KWiPfiQNAsVCGMySc7.jpg"
+    },
+    {
+      "name": "TR: Malazgirt 1071",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg"
+    },
+    {
+      "name": "TR: In the Tall Grass",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1RxhzwFkAUqMt215Brb06u8P8pn.jpg"
+    },
+    {
+      "name": "TR: Mr. Beans Holiday",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zbAlwsJNxfo4VfTy9peDo7itJ0I.jpg"
+    },
+    {
+      "name": "TR: Unknown: Cosmic Time Machine",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1ZxroOwIaD6JGCYraNEJKddOUWp.jpg"
+    },
+    {
+      "name": "TR: Mr. Car and the Knights Templar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/xEAXVe0BzW4K9Ky6eTo4CJwzJ8P.jpg"
+    },
+    {
+      "name": "TR: The Deepest Breath",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4gKAn4npGEBi0HZAbwFZ77reLBR.jpg"
+    },
+    {
+      "name": "TR: Big Nunus Little Heist",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lCMnAVZkOObw1W26Old1V0ONEzF.jpg"
+    },
+    {
+      "name": "TR: Nimona",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg"
+    },
+    {
+      "name": "TR: Run",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/h0AKLEk4XCajdav1hSHIR71cU66.jpg"
+    },
+    {
+      "name": "TR: Run Rabbit Run",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cgetiYyTqJ4CMmPmvDw30nnYj1f.jpg"
+    },
+    {
+      "name": "TR: Pride",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg"
+    },
+    {
+      "name": "TR: The Great Seduction",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4EONm3medZBNfHhost4taqrje1r.jpg"
+    },
+    {
+      "name": "TR: Squared Love Everlasting",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uvy0IEm04MBMYEdcaq3Ont9mNR1.jpg"
+    },
+    {
+      "name": "TR: 10 Days of a Bad Man",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/woY4fKio0ypWqj2uQj96tCiCRXV.jpg"
+    },
+    {
+      "name": "TR: A Life Too Short: The Isabella Nardoni Case",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/7KK4s4QOYemq1fC9stcdZbhIiVm.jpg"
+    },
+    {
+      "name": "TR: Forrest Gump",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg"
+    },
+    {
+      "name": "TR: The Purge",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/x6hwbnR2nGacSzljqYaXY25w1Me.jpg"
+    },
+    {
+      "name": "TR: Ted 2",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qMOt0uy1x49OBW0jzodgRM9waW0.jpg"
+    },
+    {
+      "name": "TR: The Purge: Anarchy",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/f2HD5iVhJWWv72QVWThUKk09zYy.jpg"
+    },
+    {
+      "name": "TR: The Purge: Election Year",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1VlgsPgOozGCzSdDenfLBoo4eNH.jpg"
+    },
+    {
+      "name": "TR: Raw",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg"
+    },
+    {
+      "name": "TR: The First Purge",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/litjsBoiydO6JlO70uOX4N3WnNL.jpg"
+    },
+    {
+      "name": "TR: The Forever Purge",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg"
+    },
+    {
+      "name": "TR: Ted",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg"
+    },
+    {
+      "name": "TR: The Monkey King",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg"
+    },
+    {
+      "name": "TR: Daredevil",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg"
+    },
+    {
+      "name": "TR: 13: The Musical",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rqShG2kTbsVbgrgjfoEwawjR88N.jpg"
+    },
+    {
+      "name": "TR: 14 Peaks: Nothing Is Impossible",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg"
+    },
+    {
+      "name": "TR: 20th Century Girl",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/od22ftNnyag0TTxcnJhlsu3aLoU.jpg"
+    },
+    {
+      "name": "TR: 21 Bridges",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/b40ApfKDPoJYbWepUs7f09Y3fD.jpg"
+    },
+    {
+      "name": "TR: UtÃ¸ya: July 22",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg"
+    },
+    {
+      "name": "TR: 365 Days: This Day",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg"
+    },
+    {
+      "name": "TR: The Next 365 Days",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg"
+    },
+    {
+      "name": "TR: 6 Underground",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg"
+    },
+    {
+      "name": "TR: 7 Prisoners",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg"
+    },
+    {
+      "name": "TR: Leyla Everlasting",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8RnMjhdXAMdZjo56dGMKxYY6AHq.jpg"
+    },
+    {
+      "name": "TR: A Fall from Grace",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/h47JJZ015VF4neia33AFwTU37Yb.jpg"
+    },
+    {
+      "name": "TR: A Secret Love",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/28LNd4KEpqt9i8sgXrVcrdr2kgI.jpg"
+    },
+    {
+      "name": "TR: ARQ",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mU4VeXVK18JtCZsy7i0zczlA9p7.jpg"
+    },
+    {
+      "name": "TR: In for a Murder",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tq5ODEgr1PUxT7HCqDT73SlDIek.jpg"
+    },
+    {
+      "name": "TR: Cahide DevekuÅŸu\\'nun AÃ§Ä±k EvliliÄŸi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/dI8MbhXLg19GQRYb52BsDaTPLFf.jpg"
+    },
+    {
+      "name": "TR: The Unforgivable",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1b3dNFDuE7i05TJlXrIC571yR01.jpg"
+    },
+    {
+      "name": "TR: Agnelli",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9oBEjzlb2QatT2xQBszik2LTGfN.jpg"
+    },
+    {
+      "name": "TR: All Day and a Night",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8xiV8j18GhWnnrfMGaDR0E5oOif.jpg"
+    },
+    {
+      "name": "TR: All My Friends Are Dead",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4GGF9oW3b8qqjvig3n8Qftl4P1Q.jpg"
+    },
+    {
+      "name": "TR: All Together Now",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg"
+    },
+    {
+      "name": "TR: The Golden Cage",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3M3dS0YpiuudmrbKAFoFcXTnezo.jpg"
+    },
+    {
+      "name": "TR: Sextuplets",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ztGSEcowBoHyRwcK0s5kIKVVXwy.jpg"
+    },
+    {
+      "name": "TR: Always Be My Maybe",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3BO6pPa7qDcpPYct061Luh9fvst.jpg"
+    },
+    {
+      "name": "TR: Under the Amalfi Sun",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2vufsfqtJHDjbBFtti8F1ZeSRm4.jpg"
+    },
+    {
+      "name": "TR: Amandla",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qrT3Y0ERClIKCeq025L5rN1xgzr.jpg"
+    },
+    {
+      "name": "TR: Animals on the Loose: A You vs. Wild Interactive Movie",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6ZkhIiJRYLzghOkHrA9X6dbcK3K.jpg"
+    },
+    {
+      "name": "TR: Rising Phoenix",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg"
+    },
+    {
+      "name": "TR: Anne",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mD1agXv4utF5yZcf0pn78gwlHol.jpg"
+    },
+    {
+      "name": "TR: Honeymoon with My Mother",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zmXaK4ajfTUOeb8K13uQ4fNfE8L.jpg"
+    },
+    {
+      "name": "TR: The Invisible Thread",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fxEgIeFjAxVqqySDsYmI2uZcV46.jpg"
+    },
+    {
+      "name": "TR: The Festival of Troubadours",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hcIhpCOj4JdvWMyaXUDXOqf7Opj.jpg"
+    },
+    {
+      "name": "TR: Into the Wind",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/y2lylZT9Czehopiln1D9hc1Bb84.jpg"
+    },
+    {
+      "name": "TR: Love Buzz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ghhSMcULXzz6J8NNItZYYB2tvQx.jpg"
+    },
+    {
+      "name": "TR: Love Tactics",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8RyASTsrKKRnQ9xSGJDuImD8cjX.jpg"
+    },
+    {
+      "name": "TR: Love and Monsters",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg"
+    },
+    {
+      "name": "TR: F*ck Love Too",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/u71tsZpPsIK9kTXbxHtSbNr6oSd.jpg"
+    },
+    {
+      "name": "TR: Doom of Love",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zkOZJDTxy2BmhDLicQ7YzpeNG8a.jpg"
+    },
+    {
+      "name": "TR: Athena",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/s8B0GsFEebd0DW2spykLMxnc1Kn.jpg"
+    },
+    {
+      "name": "TR: Athlete A",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jUVbqKcDgcLSS5s4UV82XUkMKlU.jpg"
+    },
+    {
+      "name": "TR: Prey",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6D7nfhHI7b9ZvW3m7wVMtBSbC9U.jpg"
+    },
+    {
+      "name": "TR: Awake",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg"
+    },
+    {
+      "name": "TR: Ayarlama.(2018). .Set.It.Up.(2018).Romantik.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg"
+    },
+    {
+      "name": "TR: In the Shadow of the Moon",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5DSVYlKwEzGBxTkS95L73c3oxLs.jpg"
+    },
+    {
+      "name": "TR: Caught by a Wave",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/j9O2WXJqF45ynkng4SAsZ1h0OCt.jpg"
+    },
+    {
+      "name": "TR: The Privilege",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qBLi3Nd5JMQGMiOmmfuPgLw5SzD.jpg"
+    },
+    {
+      "name": "TR: aziz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bIJaOpcS965MU19cCVN0fQQBspU.jpg"
+    },
+    {
+      "name": "TR: Stuck Apart",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wMVAcoYtfQuoEBxtZhCJAAJTafE.jpg"
+    },
+    {
+      "name": "TR: The Stronghold",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/nLanxl7Xhfbd5s8FxPy8jWZw4rv.jpg"
+    },
+    {
+      "name": "TR: My Father\\'s Violin",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bwvoSRyXRRqtpvoHYhySQk2U4EM.jpg"
+    },
+    {
+      "name": "TR: Uncorked",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/neUgCuBhafxYQyXTKxwjQejqqa7.jpg"
+    },
+    {
+      "name": "TR: BabamÄ±z EÄŸleniyor",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hZOyJ9YetvCXGAm375Ss7OmAIOi.jpg"
+    },
+    {
+      "name": "TR: Baggio: The Divine Ponytail",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/i0NOqrnE4FhXrk9cHm6DQeRo1Zm.jpg"
+    },
+    {
+      "name": "TR: Water Well",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/Bxkfz0D04p1QZr7LwugOJW22Je.jpg"
+    },
+    {
+      "name": "TR: Bana.Kim.Oldugumu.Soeyle.(2019). Tell.Me.Who.I.Am.(2019).Belgesel.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/Bxkfz0D04p1QZr7LwugOJW22Je.jpg"
+    },
+    {
+      "name": "TR: Bank Robbers: The Last Great Heist",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1qkIyRyXsrXaear1OdJd0QWaAkC.jpg"
+    },
+    {
+      "name": "TR: Bartkowiak",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg"
+    },
+    {
+      "name": "TR: Baska.Turlu.Yapamayiz.(2020). .Wir.Konnen.Nicht.Anders.(2020).Komedi.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg"
+    },
+    {
+      "name": "TR: The Silence of the Marsh",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/vwBelKkECxMdN1UMhwqitPIFsjB.jpg"
+    },
+    {
+      "name": "TR: All Quiet on the Western Front",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg"
+    },
+    {
+      "name": "TR: Battle",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zfGhtAX7xe7W0ZgEcM2n6tnxgc0.jpg"
+    },
+    {
+      "name": "TR: Battle: Freestyle",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6D6QumiHEhnpZG12Ibjy2BxA6n4.jpg"
+    },
+    {
+      "name": "TR: Beauty",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yjAXHyMz0JZzYiQP7q1fT5kXLif.jpg"
+    },
+    {
+      "name": "TR: The Babysitter",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/86a7GRVRCwfl7wdI4QadyvKa6Zu.jpg"
+    },
+    {
+      "name": "TR: The Babysitter: Killer Queen",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/imy1OoT1xddt2kqw6hhc4v01e8i.jpg"
+    },
+    {
+      "name": "TR: Beckett",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg"
+    },
+    {
+      "name": "TR: Love Me Instead",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qkaQgCdWO0NAA790lgRbiIxNqhp.jpg"
+    },
+    {
+      "name": "TR: Yara",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gcVFI8t5QAvXGzQRKA82glDdOr3.jpg"
+    },
+    {
+      "name": "TR: A Castle for Christmas",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg"
+    },
+    {
+      "name": "TR: The Berlin Affair",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/f2nKwNctoGBsx1dMbNCZPrfBEtV.jpg"
+    },
+    {
+      "name": "TR: The White Tiger",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5JnmseS3DZ6ad2VMbrnbGCs8Rst.jpg"
+    },
+    {
+      "name": "TR: Bigbug",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jDJOojbuqgnNVGmKgmuYzBpaIgP.jpg"
+    },
+    {
+      "name": "TR: Binbasi.Igor.Veba.Doktoru.(2021). .Major.Grom.Plague.Doctor.(2021).Aksiyon.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jDJOojbuqgnNVGmKgmuYzBpaIgP.jpg"
+    },
+    {
+      "name": "TR: The Beast",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4zbKISdp5UBgWY2a28dfJY8ouIK.jpg"
+    },
+    {
+      "name": "TR: The Half of It",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg"
+    },
+    {
+      "name": "TR: Fatherhood",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pR2fzm82fl0giommpo310LBOMbV.jpg"
+    },
+    {
+      "name": "TR: Pieces of a Woman",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg"
+    },
+    {
+      "name": "TR: I Came By",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pFB9jZDl52jBNbMPVSlISXD1ggS.jpg"
+    },
+    {
+      "name": "TR: Bird Box",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg"
+    },
+    {
+      "name": "TR: Looop Lapeta",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/onGdT8sYi89drvSJyEJnft97rOq.jpg"
+    },
+    {
+      "name": "TR: Black Beach",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/eecIVH7l34XAC5K80Od2A2vTmK8.jpg"
+    },
+    {
+      "name": "TR: Blonde",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg"
+    },
+    {
+      "name": "TR: Blood.Brothers.Malcolm.X.and.Muhammad.Ali.(2021).Belgesel.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg"
+    },
+    {
+      "name": "TR: Chokehold",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/s0VMKl4eB0KdQr2jPavPum5tVNP.jpg"
+    },
+    {
+      "name": "TR: Break",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/m3wc1fnDyJjw0hiuMN9jxw9s7tI.jpg"
+    },
+    {
+      "name": "TR: The Curse of Bridge Hollow",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg"
+    },
+    {
+      "name": "TR: Rogue City",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9HT9982bzgN5on1sLRmc1GMn6ZC.jpg"
+    },
+    {
+      "name": "TR: Bruised",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg"
+    },
+    {
+      "name": "TR: Nobody Sleeps in the Woods Tonight 2",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6QvepemlDGIiiYsVs0Y1ieFuG7N.jpg"
+    },
+    {
+      "name": "TR: Today We Fix the World",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oNAOqq4x2qXdER1HLThRHRRUeTf.jpg"
+    },
+    {
+      "name": "TR: I Am All Girls",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/voQLcqp0ehF3md93hMpELCRxTDv.jpg"
+    },
+    {
+      "name": "TR: Get the Goat",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rzcdLb0BhPaUJjD2jEcfRMiwOgh.jpg"
+    },
+    {
+      "name": "TR: Afterlife of the Party",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg"
+    },
+    {
+      "name": "TR: Capturing the Killer Nurse",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/384EXJadmQGmNMfB9nrGSBhCupO.jpg"
+    },
+    {
+      "name": "TR: Cargo",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cdPSUck4tBRvRu6DFk6XciDrssn.jpg"
+    },
+    {
+      "name": "TR: Carnaval",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg"
+    },
+    {
+      "name": "TR: Carter",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5fHE4pgAOpebZKj9Wsk4aasLxkM.jpg"
+    },
+    {
+      "name": "TR: Wasp Network",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fzjbeyEwmlpxu5CMzmFz8IDVELm.jpg"
+    },
+    {
+      "name": "TR: Hellhole",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/y47wBamj9vdqBeGaLEFTrYEPTeC.jpg"
+    },
+    {
+      "name": "TR: Cem YÄ±lmaz: Diamond Elite Platinum Plus",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/d7pspvBSo0OLvyfPHU21qjhOWMj.jpg"
+    },
+    {
+      "name": "TR: Surviving Paradise: A Family Tale",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/c7cA49RgpTYgk7Db3XAzb8vExAD.jpg"
+    },
+    {
+      "name": "TR: Centauro",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wOx97MJOxEoR38aoya3lopyrlYC.jpg"
+    },
+    {
+      "name": "TR: Cici",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hzB4hGHkW4NGnjhqTSyTj9AbgGO.jpg"
+    },
+    {
+      "name": "TR: Double Dad",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hqNt5S8z2a7U48RZ0WZ5okdRjfu.jpg"
+    },
+    {
+      "name": "TR: Rattlesnake",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg"
+    },
+    {
+      "name": "TR: The Cloverfield Paradox",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg"
+    },
+    {
+      "name": "TR: Convergence: Courage in a Crisis",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/j76kEZClLY7mFpS619zV6a0gGHN.jpg"
+    },
+    {
+      "name": "TR: Da 5 Bloods",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg"
+    },
+    {
+      "name": "TR: The Father Who Moves Mountains",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/d2aGQwebCkXqNqOVYGqOzPhguCa.jpg"
+    },
+    {
+      "name": "TR: Dancing Queens",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg"
+    },
+    {
+      "name": "TR: Dangerous Lies",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/m85QIC42laGfLDxW7DzIFDrWogP.jpg"
+    },
+    {
+      "name": "TR: David Attenborough: A Life on Our Planet",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg"
+    },
+    {
+      "name": "TR: David and the Elves",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gdQml1N2kysb1wKAGqTu3ZuQADW.jpg"
+    },
+    {
+      "name": "TR: Day Shift",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bI7lGR5HuYlENlp11brKUAaPHuO.jpg"
+    },
+    {
+      "name": "TR: The Kissing Booth 2",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg"
+    },
+    {
+      "name": "TR: The Kissing Booth 3",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg"
+    },
+    {
+      "name": "TR: ...Watch Out, We\\'re Mad",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ohiRHcLgqtpg82Keglufvlp8xuu.jpg"
+    },
+    {
+      "name": "TR: Earthquake Bird",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oyKnosHXQ7kkhlGwqsWOvn4RgKR.jpg"
+    },
+    {
+      "name": "TR: No Limit",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fUdeneiMUQkE1Yb3Qx7dML0HVf.jpg"
+    },
+    {
+      "name": "TR: Dick Johnson Is Dead",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2h8bkpyGK0U5cVCH79Hzw1LT5qn.jpg"
+    },
+    {
+      "name": "TR: Diorama",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gQrjtU0B8nGu9fB3ZDkxcXA4lLE.jpg"
+    },
+    {
+      "name": "TR: Wheelman",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg"
+    },
+    {
+      "name": "TR: The Wandering Earth",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/woo56L6LYYoM89DYBCU2C6LO1at.jpg"
+    },
+    {
+      "name": "TR: Below Zero",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oYEORVxp2ZfknTQYhEsNkv2HYss.jpg"
+    },
+    {
+      "name": "TR: Two",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5P7QwmoYl70tsRZ8e0VnI9RI1MF.jpg"
+    },
+    {
+      "name": "TR: Wedding Season",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mFeXAZ1oOECPqEu8c2i4L5LmNyY.jpg"
+    },
+    {
+      "name": "TR: See You Yesterday",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg"
+    },
+    {
+      "name": "TR: News of the World",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg"
+    },
+    {
+      "name": "TR: Rim of the World",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg"
+    },
+    {
+      "name": "TR: DÃ¼ÅŸeÅŸ - Mafya SÄ±zÄ±ntÄ±sÄ±",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/Ze0foEvzoSBjRQbFxo9DlTtPZC.jpg"
+    },
+    {
+      "name": "TR: Downfall: The Case Against Boeing",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/LRPi6b6gpDyKuveut38S8R38NI.jpg"
+    },
+    {
+      "name": "TR: Dynasty Warriors",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/7BCTdek5LFHglcgl7shsm7igJAH.jpg"
+    },
+    {
+      "name": "TR: Edge of Fear",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/beGV7Zm7liyYCUMVUeZr6rr6cSU.jpg"
+    },
+    {
+      "name": "TR: El Camino: A Breaking Bad Movie",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg"
+    },
+    {
+      "name": "TR: Eli",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg"
+    },
+    {
+      "name": "TR: The Last Mercenary",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ttpKJ7XQxDZV252KNEHXtykYT41.jpg"
+    },
+    {
+      "name": "TR: Nightbooks",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ysJte1iqN8pFQ470tumnViB1wHP.jpg"
+    },
+    {
+      "name": "TR: Against the Ice",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg"
+    },
+    {
+      "name": "TR: Enola Holmes 2",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg"
+    },
+    {
+      "name": "TR: Erax",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rMp04rYhy4yfOfjZq5F9R3wkeqo.jpg"
+    },
+    {
+      "name": "TR: Blasted",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yWlBvsPl9y2h03padhD2tIG0rqy.jpg"
+    },
+    {
+      "name": "TR: Intrusion",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg"
+    },
+    {
+      "name": "TR: Extraction",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg"
+    },
+    {
+      "name": "TR: Extremely Wicked, Shockingly Evil and Vile",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zSuJ3r5zr5T26tTxyygHhgkUAIM.jpg"
+    },
+    {
+      "name": "TR: Fatal Affair",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg"
+    },
+    {
+      "name": "TR: Offering to the Storm",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bLZeYC5XBi3SuJFhyNFpAGGneQH.jpg"
+    },
+    {
+      "name": "TR: Fistful of Vengeance",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3cccEF9QZgV9bLWyupJO41HSrOV.jpg"
+    },
+    {
+      "name": "TR: Forever Rich",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg"
+    },
+    {
+      "name": "TR: Fractured",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg"
+    },
+    {
+      "name": "TR: Free Rein: The Twelve Neighs of Christmas",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/brQBJQkWTZMuq89qTeFds7X7cqW.jpg"
+    },
+    {
+      "name": "TR: Fullmetal Alchemist: The Final Alchemy",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/AeyiuQUUs78bPkz18FY3AzNFF8b.jpg"
+    },
+    {
+      "name": "TR: Fullmetal Alchemist: The Revenge of Scar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/c5OwwBNyJkwyroIOIJL9IiRjydR.jpg"
+    },
+    {
+      "name": "TR: The Midnight Sky",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tbI9bhZlYmfWGkqY1Wje9Sg3He9.jpg"
+    },
+    {
+      "name": "TR: Last Summer",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/iPtCd4sSWW1q9O5dWEzWKrVeCcY.jpg"
+    },
+    {
+      "name": "TR: Night Teeth",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg"
+    },
+    {
+      "name": "TR: Murder Mystery 2",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg"
+    },
+    {
+      "name": "TR: Gladbeck: The Hostage Crisis",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3gQVzkLd8GxqNVG5t5CkQEvMDnD.jpg"
+    },
+    {
+      "name": "TR: Go",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kP0OOAa4GTZSUPW8fgPbk1OmKEW.jpg"
+    },
+    {
+      "name": "TR: Go!",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tOLC9552jBvymwsgHc3ri2SyuyD.jpg"
+    },
+    {
+      "name": "TR: Heartsong",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8LMdLAReF10fxO1imTiVR9OllNR.jpg"
+    },
+    {
+      "name": "TR: Confessions of an Invisible Girl",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fRxz9cKaCOF5noUBvoA6cebOdUE.jpg"
+    },
+    {
+      "name": "TR: Forgive Us Our Trespasses",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4RYZSHM3eaxXAnjbgNiVaqmekL8.jpg"
+    },
+    {
+      "name": "TR: The Takeover",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/g7rdcofib7HqdlDP1LT7Hmf1f2o.jpg"
+    },
+    {
+      "name": "TR: An Accident",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/iFKRA8kCddfN0B23EXbSW3sOgI4.jpg"
+    },
+    {
+      "name": "TR: Ghost Stories",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tQeLzheMNQClBAXy9t1HvZFzhYD.jpg"
+    },
+    {
+      "name": "TR: Slumberland",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oGd2JUEtr0BZN3pK8yakmoZlVFq.jpg"
+    },
+    {
+      "name": "TR: Walk. Ride. Rodeo.",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/abAharR0CpdGp68lU0846idLKRy.jpg"
+    },
+    {
+      "name": "TR: Keemat",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/7BZpQwG9cSfs5oubtkSjXQNIE2.jpg"
+    },
+    {
+      "name": "TR: All the Bright Places",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg"
+    },
+    {
+      "name": "TR: Outlaw King",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rT49ousKUWN3dV7UlhaC9onTNdl.jpg"
+    },
+    {
+      "name": "TR: Good Sam",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kRW319DZakOxr4QYjZlZDuAkvZO.jpg"
+    },
+    {
+      "name": "TR: Yes Day",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg"
+    },
+    {
+      "name": "TR: Her.Zaman.Seytan.(2020). .The.Devil.All.the.Time.(2020).Suc.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg"
+    },
+    {
+      "name": "TR: Hillbilly Elegy",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg"
+    },
+    {
+      "name": "TR: Hypnotic",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg"
+    },
+    {
+      "name": "TR: The Taming of the Shrewd",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4JXsbuWTHWy9KieVRef5CmrzDN6.jpg"
+    },
+    {
+      "name": "TR: Army of Thieves",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg"
+    },
+    {
+      "name": "TR: His House",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/idh2QAy5NwBRN94ScmtWrukvOgJ.jpg"
+    },
+    {
+      "name": "TR: Hold Your Breath: The Ice Dive",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/efAxEHMvlgE4qterU0FWwovxkOa.jpg"
+    },
+    {
+      "name": "TR: Hold the Dark",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1etEySwZQnBJpzgplgadPi5y4PL.jpg"
+    },
+    {
+      "name": "TR: Holidate",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oXCLSlCRWWHsSSwLJSVIC0DDWsE.jpg"
+    },
+    {
+      "name": "TR: Holiday in the Wild",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kDXMzBpiUJld5zLnSqDmGln3XuM.jpg"
+    },
+    {
+      "name": "TR: HollyBlood",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ts82TuL0Uz2P3YNbMzZWC9Kp16Q.jpg"
+    },
+    {
+      "name": "TR: Home Team",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg"
+    },
+    {
+      "name": "TR: Hope Frozen: A Quest To Live Twice",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/co5OvO1gICmqpqmhhpiIYpo5xRw.jpg"
+    },
+    {
+      "name": "TR: Horse Girl",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hNQ7st9dFXUXENMcsAuVxcrIBfA.jpg"
+    },
+    {
+      "name": "TR: Hustle",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/xWic7kPq13oRxYjbGLApXCnc7pz.jpg"
+    },
+    {
+      "name": "TR: I Care a Lot",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg"
+    },
+    {
+      "name": "TR: EO",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg"
+    },
+    {
+      "name": "TR: Live Twice, Love Once",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/AhxpEQ0C1UGqMWHBucw0Fj7S3mD.jpg"
+    },
+    {
+      "name": "TR: Persuasion",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/s99WrKSEVR4RVvwm5Zn2cqrHTMM.jpg"
+    },
+    {
+      "name": "TR: Illang: The Wolf Brigade",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/71JMWqNDRz2Au59JYosfn5W8nuS.jpg"
+    },
+    {
+      "name": "TR: You Get Me",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5eV0mIQqSztD3McjO22EOFlQDj1.jpg"
+    },
+    {
+      "name": "TR: Inside the Mind of a Cat",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lqngTIvF2UdcK9uTZ8nLX3AfbHp.jpg"
+    },
+    {
+      "name": "TR: Interceptor",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cpWUtkcgRKeauhTyVMjYHxAutp4.jpg"
+    },
+    {
+      "name": "TR: Do Revenge",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/akIjKJDHcVN4bzifcEarKVPNpoa.jpg"
+    },
+    {
+      "name": "TR: Is That Black Enough for You?!?",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5ZJaBhx92ZC7COaQ8QQX6fCBqel.jpg"
+    },
+    {
+      "name": "TR: Mary Queen of Scots",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg"
+    },
+    {
+      "name": "TR: The Trip",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ygTIsPG7dREi5AlO0S9EMbmvdae.jpg"
+    },
+    {
+      "name": "TR: Jackass 4.5",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bl686OSeMQOvs90IQAgt8QipCsB.jpg"
+    },
+    {
+      "name": "TR: The Chalk Line",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ifxAT8LVbSCxAi290VplTwbEQNh.jpg"
+    },
+    {
+      "name": "TR: Halftime",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jUVglxBw7KSkcVEhvfJs1eipPnk.jpg"
+    },
+    {
+      "name": "TR: Jingle Jangle: A Christmas Journey",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5RbyHIVydD3Krmec1LlUV7rRjet.jpg"
+    },
+    {
+      "name": "TR: Juanita",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yKq6LErlgWizCtl3DcdYv86xn2e.jpg"
+    },
+    {
+      "name": "TR: Just Say Yes",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3btDwus5VN5jOWfA9strpDJWwfj.jpg"
+    },
+    {
+      "name": "TR: The Love Affair",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/twyBxyRY4pit9fUMslgZTZRYEYY.jpg"
+    },
+    {
+      "name": "TR: Cadaver",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bo94ZQ0SlFRHL3fGPHNBYQDlnhl.jpg"
+    },
+    {
+      "name": "TR: The Match",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pPOoMzOC7GX5aFbdbQCczSqywMQ.jpg"
+    },
+    {
+      "name": "TR: Kadife.Testere.(2019). .Velvet.Buzzsaw.(2019).Gerilim.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rViQPcrWthMNecp5XnkKev6BzW.jpg"
+    },
+    {
+      "name": "TR: Paper Lives",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg"
+    },
+    {
+      "name": "TR: We Can Be Heroes",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg"
+    },
+    {
+      "name": "TR: Don\\'t Leave",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9TN5ucb5t2CElp1i3LiHZXPSrgG.jpg"
+    },
+    {
+      "name": "TR: Sounds Like Love",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tYUdh9HsTHLd2GJUtAyKg3InlXs.jpg"
+    },
+    {
+      "name": "TR: Heart Shot",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ubaCN0FjWhxiu1uHhI9oXSgalVK.jpg"
+    },
+    {
+      "name": "TR: Purple Hearts",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4JyNWkryifWbWXJyxcWh3pVya6N.jpg"
+    },
+    {
+      "name": "TR: Black Crab",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mcIYHZYwUbvhvUt8Lb5nENJ7AlX.jpg"
+    },
+    {
+      "name": "TR: The Lockdown Plan",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/aZn7D3zWjCqOwrWwf3LhxPaSINo.jpg"
+    },
+    {
+      "name": "TR: The Catholic School",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/WTTXAtuyQY93oe1yetWYMGbO7K.jpg"
+    },
+    {
+      "name": "TR: KayÄ±p KÄ±zlar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/nDo5780Gov9pylfmiNhzIJtfD0h.jpg"
+    },
+    {
+      "name": "TR: Lost Bullet 2",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg"
+    },
+    {
+      "name": "TR: The Forgotten Battle",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg"
+    },
+    {
+      "name": "TR: Skater Girl",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg"
+    },
+    {
+      "name": "TR: The Legacy of the Bones",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3sXHjTQGnlLJEVGxpmOa29Rr53O.jpg"
+    },
+    {
+      "name": "TR: To the Bone",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pkdxhdB3dRUqazqoy9lzUvhayjc.jpg"
+    },
+    {
+      "name": "TR: KeÅŸif",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/vELPBob9awvwQlERkFCZExyuOCa.jpg"
+    },
+    {
+      "name": "TR: Kidnapping Stella",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/g10YPJa9ePy1kKmTusAeDXBTeAl.jpg"
+    },
+    {
+      "name": "TR: No One Gets Out Alive",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg"
+    },
+    {
+      "name": "TR: Meeting Point",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4fWK27wNdJPEOTc3JYEL0st8wbv.jpg"
+    },
+    {
+      "name": "TR: Kin",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg"
+    },
+    {
+      "name": "TR: Kingdom: Ashin of the North",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/piGZDwFW4urLYDWGiYJMrt6hdCS.jpg"
+    },
+    {
+      "name": "TR: Blood Red Sky",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg"
+    },
+    {
+      "name": "TR: Ludo",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fA21PhxZm2GU2x8lmH7Ty2fIiPx.jpg"
+    },
+    {
+      "name": "TR: Kopegin.Gucu.(2021). .The.Power.of.the.Dog.(2021).Dram.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fA21PhxZm2GU2x8lmH7Ty2fIiPx.jpg"
+    },
+    {
+      "name": "TR: Fear Street: 1994",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg"
+    },
+    {
+      "name": "TR: Fear Street: 1666",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg"
+    },
+    {
+      "name": "TR: Diana Krall - Let\\'s Face The Music",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/A3Yohanu9PANEf5eTLq4bjnrzqP.jpg"
+    },
+    {
+      "name": "TR: Rescued by Ruby",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tPlJEodEn0SSV4avo8KSawtlTlN.jpg"
+    },
+    {
+      "name": "TR: Coven",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lyB3yoQbGO3LiCVuSOD2g17Hr6p.jpg"
+    },
+    {
+      "name": "TR: Dancing with the Birds",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/xHniRlXBt1sJ1bOqy9ZjtEtkw70.jpg"
+    },
+    {
+      "name": "TR: A Perfect Pairing",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/h65lLhYEfRGOWVZzwX9n7vYOixf.jpg"
+    },
+    {
+      "name": "TR: The Swarm",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg"
+    },
+    {
+      "name": "TR: Gun City",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4NHhkMHXROCiPMb8gjmRI6AMX4I.jpg"
+    },
+    {
+      "name": "TR: Lead Me Home",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rrsrOldUfXn5vd5HP3BAYxLTjpO.jpg"
+    },
+    {
+      "name": "TR: Senior Year",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg"
+    },
+    {
+      "name": "TR: Live Is Life",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8mxHAHepyXaV9rAhYIbimv11Pqy.jpg"
+    },
+    {
+      "name": "TR: L.A. Confidential",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg"
+    },
+    {
+      "name": "TR: Lou",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/djM2s4wSaATn4jVB33cV05PEbV7.jpg"
+    },
+    {
+      "name": "TR: Love Wedding Repeat",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/u0MV99rB1hv8tkjtBJHfwIGCVKD.jpg"
+    },
+    {
+      "name": "TR: Love and Leashes",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/A3QOfTfkNcGKn2UyUqHDDFyjDvi.jpg"
+    },
+    {
+      "name": "TR: Lulli",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ztJHKv6KSSgCTWAI2STrX2BeuJZ.jpg"
+    },
+    {
+      "name": "TR: Malibu Rescue",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/nUP0w4h689u6qbbkjfXO8yI8Zu1.jpg"
+    },
+    {
+      "name": "TR: Madame Claude",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9miY5tHWmvVAft4gjqyaXyhLYHY.jpg"
+    },
+    {
+      "name": "TR: Malibu Rescue: The Next Wave",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/7B1gSxMdgZCCJcMRgo65T5lByMw.jpg"
+    },
+    {
+      "name": "TR: The Mystery of Marilyn Monroe: The Unheard Tapes",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg"
+    },
+    {
+      "name": "TR: Masal.Bitti.Ve.Ben.Buyudum.(2022). .Za.duzy.na.bajki.(2022).Aile.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwT58VqFZyAeQbscfynxtroqaft.jpg"
+    },
+    {
+      "name": "TR: Blue Miracle",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/xBdP9Z0oVAx25tM2gUOtq298jxR.jpg"
+    },
+    {
+      "name": "TR: Me Time",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bkjPoisqAavXUvtoirxTEcLLQyI.jpg"
+    },
+    {
+      "name": "TR: Chasing Coral",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/AvRHRqI4ahmEwscylU10iaNo5RY.jpg"
+    },
+    {
+      "name": "TR: Mercy",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qw7FkjLxsDj5vmBk04L2dkiJopo.jpg"
+    },
+    {
+      "name": "TR: Merhaba",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/aTx3r9OHIjdjfp24TpW9ycv8J6a.jpg"
+    },
+    {
+      "name": "TR: Metal Lords",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/r97txZRmBb75SGsIAWqmplWJnO3.jpg"
+    },
+    {
+      "name": "TR: The Prom",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/i7An8UravfzqaU7SuumaWEVRqVU.jpg"
+    },
+    {
+      "name": "TR: Little Evil",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/na7hmXernwsm59rEBwewJ0mf53m.jpg"
+    },
+    {
+      "name": "TR: Mirror Mirror",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg"
+    },
+    {
+      "name": "TR: Monstrum",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6W8gsOvI9B6JeSsKBrW0GSO4BeV.jpg"
+    },
+    {
+      "name": "TR: Mother/Android",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg"
+    },
+    {
+      "name": "TR: Moxie",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg"
+    },
+    {
+      "name": "TR: The Perfect Family",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ejRrpBuWj8MNkFP7DUHZoqhuGmV.jpg"
+    },
+    {
+      "name": "TR: The Guide to the Perfect Family",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cBhkSwZpb3QpUwFuFdWAXTqWAtS.jpg"
+    },
+    {
+      "name": "TR: The Perfect Date",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg"
+    },
+    {
+      "name": "TR: Munich: The Edge of War",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg"
+    },
+    {
+      "name": "TR: Murder to Mercy - The Cyntoia Brown Story",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3td2LcbqYrQCSWjIhJjQfOsxrkJ.jpg"
+    },
+    {
+      "name": "TR: How It Ends",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/prdFM08mGvVDA6uQxKJh8n8Vek1.jpg"
+    },
+    {
+      "name": "TR: The Secret Life of Nikola Tesla",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/teuDrqS7xj1mCKrORarJFCxSs43.jpg"
+    },
+    {
+      "name": "TR: NÃ¶betÃ§i",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1jDz7yPoBitKfCYjuwG9zZFGnRw.jpg"
+    },
+    {
+      "name": "TR: Falling for Christmas",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
+    },
+    {
+      "name": "TR: Christmas Inheritance",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg"
+    },
+    {
+      "name": "TR: A Christmas Prince",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/x0IGQsMzVbsF7noj5cCfEk1GU7s.jpg"
+    },
+    {
+      "name": "TR: Oh",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cynTn6x8C115LKXlfoTY5QDXZmC.jpg"
+    },
+    {
+      "name": "TR: Okja",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg"
+    },
+    {
+      "name": "TR: Don\\'t Kill Me",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/d76rZrqTzw3lRE6bQZC86tJ9W3.jpg"
+    },
+    {
+      "name": "TR: Army of the Dead",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/z8CExJekGrEThbpMXAmCFvvgoJR.jpg"
+    },
+    {
+      "name": "TR: Valley of the Dead",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/avokvOwhjVR9GgISsSSgb2A343G.jpg"
+    },
+    {
+      "name": "TR: Death Note",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1X19j2albvewAdnTNHx2fFXjOcC.jpg"
+    },
+    {
+      "name": "TR: The Anthrax Attacks: In the Shadow of 9/11",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bTJvGRD7AKaEMUOahCDfvq5rwx5.jpg"
+    },
+    {
+      "name": "TR: First They Killed My Father",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5370jxJfZQY8TUZiiGkpNgvRwU9.jpg"
+    },
+    {
+      "name": "TR: Operation Varsity Blues: The College Admissions Scandal",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qZJuctnatinO0OpnruGOWaT4Bga.jpg"
+    },
+    {
+      "name": "TR: Ortaklar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rydmf4HlLmjcCAQUuzkgIWlOIxq.jpg"
+    },
+    {
+      "name": "TR: More the Merrier",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uShw8wJ7K4ySrPtUWjGe8wwJ5fj.jpg"
+    },
+    {
+      "name": "TR: Outside the Wire",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg"
+    },
+    {
+      "name": "TR: Look Both Ways",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jq8IGJgg16mJ95a5OPyS7eGJaam.jpg"
+    },
+    {
+      "name": "TR: The Perfumier",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ieivbB7SDenOGfqae0vZdJQfJA.jpg"
+    },
+    {
+      "name": "TR: The After Party",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wFPGheX6X4bt1ZqP1870MPlUvGu.jpg"
+    },
+    {
+      "name": "TR: Passing",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jXp6ERnrFdG04Gli3d34GtANsuw.jpg"
+    },
+    {
+      "name": "TR: For Jojo",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/42RRcJILSGQWARILZjtKHSijRPb.jpg"
+    },
+    {
+      "name": "TR: The Woman in the Window",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wcrjc1uwQaqoqtqi67Su4VCOYo0.jpg"
+    },
+    {
+      "name": "TR: Brazen",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg"
+    },
+    {
+      "name": "TR: The Royal Treatment",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mYAv0YUoXJzLxIdEirOken8Quwf.jpg"
+    },
+    {
+      "name": "TR: Annika Bengtzon: Crime Reporter - Prime Time",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zohaTLTrQoN1oeMm2jr6VS6YEgJ.jpg"
+    },
+    {
+      "name": "TR: Project Wolf Hunting",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/dniWicB6fa7NvpGbguxWlNPMc5f.jpg"
+    },
+    {
+      "name": "TR: Rebecca",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg"
+    },
+    {
+      "name": "TR: Recovery Boys",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/i8lsiLjNuEED3yxlmp89s4WAlOp.jpg"
+    },
+    {
+      "name": "TR: Red Notice",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg"
+    },
+    {
+      "name": "TR: Rich in Love",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/dVqRATKlpCoWy96lfxiHc9TY9An.jpg"
+    },
+    {
+      "name": "TR: The Rhythm Section",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/spTr0VYyRtl36Lkk6nCnnbFXhus.jpg"
+    },
+    {
+      "name": "TR: The Voyeurs",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg"
+    },
+    {
+      "name": "TR: Royalteen",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oK6I9Wa5RIqxpNbJ4NWemsotcYJ.jpg"
+    },
+    {
+      "name": "TR: Running with the Devil: The Wild World of John McAfee",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jcCPTtnBj9W52d97QyO9X6Xxfg7.jpg"
+    },
+    {
+      "name": "TR: Friendzone",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/eAijMbeJTjBbjnevbtRve4sWGxf.jpg"
+    },
+    {
+      "name": "TR: Bad Trip",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/A1Gy5HX3DKGaNW1Ay30NTIVJqJ6.jpg"
+    },
+    {
+      "name": "TR: Don\\'t Listen",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lXvBgevABC9n5R6Gg76R3pN1h2M.jpg"
+    },
+    {
+      "name": "TR: Savas.Makinesi.(2017). .War.Machine.(2017).Komedi.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lXvBgevABC9n5R6Gg76R3pN1h2M.jpg"
+    },
+    {
+      "name": "TR: Fever Dream",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/i8aR3usDzjSCeJ78ttHxNDCaEhc.jpg"
+    },
+    {
+      "name": "TR: Schumacher",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/anML75BmiZ8jg4C9UsbMpmSD4Ct.jpg"
+    },
+    {
+      "name": "TR: The 8th Night",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/trSDStH3UP4ux4lAILNNSqDXSB3.jpg"
+    },
+    {
+      "name": "TR: The Four of Us",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zBqdSGsgDy65yFvExc5wKPSl1OD.jpg"
+    },
+    {
+      "name": "TR: Have You Ever Seen Fireflies?",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lZucbxHPkb5Xla5ivOcKim7A1NO.jpg"
+    },
+    {
+      "name": "TR: In Good Hands",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/eymTgzHgYretvL5mT7pwznX4p34.jpg"
+    },
+    {
+      "name": "TR: Crazy About Her",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hPBJckYsL1UOsz44InZ2wYJyJTy.jpg"
+    },
+    {
+      "name": "TR: Sergio",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tABtj9BwYVDCM69h7AK38MDgw64.jpg"
+    },
+    {
+      "name": "TR: Seoul Vibe",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/txaOvJ6HURmqFbpVtJezWNWqaR4.jpg"
+    },
+    {
+      "name": "TR: To All the Boys: P.S. I Still Love You",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/maib5VlmEqp5xlN8lptnBSftp2o.jpg"
+    },
+    {
+      "name": "TR: To All the Boys: Always and Forever",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/iepqdM52f4w75fNcvgRF5QoIAjm.jpg"
+    },
+    {
+      "name": "TR: The Main Event",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tzg5AEEu1T7nFOCq4gKbGBObhdk.jpg"
+    },
+    {
+      "name": "TR: Silverton Siege",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg"
+    },
+    {
+      "name": "TR: Sinir.Yasalari.(2021). .Las.leyes.de.la.frontera.(2021).Gerilim.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg"
+    },
+    {
+      "name": "TR: Sky High",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pUT5Fa1TskzkTmATpYGiW49PTEg.jpg"
+    },
+    {
+      "name": "TR: Beasts of No Nation",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg"
+    },
+    {
+      "name": "TR: Black and White",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1mk6Ak7PkMxi0tjaxL2AgmmV33R.jpg"
+    },
+    {
+      "name": "TR: Someone Great",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg"
+    },
+    {
+      "name": "TR: The Highwaymen",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4bRYg4l12yDuJvAfqvUOPnBrxno.jpg"
+    },
+    {
+      "name": "TR: Autumn Girl",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/i9bWt4ZFUpgZRCn5dB4cWW1zY61.jpg"
+    },
+    {
+      "name": "TR: The Endless Trench",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rgS3e3sTUHeVgKzKmFhIJcl9tVA.jpg"
+    },
+    {
+      "name": "TR: Beyond Infinity: Buzz and the Journey to Lightyear",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mnp0INIjyWt4AziWmTHgPk9IFoE.jpg"
+    },
+    {
+      "name": "TR: The Social Dilemma",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jcaM6V2tCtu6iMHDsGLBUbaYgYp.jpg"
+    },
+    {
+      "name": "TR: Under the Riccione Sun",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/swxumQljyst2dzun8k1gaLu85mz.jpg"
+    },
+    {
+      "name": "TR: Space Sweepers",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bmemsraCG1kIthY74NjDnnLRT2Q.jpg"
+    },
+    {
+      "name": "TR: The Speed Cubers",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wuJmswUneNrlCUYpZ8NDU7FHjIG.jpg"
+    },
+    {
+      "name": "TR: Spenser Confidential",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg"
+    },
+    {
+      "name": "TR: Spiderhead",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg"
+    },
+    {
+      "name": "TR: Stutz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uOiJmotRM12wsgfwiEXsp3AErdU.jpg"
+    },
+    {
+      "name": "TR: SuÃ§lu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gkAL7yccOHE1H8Iq8CTUak2Fs4v.jpg"
+    },
+    {
+      "name": "TR: Sand Storm",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ac1fT6Lv7k2GrINl6gKMUcFyqD4.jpg"
+    },
+    {
+      "name": "TR: The Sleepover",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9iEc34Qje2V3FZnrSXKfZsbiHjW.jpg"
+    },
+    {
+      "name": "TR: Tall Girl",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/m0clsFEXidLVJ0TueqWOvvImOMh.jpg"
+    },
+    {
+      "name": "TR: Tall Girl 2",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg"
+    },
+    {
+      "name": "TR: The Wrath of God",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/lFhxNXEK0UpXXqSbhba83Zhl2uk.jpg"
+    },
+    {
+      "name": "TR: Wine Country",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mi5l29DQFdwrTXxbqM2OLbs830H.jpg"
+    },
+    {
+      "name": "TR: Dangerous Liaisons",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg"
+    },
+    {
+      "name": "TR: Red Dot",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/xZ2KER2gOHbuHP2GJoODuXDSZCb.jpg"
+    },
+    {
+      "name": "TR: The One I Love",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ewsYTI6KKQw3IDPFmVVbHq89kxv.jpg"
+    },
+    {
+      "name": "TR: Texas Chainsaw Massacre",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/7sKiGNWFM15WNyY7LYd5vmb3brO.jpg"
+    },
+    {
+      "name": "TR: The Adam Project",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg"
+    },
+    {
+      "name": "TR: The Angel",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/d5vBixJD1coOvHvr8N2pbyffxFU.jpg"
+    },
+    {
+      "name": "TR: The Boys in the Band",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2D2gi13hnrXWaspWuWmdbEZ8bef.jpg"
+    },
+    {
+      "name": "TR: The Bubble",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/edYk5TSowZIDv138bCpF5ls3XI5.jpg"
+    },
+    {
+      "name": "TR: The Christmas Chronicles",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg"
+    },
+    {
+      "name": "TR: The Death and Return of Superman",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qdEhhPYsfIeWSNTfzHShHOkDfDD.jpg"
+    },
+    {
+      "name": "TR: The Dig",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/dFDNb9Gk1kyLRcconpj7Mc7C7IL.jpg"
+    },
+    {
+      "name": "TR: The Forty-Year-Old Version",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ilMExVn5xyfIWAnqngqAB0OFsE5.jpg"
+    },
+    {
+      "name": "TR: The Good Nurse",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg"
+    },
+    {
+      "name": "TR: The Gray Man",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5Eom3JsXgQlCj6QIsGCwXkX7wyH.jpg"
+    },
+    {
+      "name": "TR: The Great Hack",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uIrGgUzasEUA7v8uChRhUUFzLwE.jpg"
+    },
+    {
+      "name": "TR: The Harder They Fall",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/su9WzL7lwUZPhjH6eZByAYFx2US.jpg"
+    },
+    {
+      "name": "TR: The Irishman",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg"
+    },
+    {
+      "name": "TR: The Last Days of American Crime",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg"
+    },
+    {
+      "name": "TR: The Last Thing He Wanted",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gItrnbEbMBbUrdIkFz8kgS2gkt.jpg"
+    },
+    {
+      "name": "TR: The Laundromat",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg"
+    },
+    {
+      "name": "TR: The Martha Mitchell Effect",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yqVHlP8K9LtRGrOr10xhVZDcNAY.jpg"
+    },
+    {
+      "name": "TR: The Minimalists: Less Is Now",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1foXpKnMMAL1OzBrCS3CcwnHO7S.jpg"
+    },
+    {
+      "name": "TR: The Old Guard",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg"
+    },
+    {
+      "name": "TR: The Princess Switch: Switched Again",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/e4qXQXXaVYvHBE3Rx5x3qrmxorB.jpg"
+    },
+    {
+      "name": "TR: The Princess Switch 3: Romancing the Star",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/d42eVP0SdHEKUoUnaFpF2eMz4hZ.jpg"
+    },
+    {
+      "name": "TR: The Ridiculous 6",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kPc80jywR5Nm2KIQjkY5i4VXSx4.jpg"
+    },
+    {
+      "name": "TR: The Starling",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg"
+    },
+    {
+      "name": "TR: The Water Man",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/krupbFlSTnnKIjpRryrg2CTdeIL.jpg"
+    },
+    {
+      "name": "TR: Thunder Force",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3mKMWP5OokB7QpcOMA1yl8BXFAF.jpg"
+    },
+    {
+      "name": "TR: tick, tick... BOOM!",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
+    },
+    {
+      "name": "TR: The Tinder Swindler",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg"
+    },
+    {
+      "name": "TR: Tony Parker: The Final Shot",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/8zrgid8f6c2ODn2T94jKfopOF4C.jpg"
+    },
+    {
+      "name": "TR: The Man from Toronto",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uTCfTibqtk4f90cC59bLPMOmsfc.jpg"
+    },
+    {
+      "name": "TR: Toscana",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/k9JHEiBkMsqCR5vKREjdOvz91u6.jpg"
+    },
+    {
+      "name": "TR: Trees of Peace",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2McwkzqZ5uOZsBOGEjCDRni8Qf7.jpg"
+    },
+    {
+      "name": "TR: Triple Frontier",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg"
+    },
+    {
+      "name": "TR: Trust No One: The Hunt for the Crypto King",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg"
+    },
+    {
+      "name": "TR: UFO",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg"
+    },
+    {
+      "name": "TR: Ultras",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/vHqpFuguBugZZfXIyjsb4tOAXve.jpg"
+    },
+    {
+      "name": "TR: The Hopeless Ones",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zhxLjIatHLO8BssY8gSFYy48J5m.jpg"
+    },
+    {
+      "name": "TR: Uncut Gems",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+    },
+    {
+      "name": "TR: Escape the Undertaker",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/dSF7INctoCQ4iPFRiRkZjIQIIVa.jpg"
+    },
+    {
+      "name": "TR: Untold: Operation Flagrant Foul",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pArr12pr825SWb06ihiWesJsuR0.jpg"
+    },
+    {
+      "name": "TR: Untold: The Rise and Fall of AND1",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/o75Sxg2s9zM817Whjc9b3vpk5sW.jpg"
+    },
+    {
+      "name": "TR: Step Sisters",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cncHzM37IbohkBX7tlSTiULfIsO.jpg"
+    },
+    {
+      "name": "TR: Return to Space",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uyatxKGACzSNqDzTe5sv5YHAY30.jpg"
+    },
+    {
+      "name": "TR: The Ballad of Buster Scruggs",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/voxl654m7p36y8FLu8oQD7dfwwK.jpg"
+    },
+    {
+      "name": "TR: Love in the Villa",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/t92CXfEP5aWBATeOomcF0wF9NsM.jpg"
+    },
+    {
+      "name": "TR: What We Wanted",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/A9hKgVKo4wU0sZk5XLv323PtU0a.jpg"
+    },
+    {
+      "name": "TR: Xtreme",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/cwUhVcDeMYYeu8fq5q1OPOoSbZ7.jpg"
+    },
+    {
+      "name": "TR: Bodyguard",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/12VEUEHebd9ydQs0Y4ikzb179LY.jpg"
+    },
+    {
+      "name": "TR: Yanlis.Hanimcik.(2020). .The.Wrong.Missy.(2020).Komedi.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/12VEUEHebd9ydQs0Y4ikzb179LY.jpg"
+    },
+    {
+      "name": "TR: Wounds",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/j1omoZD5ExFvjm1JM7n35UccXf9.jpg"
+    },
+    {
+      "name": "TR: Warriors of Future",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2l9LbxBSkJseoxYcIJjclnmxyq.jpg"
+    },
+    {
+      "name": "TR: Naked",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qXRmYSB9C6SHdxTgY3wB72Riz9Y.jpg"
+    },
+    {
+      "name": "TR: Just Another Christmas",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pv4e8yKGMJAaZihYPFUjYHsG8Ob.jpg"
+    },
+    {
+      "name": "TR: Annihilation",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg"
+    },
+    {
+      "name": "TR: My Travel Buddy",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1TZUXLdXusbak3GspmvprQQ0CZo.jpg"
+    },
+    {
+      "name": "TR: Godspeed",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jfDxr9uDIOK5QZDsO76Y7ATs0kF.jpg"
+    },
+    {
+      "name": "TR: Zitlasma.(2019). .Polar.(2019).Aksiyon.NF",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jfDxr9uDIOK5QZDsO76Y7ATs0kF.jpg"
+    },
+    {
+      "name": "TR: Where Hands Touch",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/omKzydOrom9kpdfQUE0G9Y9sPl0.jpg"
+    },
+    {
+      "name": "TR: 13.Muzikal.(2022). .13.The.Musical.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqShG2kTbsVbgrgjfoEwawjR88N.jpg"
+    },
+    {
+      "name": "TR: 14.Zirve.Hicbir.Sey.Imkansiz.Degildir.(2021). .14.Peaks.Nothing.Is.Impossible.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg"
+    },
+    {
+      "name": "TR: Utoya",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg"
+    },
+    {
+      "name": "TR: 365.Gun.Bugun.(2022). .365.Days.This.Day.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg"
+    },
+    {
+      "name": "TR: 365.Gun.Daha.(2022). .Kolejne.365.dni.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg"
+    },
+    {
+      "name": "TR: 7.Tutsak.(2021). .7.Prisioneiros.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg"
+    },
+    {
+      "name": "TR: 9 Kere Leyla",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/7UMWOl3qkrMrUcltSQFZCp8c20O.jpg"
+    },
+    {
+      "name": "TR: Noelden bin mil uzakta",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/dXEtICgk28bDJbhrQObIfwtSgjv.jpg"
+    },
+    {
+      "name": "TR: Acemi.Cinayet.Masasi.(2021). .W.jak.morderstwo.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq5ODEgr1PUxT7HCqDT73SlDIek.jpg"
+    },
+    {
+      "name": "TR: Acik.Ev.(2018). .The.Open.House.(2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg"
+    },
+    {
+      "name": "TR: Affedilemez.(2021). .The.Unforgivable.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1b3dNFDuE7i05TJlXrIC571yR01.jpg"
+    },
+    {
+      "name": "TR: Youve Got This",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wpY2ZhxqsHYXjaaFUHzQ0nmIjYs.jpg"
+    },
+    {
+      "name": "TR: Åžimdi Hep Beraber",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg"
+    },
+    {
+      "name": "TR: Altin.Kafes.(2022). .La.jefa.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AuWxKhfxDltvKMpXG4TblyBGNy.jpg"
+    },
+    {
+      "name": "TR: Altizlar.(2019). .Sextuplets.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztGSEcowBoHyRwcK0s5kIKVVXwy.jpg"
+    },
+    {
+      "name": "TR: Amalfi.Gunesi.Altinda.(2022). .Sotto.il.sole.di.Amalfi.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vufsfqtJHDjbBFtti8F1ZeSRm4.jpg"
+    },
+    {
+      "name": "TR: Anka.Yukseliyor.(2020). .Rising.Phoenix.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg"
+    },
+    {
+      "name": "TR: Anne. .Film.(2021). .Anne. .(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vDcPEy3mvQ28uS0ipdyxbD2owP.jpg"
+    },
+    {
+      "name": "TR: Annemle.Balayi.(2022). .Amor.de.madre.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQEQFPjfJUcNC2ZVMSUdK7WYqAb.jpg"
+    },
+    {
+      "name": "TR: Aramizdaki.Gorunmez.Baglar.(2022). .Il.filo.invisibile.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxEgIeFjAxVqqySDsYmI2uZcV46.jpg"
+    },
+    {
+      "name": "TR: Ã‚ÅŸÄ±klar BayramÄ±",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hcIhpCOj4JdvWMyaXUDXOqf7Opj.jpg"
+    },
+    {
+      "name": "TR: Ask.Dalgalari.(2022). .Pod.Wiatr.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2lylZT9Czehopiln1D9hc1Bb84.jpg"
+    },
+    {
+      "name": "TR: Ask.Kuslari.(2020). .The.Lovebirds.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg"
+    },
+    {
+      "name": "TR: Ask Taktikleri",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/9mXoEX9RNsRD1bG8nmJSfhwaM3O.jpg"
+    },
+    {
+      "name": "TR: Ask.ve.Canavarlar.(2020). .Love.and.Monsters.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg"
+    },
+    {
+      "name": "TR: Askin Kiyameti",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/sdv1uv8UgvgeFKW6n7SxbopWtA4.jpg"
+    },
+    {
+      "name": "TR: Av.Gunu.(2021). .Prey.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D7nfhHI7b9ZvW3m7wVMtBSbC9U.jpg"
+    },
+    {
+      "name": "TR: Uykusuz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg"
+    },
+    {
+      "name": "TR: Ayarlama.(2018). .Set.It.Up.(2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HiCq8sPNRGjFaFCyKJh0607Hso.jpg"
+    },
+    {
+      "name": "TR: Ayin Golgesinde",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/64xjpDgyVnlZvHHdveCvLMLwvac.jpg"
+    },
+    {
+      "name": "TR: Ayni.Dalganin.Icinde.(2021). .Sulla.stessa.onda.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9O2WXJqF45ynkng4SAsZ1h0OCt.jpg"
+    },
+    {
+      "name": "TR: Ayricalik.(2022). .Das.Privileg.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBLi3Nd5JMQGMiOmmfuPgLw5SzD.jpg"
+    },
+    {
+      "name": "TR: Aziz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/n8tsrPLem70exhXHfSausV7FlPx.jpg"
+    },
+    {
+      "name": "TR: Azizler",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gFefRcNMPVB2RqLtsYFId6hwsqz.jpg"
+    },
+    {
+      "name": "TR: Babamin Kemani",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/aDhoeAnOKY8jR6BJbhDYm3y4dT4.jpg"
+    },
+    {
+      "name": "TR: Babamin.Mutfagi.(2020). .Uncorked.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neUgCuBhafxYQyXTKxwjQejqqa7.jpg"
+    },
+    {
+      "name": "TR: Babamiz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/oR3yIiQNL4EdYZJHNE8spFpV21b.jpg"
+    },
+    {
+      "name": "TR: Baggio.Ilahi.At.Kuyrugu.(2021). .Il.Divin.Codino.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0NOqrnE4FhXrk9cHm6DQeRo1Zm.jpg"
+    },
+    {
+      "name": "TR: Bana.Kim.Oldugumu.Soeyle.(2019). Tell.Me.Who.I.Am.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMfiD7wjdwRxPSdZ7gz7iNO3Z0B.jpg"
+    },
+    {
+      "name": "TR: Baska.Turlu.Yapamayiz.(2020). .Wir.Konnen.Nicht.Anders.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajKpYK7XdzIYjy9Uy8nkgRboKyv.jpg"
+    },
+    {
+      "name": "TR: Batakligin.Sessizligi.(2019). .El.silencio.del.pantano.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwBelKkECxMdN1UMhwqitPIFsjB.jpg"
+    },
+    {
+      "name": "TR: Bati.Cephesinde.Yeni.Bir.Sey.Yok.(2022). .Im.Westen.nichts.Neues.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg"
+    },
+    {
+      "name": "TR: Battle (2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfGhtAX7xe7W0ZgEcM2n6tnxgc0.jpg"
+    },
+    {
+      "name": "TR: Bebek.Bakicisi.(2017). .The.Babysitter.(2017)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/86a7GRVRCwfl7wdI4QadyvKa6Zu.jpg"
+    },
+    {
+      "name": "TR: Bebek.Bakicisi.Katil.Kralice.(2020). .The.Babysitter.Killer.Queen.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/imy1OoT1xddt2kqw6hhc4v01e8i.jpg"
+    },
+    {
+      "name": "TR: Beni Ã‡ok Sev",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qkaQgCdWO0NAA790lgRbiIxNqhp.jpg"
+    },
+    {
+      "name": "TR: Benim AdÄ±m Yara",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/gcVFI8t5QAvXGzQRKA82glDdOr3.jpg"
+    },
+    {
+      "name": "TR: Benim.Guzel.Noel.Satom.(2021). .A.Castle.for.Christmas.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg"
+    },
+    {
+      "name": "TR: Berlin Sendromu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/b0nuxu9kD0q6t1m4b5QirErrpHm.jpg"
+    },
+    {
+      "name": "TR: Beyaz.Kaplan.(2021). .The.White.Tiger.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JnmseS3DZ6ad2VMbrnbGCs8Rst.jpg"
+    },
+    {
+      "name": "TR: Binbasi.Igor.Veba.Doktoru.(2021). .Major.Grom.Plague.Doctor.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnesEmcq7xdw1Rm1Bn6XEFTkenR.jpg"
+    },
+    {
+      "name": "TR: Bir.Babanin.Ofkesi.(2020). .La.Belva.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zbKISdp5UBgWY2a28dfJY8ouIK.jpg"
+    },
+    {
+      "name": "TR: Bir.Bilsen.(2020). .The.Half.of.It.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg"
+    },
+    {
+      "name": "TR: Bir.Eksik.(2021). .Fatherhood.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR2fzm82fl0giommpo310LBOMbV.jpg"
+    },
+    {
+      "name": "TR: Bir.Ugradim.(2022). .I.Came.By.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFB9jZDl52jBNbMPVSlISXD1ggS.jpg"
+    },
+    {
+      "name": "TR: Bird Box Barcelona",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg"
+    },
+    {
+      "name": "TR: Bitmeyen Dongu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pqfY2HKQluw5gCjORNkVJv8BSO7.jpg"
+    },
+    {
+      "name": "TR: Boga Boga",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fVzVkpG578B5GqhCDTJnPM8bBkv.jpg"
+    },
+    {
+      "name": "TR: Bridge.Hollow.Laneti.(2022). .The.Curse.of.Bridge.Hollow.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg"
+    },
+    {
+      "name": "TR: Bu Gece Ormanda Kimse Uyumuyor",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg"
+    },
+    {
+      "name": "TR: Bu Gece Ormanda Kimse Uyumuyor: BÃ¶lÃ¼m 2",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6QvepemlDGIiiYsVs0Y1ieFuG7N.jpg"
+    },
+    {
+      "name": "TR: Bugun.Her.Sey.Duzelecek.(2022). .Hoy.se.arregla.el.mundo.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNAOqq4x2qXdER1HLThRHRRUeTf.jpg"
+    },
+    {
+      "name": "TR: Butun.Kizlar.Adina.(2021). .I.Am.All.Girls.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/voQLcqp0ehF3md93hMpELCRxTDv.jpg"
+    },
+    {
+      "name": "TR: Cabras da Peste",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rzcdLb0BhPaUJjD2jEcfRMiwOgh.jpg"
+    },
+    {
+      "name": "TR: Can.Cikar.Huy.Cikmaz.(2021). .Afterlife.of.the.Party.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg"
+    },
+    {
+      "name": "TR: Karnaval",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg"
+    },
+    {
+      "name": "TR: Casuslar Åžehri",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fzjbeyEwmlpxu5CMzmFz8IDVELm.jpg"
+    },
+    {
+      "name": "TR: Cehennem.Azabi.(2022). .Ostatnia.Wieczerza.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y47wBamj9vdqBeGaLEFTrYEPTeC.jpg"
+    },
+    {
+      "name": "TR: Cem Yilmaz Diamond Elite Platinum Plus",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/d7pspvBSo0OLvyfPHU21qjhOWMj.jpg"
+    },
+    {
+      "name": "TR: Cennette.Yasam.Savasi.Bir .Masali.(2022). .Surviving.Paradise.A.Family.Tale.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7cA49RgpTYgk7Db3XAzb8vExAD.jpg"
+    },
+    {
+      "name": "TR: Cift.Baba.(2021). .Pai.em.Dobro.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqNt5S8z2a7U48RZ0WZ5okdRjfu.jpg"
+    },
+    {
+      "name": "TR: Cingirakli.Yilan.(2019). .Rattlesnake.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg"
+    },
+    {
+      "name": "TR: Cloverfield.Paradoksu.(2018). .The.Cloverfield.Paradox.(2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg"
+    },
+    {
+      "name": "TR: Daglari.Deviren.Baba.(2021).Father.Moves.Mountains.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2aGQwebCkXqNqOVYGqOzPhguCa.jpg"
+    },
+    {
+      "name": "TR: Tehlikeli Yalanlar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/m85QIC42laGfLDxW7DzIFDrWogP.jpg"
+    },
+    {
+      "name": "TR: David Attenborough: Gezegenimizden Bir YaÅŸam",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tklQQGpS6nd7P6mlVsWBeQB4K4J.jpg"
+    },
+    {
+      "name": "TR: David.ve.Elfler.(2021). .Dawid.i.Elfy.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdQml1N2kysb1wKAGqTu3ZuQADW.jpg"
+    },
+    {
+      "name": "TR: GÃ¼ndÃ¼z VardiyasÄ±",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bI7lGR5HuYlENlp11brKUAaPHuO.jpg"
+    },
+    {
+      "name": "TR: Delidolu.2.(2020). .The.Kissing.Booth.2.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg"
+    },
+    {
+      "name": "TR: The Kissing Booth 3 (2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg"
+    },
+    {
+      "name": "TR: Delirtmeyin.Bizi.(2022). .Altrimenti.ci.arrabbiamo.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohiRHcLgqtpg82Keglufvlp8xuu.jpg"
+    },
+    {
+      "name": "TR: Deprem.Kusu.(2019). .Earthquake.Bird.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyKnosHXQ7kkhlGwqsWOvn4RgKR.jpg"
+    },
+    {
+      "name": "TR: Derin.Tutkular.(2022). .Sous.emprise.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUdeneiMUQkE1Yb3Qx7dML0HVf.jpg"
+    },
+    {
+      "name": "TR: Dick Johnson Ã¶ldÃ¼",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/2h8bkpyGK0U5cVCH79Hzw1LT5qn.jpg"
+    },
+    {
+      "name": "TR: Wheelman (2017)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg"
+    },
+    {
+      "name": "TR: DolaÅŸan DÃ¼nya",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/woo56L6LYYoM89DYBCU2C6LO1at.jpg"
+    },
+    {
+      "name": "TR: Donma.Noktasi.(2021). .Bajocero.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYEORVxp2ZfknTQYhEsNkv2HYss.jpg"
+    },
+    {
+      "name": "TR: Dugun.Sezonu.(2022). .Wedding.Season.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFeXAZ1oOECPqEu8c2i4L5LmNyY.jpg"
+    },
+    {
+      "name": "TR: Dunu.Kurtarmak.(2019). .See.You.Yesterday.(2019).Bilim Kurgu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg"
+    },
+    {
+      "name": "TR: Dunya.Senin.(2018). .Le.monde.est.a.toi.(2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8l0pdMuVgqIYXBvNUr4TXdpmFj.jpg"
+    },
+    {
+      "name": "TR: Dunyadan.Haberler.(2020). .News.of.the.World.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg"
+    },
+    {
+      "name": "TR: Dunyanin.Cemberi.(2019). .Rim.of.the.World.(2019).Bilim Kurgu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg"
+    },
+    {
+      "name": "TR: Duses.(2022). .Windfall.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/njBc0nNdl9QbsfMwyRqJkmW4NQO.jpg"
+    },
+    {
+      "name": "TR: DÃ¼ÅŸÃ¼ÅŸ: Boeing DavasÄ±",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/LRPi6b6gpDyKuveut38S8R38NI.jpg"
+    },
+    {
+      "name": "TR: Duzenbaz.Kardesler.(2021). .Os.Salafrarios.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd9PcIgzV3YWa0c7iCECG1TuXX5.jpg"
+    },
+    {
+      "name": "TR: El.Camino.Bir.Breaking.Bad.Filmi.(2019). .El.Camino.A.Breaking.Bad.Movie.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg"
+    },
+    {
+      "name": "TR: The Photographer: Murder in Pinamar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/pOm7VAlsuJ5ixXg3pgKY8a7uhqt.jpg"
+    },
+    {
+      "name": "TR: Emekli.Ajan.(2021). .Le.Dernier.Mercenaire.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttpKJ7XQxDZV252KNEHXtykYT41.jpg"
+    },
+    {
+      "name": "TR: En nc.Masal.(2021). .Nightbooks.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysJte1iqN8pFQ470tumnViB1wHP.jpg"
+    },
+    {
+      "name": "TR: En SoÄŸuk DÃ¼ÅŸman",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg"
+    },
+    {
+      "name": "TR: En.soguk.Oyun.(2019). .The.Coldest.Game.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YRO2Jamqb6ck5vJqrwWgMFWuPW.jpg"
+    },
+    {
+      "name": "TR: Eski.Dostlar.ve nc.Uzaylilar.(2022). .Blasted.(2022).Action",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWlBvsPl9y2h03padhD2tIG0rqy.jpg"
+    },
+    {
+      "name": "TR: Ev.Baskini.(2021). .Intrusion.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg"
+    },
+    {
+      "name": "TR: Fatal Affair (2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4EAJ6PXNbxBb2xrdTrT2SlJlCH.jpg"
+    },
+    {
+      "name": "TR: Firtina.Icin.Bir.Kurban.(2020). .Ofrenda.a.la.tormenta.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLZeYC5XBi3SuJFhyNFpAGGneQH.jpg"
+    },
+    {
+      "name": "TR: Fullmetal Alchemist: The Revenge Of Scar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/c5OwwBNyJkwyroIOIJL9IiRjydR.jpg"
+    },
+    {
+      "name": "TR: Gece YarÄ±sÄ± GÃ¶kyÃ¼zÃ¼",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qC7y4OUiKTv2HsqJSpfdWGNqf7K.jpg"
+    },
+    {
+      "name": "TR: Gecen.Yaz.(2019). .The.Last.Summer.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAn3MRAUwbjVApN3qYkvsTEOAvx.jpg"
+    },
+    {
+      "name": "TR: GeÃ§en Yaz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/s2OLfim4v1WvgTzP0VjuBCISS2L.jpg"
+    },
+    {
+      "name": "TR: Gecenin.Disleri.(2021). .Night.Teeth.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg"
+    },
+    {
+      "name": "TR: Gizemli Cinayet",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/bSMSO9xupd4R4vwTPqigHn2quLN.jpg"
+    },
+    {
+      "name": "TR: Gladbeck: Rehine Krizi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3gQVzkLd8GxqNVG5t5CkQEvMDnD.jpg"
+    },
+    {
+      "name": "TR: Go!.Go!.Cory.Carson.Noel.(2020). .A.Go!.Go!.Cory.Carson.Christmas.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTsULguy08O7nRmkhifnGtAcDq9.jpg"
+    },
+    {
+      "name": "TR: Go-kart Tutkusu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tOLC9552jBvymwsgHc3ri2SyuyD.jpg"
+    },
+    {
+      "name": "TR: GÃ¶nÃ¼l",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ccCsgqAUOJ5EnhenNLRK7K6hGqf.jpg"
+    },
+    {
+      "name": "TR: Gorunmez.Bir.Kizin.Itiraflari.(2021). .Confessions.of.an.Invisible.Girl.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRxz9cKaCOF5noUBvoA6cebOdUE.jpg"
+    },
+    {
+      "name": "TR: Gunahlarimizi.Bagisla.(2022). .Forgive.Us.Our.Trespasses.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RYZSHM3eaxXAnjbgNiVaqmekL8.jpg"
+    },
+    {
+      "name": "TR: Hacker.Savaslari.(2022). .The.Takeover.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7rdcofib7HqdlDP1LT7Hmf1f2o.jpg"
+    },
+    {
+      "name": "TR: Havari.(2018). .Apostle.(2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg"
+    },
+    {
+      "name": "TR: Hayalet.Hikayeleri.(2019). .Ghost.Stories.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQeLzheMNQClBAXy9t1HvZFzhYD.jpg"
+    },
+    {
+      "name": "TR: Hayaller.Diyari.(2022). .Slumberland.(2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGd2JUEtr0BZN3pK8yakmoZlVFq.jpg"
+    },
+    {
+      "name": "TR: Hayatimin.Rodeosu.(2019). .Walk.Ride.Rodeo.(2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abAharR0CpdGp68lU0846idLKRy.jpg"
+    },
+    {
+      "name": "TR: Hayatin.Bedeli.(2021). .Worth.(2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMFKTgRRCxfZGmFQVxBsQYAQufo.jpg"
+    },
+    {
+      "name": "TR: Hayatin.Kiyisinda.(2020). .All.the.Bright.Places.(2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SafxuMKQiw4reBiWKVZJpJn80I.jpg"
+    },
+    {
+      "name": "TR: Haydut.Kral.(2018). .Outlaw.King.(2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rT49ousKUWN3dV7UlhaC9onTNdl.jpg"
+    },
+    {
+      "name": "TR: Her Seye Evet",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg"
+    },
+    {
+      "name": "TR: Her Zaman Seytan",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVL7LGq528h3KzeNI90HOVbV5uW.jpg"
+    },
+    {
+      "name": "TR: Hipnotizma",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg"
+    },
+    {
+      "name": "TR: The Taming of the Shrewd (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JXsbuWTHWy9KieVRef5CmrzDN6.jpg"
+    },
+    {
+      "name": "TR: Hirsizlar Ordusu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg"
+    },
+    {
+      "name": "TR: Onun Evi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/idh2QAy5NwBRN94ScmtWrukvOgJ.jpg"
+    },
+    {
+      "name": "TR: Hold Your Breath The Ice Dive",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/efAxEHMvlgE4qterU0FWwovxkOa.jpg"
+    },
+    {
+      "name": "TR: AÄ°",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg"
+    },
+    {
+      "name": "TR: Ikikez.Yasa Birkez Sev",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhxpEQ0C1UGqMWHBucw0Fj7S3mD.jpg"
+    },
+    {
+      "name": "TR: Ikna",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s99WrKSEVR4RVvwm5Zn2cqrHTMM.jpg"
+    },
+    {
+      "name": "TR: Illang Kurt Tugayi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/71JMWqNDRz2Au59JYosfn5W8nuS.jpg"
+    },
+    {
+      "name": "TR: Ille De Sen",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eV0mIQqSztD3McjO22EOFlQDj1.jpg"
+    },
+    {
+      "name": "TR: Intikam Kankam",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/akIjKJDHcVN4bzifcEarKVPNpoa.jpg"
+    },
+    {
+      "name": "TR: Iskoc Kralicesi Mary",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg"
+    },
+    {
+      "name": "TR: Issizlik",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9gEXGQgJxbFFPy9NWPt4leKGDU.jpg"
+    },
+    {
+      "name": "TR: Ivy Bean",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zdWGcEpvfgsx07HlGUmmEzf51gt.jpg"
+    },
+    {
+      "name": "TR: Ivy Bean Doomed to Dance",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zdWGcEpvfgsx07HlGUmmEzf51gt.jpg"
+    },
+    {
+      "name": "TR: Iyi.Adamin.10.Gunu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/xEB1QCOuNFc7e6oxsNxQURph3bS.jpg"
+    },
+    {
+      "name": "TR: Iyi Katiller Sevgilim",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygTIsPG7dREi5AlO0S9EMbmvdae.jpg"
+    },
+    {
+      "name": "TR: Sadece Evet De!",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3btDwus5VN5jOWfA9strpDJWwfj.jpg"
+    },
+    {
+      "name": "TR: Kagittan Hayatlar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg"
+    },
+    {
+      "name": "TR: Kahramanlik Sirasi Bizde",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg"
+    },
+    {
+      "name": "TR: Kal",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tSUEjmNM7lCQyuDCszWkdjCNVFi.jpg"
+    },
+    {
+      "name": "TR: Kalbimin Sesi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYUdh9HsTHLd2GJUtAyKg3InlXs.jpg"
+    },
+    {
+      "name": "TR: Kalp Acisi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubaCN0FjWhxiu1uHhI9oXSgalVK.jpg"
+    },
+    {
+      "name": "TR: Kalplerimiz Bir",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/4JyNWkryifWbWXJyxcWh3pVya6N.jpg"
+    },
+    {
+      "name": "TR: Kara Yengec",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcIYHZYwUbvhvUt8Lb5nENJ7AlX.jpg"
+    },
+    {
+      "name": "TR: Karantina Plani",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZn7D3zWjCqOwrWwf3LhxPaSINo.jpg"
+    },
+    {
+      "name": "TR: Katolik Okulu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WTTXAtuyQY93oe1yetWYMGbO7K.jpg"
+    },
+    {
+      "name": "TR: Kayip Kizlar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg"
+    },
+    {
+      "name": "TR: Kayip Savas",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg"
+    },
+    {
+      "name": "TR: Kaykayci Kiz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg"
+    },
+    {
+      "name": "TR: Kemiklerin Mirasi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sXHjTQGnlLJEVGxpmOa29Rr53O.jpg"
+    },
+    {
+      "name": "TR: Kemiklerine Kadar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkdxhdB3dRUqazqoy9lzUvhayjc.jpg"
+    },
+    {
+      "name": "TR: Keşif",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vELPBob9awvwQlERkFCZExyuOCa.jpg"
+    },
+    {
+      "name": "TR: Kimse Sag Cikmayacak",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg"
+    },
+    {
+      "name": "TR: Kimya",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yBkFhTImLje8pCb7qM85C7VAwV6.jpg"
+    },
+    {
+      "name": "TR: Kingdom Ashin of the North",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/piGZDwFW4urLYDWGiYJMrt6hdCS.jpg"
+    },
+    {
+      "name": "TR: Kizma Birader",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/fA21PhxZm2GU2x8lmH7Ty2fIiPx.jpg"
+    },
+    {
+      "name": "TR: Kod Adi Imparator",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VjVLMiPm598Kg6XmKk5m1fz0p7.jpg"
+    },
+    {
+      "name": "TR: Kopegin Gucu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg"
+    },
+    {
+      "name": "TR: Korku Sokagi 1 Kisim 1994",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg"
+    },
+    {
+      "name": "TR: Korku.Sokagi.3.Kisim.1666",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg"
+    },
+    {
+      "name": "TR: Kristal Kizlar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppF495JNP6poCCEAm4xM1nJEZzD.jpg"
+    },
+    {
+      "name": "TR: Kurtarma Kopegi Ruby",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPlJEodEn0SSV4avo8KSawtlTlN.jpg"
+    },
+    {
+      "name": "TR: Kurtulus Ayini",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyB3yoQbGO3LiCVuSOD2g17Hr6p.jpg"
+    },
+    {
+      "name": "TR: Kuslarla Dans",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHniRlXBt1sJ1bOqy9ZjtEtkw70.jpg"
+    },
+    {
+      "name": "TR: Kusursuz Uyum",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h65lLhYEfRGOWVZzwX9n7vYOixf.jpg"
+    },
+    {
+      "name": "TR: La nuee",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A734mQnqdLfraDMJ2Ad1lyE8wwP.jpg"
+    },
+    {
+      "name": "TR: Liseye Donus",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg"
+    },
+    {
+      "name": "TR: Los Angeles Sirlari",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg"
+    },
+    {
+      "name": "TR: MALIBU Plaji Genc Cankurtaranlari",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUP0w4h689u6qbbkjfXO8yI8Zu1.jpg"
+    },
+    {
+      "name": "TR: Madam Claude",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9miY5tHWmvVAft4gjqyaXyhLYHY.jpg"
+    },
+    {
+      "name": "TR: Malibu Rescue Yeni Dalga",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7B1gSxMdgZCCJcMRgo65T5lByMw.jpg"
+    },
+    {
+      "name": "TR: Marilyn Monroe Kasetlerdeki Sirlar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg"
+    },
+    {
+      "name": "TR: Masal Bitti Ve Ben Buyudum",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwT58VqFZyAeQbscfynxtroqaft.jpg"
+    },
+    {
+      "name": "TR: Mavi Mucize",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBdP9Z0oVAx25tM2gUOtq298jxR.jpg"
+    },
+    {
+      "name": "TR: Melekler Uyurken",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zikvJ0XscL7vVeJln0ZagGXw5wY.jpg"
+    },
+    {
+      "name": "TR: Mercan Pesinde",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvRHRqI4ahmEwscylU10iaNo5RY.jpg"
+    },
+    {
+      "name": "TR: Metalciyiz Biz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/r97txZRmBb75SGsIAWqmplWJnO3.jpg"
+    },
+    {
+      "name": "TR: Mezuniyet Balosu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7An8UravfzqaU7SuumaWEVRqVU.jpg"
+    },
+    {
+      "name": "TR: Minik seytan",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/na7hmXernwsm59rEBwewJ0mf53m.jpg"
+    },
+    {
+      "name": "TR: The Perfect Family (2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejRrpBuWj8MNkFP7DUHZoqhuGmV.jpg"
+    },
+    {
+      "name": "TR: Mukemmel Aile Olma Kilavuzu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBhkSwZpb3QpUwFuFdWAXTqWAtS.jpg"
+    },
+    {
+      "name": "TR: The Perfect Date (2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg"
+    },
+    {
+      "name": "TR: Munih Savas Yaklasiyor",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg"
+    },
+    {
+      "name": "TR: Cinayetten Affa: Cyntoia Brown\\'un Hikayesi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/3td2LcbqYrQCSWjIhJjQfOsxrkJ.jpg"
+    },
+    {
+      "name": "TR: Nasil Biter",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/prdFM08mGvVDA6uQxKJh8n8Vek1.jpg"
+    },
+    {
+      "name": "TR: Nasil Super Kahraman Oldum",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0wn9YtEnmbucx8ZUsT918ctoiK.jpg"
+    },
+    {
+      "name": "TR: Nikolas",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sRejtiHOZGggZd9RcmdqbapLM5.jpg"
+    },
+    {
+      "name": "TR: Nobetci|",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jt9NNFFAjvMouzHt06U3uANBpUm.jpg"
+    },
+    {
+      "name": "TR: Noel Carpmasi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
+    },
+    {
+      "name": "TR: Noel Kabusu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74FjQrZ9SSkfh3rts4PXm9wArqd.jpg"
+    },
+    {
+      "name": "TR: Noel Mirasi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg"
+    },
+    {
+      "name": "TR: Noel Prensi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0IGQsMzVbsF7noj5cCfEk1GU7s.jpg"
+    },
+    {
+      "name": "TR: Oh, Ramona!",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg"
+    },
+    {
+      "name": "TR: Oksijen",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u74DFoZGTcZ8cuHO8nvQkCqXEVP.jpg"
+    },
+    {
+      "name": "TR: Olmeye Hazir Degilim",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d76rZrqTzw3lRE6bQZC86tJ9W3.jpg"
+    },
+    {
+      "name": "TR: Oloture",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/vWk5GFN18TzwLiAdA8HjpjA2F2h.jpg"
+    },
+    {
+      "name": "TR: Oluler Ordusu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8CExJekGrEThbpMXAmCFvvgoJR.jpg"
+    },
+    {
+      "name": "TR: Oluler Vadisi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/avokvOwhjVR9GgISsSSgb2A343G.jpg"
+    },
+    {
+      "name": "TR: Olum Defteri",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1X19j2albvewAdnTNHx2fFXjOcC.jpg"
+    },
+    {
+      "name": "TR: The Anthrax Attacks: In the Shadow of 9/11 (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTJvGRD7AKaEMUOahCDfvq5rwx5.jpg"
+    },
+    {
+      "name": "TR: Onca Yoksulluk Varken",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDc3O9m8ELHRRu1WXdTC5pCdC4n.jpg"
+    },
+    {
+      "name": "TR: Once Babami Oldurduler",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5370jxJfZQY8TUZiiGkpNgvRwU9.jpg"
+    },
+    {
+      "name": "TR: Operation Varsity Blues The College Admissions Scandal",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/qZJuctnatinO0OpnruGOWaT4Bga.jpg"
+    },
+    {
+      "name": "TR: Ortak",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hqkqvEkbwLYT1LIgyeK1FcD5Beu.jpg"
+    },
+    {
+      "name": "TR: Ortaya Karisik Iliskiler",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uShw8wJ7K4ySrPtUWjGe8wwJ5fj.jpg"
+    },
+    {
+      "name": "TR: Oyle Veya Boyle",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jq8IGJgg16mJ95a5OPyS7eGJaam.jpg"
+    },
+    {
+      "name": "TR: Ozel Ders",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/aKL4CA8BsdDlKFiF0gaLQAYG4rp.jpg"
+    },
+    {
+      "name": "TR: Parfumcu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieivbB7SDenOGfqae0vZdJQfJA.jpg"
+    },
+    {
+      "name": "TR: Parti Sonrasi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFPGheX6X4bt1ZqP1870MPlUvGu.jpg"
+    },
+    {
+      "name": "TR: Siyah Beyaz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/jXp6ERnrFdG04Gli3d34GtANsuw.jpg"
+    },
+    {
+      "name": "TR: Paula Ve Jojo",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42RRcJILSGQWARILZjtKHSijRPb.jpg"
+    },
+    {
+      "name": "TR: Pele",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/tX2gco2U4MlKEWwM4UkiIf1C74e.jpg"
+    },
+    {
+      "name": "TR: Penceredeki Kadin",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcrjc1uwQaqoqtqi67Su4VCOYo0.jpg"
+    },
+    {
+      "name": "TR: Penceremden",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gg7fvKc1ZxP9yCczweSxIGYp4S.jpg"
+    },
+    {
+      "name": "TR: Pervasiz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg"
+    },
+    {
+      "name": "TR: Prensin Dugunu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYAv0YUoXJzLxIdEirOken8Quwf.jpg"
+    },
+    {
+      "name": "TR: CanlÄ± YayÄ±n",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/mEegKDrhRZVnn0Y87TdKqGwjowo.jpg"
+    },
+    {
+      "name": "TR: Proje",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/apETSIY0oXOFvI0MgUWW81uRqsL.jpg"
+    },
+    {
+      "name": "TR: Ritim Bolumu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/spTr0VYyRtl36Lkk6nCnnbFXhus.jpg"
+    },
+    {
+      "name": "TR: Rontgenci",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c71r3H5vzelTsYmNimIpQZ0MiMI.jpg"
+    },
+    {
+      "name": "TR: Sadece Arkadasiz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/eAijMbeJTjBbjnevbtRve4sWGxf.jpg"
+    },
+    {
+      "name": "TR: Saka Pesinde",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1Gy5HX3DKGaNW1Ay30NTIVJqJ6.jpg"
+    },
+    {
+      "name": "TR: Sakin Dinleme",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXvBgevABC9n5R6Gg76R3pN1h2M.jpg"
+    },
+    {
+      "name": "TR: Savas Makinesi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg"
+    },
+    {
+      "name": "TR: Savasin Golgeleri",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCKvbH3a4V5IPoRAG85eDaniNqO.jpg"
+    },
+    {
+      "name": "TR: Sayiklama",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8aR3usDzjSCeJ78ttHxNDCaEhc.jpg"
+    },
+    {
+      "name": "TR: Dad Wanted",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/otBb0AKc5ncGovRjlLNeCrzIMmf.jpg"
+    },
+    {
+      "name": "TR: Sekizinci Gece",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/trSDStH3UP4ux4lAILNNSqDXSB3.jpg"
+    },
+    {
+      "name": "TR: Selam Yabanci",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQu9rNkiB0nSSRGQX0B6u9sxwfw.jpg"
+    },
+    {
+      "name": "TR: Sen, Ben, Onlar ve Biz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/zBqdSGsgDy65yFvExc5wKPSl1OD.jpg"
+    },
+    {
+      "name": "TR: Sen Hic Ates Bocegi Gordun mu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/hd4bvLVr9RBuQZ3BCTvpEGG4aJs.jpg"
+    },
+    {
+      "name": "TR: Sen Yasamaya Bak",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wW6MFMV3hG7tQ6YkcsuAHKtCwmt.jpg"
+    },
+    {
+      "name": "TR: Senin Icin Cildiriyorum",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPBJckYsL1UOsz44InZ2wYJyJTy.jpg"
+    },
+    {
+      "name": "TR: Seul Buyuk Operasyonu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/txaOvJ6HURmqFbpVtJezWNWqaR4.jpg"
+    },
+    {
+      "name": "TR: Sevdigim Tum Erkeklere",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/maib5VlmEqp5xlN8lptnBSftp2o.jpg"
+    },
+    {
+      "name": "TR: Sevdigim Tum Erkeklere Simdi ve Sonsuza Dek",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iepqdM52f4w75fNcvgRF5QoIAjm.jpg"
+    },
+    {
+      "name": "TR: Siber Cehennem Bir Internet Kabusu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/xcHKydbJhXkoWXZke2QhrE7H89m.jpg"
+    },
+    {
+      "name": "TR: Sihirli Guresci",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzg5AEEu1T7nFOCq4gKbGBObhdk.jpg"
+    },
+    {
+      "name": "TR: Silverton Kusatmasi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg"
+    },
+    {
+      "name": "TR: Sinir Yasalari",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrq7sGXraFM6H9OcHFKQTKe8A3f.jpg"
+    },
+    {
+      "name": "TR: Sinir Yok",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUT5Fa1TskzkTmATpYGiW49PTEg.jpg"
+    },
+    {
+      "name": "TR: Sinirsiz Canavarlar",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg"
+    },
+    {
+      "name": "TR: Soluksuz",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MP21x0OPv0R72obd63tMHssmGt.jpg"
+    },
+    {
+      "name": "TR: Son Pusu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/kBlCxZzTWEdsdFZDf6vbsNycwqQ.jpg"
+    },
+    {
+      "name": "TR: Sonbahar Kizi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9bWt4ZFUpgZRCn5dB4cWW1zY61.jpg"
+    },
+    {
+      "name": "TR: Sonsuz Siper",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgS3e3sTUHeVgKzKmFhIJcl9tVA.jpg"
+    },
+    {
+      "name": "TR: Sonsuzlugun Otesinde Buzz.ve Isik Yilina Yolculuk",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnp0INIjyWt4AziWmTHgPk9IFoE.jpg"
+    },
+    {
+      "name": "TR: Sosyal ikilem",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yIhCI0JJNJ2cz4DtWaxZgVNrr58.jpg"
+    },
+    {
+      "name": "TR: Sotto il sole di Riccione",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/swxumQljyst2dzun8k1gaLu85mz.jpg"
+    },
+    {
+      "name": "TR: Soyle Bana Ne Zaman",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XVcNvXQoa0z1QPQOr1Dd0ZHPAd.jpg"
+    },
+    {
+      "name": "TR: Speedcubing Duello",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/wuJmswUneNrlCUYpZ8NDU7FHjIG.jpg"
+    },
+    {
+      "name": "TR: Spenser Kanunlari",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yer8jdvbNIjPG3Kab99BmViElT9.jpg"
+    },
+    {
+      "name": "TR: Suclu",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg"
+    },
+    {
+      "name": "TR: Sufat Chol",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/ac1fT6Lv7k2GrINl6gKMUcFyqD4.jpg"
+    },
+    {
+      "name": "TR: Surprizli Gece",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iEc34Qje2V3FZnrSXKfZsbiHjW.jpg"
+    },
+    {
+      "name": "TR: Tanrinin Eli",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kreVxr5moB7K52IGGV1BGAn6nq1.jpg"
+    },
+    {
+      "name": "TR: Tatsiz Tatil",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mi5l29DQFdwrTXxbqM2OLbs830H.jpg"
+    },
+    {
+      "name": "TR: Tehlikeli Nokta",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZ2KER2gOHbuHP2GJoODuXDSZCb.jpg"
+    },
+    {
+      "name": "TR: Tek Care Ask",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w4gX4zRlONqThjhmjdxw93FAXt.jpg"
+    },
+    {
+      "name": "TR: Teksas Katliami",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/rUjNE0FzEGGdV96nqSxGw1idV0i.jpg"
+    },
+    {
+      "name": "TR: Martha Mitchell Etkisi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/yqVHlP8K9LtRGrOr10xhVZDcNAY.jpg"
+    },
+    {
+      "name": "TR: Affedilemez",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w500/1b3dNFDuE7i05TJlXrIC571yR01.jpg"
+    },
+    {
+      "name": "TR: Tinder Avcisi",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg"
+    },
+    {
+      "name": "TR: Tony Parker: The Final Shot (2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zrgid8f6c2ODn2T94jKfopOF4C.jpg"
+    },
+    {
+      "name": "TR: The Man from Toronto (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTCfTibqtk4f90cC59bLPMOmsfc.jpg"
+    },
+    {
+      "name": "TR: Trees of Peace (2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2McwkzqZ5uOZsBOGEjCDRni8Qf7.jpg"
+    },
+    {
+      "name": "TR: Triple Frontier (2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg"
+    },
+    {
+      "name": "TR: Trust No One: The Hunt for the Crypto King (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg"
+    },
+    {
+      "name": "TR: UFO (2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg"
+    },
+    {
+      "name": "TR: Airplane Mode (2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLXisj0j39zaktmoU72tVtOXx6W.jpg"
+    },
+    {
+      "name": "TR: Ultras (2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHqpFuguBugZZfXIyjsb4tOAXve.jpg"
+    },
+    {
+      "name": "TR: Desperados (2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0aJ42yUp5pS4MdPKP69VRZ2Gkp.jpg"
+    },
+    {
+      "name": "TR: Uncut Gems (2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+    },
+    {
+      "name": "TR: Escape the Undertaker (2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSF7INctoCQ4iPFRiRkZjIQIIVa.jpg"
+    },
+    {
+      "name": "TR: Untold: Operation Flagrant Foul (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pArr12pr825SWb06ihiWesJsuR0.jpg"
+    },
+    {
+      "name": "TR: Untold: The Rise and Fall of AND1 (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o75Sxg2s9zM817Whjc9b3vpk5sW.jpg"
+    },
+    {
+      "name": "TR: Utøya: July 22 (2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg"
+    },
+    {
+      "name": "TR: Step Sisters (2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cncHzM37IbohkBX7tlSTiULfIsO.jpg"
+    },
+    {
+      "name": "TR: Return to Space (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyatxKGACzSNqDzTe5sv5YHAY30.jpg"
+    },
+    {
+      "name": "TR: In the Tall Grass (2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RxhzwFkAUqMt215Brb06u8P8pn.jpg"
+    },
+    {
+      "name": "TR: The Ballad of Buster Scruggs (2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg"
+    },
+    {
+      "name": "TR: Vicky and Her Mystery (2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6fBXfWU7jaG0zWYiOvh1myEQC.jpg"
+    },
+    {
+      "name": "TR: Love in the Villa (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t92CXfEP5aWBATeOomcF0wF9NsM.jpg"
+    },
+    {
+      "name": "TR: What We Wanted (2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9hKgVKo4wU0sZk5XLv323PtU0a.jpg"
+    },
+    {
+      "name": "TR: Xtreme (2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwUhVcDeMYYeu8fq5q1OPOoSbZ7.jpg"
+    },
+    {
+      "name": "TR: Bodyguard (2011)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/12VEUEHebd9ydQs0Y4ikzb179LY.jpg"
+    },
+    {
+      "name": "TR: Wounds (2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1omoZD5ExFvjm1JM7n35UccXf9.jpg"
+    },
+    {
+      "name": "TR: Warriors of Future (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l9LbxBSkJseoxYcIJjclnmxyq.jpg"
+    },
+    {
+      "name": "TR: Race 3 (2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtnA5mmNumYkeevokar6IskyrZP.jpg"
+    },
+    {
+      "name": "TR: Loving Adults (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNSqObjKszcxr55buQafQF9ARiC.jpg"
+    },
+    {
+      "name": "TR: Naked (2017)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXRmYSB9C6SHdxTgY3wB72Riz9Y.jpg"
+    },
+    {
+      "name": "TR: Just Another Christmas (2020)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pv4e8yKGMJAaZihYPFUjYHsG8Ob.jpg"
+    },
+    {
+      "name": "TR: Annihilation (2018)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg"
+    },
+    {
+      "name": "TR: My Travel Buddy (2017)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TZUXLdXusbak3GspmvprQQ0CZo.jpg"
+    },
+    {
+      "name": "TR: Godspeed (2022)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfDxr9uDIOK5QZDsO76Y7ATs0kF.jpg"
+    },
+    {
+      "name": "TR: Love Hard (2021)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg"
+    },
+    {
+      "name": "TR: Good Sam (2019)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRW319DZakOxr4QYjZlZDuAkvZO.jpg"
+    },
+    {
+      "name": "TR: Sacred Hair (2017)",
+      "group": "TR - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7DZOTKgGMVP6k607it3IsVmTj5.jpg"
+    }
+  ]
+}

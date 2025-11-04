@@ -1,0 +1,893 @@
+{
+  "package": "world",
+  "name": "AR - Animation Movies",
+  "groupIndex": 234,
+  "totalChannels": 177,
+  "channels": [
+    {
+      "name": "AR: Frozen II (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg"
+    },
+    {
+      "name": "AR: The Great Mouse Detective (1986)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg"
+    },
+    {
+      "name": "AR: The Fox and the Hound 2 (2006)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTrVvEtN4Gq7l0Zxd8KRYyiTvm3.jpg"
+    },
+    {
+      "name": "AR: The Incredibles (2004)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
+    },
+    {
+      "name": "AR: The Lion King II: Simba's Pride (1998)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg"
+    },
+    {
+      "name": "AR: Ice Age: The Meltdown (2006)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdluBXie4qDvh0dFX2Fpq8v16it.jpg"
+    },
+    {
+      "name": "AR: A Bug's Life (1998)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg"
+    },
+    {
+      "name": "AR: The Jungle Book (2016)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIGhgcLtzzTON56G905I5tuwNQM.jpg"
+    },
+    {
+      "name": "AR: Cars (2006)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abW5AzHDaIK1n9C36VdAeOwORRA.jpg"
+    },
+    {
+      "name": "AR: The Sword in the Stone (1963)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYQhKThGXl3xQv71Ysw0RSmVmBA.jpg"
+    },
+    {
+      "name": "AR: Atlantis: Milo's Return (2003)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrZEWzSlbQTlsJobDmzuFNzlxbh.jpg"
+    },
+    {
+      "name": "AR: Toy Story 2 (1999)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MFIhZAW0CVlEQrFyqwa4U6zqJP.jpg"
+    },
+    {
+      "name": "AR: Toy Story (1995)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+    },
+    {
+      "name": "AR: The Lion King (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg"
+    },
+    {
+      "name": "AR: Recess: All Growed Down (2003)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddNkrIKtQsv9C22bcMy0jjvGUpT.jpg"
+    },
+    {
+      "name": "AR: Ice Age: Dawn of the Dinosaurs (2009)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg"
+    },
+    {
+      "name": "AR: Aladdin (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg"
+    },
+    {
+      "name": "AR: Skater Girl (2021)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8yxFPOvNmhlfUXBqiNvvpMI4t5.jpg"
+    },
+    {
+      "name": "AR: Fantasia (2022)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Bs5VkclA753zlkHztZ6fLWXiiC.jpg"
+    },
+    {
+      "name": "AR: Secret among Wings (2022)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9qCifdFm2nPf5HLr11DgSeKAGi.jpg"
+    },
+    {
+      "name": "AR: Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train (2020)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg"
+    },
+    {
+      "name": "AR: Monsters University (2013)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg"
+    },
+    {
+      "name": "AR: Brave (2012)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg"
+    },
+    {
+      "name": "AR: Valley of the Wolves: Palestine (2011)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1QdyG38OzBoZGXiWmdNZAgoLcS.jpg"
+    },
+    {
+      "name": "AR: Monsters, Inc. (2001)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgheSKxZkttIe8ONsf2sWXPgip3.jpg"
+    },
+    {
+      "name": "AR: Housefull (2013)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXGM2jGJqxfBiWgN1ConzJwNeFU.jpg"
+    },
+    {
+      "name": "AR: Ice Age: Continental Drift (2012)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg"
+    },
+    {
+      "name": "AR: Wish Dragon (2021)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg"
+    },
+    {
+      "name": "AR: Winnie the Pooh (2011)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMZU69sPEP8dSNU0nMWVt7b54EQ.jpg"
+    },
+    {
+      "name": "AR: Soul (2020)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg"
+    },
+    {
+      "name": "AR: Onward (2020)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg"
+    },
+    {
+      "name": "AR: Howl's Moving Castle (2004)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg"
+    },
+    {
+      "name": "AR: Cars 2 (2011)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg"
+    },
+    {
+      "name": "AR: The Search for Santa Paws (2010)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rW6rXvT6AeNC4AUBC2HJiiLpwly.jpg"
+    },
+    {
+      "name": "AR: Fun and Fancy Free (1947)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmc6Ge5GuSj7sLkkLHyuZpuI8Ii.jpg"
+    },
+    {
+      "name": "AR: Olaf's Frozen Adventure (2017)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/As8WTtxXs9e3cBit3ztTf7zoRmm.jpg"
+    },
+    {
+      "name": "AR: Tinker Bell and the Great Fairy Rescue (2010)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cb7PrVIYbwIadQqWxgSU6CGHJjj.jpg"
+    },
+    {
+      "name": "AR: Cars Toon Mater's Tall Tales (2008)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu57jZr6kK8ZsoONzBi3EcwESVZ.jpg"
+    },
+    {
+      "name": "AR: Mary Poppins (1964)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DjJh0vwGwi6KugPZfDiliO25XP.jpg"
+    },
+    {
+      "name": "AR: Snow White and the Seven Dwarfs (1937)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QKUh9UuIIT2ZA9Rby9R6vtNRKa.jpg"
+    },
+    {
+      "name": "AR: Mowgli: Legend of the Jungle (2018)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg"
+    },
+    {
+      "name": "AR: Recess: Taking the Fifth Grade (2003)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfYgZce45Hqo20MDBCfWsox2y4s.jpg"
+    },
+    {
+      "name": "AR: Ralph Breaks the Internet (2018)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg"
+    },
+    {
+      "name": "AR: Tangled (2010)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ym7Kst6a4uodryxqbGOxmewF235.jpg"
+    },
+    {
+      "name": "AR: Tarzan (1999)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg"
+    },
+    {
+      "name": "AR: Coco (2017)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+    },
+    {
+      "name": "AR: Slam Dunk 4: Roar!! Basket Man Spirit (1995)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CK0TFYkMnG3LLJ4PlXez5n5871.jpg"
+    },
+    {
+      "name": "AR: Slam Dunk 3: Crisis of Shohoku School (1995)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bknduwFeTwiZUEInQldvkIwWq9W.jpg"
+    },
+    {
+      "name": "AR: Slam Dunk 2: National Tournament (1994)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97PnJGDjDTn3WjsEK1XQQDETzuj.jpg"
+    },
+    {
+      "name": "AR: Slam Dunk: The Movie (1994)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgUGtUJL96UxGBLOzC6fiaekcJu.jpg"
+    },
+    {
+      "name": "AR: Frozen III (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eUfD6fzNWWyuwUYxeSI3grxpy0.jpg"
+    },
+    {
+      "name": "AR: Bambi (2015)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxcYI5y0F6izIqanQrJFFSgF9lH.jpg"
+    },
+    {
+      "name": "AR: Toy Story 4 (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg"
+    },
+    {
+      "name": "AR: Tinker Bell and the Legend of the NeverBeast (2014)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S0mmmpYStB3GqodRghcfOt81wQ.jpg"
+    },
+    {
+      "name": "AR: Zootopia (2016)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg"
+    },
+    {
+      "name": "AR: Lion of the Desert (1981)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm7CKN5mo09RNAcL1IP1xmJ5avT.jpg"
+    },
+    {
+      "name": "AR: Cars 3 (2017)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ8TnHvWHaVadW5JJjGYsM07j9i.jpg"
+    },
+    {
+      "name": "AR: Incredibles 2 (2018)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
+    },
+    {
+      "name": "AR: Tinker Bell and the Lost Treasure (2009)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tNldk2zPUzXVKkU9aeirM9Wotu.jpg"
+    },
+    {
+      "name": "AR: The Many Adventures of Winnie the Pooh (1977)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xwaFVLv5geVrFd81eUttv7OutF.jpg"
+    },
+    {
+      "name": "Planes Fire and Rescue: Smokejumpers (2014)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qA9VVYgaLvd04USxqqWSS9ldh0s.jpg"
+    },
+    {
+      "name": "AR: Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxbAepXQjsGFDHaR3dPndFSxDU0.jpg"
+    },
+    {
+      "name": "AR: Mickey, Donald, Goofy: The Three Musketeers (2004)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/23bvOwfOS9fw347Yc68yPpkmd8i.jpg"
+    },
+    {
+      "name": "AR: Lilo & Stitch (2002)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg"
+    },
+    {
+      "name": "AR: Ratatouille (2007)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+    },
+    {
+      "name": "AR: Waiting in the Dark (2006)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySo1vbVBk6GOjVVXcHHJGZAiIMH.jpg"
+    },
+    {
+      "name": "AR: Lady and the Tramp II: Scamp's Adventure (2001)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg"
+    },
+    {
+      "name": "AR: Tinker Bell and the Pirate Fairy (2014)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbKMx3taGom2ASpbLKtglW3XT87.jpg"
+    },
+    {
+      "name": "AR: Return to Never Land (2002)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wB3r2b8sxUZspqNyr8copMlt7se.jpg"
+    },
+    {
+      "name": "AR: Winnie the Pooh: Springtime with Roo (2004)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgVcU1BdPqvnyYnOkb1QtVNd5V.jpg"
+    },
+    {
+      "name": "AR: Cinderella III: A Twist in Time (2007)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/98PHWv6TTpjxvs6EHKJVyrjuuus.jpg"
+    },
+    {
+      "name": "AR: The Return of Jafar (1994)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg"
+    },
+    {
+      "name": "AR: Tarzan II (2005)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/akyZuA0YS36nMk8zFeeYwX7zyn2.jpg"
+    },
+    {
+      "name": "AR: Stitch! The Movie (2003)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Apq6rZlmKnWIsctO8PkUvLFEJYq.jpg"
+    },
+    {
+      "name": "AR: Planes (2013)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2xgU0y0p77WTrB0oIkbpdaWq8R.jpg"
+    },
+    {
+      "name": "AR: Inside Out (2015)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
+    },
+    {
+      "name": "AR: The Jungle Book 2 (2003)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DhuskQc9lSjPiYKr9hy0AZ7uiC.jpg"
+    },
+    {
+      "name": "AR: Valiant (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pl9hEyWsnBovKJnlWW7hvxXRaNb.jpg"
+    },
+    {
+      "name": "AR: Up (2009)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg"
+    },
+    {
+      "name": "AR: Cinderella II: Dreams Come True (2002)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEDbtKhZsqPo7ypCzoz3fkq73Pc.jpg"
+    },
+    {
+      "name": "AR: Pocahontas II: Journey to a New World (1998)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAnmNjw1TCTzS702mj1OwwmXBpM.jpg"
+    },
+    {
+      "name": "AR: Bambi II (2006)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIhTXgZjBSvW0B0BtTz0hvCrrH.jpg"
+    },
+    {
+      "name": "AR: Tinker Bell (2008)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg"
+    },
+    {
+      "name": "AR: BOLT (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/K2hp79TX3VLxhdnkk4JpAVCvbp.jpg"
+    },
+    {
+      "name": "AR: Finding Dory (2016)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg"
+    },
+    {
+      "name": "AR: Alice in Wonderland (2010)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg"
+    },
+    {
+      "name": "AR: Finding Nemo (2003)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggQ6o8X5984OCh3kZi2UIJQJY5y.jpg"
+    },
+    {
+      "name": "AR: Hercules (2014)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg"
+    },
+    {
+      "name": "AR: The Emperor's New Groove (2000)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg"
+    },
+    {
+      "name": "AR: 101 Dalmatians (1996)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg"
+    },
+    {
+      "name": "AR: Dumbo (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg"
+    },
+    {
+      "name": "AR: The Rescuers (2011)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oK9rWiwPu18D9JDrhRJHFJ3agR.jpg"
+    },
+    {
+      "name": "AR: Aladdin and the King of Thieves (1996)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg"
+    },
+    {
+      "name": "AR: Cinderella (2015)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j91LJmcWo16CArFOoapsz84bwxb.jpg"
+    },
+    {
+      "name": "AR: The Rescuers Down Under (1990)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5koTDBmMAkJOgAe4PL4163UKjvG.jpg"
+    },
+    {
+      "name": "AR: The Black Cauldron (1985)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/act8vtlXVEizdsUf9FcKbzSERew.jpg"
+    },
+    {
+      "name": "AR: The Fox and the Hound (1981)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1382VHxqZDXu2t8i46zf4fP71JG.jpg"
+    },
+    {
+      "name": "AR: Frozen (2013)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg"
+    },
+    {
+      "name": "AR: The Little Mermaid II: Return to the Sea (2000)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzrrZlY7pVTRV9GXd7Q1BkynnUx.jpg"
+    },
+    {
+      "name": "AR: Pinocchio (2022)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg"
+    },
+    {
+      "name": "AR: Atlantis: The Lost Empire (2001)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fUEFPUTF7kBMuKPiSQHxPvd8EZ.jpg"
+    },
+    {
+      "name": "AR: Mulan (2020)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
+    },
+    {
+      "name": "AR: The Good Dinosaur (2015)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg"
+    },
+    {
+      "name": "AR: The Hunchback of Notre Dame (1996)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hImMgT9B27evYSRmfztqdDtX6qi.jpg"
+    },
+    {
+      "name": "AR: Pocahontas (1995)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg"
+    },
+    {
+      "name": "AR: The Muppet Christmas Carol (1992)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssrV29QSVVJuemBHho0Qx7pFYak.jpg"
+    },
+    {
+      "name": "AR: Lady and the Tramp (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wBEye516IKul9sW7JKGcFXVGfV.jpg"
+    },
+    {
+      "name": "AR: The Princess and the Frog (2009)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yprv5PbnEksoVj2v6XEnDBg9joR.jpg"
+    },
+    {
+      "name": "AR: The Aristocats (1970)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg"
+    },
+    {
+      "name": "AR: Beauty and the Beast (2017)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg"
+    },
+    {
+      "name": "AR: Brother Bear 2 (2006)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaA8q2zHHUgFWdJNxXyAdU71SzM.jpg"
+    },
+    {
+      "name": "AR: Brother Bear (2003)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/otptPbEY0vBostmo95xwiiumMJm.jpg"
+    },
+    {
+      "name": "AR: Home on the Range (2004)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xIIo4FMquy5SRqn8hppyr2QadR.jpg"
+    },
+    {
+      "name": "AR: Tarzan (2013)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIg7TclH6PUcvTWFh0QdtU5Wcvt.jpg"
+    },
+    {
+      "name": "AR: The Little Mermaid: Ariel's Beginning (2008)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/LJs21HQ7foXB37tDI0JiGkuEAC.jpg"
+    },
+    {
+      "name": "AR: 101 Dalmatians II: Patch's London Adventure (2002)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFTt7pNSCJKLZ2RZldJuq6ON6Ti.jpg"
+    },
+    {
+      "name": "AR: Kronk's New Groove (2005)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyMrt0RPVC8LDpdMrk1DjN6Gqdu.jpg"
+    },
+    {
+      "name": "AR: Beauty and the Beast: The Enchanted Christmas (1997)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxtpbcbf6KEIHzLetWZOVGJT2lv.jpg"
+    },
+    {
+      "name": "AR: Meet the Robinsons (2007)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/naya0zF4kT401Sx15AtwB9vpcJr.jpg"
+    },
+    {
+      "name": "AR: Mulan II (2004)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cUIHYXpDFYX6r5ZviQuRKCVLJ2.jpg"
+    },
+    {
+      "name": "AR: Wreck-It Ralph (2012)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg"
+    },
+    {
+      "name": "AR; DuckTales: The Movie - Treasure of the Lost Lamp (1990)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCvdRynGJQWaOi2qwQP5nDdFxjM.jpg"
+    },
+    {
+      "name": "EN: murfs: The Lost Village (2017)",
+      "group": "AR - Animation Movies",
+      "logo": "https://tse3.mm.bing.net/th?id=OIP.50KAR44QUMBDsEpVROSISQHaLH&pid=Api&P=0"
+    },
+    {
+      "name": "AR: The Smurfs (2011)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRhnslP2gW0QDym7BsMeSuioUfK.jpg"
+    },
+    {
+      "name": "AR: Shark Tale (2004)",
+      "group": "AR - Animation Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_.jpg"
+    },
+    {
+      "name": "AR: Howl’s Moving Castle (2004)",
+      "group": "AR - Animation Movies",
+      "logo": "https://tse3.mm.bing.net/th?id=OIP.cMapunAPtgrhH_fQPXOeRAHaLH&pid=Api&P=0"
+    },
+    {
+      "name": "AR:  Pangaa Gang (2010)",
+      "group": "AR - Animation Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTMyYjFiOGMtOTViOC00MmQyLWEzYWEtNDdiOGIzZmE5NTFkXkEyXkFqcGdeQXVyMTI0NzMxNjM4._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "AR:  Blackie and Kanuto (2013)",
+      "group": "AR - Animation Movies",
+      "logo": "https://medias.unifrance.org/medias/118/124/97398/format_page/media.jpg"
+    },
+    {
+      "name": "AR:  ParaNorman (2012)",
+      "group": "AR - Animation Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA1OTU1NDM3N15BMl5BanBnXkFtZTcwMjYxNTg0Nw@@._V1_.jpg"
+    },
+    {
+      "name": "AR: Unstoppable (2019)",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/csle64zkLObsdRoabreC6bBRxLI.jpg"
+    },
+    {
+      "name": "AR: Think Like A Dog",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDbOrc2RtIA37nLm0CzVpFLrdaG.jpg"
+    },
+    {
+      "name": "AR: The Sleepover",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iEc34Qje2V3FZnrSXKfZsbiHjW.jpg"
+    },
+    {
+      "name": "AR: The One And Only Ivan",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDOyGAiTaXvjKGmnmXsoFO7zItt.jpg"
+    },
+    {
+      "name": "AR: The Jungle Book",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aciy7VWE8b6AnrnpGst4g0IK8WI.jpg"
+    },
+    {
+      "name": "AR: Fünf Freunde Und Das Tal Der Dinosaurier",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFjvtRpqjPg07wQrojyK0HQH8Zt.jpg"
+    },
+    {
+      "name": "AR: The Christmas Chronicles: Part Two",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg"
+    },
+    {
+      "name": "AR: The Boy, The Dog And The Clown",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjEBV2Nkl7C0S3dyC0S2tRbr0jK.jpg"
+    },
+    {
+      "name": "AR: Switched",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4nGI9mEFU8cGrhLUzHNM2cAlQy.jpg"
+    },
+    {
+      "name": "AR: Song Of The Sea",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DBX7QOEzWPNcDhqXInk6GBEvhK.jpg"
+    },
+    {
+      "name": "AR: Puppy Star Christmas",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztmVR4XlmAWtHFjDBWh2VyYcyuC.jpg"
+    },
+    {
+      "name": "AR: Noelle",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+    },
+    {
+      "name": "AR: My Spy",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg"
+    },
+    {
+      "name": "AR: Middleton Christmas",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/om8n8atZcHHcidDzfS43IYiNyIQ.jpg"
+    },
+    {
+      "name": "AR: Max Winslow And The House Of Secrets",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfIg2Z2jcogAx131KxP4OIIBm4s.jpg"
+    },
+    {
+      "name": "AR: Mariah Carey's Magical Christmas Special",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGc9CukX7IojOcDYfEgZEM1ez5D.jpg"
+    },
+    {
+      "name": "AR: Lady And The Tramp",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wBEye516IKul9sW7JKGcFXVGfV.jpg"
+    },
+    {
+      "name": "AR: Jingle Jangle: A Christmas Journey",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RbyHIVydD3Krmec1LlUV7rRjet.jpg"
+    },
+    {
+      "name": "AR: Godmothered",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg"
+    },
+    {
+      "name": "AR: Go!",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOLC9552jBvymwsgHc3ri2SyuyD.jpg"
+    },
+    {
+      "name": "AR: Four Kids And It",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIFyMT7HIUdfYPqgjsFsXlbaVZx.jpg"
+    },
+    {
+      "name": "AR: Early Man",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXukFwTKOe7izDsf3ZOdeYikRxF.jpg"
+    },
+    {
+      "name": "AR: Descendants 2",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BNyZlBk4Hs92z6UrvFDjvx3yMb.jpg"
+    },
+    {
+      "name": "AR: Ben Hur",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RvADC1wn9sOKRolOJmm7Pf1ZCW.jpg"
+    },
+    {
+      "name": "AR: Adventures Of Dally And Spanky",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RNTzbWcvuaDLfzYSF5vMgeJuQQ.jpg"
+    },
+    {
+      "name": "AR: A Dog's Journey",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pzN52wxBZ05EXBdoii1kqoIoD4.jpg"
+    },
+    {
+      "name": "AR: A Babysitter's Guide To Monster Hunting",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkld8Me0WiLWipLORRNfF1yIPHu.jpg"
+    },
+    {
+      "name": "AR: 100% Wolf",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg"
+    },
+    {
+      "name": "AR: 48 Christmas Wishes",
+      "group": "AR - Animation Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrcA62O9j8y4gsSpftMKVcvrzCI.jpg"
+    },
+    {
+      "name": "AR: Babam",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/8MZYwUWJhLADpExD2zMj4uINeFM_big.jpg"
+    },
+    {
+      "name": "AR: كوكو",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/4cys1QsLlCjpXwujlQvaVnwfUqH_big.jpg"
+    },
+    {
+      "name": "AR: ديناصور",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/rSje3FS7ycJSglowlngjsvDt7vO_big.jpg"
+    },
+    {
+      "name": "AR: Dora and the Lost City of Gold",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/nUb42B7b2IqKdSg1NGwXEXcApyE_big.jpg"
+    },
+    {
+      "name": "AR: شركة المرعبين المحدودة",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/oLKR5TveXBdAI50TpxXS1hURG9Y_big.jpg"
+    },
+    {
+      "name": "AR: الجيل القادم",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/hUDDo5MPWM6rc6COQYhaoRNqvhE_big.jpg"
+    },
+    {
+      "name": "AR: رالف يدمر الإنترنت",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/dPjotaHopb6uvm1gRwrQbaYRiJK_big.jpg"
+    },
+    {
+      "name": "AR: الطبَّاخُ الصَّغير",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/npHNjldbeTHdKKw28bJKs7lzqzj_big.jpg"
+    },
+    {
+      "name": "AR: Super Monsters and the Wish Star",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/yXGlF7BKrbwgaGXyed2wJgRK9c_big.jpg"
+    },
+    {
+      "name": "AR: رابونزل",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/dgYyMCzot2HexAR71ylam8JaPrP_big.jpg"
+    },
+    {
+      "name": "AR: The Angry Birds Movie 2",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/ebe8hJRCwdflNQbUjRrfmqtUiNi_big.jpg"
+    },
+    {
+      "name": "AR: القرينتش",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/stAu0oF6dYDhV5ssbmFUYkQPtCP_big.jpg"
+    },
+    {
+      "name": "AR: الاسد الملك 3 هاكونا ماتاتا",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/sVJME5R1NmTXtbdnAxYPx7Xa7kr_big.jpg"
+    },
+    {
+      "name": "AR: الاسد الملك",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/xY7tsdYRln1Dp2p7RNrCPIoDRFK_big.jpg"
+    },
+    {
+      "name": "AR: الحياة السرية للحيوانات الأليفة 2",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/a66P5ruxkjnSCqnEKTDQfFz6bTR_big.jpg"
+    },
+    {
+      "name": "AR: حكاية لعبة 2",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/xVhEI1WCgNCCa5I86AqiwuZoog3_big.jpg"
+    },
+    {
+      "name": "AR: حكاية لعبة 3",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/AbbXspMOwdvwWZgVN0nabZq03Ec_big.jpg"
+    },
+    {
+      "name": "AR: حكاية لعبة 4",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/f6jognnAZ0VjqIiduAp2aX4LlIK_big.jpg"
+    },
+    {
+      "name": "AR: حكاية لعبة",
+      "group": "AR - Animation Movies",
+      "logo": "http://test.thesmartiptv.com:900/images/awcISQJchXGuK3O7iJQG9zKEzCt_big.jpg"
+    }
+  ]
+}

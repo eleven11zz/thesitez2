@@ -1,0 +1,63 @@
+{
+  "package": "world",
+  "name": "TR - Bein Sports - Live.",
+  "groupIndex": 207,
+  "totalChannels": 11,
+  "channels": [
+    {
+      "name": "TR: BEIN Sports 1 HD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports1.png"
+    },
+    {
+      "name": "TR: BEIN Sports 2 FHD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports2.png"
+    },
+    {
+      "name": "TR: BEIN Sports 3 HD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports3.png"
+    },
+    {
+      "name": "TR: BEIN Sports 4 HD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports4.png"
+    },
+    {
+      "name": "TR: BEIN Sports 4 FHD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports4.png"
+    },
+    {
+      "name": "TR: BEIN Sports 5 FHD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports5.png"
+    },
+    {
+      "name": "TR: BEIN Sports Haber HD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportshaber.png"
+    },
+    {
+      "name": "TR: BEIN Sports MAX 1 HD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportsmax1.png"
+    },
+    {
+      "name": "TR: BEIN Sports MAX 1 FHD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportsmax1.png"
+    },
+    {
+      "name": "TR: BEIN Sports MAX 2 HD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportsmax2.png"
+    },
+    {
+      "name": "TR: BEIN Sports MAX 2 FHD  (101-SERVERS)",
+      "group": "TR - Bein Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportsmax2.png"
+    }
+  ]
+}

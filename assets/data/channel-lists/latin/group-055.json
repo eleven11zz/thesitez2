@@ -1,0 +1,458 @@
+{
+  "package": "latin",
+  "name": "Kids - (PT) Disney+ Movies",
+  "groupIndex": 55,
+  "totalChannels": 90,
+  "channels": [
+    {
+      "name": "PT: Os 101 Dálmatas (1996)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz6rT9M05abWXlU964qJ151On47.jpg"
+    },
+    {
+      "name": "PT: Os 101 Dálmatas II — A Aventura de Patch em Londres (2002)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdaIKUSO2CuYDmGpLHioFzx5DDl.jpg"
+    },
+    {
+      "name": "PT: Os 102 Dálmatas (2000)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOiw3ssvgWkc9Kp1v4onuIIuE0a.jpg"
+    },
+    {
+      "name": "PT: A Bela e o Monstro (2017)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg"
+    },
+    {
+      "name": "PT: A Bela e o Monstro: O Natal Encantado (1997)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkNjZN0gQtlsA0ZkAr3weIh9m7C.jpg"
+    },
+    {
+      "name": "PT: A Dama e o Vagabundo II - As Aventuras de Banzé (2001)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kqvSoshJobn1zdZhJM0Gnj1kx.jpg"
+    },
+    {
+      "name": "PT: A Idade do Gelo 2: Descongelados (2006)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BSEXwvi0xDC2CbMkZQ0LngaVOh.jpg"
+    },
+    {
+      "name": "PT: A Idade do Gelo 3: Despertar dos Dinossauros (2009)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpvU1rXCNoXiAVkzv12NJToIV5P.jpg"
+    },
+    {
+      "name": "PT: A Idade do Gelo 4: Deriva Continental (2012)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWiHLqARtyAAOy0nLvXIxRYkfNA.jpg"
+    },
+    {
+      "name": "PT: Idade do Gelo (2014)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajWTTgzLImSumz0U0G6cOZMsE1v.jpg"
+    },
+    {
+      "name": "PT: A Idade do Gelo: Um Natal de Mamute (2011)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNJDdFZozVL4JWc7pYbAsnbeF4K.jpg"
+    },
+    {
+      "name": "PT: A Idade do Gelo: O Big Bang (2016)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg"
+    },
+    {
+      "name": "PT: A Extraordinária Garota Chamada Estrela (2020)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYvD1TZfGF2RHe1078MULl78nsV.jpg"
+    },
+    {
+      "name": "PT: Chicken Run: Dawn of the Nugget",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/scIww6OM0KgvtcMGN25akpRYmvt.jpg"
+    },
+    {
+      "name": "PT: Fuga Para a Montanha Mágica (1975)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zQqwec4ZFATE06jjdAW4U9Rq9L.jpg"
+    },
+    {
+      "name": "PT: Corrida para a Montanha Mágica (2009)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qSbUfDVILkBNowkmbUibGsqLwp.jpg"
+    },
+    {
+      "name": "PT: Pacha e o Imperador (2000)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN4nsXWzASSjYUIHUkwSJQ6b2UW.jpg"
+    },
+    {
+      "name": "PT: A Pequena Sereia (1989)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBFAs9hMdSgHKMvW6VLnh5SOfof.jpg"
+    },
+    {
+      "name": "PT: A Pequena Sereia (2018)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK2UnoO7PhWsCVDF1y0cXd0A7Kh.jpg"
+    },
+    {
+      "name": "PT: A Pequena Sereia II: Regresso ao Mar (2000)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMRyt4mMKRJhiW62yvznQeKNJd4.jpg"
+    },
+    {
+      "name": "PT: A Volta da Montanha Enfeitiçada (1978)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2HCYrEFtcIaYX8Eus1EBsdJ91t.jpg"
+    },
+    {
+      "name": "PT: Mickey - Um Natal Mágico (1999)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkYLZQ5QMbN0kH9nb1pwtiTVoL8.jpg"
+    },
+    {
+      "name": "PT: Aladdin (2019)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg"
+    },
+    {
+      "name": "PT: Aladdin 2 - O Regresso de Jafar (1994)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7cOd8UI3QJepdIU26Pi300fjs3.jpg"
+    },
+    {
+      "name": "PT:  Aladdin (2019)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg"
+    },
+    {
+      "name": "PT: Aquele Gato Danado (1997)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPQuyy0oW6xU520f5CpLphrdN4g.jpg"
+    },
+    {
+      "name": "PT: Os Aristogatos (1970)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/feu311aXpDoSQC7tNZ6HpE7I1aw.jpg"
+    },
+    {
+      "name": "PT: As Aventuras de Peter Pan (1953)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/moixbncq5YyZ2dKkbFoclv4f7SG.jpg"
+    },
+    {
+      "name": "PT: Atlântida - O Continente Perdido (2001)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UmnKr6yJF4orjxNvrut4eoOpyR.jpg"
+    },
+    {
+      "name": "PT: Bambi (1942)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJMyNN2nSOg9FmU5fYqEjWmsH8W.jpg"
+    },
+    {
+      "name": "PT: Bambi 2 - O Grande Príncipe da Floresta (2006)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIVLCnwYynKIiAheJoEQtC8gTjq.jpg"
+    },
+    {
+      "name": "PT: Branca de Neve e os Sete Anões (1937)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg"
+    },
+    {
+      "name": "PT: Caminhos da Floresta (2014)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg"
+    },
+    {
+      "name": "PT: Cinderela Pop (2019)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cqyRlLap9kkej7iDMvu1xfl783.jpg"
+    },
+    {
+      "name": "PT: Titãs: Cabeça Dinossauro 30 Anos (2012)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQezoQI1wfIrWIS16ghPUU8nk8J.jpg"
+    },
+    {
+      "name": "PT: Diário de uma Adolescente (2006)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgbX5CsvUdt7rQpernFeqhdfTuD.jpg"
+    },
+    {
+      "name": "PT:  Inside Out 2 (2024)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+    },
+    {
+      "name": "PT:  Doi Boy (2023)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFjNdswa8V8OyhwmhX31JB6ENkG.jpg"
+    },
+    {
+      "name": "PT: DuckTales: O Filme: O Tesouro da Lâmpada Perdida (1990)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsLP8ULSWhauYHynFn3n8zU03Io.jpg"
+    },
+    {
+      "name": "PT: Dumbo (1941)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg"
+    },
+    {
+      "name": "PT: Amadrinhadas (2020)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSglKGcaMU5IoY7ZLYJYnmVJ3Uk.jpg"
+    },
+    {
+      "name": "PT:  Death at a Funeral (2010)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBCQYMJTqV3qLjrvZ5sTZUCBky7.jpg"
+    },
+    {
+      "name": "PT: Recreio: Missão Salvar As Ferias (2001)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNqRmUjIei16VJvSKlCLaKSCCM.jpg"
+    },
+    {
+      "name": "PT: Kenai e Koda (2003)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFRQgHiZwHTX7LmHEI0hwocuBC3.jpg"
+    },
+    {
+      "name": "PT: Kenai e Koda 2 (2006)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4kOIrwYMXInmFH8eaJ6kDoAkUW.jpg"
+    },
+    {
+      "name": "PT: Lilo e Stitch (2002)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ottRXMCQ9jPB318syTcfIdtJWIE.jpg"
+    },
+    {
+      "name": "PT: Luca (2021)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jPa6SlUYxPFMVZlEuceiPPAA15.jpg"
+    },
+    {
+      "name": "PT:  Mickey, Donald, Goofy: The Three Musketeers (2004)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/23bvOwfOS9fw347Yc68yPpkmd8i.jpg"
+    },
+    {
+      "name": "PT: Vaiana (2016)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jNbH7A9HGL4OCNQvzj98ksoa2f.jpg"
+    },
+    {
+      "name": "PT: Mulan (1998)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq4taYpb2PjN1Cwni23GOZJbOaR.jpg"
+    },
+    {
+      "name": "PT: Mulan (2020)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/72I82eKXCadZWEYygV9GkJOQNEq.jpg"
+    },
+    {
+      "name": "PT: Mulan 2: A Lenda Continua (2004)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWcoRhckk3F1v1HvaMvIyc9faZA.jpg"
+    },
+    {
+      "name": "PT: A Viagem de Arlo (2015)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DIObOvdH1jCCIe06DLjQFIsZOY.jpg"
+    },
+    {
+      "name": "PT: O Segredo do Corcunda de Notre Dame (1996)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27A8aU3URx0CZnhjHuNq5tAqPdz.jpg"
+    },
+    {
+      "name": "PT: O Corcunda de Notre Dame II (2002)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TLAX4PLdHV4aBfhYIqNzh1gmpH.jpg"
+    },
+    {
+      "name": "PT: The Absent (2011)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3flhtv0nGOWzv2CW8EfoqqS47j.jpg"
+    },
+    {
+      "name": "PT: O Gigante de Ferro (1999)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8StQ8dmVQ94THFTrMVHuMp5QKw.jpg"
+    },
+    {
+      "name": "PT: O Único e Incomparável Ivan (2020)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLqOH0SSJ1hy3Y1POl5cr6H1RtL.jpg"
+    },
+    {
+      "name": "PT: O Rei Leão (1994)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg"
+    },
+    {
+      "name": "PT: O Rei Leão II: O Reino de Simba (1998)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GB2FntD6nBGx1EsKKOtR7v4Tza.jpg"
+    },
+    {
+      "name": "PT: O Rei Leão 3 - Hakuna Matata (2004)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg"
+    },
+    {
+      "name": "PT:  Ostap Bender. The Empire's Gold (2021)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nUaUFcoAXe363oMtJqStWtCsWo.jpg"
+    },
+    {
+      "name": "PT:  OS (2011)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLG0UpqYGxySbg4M3rRoTDcgdWi.jpg"
+    },
+    {
+      "name": "PT: The Simpsons: The Good, the Bart, and the Loki (2021)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTBiR84Pyt22VMNsxvCQfFPf6iq.jpg"
+    },
+    {
+      "name": "PT: Radicalmente Pateta (2000)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R9fbKe3A3cyVdNO9G1HPtysFrH.jpg"
+    },
+    {
+      "name": "PT: Pateta, o Filme (1995)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L1wXw5p0EmqPMkZpwjaB5A1nVD.jpg"
+    },
+    {
+      "name": "PT: Peter Pan: The Quest for the Never Book (2018)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yorpiDdIQYMzhpcwn6HRErbP3F0.jpg"
+    },
+    {
+      "name": "PT: Peter Pan em a Terra do Nunca (2002)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kUlxkWZ2GaMBNf85yEkIxIJ9Qg.jpg"
+    },
+    {
+      "name": "PT: Pocahontas (1995)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edIqnYPOW0gkTsX2CEFdqpHhQhz.jpg"
+    },
+    {
+      "name": "PT: Pocahontas 2 - Viagem a Um Novo Mundo (1998)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNsHnGRoGYziVpz0D6hS4x78y2A.jpg"
+    },
+    {
+      "name": "PT: Rio 2 (2014)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg"
+    },
+    {
+      "name": "PT: Rio (2011)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPvCSyQCY6Xtl78Qo9o0YStUj6o.jpg"
+    },
+    {
+      "name": "PT: Sociedade Secreta dos Príncipes Não Herdeiros (2020)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9f4D8zjF9fUEVI42WWBcvuRKytL.jpg"
+    },
+    {
+      "name": "PT: Soul - Uma Aventura com Alma (2020)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg"
+    },
+    {
+      "name": "PT: Spirit - Espírito Selvagem (2002)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jycgp5AdZFKj2Qh2VACG9ilK93l.jpg"
+    },
+    {
+      "name": "PT: Sininho: Fadas e Piratas (2014)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wnJj5SPmR70o6YK3m31SnOT33.jpg"
+    },
+    {
+      "name": "PT: Sininho: E o Segredo das Fadas (2012)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4XtmRHjpcN8r4ZUn7g3kGEE3F4.jpg"
+    },
+    {
+      "name": "PT: Sininho (2008)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/azgjMUMoUJB2yheVcN1Ae8lFNeD.jpg"
+    },
+    {
+      "name": "PT: Sininho e a Lenda do Monstro da Terra do Nunca (2014)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwv9AdjVlr0LBsNAPpk2LllJqAd.jpg"
+    },
+    {
+      "name": "PT: Sininho: Salva as Fadas (2010)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yY69Kxm9QP9mHL9Awswxgqr3q1C.jpg"
+    },
+    {
+      "name": "PT: Sininho: E o Tesouro Perdido (2009)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKTfGR1ksZGusE1fsqr7WqzUGuw.jpg"
+    },
+    {
+      "name": "PT: Togo (2019)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCCgIgIqNHZCxKgZKTqv1LzxuwI.jpg"
+    },
+    {
+      "name": "PT: Toy Story: Os Rivais (1995)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AafgfifXkFS4g2xGJZIwsPQK6P.jpg"
+    },
+    {
+      "name": "PT: Toy Story 2 - Em Busca de Woody (1999)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjzb9ojVSEw9vg5kp22ijPKXyMF.jpg"
+    },
+    {
+      "name": "PT: Toy Story 3 (2010)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg"
+    },
+    {
+      "name": "PT: Toy Story 4 (2019)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZC8Rc6t8vEUow28GLJaSYq4Blr.jpg"
+    },
+    {
+      "name": "PT: Brave - Indomável (2012)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jX9O3eyzfw937QOhRF4wz6nhxBM.jpg"
+    },
+    {
+      "name": "PT: A Celebration of the Music from Coco (2020)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pegsyR4wnLJg9fcwPlcHNrL48cJ.jpg"
+    },
+    {
+      "name": "PT: Viúva Negra (2021)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg"
+    },
+    {
+      "name": "PT: Ralph vs Internet (2018)",
+      "group": "Kids - (PT) Disney+ Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg"
+    }
+  ]
+}

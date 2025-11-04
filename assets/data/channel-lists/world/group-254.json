@@ -1,0 +1,2603 @@
+{
+  "package": "world",
+  "name": "DE - Anime Movies",
+  "groupIndex": 254,
+  "totalChannels": 519,
+  "channels": [
+    {
+      "name": "DE: Gintama: The Movie 2: The Final Chapter: Be Forever Yorozuya (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wEl5WHQO2SdWQ6S3gLBaaobf4c.jpg"
+    },
+    {
+      "name": "DE: Gintama: The Movie (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/E3RT3f8oOuPS2pMhgH47TKBPgu.jpg"
+    },
+    {
+      "name": "DE: Nasu: Summer in Andalusia (2003)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcwIb5YEfTeVqCRJXNL8Ai1RcEj.jpg"
+    },
+    {
+      "name": "DE: Eden of the East Movie II: Paradise Lost (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aH7cEbHQTsosx6H5bgpueQHOB8I.jpg"
+    },
+    {
+      "name": "DE: Eden of the East Movie I: The King of Eden (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxCScvnhm0BmEWmye4Z81wopfBo.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Super: Super Hero (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg"
+    },
+    {
+      "name": "DE: Jujutsu Kaisen 0 (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg"
+    },
+    {
+      "name": "DE: Drifting Home (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNf1wC8cK6e8zgNyuMUqWFT7Din.jpg"
+    },
+    {
+      "name": "DE: Bleach the Movie: Hell Verse (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pd7V5iCB19VBPJkihxFXFwSRW2M.jpg"
+    },
+    {
+      "name": "DE: Yu-Gi-Oh!: The Dark Side of Dimensions (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFQkn1KE0Is3FUW0yPPgdVvCnlo.jpg"
+    },
+    {
+      "name": "DE: The Journey (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/noA8RnhSDDhW8Od4C7s0J9muNYA.jpg"
+    },
+    {
+      "name": "DE: Steamboy (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZAq0hTiJTiQir5RtpiN8CkkzSZ.jpg"
+    },
+    {
+      "name": "DE: SPY x FAMILY CODE: White (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlIQf4y9eB14iYzNN142tROIWON.jpg"
+    },
+    {
+      "name": "DE: Mary and The Witch's Flower (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lq3OJQiJ8hlCr23LAdHbeU3eqBF.jpg"
+    },
+    {
+      "name": "DE: Round Da Way (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/myw0jbvci1Z84dMKMtQkCLBaY5u.jpg"
+    },
+    {
+      "name": "DE: Ghost in the Shell: SAC_2045 Sustainable War (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNTvGWDTxb2spAp9SRLNfOo7kCM.jpg"
+    },
+    {
+      "name": "DE: Ghost in the Shell: Production Report (1995)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPoNWeeYogiAMrxatIEUl9KA6Ss.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball: Curse of the Blood Rubies (1986)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZCWRFJnwyxYOhzAhf7Xyru4moB.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Wrath of the Dragon (1995)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRu9EA3nie0n2mlVDDLlTI3IzC.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: The History of Trunks (1993)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfUkiiR0UKeiPXPgTx9bRO4snTB.jpg"
+    },
+    {
+      "name": "DE: Case Closed: Zero the Enforcer (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4nyOBnP7q0qlVfHAn0j49rs76d.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Scarlet Bullet (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wowJzvF1KqEFSZoArkgngRy1r4L.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Full Score of Fear (2008)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxq2TfGy1Vfh9miCjKPo0nNxmW6.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Crossroad in the Ancient Capital (2003)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzPnHHhYWSMGwBLTDCIT6sgehF5.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Jolly Roger in the Deep Azure (2007)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qiBRbIsfpw6O32TfD1FZ81MiKw.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Time Bombed Skyscraper (1997)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RB171WScK3nh4PqoRn8bj3iNLa.jpg"
+    },
+    {
+      "name": "DE: Case Closed: The Crimson Love Letter (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj2bDnXgwL9BlmZSdhd6N73HqNM.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Magician of the Silver Sky (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bozQR8pgW43WFI4VpV9vCgyXlDq.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Last Wizard of the Century (1999)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2v6JmGMVQR0UhUirXuuzXUcAnN.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Captured in Her Eyes (2000)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0ta1yBaKQRjEWLhOU8jmE9TdGa.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Private Eyes' Requiem (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nWSBZBOP6NSGuBoGQEiIg03lJg.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Phantom of Baker Street (2002)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbgADjLIYoLAc3mayVWGBWSbjT.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Strategy Above the Depths (2005)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/enhiUd7MOuLjKa4NkZmLaN7dDWH.jpg"
+    },
+    {
+      "name": "DE: Case Closed: The Fourteenth Target (1998)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2W1FwcYpHarzO5GKBYucoGnDffA.jpg"
+    },
+    {
+      "name": "DE: Case Closed: Countdown to Heaven (2001)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1giFCODG6Bnik84NsyjHwvuX9Da.jpg"
+    },
+    {
+      "name": "DE: Castle in the Sky (1986)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg"
+    },
+    {
+      "name": "DE: Bleach the Movie: Fade to Black (2008)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IfR2DrWLb26AAdQFwGkhvPTflX.jpg"
+    },
+    {
+      "name": "DE: Napping Princess (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9d27l5z9B2zyqoEtKkieBcbclMG.jpg"
+    },
+    {
+      "name": "DE: Planetarian: Hoshi no Hito (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hIbj9FohrwZC8eVrlVbbCqaaR8.jpg"
+    },
+    {
+      "name": "DE: Digimon Adventure tri. Part 1: Reunion (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUB2K3u82VAOGyLTZjhh7XIRQZN.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie: Kyurem vs. the Sword of Justice (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gQEAR8aaCQRtJi7wq26ST5hukn.jpg"
+    },
+    {
+      "name": "DE: Pokémon: Zoroark - Master of Illusions (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWgH64RZmm2rIHtO2DNnfN3DZa8.jpg"
+    },
+    {
+      "name": "DE: Pokémon: Arceus and the Jewel of Life (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpqguVMKyPbINe0GYmMwduoaUar.jpg"
+    },
+    {
+      "name": "DE: Pokémon: Giratina and the Sky Warrior (2008)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3T08IL68EVcrUPiJLVN9KSGlXs.jpg"
+    },
+    {
+      "name": "DE: Pokémon: The Rise of Darkrai (2007)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yElGG6lxLtQXcgBVzF7Xxq7YRa2.jpg"
+    },
+    {
+      "name": "DE: Pokémon Ranger and the Temple of the Sea (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZOi06xHjsG1VqbiIwS8GkyrAOn.jpg"
+    },
+    {
+      "name": "DE: Pokémon: Lucario and the Mystery of Mew (2005)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A3WiPXPmWVhXC7bGSiqtsYY9z6.jpg"
+    },
+    {
+      "name": "DE: Pokémon: Destiny Deoxys (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UV4evNh70gvPZB9KJEoh3a9B6I.jpg"
+    },
+    {
+      "name": "DE: Pokémon: Jirachi - Wish Maker (2003)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbH0tIEymhyd6uk4xV4vrS6qybV.jpg"
+    },
+    {
+      "name": "DE: Pokémon Heroes (2002)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eySv5rdYLW1k6LxepxCNl8ND26R.jpg"
+    },
+    {
+      "name": "DE: Pokémon 4Ever (2001)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thz83PS9twtVBEEAM59J1bh75nU.jpg"
+    },
+    {
+      "name": "DE: Pokémon 3: The Movie (2000)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrBWiMWnD7mheMx846ycUWA3ohs.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie 2000 (1999)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/se72V9kyqmJYF1HLu5F7TEUU41g.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie: White - Victini and Zekrom (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/J5AsLGUAqMgq0MjoyWldqqMPs1.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie: Genesect and the Legend Awakened (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l921PT8ZDeAD4YWDaB5Uke89r9b.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie: Black - Victini and Reshiram (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/SuIAXmxlbImWHobCkCWCHAeg03.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie: Hoopa and the Clash of Ages (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kXRevMC1XSywmxqqRHuBcZlROT.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie: I Choose You! (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4U689nUPUtER5Qh1MNlLRPeh8q.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie: Diancie and the Cocoon of Destruction (2014)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA0KbJZbBt2fMmZs8bwPZnzFfDc.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie: Volcanion and the Mechanical Marvel (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hdbuM6qBrHH0hX4sD8pNsXmalm.jpg"
+    },
+    {
+      "name": "DE: Lupin III: The First (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lK0BCJWib1TFeFmQFNEJBMZfEPz.jpg"
+    },
+    {
+      "name": "DE: Haikara-san: Here Comes Miss Modern Part 2 (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xlCJLPOnYcqVeCOzmXpicyCEOA.jpg"
+    },
+    {
+      "name": "DE: Haikara-san: Here Comes Miss Modern Part 1 (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hT6Y8dm1Mnar7N6nybFRK7THFJn.jpg"
+    },
+    {
+      "name": "DE: Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FQboZCHxIRYF4TIJZ1gxZ4XqpR.jpg"
+    },
+    {
+      "name": "DE: Ghost in the Shell: S.A.C. 2nd GIG - Individual Eleven (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0vvm9t7lGTEerapmIe9GAcCDZc.jpg"
+    },
+    {
+      "name": "DE: Beauty Water (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFotlGivCvAWi3SvPycacqju6dN.jpg"
+    },
+    {
+      "name": "DE: Attack on Titan: The Roar of Awakening (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLkdCvfmTOvxirrpSaaOBJD7qsU.jpg"
+    },
+    {
+      "name": "DE: Ascension (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tng4QWveeazE2gFcrZxvbyvvl8.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Dimensional Sniper (2014)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d08RKnmdcoCwlHOezazli8hmJH6.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Raven Chaser (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rqrypnOq4cuwzobGW9gQgarkSr.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Darkest Nightmare (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXYeXuomi8EpXsXO4cvt5mdfSCD.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Eleventh Striker (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wUk85WRQrAxTOgxjdPwrmVQ2Se.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Lost Ship in the Sky (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kthV4ZwXO37pfCFTbX1cHOYie4r.jpg"
+    },
+    {
+      "name": "DE: Tales from Earthsea (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg"
+    },
+    {
+      "name": "DE: Case Closed: The Fist of Blue Sapphire (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IkaZMxpOEFG9lk0T3fpDGAUv3.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Sunflowers of Inferno (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/phTv5vD6nLCLrtUKWRHMBJGU7Bi.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Quarter of Silence (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bNsqXpPKSdcqPeBgWg9HsrwYJe.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: Private Eye in the Distant Sea (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QtpfeGuxWbfLMgBiP3u3MVws9M.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball: Mystical Adventure (1988)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uPs9rjKkGWOmc5QO4VV08YdLpV.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Bojack Unbound (1993)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iihTK9Af8G1ZzBjkIIAV4qQMkzF.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Dead Zone (1989)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywtyEDTM2YO7qod7USNNwhrAfvA.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Fusion Reborn (1995)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AHvaEAeQfkfJ4OqcBePxa2ao09.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: The Return of Cooler (1992)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k23L4i0JjwU8D5flnR5damgXFcS.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Broly - Second Coming (1994)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Apnw8FWoPOIsu14d5dvaNZzFSJE.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Super Android 13! (1992)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIwjWaEuCcT3QVBd9Ng9wG3kbpU.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Resurrection 'F' (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Super: Broly (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vx8zZ7fDsA8KMO6fiVs3pZmNWQ.jpg"
+    },
+    {
+      "name": "DE: White Snake (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/30SLnoKmYNyRPkKCYowsrGLRnJA.jpg"
+    },
+    {
+      "name": "DE: Trolls Holiday in Harmony (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xl0jqhLC8BwtZT6pXGgKwSygQ4u.jpg"
+    },
+    {
+      "name": "DE: Sword Art Online: Extra Edition (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWr2GUTKRR4d8aCApF93OzBfq3e.jpg"
+    },
+    {
+      "name": "DE: Ruben Brandt, Collector (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3Xztb6f0SUzyAyMMX10LO2rE5a.jpg"
+    },
+    {
+      "name": "DE: One Piece Film: Strong World (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gz8ZSM9WpG9M3JtGqRTvJbyFKnm.jpg"
+    },
+    {
+      "name": "DE: Natsume's Book of Friends: Ephemeral Bond (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LVV47JaRHa1OXrQv5l6XSyfW50.jpg"
+    },
+    {
+      "name": "DE: My Hero Academia: Heroes Rising (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpWsIkfXrnQ1pmR79qAHHq7DPxc.jpg"
+    },
+    {
+      "name": "DE: Monster's Battlefield (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBVYp2xxx2R02n21EGlDky8CgWR.jpg"
+    },
+    {
+      "name": "DE: Hatsune Miku: Magical Mirai 2020 (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/roNl1qv9KtkPUkAFa83FrmdJFOX.jpg"
+    },
+    {
+      "name": "DE: Jin-Roh: The Wolf Brigade (1999)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyLKFR339GCzTKUtrVO4hbeEhub.jpg"
+    },
+    {
+      "name": "DE: I Want to Eat Your Pancreas (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDWA7fB4cZ4sBP6YgwlxvraDHi7.jpg"
+    },
+    {
+      "name": "DE: Fortune Favors Lady Nikuko (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceine994qh3wc5KpQoEp3LAGHOS.jpg"
+    },
+    {
+      "name": "DE: Checkered Ninja 2 (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg"
+    },
+    {
+      "name": "DE: The Deer King (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE6bhyMR973XcWr2gqeCmAgvvYW.jpg"
+    },
+    {
+      "name": "DE: Sing a Bit of Harmony (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5N9a7bkt3cldZps5Zal3lN4dgy7.jpg"
+    },
+    {
+      "name": "DE: One Piece Film Red (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogDXuVkO92GcETZfSofXXemw7gb.jpg"
+    },
+    {
+      "name": "DE: Fate/Grand Order Final Singularity  (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTpw3z1OJkRfCWlIDvS28TCcoXy.jpg"
+    },
+    {
+      "name": "DE: The Boy and the Heron (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4oZTcfGrVTXKTWg157AwikXqmP.jpg"
+    },
+    {
+      "name": "DE: Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg"
+    },
+    {
+      "name": "DE: Sailor Moon S the Movie: Hearts in Ice (1994)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HLrjXHz5LhmIMiahoC3S55bSim.jpg"
+    },
+    {
+      "name": "DE: Sailor (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhjagOI6S9MGW1b2nAv9pwcWiB4.jpg"
+    },
+    {
+      "name": "DE: Sailor Moon - Infinity Academy - Mistress Labyrinth (2002)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQdowCNvYOG1Ftgga5tNbph2g5O.jpg"
+    },
+    {
+      "name": "DE: One Piece: Stampede (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTmEC8wYMnivC4inWDthavlMkBS.jpg"
+    },
+    {
+      "name": "DE: One Piece: Giant Mecha Soldier of Karakuri Castle (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Pu26TQNiyl8kjNe1sI3NMG2OQG.jpg"
+    },
+    {
+      "name": "DE: One Piece: Jango's Dance Carnival (2001)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0veqgth8KG1h0Dr5an3NQdkqJD.jpg"
+    },
+    {
+      "name": "DE: One Piece Film: Z (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP568qNH1LLEsoqGiZmf8deTOWc.jpg"
+    },
+    {
+      "name": "DE: One Piece Film: GOLD (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PgiOFTLZXP7emlwcIt0yRasJ9h.jpg"
+    },
+    {
+      "name": "DE: One Piece: Curse of the Sacred Sword (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivSa5qr5USM5sw9KpoM5ViIhJs0.jpg"
+    },
+    {
+      "name": "DE: One Piece: The Movie (2000)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRqQNSuXpcE3dkJC43aEg9f2HXd.jpg"
+    },
+    {
+      "name": "DE: One Piece: Dead End Adventure (2003)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEJBIHzaW1IoOVHtgblXy76kj4G.jpg"
+    },
+    {
+      "name": "DE: One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom (2008)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMo8ujV0KATJhlm8jjNsIv6PrsI.jpg"
+    },
+    {
+      "name": "DE: One Piece: Chopper's Kingdom on the Island of Strange Animals (2002)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YFUMvTV4zOkpUsPAiPgjaMKWYd.jpg"
+    },
+    {
+      "name": "DE: One Piece: Baron Omatsuri and the Secret Island (2005)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueIR4LM4k8eKhSB8gGT9NMhCwGW.jpg"
+    },
+    {
+      "name": "DE: One Piece: The Desert Princess and the Pirates: Adventure in Alabasta (2007)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qryaZLg7DkBkZtwKWTH6dfXjT3r.jpg"
+    },
+    {
+      "name": "DE: One Piece: Clockwork Island Adventure (2001)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7blMs5eEU8bHeXR1pCHzAKIPeg.jpg"
+    },
+    {
+      "name": "DE: Nausicaä of the Valley of the Wind (1984)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcrkfB8SRPQCgwI88hQScua6nxh.jpg"
+    },
+    {
+      "name": "DE: Kiki's Delivery Service (1989)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg"
+    },
+    {
+      "name": "DE: Her Blue Sky (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2UTAPcfIrvgDVYzpX4R8RSV6tF.jpg"
+    },
+    {
+      "name": "DE: Hello World (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Lord Slug (1991)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lmwZTsqwTtvd3m60pyQfhGM2Ut.jpg"
+    },
+    {
+      "name": "DE: Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/78x3RRydNXvdB8BhJAwZz42g1Q1.jpg"
+    },
+    {
+      "name": "DE: Cencoroll Connect (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ayrhipQ6wETRZyixZW8UPKztEG.jpg"
+    },
+    {
+      "name": "DE: The Seven Deadly Sins: Prisoners of the Sky (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/63NOOAkaZAK8h93Sg7Ucq6XLJGP.jpg"
+    },
+    {
+      "name": "DE: Robin Hood: Prince of Thieves (1991)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbRnWUNJkKKVN5mkcuC5ooqjE4e.jpg"
+    },
+    {
+      "name": "DE: Akira (1988)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball GT: A Hero's Legacy (1997)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSo4p5z1BoXFUtVe93ys6xX4O6g.jpg"
+    },
+    {
+      "name": "DE: Berserk: The Golden Age Arc I - The Egg of the King (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vES8WAzjowrMT8gwnoEaCioZXXk.jpg"
+    },
+    {
+      "name": "DE: Berserk: The Golden Age Arc II - The Battle for Doldrey (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzVQQaDazukAcmiFx6l9WLj1kwo.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball: The Path to Power (1996)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZkTQ4epHmVygmNnUCGAOzFqQH9.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Cooler's Revenge (1991)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqTSXqjaSgSAT2lCv3GyZeodQPG.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Battle of Gods (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxZEdYcHMuD8SSuwusDnK9CD2H1.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: The Tree of Might (1990)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDX4Dp8IKvjBAaEb5MOJrGkxWX0.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Broly - The Legendary Super Saiyan (1993)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg"
+    },
+    {
+      "name": "DE: Kuroko's Basketball the Movie: Last Game (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXJQbwxA0joNv9rGy25rFrm5N1r.jpg"
+    },
+    {
+      "name": "DE: Ghost in the Shell 2: Innocence (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZJRbLDVr90KLtKdmTT4WZhT26E.jpg"
+    },
+    {
+      "name": "DE: Howl's Moving Castle (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/23hUJh7JdO23SpgUB5oiFDQk2wX.jpg"
+    },
+    {
+      "name": "DE: The Quiet Ones (2024)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NLY1jNwtZX1yVzwVoBeAhaBE8i.jpg"
+    },
+    {
+      "name": "DE: One Piece: Adventure of Nebulandia (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpHuW2shQwknL5ZaEk3LE8bX1tL.jpg"
+    },
+    {
+      "name": "DE: One Piece \"3D2Y\": Overcome Ace's Death! Luffy's Vow to his Friends (2014)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/caUI7YlhVXykFWQ7Ul7RQ2wQRpv.jpg"
+    },
+    {
+      "name": "DE: My Neighbor Totoro (1988)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg"
+    },
+    {
+      "name": "DE: Psycho-Pass: Sinners of the System - Case.2 First Guardian (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Xm1hgIcmKJGnaMetErNu5kA8qz.jpg"
+    },
+    {
+      "name": "DE: Psycho-Pass: Providence (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/RZepOBpoAHnxopKaDaZJAErLHp.jpg"
+    },
+    {
+      "name": "DE: Psycho-Pass 3: First Inspector (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2RzGRMbdMUcp8S3PYtlPpHa83g.jpg"
+    },
+    {
+      "name": "DE: Psycho-Pass: The Movie (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUlhPosXp62uuTS0c2aINdg8cvV.jpg"
+    },
+    {
+      "name": "DE: That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xITip9n9uMAUA0TU6niMXU2tbh0.jpg"
+    },
+    {
+      "name": "DE: Dragon Ball Z: Bardock - The Father of Goku (1990)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/docwOsWZuwJKQdwcYJtQPBcg6bm.jpg"
+    },
+    {
+      "name": "DE: The Secret World of Arrietty (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg"
+    },
+    {
+      "name": "DE: The Quintessential Quintuplets Movie (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg7klpt1xwK1IJirBI9EHaqQwJ5.jpg"
+    },
+    {
+      "name": "DE: Penguin Highway (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMJJk4kkXfqwP5W7wYHWvDXhTlw.jpg"
+    },
+    {
+      "name": "DE: Detective Conan: The Bride of Halloween (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfsLhI6yAHH9pdhY6EConmUCumX.jpg"
+    },
+    {
+      "name": "DE: Attack on Titan: Wings of Freedom (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMoqVBW3LN5EnA9A3zA91tt0oY.jpg"
+    },
+    {
+      "name": "DE: Attack on Titan: Crimson Bow and Arrow (2014)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4E04qJvSTQYUPOpYp5YYvdrdcc.jpg"
+    },
+    {
+      "name": "DE: Yu-Gi-Oh! The Movie (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg"
+    },
+    {
+      "name": "DE: Slayers Return (1996)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNQx9YD4nxpcWvriVm1paIxbMwB.jpg"
+    },
+    {
+      "name": "DE: Slayers: The Motion Picture (1995)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVW5kWOp97tu8UQ48XeKbgfNFY2.jpg"
+    },
+    {
+      "name": "DE: Saga of Tanya the Evil: The Movie (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/slamFBuUGFtL4LtWpS9qXQ1qSLl.jpg"
+    },
+    {
+      "name": "DE: Hunter x Hunter: The Last Mission (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbmRzkxKeDjoYh5757d7RXiX2by.jpg"
+    },
+    {
+      "name": "DE: Hunter x Hunter: Phantom Rouge (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBbr1LJn5rrP08Y16jJAKwLEECf.jpg"
+    },
+    {
+      "name": "DE: Girls und Panzer das Finale: Part IV (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weDYR5NauwTYp8tLtkkUSA57cpb.jpg"
+    },
+    {
+      "name": "DE: Digimon Adventure 02: The Beginning (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/adRK2KTle05DTKcrkaAMAJzrLzh.jpg"
+    },
+    {
+      "name": "DE: Blue Giant (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/auQ5ExCcuuudw0tQwG03obX5Zrh.jpg"
+    },
+    {
+      "name": "DE: Belle (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg"
+    },
+    {
+      "name": "DE: Pretty Guardian Sailor Moon Cosmos the Movie Part 2 (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg"
+    },
+    {
+      "name": "DE: Pretty Guardian Sailor Moon Cosmos the Movie Part 1 (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X3nxTHHM2HZCUhCvCzKYDeOeoL.jpg"
+    },
+    {
+      "name": "DE: Naruto Shippuden the Movie: The Will of Fire (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZzdFmztwmg0FUOVCMa7vReHhQN.jpg"
+    },
+    {
+      "name": "DE: Naruto the Movie: Guardians of the Crescent Moon Kingdom (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmKiJ93x6uhTwJlrxCoY38R4qo6.jpg"
+    },
+    {
+      "name": "DE: Naruto the Movie: Legend of the Stone of Gelel (2005)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/itKMldwL6uhUZYO3X78NOFU4zzO.jpg"
+    },
+    {
+      "name": "DE: Naruto the Movie: Ninja Clash in the Land of Snow (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUNRUeSNzm8LktH4HRaYiAReB6R.jpg"
+    },
+    {
+      "name": "DE: Lonely Castle in the Mirror (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPV2etoFUkgQLWqKduWxXAeP4Oe.jpg"
+    },
+    {
+      "name": "DE: X: The Movie (1996)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kliV0PArnF6rUxW5MedPl02FVUK.jpg"
+    },
+    {
+      "name": "DE: Totto-chan: The Little Girl at the Window (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/65krUIOaBNkLa4t3wiKmt76hjBq.jpg"
+    },
+    {
+      "name": "DE: The Last: Naruto the Movie (2014)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAQ8O5Uw6FedtlCbJTutenzPVKd.jpg"
+    },
+    {
+      "name": "DE: Road to Ninja: Naruto the Movie (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLal6fXNtiJN6Zw6qk21xAtdOeN.jpg"
+    },
+    {
+      "name": "DE: Naruto Shippuden the Movie: The Lost Tower (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6e2YvN1tQK4xQHlmy7GJTuXOt2u.jpg"
+    },
+    {
+      "name": "DE: Naruto Shippuden the Movie: Blood Prison (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WT7zYFpe0fsbg6TitppiHddWAh.jpg"
+    },
+    {
+      "name": "DE: My Hero Academia: World Heroes' Mission (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsTlA7dj2ySGY1pzGSD0MoHFhEF.jpg"
+    },
+    {
+      "name": "DE: Made in Abyss: Dawn of the Deep Soul (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsPZdpocYYbvDS2YEE1Xohqo1ni.jpg"
+    },
+    {
+      "name": "DE: Evangelion: 2.0 You Can (Not) Advance (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VLYN2CfJpB6PrcuzDKKqdGSUi6.jpg"
+    },
+    {
+      "name": "DE: City Hunter the Movie: Angel Dust (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7QRFHDYQwC1o3Kw6eXpb6De8oc.jpg"
+    },
+    {
+      "name": "DE: Break of Dawn (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/13lXHmAh1ScRBNvO7ueoQ4gyuLD.jpg"
+    },
+    {
+      "name": "DE: Boruto: Naruto the Movie (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg"
+    },
+    {
+      "name": "DE: The Animatrix (2003)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g52SOsTvdjzY8oPIn5znLJMzLHG.jpg"
+    },
+    {
+      "name": "DE: Dead Space: Aftermath (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8P3hJqmf03HgEVJRKHVCDIEtns.jpg"
+    },
+    {
+      "name": "DE: Blue Thermal (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUIX9FA9t4S2SgnPpTcGp9LH3Uz.jpg"
+    },
+    {
+      "name": "DE: Digimon Adventure: Last Evolution Kizuna (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rElHXdBX2ou2ju1Be3QiuOJrplb.jpg"
+    },
+    {
+      "name": "DE: Goodbye, Don Glees! (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42bRH1aEUge6Iia7yS18XV3Wpjg.jpg"
+    },
+    {
+      "name": "DE: Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW6hQZN4RbtImN3tUYD5ApegVhH.jpg"
+    },
+    {
+      "name": "DE: KONOSUBA – God's blessing on this wonderful world! Legend of Crimson (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fv5BgcfkpWh3V6Pb1qVlXESBOdl.jpg"
+    },
+    {
+      "name": "DE: Mortal Kombat Legends: Snow Blind (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvjCiv1xNlK1kNnoe1nul899vIp.jpg"
+    },
+    {
+      "name": "DE: Poupelle of Chimney Town (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIMpbHUgN303akVFwo674FBr21n.jpg"
+    },
+    {
+      "name": "DE: Summer Ghost (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMXaAvvSw24hYNchhCtCM5z6fhB.jpg"
+    },
+    {
+      "name": "DE: Suzume (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNbCAM3UVJamxRFd5hUt686aqb2.jpg"
+    },
+    {
+      "name": "DE: The Irregular at Magic High School: The Girl Who Summons the Stars (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUttStQFPGp8rCXn7JYfC5IIlQF.jpg"
+    },
+    {
+      "name": "DE: Street Fighter II: The Animated Movie (1994)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0WmVroW23YVFB4uLFUqfqiHsYr.jpg"
+    },
+    {
+      "name": "DE: Perfect Blue (1998)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
+    },
+    {
+      "name": "DE: Paprika (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg"
+    },
+    {
+      "name": "DE: Ajin: Demi-Human – Compel (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUJBKiLv7DkktSzqi1a48tUnWsG.jpg"
+    },
+    {
+      "name": "DE: Ajin: Demi-Human – Confront (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjUAz1q4TEe2sGTMVXlcmS9oeGo.jpg"
+    },
+    {
+      "name": "DE: Ajin: Demi-Human – Collide (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie5qRvi1kkIBKVkKcjUkH2lykrv.jpg"
+    },
+    {
+      "name": "DE: Your Name. (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GJsy7w7frGquw1cy9jasOGNNI1.jpg"
+    },
+    {
+      "name": "DE: Violet Evergarden: Eternity and the Auto Memory Doll (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjaSw6Ok0MhXjrruPrA27VHyUYC.jpg"
+    },
+    {
+      "name": "DE: Violet Evergarden: The Movie (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9R6bukzzRmOzxvDQsXdQpeNm8l.jpg"
+    },
+    {
+      "name": "DE: Steins;Gate: The Movie - Load Region of Déjà Vu (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXhogkZCR0aOQ077rfMULYbDmtH.jpg"
+    },
+    {
+      "name": "DE: Pokémon the Movie: Mewtwo Strikes Back - Evolution (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtlyO2oIMcCx2DbOM52XO2rAcgn.jpg"
+    },
+    {
+      "name": "DE: Ninja Scroll (1993)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg"
+    },
+    {
+      "name": "DE: Haikyuu!! The Movie: The End and the Beginning (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HlpuETjDOob8yzddD1MF7QwZwV.jpg"
+    },
+    {
+      "name": "DE: Free! the Final Stroke the First Volume (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLGf2PQfme1tUO0EJSYgAWXuRqe.jpg"
+    },
+    {
+      "name": "DE: Fate/Grand Order the Movie: Divine Realm of the Round Table (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uReEyxkxzqS4Dq9vty5z47x8W4c.jpg"
+    },
+    {
+      "name": "DE: The Stranger by the Shore (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4m74lboTcvrmnCM506t4y4c3klc.jpg"
+    },
+    {
+      "name": "DE: Date A Live: Mayuri Judgment (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wUaSdRP3fOwCvXBYAtYj3AttsO.jpg"
+    },
+    {
+      "name": "DE: Child of Kamiari Month (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffPIWQjps6NrIYog22yJ8IEAuCT.jpg"
+    },
+    {
+      "name": "DE: Spirited Away (2001)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
+    },
+    {
+      "name": "DE: Cardcaptor Sakura: The Movie (1999)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLrmuGGD2LU7wh1jBjuudrIrqFB.jpg"
+    },
+    {
+      "name": "Bleach the Movie: The DiamondDust Rebellion (2007)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PV8OKvHSYvgmdVnU2wcuzQGthP.jpg"
+    },
+    {
+      "name": "DE: Bleach the Movie: Memories of Nobody (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QXGWJ0bsmbMUDBXXfS1RnFadkS.jpg"
+    },
+    {
+      "name": "DE: Arpeggio of Blue Steel -Ars Nova Cadenza- (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJlUCQyyWLTA6Q1ViHWkRxnckUc.jpg"
+    },
+    {
+      "name": "DE: Sword Art Online: The Movie – Ordinal Scale (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2szdEK0Mr0RG0nWGFVTseNQHbnP.jpg"
+    },
+    {
+      "name": "DE: Princess Mononoke (1997)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMYCDADoLKLbB83g4WnJegaZimC.jpg"
+    },
+    {
+      "name": "DE: Porco Rosso (1992)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg"
+    },
+    {
+      "name": "DE: Pom Poko (1994)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zat2MMhejQyJJN6CucLI9Or9kdo.jpg"
+    },
+    {
+      "name": "DE: My Neighbors the Yamadas (1999)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj0ijnOozQtu52r0ncut769G1FX.jpg"
+    },
+    {
+      "name": "DE: Appleseed: Ex Machina (2007)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxhr2e2Xky4cQ96NpI24xc2GUPn.jpg"
+    },
+    {
+      "name": "DE: Final Fantasy VII: Advent Children (2005)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg"
+    },
+    {
+      "name": "DE: Sword Art Online the Movie – Progressive – Scherzo of Deep Night (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8B3bagkYRULdmnhgKMcxXaVcFm.jpg"
+    },
+    {
+      "name": "DE: Maurice der Kater (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awnxrXhOOYaiVBMzkrGGN5yBp6z.jpg"
+    },
+    {
+      "name": "DE: Die Schwanenprinzessin: Die Geburt eines Märchens (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2axXVpi3dKfESWzgncbakLB7o7f.jpg"
+    },
+    {
+      "name": "DE: Hui Buh, das Schlossgespenst (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ0KMWV8R45FaUOBhGxe18jI116.jpg"
+    },
+    {
+      "name": "DE: Mama Muh und die große weite Welt (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/77GkQQmjT0EKLRvPhDbbyMe0cjj.jpg"
+    },
+    {
+      "name": "DE: Onward: Keine halben Sachen (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR5dhtOVKxwSw99r5omAqHGMM34.jpg"
+    },
+    {
+      "name": "DE: Poupelle und die andere Seite des Himmels (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BcCkVlFsmp61KR4YzxJyKNY9PE.jpg"
+    },
+    {
+      "name": "DE: Mumien: Ein total verwickeltes Abenteuer (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVdrYN8qu7xUtsdEFeGiIVIaYd.jpg"
+    },
+    {
+      "name": "DE: Der Grüffelo (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8Xw15aovfMq1nEUcyFA25Z8Cpe.jpg"
+    },
+    {
+      "name": "DE: The Simpsons Movie (2007)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg"
+    },
+    {
+      "name": "DE: Coco, der neugierige Affe (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B8FKqknNv0awufDj8aoIRnomqS.jpg"
+    },
+    {
+      "name": "DE: Alles steht Kopf (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQt3jN0Nd9naPDM4miLz1gBLgrp.jpg"
+    },
+    {
+      "name": "DE: Mary",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zPGgrBM5ONONmsIxIg9xzVnW0C.jpg"
+    },
+    {
+      "name": "DE: Jimmy Neutron: Der mutige Erfinder (2001)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qrDpNOwlZgVXZgQuagOoWo3pth.jpg"
+    },
+    {
+      "name": "DE: Drachenzähmen leicht gemacht (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/55zFJXrYqlrBb6qpmeaYrnvHXnf.jpg"
+    },
+    {
+      "name": "DE: Drachenzähmen leicht gemacht 2 (2014)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjiYFb6M44sraE5RLOkJGGwIWB8.jpg"
+    },
+    {
+      "name": "DE: Anastasia (1997)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jY0f0muLaRCoahLT4TvN77zV0PL.jpg"
+    },
+    {
+      "name": "DE: Tad Stones: Der verlorene Jäger des Schatzes! (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyKSzbtvZpMxiDBATeNU8bGdni3.jpg"
+    },
+    {
+      "name": "DE: LEGO Friends: Das Weihnachtsspecial (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/urGae6maMWKWJuP17i2UeBh32tn.jpg"
+    },
+    {
+      "name": "DE: Night at the Museum: Kahmunrah Rises Again (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkRQn520JQD07BNP03NK3iKCaPD.jpg"
+    },
+    {
+      "name": "DE: Guillermo del Toro's Pinocchio (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
+    },
+    {
+      "name": "DE: Der gestiefelte Kater: Der letzte Wunsch (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sV28nTzYbHstclkHBC6U6pz8im7.jpg"
+    },
+    {
+      "name": "DE: Tad Stones und die Suche nach der Smaragdtafel (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sl9D1TGoRvMcw5FK1D9mjwhIzY.jpg"
+    },
+    {
+      "name": "DE: Scrooge: Ein Weihnachtsmusical (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQ2uxcqVTG3P2L7J6QE7vYpK8Ps.jpg"
+    },
+    {
+      "name": "DE: Zoomania (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yThlc6mofwDTZr0B72lxffg6qTl.jpg"
+    },
+    {
+      "name": "DE: Rock Dog 2: Rock Around the Park (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kETYRGA15L0wkVPugSl8lKmSgFn.jpg"
+    },
+    {
+      "name": "DE: Die wilden Abenteuer von Pil (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/78JfwRiubwX87BYgPXsdFKBf9P5.jpg"
+    },
+    {
+      "name": "DE: Trolljäger: Das Erwachen der Titanen (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yFjYnmNi6Gey2QaTzeBg8yjVcEr.jpg"
+    },
+    {
+      "name": "DE: Der Drache meines Vaters (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hgEe1w0An5fKi3ZqIUBwOyIN2y.jpg"
+    },
+    {
+      "name": "DE: Latte Igel und der magische Wasserstein (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue7MuAUBVdNVbk5v7qWdjqsFAiT.jpg"
+    },
+    {
+      "name": "DE: Die Heinzels: Rückkehr der Heinzelmännchen (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8srGFwmzGoWBZtOYThQQyuox7oc.jpg"
+    },
+    {
+      "name": "DE: Toy Story 4: Alles hört auf kein Kommando (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1Laea6lrtQVs4HLC1Mtkjl9UAp.jpg"
+    },
+    {
+      "name": "DE: Rotschühchen und die sieben Zwerge (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pkhaFXW0vyQowHf04bxvV8tumh.jpg"
+    },
+    {
+      "name": "DE: Dragons: Rescue Riders: Hunt for the Golden Dragon (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wHEvRLUEWK0AUZhSmhFNWPrBPy.jpg"
+    },
+    {
+      "name": "DE: Frozen II (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mINJaa34MtknCYl5AjtNJzWj8cD.jpg"
+    },
+    {
+      "name": "DE: Minions",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg"
+    },
+    {
+      "name": "DE: Der Aufstieg der Teenage Mutant Ninja Turtles: Der Film (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PASAPJSoUsY6I69gaED4k642Gb.jpg"
+    },
+    {
+      "name": "DE: Bayala: Das magische Elfenabenteuer (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hq3OSfTRKPTswAe6lKp3WmWC2fc.jpg"
+    },
+    {
+      "name": "DE: Royal Corgi: Der Liebling der Queen (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9bY2qRX6qrGkx2Y1DJ6qvnvVJK.jpg"
+    },
+    {
+      "name": "DE: Unten am Fluss (1978)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/42Hw0UiFkMIYFzLbxSUcylyfhDF.jpg"
+    },
+    {
+      "name": "DE: Missing Link (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEkKHiiQRVUSX15Iwo8VFydXrtu.jpg"
+    },
+    {
+      "name": "DE: Spycies: Zwei tierisch coole Agenten (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPzuU38Zob8Ibi8c3M9Vfwq2rAl.jpg"
+    },
+    {
+      "name": "DE: Das Seeungeheuer (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7363mrbx0Le5VOgX3GuxTF8ORbN.jpg"
+    },
+    {
+      "name": "DE: Bob’s Burgers: Der Film (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qc2yyxdc6VmKqyETfJj4bTOnRAB.jpg"
+    },
+    {
+      "name": "DE: Asterix und Kleopatra (1968)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lvvbxGqELIdEiqRr78v05afVij.jpg"
+    },
+    {
+      "name": "DE: Hühnerhase und der Hamster der Finsternis (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg"
+    },
+    {
+      "name": "DE: Terra Willy (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZqbpxthevFW13f2SmefFt5p0e9.jpg"
+    },
+    {
+      "name": "DE: Lauras Stern (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLwFRIsVMRghRwpCOPfl8OPTjx9.jpg"
+    },
+    {
+      "name": "DE: Das letzte Einhorn (1982)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXtZhCEN7BaIEXQG3aMzgkh3don.jpg"
+    },
+    {
+      "name": "DE: Bernard (2014)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFEOBkLYkCXx2YvsGKugLzXKYyG.jpg"
+    },
+    {
+      "name": "DE: Asterix im Land der Götter (2014)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJpoCznTlqOFH9yp3Atuj7OfgYN.jpg"
+    },
+    {
+      "name": "DE: Norm: König der Arktis (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zkflkZcQG3CJmIjSpB3TVUJHKV.jpg"
+    },
+    {
+      "name": "DE: Stockmann (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLnppVHTIl6LzVQBJahwo9T5d4f.jpg"
+    },
+    {
+      "name": "DE: Die Jetsons: Der Film (1990)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoW4sYnTHaNCzINVG9IIF6mQq9d.jpg"
+    },
+    {
+      "name": "DE: Chip und Chap: Die Ritter des Rechts (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twL2bpVxnNf3mvhWzGP1RZZd8ce.jpg"
+    },
+    {
+      "name": "DE: Happy Family 2 (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5P97cM0OyEE9bCYbwAWYEHJ0RTC.jpg"
+    },
+    {
+      "name": "DE: In 80 Tagen um die Welt (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CTKQn9K4uwR10ODCiWe94GFb7s.jpg"
+    },
+    {
+      "name": "DE: Apollo 10½: Eine Kindheit im Weltraumzeitalter (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBShWJhX4oMlDicPHocQc7wDPlt.jpg"
+    },
+    {
+      "name": "DE: Der Karierte Ninja 2 (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLecexPB34Vfd6izB9PRsl4NmwG.jpg"
+    },
+    {
+      "name": "DE: Snoopy präsentiert: Es sind die kleinen Dinge Charlie Brown (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEJGBnZa9PnCXSTrcQGEqK9Y9yr.jpg"
+    },
+    {
+      "name": "DE: Happy Family (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBp8XknN0c7xajEm5clE0PyMnc9.jpg"
+    },
+    {
+      "name": "DE: ROT (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6gtBhrWHKXFi5t2LkwykuXGf6s.jpg"
+    },
+    {
+      "name": "DE: Ice Age: Die Abenteuer von Buck Wild (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbGffFF2EencRQuUc7jsmASIGvh.jpg"
+    },
+    {
+      "name": "DE: Sing: Die Show deines Lebens (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0UPcVwhRtlLhNRowM324o7UJ1f.jpg"
+    },
+    {
+      "name": "DE: 22 gegen die Erde (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLyYQ253SlPrOQtgZ4rDOJZ0fI2.jpg"
+    },
+    {
+      "name": "DE: Walhalla (1986)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j60P42xgMZfqxsyUJbKWSVLRzqN.jpg"
+    },
+    {
+      "name": "DE: Barbie: Big City, Big Dreams (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeggetf6lrd0dhtcbqJH75Sik4K.jpg"
+    },
+    {
+      "name": "DE: Feuerwehrmann Sam: Helden fallen nicht vom Himmel (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaSpJCrk4YCcccm6kCCxhvE2Hqw.jpg"
+    },
+    {
+      "name": "DE: Wickie und die starken Männer: Das magische Schwert (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1RmsUCvQlnWZcGrFsdHw4i8BI3.jpg"
+    },
+    {
+      "name": "DE: Riverdance: Ein animiertes Abenteuer (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yn9DrhUBPrUTFEUHtdXSxgWcFTA.jpg"
+    },
+    {
+      "name": "DE: Drei Caballeros (1944)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYqx6qyUv7zog2OyNyezJx6gsGj.jpg"
+    },
+    {
+      "name": "DE: Shaun das Schaf: Der Film (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jmmgkFQJuCgbWFq3xGU13asRfd.jpg"
+    },
+    {
+      "name": "DE: Arctic Dogs: Arctic Justice - Thunder Squad (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg"
+    },
+    {
+      "name": "DE: Die Olchis: Willkommen in Schmuddelfing (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/leitgbUQZtJEdD85sBc36tny5In.jpg"
+    },
+    {
+      "name": "DE: Despereaux: Der kleine Mäuseheld (2008)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/spHdOX3hICqt7tkXHrSyrARKBru.jpg"
+    },
+    {
+      "name": "DE: Hotel Transsilvanien 4: Eine Monster Verwandlung (2022)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VNhjiVyURBFnzv9DZ2jFTSKHU6.jpg"
+    },
+    {
+      "name": "DE: Sternenstreif: Mit Sternenkraft ins neue Jahr (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hboUNyNoHjUBniY6QU7QpTLeYmd.jpg"
+    },
+    {
+      "name": "DE: Die Addams Family 2 (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg"
+    },
+    {
+      "name": "DE: Wallace",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wKmFH2bJqQ4jMhRfms0OpVqgL7.jpg"
+    },
+    {
+      "name": "DE: Clara und der magische Drache (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/43hNyDfpVgDvAE2ixVnhmc5ZF9Q.jpg"
+    },
+    {
+      "name": "DE: Das Seehund-Team (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnaylmArIbRJfvMAqBnxtYujnPy.jpg"
+    },
+    {
+      "name": "DE: Zurück ins Outback (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sufPWFy8BLlHTfXu8VPRJtIrwJy.jpg"
+    },
+    {
+      "name": "DE: Die Unglaublichen 2 (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKsc2byKwZYZ1FptvtM5rD3uNXK.jpg"
+    },
+    {
+      "name": "DE: Mickey und Minnie wünschen sich ein Weihnachten (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IitvVjQWK5spa1C2GXrGubbabp.jpg"
+    },
+    {
+      "name": "DE: D'Artagnan und die drei MuskeTiere (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifVLR4rvTQSs5he64gyBLeQWf41.jpg"
+    },
+    {
+      "name": "DE: Charlie: Alle Hunde kommen in den Himmel (1989)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLQnX47DJDStew7bkcPhPzhxGAN.jpg"
+    },
+    {
+      "name": "DE: Ron läuft schief (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zc1dnzYeepEyB0aDPaTAGtM066d.jpg"
+    },
+    {
+      "name": "DE: Yogi Bär (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jK1HjbqwR66Z9z0pPQNOjMHwNCE.jpg"
+    },
+    {
+      "name": "DE: Die Flummel (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRnPT88iD5zgeUPjHqaZznrxk5m.jpg"
+    },
+    {
+      "name": "DE: Die Croods: Alles auf Anfang (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gvB5iTQbHXGFNfBrFqnwzuDBSf.jpg"
+    },
+    {
+      "name": "DE: Paw Patrol: Der Kinofilm (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzSMRe1gyITmI0xe0bxDjZrMJHv.jpg"
+    },
+    {
+      "name": "DE: Bigfoot Junior: Ein tierisch verrückter Familientrip (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tzNcF2sj1Z7aF4PxhymIBWEBIB.jpg"
+    },
+    {
+      "name": "DE: Geheimes Magieaufsichtsamt (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYQeGqznkhmXSBs2BYETbKSUvdq.jpg"
+    },
+    {
+      "name": "DE: Oliver",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSGSwzV39ntLuIlwwld3ij5QROJ.jpg"
+    },
+    {
+      "name": "DE: Snoopy präsentiert: Mit Lucy ins neue Jahr (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYo3mvklvaTMOIVMx2y4c16plYU.jpg"
+    },
+    {
+      "name": "DE: Gregs Tagebuch: Von Idioten umzingelt! (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/59CXpXcMbINdd7MfrXPeRYl4SKQ.jpg"
+    },
+    {
+      "name": "DE: Ice Age: Jäger der verlorenen Eier (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5s1XGQo3C37tHGW28fNW195EeLa.jpg"
+    },
+    {
+      "name": "DE: Ice Age 5: Kollision voraus! (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvjPA4yOc2SVCd9QVc5d3Y0Tazh.jpg"
+    },
+    {
+      "name": "DE: Rote Robin (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg"
+    },
+    {
+      "name": "ID - Ice Age (2002)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg"
+    },
+    {
+      "name": "ID - Ice Age: Continental Drift (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg"
+    },
+    {
+      "name": "DE: 100% Wolf (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VrvxK4yxNCU6KVgo5TADJeBEQu.jpg"
+    },
+    {
+      "name": "DE: Ice Age: Eine coole Bescherung (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHJpPsaGHZyCqMn2MOZQ6vz2y5D.jpg"
+    },
+    {
+      "name": "DE: Ice Age 2: Jetzt taut's (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eJmKYyYIhJgwUo8YkVe6kiY5h6.jpg"
+    },
+    {
+      "name": "DE: Micky Maus: Das Märchen der zwei Hexen (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j9iIwxFal1Nq8NY4MSLC6Y6bLE.jpg"
+    },
+    {
+      "name": "DE: Weihnachtsmann Junior (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgg06NDK1wSBhNBpoyEwoVAWHQF.jpg"
+    },
+    {
+      "name": "DE: Gullivers Rückkehr (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HUry3KOdiOevjFE61lhi3mzQBf.jpg"
+    },
+    {
+      "name": "DE: Muppets Haunted Mansion (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTQbZCxZ4amGZKC9ETjTr7ZAH7L.jpg"
+    },
+    {
+      "name": "DE: LEGO Star Wars Gruselgeschichten (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qJH2Gm0wYfhbZreX90s7UtuzCh.jpg"
+    },
+    {
+      "name": "DE: Himmel und Huhn (2005)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhxZXVrD0skRy12fkaakg06Lok.jpg"
+    },
+    {
+      "name": "DE: Coco (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+    },
+    {
+      "name": "DE: Aya und die Hexe (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iL0nuQ7X0aYoqJj7ZaMSAIZB9Kx.jpg"
+    },
+    {
+      "name": "DE: James and the Giant Peach (1996)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nl2oB6EbD1fHFuP2TLUHDtqs7Ux.jpg"
+    },
+    {
+      "name": "DE: Rapunzel: Neu verföhnt (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZYKRwoMQR2T4PpKEMKPbaGeylF.jpg"
+    },
+    {
+      "name": "DE: Garfield 2: Faulheit verpflichtet! (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjCYnwJMbTZj6q3V8d9zMbqxEMj.jpg"
+    },
+    {
+      "name": "DE: Cap und Capper 2: Hier spielt die Musik (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkJXFUoUw6j1jbuemA0FQODKOWl.jpg"
+    },
+    {
+      "name": "DE: My little Pony: Eine neue Generation (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg"
+    },
+    {
+      "name": "DE: Cap und Capper (1981)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/65XuyF9rxn6FI9ji9D65SH68jru.jpg"
+    },
+    {
+      "name": "DE: Troll: Die magische Welt von Trym (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdLY121vF9YAqD4GX8TI0oWCP7V.jpg"
+    },
+    {
+      "name": "DE: Garfield: Der Film (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLZNyyzILX6V1wkgu7vAkzW7MYl.jpg"
+    },
+    {
+      "name": "DE: Ralph reichts (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/TI7IZvj006iz24MYu5YwYr6Gj7.jpg"
+    },
+    {
+      "name": "DE: Vivo (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg"
+    },
+    {
+      "name": "DE: Rapunzel: Für immer verföhnt (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLH7EYvy1EdPhNDkDvQLNXmONAJ.jpg"
+    },
+    {
+      "name": "DE: Jagdfieber (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkxlYMT1EWVCSdUn3ZVow2W89sK.jpg"
+    },
+    {
+      "name": "DE: Jagdfieber 4: Ungebetene Besucher (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMMq5OfI9hUpY57XnAb9FUoqZ1t.jpg"
+    },
+    {
+      "name": "DE: Jagdfieber 3 (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUrliTlp1d6RqjGGEaiZNgzYT7Z.jpg"
+    },
+    {
+      "name": "DE: Jagdfieber 2 (2008)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbY4w22UPzRQOzYIOejgytDGNTr.jpg"
+    },
+    {
+      "name": "DE: Race: Rebellen - Piloten - Krieger (2007)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nS10SRYBiZzFJ0UsWQrFEtNPUm.jpg"
+    },
+    {
+      "name": "DE: Le Barbier de Seville (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/48dkZk3i9AqwpByLMTTteSahDPr.jpg"
+    },
+    {
+      "name": "DE: Der kleine Rabe Socke (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3y3vXfBeScQA33hISUWj6domBAj.jpg"
+    },
+    {
+      "name": "DE: Lego DC Batman: Familienangelegenheiten (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMTm9lgpxGcQJso5wWOkUbxlmEG.jpg"
+    },
+    {
+      "name": "DE: Der kleine Rabe Socke: Suche nach dem verlorenen Schatz (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Au86JPIrKkSvDROomYxMz2N9eTf.jpg"
+    },
+    {
+      "name": "DE: Oben (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouLmgXtAGL7FeKzs5pFDRp1PgQU.jpg"
+    },
+    {
+      "name": "DE: Der Karierte Ninja (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcwnhPEjvA8KCzglYAUvgOxfz89.jpg"
+    },
+    {
+      "name": "DE: Der Wunschdrache (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJL39ljIPWzyaq5XZXqdh0FYf7i.jpg"
+    },
+    {
+      "name": "DE: The Son of Bigfoot (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg"
+    },
+    {
+      "name": "DE: Kubo: Der tapfere Samurai (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JdREScYE1yLymr6sr1zICOX0BH.jpg"
+    },
+    {
+      "name": "DE: Keinohrhase und Zweiohrküken (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8puYJD2D0j2mcAqlhboltLLoaSp.jpg"
+    },
+    {
+      "name": "DE: Justice Society: World War II (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4REOC6CZW8J6FslA4nRvdQXFXR.jpg"
+    },
+    {
+      "name": "DE: Yakari: Der Kinofilm (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQSACOZ46u3ol5gYihTmz0lJBfA.jpg"
+    },
+    {
+      "name": "DE: Zambezia: In jedem steckt ein kleiner Held! (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0NOLznZIg7ePrQ3HQiOSWlz1Hg.jpg"
+    },
+    {
+      "name": "DE: Back To The Sea (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oRBc0Xom1bMMBBm7uGEjH01LDK.jpg"
+    },
+    {
+      "name": "DE: Asterix and the Vikings (2006)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fer4QcdkxKpVVaZhwKaaS9dmLh9.jpg"
+    },
+    {
+      "name": "DE: Asterix und das Geheimnis des Zaubertranks (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBipC2nzQS9BKYsZoDsIpxLoERo.jpg"
+    },
+    {
+      "name": "DE: Asterix: Operation Hinkelstein (1989)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yLwEdQeVsFCeoRdVZcwDUb8hcJ.jpg"
+    },
+    {
+      "name": "DE: Asterix in Amerika (1994)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/omcuhvtWzxg8A9pYKd8y0SeYJw6.jpg"
+    },
+    {
+      "name": "DE: Asterix erobert Rom (1976)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cZQZOYZFJcLjZnxWjO5PcUtmDZ.jpg"
+    },
+    {
+      "name": "DE: Asterix der Gallier (1967)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBDZ68iRPEhrWouioAcSiG8t5Jc.jpg"
+    },
+    {
+      "name": "DE: Asterix bei den Briten (1986)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UHjuOfJfgpAgBHhZIwOkMTVpjS.jpg"
+    },
+    {
+      "name": "DE: Asterix: Sieg über Cäsar (1985)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIPeLwKtCx9ujZpr3B20DjxEvUg.jpg"
+    },
+    {
+      "name": "DE: Meine Freundin Conni: Geheimnis um Kater Mau (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/squOSl9ZcAENiYhODUEBKlf4fs9.jpg"
+    },
+    {
+      "name": "DE: Die Mitchells gegen die Maschinen (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhs2qeTG0RtRDDEbS7j3YBy06vG.jpg"
+    },
+    {
+      "name": "DE: Isle of Dog: Ataris Reise (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl54bYS90Hw2IaNnMsurgQPDxqJ.jpg"
+    },
+    {
+      "name": "DE: Hotel Transsilvanien 3 (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPxk3Zr2cdedH9dlgFJowdJwMDd.jpg"
+    },
+    {
+      "name": "DE: Happy Feet 2 (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUTgqZfDX2Wz8hyw4uJZ0u4GAYY.jpg"
+    },
+    {
+      "name": "DE: Hotel Transsilvanien (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/vWviFez4BinGRXWiXWJkzC2qmsZ.jpg"
+    },
+    {
+      "name": "DE: Große Haie - Kleine Fische (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/yUNHBUXuLAtLWZP9WpHHD624z1X.jpg"
+    },
+    {
+      "name": "DE: Hotel Transsilvanien 2 (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/a7OiKREAtXw2QA1dlJDqc2KLcw5.jpg"
+    },
+    {
+      "name": "DE: Animals United (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUCLetZNa3rZknSmLc2gGUdxWH7.jpg"
+    },
+    {
+      "name": "DE: Pokémon 13: Zoroark: Meister der Illusionen (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/g1c9w73xG0kkU8PVkTsLyL0tTfv.jpg"
+    },
+    {
+      "name": "DE: Pokémon 12: Arceus und das Juwel des Lebens (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/lw6gMcbdMDYhWpobqXV0tayURwt.jpg"
+    },
+    {
+      "name": "DE: Pocahontas 2: Reise in eine neue Welt (1998)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/uUkYrXPogf0J1t7Fkg50PfgF31k.jpg"
+    },
+    {
+      "name": "DE: Peter Pan: Neue Abenteuer in Nimmerland (2002)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/bQ6fcwnHri0w9Kox8zIEfhUIHj6.jpg"
+    },
+    {
+      "name": "DE: Elliot, das Schmunzelmonster (1977)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/mTWdtD4LYEk5EekaFeLaLTdvssA.jpg"
+    },
+    {
+      "name": "DE: The Princess and the Frog (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yprv5PbnEksoVj2v6XEnDBg9joR.jpg"
+    },
+    {
+      "name": "DE: Mulan (1998)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/sVq4gvfaJNw0exZTTRQE44cvjlo.jpg"
+    },
+    {
+      "name": "DE: Fantasia 2000 (1999)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JszBEg8OEbkMzpY5IPTMVzxmYZ.jpg"
+    },
+    {
+      "name": "DE: Die Abenteuer von Ichabod und Taddäus Kröte (1949)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/bQeaIIwh9R4r6JaWVvHoyYpV9X7.jpg"
+    },
+    {
+      "name": "DE: Der König der Löwen (1994)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/sb2y6mpYXIBzucXldDxMCNHn0vi.jpg"
+    },
+    {
+      "name": "DE: Drachenzähmen leicht gemacht 3: Die geheime Welt (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/k28WaMcCLRdHASIWMZAcg8Sj9yc.jpg"
+    },
+    {
+      "name": "DE: Königreich der Bären (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/cihHyOx9ugAn1kMUovpm3yUQKa1.jpg"
+    },
+    {
+      "name": "DE: Raya und der letzte Drache (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/5HG92OaqBXXKAlFx5ZDHD8mT29Z.jpg"
+    },
+    {
+      "name": "DE: Chaos im Netz (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/1nSlMZ2dsVWT4VZt5vEqpZEXLDQ.jpg"
+    },
+    {
+      "name": "DE: Tarzan 2 (2005)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/6kfyBXa1pnLiB7tc0j1rsvCJIOQ.jpg"
+    },
+    {
+      "name": "DE: Pets (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/aVQWZwHhlVqNFUXP8YdEOMGBzBH.jpg"
+    },
+    {
+      "name": "DE: Lilo",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/j3PVSMEzUBC0Esbg6TvdmqIpqAo.jpg"
+    },
+    {
+      "name": "DE: Invader Zim: Enter the Florpus (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/waaPtmhVFgieG021OwoEPTkbltI.jpg"
+    },
+    {
+      "name": "DE: Der Grinch (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/n9BfoE3v2DYa6sl93uAaDXBAM7P.jpg"
+    },
+    {
+      "name": "DE: Vaiana (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/sVjrLK5upwP4o1aGK5ihl9I92nJ.jpg"
+    },
+    {
+      "name": "DE: Willkommen im Wunder Park (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/wDkkhG0bzGTUYgxNWCeBg157Rty.jpg"
+    },
+    {
+      "name": "DE: Susi und Strolch (1955)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/b9ZeytRYAkeyk9JUgfbqVFw7YgZ.jpg"
+    },
+    {
+      "name": "DE: 101 Dalmatians II: Patch's London Adventure (2002)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFTt7pNSCJKLZ2RZldJuq6ON6Ti.jpg"
+    },
+    {
+      "name": "DE: 101 Dalmatiner (1961)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/vsyVTbcOeg1dt3kgfeh3lsqlCgH.jpg"
+    },
+    {
+      "name": "DE: Wolfwalkers (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg"
+    },
+    {
+      "name": "DE: Xicos Weg (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/awuB0es1yc5aCk9zaEytlchxuRV.jpg"
+    },
+    {
+      "name": "DE: Die Peanuts: Der Film (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/hPsNnTLF4MGsUCx6NyEwvoYkzRU.jpg"
+    },
+    {
+      "name": "DE: Tarzan (1999)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/kiooaH0Qaxn6gUY3zfSddKAdLiw.jpg"
+    },
+    {
+      "name": "DE: Die Hüter des Lichts (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/9kCitasZ9M8qJSDSLvc718mrJLN.jpg"
+    },
+    {
+      "name": "DE: Oliver (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HS7M5VIwcitgVlVpRqH1FW6P4D.jpg"
+    },
+    {
+      "name": "DE: Ein Königreich für ein Lama (2000)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/4WyJW2wE4V38Qr72UoR1trjw71a.jpg"
+    },
+    {
+      "name": "DE: Prinz Charming (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/rPScSen6NjWCqGTkjPQyVWKcKjy.jpg"
+    },
+    {
+      "name": "DE: Phineas und Ferb – Der Film: Candace gegen das Universum (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/44WBR3EDMBEvxBdZvtObnC2lopj.jpg"
+    },
+    {
+      "name": "DE: Disneys: Eine Weihnachtsgeschichte (2009)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/bY2GORPbKugz3Yltc5ISalhaQgx.jpg"
+    },
+    {
+      "name": "DE: Der Polarexpress (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/7LCroUOB65McDNLqH1yBNi3onlu.jpg"
+    },
+    {
+      "name": "DE: Spongebob Schwammkopf: Eine Schwammtastische Rettung (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/vQAFWifKoYjKaD6bBoyxW0MOyYJ.jpg"
+    },
+    {
+      "name": "DE: Combat Wombat: Plötzlich Superhelden (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/383b9E3Uv1fOyPiSxMZr8lsjFMa.jpg"
+    },
+    {
+      "name": "DE: Spione Undercover (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/4Fr325VD0R9yeTKIvU7PYMv6vHi.jpg"
+    },
+    {
+      "name": "DE: Mina und die Traumzauberer (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/xUcCvqdG1WHH0zSqkMZxS5RJQMP.jpg"
+    },
+    {
+      "name": "DE: Madagascar (2005)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/7azuPQyGH4LMPBV4b2ZBkp0Tq5Q.jpg"
+    },
+    {
+      "name": "DE: Madagascar 3: Flucht durch Europa (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/kE7ihM3MSDWsu9COVK5PamyNc1D.jpg"
+    },
+    {
+      "name": "DE: Madagascar 2 (2008)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/2hYZ1HHqi4EcbXvGpOG6XtxCsHn.jpg"
+    },
+    {
+      "name": "DE: Kung Fu Panda 2 (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/lhWRiXVmByemceX82ivB8lFUdQX.jpg"
+    },
+    {
+      "name": "DE: Ich Einfach Unverbesserlich (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/tgQAiavJYM1vGcNVeKZHr35F4WB.jpg"
+    },
+    {
+      "name": "DE: Rio (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/x3zoy3I2nQU4AoRHsagbwjOuZQc.jpg"
+    },
+    {
+      "name": "DE: Ich Einfach Unverbesserlich 3 (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/goRMDCOAnoHqtmXBHPW4qO63QOY.jpg"
+    },
+    {
+      "name": "DE: Die Maske (1995)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cD3vZ1TJ2s5h65Ct9EWMqe87a7Q.jpg"
+    },
+    {
+      "name": "DE: The Angry Birds Movie (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsaaZryqabtrdKwXcNud2Bm39mu.jpg"
+    },
+    {
+      "name": "DE: The Angry Birds Movie 2 (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg"
+    },
+    {
+      "name": "DE: Kung Fu Panda (2008)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/6uRAFS2uOIjiK729OcikC4pEYoZ.jpg"
+    },
+    {
+      "name": "DE: Terra Willy, planète inconnue (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/1ZqbpxthevFW13f2SmefFt5p0e9.jpg"
+    },
+    {
+      "name": "DE: Ich Einfach Unverbesserlich 2 (2013)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/mAbwDBVeQvvDn3wyW3hijVJ9nUJ.jpg"
+    },
+    {
+      "name": "DE: Die Addams Family (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies//98qc0oceMmM6bd9BWHQMDyZFtln.jpg"
+    },
+    {
+      "name": "DE: Benjamin Blümchen (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies//dTDPM8MQBbl64cGnbFq03qwEOmH.jpg"
+    },
+    {
+      "name": "DE: Shrek: Für immer Shrek (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/bsjiAVTA6ml59BcQGcANosSzDXw.jpg"
+    },
+    {
+      "name": "DE: The Addams Family",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/98qc0oceMmM6bd9BWHQMDyZFtln.jpg"
+    },
+    {
+      "name": "DE: Arctic Dogs (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg"
+    },
+    {
+      "name": "DE: Incredibles 2  (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/mKsc2byKwZYZ1FptvtM5rD3uNXK.jpg"
+    },
+    {
+      "name": "DE: Bayala: A Magical Adventure (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/phiLC2Glu2ZaVzZsTbdgjgr6PkS.jpg"
+    },
+    {
+      "name": "DE: The Death of Superman (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/cp9uB6AhMtrXaAZC5xwUnybFT0Z.jpg"
+    },
+    {
+      "name": "DE: Throne of Elves: Die Chroniken von Altera (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/8H2q1d2dFzGXWUMFsnjfi3TEyxA.jpg"
+    },
+    {
+      "name": "DE: Spider-Man: A New Universe (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/xktiqwLZXL5mmaQZ5r3tbqWpnDW.jpg"
+    },
+    {
+      "name": "DE: Super Monsters: Save Halloween (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/yJqwIglIQpFeDjT9RQ6VFHTjO5d.jpg"
+    },
+    {
+      "name": "DE: Flavors of Youth (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueHeH5ergeHx27L4SCI9qlmwczA.jpg"
+    },
+    {
+      "name": "DE: Godzilla: Planet der Monster (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/lSqK10ahx65hLLp5W1pW8fjeGP6.jpg"
+    },
+    {
+      "name": "DE: Godzilla: Eine Stadt am Rande der Schlacht (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/9D2MFjwSCHIRYnoxfiy6YUzGJ6.jpg"
+    },
+    {
+      "name": "DE: Chestnut: Hero of Central Park (2004)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/quDRdSE0gZ1Q1lpOkZVq4ek2kaQ.jpg"
+    },
+    {
+      "name": "DE: The LEGO Movie 2 (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/geAFd9aCv6ftER2l3KEchsJc6qv.jpg"
+    },
+    {
+      "name": "DE: What's New Scooby-Doo? Vol. 10: Monstrous Tails (2007)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/wz3khp57x0ItxLTObd2Z3B0QbOK.jpg"
+    },
+    {
+      "name": "DE: Princess Emmy (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDChBwWYeM50RCcj4bZ4BujCdkL.jpg"
+    },
+    {
+      "name": "DE: Monster Island (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAwyhGDOdeqeWW9OGVQfRULiSzj.jpg"
+    },
+    {
+      "name": "DE: Super Monsters and the Wish Star (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXGlF7BKrbwgaGXyed2wJgRK9c.jpg"
+    },
+    {
+      "name": "DE: Lego DC Batman: Family Matters (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA5bdwbzEAKfvjHRzza6Q3r0otq.jpg"
+    },
+    {
+      "name": "DE: Dragons: Buch der Drachen (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/yDHcJcMV28IaLLikRETxuHjKMVt.jpg"
+    },
+    {
+      "name": "DE: Angelas Weihnachten (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/bmiUf4tPykv8VK9WqRDgBV7Yqx1.jpg"
+    },
+    {
+      "name": "DE: Völlig von der Wolle: Schwein gehabt! (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/sVizGmUr06F8LrVXt6nEYrmwmos.jpg"
+    },
+    {
+      "name": "DE: Alice in Wonderland (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg"
+    },
+    {
+      "name": "DE: Reign of the Supermen (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/e9TzqscNRUaG8HqEP3K1jUvi8pC.jpg"
+    },
+    {
+      "name": "DE: Alvin and the Chipmunks: The Road Chip (2015)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQhFoqby8UYq4uGQXOtV7P8JLBl.jpg"
+    },
+    {
+      "name": "DE: Mission Panda: Ein tierisches Team (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/zPbvXvi3O2HnZxC0ozzvR7w9oFg.jpg"
+    },
+    {
+      "name": "DE: Batman and Harley Quinn (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAP0aqAMlsNN3NEvikRkjaTlmjw.jpg"
+    },
+    {
+      "name": "DE: 101 Dalmatians (1996)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg"
+    },
+    {
+      "name": "DE: Alvin and the Chipmunks (2007)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRiB9uvcD0WYp7k2pAeWz9ukpuN.jpg"
+    },
+    {
+      "name": "DE: An American Tail (1986)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjhUy9af89vc9CviKcPgTNTrmIq.jpg"
+    },
+    {
+      "name": "DE: Die Biene Maja: Die Honigspiele (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/6aaPaj5RqVxCQ6z18C9jJuqxM0N.jpg"
+    },
+    {
+      "name": "DE: Batman vs. Teenage Mutant Ninja Turtles (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg"
+    },
+    {
+      "name": "DE: Boogie (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5xmNu7Lb4IqOahsE8K6W8xBTC7.jpg"
+    },
+    {
+      "name": "DE: Genocidal Organ (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDclwXgOxnr9Vgl7HYG2drTtho8.jpg"
+    },
+    {
+      "name": "DE: Der kleine Prinz (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVqiOApf7yEjXUrB7Oru1M3KOyQ.jpg"
+    },
+    {
+      "name": "DE: Ich einfach unverbesserlich - 6 Mini-Movies Collection (2014)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxTkXRfZatkNZmAEciORzzs0AXs.jpg"
+    },
+    {
+      "name": "DE: Justice League Dark (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWcTaDFXDrOAPfVzfBFz0Aya5BE.jpg"
+    },
+    {
+      "name": "DE: Halo Legends (2010)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO3iAp2pPNdWE9eqS4pTEY5HghY.jpg"
+    },
+    {
+      "name": "DE: Monster Pets: A Hotel Transylvania Short (2021)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuzkEyCPwf5O56fDjGNerIA8hxT.jpg"
+    },
+    {
+      "name": "DE: Ozzy (2016)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJUpiTydLOZ3Gd8ja4x5Mzp7q5s.jpg"
+    },
+    {
+      "name": "DE: The Emoji Movie",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/wHW6yPAd8OZY6gh9a1cqAKxGLGG.jpg"
+    },
+    {
+      "name": "DE: Maya the Bee: The Honey Games",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/6aaPaj5RqVxCQ6z18C9jJuqxM0N.jpg"
+    },
+    {
+      "name": "DE: The Lion King",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/qnQC8wpfzGXvIc6rG4NLhsieseE.jpg"
+    },
+    {
+      "name": "DE: Ratchet",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/yhfDzXmoMfHtv8LTI7vXHkdDInK.jpg"
+    },
+    {
+      "name": "DE: The Lion King 1½",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/6YbIW6wcJA77NHNPK7vCQrU3OR4.jpg"
+    },
+    {
+      "name": "DE: Space Pirate Captain Harlock",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/dLnI1K2GQnEpH37rEfpi2ZTmI3K.jpg"
+    },
+    {
+      "name": "DE: The Little Unicorn",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/4VuJjgZPGvMDUqQ5z37R0jbhKU3.jpg"
+    },
+    {
+      "name": "DE: The Polar Express",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/r1o72pqgoPoMIjXAwt43X51ywvU.jpg"
+    },
+    {
+      "name": "DE: Toy Story 4 (2020)",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/s1Laea6lrtQVs4HLC1Mtkjl9UAp.jpg"
+    },
+    {
+      "name": "DE: Tad the Lost Explorer and the Secret of King Midas",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/5HvIN8Ohx2WcHt6LOs2MIeJR3Rv.jpg"
+    },
+    {
+      "name": "DE: The Lego Movie",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/dzKxpF77TqAtwiRreqaSXrKsZOG.jpg"
+    },
+    {
+      "name": "DE: The Lion King II: Simba's Pride (1998)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg"
+    },
+    {
+      "name": "DE: The Prince of Egypt",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/MT6ivVGsTFYzB0XeShREbkFR6N.jpg"
+    },
+    {
+      "name": "DE: Time Traveller: The Girl Who Leapt Through Time",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/nnlRcYQIpOGPRJvFF3YF82z9n7X.jpg"
+    },
+    {
+      "name": "DE: Zootopia",
+      "group": "DE - Anime Movies",
+      "logo": "http://logo.protv.cc/images/movies/vVMs2cQ7z6u74YHNHntUk3efD0q.jpg"
+    },
+    {
+      "name": "Snoopy Presents: One-of-a-Kind Marcie (2023)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFDPyo6mdooNcHvgy17gz1GEjg4.jpg"
+    },
+    {
+      "name": "DE: The Lion King (2019)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg"
+    },
+    {
+      "name": "DE: Wall E -2008",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Susi und Strolch 2 -2001",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTFlNTI4MjgtNmU3Mi00ODQwLTg5MWYtMjAyNDVjMDM3NWY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEwMTkwOTI@._V1_UY1200_CR73,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Resident Evil: Degeneration (2008)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1x5OaFOo38JAwR5yXxeuvQg3VWH.jpg"
+    },
+    {
+      "name": "DE: Resident Evil: Damnation (2012)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9T3u6laO3TRgJk4SFntt4UK1oXW.jpg"
+    },
+    {
+      "name": "DE: Eden - 2017",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDI2Njc4YTMtMDIzZC00MTYwLTlmZDctZTI2MmFhMzA1ZGZkXkEyXkFqcGdeQXVyMTM0NTcxNA@@._V1_UY1200_CR109,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Cinderella wahre Liebe Siegt -2007",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmRjMzk3ZjItMDMzMS00ZDNmLThkYzctZjk4ZjhlNDM2NDBjXkEyXkFqcGdeQXVyODU2MDg1NzU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Atlantis -2001",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjM2NzNjMDAtZTAyMi00NTQzLWFlMTctNTUzMGE1ODE2NDRlXkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UY1200_CR91,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Arielle 2 -2000",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjMwNTkwYzktMWEzZC00MmQ5LWE5YjQtZWExY2ZjODExNDgyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR73,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Tinker Bell 2 -2009",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWQzNTVmZDgtNzcwYi00YzY1LTllNzgtNjA0N2QwNTRlOTFmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY1200_CR97,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: The Little Engine That Could (2011)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSZZGUmuloUQC9FbNxfAOQ62YVg.jpg"
+    },
+    {
+      "name": "DE: Tarzan 1 -1999",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2ZiYWUxN2ItYmQxZi00NDlkLWE2NDAtOTNmYTg1MDI0NDk1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY1200_CR89,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Pocahontas 2 -1998",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjUwMmVjNWMtNzQwNC00YzFiLTg4OGUtMzZlYTAxNzJkZDdjXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_UY1200_CR68,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Pettersson and Findus - Findus Is Moving (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FPF8344uzunb9VGFJMuuOrIOK9.jpg"
+    },
+    {
+      "name": "DE: Peter Pan 2 -2002",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWMwMWQ5NWQtYTA1YS00OTQ5LWExZmItNGI5MzIyMWRhNDA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR84,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Meari to majo no hana - 2017",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDVkYmFiNmQtMjc3Ni00YTY5LTk0NTAtZDc4YjZiZjU2YjNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY1200_CR95,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Gnome Alone (2017)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWB0zhk1Rj1tIWUM98Wsh15gkiW.jpg"
+    },
+    {
+      "name": "DE: Dschungelbuch 2 -2003",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDk2NTk1NzQxN15BMl5BanBnXkFtZTYwMDMyMTg5._V1_UY1200_CR88,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Die Rote Schildkroete - 2016",
+      "group": "DE - Anime Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODU3MjIxZWMtODFjYy00ZTI5LThmMzctMTMzZWFlOTIzNTc2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR132,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "DE: Constantine: City of Demons - The Movie (2018)",
+      "group": "DE - Anime Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg"
+    }
+  ]
+}

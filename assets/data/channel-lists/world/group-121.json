@@ -1,0 +1,493 @@
+{
+  "package": "world",
+  "name": "SR - Serbia - Live.",
+  "groupIndex": 121,
+  "totalChannels": 97,
+  "channels": [
+    {
+      "name": "SR: Arena Sport 2 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport2.png"
+    },
+    {
+      "name": "SR: Arena Sport 3 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport3.png"
+    },
+    {
+      "name": "SR: Arena Sport 4 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport4.png"
+    },
+    {
+      "name": "SR: Arena Sport 3 SR HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport3sr.png"
+    },
+    {
+      "name": "SR: Arena Sport 5 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport5.png"
+    },
+    {
+      "name": "SR: Animal Planet HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "SR: AL Jazeera Balkans HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/6045003249.png"
+    },
+    {
+      "name": "SR: AXN HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/axn.png"
+    },
+    {
+      "name": "SR: BABY TV HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/babytv.png"
+    },
+    {
+      "name": "SR: B92 RS HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/b92rs.png"
+    },
+    {
+      "name": "SR: BN Music HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/bnmusic.png"
+    },
+    {
+      "name": "SR: Cinestar Premiere 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/cinestarpremiere1.png"
+    },
+    {
+      "name": "SR: Cinestar Premiere 2 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/cinestarpremiere2.png"
+    },
+    {
+      "name": "SR: Cinemax 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax1.png"
+    },
+    {
+      "name": "SR: Cinemania HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/cinemania.png"
+    },
+    {
+      "name": "SR: Cartoon Network HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "SR: CMC TV HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/cmctv.png"
+    },
+    {
+      "name": "SR: DM SAT HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/33bedac8f88636699eaeaed1c0541ae5.png"
+    },
+    {
+      "name": "SR: Discovery Science HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "SR: DA Vinci Learning HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/davincilearning.png"
+    },
+    {
+      "name": "SR: Eurosport 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "SR: Eurosport 2 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "SR: E! Entertainment HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/eentertainment.png"
+    },
+    {
+      "name": "SR: FOX HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/fox.png"
+    },
+    {
+      "name": "SR: FOX LIFE HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "SR: FOX Crime HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/foxcrime.png"
+    },
+    {
+      "name": "SR: FOX Movies HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/foxmovies.png"
+    },
+    {
+      "name": "SR: Grand HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/grand.png"
+    },
+    {
+      "name": "SR: HBO 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/hbo1.png"
+    },
+    {
+      "name": "SR: HBO Adria HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/hboadria.png"
+    },
+    {
+      "name": "SR: Happy TV HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/happytv.png"
+    },
+    {
+      "name": "SER: Happy TV  HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/16248341461.png"
+    },
+    {
+      "name": "SR: History HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/history.png"
+    },
+    {
+      "name": "SR: KCN 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/kcn1.png"
+    },
+    {
+      "name": "SR: LOV I Ribolov HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/loviribolov.png"
+    },
+    {
+      "name": "SR: Maxcro Select 2 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/27058948361.png"
+    },
+    {
+      "name": "SR: National Geographic HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "SR: National Geographic WILD HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographicwild.png"
+    },
+    {
+      "name": "SR: Nickelodeon HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "SR: N1 RS HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/3391356212.png"
+    },
+    {
+      "name": "SR: NOVA HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/nova.png"
+    },
+    {
+      "name": "SR: PINK 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pink1.png"
+    },
+    {
+      "name": "SR: PINK Extra HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkextra.png"
+    },
+    {
+      "name": "SR: PINK Family HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkfamily.png"
+    },
+    {
+      "name": "SR: PINK Horror HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkhorror.png"
+    },
+    {
+      "name": "SR: PINK Romance HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkromance.png"
+    },
+    {
+      "name": "SR: PINK FOLK 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkfolk1.png"
+    },
+    {
+      "name": "SR: PINK FOLK 2 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkfolk2.png"
+    },
+    {
+      "name": "SR: PINK HITS 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/42939967351.png"
+    },
+    {
+      "name": "SR: PINK HITS 2 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkhits2.png"
+    },
+    {
+      "name": "SR: PINK Movies HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkmovies.png"
+    },
+    {
+      "name": "SR: PINK FILM HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkfilm.png"
+    },
+    {
+      "name": "SR: PINK Serije SRB HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/8390887786.jpg"
+    },
+    {
+      "name": "SR: PINK Music HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkmusic.png"
+    },
+    {
+      "name": "RS: Pink Thriller  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkthriller.png"
+    },
+    {
+      "name": "SR: PINK SOAP HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinksoap.png"
+    },
+    {
+      "name": "SR: PINK World HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkworld.png"
+    },
+    {
+      "name": "SR: PINK Super KIDS HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinksuperkids.png"
+    },
+    {
+      "name": "SR: PINK Style HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkstyle.png"
+    },
+    {
+      "name": "SR: PINK Reality HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkreality.png"
+    },
+    {
+      "name": "SR: PINK Pedia HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkpedia.png"
+    },
+    {
+      "name": "SR: PINK Western HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkwestern.png"
+    },
+    {
+      "name": "SR: PINK Premium HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkpremium.png"
+    },
+    {
+      "name": "SR: PINK SCI FI & Fantasy HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkscifantasy.png"
+    },
+    {
+      "name": "SR: PINK Sci-fi AND Fantasy HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/13487393041.png"
+    },
+    {
+      "name": "SR: PINK Zabava HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkzabava.png"
+    },
+    {
+      "name": "SR: PINK Thriller HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkthriller.png"
+    },
+    {
+      "name": "SR: PINK Crime & Mystery HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkcrimemystery.png"
+    },
+    {
+      "name": "SR: PINK Crime AND Mistery HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/93521132841.png"
+    },
+    {
+      "name": "SR: PINK BH HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/pinkbh.png"
+    },
+    {
+      "name": "SR: PRVA 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9205402540.jpg"
+    },
+    {
+      "name": "SR: PRVA World HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/prvaworld.png"
+    },
+    {
+      "name": "SR: PRVA Files HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/prvafiles.png"
+    },
+    {
+      "name": "SR: PRVA KICK HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/prvakick.png"
+    },
+    {
+      "name": "SR: Palma PLUS HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/palmaplus.png"
+    },
+    {
+      "name": "SR: Parovi LIVE HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a28c347fd2655315a28ab624aa602b5b.png"
+    },
+    {
+      "name": "SR: RTS 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/rts1.png"
+    },
+    {
+      "name": "SR: RTV 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/rtv1.png"
+    },
+    {
+      "name": "SR: RTV NOVI Pazar HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/rtvnovipazar.png"
+    },
+    {
+      "name": "SR: RTV Vojvodina 2 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/73519737551.png"
+    },
+    {
+      "name": "SR: RTL Kockica HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/rtlkockica.png"
+    },
+    {
+      "name": "SR: RTRS HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/rtrs.png"
+    },
+    {
+      "name": "SR: Sport KLUB HD 2  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/sportklub2.png"
+    },
+    {
+      "name": "SR: Sport KLUB HD 3  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/sportklub3.png"
+    },
+    {
+      "name": "SR: Superstar TV HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/superstartv.png"
+    },
+    {
+      "name": "SR: Sandzak TV HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/sandzaktv.png"
+    },
+    {
+      "name": "SR: Viasat Nature HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/viasatnature.png"
+    },
+    {
+      "name": "SR: Viasat Explore HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/viasatexplore.png"
+    },
+    {
+      "name": "SR: Viasat History HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/viasathistory.png"
+    },
+    {
+      "name": "SR: TLC HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "SR: TV1000 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/tv1000.png"
+    },
+    {
+      "name": "SR: TV HRAM HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/tvhram.png"
+    },
+    {
+      "name": "SR: Travel Channel HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/travelchannel.png"
+    },
+    {
+      "name": "SR: TOM AND Jerry HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/tomandjerry.png"
+    },
+    {
+      "name": "SR: Zadruga LIVE 1 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/zadrugalive1.png"
+    },
+    {
+      "name": "SR: Zadruga LIVE 2 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/zadrugalive2.png"
+    },
+    {
+      "name": "SR: Zadruga LIVE 3 HD  (101-SERVERS)",
+      "group": "SR - Serbia - Live.",
+      "logo": "https://logo.m3uassets.com/zadrugalive3.png"
+    }
+  ]
+}

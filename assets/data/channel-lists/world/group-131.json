@@ -1,0 +1,38 @@
+{
+  "package": "world",
+  "name": "UK - Religion - Live.",
+  "groupIndex": 131,
+  "totalChannels": 6,
+  "channels": [
+    {
+      "name": "UK: Daystar HD  (101-SERVERS)",
+      "group": "UK - Religion - Live.",
+      "logo": "https://logo.m3uassets.com/daystar.png"
+    },
+    {
+      "name": "UK: LOVE World TV HD  (101-SERVERS)",
+      "group": "UK - Religion - Live.",
+      "logo": "https://logo.m3uassets.com/loveworldtv.png"
+    },
+    {
+      "name": "UK: MTA1 HD  (101-SERVERS)",
+      "group": "UK - Religion - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/11393035741.png"
+    },
+    {
+      "name": "UK: Quran TV HD  (101-SERVERS)",
+      "group": "UK - Religion - Live.",
+      "logo": "https://logo.m3uassets.com/qurantv.png"
+    },
+    {
+      "name": "UK: Sonlife SBN HD  (101-SERVERS)",
+      "group": "UK - Religion - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/16679829261.png"
+    },
+    {
+      "name": "UK: THE WORD Network HD  (101-SERVERS)",
+      "group": "UK - Religion - Live.",
+      "logo": "https://logo.m3uassets.com/thewordnetwork.png"
+    }
+  ]
+}

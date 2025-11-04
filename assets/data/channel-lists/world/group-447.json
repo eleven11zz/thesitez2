@@ -1,0 +1,708 @@
+{
+  "package": "world",
+  "name": "RU - Russian Movies",
+  "groupIndex": 447,
+  "totalChannels": 140,
+  "channels": [
+    {
+      "name": "RU - Danger Close: The Battle of Long Tan (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aB1rCWGMsM2mm1kBDleaPkqUCFo.jpg"
+    },
+    {
+      "name": "RU: Tucker and Dale vs. Evil (2010)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8shwLEDzajJGSfLgbpac8x8xn1U.jpg"
+    },
+    {
+      "name": "RU: Maximum Risk (1996)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/18HVWwyLihWJPzGpSVl3omRRMyL.jpg"
+    },
+    {
+      "name": "RU: Fist of the North Star (1995)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkZINehDU8GTiNT0XfssMCeU57T.jpg"
+    },
+    {
+      "name": "RU: The Toy (1976)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4X5KTSqAvelfw49Gx5BZDUEYCm.jpg"
+    },
+    {
+      "name": "RU: Hibernatus (1969)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQTG9gwSgaGD9T8vukNFPMOcBh0.jpg"
+    },
+    {
+      "name": "RU: Innerspace (1987)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4azclZQjqeQxXvcok3rdUmuq8a.jpg"
+    },
+    {
+      "name": "RU: Yes Man (2008)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/16zVbgFLTUaUTG1wQHuGjfWNuDM.jpg"
+    },
+    {
+      "name": "RU: The Truman Show (1998)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+    },
+    {
+      "name": "RU: The Mummy: Tomb of the Dragon Emperor (2008)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg"
+    },
+    {
+      "name": "RU: The Mummy Returns (2001)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg"
+    },
+    {
+      "name": "The Mummy (1999)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg"
+    },
+    {
+      "name": "RU: The Godfather Part II (1974)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
+    },
+    {
+      "name": "RU: Outback (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eEaliCKndXuINMjcb2ATXUMYIa.jpg"
+    },
+    {
+      "name": "RU: Liar Liar (1997)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1habYSdC7oD3WygQ5lynU5G5rV.jpg"
+    },
+    {
+      "name": "RU: Joker (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+    },
+    {
+      "name": "RU: Final Destination 5 (2011)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg"
+    },
+    {
+      "name": "RU: Final Destination 3 (2006)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg"
+    },
+    {
+      "name": "RU: Final Destination 2 (2003)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gfxCoPYNJU63l4hOBeLoimhhrt.jpg"
+    },
+    {
+      "name": "RU: Final Destination (2000)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg"
+    },
+    {
+      "name": "RU: Daddy Day Care (2003)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg"
+    },
+    {
+      "name": "RU: Bruce Almighty (2003)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0QqG14SZYYZcV4VWykVc5w13dz.jpg"
+    },
+    {
+      "name": "RU: Starship Troopers (1997)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg"
+    },
+    {
+      "name": "RU: Spawn (1997)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3svvunKXkhRvEKByGDua1Qu0otq.jpg"
+    },
+    {
+      "name": "RU: Saw VI (2009)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cT7ufx1x6OKoi3bpUCWf2eV446G.jpg"
+    },
+    {
+      "name": "RU: Saw V (2008)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAVsTZTFGmPlZYhdgiRhu3GRLU3.jpg"
+    },
+    {
+      "name": "RU: Saw IV (2007)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owzhppFoegtjAkEhyxQhRtgPl96.jpg"
+    },
+    {
+      "name": "RU: Saw III (2006)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pWlgGYoPb0QPOsQTjfDmwMdBc6.jpg"
+    },
+    {
+      "name": "RU: Saw II (2005)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AwfBNpkedYcXt9BjGEYZf5g2s37.jpg"
+    },
+    {
+      "name": "RU: Saw (2004)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4da0TS3iQ1IzuyhDS8elgkmOfrN.jpg"
+    },
+    {
+      "name": "RU: Saw 3D (2010)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY7ZLUftMCTku7lQVrKdLS4skuv.jpg"
+    },
+    {
+      "name": "RU: Lord of War (2005)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MGQD4yXokufNlW1AyRXdiy7ytP.jpg"
+    },
+    {
+      "name": "RU: The Rock (1996)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg"
+    },
+    {
+      "name": "RU: Solo: A Star Wars Story (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IGbjc5ZC5yxim5W0sFING2kdcz.jpg"
+    },
+    {
+      "name": "RU: Con Air (1997)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg"
+    },
+    {
+      "name": "RU: White as Snow (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOo0cXSb5c5B4SJFRJwXosuYpJV.jpg"
+    },
+    {
+      "name": "RU: Battleship (2012)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg"
+    },
+    {
+      "name": "RU: Batman Begins (2005)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg"
+    },
+    {
+      "name": "RU: Watchmen (2009)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZvOkdo203bm1kpcY0A0Tn074ER.jpg"
+    },
+    {
+      "name": "RU: Three Kings (1999)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg"
+    },
+    {
+      "name": "RU: The Green Mile (1999)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg"
+    },
+    {
+      "name": "RU: In a Better World (2010)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJpPpgf2z5lNw6xVxvfWm0lexNH.jpg"
+    },
+    {
+      "name": "RU: Gone in Sixty Seconds (2000)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFsJJjnGcNhewSIM9XBTaHsI2et.jpg"
+    },
+    {
+      "name": "RU: Errementari: The Blacksmith and the Devil (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltpi1uLkvx2BKHWwbpMjqdAtdHn.jpg"
+    },
+    {
+      "name": "RU: San Andreas (2015)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg"
+    },
+    {
+      "name": "RU: The Devil's Brigade (1968)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbcyQHD93FcPxUvKQai5oJ9tUtE.jpg"
+    },
+    {
+      "name": "RU: Brightburn (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg"
+    },
+    {
+      "name": "RU: Calm with Horses (2020)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svqlPJDCaKGSRFDk8a3zp19xjwf.jpg"
+    },
+    {
+      "name": "RU: Eminence Hill (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MhhBKtMDjIEE942AFg7hVqwvSv.jpg"
+    },
+    {
+      "name": "RU: Happy Death Day 2U (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg"
+    },
+    {
+      "name": "RU: Madness in the Method (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g17vNW5wj341VpsQirNCppIhVNn.jpg"
+    },
+    {
+      "name": "RU: Prince of Persia: The Sands of Time (2010)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkp1GFmWyf7k2WKvKIQuuGyichI.jpg"
+    },
+    {
+      "name": "RU: Turnover (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG5xYXAwahecFhQ8ZrFdFoAqpqH.jpg"
+    },
+    {
+      "name": "RU: Uncut Gems (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+    },
+    {
+      "name": "RU: Underdog (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8pTk80e8tks1eAUtHS6yZzTHH0.jpg"
+    },
+    {
+      "name": "RU: Videoman (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi2g2hoUnJsCtCrIJAmZvVKj82H.jpg"
+    },
+    {
+      "name": "RU: That Evening Sun (2009)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ita5SljHIacK5hJe7BQR26Ld2M6.jpg"
+    },
+    {
+      "name": "RU: Tricky Old Dogs (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jdVhl8M0PG17bomIcHpGbd8s7S.jpg"
+    },
+    {
+      "name": "RU: The Outlaws (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUd1FYQb5r55RqXpx08dnCbP1fs.jpg"
+    },
+    {
+      "name": "RU: High Strung Free Dance (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PKXkTik1sOICveKTNh6BspD5Xj.jpg"
+    },
+    {
+      "name": "RU: Bad Times at the El Royale (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg"
+    },
+    {
+      "name": "RU: Bird Box (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg"
+    },
+    {
+      "name": "RU: Spider-Man: Far from Home (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"
+    },
+    {
+      "name": "RU: Christopher Robin (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg"
+    },
+    {
+      "name": "RU: Siberia (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGfIsvdrUhTlQOkxQIELU7obDYj.jpg"
+    },
+    {
+      "name": "RU: Santa Swap: Merry Christmas Mr. Andersen (2016)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/24G46pFg8o8IaPPvjlerRmaf0f3.jpg"
+    },
+    {
+      "name": "RU: The Painted Bird (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfuh6vTYLGspvkYoBy8GCaJx9Ur.jpg"
+    },
+    {
+      "name": "RU: ruThe Week Of (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MW56TDpVEv4Zi8VyclL35VxhTM.jpg"
+    },
+    {
+      "name": "RU: Triple 9 (2016)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMW4p1CBF8Q94PqQk8b2EyT4IJk.jpg"
+    },
+    {
+      "name": "RU: Golden Voices (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYsyhnKu1aeNYFpZn7euqSiNoWi.jpg"
+    },
+    {
+      "name": "RU: Acceleration (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4dXjhIzuBDeoEybnL6i5eQKzHb.jpg"
+    },
+    {
+      "name": "RU: Agramon's Gate (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQAZ3ezYRep5AxL2Hvp2dd26Cfs.jpg"
+    },
+    {
+      "name": "RU: Blackbird (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4GpcTZjX8zIU9RbG7j6w7OJFua.jpg"
+    },
+    {
+      "name": "RU: Fast",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg"
+    },
+    {
+      "name": "RU: Death Race 2 (2010)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/80mBFNVvak2bA9TJN1MD0yM7Lfi.jpg"
+    },
+    {
+      "name": "RU: Fast X (2023)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"
+    },
+    {
+      "name": "RU: 2 Fast 2 Furious (2003)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg"
+    },
+    {
+      "name": "RU: Fast Five (2011)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg"
+    },
+    {
+      "name": "RU: Furious 7 (2015)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg"
+    },
+    {
+      "name": "RU: The Hobbit: An Unexpected Journey (2012)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg"
+    },
+    {
+      "name": "RU: The Fate of the Furious (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg"
+    },
+    {
+      "name": "RU: The Fast and the Furious (2001)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgCEntS9mHagxdL5hb3qaV49YTd.jpg"
+    },
+    {
+      "name": "Mr. Magorium's Wonder Emporium (2007)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdFgWATSVhhFtNYZUFsGcHzltcG.jpg"
+    },
+    {
+      "name": "RU: The Hobbit: The Battle of the Five Armies (2014)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT98tLqatZPQApyRmlPL12LtiWp.jpg"
+    },
+    {
+      "name": "RU: The Lord of the Rings: The Return of the King (2003)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+    },
+    {
+      "name": "RU: The Hobbit: The Desolation of Smaug (2013)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg"
+    },
+    {
+      "name": "RU: No Escape Room (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP0mfM0MafLVMD36kgbvZpr9gbz.jpg"
+    },
+    {
+      "name": "RU: The Lord of the Rings: The Two Towers (2002)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
+    },
+    {
+      "name": "RU: The Lord of the Rings: The Fellowship of the Ring (2001)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+    },
+    {
+      "name": "RU: Aquaslash (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vb3ux1clny29nY9CtGnIbTrliHN.jpg"
+    },
+    {
+      "name": "RU: Death Race: Inferno (2013)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRV4oC61nmBqypSaXtMXOk99dOM.jpg"
+    },
+    {
+      "name": "RU: Jeepers Creepers 3 (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK7ge28ubs45av9aGEbVWW7ZbA8.jpg"
+    },
+    {
+      "name": "RU: -Jeepers Creepers 2 (2003)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2ghDfjcs3y5c8ata3COc4pWiAN.jpg"
+    },
+    {
+      "name": "RU: Then Came You (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/658QP5tmBRUlE5JvxOnnmITfG1F.jpg"
+    },
+    {
+      "name": "RU: Ghost in the Shell (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCtL3UBgCoZzd7XTVGhvl6XY75E.jpg"
+    },
+    {
+      "name": "RU: The Fast and the Furious: Tokyo Drift (2006)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg"
+    },
+    {
+      "name": "RU: Jeepers Creepers (2001)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g410Y1U1ELbmJG14Zru3UAimm1G.jpg"
+    },
+    {
+      "name": "RU: Amundsen (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvz9rsCnqq1F0MauURPzps11Y6S.jpg"
+    },
+    {
+      "name": "RU: American Exit (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRqff9JyOG4q03IeNHP5JKNcfat.jpg"
+    },
+    {
+      "name": "RU:  Death Race (2008)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5A79GeOb3uChQ0l0ZDjDyODKQp3.jpg"
+    },
+    {
+      "name": "RU: AfterDeath (2015)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nfbBfC7lqOKMC8G5bx4e7kKB2C.jpg"
+    },
+    {
+      "name": "RU: While at War (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbuMcrQBXngZS7wMOTKRCmQAjCN.jpg"
+    },
+    {
+      "name": "RU: Dark Encounter (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nc18JXQ4yLkClFFJQUYgFahMBhZ.jpg"
+    },
+    {
+      "name": "RU: Partisan (2015)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4x7gzun1Llfgt9AtMj9Jx8druIF.jpg"
+    },
+    {
+      "name": "RU: K.G.F: Chapter 1 (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg"
+    },
+    {
+      "name": "RU: A Dog's Way Home (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg"
+    },
+    {
+      "name": "RU: Taxi to Treasure Rock (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8oqnT7bPaubI6hRDc4dKQdJAdm.jpg"
+    },
+    {
+      "name": "RU: Red Joan (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTQWDi31W4RpxviHGyiwEYHXDDA.jpg"
+    },
+    {
+      "name": "RU: Free Country (2020)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/snkeg0NgURfXRbrnndoC6N0nBF3.jpg"
+    },
+    {
+      "name": "RU: Devil's Revenge (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/40ILf3yIPAl0JeVHA3iIOtlDTEu.jpg"
+    },
+    {
+      "name": "RU: One Day (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/anrjtPUUJEvB6BQRMQB4g3YIufB.jpg"
+    },
+    {
+      "name": "Paris Pigalle (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYcrgwcwXqZ19t0wyKDmsdClRBQ.jpg"
+    },
+    {
+      "name": "RU: Interviewing Monsters and Bigfoot (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVjuLy9PMoSET3MdK3ydxUBy6G6.jpg"
+    },
+    {
+      "name": "RU: Love Under House Arrest (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSFtZ7m3y7VE2AsOE4ICprOo5o8.jpg"
+    },
+    {
+      "name": "RU: Tokyo Ghoul 'S' (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMTiDEye1BwnQP8J1hM3G16EEmX.jpg"
+    },
+    {
+      "name": "RU: Bullitt County (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/idg9LHvRTmVr4d4uxJpzl74uyPd.jpg"
+    },
+    {
+      "name": "RU: Shaolin Temple (1982)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMY5alf2dh0k4Y3Ds2XQiXWSVG5.jpg"
+    },
+    {
+      "name": "RU: Sweet Home (2015)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tdfWey5HoXmgM0hdXsJWGbxfR1.jpg"
+    },
+    {
+      "name": "RU: Mohenjo Daro (2016)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3k4ESzzPCQHwjPYJoI489Fk2jZc.jpg"
+    },
+    {
+      "name": "RU: The Best Is Yet to Come (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3aI1wH2lIeKZ5ML4AO0IevACv0.jpg"
+    },
+    {
+      "name": "RU: Mr. Jones (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpCKOsAmKLD67mwugN6hrPvdPZl.jpg"
+    },
+    {
+      "name": "RU: Amanda (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyebNlYE2iV3D0xLrjMTigTuHmN.jpg"
+    },
+    {
+      "name": "RU: Bad Genius (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg"
+    },
+    {
+      "name": "RU: Angel Face (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9MUiB0prnEtCKTDNmf7Esz8UTP.jpg"
+    },
+    {
+      "name": "RU: Kincsem (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqNp7KbfoKENdLOEJQggvGGUepJ.jpg"
+    },
+    {
+      "name": "RU: The Night Is Young (2015)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzWug5AIwbaO0mYdBOh7mKX1drM.jpg"
+    },
+    {
+      "name": "RU: Bad Investigate (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awtNMmZmqjRmOCF0ottdlidTE1j.jpg"
+    },
+    {
+      "name": "RU: Falchi (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/us3WCfhEGk3ctHmmImskRJE9mne.jpg"
+    },
+    {
+      "name": "RU: Clowntergeist (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FKljfqvKmdttj6D9EADy6iGpQT.jpg"
+    },
+    {
+      "name": "RU: Let's Dance (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x38vQCzCpWZWlWJhSVPFWhmTadu.jpg"
+    },
+    {
+      "name": "The Best Years of a Life (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/41jZAOJvZRj4e1jshl3sFzKqHnR.jpg"
+    },
+    {
+      "name": "RU: Cartels (2017)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J7jc9VZroyf4rFlyWJ0mIreu2A.jpg"
+    },
+    {
+      "name": "RU: Holidays Offline 2 (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0yCaZujkTilTrPOXKbSGythBEw.jpg"
+    },
+    {
+      "name": "RU: I Ended This Summer (2010)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQIyeQ4l1jcJwylA0u0zsNoeEj3.jpg"
+    },
+    {
+      "name": "RU: St. Agatha (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpR3FzaagWTbwgFPn1P6sEZ4str.jpg"
+    },
+    {
+      "name": "RU: Project E.1337: ALPHA (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtPfO2bQUkUkUxBAkmsUnvCAd2X.jpg"
+    },
+    {
+      "name": "RU: VANish (2015)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UHr0Zlf7Ko2VmJM9h1M9Z7gFMk.jpg"
+    },
+    {
+      "name": "RU: Red Letter Day (2019)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9zE1tPndPUtjXpHZ232jefeQft.jpg"
+    },
+    {
+      "name": "RU: Mega Time Squad (2018)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thHCbZVdA4DL0R8f84aUz83FSgg.jpg"
+    },
+    {
+      "name": "RU: The Roundup: No Way Out (2023)",
+      "group": "RU - Russian Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5ZzelrldWr7CmOTSiwagoe5Vl9.jpg"
+    }
+  ]
+}

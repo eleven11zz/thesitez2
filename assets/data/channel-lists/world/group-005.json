@@ -1,0 +1,58 @@
+{
+  "package": "world",
+  "name": "BD - Bangladesh - Live .",
+  "groupIndex": 5,
+  "totalChannels": 10,
+  "channels": [
+    {
+      "name": "BD: STAR Jalsha B1 HD (IN)  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/starjalsha.png"
+    },
+    {
+      "name": "Asian TV  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/asiantv.png"
+    },
+    {
+      "name": "ATN Bangla  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/atnbangla.png"
+    },
+    {
+      "name": "Channel 9  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/channel9.png"
+    },
+    {
+      "name": "DBC News  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/dbcnews.png"
+    },
+    {
+      "name": "Desh TV  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/deshtv.png"
+    },
+    {
+      "name": "Iqra Bangla  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/iqrabangla.png"
+    },
+    {
+      "name": "Jamuna TV  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/jamunatv.png"
+    },
+    {
+      "name": "NTV  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/ntv.png"
+    },
+    {
+      "name": "Peace TV Bangla  (101-SERVERS)",
+      "group": "BD - Bangladesh - Live .",
+      "logo": "https://logo.m3uassets.com/6tvbangla.png"
+    }
+  ]
+}

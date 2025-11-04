@@ -1,0 +1,18 @@
+{
+  "package": "world",
+  "name": "DSTV - Movies & Drama - Live.",
+  "groupIndex": 43,
+  "totalChannels": 2,
+  "channels": [
+    {
+      "name": "DSTV: Nollywood HD  (101-SERVERS)",
+      "group": "DSTV - Movies & Drama - Live.",
+      "logo": "https://logo.m3uassets.com/nollywood.png"
+    },
+    {
+      "name": "DSTV: Nollywood Movie HD  (101-SERVERS)",
+      "group": "DSTV - Movies & Drama - Live.",
+      "logo": "https://logo.m3uassets.com/nollywoodmovie.png"
+    }
+  ]
+}

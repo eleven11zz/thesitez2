@@ -1,0 +1,153 @@
+{
+  "package": "world",
+  "name": "DE - Germany Sports - Live.",
+  "groupIndex": 39,
+  "totalChannels": 29,
+  "channels": [
+    {
+      "name": "DE: Eurosport 2 720p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "DE: Sport1 FHD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sport1.png"
+    },
+    {
+      "name": "DE: Eurosport 1 1080p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "DE: SPORT1 1080p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sport1.png"
+    },
+    {
+      "name": "DE: SPORT1 1080p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sport1.png"
+    },
+    {
+      "name": "DE: SPORT1 720p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sport1.png"
+    },
+    {
+      "name": "DE: SPORT1 720p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sport1.png"
+    },
+    {
+      "name": "DE: SPORT1+ 1080p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sport1.png"
+    },
+    {
+      "name": "DE: SPORTDIGITAL FUSSBALL 1080p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sportdigitalfussball.png"
+    },
+    {
+      "name": "DE: SPORTDIGITAL FUSSBALL 720p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sportdigitalfussball.png"
+    },
+    {
+      "name": "DE: eSPORTS1 1080p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/esports1.png"
+    },
+    {
+      "name": "DE: More Than Sports TV 1080p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/morethansportstv.png"
+    },
+    {
+      "name": "DE: Red Bull TV 1080p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/redbulltv.png"
+    },
+    {
+      "name": "DE: Red Bull TV 720p  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/redbulltv.png"
+    },
+    {
+      "name": "DE: ORF SPORT +  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/orfsport.png"
+    },
+    {
+      "name": "DE: Eurosport 1 HD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "DE: Eurosport 2 FHD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "DE: Sport 1+ HD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sport1.png"
+    },
+    {
+      "name": "DE: Sportdigital Fussball FHD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sportdigitalfussball.png"
+    },
+    {
+      "name": "De: Auto Motor Sport HD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/automotorsport.png"
+    },
+    {
+      "name": "DE: Magenta Sport 1 HD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/magentasport1.png"
+    },
+    {
+      "name": "DE: DAZN 1 HD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/dazn1.png"
+    },
+    {
+      "name": "DE: DAZN 2 HD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/dazn2.png"
+    },
+    {
+      "name": "DE: DAZN BAR 1 HD (vip)  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/daznbar1.png"
+    },
+    {
+      "name": "DE: Eurosport 2 Extra FHD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2extra.png"
+    },
+    {
+      "name": "DE: DAZN BAR 2 HD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/daznbar2.png"
+    },
+    {
+      "name": "DE: FC Bayern TV HD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/fcbayerntv.png"
+    },
+    {
+      "name": "DE: Motorvision TV HD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/motorvisiontv.png"
+    },
+    {
+      "name": "De: Magenta Sport FHD  (101-SERVERS)",
+      "group": "DE - Germany Sports - Live.",
+      "logo": "https://logo.m3uassets.com/magentasport.png"
+    }
+  ]
+}

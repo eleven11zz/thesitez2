@@ -1,0 +1,163 @@
+{
+  "package": "world",
+  "name": "TR - Haber TV - Live.",
+  "groupIndex": 212,
+  "totalChannels": 31,
+  "channels": [
+    {
+      "name": "TR: 24 TV HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/24tv.png"
+    },
+    {
+      "name": "TR: 360 HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/360.png"
+    },
+    {
+      "name": "TR: A HABER HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/ahaber.png"
+    },
+    {
+      "name": "TR: A NEWS HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/anews.png"
+    },
+    {
+      "name": "TR: NTV HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/ntv.png"
+    },
+    {
+      "name": "TR: FLASH HABER FHD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/flashhabertv.png"
+    },
+    {
+      "name": "TR: FLASH HABER HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/flashhabertv.png"
+    },
+    {
+      "name": "TR: Haber Global TV HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78126130811.png"
+    },
+    {
+      "name": "TR: SOZCU TV FHD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/sozcutv.png"
+    },
+    {
+      "name": "TR: TGRT Haber HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/tgrthaber.png"
+    },
+    {
+      "name": "TR: TRT Haber HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/trthaber.png"
+    },
+    {
+      "name": "TR: TRT World HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/trtworld.png"
+    },
+    {
+      "name": "TR: TV 100 HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/tv100.png"
+    },
+    {
+      "name": "TR: AKIT TV HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/akittv.png"
+    },
+    {
+      "name": "TR: Bloomberg HT HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/bloomberg.png"
+    },
+    {
+      "name": "TR: BRT 1  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/brt1.png"
+    },
+    {
+      "name": "TR:  BRT 2  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/brt2.png"
+    },
+    {
+      "name": "TR:  BRT 3  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/brt3.png"
+    },
+    {
+      "name": "TR: CNN TURK HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/cnnturk.png"
+    },
+    {
+      "name": "TR: EKO TURK FHD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/ekoturk.png"
+    },
+    {
+      "name": "TR: EKO TURK HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/ekoturk.png"
+    },
+    {
+      "name": "TR: HALK TV HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/halktv.png"
+    },
+    {
+      "name": "TR: KRT FHD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/krt.png"
+    },
+    {
+      "name": "TR: KRT HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/krt.png"
+    },
+    {
+      "name": "TR: LIDER HABER  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/liderhaber.png"
+    },
+    {
+      "name": "TR: MC EU HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "http://vip84.fritzinet.com:80/images/yA6bgHBAe_ujRxS2LVuskLdIFQwMrLhmHFiMlGW-QZFEsiJGwbbMgUx4CkroEGNxJNPCHDORrgxBWxqWDGhKFqK-liwZVbS_Gv6HM-xwkvk.png"
+    },
+    {
+      "name": "TR: TELE 1 TV HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/98948741501.png"
+    },
+    {
+      "name": "TR: TV4 FHD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/tv4.png"
+    },
+    {
+      "name": "TR: TV4 HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/tv4.png"
+    },
+    {
+      "name": "TR: TV NET HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvnet.png"
+    },
+    {
+      "name": "TR: ULKE TV HD  (101-SERVERS)",
+      "group": "TR - Haber TV - Live.",
+      "logo": "https://logo.m3uassets.com/ulketv.png"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "package": "latin",
+  "name": "ES - Documentales - Live.",
+  "groupIndex": 10,
+  "totalChannels": 10,
+  "channels": [
+    {
+      "name": "Bemad FHD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/bemad.png"
+    },
+    {
+      "name": "Blaze FHD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/blaze.png"
+    },
+    {
+      "name": "Canal Cocina HD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/canalcocina.png"
+    },
+    {
+      "name": "Canal Odisea HD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/canalodisea.png"
+    },
+    {
+      "name": "Crime + Investigation FHD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/crimeinvestigation.png"
+    },
+    {
+      "name": "Decasa HD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/decasa.png"
+    },
+    {
+      "name": "Historia FHD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/historia.png"
+    },
+    {
+      "name": "Movistar Cinedoc&roll FHD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/movistarcinedocroll.png"
+    },
+    {
+      "name": "NAT GEO WILD HD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "Odisea FHD (ES)  (101-SERVERS)",
+      "group": "ES - Documentales - Live.",
+      "logo": "https://logo.m3uassets.com/odisea.png"
+    }
+  ]
+}

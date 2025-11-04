@@ -1,0 +1,393 @@
+{
+  "package": "france",
+  "name": "FR - Movies & Series - Live.",
+  "groupIndex": 8,
+  "totalChannels": 77,
+  "channels": [
+    {
+      "name": "FR: A LA Carte 1 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte1.png"
+    },
+    {
+      "name": "FR: A LA Carte 2 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte2.png"
+    },
+    {
+      "name": "FR: A LA Carte 3 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte3.png"
+    },
+    {
+      "name": "FR: A LA Carte 5 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte5.png"
+    },
+    {
+      "name": "FR: A LA Carte 6 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte6.png"
+    },
+    {
+      "name": "FR: A LA Carte 7 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte7.png"
+    },
+    {
+      "name": "FR: A LA Carte 8 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte8.png"
+    },
+    {
+      "name": "FR: A LA Carte 9 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte9.png"
+    },
+    {
+      "name": "FR: A LA Carte 10 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte10.png"
+    },
+    {
+      "name": "FR: A LA Carte 11 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte11.png"
+    },
+    {
+      "name": "FR: A LA Carte 12 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte12.png"
+    },
+    {
+      "name": "FR: A LA Carte 13 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alacarte13.png"
+    },
+    {
+      "name": "FR: A LA Carte 15 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/30037565571.png"
+    },
+    {
+      "name": "FR: A LA Carte 16 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/13436850851.png"
+    },
+    {
+      "name": "FR: A LA Carte 18 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/13056169501.png"
+    },
+    {
+      "name": "FR: Altice Studio HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/alticestudio.png"
+    },
+    {
+      "name": "FR: Action SD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/action.png"
+    },
+    {
+      "name": "FR: Canal Cinema HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/85336181731.png"
+    },
+    {
+      "name": "FR: Canal Series HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalseries.png"
+    },
+    {
+      "name": "FR: Canal + FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canal.png"
+    },
+    {
+      "name": "FR: Canal SD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canal.png"
+    },
+    {
+      "name": "FR: Canal+ Cinema HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/85732614391.png"
+    },
+    {
+      "name": "FR: Canal+ Decale HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canaldecale.png"
+    },
+    {
+      "name": "FR: CINE Classic HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cineclassic.png"
+    },
+    {
+      "name": "FR: CINE CLUB SD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cineclub.png"
+    },
+    {
+      "name": "FR: CINE Emotion SD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cineemotion.png"
+    },
+    {
+      "name": "FR: CINE Famiz HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cinefamiz.png"
+    },
+    {
+      "name": "FR: CINE Frisson HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cinefrisson.png"
+    },
+    {
+      "name": "FR: CINE Premier HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cinepremier.png"
+    },
+    {
+      "name": "FR: Canal PLUS HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplus.png"
+    },
+    {
+      "name": "FR: Canal+ Serie HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/91575782471.png"
+    },
+    {
+      "name": "FR: Canal+ Family  HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/4529399882.png"
+    },
+    {
+      "name": "FR: CINE Emotion HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cineemotion.png"
+    },
+    {
+      "name": "FR: Cine+ CLUB HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cineclub.png"
+    },
+    {
+      "name": "FR: Cine+ Emotion HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/cineemotion.png"
+    },
+    {
+      "name": "FR: Cine+ Famiz  HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/32106360561.png"
+    },
+    {
+      "name": "FR: Comedie+ HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/comedie.png"
+    },
+    {
+      "name": "FR: Canal PLAY 1 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay1.png"
+    },
+    {
+      "name": "FR: Canal PLAY 2 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay2.png"
+    },
+    {
+      "name": "FR: Canal PLAY 3 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay3.png"
+    },
+    {
+      "name": "FR: Canal PLAY 4 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay4.png"
+    },
+    {
+      "name": "FR: Canal PLAY 5 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay5.png"
+    },
+    {
+      "name": "FR: Canal PLAY 6 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay6.png"
+    },
+    {
+      "name": "FR: Canal PLAY 7 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/17542856641.png"
+    },
+    {
+      "name": "FR: Canal PLAY 10 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/27405612421.png"
+    },
+    {
+      "name": "FR: Canal PLAY 11 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/15150875001.png"
+    },
+    {
+      "name": "FR: Canal PLAY 18 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/46444482441.png"
+    },
+    {
+      "name": "FR: Canalplay 1 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay1.png"
+    },
+    {
+      "name": "FR: Canalplay 2 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay2.png"
+    },
+    {
+      "name": "FR: Canalplay 3 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay3.png"
+    },
+    {
+      "name": "FR: Canalplay 4 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay4.png"
+    },
+    {
+      "name": "FR: Canalplay 5 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay5.png"
+    },
+    {
+      "name": "FR: Canalplay 6 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay6.png"
+    },
+    {
+      "name": "FR: Canalplay 7 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/73744925521.png"
+    },
+    {
+      "name": "FR: Canalplay 9 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay9.png"
+    },
+    {
+      "name": "FR: Canalplay 10 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/45436382821.png"
+    },
+    {
+      "name": "FR: Canal PLAY 11 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/57791827901.png"
+    },
+    {
+      "name": "FR: Canal PLAY 12 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/22086091201.png"
+    },
+    {
+      "name": "FR: Canal PLAY 13 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78555990011.png"
+    },
+    {
+      "name": "FR: Canalplay 14 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/66949191251.png"
+    },
+    {
+      "name": "FR: Canalplay 15 FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/canalplay15.png"
+    },
+    {
+      "name": "FR: Disney Cinema HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/disneycinema.png"
+    },
+    {
+      "name": "FR: OCS CITY HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/ocscity.png"
+    },
+    {
+      "name": "FR: OCS Geant HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/ocsgeant.png"
+    },
+    {
+      "name": "FR: OCS MAX HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/ocsmax.png"
+    },
+    {
+      "name": "FR: Orange Cinema 1 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/orangecinema1.png"
+    },
+    {
+      "name": "FR: OCS MAX  HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/20183465701.png"
+    },
+    {
+      "name": "FR: Orange Cinema 4 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/orangecinema4.png"
+    },
+    {
+      "name": "FR: Paramount Channel HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/paramountchannel.png"
+    },
+    {
+      "name": "FR: Polar FHD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/polar.png"
+    },
+    {
+      "name": "FR: Paramount Decale HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/paramountdecale.png"
+    },
+    {
+      "name": "FR: Serie CLUB HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/serieclub.png"
+    },
+    {
+      "name": "FR: Serie CLUB HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/serieclub.png"
+    },
+    {
+      "name": "FR: TMC HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/tmc.png"
+    },
+    {
+      "name": "FR: TMC+ 1 HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/3813474037.png"
+    },
+    {
+      "name": "FR: TCM Cinema HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/tcmcinema.png"
+    },
+    {
+      "name": "FR: TF1 Series Films HD  (101-SERVERS)",
+      "group": "FR - Movies & Series - Live.",
+      "logo": "https://logo.m3uassets.com/tf1seriesfilms.png"
+    }
+  ]
+}

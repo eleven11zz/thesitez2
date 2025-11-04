@@ -1,0 +1,58 @@
+{
+  "package": "latin",
+  "name": "ES - Sereis TV - Live.",
+  "groupIndex": 15,
+  "totalChannels": 10,
+  "channels": [
+    {
+      "name": "AXN White FHD (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/axnwhite.png"
+    },
+    {
+      "name": "Calle 13 HD (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/calle13.png"
+    },
+    {
+      "name": "Comedy Central HD (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentral.png"
+    },
+    {
+      "name": "M. Series Mania HD (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/mseriesmania.png"
+    },
+    {
+      "name": "M.series HD (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/mseries.png"
+    },
+    {
+      "name": "Movistar Series 2 HD (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/movistarseries2.png"
+    },
+    {
+      "name": "Movistar Series Mania HD (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/movistarseriesmania.png"
+    },
+    {
+      "name": "Star+ FHD (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/star.png"
+    },
+    {
+      "name": "SYFY HD (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/syfy.png"
+    },
+    {
+      "name": "Warner TV (ES)  (101-SERVERS)",
+      "group": "ES - Sereis TV - Live.",
+      "logo": "https://logo.m3uassets.com/warnertv.png"
+    }
+  ]
+}

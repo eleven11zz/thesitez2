@@ -1,0 +1,48 @@
+{
+  "package": "world",
+  "name": "DSTV - SuperSports - Live.",
+  "groupIndex": 49,
+  "totalChannels": 8,
+  "channels": [
+    {
+      "name": "DStv | SuperSport Variety 3ⓧ  (101-SERVERS)",
+      "group": "DSTV - SuperSports - Live.",
+      "logo": "https://logo.m3uassets.com/supersportvariety3.png"
+    },
+    {
+      "name": "DStv | SuperSport Variety 1ⓧ  (101-SERVERS)",
+      "group": "DSTV - SuperSports - Live.",
+      "logo": "https://logo.m3uassets.com/supersportvariety1.png"
+    },
+    {
+      "name": "DStv | SuperSport Rugbyⓧ  (101-SERVERS)",
+      "group": "DSTV - SuperSports - Live.",
+      "logo": "https://logo.m3uassets.com/supersportrugby.png"
+    },
+    {
+      "name": "DStv | SuperSport Premier Leagueⓧ  (101-SERVERS)",
+      "group": "DSTV - SuperSports - Live.",
+      "logo": "https://logo.m3uassets.com/supersportpremierleague.png"
+    },
+    {
+      "name": "DStv | SuperSport MaXimoⓧ  (101-SERVERS)",
+      "group": "DSTV - SuperSports - Live.",
+      "logo": "https://logo.m3uassets.com/supersportmaximo.png"
+    },
+    {
+      "name": "DStv | SuperSport La Ligaⓧ  (101-SERVERS)",
+      "group": "DSTV - SuperSports - Live.",
+      "logo": "https://logo.m3uassets.com/supersportlaliga.png"
+    },
+    {
+      "name": "DStv | SuperSport Grandstandⓧ  (101-SERVERS)",
+      "group": "DSTV - SuperSports - Live.",
+      "logo": "https://logo.m3uassets.com/supersportgrandstand.png"
+    },
+    {
+      "name": "DStv | SuperSport Actionⓧ  (101-SERVERS)",
+      "group": "DSTV - SuperSports - Live.",
+      "logo": "https://logo.m3uassets.com/supersportaction.png"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "package": "english",
+  "name": "UK - Sports - Live.",
+  "groupIndex": 32,
+  "totalChannels": 53,
+  "channels": [
+    {
+      "name": "UK: Sky Sports Action  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsaction.png"
+    },
+    {
+      "name": "SKY Sports Arena HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsarena.png"
+    },
+    {
+      "name": "UK: SKY Sports MAIN Event FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsmainevent.png"
+    },
+    {
+      "name": "UK: AT THE Races HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/31376454071.png"
+    },
+    {
+      "name": "UK: AT THE Races HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/97535161871.png"
+    },
+    {
+      "name": "UK: Sky Sports Tennis HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportstennis.png"
+    },
+    {
+      "name": "UK: DAZN 1  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/dazn1.png"
+    },
+    {
+      "name": "UK: BEIN Sports 1 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports1.png"
+    },
+    {
+      "name": "UK: TNT Sport 1 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/2085fb3dd7a934a053cfba406cda78a5.png"
+    },
+    {
+      "name": "UK: TNT Sport 1 HD 50fps  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/cfabdbee0b83914a18a2cd7b510bceeb.png"
+    },
+    {
+      "name": "UK: TNT Sport 1 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/19609e54b793e04cbb2a096b21af0df2.png"
+    },
+    {
+      "name": "UK: TNT Sport 2 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/30af61a079d4256feaf2e0c5f62b3dc6.png"
+    },
+    {
+      "name": "UK: TNT Sport 2 HD 50fps  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/1dbb67e86d150ccb9a8fb9e6b8ab998f.png"
+    },
+    {
+      "name": "UK: TNT Sport 2 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/721ab7051f07a5473a242fcd854a0851.png"
+    },
+    {
+      "name": "UK: TNT Sport ESPN FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/148d2d611e0ab911250e8c7e2846d4a7.png"
+    },
+    {
+      "name": "UK: TNT Sport ESPN HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/26b5bb88f598639372febb9dfb1706a4.png"
+    },
+    {
+      "name": "UK: TNT Sport ESPN SD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/904db02811f3a877cb23082b3ecc7c93.png"
+    },
+    {
+      "name": "UK: TNT Sport Extra 1 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/e5b1f01cf46cb25f4ac1c7b7029aaa92.png"
+    },
+    {
+      "name": "UK: TNT Sport Extra 4 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/9b31ff144ae765e6f699c23c53259482.png"
+    },
+    {
+      "name": "UK: TNT SPORTS 4 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tntsports4.png"
+    },
+    {
+      "name": "UK: TNT SPORTS 6 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tntsports6.png"
+    },
+    {
+      "name": "UK: TNT SPORTS 7 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tntsports7.png"
+    },
+    {
+      "name": "UK: TNT SPORTS 8 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tntsports8.png"
+    },
+    {
+      "name": "UK: Eurosport 1 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "UK: Eurosport 1 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "UK: Eurosport 1 SD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "UK: Eurosport 2 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "UK: Eurosports 2 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosports2.png"
+    },
+    {
+      "name": "UK: LA LIGA TV HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/laligatv.png"
+    },
+    {
+      "name": "UK: LFC TV HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/lfctv.png"
+    },
+    {
+      "name": "UK: MU TV HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/mutv.png"
+    },
+    {
+      "name": "UK: MUTV HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/mutv.png"
+    },
+    {
+      "name": "UK: MUTV SD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/mutv.png"
+    },
+    {
+      "name": "UK: Premier Sports 1 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/premiersports1.png"
+    },
+    {
+      "name": "UK: Premier Sports 1 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/premiersports1.png"
+    },
+    {
+      "name": "UK: Premier Sports 2 FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/premiersports2.png"
+    },
+    {
+      "name": "UK: Premier Sports 2 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/premiersports2.png"
+    },
+    {
+      "name": "UK: Racing UK HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/racing.png"
+    },
+    {
+      "name": "UK: SKY Sport Football HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportfootball.png"
+    },
+    {
+      "name": "UK: SKY Sports Arena FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsarena.png"
+    },
+    {
+      "name": "UK: SKY Sports Cricket FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportscricket.png"
+    },
+    {
+      "name": "UK: SKY Sports Cricket HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportscricket.png"
+    },
+    {
+      "name": "UK: SKY Sports F1 HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsf1.png"
+    },
+    {
+      "name": "UK: SKY Sports Football FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsfootball.png"
+    },
+    {
+      "name": "UK: SKY Sports GOLF HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsgolf.png"
+    },
+    {
+      "name": "UK: SKY Sports MAIN Event HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsmainevent.png"
+    },
+    {
+      "name": "UK: SKY Sports NEWS FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsnews.png"
+    },
+    {
+      "name": "UK: SKY Sports NFL FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsnfl.png"
+    },
+    {
+      "name": "UK: SKY Sports NFL HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsnfl.png"
+    },
+    {
+      "name": "UK: SKY Sports Premier League HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportspremierleague.png"
+    },
+    {
+      "name": "UK: SKY Sports Racing FHD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsracing.png"
+    },
+    {
+      "name": "UK: UFC Fight PASS HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ufcfightpass.png"
+    },
+    {
+      "name": "UK: Willow Cricket HD  (101-SERVERS)",
+      "group": "UK - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/willowcricket.png"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "package": "world",
+  "name": "KU - Kurdish Movies",
+  "groupIndex": 405,
+  "totalChannels": 81,
+  "channels": [
+    {
+      "name": "KR: Yamakasi (2001)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7INcVJWvyT5pwnGHTYrhZXD7zvS.jpg"
+    },
+    {
+      "name": "KR: xXx: Return of Xander Cage (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg"
+    },
+    {
+      "name": "KR: World War Z (2013)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg"
+    },
+    {
+      "name": "KR: Wonder Woman (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg"
+    },
+    {
+      "name": "KR: War for the Planet of the Apes (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijQHiImv16vNSeZQsmih04kwn0C.jpg"
+    },
+    {
+      "name": "KR: War (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg"
+    },
+    {
+      "name": "KR: Venom (2018)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg"
+    },
+    {
+      "name": "KR: Tiger Zinda Hai (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CVM7LW61DcYbFf4OmEV0LMUhBr.jpg"
+    },
+    {
+      "name": "KR: Thor: Ragnarok (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
+    },
+    {
+      "name": "KR: The Meg (2018)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg"
+    },
+    {
+      "name": "KR: The Great Battle (2018)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv5ByLHZfn7MUKpjJovRTr5URGg.jpg"
+    },
+    {
+      "name": "KR: The Front Line- 2011",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/cRw9czK3hOnNenW1iVVpGM3kbn7.jpg"
+    },
+    {
+      "name": "KR: The Foreigner (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg"
+    },
+    {
+      "name": "KR: The Dark Knight (2008)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    {
+      "name": "KR: Suicide Squad (2016)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbsm0i2q2uqlUSFgUAHq3xCUO4j.jpg"
+    },
+    {
+      "name": "KR: Spider-Man (2002)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwoETElxZqiF3it8F4HitSliXqp.jpg"
+    },
+    {
+      "name": "KR: Sniper: Assassin's End (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiymaaYeAl9ZBoyUz2tz4k2XaKv.jpg"
+    },
+    {
+      "name": "KR: Skiptrace (2016)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yepKO0bbXL2FSUoq93c7lkp0op1.jpg"
+    },
+    {
+      "name": "KR: Rogue Warfare: The Hunt (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJRvrrBPSDV6PbE4xek3mUt2Cfq.jpg"
+    },
+    {
+      "name": "KR: Revenge (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SzcCFHiEkw8IhWS4KPAsznzkkD.jpg"
+    },
+    {
+      "name": "KR: Rambo: Last Blood (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg"
+    },
+    {
+      "name": "KR: Radioflash (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7RNOII2gXkZugOf7TjsISoLYRl.jpg"
+    },
+    {
+      "name": "KR: Now You See Me 2 (2016)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A81kDB6a1K86YLlcOtZB27jriJh.jpg"
+    },
+    {
+      "name": "KR: Ninja (2009)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmt0YMO2MyhY4tNHh8i2ttu60Mb.jpg"
+    },
+    {
+      "name": "KR: Morgan (2016)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1Qb1I0wVvk8FQaNaat9DHlKFGc.jpg"
+    },
+    {
+      "name": "KR: Momentum (2015)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rStxrJBaWs3oNQfnQn4LKzG1lQ9.jpg"
+    },
+    {
+      "name": "KR: Mission: Impossible - Fallout (2018)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg"
+    },
+    {
+      "name": "KR: Mechanic: Resurrection (2016)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FUJT82YKY1EJ1dmunQhW5PUZAT.jpg"
+    },
+    {
+      "name": "KR: Maze Runner: The Death Cure (2018)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg"
+    },
+    {
+      "name": "KR: Mad Max: Fury Road (2015)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg"
+    },
+    {
+      "name": "KR: VOd Kurdish- Lucy - 2014",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "KR: Lost Bullet (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnlChF8U4diiykXQYs1miigGy7t.jpg"
+    },
+    {
+      "name": "KR: Logan (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+    },
+    {
+      "name": "KR: Killing Zan - 2018",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9YZkePtrSaAsL509v0mBwve2c7n.jpg"
+    },
+    {
+      "name": "KR: Kill Chain - 2019",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/bFfUDQkCh6Zxgs4qyVgVTuS2PXN.jpg"
+    },
+    {
+      "name": "KR: Justice League Dark (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mI3Oxpub6vNQ71FIR2GS4d8XXgj.jpg"
+    },
+    {
+      "name": "KR: Justice League (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eifGNCSDuxJeS1loAXil5bIGgvC.jpg"
+    },
+    {
+      "name": "KR: Jungle (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg"
+    },
+    {
+      "name": "KR: Jumanji: The Next Level (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg"
+    },
+    {
+      "name": "KR: Jumanji: Welcome to the Jungle (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg"
+    },
+    {
+      "name": "KR: John Wick: Chapter 3 - Parabellum (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"
+    },
+    {
+      "name": "KR: John Wick: Chapter 2 (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg"
+    },
+    {
+      "name": "KR: John Wick (2014)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg"
+    },
+    {
+      "name": "KR: Ip Man and Four Kings (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZjw44Rlkyqqekjy0ppk86T7XKT.jpg"
+    },
+    {
+      "name": "KR: Ip Man 4: The Finale (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg"
+    },
+    {
+      "name": "KR: I Am Vengeance: Retaliation (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fshqvFBihzipvA5l9hwHQVuZCNG.jpg"
+    },
+    {
+      "name": "KR: How to Train Your Dragon: The Hidden World (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+    },
+    {
+      "name": "KR: Hitman: Agent Jun (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAt3nolyXLEEuXiIXZwv1iikbcA.jpg"
+    },
+    {
+      "name": "KR: Hard Night Falling (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/shi9Fdv2noZXOkGZLjqMBSfbGVW.jpg"
+    },
+    {
+      "name": "KR: Greyhound (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjMbDciooTbJPofVXgAoFjfX8Of.jpg"
+    },
+    {
+      "name": "KR: VOd Kurdish- Godzilla: King of the Monsters - 2019",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "KR: Fury (2014)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg"
+    },
+    {
+      "name": "KR: Flu - 2013",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "KR: Fearless (2006)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKJ7rjIwOa8XvACELo9eV8IvMPb.jpg"
+    },
+    {
+      "name": "KR: Fast Five (2011)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDztZS30sheoqnJnKyO4QMnf3f8.jpg"
+    },
+    {
+      "name": "KR: Fast & Furious Presents: Hobbs & Shaw (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg"
+    },
+    {
+      "name": "KR: Fast & Furious 8 - 2017",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ueJOZdL66KD8An9HntIdxKHxx.jpg"
+    },
+    {
+      "name": "KR: Fast & Furious 6 (2013)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg"
+    },
+    {
+      "name": "KR: Extraction (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlfDxbGEsW58vGhFljKkcR5IxDj.jpg"
+    },
+    {
+      "name": "KR: Ender's Game (2013)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBgkQqrO2RMgGQR6zod3bSjcPWx.jpg"
+    },
+    {
+      "name": "KR: Elephant White (2011)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqriJWWisRhm5XapyuB40D1jqqA.jpg"
+    },
+    {
+      "name": "KR: Earth and Blood (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/23S0NEXXOMhhXhF566Pw5sx7hnZ.jpg"
+    },
+    {
+      "name": "KR: Dunkirk (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebSnODDg9lbsMIaWg2uAbjn7TO5.jpg"
+    },
+    {
+      "name": "KR: Dangal (2016)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg"
+    },
+    {
+      "name": "KR: Contagion (2011)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg"
+    },
+    {
+      "name": "KR: Catwoman (2004)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg"
+    },
+    {
+      "name": "KR: Bloodshot (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg"
+    },
+    {
+      "name": "KR: Blood: The Last Vampire (2009)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzuYpbdFkNYqnBdOvhWqZxhHa5C.jpg"
+    },
+    {
+      "name": "KR: Becky (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg"
+    },
+    {
+      "name": "KR: Batman v Superman: Dawn of Justice (2016)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UsK3grJvtQrtzEgqNlDljJW96w.jpg"
+    },
+    {
+      "name": "KR: Batman: Gotham by Gaslight (2018)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7souLi5zqQCnpZVghaXv0Wowi0y.jpg"
+    },
+    {
+      "name": "KR: Bad Boys for Life (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg"
+    },
+    {
+      "name": "KR: Bad Boys (1995)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg"
+    },
+    {
+      "name": "KR: Avengers: Infinity War (2018)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+    },
+    {
+      "name": "KR: Avengers: Endgame (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
+    },
+    {
+      "name": "KR: Ashfall (2019)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WzoEWgwsaPuUuu7XhInFV3YCxy.jpg"
+    },
+    {
+      "name": "KR: Aquaman (2018)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLPffWMhMj1l50ND3KchMjYoKmE.jpg"
+    },
+    {
+      "name": "KR: Alone We Fight (2018)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0QXD8zSxpBsyQSKN9mg5diYexV.jpg"
+    },
+    {
+      "name": "KR: 24 Hours to Live (2017)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0MXP33x1bq48TDC7IaNqQ8nxcc.jpg"
+    },
+    {
+      "name": "KR: Survive the Night (2020)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3YyfWhzqvYqdd8YV6eixFEZJ3X.jpg"
+    },
+    {
+      "name": "KR: Tom & Jerry (2021)",
+      "group": "KU - Kurdish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XZI9QZ7Pm3fVkigWJPbrXCMzjq.jpg"
+    }
+  ]
+}

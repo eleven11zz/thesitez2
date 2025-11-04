@@ -1,0 +1,1603 @@
+{
+  "package": "france",
+  "name": "Netflix Series (Multi-Lang)",
+  "groupIndex": 67,
+  "totalChannels": 319,
+  "channels": [
+    {
+      "name": "EN: The Boys S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S02 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S02 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S02 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S02 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S02 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S02 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S02 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S02 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S03 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S03 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S03 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S03 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S03 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S03 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S03 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S03 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S04 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S04 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S04 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S04 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S04 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S04 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: The Boys S04 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg"
+    },
+    {
+      "name": "EN: Halo S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S01 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S02 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S02 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S02 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S02 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S02 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S02 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S02 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Halo S02 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S01 E10",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S02 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S02 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S02 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S02 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S02 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S02 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S02 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S02 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S03 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S03 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S03 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S03 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S03 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S03 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S03 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S03 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Top Boy S03 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w154/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg"
+    },
+    {
+      "name": "EN: Live to 100: Secrets of the Blue Zones S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aI22aHKtFHQ5r6AVu0uf7q9UUAn.jpg"
+    },
+    {
+      "name": "EN: Live to 100: Secrets of the Blue Zones S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aI22aHKtFHQ5r6AVu0uf7q9UUAn.jpg"
+    },
+    {
+      "name": "EN: Live to 100: Secrets of the Blue Zones S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aI22aHKtFHQ5r6AVu0uf7q9UUAn.jpg"
+    },
+    {
+      "name": "EN: Live to 100: Secrets of the Blue Zones S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aI22aHKtFHQ5r6AVu0uf7q9UUAn.jpg"
+    },
+    {
+      "name": "EN: Painkiller S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg"
+    },
+    {
+      "name": "EN: Painkiller S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg"
+    },
+    {
+      "name": "EN: Painkiller S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg"
+    },
+    {
+      "name": "EN: Painkiller S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg"
+    },
+    {
+      "name": "EN: Painkiller S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg"
+    },
+    {
+      "name": "EN: Painkiller S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg"
+    },
+    {
+      "name": "EN: The Expanding Universe of Ashley Garcia S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU1MmE2OTItZTg3OC00NjVhLWJjY2ItMTY0NGI2NmUyMWNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "name": "EN: The Expanding Universe of Ashley Garcia S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU1MmE2OTItZTg3OC00NjVhLWJjY2ItMTY0NGI2NmUyMWNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "name": "EN: The Expanding Universe of Ashley Garcia S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU1MmE2OTItZTg3OC00NjVhLWJjY2ItMTY0NGI2NmUyMWNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "name": "EN: The Expanding Universe of Ashley Garcia S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU1MmE2OTItZTg3OC00NjVhLWJjY2ItMTY0NGI2NmUyMWNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "name": "EN: The Expanding Universe of Ashley Garcia S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU1MmE2OTItZTg3OC00NjVhLWJjY2ItMTY0NGI2NmUyMWNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "name": "EN: The Expanding Universe of Ashley Garcia S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU1MmE2OTItZTg3OC00NjVhLWJjY2ItMTY0NGI2NmUyMWNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "name": "EN: The Expanding Universe of Ashley Garcia S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU1MmE2OTItZTg3OC00NjVhLWJjY2ItMTY0NGI2NmUyMWNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "name": "EN: The Expanding Universe of Ashley Garcia S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU1MmE2OTItZTg3OC00NjVhLWJjY2ItMTY0NGI2NmUyMWNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S02 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S02 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S02 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S02 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S02 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S02 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S02 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: The Great Canadian Baking Show (CA) S02 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjc2MDUwMWYtYjM0Zi00MzExLTlmYjktZGRlOWY4Zjc2ZGM5XkEyXkFqcGdeQXVyMTEwMTQ0Njk3._V1_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S02 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S02 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S02 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S02 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S02 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S02 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Taco Chronicles (MX) S02 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZhZDRlMDgtYzExZS00ZmI3LTlmODktZTVhMTYzYTZmNzk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E10",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E11",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Samurai Gourmet HEVC S01 E12",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://4khdr.cn/data/attachment/forum/threadcover/da/a9/1472.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E10",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E11",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E12",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S01 E13",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S02 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S02 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S02 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S02 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S02 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S02 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S02 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S02 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S02 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S03 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S03 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S03 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S03 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S03 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S03 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S03 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S03 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S04 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S04 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S04 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S04 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S04 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S04 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S04 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Money Heist ( La Casa De Papel ) S04 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: jeffrey Epstein: Filthy Riche S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjk4YTEzMTYtZTUxYS00YTdlLTliZGMtYjRmMTYxMjQ0MDY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: jeffrey Epstein: Filthy Riche S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjk4YTEzMTYtZTUxYS00YTdlLTliZGMtYjRmMTYxMjQ0MDY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: jeffrey Epstein: Filthy Riche S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjk4YTEzMTYtZTUxYS00YTdlLTliZGMtYjRmMTYxMjQ0MDY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: jeffrey Epstein: Filthy Riche S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjk4YTEzMTYtZTUxYS00YTdlLTliZGMtYjRmMTYxMjQ0MDY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: Home S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiZjczMTktZGJmZC00MDExLWEyYjQtNjlhMTc5N2ZmZjVmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg"
+    },
+    {
+      "name": "EN: Home S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiZjczMTktZGJmZC00MDExLWEyYjQtNjlhMTc5N2ZmZjVmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg"
+    },
+    {
+      "name": "EN: Home S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiZjczMTktZGJmZC00MDExLWEyYjQtNjlhMTc5N2ZmZjVmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg"
+    },
+    {
+      "name": "EN: Home S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiZjczMTktZGJmZC00MDExLWEyYjQtNjlhMTc5N2ZmZjVmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg"
+    },
+    {
+      "name": "EN: Home S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiZjczMTktZGJmZC00MDExLWEyYjQtNjlhMTc5N2ZmZjVmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg"
+    },
+    {
+      "name": "EN: Home S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiZjczMTktZGJmZC00MDExLWEyYjQtNjlhMTc5N2ZmZjVmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg"
+    },
+    {
+      "name": "EN: Home S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiZjczMTktZGJmZC00MDExLWEyYjQtNjlhMTc5N2ZmZjVmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg"
+    },
+    {
+      "name": "EN: Home S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiZjczMTktZGJmZC00MDExLWEyYjQtNjlhMTc5N2ZmZjVmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg"
+    },
+    {
+      "name": "EN: Home S01 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiZjczMTktZGJmZC00MDExLWEyYjQtNjlhMTc5N2ZmZjVmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_.jpg"
+    },
+    {
+      "name": "EN: Hollywood 2020 S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTcxMDljNmItOTI1NS00NjZlLThhYWUtNDM1ZWQ4YjEzOGIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: Hollywood 2020 S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTcxMDljNmItOTI1NS00NjZlLThhYWUtNDM1ZWQ4YjEzOGIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: Hollywood 2020 S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTcxMDljNmItOTI1NS00NjZlLThhYWUtNDM1ZWQ4YjEzOGIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: Hollywood 2020 S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTcxMDljNmItOTI1NS00NjZlLThhYWUtNDM1ZWQ4YjEzOGIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: Hollywood 2020 S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTcxMDljNmItOTI1NS00NjZlLThhYWUtNDM1ZWQ4YjEzOGIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: Hollywood 2020 S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTcxMDljNmItOTI1NS00NjZlLThhYWUtNDM1ZWQ4YjEzOGIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: Hollywood 2020 S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTcxMDljNmItOTI1NS00NjZlLThhYWUtNDM1ZWQ4YjEzOGIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E10",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E11",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E12",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: If I were an Animal S01 E13",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://occ-0-2705-769.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUv0q86Cj6YkmORqdtM-HlDxabKI1Hzg7ff7gXGpIWA-C-KiE3QH-8bgNXwQlC9f3JPUi__coAhDOka6xaMrlIIRkXGl8055BI7K.jpg?r=5bb"
+    },
+    {
+      "name": "EN: Battlefields recovery S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUxMmFkZTYtNDQwOS00ZGRhLTkzZWEtMTU1OWY4MTMzMzNmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg"
+    },
+    {
+      "name": "EN: Battlefields recovery S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUxMmFkZTYtNDQwOS00ZGRhLTkzZWEtMTU1OWY4MTMzMzNmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg"
+    },
+    {
+      "name": "EN: Battlefields recovery S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUxMmFkZTYtNDQwOS00ZGRhLTkzZWEtMTU1OWY4MTMzMzNmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg"
+    },
+    {
+      "name": "EN: Battlefields recovery S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUxMmFkZTYtNDQwOS00ZGRhLTkzZWEtMTU1OWY4MTMzMzNmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg"
+    },
+    {
+      "name": "EN: 21 again S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://static.episodate.com/images/tv-show/full/64753.jpg"
+    },
+    {
+      "name": "EN: 21 again S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://static.episodate.com/images/tv-show/full/64753.jpg"
+    },
+    {
+      "name": "EN: 21 again S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://static.episodate.com/images/tv-show/full/64753.jpg"
+    },
+    {
+      "name": "EN: 21 again S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://static.episodate.com/images/tv-show/full/64753.jpg"
+    },
+    {
+      "name": "EN: Jupiter's Legacy S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg"
+    },
+    {
+      "name": "EN: Jupiter's Legacy S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg"
+    },
+    {
+      "name": "EN: Jupiter's Legacy S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg"
+    },
+    {
+      "name": "EN: Jupiter's Legacy S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg"
+    },
+    {
+      "name": "EN: Jupiter's Legacy S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg"
+    },
+    {
+      "name": "EN: Jupiter's Legacy S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg"
+    },
+    {
+      "name": "EN: Jupiter's Legacy S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg"
+    },
+    {
+      "name": "EN: Jupiter's Legacy S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg"
+    },
+    {
+      "name": "EN: Cracow Monsters S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBzkreVliFn18zFBjysanZnC3Yq.jpg"
+    },
+    {
+      "name": "EN: Cracow Monsters S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBzkreVliFn18zFBjysanZnC3Yq.jpg"
+    },
+    {
+      "name": "EN: Cracow Monsters S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBzkreVliFn18zFBjysanZnC3Yq.jpg"
+    },
+    {
+      "name": "EN: Cracow Monsters S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBzkreVliFn18zFBjysanZnC3Yq.jpg"
+    },
+    {
+      "name": "EN: Cracow Monsters S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBzkreVliFn18zFBjysanZnC3Yq.jpg"
+    },
+    {
+      "name": "EN: Cracow Monsters S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBzkreVliFn18zFBjysanZnC3Yq.jpg"
+    },
+    {
+      "name": "EN: Cracow Monsters S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBzkreVliFn18zFBjysanZnC3Yq.jpg"
+    },
+    {
+      "name": "EN: Cracow Monsters S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBzkreVliFn18zFBjysanZnC3Yq.jpg"
+    },
+    {
+      "name": "EN: Secrets of Summer S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://resizing.flixster.com/x1x2g__wbdN8_gMcSJvWBSUUIMg=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvZTM5NjA1YjMtOTcwMC00Y2Y1LWFkYmEtNGMyOGU5MjQ4NDczLmpwZw=="
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E10",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E11",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: Le Cuphead show S01 E12",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+    },
+    {
+      "name": "EN: The Guardians of Justice S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg"
+    },
+    {
+      "name": "EN: The Guardians of Justice S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg"
+    },
+    {
+      "name": "EN: The Guardians of Justice S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg"
+    },
+    {
+      "name": "EN: The Guardians of Justice S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg"
+    },
+    {
+      "name": "EN: The Guardians of Justice S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg"
+    },
+    {
+      "name": "EN: The Guardians of Justice S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg"
+    },
+    {
+      "name": "EN: The Guardians of Justice S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S02 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S02 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S02 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S02 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S02 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: An Astrological Guide for Broken Hearts S02 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9evrUJvsRsygxB6N2LRuRUXu7e.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S01 E10",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S02 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S02 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S02 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S02 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S02 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S02 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S02 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S02 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S03 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S03 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S03 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S03 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S03 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S03 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S03 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S04 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S04 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S04 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S04 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S04 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S04 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: The Protector S04 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoN4wJRzeaWBfuQDYPngJgN6y9t.jpg"
+    },
+    {
+      "name": "EN: Max Anger – With One Eye Open S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGbLbRguJODGOZuRa09NKWYWWzA.jpg"
+    },
+    {
+      "name": "EN: Max Anger – With One Eye Open S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGbLbRguJODGOZuRa09NKWYWWzA.jpg"
+    },
+    {
+      "name": "EN: Max Anger – With One Eye Open S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGbLbRguJODGOZuRa09NKWYWWzA.jpg"
+    },
+    {
+      "name": "EN: Max Anger – With One Eye Open S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGbLbRguJODGOZuRa09NKWYWWzA.jpg"
+    },
+    {
+      "name": "EN: Max Anger – With One Eye Open S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGbLbRguJODGOZuRa09NKWYWWzA.jpg"
+    },
+    {
+      "name": "EN: Max Anger – With One Eye Open S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGbLbRguJODGOZuRa09NKWYWWzA.jpg"
+    },
+    {
+      "name": "EN: Max Anger – With One Eye Open S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGbLbRguJODGOZuRa09NKWYWWzA.jpg"
+    },
+    {
+      "name": "EN: Max Anger – With One Eye Open S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGbLbRguJODGOZuRa09NKWYWWzA.jpg"
+    },
+    {
+      "name": "EN: PIECES OF HER S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+    },
+    {
+      "name": "EN: PIECES OF HER S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+    },
+    {
+      "name": "EN: PIECES OF HER S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+    },
+    {
+      "name": "EN: PIECES OF HER S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+    },
+    {
+      "name": "EN: PIECES OF HER S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+    },
+    {
+      "name": "EN: PIECES OF HER S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+    },
+    {
+      "name": "EN: PIECES OF HER S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+    },
+    {
+      "name": "EN: PIECES OF HER S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E01",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E02",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E03",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E04",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E05",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E06",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E07",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E08",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E09",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    },
+    {
+      "name": "EN: Juvenile Justice S01 E10",
+      "group": "Netflix Series (Multi-Lang)",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "package": "english",
+  "name": "UK - SHOPPING - Live.",
+  "groupIndex": 31,
+  "totalChannels": 3,
+  "channels": [
+    {
+      "name": "UK: QVC Beauty SD  (101-SERVERS)",
+      "group": "UK - SHOPPING - Live.",
+      "logo": "https://logo.m3uassets.com/qvcbeauty.png"
+    },
+    {
+      "name": "UK: QVC Extra SD  (101-SERVERS)",
+      "group": "UK - SHOPPING - Live.",
+      "logo": "https://logo.m3uassets.com/qvcextra.png"
+    },
+    {
+      "name": "UK: QVC Style SD  (101-SERVERS)",
+      "group": "UK - SHOPPING - Live.",
+      "logo": "https://logo.m3uassets.com/qvcstyle.png"
+    }
+  ]
+}

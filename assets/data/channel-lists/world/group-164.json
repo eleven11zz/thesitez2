@@ -1,0 +1,28 @@
+{
+  "package": "world",
+  "name": "QR - Qatar - Live.",
+  "groupIndex": 164,
+  "totalChannels": 4,
+  "channels": [
+    {
+      "name": "AR : Qatar| AL ARABY 2 FHD  (101-SERVERS)",
+      "group": "QR - Qatar - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a6e7100ede59ddfb03c7dede055236fa.png"
+    },
+    {
+      "name": "AR : Qatar| Al Jazeera Documentary  (101-SERVERS)",
+      "group": "QR - Qatar - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/5a17cf8f3d50b213515021be183c0150.png"
+    },
+    {
+      "name": "AR : Qatar| Al Jazeera Mubasher  (101-SERVERS)",
+      "group": "QR - Qatar - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c698a5e04fb6b127a4eb8bc6f5a45b51.png"
+    },
+    {
+      "name": "AR : Qatar| Qatar TV HD  (101-SERVERS)",
+      "group": "QR - Qatar - Live.",
+      "logo": "https://logo.m3uassets.com/tv.png"
+    }
+  ]
+}

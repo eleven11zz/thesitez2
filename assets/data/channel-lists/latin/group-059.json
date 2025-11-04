@@ -1,0 +1,4638 @@
+{
+  "package": "latin",
+  "name": "PT - 2020 - 2021 Portugal Movies",
+  "groupIndex": 59,
+  "totalChannels": 926,
+  "channels": [
+    {
+      "name": "PT: Ghosts of War (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBeL6pPUPo0wnyTmiuxPegcibPf.jpg"
+    },
+    {
+      "name": "PT: The Red Ghost (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbUfMyfmGJKio3PEn1EogxTh7Mg.jpg"
+    },
+    {
+      "name": "PT: Covid (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQy3SvU1Moq0MW9AnQmcUbMyUhl.jpg"
+    },
+    {
+      "name": "PT: Palma (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bo25fc9cIC25MekR6LLI1RaNPBi.jpg"
+    },
+    {
+      "name": "PT: O Filme do Bruno Aleixo (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kP4CHFLlfGa4R2ao8mxTv5FE2LF.jpg"
+    },
+    {
+      "name": "PT: Largo do Caldas (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/48opJY5xBuiAkrWSA6jzcpWLVXd.jpg"
+    },
+    {
+      "name": "PT: Bruno Nogueira: Depois do Medo (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIMul6guUkfhyXZVMCvRCqdSCMj.jpg"
+    },
+    {
+      "name": "PT: Alice (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWfmPUOLWrUXmQkYThDoKtV5LfG.jpg"
+    },
+    {
+      "name": "PT: Às Cegas (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UEqRremYl9cxCPAApYtvqRpcqW.jpg"
+    },
+    {
+      "name": "PT: Vozes (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gerJv1jffNWWyZFt6i9SehTsjSY.jpg"
+    },
+    {
+      "name": "PT: Você Deveria Ter Partido (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmgg6wuEUjcnDeTrq5dlupKObkH.jpg"
+    },
+    {
+      "name": "PT: Ursos Sem Curso: O Filme (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHpNW0DNaJKHEHo80rl4anr4fxs.jpg"
+    },
+    {
+      "name": "PT: Um de Nós (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg"
+    },
+    {
+      "name": "PT: Um Brinde ao Natal (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI8gJrsVVJ0i5c96KOMufKISUvw.jpg"
+    },
+    {
+      "name": "PT: Uma Sombra na Nuvem (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg"
+    },
+    {
+      "name": "PT: Uma Sereia em Paris (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLumn0yQu3TrHKazP40TDGYpNqi.jpg"
+    },
+    {
+      "name": "PT: Uma Invenção de Natal (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdqdvFt0AIwnX1spxVwaOOc9p4A.jpg"
+    },
+    {
+      "name": "PT: Tudo de Novo (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKJGKuAZtozaroTdlvVUrzcybxc.jpg"
+    },
+    {
+      "name": "PT: Trégua (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvXQ0Q0Tx4S8326yACe9GkZRsXm.jpg"
+    },
+    {
+      "name": "PT: Triggered (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/KvhqUA8EtywXYCHb9up4cnG5en.jpg"
+    },
+    {
+      "name": "PT: Todos os Meus Amigos Estão Mortos (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XuDY3jUDM5LU04xUNeqCWjzWLw.jpg"
+    },
+    {
+      "name": "PT: Time (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hchRmyJ2FIkJtoqALWScxGlwu5E.jpg"
+    },
+    {
+      "name": "PT: The Postcard Killings (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPOHjGttfXfPsqhhv6x0fv5rU1H.jpg"
+    },
+    {
+      "name": "PT: The Pale Door (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkAZb9jteax1XRnEFlCU9Oer1YJ.jpg"
+    },
+    {
+      "name": "PT: The Night They Knocked (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjlVJ8y62Sx34eXsugV4htv8wpQ.jpg"
+    },
+    {
+      "name": "PT: The Glorias (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bItFQ4QahfILGj9mA5uyJvAimeD.jpg"
+    },
+    {
+      "name": "PT: The Furnace (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iDH6tEiHkihWoQUQTOIhHvswSH.jpg"
+    },
+    {
+      "name": "PT: Tenho Medo Toureiro (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rr79BAaLLt6ElEGQx3IHkEhKiYR.jpg"
+    },
+    {
+      "name": "PT: Sérgio (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LzBpItheKPnyu0zRktaazl3LOt.jpg"
+    },
+    {
+      "name": "PT: Superinteligência (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKNx28UgB64nSEo5gMYOPJyzmTe.jpg"
+    },
+    {
+      "name": "PT: Strain 100 (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bf4ht5c5ujYbUgrIo526FL2dOB.jpg"
+    },
+    {
+      "name": "PT: Spycies: Agentes Selvagens (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRbKCQxQ6PF9GWMWknN3LVm9sCZ.jpg"
+    },
+    {
+      "name": "PT: Spell (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rjHhj1BAREc9zNFU8FheLJQdFf.jpg"
+    },
+    {
+      "name": "PT: Sozinha (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uM44zocn4f6Gm4lYFFgxpsZNX1.jpg"
+    },
+    {
+      "name": "PT: Sou Sua Mulher (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mGyY20q4tI4N7PPet2M2SZPJi3.jpg"
+    },
+    {
+      "name": "PT: Skylines (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg"
+    },
+    {
+      "name": "PT: Skull: A Máscara de Anhangá (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e22oVVRJKEfZWqGn5SVNVTIiC7v.jpg"
+    },
+    {
+      "name": "PT: Sincrônico (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGJfkoYhe1DJeUhhlYbAIKwHsnO.jpg"
+    },
+    {
+      "name": "PT: Simmer (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFssXETPfMg5q2UN8i9OTgdtZzy.jpg"
+    },
+    {
+      "name": "PT: Silenciadas (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VX7EHzdTzFFc7rUsBTITajHTwS.jpg"
+    },
+    {
+      "name": "PT: Sibéria (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSCjeSAkdrAyi3XDIrNWpMsH5oP.jpg"
+    },
+    {
+      "name": "PT: Sem Filhos (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNf9rBTIueuVERnU1E8koM8lqZM.jpg"
+    },
+    {
+      "name": "PT: Sem Conexão (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZKJnAoNh91UQoP04f0NSjXTgQT.jpg"
+    },
+    {
+      "name": "PT: Rosa e Momo (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SOSDhoJa31aCXYzOw7zWCoSAwU.jpg"
+    },
+    {
+      "name": "PT: Rosa Amarela (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LCmW7y8796PDKjMFEi8snYFIWQ.jpg"
+    },
+    {
+      "name": "PT: Ronda Noturna (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPaZ1bREHJI4At9IdBHnXMbOsd7.jpg"
+    },
+    {
+      "name": "PT: Rogue Warfare 3: A Morte de uma Nação (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqhHuc5iEsgrDynkM9qxuATHG9x.jpg"
+    },
+    {
+      "name": "PT: Rogue (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOw5JD8IlD546feZ6oxbIjvN66P.jpg"
+    },
+    {
+      "name": "PT: Relíquia Macabra (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg"
+    },
+    {
+      "name": "PT: Relatos do Mundo (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg"
+    },
+    {
+      "name": "PT: Ravers (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsKtz6gRNa0qv1br0n3UTo02ypw.jpg"
+    },
+    {
+      "name": "PT: Rams (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2WkyqJE2QiXkFPi8MZiYUiwbeL.jpg"
+    },
+    {
+      "name": "PT: Quando o Sol se Põe (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmVlOftBeALFWUvxSKlYQG9WTE7.jpg"
+    },
+    {
+      "name": "PT: Quando a Vida Acontece (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjhyXwf9sFnttNBNln9e3ugmFlQ.jpg"
+    },
+    {
+      "name": "PT: Pânico Abaixo de Zero (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3OYpJj03K1ezepvYVoDAcDoCFe.jpg"
+    },
+    {
+      "name": "PT: Psych 2: Lassie está de Volta (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0wb4v02VrqWICwmHhk7yrn7T4B.jpg"
+    },
+    {
+      "name": "PT: Procura-se (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiWtHzEnMlStSknYpG0vKP5K0gZ.jpg"
+    },
+    {
+      "name": "PT: Presente de Natal (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgnfHt8XnLagu2SvBQojlKaqcay.jpg"
+    },
+    {
+      "name": "PT: Por Lugares Incríveis (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhQ3s1kdq1rVzq3xQNcOzvhwzTG.jpg"
+    },
+    {
+      "name": "PT: Pesadelo nas Alturas (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uByCU9hH64U7TkLjikOuCWHLMs.jpg"
+    },
+    {
+      "name": "PT: Pequenos Grandes Heróis (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmAK09FfXhhav4q26YJx2Qu8iHl.jpg"
+    },
+    {
+      "name": "PT: Paydirt (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAGGV80ZO10YcmUJXK7YSBh1yvK.jpg"
+    },
+    {
+      "name": "PT: Para Todos os Garotos: P.S. Ainda Amo Você (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuEnmqQkp6lKkbMi4AAr0Yu3XOI.jpg"
+    },
+    {
+      "name": "PT: Palavras nas Paredes do Banheiro (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/83JorDqAqu05Ru5kAGw08oCaH7w.jpg"
+    },
+    {
+      "name": "PT: O Último Suspiro (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/234TutHbL9rTZI6gSJbPbXiFzbH.jpg"
+    },
+    {
+      "name": "PT: O Último Nível (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QjaS6M5oR0tg9almf7odQW4Vi7.jpg"
+    },
+    {
+      "name": "PT: O X do Natal (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg"
+    },
+    {
+      "name": "PT: Outro Round (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/df9v922pf2qzsjo8Hze6LsXM9wx.jpg"
+    },
+    {
+      "name": "PT: O Som do Silêncio (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVHgv6leYDCKrW4bdzA77NlMXXM.jpg"
+    },
+    {
+      "name": "PT: Os Intrusos (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLuIH5Mkl9OBefhNC1NtJRTDb1H.jpg"
+    },
+    {
+      "name": "PT: O Silenciamento (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyeeMR4C0UEnspf2zwz5X0Z0dK.jpg"
+    },
+    {
+      "name": "PT: Os Croods 2: Uma Nova Era (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2YpOR3HiWaTtaqRLnGMNSjvgCE.jpg"
+    },
+    {
+      "name": "PT: O Santo Desconhecido (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRZlSz4gvTjhk3gxsOUUcPZCp1D.jpg"
+    },
+    {
+      "name": "PT: O Ritmo da Selva: O Filme (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rEiUz4ZiH1ZpXiT45kCOBu0gOw.jpg"
+    },
+    {
+      "name": "PT: Original Gangster (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rYaAtAfKkXhgx4FAepplAidZIV.jpg"
+    },
+    {
+      "name": "PT: O Refúgio (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSTrRgXGzu2t1jVhTexIqwSHlk7.jpg"
+    },
+    {
+      "name": "PT: O Rebanho (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZZeSKqhbteQ7lDZnse9DmpIQDC.jpg"
+    },
+    {
+      "name": "PT: O Protocolo de Auschwitz (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTvodu8Jqq8C5uiEXbsFmto4GJI.jpg"
+    },
+    {
+      "name": "PT: O Presente (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3NRyNbIozvKndtKRSZLTn3sjVl.jpg"
+    },
+    {
+      "name": "PT: O Mistério de Block Island (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9m1iWhDtZHfvmQb7lwTe8AERpW.jpg"
+    },
+    {
+      "name": "PT: O Mensageiro do Último Dia (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tjlM3bEiQODqdMFmz9U1utIqPw.jpg"
+    },
+    {
+      "name": "PT: O Legionário (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wstr4JUXrNKxOShC8203odHohu0.jpg"
+    },
+    {
+      "name": "PT: O Céu da Meia-Noite (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgWWLoRyWvE5s6rrKgAIf2a0pni.jpg"
+    },
+    {
+      "name": "PT: O Cemitério das Almas Perdidas (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziXXbtWaPuEE50kxT34exku7dyH.jpg"
+    },
+    {
+      "name": "PT: O Atirador: O Fim de um Assassino (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6joFIShgkQ40Tti3DagEbdvHwp.jpg"
+    },
+    {
+      "name": "PT: O Ataque dos Vermes Malditos 7 (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg"
+    },
+    {
+      "name": "PT: O Amor de Sylvie (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qf3ReJWoO721NJ8nj5KioE7fQpP.jpg"
+    },
+    {
+      "name": "PT: O 3º Andar: Terror na Rua Malasana (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E30oSGrE7JOFBLZdhfJzCZ12Sg.jpg"
+    },
+    {
+      "name": "PT: Não-Conformista (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiG1YwNax0oTmNpbkdexY5rOBW7.jpg"
+    },
+    {
+      "name": "PT: Notturno (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncvrZmFYoLdl9xWnGRNFK5iCg1K.jpg"
+    },
+    {
+      "name": "PT: No Place (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHMrbI0sfq0vBy7N5ZBiYfqO2Qs.jpg"
+    },
+    {
+      "name": "PT: Noite no Paraíso (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIv5gxbSnNt9VfXy58APhUukp6E.jpg"
+    },
+    {
+      "name": "PT: Narciso e Goldmund (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFVKF1xDTkqgKlV1d6ZuM8cujfe.jpg"
+    },
+    {
+      "name": "PT: Nadando pelo Ouro (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/e28367eef13af300cd355a792d9fdc6e.jpg"
+    },
+    {
+      "name": "PT: Mulheres Ocultas (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tENTyZkCoCnFfUmgxlMZLcX1gBT.jpg"
+    },
+    {
+      "name": "PT: Mortal (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg"
+    },
+    {
+      "name": "PT: Monstros do Homem (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoYHGazS5wLQFJe7tqZ39M8dA7Q.jpg"
+    },
+    {
+      "name": "PT: Minha Querida Nora (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTNI66alw3kkOdwHMyDSbpc7J5f.jpg"
+    },
+    {
+      "name": "PT: Meu Eterno Primeiro Amor (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7N2cST1tBJVH4iU3ns67zq8PuV.jpg"
+    },
+    {
+      "name": "PT: Menéndez: El día del Señor (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsQT8B6T7Ot1XJQlj6LxrZ7HjEK.jpg"
+    },
+    {
+      "name": "PT: Max Winslow and The House of Secrets (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPF67nMClP8ZUIvHhaOZe5F0V9K.jpg"
+    },
+    {
+      "name": "PT: Mais Outro Filho (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZwjYbCvYPbDzkcv1SLGcqGGSsF.jpg"
+    },
+    {
+      "name": "PT: Ludo (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBykbWgWWBlIHIIIyEmzIvvESq5.jpg"
+    },
+    {
+      "name": "PT: Loco (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DMFFdPfagw8DzH2Nx3RblhlrW1.jpg"
+    },
+    {
+      "name": "PT: Let Them All Talk (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg"
+    },
+    {
+      "name": "PT: Legado Explosivo (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3mj67aq6SsaDxV7il1KrDRvIXL.jpg"
+    },
+    {
+      "name": "PT: Last Three Days (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oBEz3oG5yJ6BxRShXcS3F44bmp.jpg"
+    },
+    {
+      "name": "PT: La nuée (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3yVHGtvnGTPMdGLrcOhFxXPRD7.jpg"
+    },
+    {
+      "name": "PT: Lady of Guadalupe (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/itIjhwzELVcfIIrSKuon9iKtdFY.jpg"
+    },
+    {
+      "name": "PT: Killer Secrets in the Snow (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpmrqP4ClGJCZMJMa6LJ1ugl7Rx.jpg"
+    },
+    {
+      "name": "PT: Jovens Bruxas: Nova Irmandade (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPlE2NIOGtNzmNCMRWNI4MnGpGL.jpg"
+    },
+    {
+      "name": "PT: Irresistível (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv258c25YeGVLFC3cFH5kVYJGMa.jpg"
+    },
+    {
+      "name": "PT: Horizon Line (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg"
+    },
+    {
+      "name": "PT: Guerra de Algodão (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvbXJHfxXDdEHIXWebVOysqRJ7J.jpg"
+    },
+    {
+      "name": "PT: Girl's Revenge (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bD19R4n7Vjdc3uT0OWiJwpuLgV.jpg"
+    },
+    {
+      "name": "PT: Get Luke Lowe (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkvY2zdxQeFdGaNKXySrFtC93Zp.jpg"
+    },
+    {
+      "name": "PT: Friendsgiving (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9CGTv4AFmrVkgoydnYFwXPaxGx.jpg"
+    },
+    {
+      "name": "PT: Freaky: No Corpo de um Assassino (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BiwIsZkGB40jEcgxPiCv2d1eAh.jpg"
+    },
+    {
+      "name": "PT: Fatale (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg"
+    },
+    {
+      "name": "PT: Fada Madrinha (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NGfIT0w5twxgkvSTA7lQpW2K14.jpg"
+    },
+    {
+      "name": "PT: Exil (2020) Legendado",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLG8sjMqhcuXLyry0vB4cBGeCG2.jpg"
+    },
+    {
+      "name": "PT: Eu Me Importo (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejMx7Hzh6FkG6BVWRpGYUMONlO2.jpg"
+    },
+    {
+      "name": "PT: Estranho Passageiro - Sputnik (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBi5xW9Rd0YoGB0aAggV0EN5LDP.jpg"
+    },
+    {
+      "name": "PT: Espontânea (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZffUR7JjVosp72AQOl8R3o1fB.jpg"
+    },
+    {
+      "name": "PT: Espada de Deus - A Última Cruzada (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sasYy2Hl5uplpT7jwQflFDANZXm.jpg"
+    },
+    {
+      "name": "PT: Entre Armas e Brinquedos (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WhAfI9GIgrOF4rasrtmvWOrjnX.jpg"
+    },
+    {
+      "name": "PT: Enforcados (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74MuudAjlX4gpQLnIhH35lAbx4q.jpg"
+    },
+    {
+      "name": "PT: Emicida: AmarElo - É Tudo Pra Ontem (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac23UNPF7aNpxCRGdx9Aqfg4jsU.jpg"
+    },
+    {
+      "name": "PT: Em Guerra com o Vovô (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg"
+    },
+    {
+      "name": "PT: Em Busca da Fama (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsC7KMIRVCyCfDhogZm8Ovg9war.jpg"
+    },
+    {
+      "name": "PT: Elysium (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEkaQgAjhwQi2xIrRCRA3cdWOoA.jpg"
+    },
+    {
+      "name": "PT: Elementa (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbtaPJo8v3fko2oXUwTNcVpWe6Z.jpg"
+    },
+    {
+      "name": "PT: Ela Morre Amanhã (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpTcJeKdUdmZl2j6q93LOTBaoVt.jpg"
+    },
+    {
+      "name": "PT: Duelo no Asfalto (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7QZdgQpyelhlehIyT6fiwSblAl.jpg"
+    },
+    {
+      "name": "PT: Dois Estranhos (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZRncL9WLV0aLOG4WKvML4Ljoq0.jpg"
+    },
+    {
+      "name": "PT: Diga-me Quando (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/brrueWMNGQjz2sFXS2RXPa2frUf.jpg"
+    },
+    {
+      "name": "PT: Difícil de Matar (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aohWBXqvFv69yhtASWQxncn7auU.jpg"
+    },
+    {
+      "name": "PT: Destruição Final: O Último Refúgio (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJecw4UYpvTgKE2zS9le44Nwuag.jpg"
+    },
+    {
+      "name": "PT: Depois a Louca Sou Eu (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iASQXlZqZfERdwTnBxIRpfgKrsO.jpg"
+    },
+    {
+      "name": "PT: Dente por Dente (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p2juLXBvn2SJHFZozbzjMXNcXH.jpg"
+    },
+    {
+      "name": "PT: De Gaulle (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfxs2YnuuLR037Ad4wesW5O9oUW.jpg"
+    },
+    {
+      "name": "PT: Colective (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sExEEdF3qSCoITqtLMhHjXdLhu9.jpg"
+    },
+    {
+      "name": "PT: Clownery (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CbeEC1m7J4IDJIo0sFQYOhDFuf.jpg"
+    },
+    {
+      "name": "PT: Cidade da Garganta Cortada (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2Dcje3NkmySevZo5hVCfPaxqdL.jpg"
+    },
+    {
+      "name": "PT: Capital Humano (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7357OJlUUKs936Ur6HfQ4vvMMJ.jpg"
+    },
+    {
+      "name": "PT: Buladó (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJwe9zrwhFC0mPOa5oS3cH9fZ2Z.jpg"
+    },
+    {
+      "name": "PT: Built to Kill (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cYiiWQZjXY1yQKpSxI3ywM1qS5.jpg"
+    },
+    {
+      "name": "PT: Brothers by Blood (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qepQ8YdsJYx2m47qdfGlnOUQyOO.jpg"
+    },
+    {
+      "name": "PT: Bronx (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSpm2mMbkd0hLTRWBz0zolnLAyK.jpg"
+    },
+    {
+      "name": "PT: Bright Hill Road (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UeDDhmyePPcApb7bidRQRdmBcy.jpg"
+    },
+    {
+      "name": "PT: Bride to Be (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKS4vhLysBWOUKd0G3YvtaJmLp3.jpg"
+    },
+    {
+      "name": "PT: Brahms: Boneco do Mal II (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9WA3biUqXVUU4snaB2f6O24F01.jpg"
+    },
+    {
+      "name": "PT: Bloody Hell (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9xcYfPZ19qAeJf0RmPnWf7pgAQ.jpg"
+    },
+    {
+      "name": "PT: Bloodshot (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg"
+    },
+    {
+      "name": "PT: Block Z (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qw2naQOCBLQdcExyk4T4FslsRI.jpg"
+    },
+    {
+      "name": "PT: Blithe Spirit (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/54UVKPHzT8ymwj20YZScKLHaXG6.jpg"
+    },
+    {
+      "name": "PT: Ben 10 Contra o Universo: O Filme (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWSPQSIZqc38SYRCvbIU0j5HFqj.jpg"
+    },
+    {
+      "name": "PT: Belsen: Our Story (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y94DIUozuQjiUn776zxQx4lk3ST.jpg"
+    },
+    {
+      "name": "PT: Becoming (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0vo1yoEVlbpJ0Fkn0FgU7dTrO8.jpg"
+    },
+    {
+      "name": "PT: Becky (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg"
+    },
+    {
+      "name": "PT: BadLand (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ki1NxQ1dda7qC3BcWMNzZHhhmmb.jpg"
+    },
+    {
+      "name": "PT: A Última Nota (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyuW6OVIvRhHClAdGkdycc7uis7.jpg"
+    },
+    {
+      "name": "PT: A Última Coisa que Ele Queria (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wulTQYc4Ac970mwf5F5ewhNSBtE.jpg"
+    },
+    {
+      "name": "PT: A Voz Suprema do Blues (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvtyxijaBrCSbByXLcUIDDSvc40.jpg"
+    },
+    {
+      "name": "PT: A Vida Gira (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOIb7faqFhXJwvG5jPO0yT3KkzK.jpg"
+    },
+    {
+      "name": "PT: The Journey (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/flvrFmKQrjbOCguhBu8sEpVJmBF.jpg"
+    },
+    {
+      "name": "PT: A Verdadeira História de Ned Kelly (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y30AxTVrQUVKlokjz1TR0m5ISoY.jpg"
+    },
+    {
+      "name": "PT: A Terra e o Sangue (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/076eb0964521e6f43cc76c4153b17bbd.jpg"
+    },
+    {
+      "name": "PT: Arthur & Merlin: Cavaleiros de Camelot (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/chGTXsvn53XvEnvsJ9ZD9eiYKx9.jpg"
+    },
+    {
+      "name": "PT: Army of One (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxv6yHSNTGaf7aqwF1XdLVNpvpB.jpg"
+    },
+    {
+      "name": "PT: Archive (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tjGwi7Y8Pji1WYKCnvdWuhQz1u.jpg"
+    },
+    {
+      "name": "PT: A Química que Há Entre Nós (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPoC069DhfbLHvjuSTLR60D0Sxq.jpg"
+    },
+    {
+      "name": "PT: A Princesa e a Plebeia: Nova Aventura (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PdBXLcLb75cHtdxd7EVo8fL60h.jpg"
+    },
+    {
+      "name": "PT: The Quarry (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sxN5XRWPXes5gg2E9sGRTkhMAb.jpg"
+    },
+    {
+      "name": "PT: Apanhador de Pesadelos (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/6c507982f2f0af64af78172c7f6c5bd8.jpg"
+    },
+    {
+      "name": "PT: Anything for Jackson (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W4jCXl5sznY5hlVzNTwNV4AoIW.jpg"
+    },
+    {
+      "name": "PT: Anelka - O incompreendido (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6mk7JtdWu2cUZV7vk6VN7cJNen.jpg"
+    },
+    {
+      "name": "PT: Android Uprising (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCAlqIsVL1abQWoFJaDvdeXfIOx.jpg"
+    },
+    {
+      "name": "PT: Ana (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYHxq8yNLTr7LZP2wBjpMPkW6EV.jpg"
+    },
+    {
+      "name": "PT: Amor e Monstros (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnz5wRqeYKlugGbC7RZxC7DAiED.jpg"
+    },
+    {
+      "name": "PT: A Monster Calls (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9jExeposLC8vFfSMuxaXKvGVhE.jpg"
+    },
+    {
+      "name": "PT: Amigos de Escola (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIjLHakcvsKtll8Bpos1U6AxlaB.jpg"
+    },
+    {
+      "name": "PT: American Pie Apresenta: Meninas ao Ataque (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/crsZiahK0iAUvofxdN3yvHAULtS.jpg"
+    },
+    {
+      "name": "PT: A Menininha (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSmvE4dceUUo6hHC2v533M3k2Vs.jpg"
+    },
+    {
+      "name": "PT: Underwater (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg"
+    },
+    {
+      "name": "PT: The Devil's Mark (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtfkfJQ4fYAZnf6ziFR9ZfVjmEk.jpg"
+    },
+    {
+      "name": "PT: Além das Montanhas (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMW81htT6Kki8x0G4UNb7l48iIr.jpg"
+    },
+    {
+      "name": "PT: Always and Forever (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSYahzzFP7od6mFegr64V0aGoYr.jpg"
+    },
+    {
+      "name": "PT: Alvo Número Um (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLBW854UbuYqTx5CjlUr0FzkCKq.jpg"
+    },
+    {
+      "name": "PT: Rising High (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6r83qslpsERzHzCroFSp6X4eUse.jpg"
+    },
+    {
+      "name": "PT: Altered Carbon: Nova Capa (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/98d3b037925327f8ab3f24102d6c4e77.jpg"
+    },
+    {
+      "name": "PT: Alma de Cowboy (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OBNEWwkFhsArvWJwgeL9BFmU7c.jpg"
+    },
+    {
+      "name": "PT: A Lição de Moremi (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/auvHe4GYaREmx43DwDlq2bA9z5t.jpg"
+    },
+    {
+      "name": "PT: A Ligação (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pytXGwLsP07ngaFJM94Md3Q9SIl.jpg"
+    },
+    {
+      "name": "PT: AK-47: A Arma que Mudou o Mundo (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4djODIhP8TZtjkG6w2xZjOuLk6.jpg"
+    },
+    {
+      "name": "PT: The Main Event (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzg5AEEu1T7nFOCq4gKbGBObhdk.jpg"
+    },
+    {
+      "name": "PT: Agentes Vanguard (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMXRTTMiEsvSFqhRuoeZXKcl3QP.jpg"
+    },
+    {
+      "name": "PT: A Fera (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/akuPc5iMWToEZG4OGZ9coZlIpU7.jpg"
+    },
+    {
+      "name": "PT: A Discussão (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/f30e6829b87622a97a7331a01446439d.jpg"
+    },
+    {
+      "name": "PT: Friends Who Kill (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZUt5cXj8Y7IJb5GlDUnZ1xgd5t.jpg"
+    },
+    {
+      "name": "PT: Beneath Us (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqo4lQ5n0hGSdztBLURleHUDnmu.jpg"
+    },
+    {
+      "name": "PT: A Arte de Ser Adulto (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IZ7QZzC41M7N7LDOcZSUwsNzCL.jpg"
+    },
+    {
+      "name": "PT: 2067 (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg"
+    },
+    {
+      "name": "PT: 10 Horas Para o Natal (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQF84E6xXSPur1gEbyKJ2P1BECp.jpg"
+    },
+    {
+      "name": "PT: #SemSaída (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUCIj47O9v5zktS81hRWktUVnSR.jpg"
+    },
+    {
+      "name": "PT: The Catholic School (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WTTXAtuyQY93oe1yetWYMGbO7K.jpg"
+    },
+    {
+      "name": "PT: Jujutsu Kaisen 0 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg"
+    },
+    {
+      "name": "PT: Supercool (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://gein.detvz.us/base_img/746d993701a5248f5167d17779425d1d.png"
+    },
+    {
+      "name": "PT: Alter Ego (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kdSYTjj6n4OGm2XwKhAGBL2udG.jpg"
+    },
+    {
+      "name": "PT: Shapeless (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVqYcicseNaQC74cb299eDoaEH3.jpg"
+    },
+    {
+      "name": "PT: Causalidad (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqPTx3z2RVOvrIO3aJYO7avSavC.jpg"
+    },
+    {
+      "name": "PT: Madalena (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m30NF8KVZV7ycHPSgLgYFmY8nnx.jpg"
+    },
+    {
+      "name": "PT: American Underdog (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3iXpvLPG4DbmuNY9yPjn1Ei54.jpg"
+    },
+    {
+      "name": "PT: My Best Friend Anne Frank (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6codIHEKVYwbQ9Ey6CNoqWA9yxD.jpg"
+    },
+    {
+      "name": "PT: Fast Vengeance (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EFF6BCZkM8az2OVEzgVHmkXPZ8.jpg"
+    },
+    {
+      "name": "PT: Double Walker (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA8XJuMIHf9AVbfKhh3KA1hmJZ7.jpg"
+    },
+    {
+      "name": "PT: House of Gucci (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHla3Ej2m53rNmvmYkzvennLrKn.jpg"
+    },
+    {
+      "name": "PT: Nightmare Alley (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/680klE0dIreQQOyWKFgNnCAJtws.jpg"
+    },
+    {
+      "name": "PT: Honeydew (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpeYbbwNquR2NbyvMepb20FA3J.jpg"
+    },
+    {
+      "name": "PT: Grace and Grit (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/49z8Ck6SPcJuuqbkLctDVlAutzG.jpg"
+    },
+    {
+      "name": "PT: Twice Bitten (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tMXZpxt4Ya88JnZ8QhLKHv0UYH.jpg"
+    },
+    {
+      "name": "PT: Triumph (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Y7R1mFvP1fLjlIZUA9W5z5Ekkr.jpg"
+    },
+    {
+      "name": "PT: The Fallout (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y94auaBWq1E7sun3ZpvBmQfGUW.jpg"
+    },
+    {
+      "name": "PT: Martyrs Lane (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2p9ATFUEiXT75LmMsSCBicnpX8e.jpg"
+    },
+    {
+      "name": "PT: Liborio (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wNIveqeHvKvqn7sUrbG9JCzI4J.jpg"
+    },
+    {
+      "name": "PT: Clean (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg"
+    },
+    {
+      "name": "PT: Beckenrand Sheriff (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/knYcXhKLLIP6GtyuvcZxLp59P8a.jpg"
+    },
+    {
+      "name": "PT: Demigod (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dna0ehMy8WgWB8hHfhn4KTN68GU.jpg"
+    },
+    {
+      "name": "PT: Pleasure (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7nsixJ7SeJG2Pmd3W19EbfdRPe.jpg"
+    },
+    {
+      "name": "PT: Death of a Telemarketer (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/shp21GCcILK1Y4O5YJ8p76ae62m.jpg"
+    },
+    {
+      "name": "PT: The Dog Who Wouldn't Be Quiet (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoOA7dwSTx02KgN6V0S1sUlDMeC.jpg"
+    },
+    {
+      "name": "PT: Aftermath (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbhxqeDIgeX36x5jmOvl5OP2MCv.jpg"
+    },
+    {
+      "name": "PT: The Last Thing Mary Saw (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mA6Vztb6ZkcQq8GiOpePWqQGMDy.jpg"
+    },
+    {
+      "name": "PT: A Hero (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VBPRWW13OJoiLA6suLofnjLKou.jpg"
+    },
+    {
+      "name": "PT: This Is Not a Comedy (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IEMKTCbD5euj7De0S0cB4FsMp3.jpg"
+    },
+    {
+      "name": "PT: A Journal for Jordan (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkZB0HbADmyVuQyd5SpncK8INXJ.jpg"
+    },
+    {
+      "name": "PT: The Free Fall (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6p7Nu2XgnpJbGcZz9pxby6yXKjC.jpg"
+    },
+    {
+      "name": "PT: Bingo Hell (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/86VKuiaox9eVJTETel0ld7XZtiO.jpg"
+    },
+    {
+      "name": "PT: Show Me the Father (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/liY0bG6AX4fbGrusDcMO9PcKMlt.jpg"
+    },
+    {
+      "name": "PT: Unclenching the Fists (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGCnb5wKHuhtc0ndtGMD5ZlEaf7.jpg"
+    },
+    {
+      "name": "PT: Don't Read This on a Plane (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocGkD1JICiclj87ota0CrDCOKQV.jpg"
+    },
+    {
+      "name": "PT: Wild Indian (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhOpkNvgW1ZzmEpR4iqxKwKKShL.jpg"
+    },
+    {
+      "name": "PT: Photocopier (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjNNm0eZKNZ40Fqlc9QewDxy0by.jpg"
+    },
+    {
+      "name": "PT: The Tragedy of Macbeth (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWnDaPkOe0ISpkDgwnfidQoMfX2.jpg"
+    },
+    {
+      "name": "PT: Memoria (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBjOSThtAghVTY6Bv9qiU89AKTI.jpg"
+    },
+    {
+      "name": "PT: Senior Moment (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JNDLdLXMoM9cKmMsKsMyN2JXYQ.jpg"
+    },
+    {
+      "name": "PT: Chilangolandia (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNObb3Q1P2yO2Z14bs6AXx0cWVy.jpg"
+    },
+    {
+      "name": "PT: Another Us (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZoTYIPNbkWJTKCvYjyMvh29lvb.jpg"
+    },
+    {
+      "name": "PT: Pharma Bro (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqXYXxPKNm1PYT60YtXdb91BHYd.jpg"
+    },
+    {
+      "name": "PT: Wrong Place, Wrong Time (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WGas7DgM54ZfokeO87N3kj2bbW.jpg"
+    },
+    {
+      "name": "PT: HellKat (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs8sv4M0sdJWwbedlq9XvCPFKXs.jpg"
+    },
+    {
+      "name": "PT: Queen of Spades (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IKBzVBPLXu9p5cfEfdJjHdlafV.jpg"
+    },
+    {
+      "name": "PT: France (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXUyiSJmIFpNKmKBD1UWiaUtfBe.jpg"
+    },
+    {
+      "name": "PT: Alien: Battlefield Earth (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBl7jUR6U55q9p7EWibTkdWv8Gh.jpg"
+    },
+    {
+      "name": "PT: The Girl Who Believes in Miracles (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBhM7HadGVfVyUp7UaEsutCEtYu.jpg"
+    },
+    {
+      "name": "PT: The Tender Bar (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6Ej3F4tYTOHD26fvX1zN9bcEUg.jpg"
+    },
+    {
+      "name": "PT: Chief Daddy 2: Going for Broke (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCOhpT4thaUTPbBvFKYibgpNnCy.jpg"
+    },
+    {
+      "name": "PT: Lewis Hamilton: The Winning Formula (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK34IhARmZxk3fMNTOoEyIEoiu7.jpg"
+    },
+    {
+      "name": "PT: A Mouthful of Air (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuBA3LxAwlzo1a90PHredvnPfRg.jpg"
+    },
+    {
+      "name": "PT: Aileen Wuornos: American Boogeywoman (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg"
+    },
+    {
+      "name": "PT: Last of the Grads (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZODMniauJYft0a08lesWHW0Om.jpg"
+    },
+    {
+      "name": "PT: Amityville in the Hood (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnOMRCOaqVTesGf8g696CexzMVi.jpg"
+    },
+    {
+      "name": "PT: The Kindred (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/99PE8haWB7nLky627wJBsWn2awJ.jpg"
+    },
+    {
+      "name": "PT: The Lost Daughter (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg"
+    },
+    {
+      "name": "PT: Silent Hours (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaz7LlPq92tm4eCquZg1c3P68YL.jpg"
+    },
+    {
+      "name": "PT: Lulli (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztJHKv6KSSgCTWAI2STrX2BeuJZ.jpg"
+    },
+    {
+      "name": "PT: Ma Belle, My Beauty (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDzviPNdIZi14zITKU8G0Xz808K.jpg"
+    },
+    {
+      "name": "PT: The Gardener (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoDmFPBCfVHwTmao6MxbXWYrX4w.jpg"
+    },
+    {
+      "name": "PT: Nitram (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9dGkbHpSM254QhoLNxetvszcHa.jpg"
+    },
+    {
+      "name": "PT: National Champions (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRj82OOTJ8bmtUJDap9tNnswF0N.jpg"
+    },
+    {
+      "name": "PT: Mass (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5NjOofdHeb6VX8U4xJHq8dfNOI.jpg"
+    },
+    {
+      "name": "PT: Last Looks (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ud0XdA2xAghDR66j3I84DnNlC2g.jpg"
+    },
+    {
+      "name": "PT: Jekyll and Hyde (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzTD4C46iytPef0ebCFbZyZFvK8.jpg"
+    },
+    {
+      "name": "PT: Prisoners of the Ghostland (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg"
+    },
+    {
+      "name": "PT: I Was a Simple Man (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VJm2nFW7vFXOZx6ZllmpwZtb9C.jpg"
+    },
+    {
+      "name": "PT: Dear Evan Hansen (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/83pobg0tx4r4JeLenCAemanpnS2.jpg"
+    },
+    {
+      "name": "PT: Fortress (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQxtoPJVfpHgL7DCg9hQFZKDWJa.jpg"
+    },
+    {
+      "name": "PT: Warning (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY0JZLUiGEmuRLvXATisHM3tw1f.jpg"
+    },
+    {
+      "name": "PT: Annette (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FTnypxpGltJdIARrfFsP31pGTp.jpg"
+    },
+    {
+      "name": "PT: Being the Ricardos (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oztBLWdRk5gApYmNdADXvXkLT5m.jpg"
+    },
+    {
+      "name": "PT: Ted Bundy: American Boogeyman (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MGcMWgxYPFrBMjIAHcQqmsOIGS.jpg"
+    },
+    {
+      "name": "PT: Don't Look Up (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
+    },
+    {
+      "name": "PT: The Cleaner (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsLKVgUhQZS3o9hcZd3RLbfkdUb.jpg"
+    },
+    {
+      "name": "PT: Yearly Departed (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdkqw6MjQm5do0qE9utsWQWPY9p.jpg"
+    },
+    {
+      "name": "PT: C'mon C'mon (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hROb7nFIM3cnk28J0jk4rFBXGQ9.jpg"
+    },
+    {
+      "name": "PT: Secretly Santa (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1I76tYHSBZNBtgATJxbwTWxBsyn.jpg"
+    },
+    {
+      "name": "PT: The Matrix Resurrections (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg"
+    },
+    {
+      "name": "PT: True to the Game 3 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdkmO1feRH5gewP9vAw27Ax2tyY.jpg"
+    },
+    {
+      "name": "PT: Toying with the Holidays (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ns4y5FWDxZhmXlou9Ixq0MLlP1.jpg"
+    },
+    {
+      "name": "PT: The Holiday Fix Up (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gErljGRKSUeedJw8mJPndGdIGi7.jpg"
+    },
+    {
+      "name": "PT: Mistletoe in Montana (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHmIz1gyh43kUub2arnZTQQ3aWF.jpg"
+    },
+    {
+      "name": "PT: Last Train to Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg"
+    },
+    {
+      "name": "PT: Kirk Franklin's A Gospel Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XXjFTYOr4wtH1roxZtMjwmepC9.jpg"
+    },
+    {
+      "name": "PT: Holiday in Santa Fe (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHkMQtYNIRPAN3SaGxTd7lLKr35.jpg"
+    },
+    {
+      "name": "PT: Ghosts of Christmas Past (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BJblzoLd7Gpb3Y98nEhz34UWfd.jpg"
+    },
+    {
+      "name": "PT: Blending Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/45aEUufsZm7YyBD3lBIpCYDNKJh.jpg"
+    },
+    {
+      "name": "PT: A Fiancé for Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcCyB7ZfMvcI8H9ZMxDmIkQWVNH.jpg"
+    },
+    {
+      "name": "PT: Resident Evil: Welcome to Raccoon City (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg"
+    },
+    {
+      "name": "PT: The First Wave (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLUeiYTLwLiwY0wreEeoU4qaU89.jpg"
+    },
+    {
+      "name": "PT: Christmas Is Canceled (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Vivy2G7Kx8duhN35eUG74B8JXK.jpg"
+    },
+    {
+      "name": "PT: The Boathouse (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8h5G6kIHuzmudZMXGC8NxfMaA3n.jpg"
+    },
+    {
+      "name": "PT: O Ídolo (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHcsGS1F7ClNF1jjITsWY8RUUwQ.jpg"
+    },
+    {
+      "name": "PT: Rogue Hostage (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePYagdzUwKpzTP73n9CD3D1MFn.jpg"
+    },
+    {
+      "name": "PT: Bem Bom (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bt7LUUYSozfGM3jYTSgd4ltxoA.jpg"
+    },
+    {
+      "name": "PT: Jacinta (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Gxj1qNIjzkq8Gk8DeLbQajw9h8.jpg"
+    },
+    {
+      "name": "PT: Últimas Notícias de Yuba County (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ESkoaHgq6vHOY8tSjPbTbT0XpV.jpg"
+    },
+    {
+      "name": "PT: Zona de Combate (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg"
+    },
+    {
+      "name": "PT: Xtremo (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ghvx0Q5c57JoBNxFj4gSfXj6wK.jpg"
+    },
+    {
+      "name": "PT: Você Já Viu Vagalumes? (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/obiroU0bUT4yeiROMl7DwbGVsLN.jpg"
+    },
+    {
+      "name": "PT: Virus Shark (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKDbnQFetHy6oa639ZMiuHFDDn4.jpg"
+    },
+    {
+      "name": "PT: F9 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg"
+    },
+    {
+      "name": "PT: Veins of the World (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWtY5fvJaoUOtOwMrd34E8obRMk.jpg"
+    },
+    {
+      "name": "PT: Vanquish (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoWY1gkcNzabh229Icboa1Ff0BM.jpg"
+    },
+    {
+      "name": "PT: Under the Stadium Lights (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSxVt7yW4s8lqnGCCXDGJT2UxMZ.jpg"
+    },
+    {
+      "name": "PT: Um Tio Quase Perfeito 2 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tsMon5xC1pJI8dbJ2NpWCq3CnC.jpg"
+    },
+    {
+      "name": "PT: Um Lugar Silencioso - Parte II (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/c0c460dbb9c803057ea6e2025a4d7925.jpg"
+    },
+    {
+      "name": "PT: Uma Skatista Radical (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vjyN9tSDyAdYpnbHput22mzytf.jpg"
+    },
+    {
+      "name": "PT: Um Amor Após a Vida (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/320142143ee36c987b75802721645bc6.jpg"
+    },
+    {
+      "name": "PT: Twist (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3oT6lZcYC2khtZnzHBgqthj5W.jpg"
+    },
+    {
+      "name": "PT: Tudo por Ela (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMqHXzjCxqmZRL1DHUqBwaR7yRQ.jpg"
+    },
+    {
+      "name": "PT: The Reckoning (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jdBOApDt1DXlJtdzUtp76DhmmP.jpg"
+    },
+    {
+      "name": "PT: The Oak Room (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVvNpT2D14K7nuweGzJpoUyfnKi.jpg"
+    },
+    {
+      "name": "PT: The Courier (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg"
+    },
+    {
+      "name": "PT: The Ballad Of Billy McCrae (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awE2FLDnoVDoq9tedAqw1zVzCWO.jpg"
+    },
+    {
+      "name": "PT: Sweet & Sour (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yGwAPl6LWpi8QwHjwCMaqsPgNB.jpg"
+    },
+    {
+      "name": "PT: Souvenir (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/33dxxU2Z6eQM6VU7QPN8lZM5o9a.jpg"
+    },
+    {
+      "name": "PT: Sociedade da Justiça: 2ª Guerra Mundial (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TZ0KabQW5oblWwhEIiZb81JXs9.jpg"
+    },
+    {
+      "name": "PT: Silk Road (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KxiEWyIDpz1ikmD7nv3GTX4Uoj.jpg"
+    },
+    {
+      "name": "PT: Shadowland (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PfqAGERuf1LipEl1lPA2xCSAji.jpg"
+    },
+    {
+      "name": "PT: Sem Remorso (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg"
+    },
+    {
+      "name": "PT: Seaspiracy: Mar Vermelho (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fr01lKMjStOo3VboaiGUFweVrx.jpg"
+    },
+    {
+      "name": "PT: Samurai X: O Final (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzKKUblhyvv7nWyfJCLT69GijOA.jpg"
+    },
+    {
+      "name": "PT: Roohi (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHpEGFx13ntiAVl94e08EJ5ss4U.jpg"
+    },
+    {
+      "name": "PT: Rompendo Barreiras: Nosso Planeta (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRs7kdlw06DVkxOVidWloqZ3HCw.jpg"
+    },
+    {
+      "name": "PT: Rogai por Nós (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zduyzcjyahZtP4fGZE6789h04IM.jpg"
+    },
+    {
+      "name": "PT: Reap (2021) Legendado",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BLtinvwG4ANrhm29noAuu3EEMD.jpg"
+    },
+    {
+      "name": "PT: Quo vadis, Aida? (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwZhw2hqKYCijfnkPJYPsM7aTEr.jpg"
+    },
+    {
+      "name": "PT: Pretty Guardian Sailor Moon Eternal: O Filme (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCIg3DHHpOXqLIoG13M4P2Y9Xje.jpg"
+    },
+    {
+      "name": "PT: Por Trás da Inocência (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dsNZdatWpv3nKuhbhbdqIy7czd.jpg"
+    },
+    {
+      "name": "PT: Ponto Vermelho (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t91PfULzBoCe4bMDAyUsjZUCSxD.jpg"
+    },
+    {
+      "name": "PT: Pole Dance: Dança do Poder (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg"
+    },
+    {
+      "name": "PT: Phobias (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg"
+    },
+    {
+      "name": "PT: Penguin Bloom (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l6k0Z9tYddXW9327V2jZrfWG00.jpg"
+    },
+    {
+      "name": "PT: Passageiro Acidental (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n91IdvTOxogvs08HN0mYK7nY5T7.jpg"
+    },
+    {
+      "name": "PT: Para Todos os Garotos: Agora e Para Sempre (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uytm9msyYVFxSVPzGPMriWEo0e.jpg"
+    },
+    {
+      "name": "PT: Palmer (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg"
+    },
+    {
+      "name": "PT: O Último Paraíso (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJFc9CUT7v1S3UmsEEaubG2Gcf5.jpg"
+    },
+    {
+      "name": "PT: O Último Desejo de Sardar (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/piBdQGTFMNzFYEUkmGRR3n2EZeU.jpg"
+    },
+    {
+      "name": "PT: O Tigre Branco (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/FHpjm49uWcwqE3qITgysvBb6sw.jpg"
+    },
+    {
+      "name": "PT: Os Segredos de Madame Claude (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wce7KTNGvhYfJqIgtxMhPWrllzg.jpg"
+    },
+    {
+      "name": "PT: Os Salafrários (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ev3xZqlUIvcRvyVcAVlpfYfBASP.jpg"
+    },
+    {
+      "name": "PT: Os Portais (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGPUXyhQTOqskKdDOD3Fmicqfc0.jpg"
+    },
+    {
+      "name": "PT: The Little Things (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg"
+    },
+    {
+      "name": "PT: O Perfeito Sr. Cha (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jgL3Hdt3arpW3gsMSx6YI5z9EP.jpg"
+    },
+    {
+      "name": "PT: O Mapa das Pequenas Coisas Perfeitas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y3ev0rJFbHA1hU22UPmmfzBjrG.jpg"
+    },
+    {
+      "name": "PT: O Elevador (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVUIAKV1uGO4YzPWxweSing55gl.jpg"
+    },
+    {
+      "name": "PT: Octonautas e o Círculo de Fogo (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjG9kAgI1s7mH1hCAKgWUNzxDeQ.jpg"
+    },
+    {
+      "name": "PT: Occupation: Rainfall (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpq8XjZ3ZalcbqWOYIdqcV7FbIJ.jpg"
+    },
+    {
+      "name": "PT: Não Feche os Olhos (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2rDGHK5qDTemDare180EJxspe5.jpg"
+    },
+    {
+      "name": "PT: Nova Ordem Espacial (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f32ne52ClTPFL9Ew2aPUhKoVn9e.jpg"
+    },
+    {
+      "name": "PT: Nomadland (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66GUmWpTHgAjyp4aBSXy63PZTiC.jpg"
+    },
+    {
+      "name": "PT: Night of the Sicario (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgFewciOc5lFXVoUDuboN87vbwO.jpg"
+    },
+    {
+      "name": "PT: New Gods: Nezha Reborn (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6goDkAD6J3br81YMQf0Gat8Bqjy.jpg"
+    },
+    {
+      "name": "PT: Nest of Vampires (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKL5hZlN8nDrLbYGu8lTRDkG4Id.jpg"
+    },
+    {
+      "name": "PT: Nemesis (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYZqOjtouDag7EGjRigdr3YEoKC.jpg"
+    },
+    {
+      "name": "PT: Na Mira do Perigo (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1w1TVqCiEWqYnfrNUL0N1W8LAfA.jpg"
+    },
+    {
+      "name": "PT: Mundo em Caos (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7poSpsfrnhxjVN2uRmemd76ASvS.jpg"
+    },
+    {
+      "name": "PT: Mortal Kombat (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg"
+    },
+    {
+      "name": "PT: Minari - Em Busca da Felicidade (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r08oQoAXvY7qBMOLBaQrWh58iJi.jpg"
+    },
+    {
+      "name": "PT: Malcolm & Marie (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/27s1xB944SJT3ThIsutiaNGTvzQ.jpg"
+    },
+    {
+      "name": "PT: Luta de Garotas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg"
+    },
+    {
+      "name": "PT: Lucicreide vai pra Marte (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxtvP1HrNi94jtvfImNTZF92zXh.jpg"
+    },
+    {
+      "name": "PT: Luccas Neto em: Duas Babás Muito Esquisitas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qR5zAj6d0r7qoB9ONEV52l8EoY.jpg"
+    },
+    {
+      "name": "PT: Loucura de Amor (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/28g5rvH7PlYB3CmilKWW20GcQkp.jpg"
+    },
+    {
+      "name": "PT: Locked Down (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svHelD0Hb3TXPAQoPsoBwdDMTvf.jpg"
+    },
+    {
+      "name": "PT: Liga da Justiça de Zack Snyder (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9XwEXYWpxt2rpkmFBiQ1zeyKUy.jpg"
+    },
+    {
+      "name": "PT: Lazarus (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hEH6Yabe2U8dBnCM5ePX9dDH3n.jpg"
+    },
+    {
+      "name": "PT: Know Fear (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqjEnkzQro5Mb0nBPLkYv3uW3dq.jpg"
+    },
+    {
+      "name": "PT: Knights of Newgate (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmCGJlvfrIiMvYcfPY7AR67MuOO.jpg"
+    },
+    {
+      "name": "PT: Killer Among Us (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyGB4nD6k1qKnvcuDeuwMbZwThY.jpg"
+    },
+    {
+      "name": "PT: Jakob's Wife (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsOSdY9ALwBLP41c6tAF5UXkpc0.jpg"
+    },
+    {
+      "name": "PT: The Conjuring: The Devil Made Me Do It (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg"
+    },
+    {
+      "name": "PT: In the Earth (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzzUkcZyHbXJayCw8yNAPezdBhq.jpg"
+    },
+    {
+      "name": "PT: Insight (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyD5Fqesaw1h1B6OQEkaAONedj9.jpg"
+    },
+    {
+      "name": "PT: Infiltrado (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAtAp4IeT6EYGhewfnNNhalobme.jpg"
+    },
+    {
+      "name": "PT: Homunculus (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnqmGW6N9fxEyPEylC2qT4bbUmd.jpg"
+    },
+    {
+      "name": "PT: Hollywood.Con (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xN2mIDMgQ4o78VTun1FeQpo3QMB.jpg"
+    },
+    {
+      "name": "PT: Histórias Incomuns (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg"
+    },
+    {
+      "name": "PT: His Killer Fan (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xY4iJzfV0Rr9gfvAMHD3F5QmFNb.jpg"
+    },
+    {
+      "name": "PT: Hero Dog: The Journey Home (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybWtSFLVakBIVeAviZ6SsQKIuSv.jpg"
+    },
+    {
+      "name": "PT: Held (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFaeztksfufY5uewvu7DbUeiSey.jpg"
+    },
+    {
+      "name": "PT: Godzilla vs. Kong (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg"
+    },
+    {
+      "name": "PT: Friends: A Reunião (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik6jrK2gt2lFLzcq6lyLEmu9KRg.jpg"
+    },
+    {
+      "name": "PT: Flinch (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwrK754ughEOXGA2BSxrIbyMjg7.jpg"
+    },
+    {
+      "name": "PT: Filhos de Istambul (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg"
+    },
+    {
+      "name": "PT: Ferry (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6n1pu9thpCVHILejsuhKf3tNCV.jpg"
+    },
+    {
+      "name": "PT: Fate: The Winx Saga - The Afterparty (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zz2Sw5ZQ3AZTtO54EvqkoKuzwX.jpg"
+    },
+    {
+      "name": "PT: FAT: A Documentary 2 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ckeasNpm1FWCPWtxFCPEjFeBib.jpg"
+    },
+    {
+      "name": "PT: Exodus (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhIRPRlVLsn2GFxLUf9FUB9a9hP.jpg"
+    },
+    {
+      "name": "PT: Every Breath You Take (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrgNXpH4x9NAkqOKhxEs3TspkHc.jpg"
+    },
+    {
+      "name": "PT: Eu Sou Todas as Meninas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWBXydaQ9vX3OIf0f1wNQ9Z0ElQ.jpg"
+    },
+    {
+      "name": "PT: Estados Unidos x Billie Holiday (2021) Legendado",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEzkxuE2sJcmHYjXQHM8xvR9ICH.jpg"
+    },
+    {
+      "name": "PT: Estados Unidos vs. Billie Holiday (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zMgNepldhcB2oMHZDJFhyiaqu2.jpg"
+    },
+    {
+      "name": "PT: Espécies em Perigo (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/2b6dbd9efc9bbc2ee244bac042052972.jpg"
+    },
+    {
+      "name": "PT: Spiral: From the Book of Saw (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkl6mRoFexK2FGWCbAsvrRxjWaF.jpg"
+    },
+    {
+      "name": "PT: Finding ʻOhana (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg"
+    },
+    {
+      "name": "PT: Em busca de Sheela (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uUmXmS1BNXieflgr884NnjYRFK.jpg"
+    },
+    {
+      "name": "PT: Educação Americana: Fraude E Privilégio (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZJuctnatinO0OpnruGOWaT4Bga.jpg"
+    },
+    {
+      "name": "PT: Din e o Dragão Genial (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/cf9bf787d0eaae439ce1c4dbf0959716.jpg"
+    },
+    {
+      "name": "PT: Death Saved My Life (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg"
+    },
+    {
+      "name": "PT: Dead in the Water (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvF85F5NhTtdneJPp0xfPXwrCzM.jpg"
+    },
+    {
+      "name": "PT: Dawn of the Beast (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZGx57ShJ3IUeZNxEbOMinW4wea.jpg"
+    },
+    {
+      "name": "PT: Crisis (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ao4JajLcPITivfstlzENge3MPkq.jpg"
+    },
+    {
+      "name": "PT: Clube da Luta Para Mulheres (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxBO1PMNnzHm5zFUzvuXqSTX4jc.jpg"
+    },
+    {
+      "name": "PT: Chorão: Marginal Alado (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gogfKsMhf4q8iOO8awqi9YWkt4g.jpg"
+    },
+    {
+      "name": "PT: Cherry - Inocência Perdida (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbSsR0IfnxdXZqfRMpH2PgLAbPV.jpg"
+    },
+    {
+      "name": "PT: Chernobyl: O Filme - Os Segredos do Desastre (2021) Legendado",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbRTLrk2kvVmEW9Fqxqhmwz0Gqf.jpg"
+    },
+    {
+      "name": "PT: Central Park Dark (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEbM60caimZTKCnxGOi6ZySx2NQ.jpg"
+    },
+    {
+      "name": "PT: Carnaval (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg"
+    },
+    {
+      "name": "PT: Bliss: Em Busca da Felicidade (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7BllsQkD6nTkAdtd28UVCmKqVi.jpg"
+    },
+    {
+      "name": "PT: Benny Loves You (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQ8vALvqA0z0qglG3gI6xpVcslo.jpg"
+    },
+    {
+      "name": "PT: Be Good or Be Gone (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkJkZvSn7QIZHsyonvXeUxV8jlG.jpg"
+    },
+    {
+      "name": "PT: Batman: The Long Halloween, Part One (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR7gppb0YGjwLvE6Vnj6wYv5MnW.jpg"
+    },
+    {
+      "name": "PT: Batman: Alma do Dragão (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqBGQUV1IsLP1zXwMxwgXwYfNG2.jpg"
+    },
+    {
+      "name": "PT: Bad Trip (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1Gy5HX3DKGaNW1Ay30NTIVJqJ6.jpg"
+    },
+    {
+      "name": "PT: Awake (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/bf9513943cdf4476f8d2c9c16b2476e5.jpg"
+    },
+    {
+      "name": "PT: Atentados em Londres (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/5de4eed25d3490e09c0d734807e0b68e.jpg"
+    },
+    {
+      "name": "PT: Assassinos Sádicos (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg"
+    },
+    {
+      "name": "PT: Asia (2021)  Legendado",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dvOmfAHkMoTQfogaUnfnpRfRDd.jpg"
+    },
+    {
+      "name": "PT: A Semana da Minha Vida (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfjdBn9rOoMZQgCqySlpjZv4L2V.jpg"
+    },
+    {
+      "name": "PT: Army of the Dead: Invasão em Las Vegas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kn72J6BFcN71VYOl8sTVeo7x9ph.jpg"
+    },
+    {
+      "name": "PT: Aqueles Que Me Desejam a Morte (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNi8uFKHAN5qt9UU5PpDi8cjWj1.jpg"
+    },
+    {
+      "name": "PT: Apenas Diga Sim (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mww6dIUvcyoaiIRJ6883jixJVPU.jpg"
+    },
+    {
+      "name": "PT: Anônimo (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/woPYFGKwVULILbO7q44HmsNY0kO.jpg"
+    },
+    {
+      "name": "PT: A Mulher na Janela (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BasMP1hUZtDx0khdbHBkVZhKjJ.jpg"
+    },
+    {
+      "name": "PT: Amor² (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVJ2gKYlGX3y0YlpZgEnFQr58gq.jpg"
+    },
+    {
+      "name": "PT: Alegre-se (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgrhFWxH587acHIeqG3woJyKgmf.jpg"
+    },
+    {
+      "name": "PT: Agência Secreta de Controle de Magias (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoDd0CvX0fGQA60SSn5gkoFGN6h.jpg"
+    },
+    {
+      "name": "PT: A Família Mitchell e a Revolta das Máquinas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmnAu2G9EvHbUYTiT6eNd6XlaBx.jpg"
+    },
+    {
+      "name": "PT: A Escavação (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg"
+    },
+    {
+      "name": "PT: PT: Supercool (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://gein.detvz.us/base_img/746d993701a5248f5167d17779425d1d.png"
+    },
+    {
+      "name": "PT:  The King's Man (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpOzVPDFDI15WaKV6dqpYp441rZ.jpg"
+    },
+    {
+      "name": "PT:  Black Box (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIYxQoxQC78kQBxIKCR41hheqwb.jpg"
+    },
+    {
+      "name": "PT:  Riverdance: The Animated Adventure (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6TRDlVuuEXMyLSlIkDd8YhBN0r.jpg"
+    },
+    {
+      "name": "PT:  Eternals (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFByFSLV5WDJEv3KabbdAF959F2.jpg"
+    },
+    {
+      "name": "PT:  SIGNAL: The Movie – Cold Case Investigation Unit (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfkA9vQ102SEguTiFBR4EvHEbdv.jpg"
+    },
+    {
+      "name": "PT: 2021 nunca mais",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/eDX46CGWZaMYdKjzZmR797arSO8.jpg"
+    },
+    {
+      "name": "PT:  Great White (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wEVked59Y00NKK4Vj0FgzUzdPH.jpg"
+    },
+    {
+      "name": "PT:  1000 Miles From Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXEtICgk28bDJbhrQObIfwtSgjv.jpg"
+    },
+    {
+      "name": "PT:  Grumpy Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBYBDWymgwKHrILlSLdR2d04RzS.jpg"
+    },
+    {
+      "name": "PT:  Mother/Android (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg"
+    },
+    {
+      "name": "PT: Kanye West: A Higher Power (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BZgA9DKW4BpBohIX4dA35CtUjU.jpg"
+    },
+    {
+      "name": "PT: The Forever Prisoner (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svPRDpOjb617N3dJMT5FjhFync4.jpg"
+    },
+    {
+      "name": "PT: Mr. Saturday Night (1992)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDAJzffAZyhpEsRiRCH3J9abTbZ.jpg"
+    },
+    {
+      "name": "PT: 2018: The Ultimate Test",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Vergissmeinnicht (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Derren Brown: Pushed to the Edge (2016)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL31qRjjhVynNnBCkTLGKbbA956.jpg"
+    },
+    {
+      "name": "PT: Woodstock 99: Peace, Love, and Rage (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9O4qwjQaJsxd2AA4xrRX2I2oIR5.jpg"
+    },
+    {
+      "name": "PT: Stuntman: O Rosto Invisível (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RGlVTa8cczUUfmDJFHX5dzshjY.jpg"
+    },
+    {
+      "name": "PT: Playing with Sharks (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSjLkaugGzwBwf4ecH4btXYWJRc.jpg"
+    },
+    {
+      "name": "PT: Red privada: ¿quién mató a Manuel Buendía? (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/us2vkfXx6sOpEnZWAokeaY3rwRr.jpg"
+    },
+    {
+      "name": "PT: Audible (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oslTRMKWpdg96pvLRFogXh516x.jpg"
+    },
+    {
+      "name": "PT: El caso Wanninkhof - Carabantes (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkdQ3z1YyJvoy9pCLQzvWh68Nea.jpg"
+    },
+    {
+      "name": "PT: Sisters on Track (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNRbKzh8Xkz96j70P6KnjRf7WM4.jpg"
+    },
+    {
+      "name": "PT: Breaking Boundaries: The Science of Our Planet (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRs7kdlw06DVkxOVidWloqZ3HCw.jpg"
+    },
+    {
+      "name": "PT: P!NK: All I Know So Far (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtoEBoGvrSJuDPfQ3rPELqIcG5e.jpg"
+    },
+    {
+      "name": "PT: Hating Peter Tatchell (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKm4q1jhOBgEQygDTgIet9Xi7z1.jpg"
+    },
+    {
+      "name": "PT: Nail Bomber: Manhunt (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqwmWg0eH4qxkelrx9bNJahW6rU.jpg"
+    },
+    {
+      "name": "PT: Friends: The Reunion (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik6jrK2gt2lFLzcq6lyLEmu9KRg.jpg"
+    },
+    {
+      "name": "PT: The Boy from Medellín (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffJX00pcQDGvzhz6RSngeYuSb6U.jpg"
+    },
+    {
+      "name": "PT: Héroes: silencio y rock & roll (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDUtJIr4lPeMnF7vXHyAqCXkR4s.jpg"
+    },
+    {
+      "name": "PT: TINA (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bL2FNPhiPqDyirzU3rfaXDiWRXs.jpg"
+    },
+    {
+      "name": "PT: The Day Sports Stood Still (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xy0FIKNzPCEB5vu33MTWW44XWFW.jpg"
+    },
+    {
+      "name": "PT: Chadwick Boseman: Portrait of an Artist (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/keAMO0Q8DkUY0CrigRuNWiWDyUe.jpg"
+    },
+    {
+      "name": "PT: The Year Earth Changed",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/cLwQRXfzPjmpU6I78TCkoHazO0A.jpg"
+    },
+    {
+      "name": "PT: Why Did You Kill Me? (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2eBUmtBLTzb0M2BDxuNqB9trlz.jpg"
+    },
+    {
+      "name": "PT: Dolly Parton: A MusiCares Tribute (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXkELm9DENmIOuMgveR1RzjCctD.jpg"
+    },
+    {
+      "name": "PT: Coded Bias (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PknXfJbjxIkrC5RqiNEmywSPOY.jpg"
+    },
+    {
+      "name": "PT: Cryptopia: Bitcoin, Blockchains & the Future of the Internet (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3dGOQ5PsfKvtv9ew8Ee3S6A5JR.jpg"
+    },
+    {
+      "name": "PT: Seaspiracy: Pesca Insustentável (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fr01lKMjStOo3VboaiGUFweVrx.jpg"
+    },
+    {
+      "name": "PT: Dads (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTuWXVgtbzJ29xlwPwk6PaWfZey.jpg"
+    },
+    {
+      "name": "PT: More Than Miyagi: The Pat Morita Story (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3BkZXZe6mXz971OsvVh9wHaC53.jpg"
+    },
+    {
+      "name": "PT: Welcome to Chechnya (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lf5VuKhCKVOc1YzORFdBgATgJ7W.jpg"
+    },
+    {
+      "name": "PT: Operation Varsity Blues: The College Admissions Scandal (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZJuctnatinO0OpnruGOWaT4Bga.jpg"
+    },
+    {
+      "name": "PT: Jovens Empreendedores (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRrdGuSNlRQwCq96ASnZC3H0MFt.jpg"
+    },
+    {
+      "name": "PT: Sea of Shadows (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qUT6hgWwAZCrB4Df5d4pygYmmR.jpg"
+    },
+    {
+      "name": "PT: Honeyland (1935)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Marvel's Behind the Mask (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKAJjnhNfw4uxkHwRfduHHR8EQJ.jpg"
+    },
+    {
+      "name": "PT: Black Art: In the Absence of Light (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCynX6gndPnxZ9owCv88j4qQ8Vd.jpg"
+    },
+    {
+      "name": "PT: Notorious B.I.G.: I Got a Story to Tell (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwMZiuoucmdVxZmj4HjYSLwAFJh.jpg"
+    },
+    {
+      "name": "PT: Made You Look: A True Story About Fake Art (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ANquD7ZQTU4yZVLG478BbzRMAG.jpg"
+    },
+    {
+      "name": "PT: Bruce Springsteen's Letter to You (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DU0BAecmGRFnFUjXnFSpA56cA0.jpg"
+    },
+    {
+      "name": "PT: Billie Eilish: The World's a Little Blurry (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq5wfdmGOY4t6s2ALzA6ePMPoyP.jpg"
+    },
+    {
+      "name": "PT: Pele (2006)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Strip Down, Rise Up (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg"
+    },
+    {
+      "name": "PT: Fake Famous (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAXVDwLbrzzqaX8hHSRoCwBVkWz.jpg"
+    },
+    {
+      "name": "PT: What Would Sophia Loren Do? (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/81GHYaP1pzUTWICK5brp5rCW3c0.jpg"
+    },
+    {
+      "name": "PT: Western Stars (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/myAaGvpMolwGyuR3VcMURm3enNy.jpg"
+    },
+    {
+      "name": "PT: Visita ao Inferno (2016)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpRSncUqvtyRJCLGHb00Y2vnliK.jpg"
+    },
+    {
+      "name": "PT: Vilas: serás lo que debas ser o no serás nada (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnPZJRhxiHNDo67eyzJaUFOs2jj.jpg"
+    },
+    {
+      "name": "PT: Travis Scott: Look Mom I Can Fly (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNOXntnRY7dFrgu1x6bQQmWBVdu.jpg"
+    },
+    {
+      "name": "PT: Transhood (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnXK9k3La1voNagJ7cpjU6yWYdz.jpg"
+    },
+    {
+      "name": "PT: Tony Parker: The Final Shot",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/8zrgid8f6c2ODn2T94jKfopOF4C.jpg"
+    },
+    {
+      "name": "PT: The Social Dilemma",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jdmagxKK7g2rPkdltC7Kga2MBbp.jpg"
+    },
+    {
+      "name": "PT: The Scheme (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/PJhAbkBMCSplr0CTtgc4MlhJxk.jpg"
+    },
+    {
+      "name": "PT: The Phenomenon (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2WWRtyYKrmLjtXhm53GMsGQQ2T.jpg"
+    },
+    {
+      "name": "PT: The Perfect Weapon (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkgnkpGQ9ZeAuVRemc1FMFDhyte.jpg"
+    },
+    {
+      "name": "PT: The Minimalists: Less Is Now (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1foXpKnMMAL1OzBrCS3CcwnHO7S.jpg"
+    },
+    {
+      "name": "PT: The Magic Pill (2017)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXoG0GhT2Re2nvRdNaMqWSh31Re.jpg"
+    },
+    {
+      "name": "PT: The Game Changers (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eufF3xEif5EZ1gTjdubw3KWh9xU.jpg"
+    },
+    {
+      "name": "PT: The Black Godfather (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BQArnXPwM5nHeS1tlGKLY7eapP.jpg"
+    },
+    {
+      "name": "PT: Shawn Mendes: In Wonder (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSs7V3ryvxCSpcXcxf9NY8YBtGC.jpg"
+    },
+    {
+      "name": "PT: Secrets of the Saqqara Tomb (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NyihqDHhkF4xIdGHvNJgjytB55.jpg"
+    },
+    {
+      "name": "PT: Ronnie Coleman: The King (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hh8PTJdrYKX5wo50DOipH5yvxYR.jpg"
+    },
+    {
+      "name": "PT: Road to Roma",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/h0hO0MzC7F6cyqysL4neoAguf0u.jpg"
+    },
+    {
+      "name": "PT: Rising Phoenix (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkfbyDnh2uW8mvLEQFCsTWy3NQY.jpg"
+    },
+    {
+      "name": "PT: Recovery Boys (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8lsiLjNuEED3yxlmp89s4WAlOp.jpg"
+    },
+    {
+      "name": "PT: Quincy (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYtY9CRLyz4dXqTOiimdMF7Nt4e.jpg"
+    },
+    {
+      "name": "PT: Nada é Privado: O Escândalo da Cambridge Analytica (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/20KWEm4IJ6M6IoE77NFaqwkkJpk.jpg"
+    },
+    {
+      "name": "PT: Playing Hard (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbEby8WE04drRhpbqpldMXTwKWb.jpg"
+    },
+    {
+      "name": "PT: Os Verdadeiros Eleitos (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC3gj5GrU4wtkZt5BQTftnnqaNa.jpg"
+    },
+    {
+      "name": "PT: Miss Americana (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/et5EC9WplytiuOgRcTt89d4H7p4.jpg"
+    },
+    {
+      "name": "PT: McLaren (2016)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRWIvyWNgsuPSHEVIMbS9aDY280.jpg"
+    },
+    {
+      "name": "PT: Make Us Dream (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w56osWMUrCD4zwuTWU3VSEQgOJH.jpg"
+    },
+    {
+      "name": "PT: Léa",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/u5SjlnjbT8W063BsPte0IKISYBG.jpg"
+    },
+    {
+      "name": "PT: Lil Peep: Everybody's Everything",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wbMkjkNX8VylPVLmQ2Dp6i5iayY.jpg"
+    },
+    {
+      "name": "PT: Last Breath (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfTNsILhmDiChJJ7Zxxl8IUvkUM.jpg"
+    },
+    {
+      "name": "PT: La Casa de Papel: el fenómeno (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AboUXTrDWEi0PuZUqaft0iwBTm7.jpg"
+    },
+    {
+      "name": "PT: Kiss the Ground",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/a1fUwIQpJPOYNcDeFzX1o7Gd6J9.jpg"
+    },
+    {
+      "name": "PT: Kill Chain: The Cyber War on America's Elections (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wE5uKpKkmSDGWVYYBWKhI5G0shQ.jpg"
+    },
+    {
+      "name": "PT: John Was Trying to Contact Aliens (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ofVHqDmJ47si1SHwJaAhx8nkmU.jpg"
+    },
+    {
+      "name": "PT: Interreflections (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGb5HdsCYJCS7jFyAD6uKqri9Vt.jpg"
+    },
+    {
+      "name": "PT: I Am Greta",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/xTCduzgBJ57ZzMM9MOyBPpauB9t.jpg"
+    },
+    {
+      "name": "PT: How the Beatles Changed the World (2017)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAvgaf6CaO2FGuHeCDqsH3JxOB1.jpg"
+    },
+    {
+      "name": "PT: Hot Girls Wanted (2015)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8efPmKDSgJV51IuB9AAy1yQQuzI.jpg"
+    },
+    {
+      "name": "PT: Homecoming: A Film by Beyoncé (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZxOkZm1LXaT2Kt5B57CaAAJyQo.jpg"
+    },
+    {
+      "name": "PT: Grass Is Greener (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmOzTN4DFjtswjx5zb3mJc5e2Ah.jpg"
+    },
+    {
+      "name": "PT: Giving Voice (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qlQceN0IrqXXEIcFCcpm6B3jQb.jpg"
+    },
+    {
+      "name": "PT: Fyre (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg"
+    },
+    {
+      "name": "PT: From Bedrooms to Billions: The PlayStation Revolution (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heAafjmY0UTiGmesRKSl0Uoejma.jpg"
+    },
+    {
+      "name": "PT: Free Solo (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vE3t4Pa2CAe8RmjOfp93hL6zXn.jpg"
+    },
+    {
+      "name": "PT: Fireball: Visitors From Darker Worlds",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
+    },
+    {
+      "name": "PT: Ferrari: Race to Immortality (2017)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w82rt2d9MNoS09y7aGIE9msqc8I.jpg"
+    },
+    {
+      "name": "PT: Fangio: O Homem que Domava as Máquinas (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n199ZFTAYDB7LFAzjXe1wvusn0g.jpg"
+    },
+    {
+      "name": "PT: Diego Maradona (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SRu5YKrA2qQoGBssEJQc3h04cd.jpg"
+    },
+    {
+      "name": "PT: Dick Johnson Is Dead (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h8bkpyGK0U5cVCH79Hzw1LT5qn.jpg"
+    },
+    {
+      "name": "PT: Derren Brown: Sacrifice (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMaVBzNauRw8BXqqBnSf90YyH8j.jpg"
+    },
+    {
+      "name": "PT: Deep Web (2015)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtSOFZ7ioDSaJxPzORaplqo8QZ2.jpg"
+    },
+    {
+      "name": "PT: David Attenborough: Uma Vida no Nosso Planeta (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg"
+    },
+    {
+      "name": "PT: Dance Dreams: Hot Chocolate Nutcracker (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/etEtzRitEfn9iqPZQC8xbcgseKb.jpg"
+    },
+    {
+      "name": "PT: Crip Camp: A Disability Revolution (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBCoAbuFGiQeNQXU0QNjtR0RKzW.jpg"
+    },
+    {
+      "name": "PT: Crack: Cocaine, Corruption & Conspiracy (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDLKkl07jFuM7IyKkZLQefVkyFV.jpg"
+    },
+    {
+      "name": "PT: Console Wars (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeEL2hkUrQ5dJMDToFnDztjdGNK.jpg"
+    },
+    {
+      "name": "PT: Chasing Happiness (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqwchBx4MdUoufFE5J5hdMO7fNv.jpg"
+    },
+    {
+      "name": "PT: Chasing Coral (2017)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvRHRqI4ahmEwscylU10iaNo5RY.jpg"
+    },
+    {
+      "name": "PT: Burning Ojai: Our Fire Story (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AehOBkEU5f3ooZQybWcajvrqtE7.jpg"
+    },
+    {
+      "name": "PT: Brené Brown: The Call to Courage (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnjzskLPzbQiQCwJGRt05FFTUpH.jpg"
+    },
+    {
+      "name": "PT: Brave Blue World: Racing to Solve Our Water Crisis (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNxdajiMyrVshIuZbqs9aku5Pd7.jpg"
+    },
+    {
+      "name": "PT: Blackpink Light Up The Sky",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wwrvjmcgkDyB2RbCbIVLXZf82pl.jpg"
+    },
+    {
+      "name": "PT: Beware the Slenderman (2016)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5W2nhbnzOR2aNa7vSpwWCzzAw2.jpg"
+    },
+    {
+      "name": "PT: ariana grande: excuse me, i love you (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg"
+    },
+    {
+      "name": "PT: Apollo 11 (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg"
+    },
+    {
+      "name": "PT: Anelka : L'Incompris",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/5a9RuQfEVaBW2hSjIILDAokMMr.jpg"
+    },
+    {
+      "name": "PT: Andrés Iniesta: el héroe inesperado (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1rVIl8DMtcJh2adu2SER4x3D3v.jpg"
+    },
+    {
+      "name": "PT: American Murder: The Family Next Door (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg"
+    },
+    {
+      "name": "PT: American Factory (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kLpTYpnbnJWq6IwY6DOyyEDaN3.jpg"
+    },
+    {
+      "name": "PT: AlphaGo (2017)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBebKFGVVuv6tDnUP8F5wKqxuNA.jpg"
+    },
+    {
+      "name": "PT: All In: The Fight for Democracy (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/17nj0QAJy3xqVZawSj0sxpCUDVN.jpg"
+    },
+    {
+      "name": "PT: After Truth: Disinformation and the Cost of Fake News",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/e0O1IMV3DtLiXtw9m8wLsazfyA9.jpg"
+    },
+    {
+      "name": "PT: After Maria (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJpJDEEhe3CfS8U8InfXWbI02CQ.jpg"
+    },
+    {
+      "name": "PT: Acasă",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/lx4LylEVytRvBc9MlQmoMRnW55J.jpg"
+    },
+    {
+      "name": "PT: 537 Votes (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkJ2U2vJQgMpinvZSLYW8w0XaFT.jpg"
+    },
+    {
+      "name": "PT: Swan Song (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0WW5vX58oMEg9aRRTB5QtG1Vyn.jpg"
+    },
+    {
+      "name": "PT: A California Christmas: City Lights (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qzd2mRhJe5etP9KCsKGsCIHtxg.jpg"
+    },
+    {
+      "name": "PT: Tú eres mi problema (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRccV0ehDI6xHq4aGCjDnblCd0M.jpg"
+    },
+    {
+      "name": "PT: The Whole Truth (1958)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCs5rnZMai2q9I87IA7mR0JRwMZ.jpg"
+    },
+    {
+      "name": "PT: The Enchanted Christmas Cake (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKaJoJlrrxn1lTVoukWtysjyIjn.jpg"
+    },
+    {
+      "name": "PT: Still Out Of My League",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/soVwWSesTguGQSNsEpdSr46z98M.jpg"
+    },
+    {
+      "name": "PT: Ripper Untold (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq4ekYYxchTqOJd8kULWID8CkM3.jpg"
+    },
+    {
+      "name": "PT: Plan A (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfYOmisdbiVTXdcQji35pKywPFI.jpg"
+    },
+    {
+      "name": "PT: Motherly (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAbreodoriF4LeyEjm3DrypFMTB.jpg"
+    },
+    {
+      "name": "PT: The More the Merrier (1943)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghLyMmPm0obQWi8SGwkbCswjp6O.jpg"
+    },
+    {
+      "name": "PT: In For A Murder",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/rRoAskfo3GaAz3aqHiFJMYJ6YOc.jpg"
+    },
+    {
+      "name": "PT: Gabriel's Rapture: Part One (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2KEcD7AhlgoFxnjFtHr8n9lRAW.jpg"
+    },
+    {
+      "name": "PT: Framed by My Husband (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsHzz2L9QKkB7PxtUnkKkDYQiut.jpg"
+    },
+    {
+      "name": "PT: Christmas, Again (2014)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/47cZzv0j1YqwdyT9XGOuVyd0gbb.jpg"
+    },
+    {
+      "name": "PT: Bruised (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axibOQF9QnThrr8M37ufAYurP4R.jpg"
+    },
+    {
+      "name": "PT: Bordertown The Mural Murders",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/g24OiKp3k9b3VzrhCNcaQzHhZ60.jpg"
+    },
+    {
+      "name": "PT: BLONDE. Purple (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsywqwU6PLMc5AKQc0s42MuRxNJ.jpg"
+    },
+    {
+      "name": "PT: Hacker: Trust No One (2022)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91pB7MxquMeFbeMHamslCKk5wNZ.jpg"
+    },
+    {
+      "name": "PT: Christmas in Tune (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zkov4V8mYyC12l7m8SE3kXR1K2.jpg"
+    },
+    {
+      "name": "PT: The French Dispatch (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZtRZe4Mai1z7F8QLZBN7yYfRnc.jpg"
+    },
+    {
+      "name": "PT: Time for Them to Come Home for Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oV5r8NlY2qJbttdoH0kVd3q2AnI.jpg"
+    },
+    {
+      "name": "PT: In The Hands Of The Gods (2007)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY5rERfFtNoKMIJQsd9Fc33A9L3.jpg"
+    },
+    {
+      "name": "PT: Last Shoot Out (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bTUK455ZQPdbHiRX1udYhdO8BH.jpg"
+    },
+    {
+      "name": "PT: Werewolves Within (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i17UiQgqHatZxlfaFQsnvPhYhyi.jpg"
+    },
+    {
+      "name": "PT: V/H/S/94",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Titane (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y93w5MGC9fbXjy1qfN6rUpSbBti.jpg"
+    },
+    {
+      "name": "PT: The Trip (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/RbSwUodaucQzi6JTsoLKKQzS7J.jpg"
+    },
+    {
+      "name": "PT: Lady of the Manor (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w59ifg4dVE9lXy4Fw9o1aVltSw.jpg"
+    },
+    {
+      "name": "PT: The Last Son (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qV8ntQjXgfEQSzviF73lfgfGxEI.jpg"
+    },
+    {
+      "name": "PT: The Hating Game (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/prbZxJxGcy07y60eq8lCGMciTYz.jpg"
+    },
+    {
+      "name": "PT: The Eyes of Tammy Faye (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yL3IAfOxUH7h1Og9kxG3czxa4XV.jpg"
+    },
+    {
+      "name": "PT: The Electrical Life of Louis Wain (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1KQ8ZDvdmetAKlsCbglKhKn5Qp.jpg"
+    },
+    {
+      "name": "PT: The Deep House (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYJU3VQOfb07FyGTHeSMMz9qTcD.jpg"
+    },
+    {
+      "name": "PT: The Banishing (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD9mc8JCVXA8T8u4Od7qOUBuGH4.jpg"
+    },
+    {
+      "name": "PT: Survive the Game (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QUCf9e4sCsTbgy1TQpgcTHaVQA.jpg"
+    },
+    {
+      "name": "PT: Stillwater (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPdmPwcIcmu0ugfKcdFtI3vmOJq.jpg"
+    },
+    {
+      "name": "PT: South of Heaven (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUdlWpnpNIWPIvXDnucLRjDHOvQ.jpg"
+    },
+    {
+      "name": "PT: Out of Death (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zan6xYKNGKgkp2hFajU398I1iTD.jpg"
+    },
+    {
+      "name": "PT: Naked Singularity (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJwnO2Tou9hwgy1olFn3JcCj7Sx.jpg"
+    },
+    {
+      "name": "PT: Last Man Down (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg"
+    },
+    {
+      "name": "PT: Injustice (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iy3Q3QcarTjvsE5ZzPCABZLH4mJ.jpg"
+    },
+    {
+      "name": "PT: Hell Hath No Fury (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wltdRZfeKDux9yKThlGKwjWhUil.jpg"
+    },
+    {
+      "name": "PT: Coda (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyuW6OVIvRhHClAdGkdycc7uis7.jpg"
+    },
+    {
+      "name": "PT: Dhamaka (1980)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Blue Bayou (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4xykTie8BOSW0y6K5u1AcmW4HW.jpg"
+    },
+    {
+      "name": "PT: Censor (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FOEEtGFPp5cgpLfPQVMB0UNVpI.jpg"
+    },
+    {
+      "name": "PT: Antlers (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2c8DlW3qfu4w6fgn4lMrI6wEfM.jpg"
+    },
+    {
+      "name": "PT: A Royal Queens Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qB9f9iVxGuGZcGfxkE5xVfgQksU.jpg"
+    },
+    {
+      "name": "PT: Agnes (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDskIhzLfZc8SB4ybkcWOgmI98M.jpg"
+    },
+    {
+      "name": "PT: American Refugee (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/isAGLrCGprcmYrpFLX0Amr4g6AS.jpg"
+    },
+    {
+      "name": "PT: Anónima (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MfTZQPSC3XsSt4T8LtagnJtKHq.jpg"
+    },
+    {
+      "name": "PT: Dos (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Q15W0LrDzWuR2sM1nOcf07MN5.jpg"
+    },
+    {
+      "name": "PT: 13 Minutes (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKng4fEr4QgS869UuWLSjAsR2rz.jpg"
+    },
+    {
+      "name": "PT: Imperdoável (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbHo7UFYihixl5goN2Ro5Zs15Cw.jpg"
+    },
+    {
+      "name": "PT: OSS 117 : Alerte rouge en Afrique noire (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J0F1q9cJstqHbtaoS9nTQ4oCbx.jpg"
+    },
+    {
+      "name": "PT: The Encounter (2015)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLtAkJ7IqqXrQkYC7C5m7JW0JDu.jpg"
+    },
+    {
+      "name": "PT: Death Valley (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SCV6GqtQ4QFvzxS0YxPNYgdHLk.jpg"
+    },
+    {
+      "name": "PT: Castle Falls (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcmtEns8LZdkztVz5kX3cirugaa.jpg"
+    },
+    {
+      "name": "PT: The Slow Hustle (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kw352u64pqyMELC2k7kAxCok1H.jpg"
+    },
+    {
+      "name": "PT: Night Raiders (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioynPIDL7fZ4pTj1Yt5oOBdBgO6.jpg"
+    },
+    {
+      "name": "PT: Flag Day (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5X4nNW8XAjk2z8d0uvoku3rdMlM.jpg"
+    },
+    {
+      "name": "PT: Christmas in the Wilds (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWKvRS1NFbKvKpsIXpEw0hoZyXa.jpg"
+    },
+    {
+      "name": "PT: The Serpent (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvMoan3rxCDZpNf59BmAP2G8q5x.jpg"
+    },
+    {
+      "name": "PT: Christmas Movie Magic (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTBbp2LfrAJdy0DNTHDNhcwbO9c.jpg"
+    },
+    {
+      "name": "PT: The Reenactment (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3n5bqbRp3WdbJXtNKGfcQ20gPiq.jpg"
+    },
+    {
+      "name": "PT: Masquerade (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sHH629kR3ZDmPfL90JkUWew4wz.jpg"
+    },
+    {
+      "name": "PT: The Feast (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CHTcbtIKuKOztKjRO3QWThyxHC.jpg"
+    },
+    {
+      "name": "PT: Red Stone (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSjFASWM9MJWJEdjfGGnDz6dXXu.jpg"
+    },
+    {
+      "name": "PT: Rampart - O Renegado",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wUlYwDmkytszsDvyIPn66pdqgZe.jpg"
+    },
+    {
+      "name": "PT: The Card Counter (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg"
+    },
+    {
+      "name": "PT: Holiday Monday (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLZyee57vi7892ENAklLlE7EpNU.jpg"
+    },
+    {
+      "name": "PT: David and the Elves (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdQml1N2kysb1wKAGqTu3ZuQADW.jpg"
+    },
+    {
+      "name": "PT: American Sicario (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/obyC4L0S7OaaEC3xWLKghoxdxu5.jpg"
+    },
+    {
+      "name": "PT: Mixtape (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fpG1PiHPHdLt8X2e7WAct7EVB7.jpg"
+    },
+    {
+      "name": "PT: This Game's Called Murder (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KtkNgOgluMF6ynBC5YZT3kLeXA.jpg"
+    },
+    {
+      "name": "PT: The Housewife & the Shah Shocker (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/87a2gDZZZRbgKEEqo8je5KDT6Ps.jpg"
+    },
+    {
+      "name": "PT: Spencer (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GcqdBKaMM9BWXWN07BirBMkcBF.jpg"
+    },
+    {
+      "name": "PT: Silent Night (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfUO1SBTfgcK77em3lOuRFY2uLc.jpg"
+    },
+    {
+      "name": "PT: Ron's Gone Wrong (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA9QxSravC2EVEkEKgyEmDrfL0e.jpg"
+    },
+    {
+      "name": "PT: House of Glass (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCSvxgXeHgkUewa2iZvxOzS0US7.jpg"
+    },
+    {
+      "name": "PT: Devil's Triangle (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5ErORq2j7yzr2vNZ7GFXTrEKPm.jpg"
+    },
+    {
+      "name": "PT: Deadlock (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qNAt8w6ba6XBnnuudMpyhziUhp.jpg"
+    },
+    {
+      "name": "PT: Belfast (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg"
+    },
+    {
+      "name": "PT: Azor (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gra15Mqb6NvXbyYtL3hk79OQ1d.jpg"
+    },
+    {
+      "name": "PT: A Perfect Enemy (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgz3SDI99VJEE9uJEiVh4iqNlq8.jpg"
+    },
+    {
+      "name": "PT: The Power of the Dog (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg"
+    },
+    {
+      "name": "PT: The Kissing Booth 3 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg"
+    },
+    {
+      "name": "PT: Zone 414 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIm5S6Blkb0qDMTGVu80VWSrQV1.jpg"
+    },
+    {
+      "name": "PT: O Último Duelo",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pvEtPxotI3POlVPvNxgrHJuDXfe.jpg"
+    },
+    {
+      "name": "PT: The Velvet Underground (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uRF6vERWfhlSZKc1sAJTTdG2Ix.jpg"
+    },
+    {
+      "name": "PT: The Last Rite (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YAperQbfpJETfpPn6ezlWOm1sx.jpg"
+    },
+    {
+      "name": "PT: The Humans (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQsDWmkvzzJxlrc3HCqkfQRH11.jpg"
+    },
+    {
+      "name": "PT: The Drummer (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ir74CJ2XCxSeagPeZbVJbnqt5c5.jpg"
+    },
+    {
+      "name": "PT: Pourris gâtés",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/nW5LHayHlbavYD6XRM9SjKi55uu.jpg"
+    },
+    {
+      "name": "PT: Planet Dune (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPSPghn6tr6fGY6hTi78SrxBcqY.jpg"
+    },
+    {
+      "name": "PT: Multiverse (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WWdlKaAhDbpnsNvfOJUoR59T8c.jpg"
+    },
+    {
+      "name": "PT: Matando Cabos 2: La Máscara del Máscara (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxdKa1467pktAILLbfw6kZyQlbW.jpg"
+    },
+    {
+      "name": "PT: Moby Doc (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SVGyyEWu6VJXV36xmSK66kCdMR.jpg"
+    },
+    {
+      "name": "PT: Long Story Short (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAJ95mBgB0yAKCS5a3Tw5UxjLEp.jpg"
+    },
+    {
+      "name": "PT: King Richard (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.jpg"
+    },
+    {
+      "name": "PT: Introducing Jodea (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTc50rCYgVGNs1BO4qLgS2ZaohW.jpg"
+    },
+    {
+      "name": "PT: Good Thief (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7n3OGNbmzK2sVkLpQVk5ggTDosn.jpg"
+    },
+    {
+      "name": "PT: Endangered Species (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccsSqbpEqr2KK9eMvoeF8ERFCd5.jpg"
+    },
+    {
+      "name": "PT: Dragon Fury (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WcJ4cV2Y3gnTYp5zHu968TYmTJ.jpg"
+    },
+    {
+      "name": "PT: Christmas Déjà Vu (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIE2wR6cW3eFRAadGqSPkSh6Luv.jpg"
+    },
+    {
+      "name": "PT: An Unexpected Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnDDE8btTfi6PKDTzJ2CMChDwpu.jpg"
+    },
+    {
+      "name": "PT: A Picture Perfect Holiday (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzh4Phdt2VvEYNlTQTEHJiXRBnH.jpg"
+    },
+    {
+      "name": "PT: A Match Made at Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yP1cVZyDXjS6kMQBX4fSpZXMWi.jpg"
+    },
+    {
+      "name": "PT: A Castle for Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg"
+    },
+    {
+      "name": "PT: 14 Peaks: Nothing Is Impossible (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg"
+    },
+    {
+      "name": "PT: The Harder They Fall (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/su9WzL7lwUZPhjH6eZByAYFx2US.jpg"
+    },
+    {
+      "name": "PT: Safer at Home (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mfnSVdDartB6TJ3k7Qyn0zMzKu.jpg"
+    },
+    {
+      "name": "PT: As Rainhas do Desconto",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/p5Uz76EOwj9rAsdGxYL8IZGPV2B.jpg"
+    },
+    {
+      "name": "PT: Needle in a Timestack (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg"
+    },
+    {
+      "name": "PT: Copshop - Não Fazemos Prisioneiros",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/9LEWWWEhS7SZXFDuH1YYhs0VFct.jpg"
+    },
+    {
+      "name": "PT: VENOM: Tempo de Carnificina",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg"
+    },
+    {
+      "name": "PT: A House on the Bayou (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qCUy997QKgZDieby5sF6mMHAsB.jpg"
+    },
+    {
+      "name": "PT: A Boy Called Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sRejtiHOZGggZd9RcmdqbapLM5.jpg"
+    },
+    {
+      "name": "PT: Zeros and Ones (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ALGmaXQSLQsaefjeu0kHfzFoWD.jpg"
+    },
+    {
+      "name": "PT: Yara (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcVFI8t5QAvXGzQRKA82glDdOr3.jpg"
+    },
+    {
+      "name": "PT: A Princesa da Yakuza",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/c2X0bI2z7Q6u6HJ9NU4KqRqPJ0B.jpg"
+    },
+    {
+      "name": "PT: tick, tick...BOOM! (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
+    },
+    {
+      "name": "PT: The Zeme (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dixoMmZt1fDKsy6gJYmvdUv7BKM.jpg"
+    },
+    {
+      "name": "PT: A Lenda do Cavaleiro Verde",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg"
+    },
+    {
+      "name": "PT: The Colour Room (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI2We6dTR6nOmSHlI59j3E6VzGy.jpg"
+    },
+    {
+      "name": "PT: Respect (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUtPwOBZJc8uJnDqlCXTibdgxKz.jpg"
+    },
+    {
+      "name": "PT: See You Next Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSJNY1xyKs88S4HEhBav8RBOMyo.jpg"
+    },
+    {
+      "name": "PT: One Shot (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OXiTjU30gWtqxmx4BU9RVp2OTv.jpg"
+    },
+    {
+      "name": "PT: Never Back Down: Revolt (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/icAG01wZyy1ZpS3UEnPReph3jMV.jpg"
+    },
+    {
+      "name": "PT: Love Hard (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg"
+    },
+    {
+      "name": "PT: My Fiona (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVmfK8aCsrRfNCvYQSTE8pdWmJC.jpg"
+    },
+    {
+      "name": "PT: Las leyes de la frontera",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qrq7sGXraFM6H9OcHFKQTKe8A3f.jpg"
+    },
+    {
+      "name": "PT: A Noite Passada em Soho",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg"
+    },
+    {
+      "name": "PT: Sozinho em... Lar Doce Lar",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg"
+    },
+    {
+      "name": "PT: Hideout (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckAui0w734hvNsHxfL9zZfpGefN.jpg"
+    },
+    {
+      "name": "PT: Heart of Champions (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGQ8SCKQn92gug4nahZa5KEmy7l.jpg"
+    },
+    {
+      "name": "PT: Happiness Ever After (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPizWp78D0Rt0q1G7ujYmjmfhL7.jpg"
+    },
+    {
+      "name": "PT: God's Not Dead: We The People (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEwacCPCUSdncxZ3RWplQd2WhIe.jpg"
+    },
+    {
+      "name": "PT: Edge of the World (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okLrhor4L4hyiDBQKb6y650Q8hI.jpg"
+    },
+    {
+      "name": "PT: Dangerous (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTtkQGC7qKlSRQJZYtAWAmYdH0A.jpg"
+    },
+    {
+      "name": "PT: Clifford the Big Red Dog (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygPTrycbMSFDc5zUpy4K5ZZtQSC.jpg"
+    },
+    {
+      "name": "PT: Black Friday (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOx9OwFjgXilKRWCQacXmp2rFLC.jpg"
+    },
+    {
+      "name": "PT: Benedetta (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eJfB8ZwnspJV4IwREbRrfiyVag.jpg"
+    },
+    {
+      "name": "PT: Baking Spirits Bright (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRGP9i8S4jsVi2IDSdkr9Pd47aX.jpg"
+    },
+    {
+      "name": "PT: An Ice Wine Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBvouYiJmMxk8VIAXMyoaL1Cr28.jpg"
+    },
+    {
+      "name": "PT: Ace & the Christmas Miracle (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zK8qx4Ul2K89FhtHfJyMf4Gi1jm.jpg"
+    },
+    {
+      "name": "PT: A Space in Time (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uY3dqX4GDkFb5jQ4yRnwNe3LiFK.jpg"
+    },
+    {
+      "name": "PT: A Jenkins Family Christmas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKZoe0etv0LE97NPieNZ8bUsean.jpg"
+    },
+    {
+      "name": "PT: 8 (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEot6Gg88yvIpLI9HTZNPvSkzTd.jpg"
+    },
+    {
+      "name": "PT: 7 Prisoners (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg"
+    },
+    {
+      "name": "PT: There's Someone Inside Your House (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/GaPJQscaH4MtYQTbJyWjCUIho8.jpg"
+    },
+    {
+      "name": "PT: The Night House – Segredo Obscuro",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg"
+    },
+    {
+      "name": "PT: Aviso Vermelho",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/lAXONuqg41NwUMuzMiFvicDET9Y.jpg"
+    },
+    {
+      "name": "PT: Passing (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXp6ERnrFdG04Gli3d34GtANsuw.jpg"
+    },
+    {
+      "name": "PT: Night Teeth (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg"
+    },
+    {
+      "name": "PT: Cordeiro",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/k24DZCrK8LsYZIQiRyBHIBX3p2k.jpg"
+    },
+    {
+      "name": "PT: Apex (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg"
+    },
+    {
+      "name": "PT: The Forgotten Battle (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIECF0d3fri7yryBwMfHJxKAHdE.jpg"
+    },
+    {
+      "name": "PT: 8 Rue de l'Humanité",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/bvK9AMUvh0TzjSmWwv74CgBEfg2.jpg"
+    },
+    {
+      "name": "PT: Shang-Chi e a Lenda dos Dez Anéis",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg"
+    },
+    {
+      "name": "PT: Hypnotic (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg"
+    },
+    {
+      "name": "PT: Forever Rich (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg"
+    },
+    {
+      "name": "PT: Todos os Santos de Newark (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jq9ycHFxR2z8D7sa8yZQFvc0Tw4.jpg"
+    },
+    {
+      "name": "PT: 007: Sem Tempo para Morrer",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
+    },
+    {
+      "name": "PT: Finch (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ci74Wvy9dJlZBISk7YieOR2p3D8.jpg"
+    },
+    {
+      "name": "PT: Diana (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC15nLESFDfe2YUGkXMx3sGwy3T.jpg"
+    },
+    {
+      "name": "PT: Exército de Ladrões",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/4fVMognsmbogzkfY7DY0Bvn7h7Y.jpg"
+    },
+    {
+      "name": "PT: After: Depois do Desencontro",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg"
+    },
+    {
+      "name": "PT: Atividade Paranormal: Descendentes",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg"
+    },
+    {
+      "name": "PT: An Intrusion (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Tg2qT8FqwEihC6yhqbZYY9akBg.jpg"
+    },
+    {
+      "name": "PT: Halloween Mata",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/4CclCDyQXBBgz62Qtp3CoflQE5g.jpg"
+    },
+    {
+      "name": "PT: Duna (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PQdUB1KDxMxdw7KBdFFgI9kJPv.jpg"
+    },
+    {
+      "name": "PT: Demon Slayer - O Filme: Comboio Infinito",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg"
+    },
+    {
+      "name": "PT: O Culpado",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/6frjQZNXvSbx6LKzp1S9L3yM0wG.jpg"
+    },
+    {
+      "name": "PT: Cry Macho - A Redenção",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg"
+    },
+    {
+      "name": "PT: Free Guy: Herói Improvável",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg"
+    },
+    {
+      "name": "PT: Presos no Tempo",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vclShucpUmPhdAOmKgf3B3Z4POD.jpg"
+    },
+    {
+      "name": "PT: Malignant (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/af6rtqaYoYlPbdVkrhPpFr24q9k.jpg"
+    },
+    {
+      "name": "PT: Candyman (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZzWBsUDxsjHvh1Rpy6AOIzYjcI.jpg"
+    },
+    {
+      "name": "PT: Schumacher (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucNYfsbX1Z4tjMSr3waxsHMVjve.jpg"
+    },
+    {
+      "name": "PT: The Voyeurs (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg"
+    },
+    {
+      "name": "PT: Kate (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xgGFsqxYWC7EUDxxRcrcEPxj1l.jpg"
+    },
+    {
+      "name": "PT: Escape Room 2: Sem Saída (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLoktBEDa1ExQ1ANNLv80u6m4FI.jpg"
+    },
+    {
+      "name": "PT: 12 Órfãos Poderosos (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg"
+    },
+    {
+      "name": "PT: Amigos Passageiros (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IOAGHxkLSDTfdoCxqNiO1pVi4m.jpg"
+    },
+    {
+      "name": "PT: Las protegidas (1975)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc9nDgXjyiy7aia3nGt4p5q1Q61.jpg"
+    },
+    {
+      "name": "PT: Sweet Girl (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP7odDzzFBD9ycxj2laTeFWGLjD.jpg"
+    },
+    {
+      "name": "PT: Reminiscencia",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Ele É Demais (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR5s6KTvHFBzVMiSiFFHkOhEbbJ.jpg"
+    },
+    {
+      "name": "PT: Nem Respires 2 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bE46qkPtUnff8READ0AYZP9mVj2.jpg"
+    },
+    {
+      "name": "PT: Beckett (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg"
+    },
+    {
+      "name": "PT: Space Jam: A New Legacy",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/mDACFTANR34u6lvucazoYiFJOp7.jpg"
+    },
+    {
+      "name": "PT: Snake Eyes: A Origem dos G.I. Joe (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVwQxrSp9TVuNzrsh63U0reYX7O.jpg"
+    },
+    {
+      "name": "PT: Scare Us (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aESC5UWNgnjZhaleCrCtyaKnBZ4.jpg"
+    },
+    {
+      "name": "PT: False Positive (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HSov8EW2fI3oQbUJxOvnf684ej.jpg"
+    },
+    {
+      "name": "PT: O Esquadrão Suicida (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTS3dS2DJiMFFgqKDz5fxMTri.jpg"
+    },
+    {
+      "name": "PT: Le Dernier Mercenaire (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg"
+    },
+    {
+      "name": "PT: The Last Letter From Your Lover (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/faiC6bHYQEOzXKw20LNthaHurx0.jpg"
+    },
+    {
+      "name": "PT: The Forever Purge",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg"
+    },
+    {
+      "name": "PT: Rurouni Kenshin: The Beginning (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlCLslZNCflJgZOAUNN2XEV3RTg.jpg"
+    },
+    {
+      "name": "PT: Resort to Love (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92H1ZRhTMXljh8KA5oI1ZhPe8Gf.jpg"
+    },
+    {
+      "name": "PT: Pig (2010)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/krI1T4GWhAIZgXLKGQti8duiS4l.jpg"
+    },
+    {
+      "name": "PT: Occupation - Rainfall (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBtiUHtbMDNM5MRgpKjwmjPSRP2.jpg"
+    },
+    {
+      "name": "PT: Mumbai Saga",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/4xTtLkGEmUD5Oqjsv3lrkeLr2NW.jpg"
+    },
+    {
+      "name": "PT: Velocidade Furiosa 9 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg"
+    },
+    {
+      "name": "PT: Chernobyl: O Filme",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg"
+    },
+    {
+      "name": "PT: Kingdom: Ashin of the North (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/piGZDwFW4urLYDWGiYJMrt6hdCS.jpg"
+    },
+    {
+      "name": "PT: Jolt (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYZAHan5CHPFXORpQMvOjCTug4E.jpg"
+    },
+    {
+      "name": "PT: A Blood Red Sky (2015)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5m6LpTEoUgbSCM2IcEclFEAJZbA.jpg"
+    },
+    {
+      "name": "PT: Bartkowiak (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg"
+    },
+    {
+      "name": "PT: Fondeados (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytenWBdOd9UtMjyAsJuqBbTl67X.jpg"
+    },
+    {
+      "name": "PT: Cold Case JFK (2013)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZEkYkuYR3kAerJOILT5vaFkJzk.jpg"
+    },
+    {
+      "name": "PT: Black Easter (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/23e5SAT6CKvNcs35UTOmnuFh2dH.jpg"
+    },
+    {
+      "name": "PT: Prime Time (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqSjrADn8jqoTNfy33bRfOhNFpm.jpg"
+    },
+    {
+      "name": "PT: Ao Ritmo de Washington Heights (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/57stjvmmKTEsscXfWmFHsFoISq5.jpg"
+    },
+    {
+      "name": "PT: Sherni (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFyzi7gp3OZz4sH5z7tjZlGyc3H.jpg"
+    },
+    {
+      "name": "PT: Deep (2017)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMZTBbBa9eevwpWoVIVHh4Gm1ij.jpg"
+    },
+    {
+      "name": "PT: Gunpowder Milkshake 2",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: Fear Street: 1666 - Parte 3",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Willy's Wonderland (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/keEnkeAvifw8NSEC4f6WsqeLJgF.jpg"
+    },
+    {
+      "name": "PT: Voyagers (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/50mYEEOiueKarAhlHAz5qOTuIzX.jpg"
+    },
+    {
+      "name": "PT: Till Death (1978)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "PT: O Homem da Água (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7hsfb9fiEaLO5cLqVxjUhowosP.jpg"
+    },
+    {
+      "name": "PT: The Virtuoso (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXHzO26mJaOt4VO7ZFiM6No5ScT.jpg"
+    },
+    {
+      "name": "PT: A Guerra do Amanhã (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg"
+    },
+    {
+      "name": "PT: The Five Misfits",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MmEmIoo3Mn092c3RNC6uiw3ewu.jpg"
+    },
+    {
+      "name": "PT: O (2001)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4IBp9UR3R6wKIqCS31KFtIklK5.jpg"
+    },
+    {
+      "name": "PT: Le guide de la famille parfaite (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLwfTFAZPbGKrkqXQHkKqLcpoHj.jpg"
+    },
+    {
+      "name": "PT: The Colony (1995)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6otx5i30afoUN6n0U3pPO2P7p11.jpg"
+    },
+    {
+      "name": "PT: Colonizadores (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubpMr8hOsRHZmg1J8iNxnUAsTZL.jpg"
+    },
+    {
+      "name": "PT: No Sudden Move (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3gOA4HILFPzjbRuj7HOC55qKDI.jpg"
+    },
+    {
+      "name": "PT: Music (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg"
+    },
+    {
+      "name": "PT: Major Grom Contra o Dr. Peste (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rShV4uPtjxy3T9OmblG1APJHGIj.jpg"
+    },
+    {
+      "name": "PT: Lansky (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weNMzi7WXuzoml2Wvm1VMEE7Ipq.jpg"
+    },
+    {
+      "name": "PT: Gaia (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8cwfPwjHDWf5s5MxvLvcfnxPLL.jpg"
+    },
+    {
+      "name": "PT: Rua do Medo: 1978 - Parte 2",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Rua do Medo: 1994 – Parte 1",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: A Classic Horror Story (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4gomiaeEAVkgofuyCHtzKkuXVS.jpg"
+    },
+    {
+      "name": "PT: The Superdeep (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhmiis5tWA6aHpcLgAqadt8NY5H.jpg"
+    },
+    {
+      "name": "PT: The Dry (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM12bfL2TEqVRXjiQIFUWUMLcCg.jpg"
+    },
+    {
+      "name": "PT: Riders of Justice (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg"
+    },
+    {
+      "name": "PT: How I Became a Super Hero",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/d0wn9YtEnmbucx8ZUsT918ctoiK.jpg"
+    },
+    {
+      "name": "PT: Um Lugar Silencioso 2 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYqmuxd9jNFLf3gtQY5vbAUgiGk.jpg"
+    },
+    {
+      "name": "PT: The Ice Road: Missão de Risco (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/537klaNsLjynwopYTrqz6ro03l4.jpg"
+    },
+    {
+      "name": "PT: The 8th Night (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/trSDStH3UP4ux4lAILNNSqDXSB3.jpg"
+    },
+    {
+      "name": "PT: Dynasty Warriors (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BCTdek5LFHglcgl7shsm7igJAH.jpg"
+    },
+    {
+      "name": "PT: Rurouni Kenshin: The Final (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bbEASVf9XWtfxWiuWUMY3uyhTb.jpg"
+    },
+    {
+      "name": "PT: La Casa de las Flores: la película (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBBe8zfb8rBbpnqNst5MgkB8dSJ.jpg"
+    },
+    {
+      "name": "PT: Good on Paper (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9G21Iu3yHYB0CnJ1BJlpPKgLMl.jpg"
+    },
+    {
+      "name": "PT: Security (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuMcn12Us09pmAOuVEHXmFRivjF.jpg"
+    },
+    {
+      "name": "PT: Paternidade (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9YSg8HsrSnsYMrJUigyA8A6ybX.jpg"
+    },
+    {
+      "name": "PT: Flashback (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLJEwWOUmHHBW2HxkP8LEoqvq1L.jpg"
+    },
+    {
+      "name": "PT: Infinito (2011)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4I6pcnm4Hq8hbBxzznZ6QysGT7X.jpg"
+    },
+    {
+      "name": "PT: Selva Trágica (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/msBewlWSi8jZwir0rHNpOUrxoie.jpg"
+    },
+    {
+      "name": "PT: The Conjuring (2013)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg"
+    },
+    {
+      "name": "PT: Plano de Fuga (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSqnvS5kz0BmJOT4VWaCV20KeDY.jpg"
+    },
+    {
+      "name": "PT: Quatro Dias a Teu Lado (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3zOpdd8pWZrxgLHSGBLjLICFi1.jpg"
+    },
+    {
+      "name": "PT: Assalto à Casa-Forte",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/kWhXubAiIcHW0xn5GThflqaKZqh.jpg"
+    },
+    {
+      "name": "PT: Trippin’ with the Kandasamys (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/89xDX9eYSaqCPD4RNqXYzuRhqW3.jpg"
+    },
+    {
+      "name": "PT: Sweet & Sour (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/acFnNQ9b6JrDK68MoOvsudXvEXu.jpg"
+    },
+    {
+      "name": "PT: Dancing Queens (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg"
+    },
+    {
+      "name": "PT: The Djinn (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/thin7heIyFZp86hNNlPfyNINGNy.jpg"
+    },
+    {
+      "name": "PT: Bo Burnham: Inside (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg"
+    },
+    {
+      "name": "PT: Soy Rada: Serendipia (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z85TeZmJYQjfviJmVNdLXQt8uEe.jpg"
+    },
+    {
+      "name": "PT: Oslo (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZACZg9CKTIgjP7NdpvQJQBPUV5.jpg"
+    },
+    {
+      "name": "PT: Gatao: The Last Stray (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUAAIH5BrR31aBDfzSjWI5Lorqd.jpg"
+    },
+    {
+      "name": "PT: Ghost Lab (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdMsMYfkHJ6mLht5QCg7Hl8hnEp.jpg"
+    },
+    {
+      "name": "PT: Baggio: O Divino Rabo de Cavalo (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFSTxpMlg3KXX7Vxz91AKz1TiG9.jpg"
+    },
+    {
+      "name": "PT: Blue Miracle (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TR3pYZEwAI80okH8sMCVT7aL6S.jpg"
+    },
+    {
+      "name": "PT: Um Homem Furioso (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNz8wy63GAabztAUkO4xMGk3upx.jpg"
+    },
+    {
+      "name": "PT: Santuário das Sombras (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zduyzcjyahZtP4fGZE6789h04IM.jpg"
+    },
+    {
+      "name": "PT: Exército dos Mortos (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kn72J6BFcN71VYOl8sTVeo7x9ph.jpg"
+    },
+    {
+      "name": "PT: Sardar Ka Grandson (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/piBdQGTFMNzFYEUkmGRR3n2EZeU.jpg"
+    },
+    {
+      "name": "PT: I Am All Girls (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bUeV4mczG3z2YXXr5XDKPsQzv.jpg"
+    },
+    {
+      "name": "PT: A Mulher à Janela (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BasMP1hUZtDx0khdbHBkVZhKjJ.jpg"
+    },
+    {
+      "name": "PT: Oxigénio (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7pdbDCMdtBq9W2amvUglhgmusW.jpg"
+    },
+    {
+      "name": "PT: Just Noise (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/phRro83CasIo2ruUqMWYUXx2cZs.jpg"
+    },
+    {
+      "name": "PT: Monstro (2003)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aevmNtJCNG4ZlfEeEGZ79frMUes.jpg"
+    },
+    {
+      "name": "PT: The Disciple (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecESTxoNwnFNNknJrflxnMMzD7v.jpg"
+    },
+    {
+      "name": "PT: Sem Remorsos de Tom Clancy (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg"
+    },
+    {
+      "name": "PT: Sussurros das Trevas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsxQvbWiBa13Vsas5Sj0JhR73QF.jpg"
+    },
+    {
+      "name": "PT: Minari (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQxf2xZjMoerIAqR8grFzPFNDaO.jpg"
+    },
+    {
+      "name": "PT: Boogie (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5xmNu7Lb4IqOahsE8K6W8xBTC7.jpg"
+    },
+    {
+      "name": "PT: Wildcat (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy16WaZVnjNU86kEUrSc9qPwsgK.jpg"
+    },
+    {
+      "name": "PT: Sulla stessa onda (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHNkedUdx9yIWRyjPMqOeoT6fQB.jpg"
+    },
+    {
+      "name": "PT: Histórias Incomuns",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg"
+    },
+    {
+      "name": "PT: Homunculus (1916)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iNYfYfldXlzPdtjJlpbuhYMp6z.jpg"
+    },
+    {
+      "name": "PT: Uma Última Missão",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Ninguém",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/aUV6DQrYBlJFvdmRoiDssxyU42g.jpg"
+    },
+    {
+      "name": "PT: Dois Perfeitos Estranhos (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZRncL9WLV0aLOG4WKvML4Ljoq0.jpg"
+    },
+    {
+      "name": "PT: The Soul (2003)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgFLDVk6la92KEqFbuXXQ9Vy7yz.jpg"
+    },
+    {
+      "name": "PT: Ride or Die (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/77S8LQNkB0se2nk15X1d22QV1d1.jpg"
+    },
+    {
+      "name": "PT: Esquadrão Trovão (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aej7rR73kpAKce6XXBLeqijAwPD.jpg"
+    },
+    {
+      "name": "PT: Chaos Walking (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg"
+    },
+    {
+      "name": "PT: Have You Ever Seen Fireflies? (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZucbxHPkb5Xla5ivOcKim7A1NO.jpg"
+    },
+    {
+      "name": "PT: The Seventh Day (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NBiv0mpQJppmm5U912XXnokjnN.jpg"
+    },
+    {
+      "name": "PT: Judas and the Black Messiah (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA4Hsn1G0sBI8U61BpX05GsrrfF.jpg"
+    },
+    {
+      "name": "PT: Madame Claude (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwpkBKS9EvHihuWbdGAcBRjNp0o.jpg"
+    },
+    {
+      "name": "PT: SAS: Red Notice (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg"
+    },
+    {
+      "name": "PT: Tersanjung: The Movie (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yv3cB3O13ivlT7eUB6rnN8yHKP.jpg"
+    },
+    {
+      "name": "PT: Just Say Yes (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mww6dIUvcyoaiIRJ6883jixJVPU.jpg"
+    },
+    {
+      "name": "PT: Irul: Ghost Hotel (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLFGrYA2PXgwbO40WKKxYLAi0Fj.jpg"
+    },
+    {
+      "name": "PT: Loyiso Gola: Unlearning (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRSbX06SBpM3GYg5BNZsSGGDFVa.jpg"
+    },
+    {
+      "name": "PT: A Week Away (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfjdBn9rOoMZQgCqySlpjZv4L2V.jpg"
+    },
+    {
+      "name": "PT: The Yin Yang Master (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RJwhxEtEFZKC8ogLJ4eBwr42yc.jpg"
+    },
+    {
+      "name": "PT: Silenciada (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaOJVLns3P7WwqDwdoZ6eGnAikb.jpg"
+    },
+    {
+      "name": "PT: Guerra de Likes (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyM7XVFFaS4808sUa0f7ANCsIAk.jpg"
+    },
+    {
+      "name": "PT: Trust (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsJSjE0gJkhwKBwoo0JsuJ0fSAA.jpg"
+    },
+    {
+      "name": "PT: The United States vs. Billie Holiday (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEzkxuE2sJcmHYjXQHM8xvR9ICH.jpg"
+    },
+    {
+      "name": "PT: The Pond (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1He0eU9KbNECnxeZLmsfWC11qau.jpg"
+    },
+    {
+      "name": "PT: O Mauritano (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/W5Keg8TT9hYfEpIWCawh9dXjXf.jpg"
+    },
+    {
+      "name": "PT: Son (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fl6EdtMp6p0RKJgESdFti1J3dC.jpg"
+    },
+    {
+      "name": "PT: Fear of Rain (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw5WSquF8joM6lcP2KNoMDXJ2Z3.jpg"
+    },
+    {
+      "name": "PT: Crisis (1950)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WzagSdW1z9ekz6wH5xpVvYkqJY.jpg"
+    },
+    {
+      "name": "PT: The World to Come (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as59RjHMv1q92aiLgGYslB3pVJx.jpg"
+    },
+    {
+      "name": "PT: Land (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT79UNA1q98pqXxQHdiXvaTCiPF.jpg"
+    },
+    {
+      "name": "PT: Cherry (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbSsR0IfnxdXZqfRMpH2PgLAbPV.jpg"
+    },
+    {
+      "name": "PT: Paper Lives (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg"
+    },
+    {
+      "name": "PT: 2 Príncipes Em Nova Iorque",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "PT: Cosmic Sin (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5Jodmj8equxBklBlhZMHJtkp5J.jpg"
+    },
+    {
+      "name": "PT: Lavaperros (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtX6TPhoNACLQOTOZmTxc5r4R67.jpg"
+    },
+    {
+      "name": "PT: Moxie (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/odxiLTEkI7QacNcEpajJbXKzZPT.jpg"
+    },
+    {
+      "name": "PT: Sentinelle (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg"
+    },
+    {
+      "name": "PT: The Right One (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LFx4D7UfcLx0ARYCVa6N2Fzmlc.jpg"
+    },
+    {
+      "name": "PT: Odio, de Dani Rovira (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7rumAlTcFuNdqolUQDH9ZdjQcA.jpg"
+    },
+    {
+      "name": "PT: Brian Regan: On the Rocks (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZ8zxO7u7HH0QzdN7pX7kWIUsFS.jpg"
+    },
+    {
+      "name": "PT: The Girl on the Train (2016)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg"
+    },
+    {
+      "name": "PT: Loco por ella (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/28g5rvH7PlYB3CmilKWW20GcQkp.jpg"
+    },
+    {
+      "name": "PT: As Pequenas Coisas (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KNf7qHuce6U39Iygxz9fYRv0ny.jpg"
+    },
+    {
+      "name": "PT: Tudo Pelo Vosso Bem (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejMx7Hzh6FkG6BVWRpGYUMONlO2.jpg"
+    },
+    {
+      "name": "PT: Wrong Turn (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg"
+    },
+    {
+      "name": "PT: Squared Love (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeRCXsOitUdtDXc5sSVgwYGTZyg.jpg"
+    },
+    {
+      "name": "PT: A Todos os Rapazes: Agora e Para Sempre (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZ6rR0kXKlBRXGYjOTJx8j82sqs.jpg"
+    },
+    {
+      "name": "PT: En passant pécho (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyxaVyx7wEqChZoAO7vpvmMnDb1.jpg"
+    },
+    {
+      "name": "PT: The Map of Tiny Perfect Things (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQTtYGtylbzOWmq4NzE5i5fa1ww.jpg"
+    },
+    {
+      "name": "PT: L'ultimo paradiso (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJFc9CUT7v1S3UmsEEaubG2Gcf5.jpg"
+    },
+    {
+      "name": "PT: Space Sweepers (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9YDHJKvUoi7v2SCd3vLGPae1Xp.jpg"
+    },
+    {
+      "name": "PT: Red Dot (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qth9hOnQctaJbyzmAau4DZaUyUG.jpg"
+    },
+    {
+      "name": "PT: 100 Days to Live (2019)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o57zzDu7NYhGnlFyfZsoONRFFy.jpg"
+    },
+    {
+      "name": "PT: Faceless (1987)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cw4Ct3KRwRMbAxrwSzIEIGHpcS3.jpg"
+    },
+    {
+      "name": "PT: Bliss (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbTiSr0v9g8Q34MIeIcT0o2vGus.jpg"
+    },
+    {
+      "name": "PT: The Yin-Yang Master Dream of Eternity",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmfAkEXRoCXa5M18Bcr1Dj0dYig.jpg"
+    },
+    {
+      "name": "PT: Bajocero (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rofFkTuMwwIJpWJVQaTRYqfQuoN.jpg"
+    },
+    {
+      "name": "PT: A Grande Escavação",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg"
+    },
+    {
+      "name": "PT: Zona de Perigo (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg"
+    },
+    {
+      "name": "PT: What Happened to Mr Cha? (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzUXLPjTDihfcnCxWdVJOAj6oCd.jpg"
+    },
+    {
+      "name": "PT: Redemption Day (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPsov8oNjcPmkKf8rxv9PEXy14J.jpg"
+    },
+    {
+      "name": "PT: Chris Rock: Tamborine (2018)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdL5Vu9GcBlyC9T9bowojEOFs8X.jpg"
+    },
+    {
+      "name": "PT: Attack of the Giant Blurry Finger (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2UGkwXuj2btO8dk7ZI4vrn8uWW.jpg"
+    },
+    {
+      "name": "PT: Em busca de \\'Ohana (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg"
+    },
+    {
+      "name": "PT: Batman:  O Longo Dia das Bruxas – Parte 1 (2021)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/befb5a9959f5eea6622e150c84cf95a5.jpg"
+    },
+    {
+      "name": "PT: A Viagem (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/z1M9xY5xDQ7bRi2ukmWH8UyeZWM.jpg"
+    },
+    {
+      "name": "PT: A Grande Luta (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "http://xcui.vitvabc.xyz:8880/images/7b61062804640348673f19e97f3cc69c.jpg"
+    },
+    {
+      "name": "PT: A Daughter\\'s Ordeal (2020)",
+      "group": "PT - 2020 - 2021 Portugal Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/gCc30upgg4UtI2oY0A262mUnCK8.jpg"
+    }
+  ]
+}

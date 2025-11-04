@@ -1,0 +1,908 @@
+{
+  "package": "world",
+  "name": "TR - 2020-2021 Turkish Movies",
+  "groupIndex": 451,
+  "totalChannels": 180,
+  "channels": [
+    {
+      "name": "TR: TR Pocket Hercules: Naim Suleymanoglu",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/yNEATX1X3B7vmKY2Brm2wumuNG4.jpg"
+    },
+    {
+      "name": "TR: White Elephant (1928)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "TR: The Informer (1929)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3CWVMfa7QnsAaxWM3WkSkkqbRf.jpg"
+    },
+    {
+      "name": "TR: Raging Fire (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny7lhSMcE5ddbFi2DOM9GWocCA1.jpg"
+    },
+    {
+      "name": "TR: Benim Adım Karl (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQJcTlIfLJayp5TdlvFzwh9gtMp.jpg"
+    },
+    {
+      "name": "TR: TR The Northman",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg"
+    },
+    {
+      "name": "TR: Star Trek (2009)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV5OpzAss1z06YNagOVap1I35mH.jpg"
+    },
+    {
+      "name": "TR: The Collection (2024)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMiVz0vz2WbVxZaTXwtOkMXAhpx.jpg"
+    },
+    {
+      "name": "TR: The Trip (1967)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRX6gEJ4G1oFBDxEGdIhfogdjCN.jpg"
+    },
+    {
+      "name": "TR: The Count of Monte Cristo (1934)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpfDds86hBynC48ZJdb6mmijgkk.jpg"
+    },
+    {
+      "name": "TR: TR Seul Büyük Operasyonu",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/txaOvJ6HURmqFbpVtJezWNWqaR4.jpg"
+    },
+    {
+      "name": "TR: TR You Are So Not Invited to My Bat Mitzvah",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/ukpifWBW2xEmMtJX4bCpoNpWEr2.jpg"
+    },
+    {
+      "name": "TR: Tinker Bell: Peri Adası Oyunları (2011)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfpMphA7NP9Fu2E78EaxfhOuwep.jpg"
+    },
+    {
+      "name": "TR: Aşk Oluversin Gari (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QKmXi5HUxiH4e3PWb2Quh1PwIB.jpg"
+    },
+    {
+      "name": "TR: TR Brokedown Palace",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pWxoggA0KCS5oMPDOjIDYZYzryE.jpg"
+    },
+    {
+      "name": "TR: TR The Light Between Oceans",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/c9S6VKZPllNgdxBUuI3GYJiqcKO.jpg"
+    },
+    {
+      "name": "TR: Cheaper by the Dozen (1950)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGj9auC0z18y25NObFbvWLt8gtX.jpg"
+    },
+    {
+      "name": "TR: TR Star Trek Beyond",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/yOnd3XQIg7JBmu0UuBjZyLdsxQD.jpg"
+    },
+    {
+      "name": "TR: Şeker Adam'ın Laneti (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvpjNeDxhYMbyadnstfObvrNQsr.jpg"
+    },
+    {
+      "name": "TR: The Salvation (2014)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMS5EZkXRYTpq3yYI6iWNUZOCvS.jpg"
+    },
+    {
+      "name": "TR: Yeraltı Savaşı (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdr6n7CuOyexmLUTynRgT3QRQSc.jpg"
+    },
+    {
+      "name": "TR: The Keeping Room (2014)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hj2RoLiD31AuUfnYKA2HBlIb6n.jpg"
+    },
+    {
+      "name": "TR: Living (1971)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EMfONQ5HhTKk2XAoBSZCFFW7Ek.jpg"
+    },
+    {
+      "name": "TR: TR Bob Ross Happy Accidents Betrayal and Greed",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jov3rCzNT8u5b7A56c0XKCkP5Dc.jpg"
+    },
+    {
+      "name": "TR: TR The Diving Bell and the Butterfly",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3MJUo4bCPai5r9zrw7nTS8sVzQ7.jpg"
+    },
+    {
+      "name": "TR: TR When You Finish Saving the World",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg"
+    },
+    {
+      "name": "TR: Countdown (1967)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsGu8yNR6xyn1lTaiB6bBgqKVCQ.jpg"
+    },
+    {
+      "name": "TR: Know Fear (2022)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qA56VS1DqtLfcudMrtjpHc7rvR5.jpg"
+    },
+    {
+      "name": "TR: Babamın Kemikleri (2019)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOzdUuNKjFJg9pNxdva0QTIWXKO.jpg"
+    },
+    {
+      "name": "TR: Büyük Sihir (2023)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdwA3FsKPmgdyfyO6gENqB3vfBB.jpg"
+    },
+    {
+      "name": "TR: Hayatın Bedeli (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMFKTgRRCxfZGmFQVxBsQYAQufo.jpg"
+    },
+    {
+      "name": "TR: Elveda Christopher Robin (2017)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6IK3hMlUHzXZZVLBTh0WZ5KoAb.jpg"
+    },
+    {
+      "name": "TR: Upgrade (2018)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXyf5yP8dglXi8iZxc8iC6c1hp6.jpg"
+    },
+    {
+      "name": "TR: TR Hair Sac",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/j7DZOTKgGMVP6k607it3IsVmTj5.jpg"
+    },
+    {
+      "name": "TR: Cadılar Bayramı Öldürür (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZMRvw5tVVvnk0JlPZ5GaZSfnuu.jpg"
+    },
+    {
+      "name": "TR: Merdiven Altındakiler (1991)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OWDBVmGdM7HwaDtbDsdn6Rlzqj.jpg"
+    },
+    {
+      "name": "TR: Çakallarla Dans 6 (2022)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rk2FetwV6gMMtdf5VE5dzqW4Jxg.jpg"
+    },
+    {
+      "name": "TR: TR The Field Guide to Evil",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/pWAniWWeBf2qGAYuCPvnvYGs7pM.jpg"
+    },
+    {
+      "name": "TR: Can Çıkar Huy Çıkmaz (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZ5NOcZFEpzjt6W9LMIs1kSw3V3.jpg"
+    },
+    {
+      "name": "TR: TR Gonul Dag Kurban 2",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "TR: TR Aile yada Kitlik A Banquet",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7OoimN9GemDnAiD3tTfPOLbE9LP.jpg"
+    },
+    {
+      "name": "TR: İhbar (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/KowKEuyWziUtnCYicv6zhzTQIv.jpg"
+    },
+    {
+      "name": "TR: TR 12 Gucl Yetim",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "TR: The Black Book (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3J57RrKvOeGgbqtBzIvRTFF55Y.jpg"
+    },
+    {
+      "name": "TR: Kimse Sağ Çıkmayacak (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDaFGjZQ18cYbY9vKSOgEKUbvMl.jpg"
+    },
+    {
+      "name": "TR: Kadın Katilini Yakalatan Kadınlar (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pNmisYcsu3fsC5XlOpt0LbyjA7.jpg"
+    },
+    {
+      "name": "TR: Fazla Şaapma (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awgzbFxYFTbPEr2cT9G2GVbVSbT.jpg"
+    },
+    {
+      "name": "TR: Yaşamak (2020)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/djMXfwkD2t70nvEq21uHeW7zSmH.jpg"
+    },
+    {
+      "name": "TR: JFK Revisited: Through the Looking Glass (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWwEWzjkmuNGXpMhpVsrhNNB0NV.jpg"
+    },
+    {
+      "name": "TR: The Catholic School (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WTTXAtuyQY93oe1yetWYMGbO7K.jpg"
+    },
+    {
+      "name": "TR: Dreambuilders (2020)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmCGAiPrtW2EbumW3UGoRUiSP4V.jpg"
+    },
+    {
+      "name": "TR: Hypnotic (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg"
+    },
+    {
+      "name": "TR: Lords of Scam (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPcrO8DJAP0lPeoTiQHRsNBD2EC.jpg"
+    },
+    {
+      "name": "TR: Lead Me Home (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrsrOldUfXn5vd5HP3BAYxLTjpO.jpg"
+    },
+    {
+      "name": "TR: Azzurri: Road to Wembley (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAqx1Ss4MRBqLyCB2ICNrnr0D9V.jpg"
+    },
+    {
+      "name": "TR: Adele One Night Only (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7tO3IHm02FqRvE4R78bDkYX1Al.jpg"
+    },
+    {
+      "name": "TR: 14 Peaks: Nothing Is Impossible (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg"
+    },
+    {
+      "name": "TR: The Last Bus (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BAnsbDaWuyXB4rr8nTtABbAw6t.jpg"
+    },
+    {
+      "name": "TR: Mixtape (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fpG1PiHPHdLt8X2e7WAct7EVB7.jpg"
+    },
+    {
+      "name": "TR: Heart of Champions (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhBhe8DjdFspNjMOyrqD8i9Gy60.jpg"
+    },
+    {
+      "name": "TR: Bob Biswas (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CikkLfMxtKXjCDkNnzVfTwwpIL.jpg"
+    },
+    {
+      "name": "TR: Azor (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gra15Mqb6NvXbyYtL3hk79OQ1d.jpg"
+    },
+    {
+      "name": "TR: In for a Murder (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq5ODEgr1PUxT7HCqDT73SlDIek.jpg"
+    },
+    {
+      "name": "TR: A Taste of Hunger (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMy7XXgivypcXjPUeLiYOdVxX8f.jpg"
+    },
+    {
+      "name": "TR: Those Who Wish Me Dead (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg"
+    },
+    {
+      "name": "TR: The Last Letter from Your Lover (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg"
+    },
+    {
+      "name": "TR: Queen of Spades (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IKBzVBPLXu9p5cfEfdJjHdlafV.jpg"
+    },
+    {
+      "name": "TR: Kingdom: Ashin of the North (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/piGZDwFW4urLYDWGiYJMrt6hdCS.jpg"
+    },
+    {
+      "name": "TR: Blood Red Sky (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg"
+    },
+    {
+      "name": "TR: Miraculous World: Shanghai – The Legend of Ladydragon (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ0VKsGRQ2ofAmswGNzZnvC1xPE.jpg"
+    },
+    {
+      "name": "TR: Never Back Down: Revolt (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/icAG01wZyy1ZpS3UEnPReph3jMV.jpg"
+    },
+    {
+      "name": "TR: Firebird (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uECWNRjCEwewHBjt0leyZiAyiXb.jpg"
+    },
+    {
+      "name": "TR: Finding You (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRSsYtYcbhNAfHBp3ha1Nr65agi.jpg"
+    },
+    {
+      "name": "TR: Double Walker (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA8XJuMIHf9AVbfKhh3KA1hmJZ7.jpg"
+    },
+    {
+      "name": "TR: Becoming Cousteau (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qS1wLXuGjyXgsBoGW3gaok40IaU.jpg"
+    },
+    {
+      "name": "TR: Nobody Sleeps in the Woods Tonight 2 (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QvepemlDGIiiYsVs0Y1ieFuG7N.jpg"
+    },
+    {
+      "name": "TR: tick, tick... BOOM! (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
+    },
+    {
+      "name": "TR: Rathnan Prapancha (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dH7q0wASf3Wn9nHQL8HDbUSrjg7.jpg"
+    },
+    {
+      "name": "TR: Love Me Instead (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkaQgCdWO0NAA790lgRbiIxNqhp.jpg"
+    },
+    {
+      "name": "TR: Clifford the Big Red Dog (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oifhfVhUcuDjE61V5bS5dfShQrm.jpg"
+    },
+    {
+      "name": "TR: A Cop Movie (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlq6tv7sFAA7LtNu7Rk8Fw6Kfu1.jpg"
+    },
+    {
+      "name": "TR: 7 Prisoners (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg"
+    },
+    {
+      "name": "TR: Let It Happen, Now! (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5047WP2OVPmKUQXQ1GifNPcU4md.jpg"
+    },
+    {
+      "name": "TR: Worth (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMFKTgRRCxfZGmFQVxBsQYAQufo.jpg"
+    },
+    {
+      "name": "TR: Red Notice (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAXONuqg41NwUMuzMiFvicDET9Y.jpg"
+    },
+    {
+      "name": "TR: The Father Who Moves Mountains (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2aGQwebCkXqNqOVYGqOzPhguCa.jpg"
+    },
+    {
+      "name": "TR: Slumber Party Massacre (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/taybMcekWWhL7yuxPgYKXH5I1FY.jpg"
+    },
+    {
+      "name": "TR: Senior Moment (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JNDLdLXMoM9cKmMsKsMyN2JXYQ.jpg"
+    },
+    {
+      "name": "TR: Nightbooks (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysJte1iqN8pFQ470tumnViB1wHP.jpg"
+    },
+    {
+      "name": "TR: Aftermath (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzEb71u0HOucjdjcVoOqfCqOM0T.jpg"
+    },
+    {
+      "name": "TR: Old Henry (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg"
+    },
+    {
+      "name": "TR: Night Teeth (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg"
+    },
+    {
+      "name": "TR: Sardar Udham (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg"
+    },
+    {
+      "name": "TR: Sanak (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg1Zd1HsK2YCZ5NFvWOiMocitos.jpg"
+    },
+    {
+      "name": "TR: Rashmi Rocket (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsN3BlxpQ77XZH22GAXPFfbTflO.jpg"
+    },
+    {
+      "name": "TR: Amazon Queen (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxv5a2hv5g9WlflAgy5ObqxSve1.jpg"
+    },
+    {
+      "name": "TR: Army of the Dead (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8CExJekGrEThbpMXAmCFvvgoJR.jpg"
+    },
+    {
+      "name": "TR: Army of Thieves (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg"
+    },
+    {
+      "name": "TR: Warning (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UwzfI85ZoAXqdMrG878OudMQr6.jpg"
+    },
+    {
+      "name": "TR: Vinodhaya Sitham (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAXVMUfrTM9nk8aoEGFq3CDOr7q.jpg"
+    },
+    {
+      "name": "TR: Udanpirappe (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXOgwYa2aqNmezsQLyVnRGtA9E.jpg"
+    },
+    {
+      "name": "TR: The Secret Diary of an Exchange Student (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tladXTnCvsMDqJI8RiU3LpasSbT.jpg"
+    },
+    {
+      "name": "TR: Black Island (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53jsv5TASLwOqsJNsUNp4RPPq2l.jpg"
+    },
+    {
+      "name": "TR: Yağmur Rengi (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgDg5DKcMc3WZAA47wkW0LncnPM.jpg"
+    },
+    {
+      "name": "TR: Don't Breathe 2 (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg"
+    },
+    {
+      "name": "TR: Kate (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg"
+    },
+    {
+      "name": "TR: Last Man Down (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg"
+    },
+    {
+      "name": "TR: Ksheera Sagara Madhanam (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0KJAcLcJPwQ7GMCINbxUVo1qDj.jpg"
+    },
+    {
+      "name": "TR: Hustle Down (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nL8d6tQj5OTTFWDETOQBmdXIHD.jpg"
+    },
+    {
+      "name": "TR: Forever Rich (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg"
+    },
+    {
+      "name": "TR: Edis Starlight (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynXGPap6DxLyc8RLQmZQrDUUAMO.jpg"
+    },
+    {
+      "name": "TR: Chehre (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egpv58u11MxepnNwXtzdMOagRdg.jpg"
+    },
+    {
+      "name": "TR: Mortal Kombat Legends: Battle of the Realms (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg"
+    },
+    {
+      "name": "TR: Like Dogs (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKQZbEfMhmrAwasHdTfAjTcAZaH.jpg"
+    },
+    {
+      "name": "TR: Adventures of a Mathematician (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2QwbzBQNEw0Wx8ijiCqDZv3TVP.jpg"
+    },
+    {
+      "name": "TR: Circle: Eyes of Darkness (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/XaPMsmTNbv6jgqCOoRfGBwvSVt.jpg"
+    },
+    {
+      "name": "TR: Bize Müsaade (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HgSLITUZpLJ0iPv9bnPA3BtjjO.jpg"
+    },
+    {
+      "name": "TR: Can't Be True (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1SEmR3KzJn6a8NBeN8gWYerGAA.jpg"
+    },
+    {
+      "name": "TR: There's Someone Inside Your House (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJUdQ4BZAtlQK9Ny59TulkQGisB.jpg"
+    },
+    {
+      "name": "TR: Shiddat (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OMGLNH4yv4UxLI9gmKZSjY6enS.jpg"
+    },
+    {
+      "name": "TR: Old (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vclShucpUmPhdAOmKgf3B3Z4POD.jpg"
+    },
+    {
+      "name": "TR: The Marco Effect (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iedopRnMHIDyQlZzTTfroJfHhSN.jpg"
+    },
+    {
+      "name": "TR: 1921 (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1LmXXiIYhdRNGwoXrnoaKAlchu.jpg"
+    },
+    {
+      "name": "TR: Reminiscence (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg"
+    },
+    {
+      "name": "TR: Wired Shut (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XN45BW4mICXrEIGdCC2WKlSy1.jpg"
+    },
+    {
+      "name": "TR: The Wild Man (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ5PWkqanR94pcZOTxGyJ8CxJ0H.jpg"
+    },
+    {
+      "name": "TR: The Starling (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPkaPGNbjZCeRurSYGi0JD63DBa.jpg"
+    },
+    {
+      "name": "TR: Together Together (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WtVYwBs3a5zIzuSc169VLBIiS.jpg"
+    },
+    {
+      "name": "TR: Risen (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSmJrx26NLttonxQmO3hvjHa1gF.jpg"
+    },
+    {
+      "name": "TR: Queenpins (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/55uYpBNnlsUE9fCb3Eibx7F4zps.jpg"
+    },
+    {
+      "name": "TR: Prisoners of the Ghostland (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5HRzcvN1QXZLvwfc3NLxX8XQJY.jpg"
+    },
+    {
+      "name": "TR: Outlaw's Buckle (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjczt2BA1R5HAOtn6aFTO3Y0iuy.jpg"
+    },
+    {
+      "name": "TR: Mortal Kombat (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg"
+    },
+    {
+      "name": "TR: Megalodon Rising (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWeWU43mNVzpAnjgzxnvi9xgo9d.jpg"
+    },
+    {
+      "name": "TR: Killing Escobar (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dm7Iuvw5D9XCeqaQhaVz1xNxS4n.jpg"
+    },
+    {
+      "name": "TR: My Heroes Were Cowboys (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZwLqOPiBrrUCheVTVB17ix2ap.jpg"
+    },
+    {
+      "name": "TR: Jurassic Shark 2: Aquapocalypse (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylAGF0BlYn5pcKckFwR6bkw59LB.jpg"
+    },
+    {
+      "name": "TR: Jurassic Hunt (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZnOioDq1ldaxKfUoj3DenHU7mp.jpg"
+    },
+    {
+      "name": "TR: Holiday Monday (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLZyee57vi7892ENAklLlE7EpNU.jpg"
+    },
+    {
+      "name": "TR: Intrusion (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg"
+    },
+    {
+      "name": "TR: Escape from Area 51 (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lupJcoizoSaj9MVjLkquLwMJvz2.jpg"
+    },
+    {
+      "name": "TR: Descarrilados (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecbeh7LvjogNiymqDRa9cjHYFj1.jpg"
+    },
+    {
+      "name": "TR: Long Weekend (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/OyKfblQX6SR2rL6R26g5eYCLHq.jpg"
+    },
+    {
+      "name": "TR: After We Fell (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg"
+    },
+    {
+      "name": "TR: Vivo (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg"
+    },
+    {
+      "name": "TR: SR Kalyanamandapam (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSmKT6NrV64MBLLU6y1775lT9kb.jpg"
+    },
+    {
+      "name": "TR: Rushed (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/prPR4srMj4KJDRc9uqKbdIz36Bx.jpg"
+    },
+    {
+      "name": "TR: Skinwalker (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8hci9veFxI7vdbBgcZcRlWsUsl.jpg"
+    },
+    {
+      "name": "TR: Beckett (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg"
+    },
+    {
+      "name": "TR: Bartkowiak (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVko9u2CSwpU8zGj14Pzei6Eco.jpg"
+    },
+    {
+      "name": "TR: Prey (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D7nfhHI7b9ZvW3m7wVMtBSbC9U.jpg"
+    },
+    {
+      "name": "TR: The Last Frontier (2020)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUmIyA8SOrV9QKRZlmjmryGl4D3.jpg"
+    },
+    {
+      "name": "TR: Love (2020)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hS2eFigVGchssBaRlbt4hkRs09e.jpg"
+    },
+    {
+      "name": "TR: Road To Glory (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/saTjAGhJnoZZID5JmF0jBAWsQaV.jpg"
+    },
+    {
+      "name": "TR: Devil's Peak (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zP824g9hvXEUdDrxW2FUEcefPi7.jpg"
+    },
+    {
+      "name": "TR: Polina (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKh5oyV8OTMW9Yz2bIzDtH10twL.jpg"
+    },
+    {
+      "name": "TR: Fatman (2020)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4n8QNNdk4BOX9Dslfbz5Dy6j1HK.jpg"
+    },
+    {
+      "name": "TR: Lost Girls (2020)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg"
+    },
+    {
+      "name": "TR: Circle: The Girl at the End of the Road (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "TR: Grudge (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fhqb5JegWJGMuomR3Jqmo0Skqn.jpg"
+    },
+    {
+      "name": "TR: Rumba Love (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulL2D0zD8k8x0HJF7c1hUCCKVqs.jpg"
+    },
+    {
+      "name": "TR: Wild Indian (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhOpkNvgW1ZzmEpR4iqxKwKKShL.jpg"
+    },
+    {
+      "name": "TR: River (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txvcYjqgOmVP79twhNz2niHekhI.jpg"
+    },
+    {
+      "name": "TR: Living (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yB9ox0zf1iyZRzAU9srkBAbSdYt.jpg"
+    },
+    {
+      "name": "TR: The Informer (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg"
+    },
+    {
+      "name": "TR: The Power of the Dog (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg"
+    },
+    {
+      "name": "TR: Ask Benim Soyadim",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qDuTWET9QdSronOvoyWj2MjVvVr.jpg"
+    },
+    {
+      "name": "TR: Halloween Kills (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CclCDyQXBBgz62Qtp3CoflQE5g.jpg"
+    },
+    {
+      "name": "TR: Dhamaka (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/KowKEuyWziUtnCYicv6zhzTQIv.jpg"
+    },
+    {
+      "name": "TR: Artik Oluversin Gari (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/76pWzEn9dYlpUlJFoBYshNC7t8b.jpg"
+    },
+    {
+      "name": "TR: Bob Ross Happy Accidents Betrayal and Greed (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jov3rCzNT8u5b7A56c0XKCkP5Dc.jpg"
+    },
+    {
+      "name": "TR: Afterlife of the Party (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg"
+    },
+    {
+      "name": "TR: Love, Now! (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QKmXi5HUxiH4e3PWb2Quh1PwIB.jpg"
+    },
+    {
+      "name": "TR: The Women and the Murderer (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pNmisYcsu3fsC5XlOpt0LbyjA7.jpg"
+    },
+    {
+      "name": "TR: No One Gets Out Alive (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg"
+    },
+    {
+      "name": "TR: 12 Mighty Orphans (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIY2QF211NLB1AOjZPFImusCLI1.jpg"
+    },
+    {
+      "name": "TR: Candyman (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygyoaQ8bCp4kDcLc6SdP5GvqmDW.jpg"
+    },
+    {
+      "name": "TR: Je suis Karl (2021)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9BbGSO1JWl7ymewtzFJTn1XyUv.jpg"
+    },
+    {
+      "name": "TR: The Last Vermeer (2020)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CKxIyEIdHgkQzDixn68Hvwua90.jpg"
+    },
+    {
+      "name": "TR: Mavzer (2020)",
+      "group": "TR - 2020-2021 Turkish Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOpzGFe3aB3anf0OTyOVmqTlMcW.jpg"
+    }
+  ]
+}

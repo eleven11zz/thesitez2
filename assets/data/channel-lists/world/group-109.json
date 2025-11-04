@@ -1,0 +1,18 @@
+{
+  "package": "world",
+  "name": "Sports - Eleven Sports.",
+  "groupIndex": 109,
+  "totalChannels": 2,
+  "channels": [
+    {
+      "name": "ELeven Sport 1 HD  (101-SERVERS)",
+      "group": "Sports - Eleven Sports.",
+      "logo": "https://logo.m3uassets.com/elevensport1.png"
+    },
+    {
+      "name": "ELeven Sport 2 HD  (101-SERVERS)",
+      "group": "Sports - Eleven Sports.",
+      "logo": "https://logo.m3uassets.com/elevensport2.png"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "package": "english",
+  "name": "VIP - CRICKET LIVE.",
+  "groupIndex": 8,
+  "totalChannels": 60,
+  "channels": [
+    {
+      "name": "PK GEO SUPER HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/geosuper.png"
+    },
+    {
+      "name": "PK PTV SPORTS HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/ptvsports.png"
+    },
+    {
+      "name": "PK A SPORTS HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/81217520581.png"
+    },
+    {
+      "name": "BD: T SPORTS HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/tsports.png"
+    },
+    {
+      "name": "Astro Cricket HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/astrocricket.png"
+    },
+    {
+      "name": "Willow Cricket HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/willowcricket.png"
+    },
+    {
+      "name": "Willow Extra HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/willowextra.png"
+    },
+    {
+      "name": "SuperSports Cricket  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/252aba711400eef6cd202a4227debaca.png"
+    },
+    {
+      "name": "SKY SPORTS HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/skysports.png"
+    },
+    {
+      "name": "SONY SPORTS 1 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/6349855638.png"
+    },
+    {
+      "name": "SONY SPORTS  2 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37894666931.png"
+    },
+    {
+      "name": "SONY SPORTS 3 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9406293322.jpg"
+    },
+    {
+      "name": "SONY SPORTS 5 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37120642971.png"
+    },
+    {
+      "name": "STAR Sports 1 Hindi HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports1hindi.png"
+    },
+    {
+      "name": "STAR Sports 1 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports1.png"
+    },
+    {
+      "name": "STAR Sports 1 English HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports1english.png"
+    },
+    {
+      "name": "STAR Sports 2 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports2.png"
+    },
+    {
+      "name": "STAR Sports 3  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports3.png"
+    },
+    {
+      "name": "STAR Sports Select 1 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsportsselect1.png"
+    },
+    {
+      "name": "STAR Sports Select 2  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsportsselect2.png"
+    },
+    {
+      "name": "DD Sports HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/ddsports.png"
+    },
+    {
+      "name": "FOX Sports 507 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/foxsports507.png"
+    },
+    {
+      "name": "FOX SPORTS 2  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "FOX Sports 501 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/foxsports501.png"
+    },
+    {
+      "name": "BEIN Sport 3 English HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/83304562791.png"
+    },
+    {
+      "name": "TNT Sports 4  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/tntsports4.png"
+    },
+    {
+      "name": "TNT Sports 4 B2  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a57eb4caf410a09b0345c0c652c3e09d.png"
+    },
+    {
+      "name": "StarzPlay Criclife  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/8a78ddb9c23e9c6f8a5fb121c02c463c.png"
+    },
+    {
+      "name": "StarzPlay CricLife 2  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://xplatinmedia.com:8080/images/cf60354f7adc5e72f6b13744081c5b99.png"
+    },
+    {
+      "name": "Sky Sports Main Event - ICCCT  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/252aba711400eef6cd202a4227debaca.png"
+    },
+    {
+      "name": "PK GEO SUPER HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/geosuper.png"
+    },
+    {
+      "name": "PK PTV SPORTS HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/ptvsports.png"
+    },
+    {
+      "name": "PK A SPORTS HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/81217520581.png"
+    },
+    {
+      "name": "BD: T SPORTS HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/tsports.png"
+    },
+    {
+      "name": "Astro Cricket HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/astrocricket.png"
+    },
+    {
+      "name": "Willow Cricket HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/willowcricket.png"
+    },
+    {
+      "name": "Willow Extra HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/willowextra.png"
+    },
+    {
+      "name": "SuperSports Cricket  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/252aba711400eef6cd202a4227debaca.png"
+    },
+    {
+      "name": "SKY SPORTS HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/skysports.png"
+    },
+    {
+      "name": "SONY SPORTS 1 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/6349855638.png"
+    },
+    {
+      "name": "SONY SPORTS  2 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37894666931.png"
+    },
+    {
+      "name": "SONY SPORTS 3 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9406293322.jpg"
+    },
+    {
+      "name": "SONY SPORTS 5 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37120642971.png"
+    },
+    {
+      "name": "STAR Sports 1 Hindi HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports1hindi.png"
+    },
+    {
+      "name": "STAR Sports 1 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports1.png"
+    },
+    {
+      "name": "STAR Sports 1 English HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports1english.png"
+    },
+    {
+      "name": "STAR Sports 2 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports2.png"
+    },
+    {
+      "name": "STAR Sports 3  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsports3.png"
+    },
+    {
+      "name": "STAR Sports Select 1 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsportsselect1.png"
+    },
+    {
+      "name": "STAR Sports Select 2  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/starsportsselect2.png"
+    },
+    {
+      "name": "DD Sports HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/ddsports.png"
+    },
+    {
+      "name": "FOX Sports 507 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/foxsports507.png"
+    },
+    {
+      "name": "FOX SPORTS 2  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "FOX Sports 501 HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/foxsports501.png"
+    },
+    {
+      "name": "BEIN Sport 3 English HD  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/83304562791.png"
+    },
+    {
+      "name": "TNT Sports 4  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "https://logo.m3uassets.com/tntsports4.png"
+    },
+    {
+      "name": "TNT Sports 4 B2  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a57eb4caf410a09b0345c0c652c3e09d.png"
+    },
+    {
+      "name": "StarzPlay Criclife  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/8a78ddb9c23e9c6f8a5fb121c02c463c.png"
+    },
+    {
+      "name": "StarzPlay CricLife 2  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://xplatinmedia.com:8080/images/cf60354f7adc5e72f6b13744081c5b99.png"
+    },
+    {
+      "name": "Sky Sports Main Event - ICCCT  (101-SERVERS)",
+      "group": "VIP - CRICKET LIVE.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/252aba711400eef6cd202a4227debaca.png"
+    }
+  ]
+}

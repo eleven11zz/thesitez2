@@ -1,0 +1,263 @@
+{
+  "package": "france",
+  "name": "FR - France Sports - Live.",
+  "groupIndex": 6,
+  "totalChannels": 51,
+  "channels": [
+    {
+      "name": "FR: CANAL+ LIGUE 1  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/canalplusligue1.png"
+    },
+    {
+      "name": "FR: Canal+ Sport 360 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/96781423721.png"
+    },
+    {
+      "name": "FR: Canal+ Motogp (ligue1)  HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://www.sportsmarketing.fr/wp-content/uploads/2021/02/canal-ligue-1-678x381.jpg"
+    },
+    {
+      "name": "FR: Canal+ Premier League HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/la-chaine-tv-canal-plus-premiere-league-220x142.png"
+    },
+    {
+      "name": "FR: Canal+ TOP 14 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/50896622801.png"
+    },
+    {
+      "name": "FR: AB Moteurs SD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/abmoteurs.png"
+    },
+    {
+      "name": "FR: Automoto LA Chaine FHD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/automotolachaine.png"
+    },
+    {
+      "name": "FR: BEIN Sports 1 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports1.png"
+    },
+    {
+      "name": "FR: BEIN Sport 1 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsport1.png"
+    },
+    {
+      "name": "FR: BEIN Sport 2 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsport2.png"
+    },
+    {
+      "name": "FR: BEIN Sport 3 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsport3.png"
+    },
+    {
+      "name": "FR: BEIN Sport MAX 4 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportmax4.png"
+    },
+    {
+      "name": "FR: BEIN Sport MAX 5 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportmax5.png"
+    },
+    {
+      "name": "FR: BEIN MAX 6 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinmax6.png"
+    },
+    {
+      "name": "FR: Beinsports 6 MAX HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports6max.png"
+    },
+    {
+      "name": "FR: BEIN Sports MAX 7 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportsmax7.png"
+    },
+    {
+      "name": "FR: Beinsports 8 MAX HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports8max.png"
+    },
+    {
+      "name": "FR: BEIN MAX 8 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinmax8.png"
+    },
+    {
+      "name": "FR: BEIN Sport MAX 10 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsportmax10.png"
+    },
+    {
+      "name": "FR: BFM Sport HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/bfmsport.png"
+    },
+    {
+      "name": "FR: Canal Sport HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/canalsport.png"
+    },
+    {
+      "name": "FR: Eurosport 1 UHD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "FR: Eurosport 2 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "FR: Eurosport 1HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1hd.png"
+    },
+    {
+      "name": "FR: Eurosport 2 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "FR: Eurosport2 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "FR: Equidia LIVE HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/equidialive.png"
+    },
+    {
+      "name": "FR: Foot+ 24 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foot24.png"
+    },
+    {
+      "name": "FR: Foot24 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foot24.png"
+    },
+    {
+      "name": "FR: GOLF Channel HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/golfchannel.png"
+    },
+    {
+      "name": "FR: GOLF Channel HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/golfchannel.png"
+    },
+    {
+      "name": "FR: Infosport HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/infosport.png"
+    },
+    {
+      "name": "FR: Infosport+ HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/infosport.png"
+    },
+    {
+      "name": "FR: Kombat HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/75893648161.png"
+    },
+    {
+      "name": "FR: L Equipe 21 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/lequipe21.png"
+    },
+    {
+      "name": "FR: RMC 1 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/98621681951.png"
+    },
+    {
+      "name": "FR: RMC Sport 2 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/rmcsport2.png"
+    },
+    {
+      "name": "FR: RMC Sport 4 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/rmcsport4.png"
+    },
+    {
+      "name": "FR: RMC Sport 5 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/61297704121.png"
+    },
+    {
+      "name": "FR: RMC Sport 5 HD LIVE  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/71114421111.png"
+    },
+    {
+      "name": "FR: RMC Sport LIVE 6 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/rmcsportlive6.png"
+    },
+    {
+      "name": "FR: RMC Sport 6 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/10110978511.png"
+    },
+    {
+      "name": "FR: RMC Sport 6 HD LIVE  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/52375079191.png"
+    },
+    {
+      "name": "FR: RMC Sport LIVE 9 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/rmcsportlive9.png"
+    },
+    {
+      "name": "FR: RMC Sport 11 HD LIVE  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/22834654361.png"
+    },
+    {
+      "name": "FR: RMC Sport 13 FHD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/45521951291.png"
+    },
+    {
+      "name": "FR: RMC Access Sport 1 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/22814739101.png"
+    },
+    {
+      "name": "FR: RMC Access Sport 2 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/98181560351.png"
+    },
+    {
+      "name": "FR: RMC Access Sport 3 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/83564199981.png"
+    },
+    {
+      "name": "FR: RMC Sport NEWS HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/rmcsportnews.png"
+    },
+    {
+      "name": "FR: RMC Sport 1 HD  (101-SERVERS)",
+      "group": "FR - France Sports - Live.",
+      "logo": "https://logo.m3uassets.com/rmcsport1.png"
+    }
+  ]
+}

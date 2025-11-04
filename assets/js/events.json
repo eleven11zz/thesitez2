@@ -1,0 +1,233 @@
+{
+  "generatedAt": "2025-11-04T00:00:00.000Z",
+  "source": "TheSportsDB",
+  "leagues": [
+    {
+      "leagueId": "4328",
+      "slug": "premier-league",
+      "label": "English Premier League",
+      "sport": "Soccer",
+      "events": [
+        {
+          "id": "2056445",
+          "slug": "arsenal-vs-liverpool",
+          "title": "Arsenal vs Liverpool",
+          "league": "English Premier League",
+          "season": "2024-2025",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-02-15T17:30:00Z",
+            "date": "2025-02-15",
+            "time": "17:30"
+          },
+          "venue": "Emirates Stadium",
+          "city": "London, England",
+          "tvStations": [
+            "Sky Sports Premier League",
+            "Sky Sports Main Event",
+            "Peacock"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/qqvwxr1726959644.jpg",
+          "article": null,
+          "highlights": "https://www.scorebat.com/embed/g/arsenal-liverpool-highlights",
+          "odds": {
+            "home": "1.90",
+            "draw": "3.60",
+            "away": "3.40",
+            "raw": "1.90, 3.60, 3.40"
+          },
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emirates%20Stadium%20London%20England",
+          "eventUrl": "https://www.thesportsdb.com/event/2056445",
+          "homeTeam": {
+            "id": "133604",
+            "name": "Arsenal",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/vrtrtp1448813175.png",
+            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/yvsrrs1420633085.png"
+          },
+          "awayTeam": {
+            "id": "133602",
+            "name": "Liverpool",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/tprvyr1420644135.png"
+          }
+        },
+        {
+          "id": "2056450",
+          "slug": "manchester-city-vs-newcastle-united",
+          "title": "Manchester City vs Newcastle United",
+          "league": "English Premier League",
+          "season": "2024-2025",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-02-22T17:30:00Z",
+            "date": "2025-02-22",
+            "time": "17:30"
+          },
+          "venue": "Etihad Stadium",
+          "city": "Manchester, England",
+          "tvStations": [
+            "Sky Sports Premier League",
+            "USA Network"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/5l7f221726959690.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Etihad%20Stadium%20Manchester%20England",
+          "eventUrl": "https://www.thesportsdb.com/event/2056450",
+          "homeTeam": {
+            "id": "133613",
+            "name": "Manchester City",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/uyfwwt1448813355.png",
+            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/fmyhyu1631122822.png"
+          },
+          "awayTeam": {
+            "id": "134777",
+            "name": "Newcastle United",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/txpqsp1448813275.png",
+            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/sxrudp1420640044.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4391",
+      "slug": "nfl",
+      "label": "National Football League",
+      "sport": "American Football",
+      "events": [
+        {
+          "id": "2057001",
+          "slug": "kansas-city-chiefs-vs-san-francisco-49ers",
+          "title": "Kansas City Chiefs vs San Francisco 49ers",
+          "league": "NFL Playoffs",
+          "season": "2024-2025",
+          "sport": "American Football",
+          "start": {
+            "utc": "2025-02-09T23:30:00Z",
+            "date": "2025-02-09",
+            "time": "23:30"
+          },
+          "venue": "Caesars Superdome",
+          "city": "New Orleans, USA",
+          "tvStations": [
+            "CBS",
+            "Nickelodeon",
+            "Univision"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/yuprxz1726411594.jpg",
+          "article": null,
+          "highlights": "https://www.nfl.com/videos/chiefs-vs-49ers-highlights",
+          "odds": {
+            "home": "1.85",
+            "draw": null,
+            "away": "2.05",
+            "raw": "1.85;2.05"
+          },
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caesars%20Superdome%20New%20Orleans%20USA",
+          "eventUrl": "https://www.thesportsdb.com/event/2057001",
+          "homeTeam": {
+            "id": "134867",
+            "name": "Kansas City Chiefs",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/wusuvf1420905422.png",
+            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/txsutv1421753020.png"
+          },
+          "awayTeam": {
+            "id": "134922",
+            "name": "San Francisco 49ers",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/vxtpwr1422036915.png",
+            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/qtqupr1421754277.png"
+          }
+        },
+        {
+          "id": "2057005",
+          "slug": "buffalo-bills-vs-philadelphia-eagles",
+          "title": "Buffalo Bills vs Philadelphia Eagles",
+          "league": "NFL",
+          "season": "2024-2025",
+          "sport": "American Football",
+          "start": {
+            "utc": "2025-01-26T21:00:00Z",
+            "date": "2025-01-26",
+            "time": "21:00"
+          },
+          "venue": "Highmark Stadium",
+          "city": "Orchard Park, USA",
+          "tvStations": [
+            "FOX",
+            "DAZN Canada"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/rvtrtt1726411622.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Highmark%20Stadium%20Orchard%20Park%20USA",
+          "eventUrl": "https://www.thesportsdb.com/event/2057005",
+          "homeTeam": {
+            "id": "134880",
+            "name": "Buffalo Bills",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/txyttw1420905397.png",
+            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/wwpstw1421753683.png"
+          },
+          "awayTeam": {
+            "id": "134919",
+            "name": "Philadelphia Eagles",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/tstvsr1420905523.png",
+            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/rprpqt1421754210.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4480",
+      "slug": "ufc",
+      "label": "Ultimate Fighting Championship",
+      "sport": "Mixed Martial Arts",
+      "events": [
+        {
+          "id": "2057500",
+          "slug": "ufc-305-adesanya-vs-du-plessis",
+          "title": "UFC 305: Adesanya vs Du Plessis",
+          "league": "UFC",
+          "season": "2025",
+          "sport": "Mixed Martial Arts",
+          "start": {
+            "utc": "2025-03-08T04:00:00Z",
+            "date": "2025-03-08",
+            "time": "04:00"
+          },
+          "venue": "Perth Arena",
+          "city": "Perth, Australia",
+          "tvStations": [
+            "ESPN+ PPV",
+            "TNT Sports Box Office",
+            "Kayo PPV"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/0v7t191728012932.jpg",
+          "article": null,
+          "highlights": "https://www.ufc.com/video/ufc-305-countdown",
+          "odds": {
+            "home": "1.65",
+            "draw": null,
+            "away": "2.20",
+            "raw": "1.65,2.20"
+          },
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Perth%20Arena%20Perth%20Australia",
+          "eventUrl": "https://www.thesportsdb.com/event/2057500",
+          "homeTeam": {
+            "id": "137358",
+            "name": "Israel Adesanya",
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/xf9f941693404338.png",
+            "jersey": null
+          },
+          "awayTeam": {
+            "id": "137359",
+            "name": "Dricus Du Plessis",
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/8hcg0h1693404310.png",
+            "jersey": null
+          }
+        }
+      ]
+    }
+  ]
+}

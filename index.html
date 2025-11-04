@@ -1,0 +1,2192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>TVMaster - Premium IPTV Streaming</title>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"TVMaster VIP","url":"https://web.tvmaster.vip/","potentialAction":{"@type":"SearchAction","target":"https://web.tvmaster.vip/search.html?q={query}","query-input":"required name=query"}}
+</script>
+<link href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet"/>
+<style>
+/* Global layout tokens */
+:root {
+  --container: 1200px;
+  --pad: clamp(16px, 3vw, 32px);
+  --gap: clamp(14px, 3vw, 24px);
+  --fs-xxl: clamp(32px, 5.5vw, 52px);
+  --fs-xl: clamp(26px, 4.8vw, 38px);
+  --fs-lg: clamp(20px, 4vw, 26px);
+  --fs-md: clamp(16px, 3.6vw, 18px);
+  --fs-sm: 14px;
+}
+
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding-inline: var(--pad);
+}
+
+section {
+  padding: clamp(32px, 6vw, 72px) 0;
+}
+
+@supports (padding: max(0px)) {
+  body {
+    padding-top: max(env(safe-area-inset-top), 0px);
+  }
+}
+
+/* Clean Modern Layout - No Bright Colors */
+.swiper { margin: 3rem 0; }
+
+.site-header .container,
+.site-footer .container {
+  padding: 0 0.5rem;
+}
+
+.benefits-section {
+  padding: 4rem 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82)), url('/assets/benefits-bg.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82)), image-set(url('/assets/benefits-bg.webp') type('image/webp'), url('/assets/benefits-bg.jpg') type('image/jpeg'));
+  background-size: cover;
+  background-position: center;
+}
+
+.benefits-section h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #e50914;
+  margin-bottom: 3rem;
+}
+
+.benefit-card {
+  height: 210px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.benefit-card:hover {
+  transform: scale(1.05);
+}
+
+.benefit-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+  padding: 1.5rem;
+  color: white;
+}
+
+.benefit-overlay h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #e50914;
+}
+
+.benefit-overlay p {
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+.testimonials-section {
+  padding: 4rem 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82)), url('/assets/benefits-bg.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82)), image-set(url('/assets/benefits-bg.webp') type('image/webp'), url('/assets/benefits-bg.jpg') type('image/jpeg'));
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+}
+
+.testimonials-section h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 3rem;
+  color: #e50914;
+}
+
+.testimonials-swiper {
+  padding: 0 0 3rem;
+}
+
+.testimonials-swiper .swiper-wrapper {
+  align-items: stretch;
+}
+
+.testimonials-swiper .swiper-slide {
+  height: auto;
+  display: flex;
+}
+
+.testimonials-pagination {
+  position: static;
+  margin-top: 1rem;
+}
+
+.testimonial-card {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 2rem;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(229, 9, 20, 0.25);
+  backdrop-filter: blur(8px);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.testimonial-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, rgba(229, 9, 20, 0.2), transparent 60%);
+  pointer-events: none;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+}
+
+.testimonial-quote {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  color: #f8fafb;
+}
+
+.testimonial-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.testimonial-name {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #ffffff;
+}
+
+.testimonial-role {
+  font-size: 0.9rem;
+  color: rgba(248, 250, 251, 0.7);
+}
+
+.testimonial-stars {
+  color: #e50914;
+  font-size: 1rem;
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+}
+
+.site-footer {
+  background: #050505;
+  border-top: 1px solid rgba(229, 9, 20, 0.25);
+  margin-top: 0;
+  width: 100%;
+  padding: 2.75rem 0 2rem;
+  color: rgba(248, 250, 251, 0.75);
+}
+
+
+.footer-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  align-items: center;
+  text-align: center;
+}
+
+.footer-brand {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+
+.footer-summary {
+  margin: 0;
+  line-height: 1.6;
+  max-width: 420px;
+  color: rgba(248, 250, 251, 0.68);
+}
+
+.brand-logo {
+  height: 52px;
+  width: auto;
+}
+
+.footer-social {
+  display: inline-flex;
+  gap: 0.5rem;
+  margin-top: 0.4rem;
+  justify-content: center;
+}
+
+.footer-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1px solid rgba(229, 9, 20, 0.45);
+  color: #e50914;
+  font-size: 0.78rem;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.footer-social a:hover {
+  background: #e50914;
+  color: #050505;
+  border-color: #e50914;
+}
+
+.footer-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.9rem;
+  color: rgba(248, 250, 251, 0.68);
+  align-items: center;
+}
+
+.footer-contact a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.footer-contact a:hover {
+  color: #e50914;
+}
+
+.footer-links-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem 1.25rem;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.footer-links-row a {
+  color: rgba(248, 250, 251, 0.7);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-links-row a:hover {
+  color: #e50914;
+}
+
+.footer-note {
+  text-align: center;
+  color: rgba(248, 250, 251, 0.6);
+  font-size: 0.8rem;
+}
+
+@media (max-width: 640px) {
+  .footer-inner {
+    padding: 0 1.25rem;
+  }
+  .footer-links-row {
+    justify-content: center;
+  }
+  .footer-note {
+    font-size: 0.75rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .footer-contact {
+    font-size: 0.85rem;
+  }
+  .footer-links-row {
+    gap: 0.75rem 1rem;
+  }
+}
+
+.swiper-button-next, .swiper-button-prev {
+  color: #e50914 !important;
+  background: #000000;
+  border-radius: 50%;
+  width: 44px !important;
+  height: 44px !important;
+}
+
+.swiper-pagination-bullet {
+  background: #e50914 !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: radial-gradient(circle at top, rgba(229, 9, 20, 0.18), transparent 45%), #050505;
+  color: #f8fafb;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background: rgba(5, 5, 5, 0.94);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(229, 9, 20, 0.3);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+  z-index: 1000;
+}
+
+.header-inner {
+  min-height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.9rem;
+  text-decoration: none;
+}
+
+.header-logo {
+  height: 58px;
+  width: auto;
+}
+
+.brand-text {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.06em;
+}
+
+.nav-toggle {
+  display: none;
+  width: 44px;
+  height: 44px;
+  border: 1px solid rgba(229, 9, 20, 0.4);
+  background: rgba(5, 5, 5, 0.8);
+  color: inherit;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.nav-toggle span {
+  display: block;
+  width: 20px;
+  height: 2px;
+  background: #e50914;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: 1.35rem;
+  margin-left: auto;
+}
+
+.main-nav a {
+  color: rgba(248, 250, 251, 0.8);
+  text-decoration: none;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 4px;
+  transition: color 0.2s ease;
+}
+
+.main-nav .header-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.6rem;
+  border-radius: 999px;
+  background: #e50914;
+  color: #050505;
+  font-weight: 600;
+  box-shadow: 0 12px 26px rgba(229, 9, 20, 0.35);
+  margin-left: 0.5rem;
+}
+
+.main-nav a:not(.header-cta)::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  background: #e50914;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.2s ease;
+}
+
+.main-nav a:not(.header-cta):hover,
+.main-nav a:not(.header-cta):focus {
+  color: #ffffff;
+}
+
+.main-nav a:not(.header-cta):hover::after,
+.main-nav a:not(.header-cta):focus::after {
+  transform: scaleX(1);
+}
+
+.header-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #e50914;
+  color: #050505;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.85rem 1.75rem;
+  border-radius: 999px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.header-cta:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(229, 9, 20, 0.4);
+}
+
+.nav-toggle.is-active span:nth-child(1) {
+  transform: translateY(4px) rotate(45deg);
+}
+
+.nav-toggle.is-active span:nth-child(2) {
+  opacity: 0;
+}
+
+.nav-toggle.is-active span:nth-child(3) {
+  transform: translateY(-4px) rotate(-45deg);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 992px) {
+  .main-nav {
+    gap: 1rem;
+  }
+  .main-nav a {
+    font-size: 0.9rem;
+  }
+  .header-cta {
+    padding: 0.75rem 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-inner {
+    flex-direction: column;
+    height: auto;
+    align-items: stretch;
+    padding: 0.85rem 1.25rem 1.25rem;
+    gap: 0.75rem;
+  }
+  .nav-toggle {
+    display: inline-flex;
+    margin-left: auto;
+  }
+  .main-nav {
+    position: fixed;
+    inset: calc(64px + env(safe-area-inset-top, 0px)) 0 0 0;
+    background: #050505;
+    display: none;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: 18px var(--pad) 48px;
+    overflow-y: auto;
+    border-top: 1px solid rgba(229, 9, 20, 0.22);
+  }
+  .main-nav.open {
+    display: flex;
+  }
+  .main-nav a {
+    font-size: 0.85rem;
+    padding: 14px 4px;
+    border-bottom: 1px solid rgba(248, 250, 251, 0.08);
+  }
+  .main-nav .header-cta {
+    margin: 16px 0 8px;
+    width: 100%;
+  }
+  body.nav-open {
+    overflow: hidden;
+  }
+  .hero {
+    padding: 6rem 0 4rem;
+  }
+  .hero-content {
+    padding: 0 1.5rem;
+    gap: 2.5rem;
+  }
+  .hero-grid {
+    gap: 2.5rem;
+  }
+  .hero-text {
+    text-align: center;
+    align-items: center;
+  }
+  .hero-description {
+    max-width: 100%;
+  }
+  .hero-cta-group {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+  .hero-primary-cta,
+  .hero-secondary-cta {
+    width: 100%;
+    justify-content: center;
+  }
+  .hero-metrics {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+  }
+  .product-summary-grid {
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  }
+  .products-buttons {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .products-buttons a {
+    width: 100%;
+    padding: 0.8rem 1.75rem;
+  }
+  .lineups-grid {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1.25rem;
+  }
+  .swiper-button-next,
+  .swiper-button-prev {
+    width: 36px !important;
+    height: 36px !important;
+  }
+  .hero-card {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    padding: 0 1.25rem;
+  }
+  .hero {
+    padding: 6.5rem 0 3.25rem;
+  }
+  .hero-content {
+    padding: 0 1.25rem;
+    gap: 2rem;
+  }
+  .hero-heading {
+    font-size: clamp(2.2rem, 7vw + 1rem, 3.2rem);
+  }
+  .hero-subheading {
+    font-size: 1rem;
+    letter-spacing: 0.12em;
+  }
+  .hero-cta-group {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .hero-primary-cta,
+  .hero-secondary-cta {
+    width: 100%;
+  }
+  .product-summary-grid,
+  .lineups-grid {
+    grid-template-columns: 1fr;
+  }
+  .products-buttons {
+    width: 100%;
+    gap: 0.75rem;
+  }
+  .benefits-section,
+  .testimonials-section {
+    padding: 3.25rem 0;
+  }
+  .swiper {
+    margin: 2.25rem 0;
+  }
+}
+
+@media (max-width: 400px) {
+  .header-inner {
+    padding: 0.9rem 1.1rem 1.35rem;
+  }
+  .brand-text {
+    font-size: 1rem;
+  }
+  .main-nav {
+    gap: 0.5rem 1rem;
+  }
+  .main-nav a {
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+  }
+  .header-cta {
+    padding: 0.7rem 1.2rem;
+    font-size: 0.78rem;
+  }
+  .hero-description {
+    font-size: 0.98rem;
+  }
+  .hero-card {
+    padding: 1.6rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .channel-card {
+    height: 96px;
+    width: 96px;
+  }
+  .hero-card {
+    padding: 1.75rem;
+    max-width: 360px;
+  }
+  .card-icon {
+    width: 48px;
+    height: 48px;
+    font-size: 1.25rem;
+  }
+  .metric-card {
+    padding: 1.25rem;
+  }
+  .metric-value {
+    font-size: 2rem;
+  }
+  .sky-swiper .channel-card img {
+    height: 68%;
+  }
+  .product-summary-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .channel-card {
+    height: 86px;
+    width: 86px;
+    border-radius: 14px;
+    padding: 0.7rem;
+  }
+  .container {
+    padding: 0 1.2rem;
+  }
+  .hero-heading {
+    font-size: clamp(2.2rem, 6vw + 1.2rem, 3rem);
+  }
+  .hero-subheading {
+    font-size: 1.1rem;
+    letter-spacing: 0.12em;
+  }
+  .hero-cta-group {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .hero-primary-cta,
+  .hero-secondary-cta {
+    width: 100%;
+  }
+  .products-buttons {
+    width: 100%;
+  }
+  .products-buttons a {
+    flex: 1 1 100%;
+    justify-content: center;
+  }
+  .product-summary-card {
+    padding: 1.6rem;
+  }
+  .product-summary-card ul {
+    gap: 0.55rem;
+  }
+  .product-summary-card a {
+    width: 100%;
+    text-align: center;
+  }
+  .card-icon {
+    width: 44px;
+    height: 44px;
+    font-size: 1.1rem;
+  }
+  .hero-metrics {
+    grid-template-columns: 1fr;
+  }
+  .lineups-header h2 {
+    font-size: 2.2rem;
+  }
+  .lineup-card {
+    padding: 1.5rem;
+  }
+  .lineup-card .swiper {
+    margin-top: 1rem;
+  }
+  .swiper-wrapper {
+    gap: 1rem;
+  }
+  .testimonials-section h2,
+  .benefits-section h2,
+  .products-header h2 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .header-inner {
+    padding: 1rem 1rem 1.4rem;
+  }
+  .main-nav {
+    gap: 0.5rem 0.9rem;
+  }
+  .main-nav a {
+    font-size: 0.78rem;
+  }
+  .hero-card {
+    max-width: 320px;
+    padding: 1.55rem;
+  }
+  .hero-feature-list li {
+    padding-left: 1.3rem;
+  }
+  .hero-primary-cta,
+  .hero-secondary-cta {
+    font-size: 0.8rem;
+    padding: 0.75rem 1.6rem;
+  }
+  .metric-card {
+    padding: 1.1rem;
+  }
+  .metric-value {
+    font-size: 1.8rem;
+  }
+  .channel-card {
+    width: 82px;
+    height: 82px;
+  }
+  .card-icon {
+    width: 40px;
+    height: 40px;
+    font-size: 1rem;
+  }
+}
+
+.hero,
+.lineups-section,
+.benefits-section,
+.products-section,
+.testimonials-section {
+  scroll-margin-top: 130px;
+}
+
+
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/images/comfy.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), image-set(url('/images/comfy.avif') type('image/avif'), url('/images/comfy.webp') type('image/webp'), url('/images/comfy.webp'));
+  background-size: cover;
+  background-position: center;
+  min-height: 70vh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: clamp(48px, 8vw, 96px) 0;
+}
+
+.hero-content {
+  width: 100%;
+  max-width: var(--container);
+  margin: 0 auto;
+  padding-inline: var(--pad);
+  display: grid;
+  gap: clamp(32px, 6vw, 48px);
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  align-items: center;
+  gap: 3rem;
+}
+
+@media (max-width: 768px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .swiper {
+    margin: 2rem 0;
+    overflow: visible;
+  }
+  .swiper-wrapper {
+    gap: var(--gap);
+  }
+  .swiper-slide {
+    width: min(85vw, 360px) !important;
+  }
+  .swiper-button-next,
+  .swiper-button-prev,
+  .swiper-pagination {
+    display: none !important;
+  }
+}
+
+@media (min-width: 769px) {
+  .hero {
+    text-align: left;
+  }
+  .hero-text {
+    align-items: flex-start;
+    text-align: left;
+  }
+  .hero-description {
+    margin-inline: 0;
+  }
+  .hero-cta-group {
+    justify-content: flex-start;
+  }
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  color: #f8fafb;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-heading {
+  font-size: clamp(3rem, 5vw + 1rem, 5rem);
+  color: #ffffff;
+  line-height: 1.15;
+  margin: 0;
+}
+
+.hero-subheading {
+  font-size: clamp(1.1rem, 2.5vw + 0.5rem, 1.8rem);
+  color: #e50914;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.hero-description {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: rgba(248, 250, 251, 0.78);
+  max-width: 560px;
+  margin-inline: auto;
+}
+
+.hero-cta-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.hero-primary-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.9rem 2.2rem;
+  border-radius: 999px;
+  background: #e50914;
+  color: #050505;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  box-shadow: 0 18px 38px rgba(229, 9, 20, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hero-primary-cta:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 24px 44px rgba(229, 9, 20, 0.4);
+}
+
+.hero-secondary-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.9rem 2.2rem;
+  border-radius: 999px;
+  border: 1px solid rgba(248, 250, 251, 0.4);
+  color: rgba(248, 250, 251, 0.8);
+  text-decoration: none;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.hero-secondary-cta:hover {
+  background: rgba(248, 250, 251, 0.1);
+  border-color: rgba(248, 250, 251, 0.65);
+  color: #ffffff;
+}
+
+.hero-media {
+  display: flex;
+  justify-content: center;
+}
+
+.hero-card {
+  background: rgba(5, 5, 5, 0.68);
+  border: 1px solid rgba(229, 9, 20, 0.25);
+  border-radius: 22px;
+  padding: 2rem;
+  max-width: 420px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  box-shadow: 0 26px 60px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(12px);
+}
+
+@media (max-width: 480px) {
+  .hero-card {
+    margin: 0 auto;
+    max-width: 340px;
+    padding: 1.6rem;
+  }
+}
+
+.hero-card h3 {
+  color: #ffffff;
+  font-size: 1.35rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hero-feature-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.hero-feature-list li {
+  position: relative;
+  padding-left: 1.5rem;
+  color: rgba(248, 250, 251, 0.75);
+  line-height: 1.6;
+}
+
+.hero-feature-list li::before {
+  content: '';
+  position: absolute;
+  top: 0.6rem;
+  left: 0;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: #e50914;
+  box-shadow: 0 0 12px rgba(229, 9, 20, 0.45);
+}
+
+.hero-note {
+  font-size: 0.85rem;
+  color: rgba(248, 250, 251, 0.6);
+  border-top: 1px solid rgba(229, 9, 20, 0.35);
+  padding-top: 1rem;
+}
+
+.hero-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  justify-items: center;
+}
+
+@media (max-width: 768px) {
+  .hero-metrics {
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--gap);
+  }
+  .metric-card {
+    width: 100%;
+  }
+}
+
+.metric-card {
+  background: rgba(5, 5, 5, 0.72);
+  border: 1px solid rgba(229, 9, 20, 0.18);
+  border-radius: 18px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
+  position: relative;
+  overflow: hidden;
+}
+
+.metric-card::before,
+.metric-card::after {
+  content: '';
+  position: absolute;
+  inset: -40%;
+  background: radial-gradient(circle, rgba(229, 9, 20, 0.25), transparent 60%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.metric-card::after {
+  background: radial-gradient(circle, rgba(248, 250, 251, 0.18), transparent 55%);
+}
+
+.metric-value {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #ffffff;
+  text-shadow: 0 0 22px rgba(229, 9, 20, 0.35);
+  animation: metricPulse 4s ease-in-out infinite;
+}
+
+.metric-label {
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(248, 250, 251, 0.6);
+  transition: color 0.2s ease;
+}
+
+.metric-card:hover::before,
+.metric-card:hover::after {
+  opacity: 1;
+}
+
+.metric-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 28px 60px rgba(0, 0, 0, 0.4);
+  border-color: rgba(229, 9, 20, 0.35);
+}
+
+.metric-card:hover .metric-label {
+  color: rgba(248, 250, 251, 0.8);
+}
+
+.metric-card:hover .metric-value {
+  animation-duration: 2.2s;
+}
+
+@keyframes metricPulse {
+  0%, 100% {
+    text-shadow: 0 0 22px rgba(229, 9, 20, 0.3), 0 0 40px rgba(229, 9, 20, 0.15);
+  }
+  50% {
+    text-shadow: 0 0 28px rgba(229, 9, 20, 0.45), 0 0 60px rgba(229, 9, 20, 0.25);
+  }
+}
+.stream-slider-wrapper,
+.sky-slider-wrapper,
+.demo-slider-wrapper {
+  width: 100%;
+  margin: 0;
+}
+
+.lineups-section {
+  padding: 5rem 0;
+  background: #050505;
+}
+
+.lineups-header {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 3rem;
+}
+
+.lineups-header h2 {
+  font-size: 2.6rem;
+  color: #e50914;
+  margin-bottom: 1rem;
+}
+
+.lineups-header p {
+  color: rgba(248, 250, 251, 0.72);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.lineups-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.lineup-card {
+  background: rgba(10, 10, 10, 0.92);
+  border: 1px solid rgba(229, 9, 20, 0.22);
+  border-radius: 22px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  box-shadow: 0 24px 54px rgba(0, 0, 0, 0.35);
+}
+
+.lineup-card h3 {
+  font-size: 1.3rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.lineup-card p {
+  color: rgba(248, 250, 251, 0.68);
+  line-height: 1.6;
+}
+
+.lineup-card .swiper {
+  margin: 1.25rem 0 0;
+}
+
+.channel-card {
+  height: 112px;
+  width: 112px;
+  border-radius: 16px;
+  background: rgba(30, 30, 30, 0.8);
+  border: 1px solid rgba(229, 9, 20, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.85rem;
+  margin: 0 auto;
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(8px);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.channel-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 44px rgba(0, 0, 0, 0.55);
+  border-color: rgba(229, 9, 20, 0.45);
+}
+
+.channel-card img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  filter: brightness(1);
+}
+
+.sky-swiper .channel-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-color: rgba(229, 9, 20, 0.35);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.25);
+}
+
+.sky-swiper .channel-card:hover {
+  box-shadow: 0 20px 44px rgba(0, 0, 0, 0.35);
+}
+
+.stream-swiper .swiper-pagination-bullet,
+.sky-swiper .swiper-pagination-bullet,
+.demo-swiper .swiper-pagination-bullet {
+  background: #e50914 !important;
+}
+
+.sky-swiper .channel-card img {
+  height: 70%;
+  width: auto;
+}
+
+.products-section {
+  padding: 5rem 0;
+  background: #050505;
+}
+
+.products-header {
+  text-align: center;
+  max-width: 760px;
+  margin: 0 auto 3.5rem;
+}
+
+.products-header h2 {
+  font-size: 2.6rem;
+  color: #e50914;
+  margin-bottom: 1rem;
+}
+
+.products-header p {
+  color: rgba(248, 250, 251, 0.72);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.products-buttons {
+  margin-top: 2rem;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.products-buttons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.85rem 2rem;
+  border-radius: 999px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.products-buttons a.primary {
+  background: #e50914;
+  color: #050505;
+  box-shadow: 0 20px 42px rgba(229, 9, 20, 0.4);
+}
+
+.products-buttons a.primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 26px 52px rgba(229, 9, 20, 0.45);
+}
+
+.products-buttons a.secondary {
+  border: 1px solid rgba(248, 250, 251, 0.45);
+  color: rgba(248, 250, 251, 0.8);
+  background: transparent;
+}
+
+.products-buttons a.secondary:hover {
+  background: rgba(248, 250, 251, 0.12);
+  border-color: rgba(248, 250, 251, 0.75);
+  color: #ffffff;
+}
+
+.product-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.75rem;
+  margin-top: 3rem;
+}
+
+.product-summary-card {
+  position: relative;
+  background: linear-gradient(145deg, rgba(14, 14, 14, 0.95), rgba(6, 6, 6, 0.82));
+  border: 1px solid rgba(229, 9, 20, 0.28);
+  border-radius: 26px;
+  padding: 2.4rem;
+  box-shadow: 0 28px 65px rgba(0, 0, 0, 0.42);
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  overflow: hidden;
+}
+
+.product-summary-card::before {
+  content: '';
+  position: absolute;
+  inset: -35% 35% auto -30%;
+  height: 70%;
+  background: radial-gradient(circle, rgba(229, 9, 20, 0.26), transparent 65%);
+  pointer-events: none;
+}
+
+.product-summary-card::after {
+  content: '';
+  position: absolute;
+  inset: auto -40% -55% 30%;
+  height: 70%;
+  background: radial-gradient(circle, rgba(248, 250, 251, 0.12), transparent 70%);
+  pointer-events: none;
+}
+
+.product-card-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.card-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  border-radius: 20px;
+  background: linear-gradient(135deg, rgba(229, 9, 20, 0.55), rgba(229, 9, 20, 0.2));
+  border: 1px solid rgba(229, 9, 20, 0.5);
+  color: #ffffff;
+  font-size: 1.45rem;
+  box-shadow: 0 20px 40px rgba(229, 9, 20, 0.35);
+}
+
+.product-summary-card h3 {
+  margin: 0;
+  font-size: 1.55rem;
+  color: #ffffff;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.product-summary-card p {
+  margin: 0;
+  color: rgba(248, 250, 251, 0.78);
+  line-height: 1.6;
+}
+
+.product-summary-card ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  color: rgba(248, 250, 251, 0.7);
+}
+
+.product-summary-card ul li {
+  position: relative;
+  padding-left: 1.1rem;
+}
+
+.product-summary-card ul li::before {
+  content: '';
+  position: absolute;
+  top: 0.5rem;
+  left: 0;
+  width: 0.4rem;
+  height: 0.4rem;
+  border-radius: 50%;
+  background: #e50914;
+  box-shadow: 0 0 10px rgba(229, 9, 20, 0.45);
+}
+
+.product-summary-card a {
+  align-self: flex-start;
+  margin-top: auto;
+  padding: 0.85rem 1.9rem;
+  border-radius: 999px;
+  border: none;
+  background: linear-gradient(135deg, #e50914, #ff2d3a);
+  color: #050505;
+  text-decoration: none;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+  box-shadow: 0 22px 48px rgba(229, 9, 20, 0.4);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.product-summary-card a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 28px 58px rgba(229, 9, 20, 0.45);
+  background: linear-gradient(135deg, #ff2d3a, #ff1320);
+}
+
+  color: #e50914 !important;
+  font-family: 'Arial Black', Arial, sans-serif !important;
+  font-weight: 900 !important;
+}
+
+.hero-subheading {
+  color: #e50914 !important;
+  font-family: 'Arial Black', Arial, sans-serif !important;
+  font-weight: 900 !important;
+}
+
+.hero-description {
+  color: #ffffff !important;
+}
+
+.benefit-overlay h3 {
+  color: #e50914 !important;
+}
+
+.swiper-button-next, .swiper-button-prev {
+  color: #e50914 !important;
+  background: #000000 !important;
+}
+
+.swiper-pagination-bullet {
+  background: #e50914 !important;
+}
+
+.site-footer {
+  color: #ffffff !important;
+}
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="#hero" class="brand">
+      <img src="/assets/footer_picture.png" alt="TVMaster" class="header-logo" loading="lazy" decoding="async">
+      <span class="brand-text">TVMaster</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
+      <span class="sr-only">Toggle navigation</span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="main-nav" id="primary-nav">
+      <a href="#hero">Home</a>
+      <a href="#lineups">Channels</a>
+      <a href="/sports/live.html">Live Hub</a>
+      <a href="#benefits">Benefits</a>
+      <a href="#products">Products</a>
+      <a href="/iptv-products.html">Catalogs</a>
+      <a href="/faq.html">FAQ</a>
+      <a href="#testimonials">Testimonials</a>
+      <a class="header-cta" href="#contact">Start Streaming</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero" id="hero">
+    <div class="hero-content">
+      <div class="hero-grid">
+        <div class="hero-text">
+          <h1 class="hero-heading">Next-Gen IPTV for Serious Fans</h1>
+          <h2 class="hero-subheading">Zero Buffering. Global Channels. Seamless Access.</h2>
+          <p class="hero-description">TVMaster delivers white-label IPTV and Android TV box solutions tuned for resellers, venues, and enterprise deployments that demand uncompromising reliability.</p>
+          <div class="hero-cta-group">
+            <a class="hero-primary-cta" href="#products">Build Your Package</a>
+            <a class="hero-secondary-cta" href="#contact">Talk to an Expert</a>
+          </div>
+        </div>
+        <div class="hero-media">
+          <div class="hero-card">
+            <h3>Launch in Days</h3>
+            <ul class="hero-feature-list">
+              <li>Custom-branded apps, Android TV boxes, and M3U playlists ready to deploy.</li>
+              <li>30,000+ live channels and 80,000 VOD titles with global sports, cinema, and news.</li>
+              <li>Real-time monitoring with 24/7 network operations and multilingual concierge support.</li>
+            </ul>
+            <div class="hero-note">Every subscription tier ships with onboarding scripts, reseller playbooks, and automated device provisioning.</div>
+          </div>
+        </div>
+      </div>
+      <div class="hero-metrics">
+        <div class="metric-card">
+          <span class="metric-value" data-target="30" data-suffix="K+" data-decimals="0">0</span>
+          <span class="metric-label">Live Channels</span>
+        </div>
+        <div class="metric-card">
+          <span class="metric-value" data-target="80" data-suffix="K+" data-decimals="0">0</span>
+          <span class="metric-label">VOD Titles</span>
+        </div>
+        <div class="metric-card">
+          <span class="metric-value" data-target="24" data-suffix="/7" data-decimals="0">0</span>
+          <span class="metric-label">Priority Support</span>
+        </div>
+        <div class="metric-card">
+          <span class="metric-value" data-target="99.95" data-suffix="%" data-decimals="2">0</span>
+          <span class="metric-label">Uptime SLA</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="lineups-section" id="lineups">
+    <div class="container">
+      <div class="lineups-header">
+        <h2>Signature Channel Lineups</h2>
+        <p>From premium on-demand libraries to live sports and custom promotional reels, blend the exact feeds your audience cares about.</p>
+      </div>
+      <div class="lineups-grid">
+        <div class="lineup-card">
+          <h3>Streaming Giants</h3>
+          <p>Curate the most in-demand SVOD platforms to power bingeable bundles for every region.</p>
+          <div class="stream-slider-wrapper">
+            <div class="swiper stream-swiper">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/netflix.png" alt="Netflix">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/prime.png" alt="Prime Video">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/disney.png" alt="Disney Plus">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/hbo.png" alt="HBO">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/huluu.jpg" alt="Hulu">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/max.jpg" alt="Max">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/apple.jpg" alt="Apple TV Plus">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/espn.jpg" alt="ESPN">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/paramount.jpg" alt="Paramount Plus">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/peacock.jpg" alt="Peacock">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/roku.jpg" alt="Roku">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/youtube.png" alt="YouTube">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/amc.jpg" alt="AMC Plus">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/hot.jpg" alt="Hotstar">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/tving.png" alt="TVING">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/watcha.png" alt="Watcha">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/original.jpg" alt="Originals">
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-pagination stream-pagination"></div>
+            </div>
+          </div>
+        </div>
+        <div class="lineup-card">
+          <h3>Sky Sports Live</h3>
+          <p>Deliver every match, race, and breaking highlight with our synchronized Sky Sports feeds.</p>
+          <div class="sky-slider-wrapper">
+            <div class="swiper sky-swiper">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/sky_slider/cricket.png" alt="Sky Sports Cricket">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/sky_slider/f1.png" alt="Sky Sports F1">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/sky_slider/sky-sport-news-hd.jpg" alt="Sky Sport News HD">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/sky_slider/sky-sport-nba.webp" alt="Sky Sport NBA">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/sky_slider/sky-sport-now.png" alt="Sky Sport Now">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/sky_slider/imageso.png" alt="Sky Sports Original">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/sky_slider/sky-sports-main-event.png" alt="Sky Sports Main Event">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/sky_slider/sky-sports-arena.png" alt="Sky Sports Arena">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/sky_slider/SkySportsFootball_201708.jpg" alt="Sky Sports Football">
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-pagination sky-pagination"></div>
+            </div>
+          </div>
+        </div>
+        <div class="lineup-card">
+          <h3>Custom Showcases</h3>
+          <p>Stage campaign takeovers, multilingual promos, or regional spotlights with dynamic rotations.</p>
+          <div class="demo-slider-wrapper">
+            <div class="swiper demo-swiper">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/netflix.png" alt="Netflix">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/prime.png" alt="Prime Video">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/disney.png" alt="Disney Plus">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/hbo.png" alt="HBO">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/huluu.jpg" alt="Hulu">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/max.jpg" alt="Max">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/apple.jpg" alt="Apple TV Plus">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/espn.jpg" alt="ESPN">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/paramount.jpg" alt="Paramount Plus">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/peacock.jpg" alt="Peacock">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/roku.jpg" alt="Roku">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/youtube.png" alt="YouTube">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/amc.jpg" alt="AMC Plus">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/hot.jpg" alt="Hotstar">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/tving.png" alt="TVING">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/watcha.png" alt="Watcha">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="channel-card">
+                    <img src="/assets/stream_slider/original.jpg" alt="Originals">
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-pagination demo-pagination"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="benefits-section" id="benefits">
+    <div class="container">
+      <h2>Why Choose TVMaster?</h2>
+      <div class="swiper benefits-swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/antifreeze.avif')">
+              <div class="benefit-overlay">
+                <h3>No Buffering</h3>
+                <p>Anti-freeze technology for smooth streaming</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/30000channels.jpg')">
+              <div class="benefit-overlay">
+                <h3>30,000+ Live Channels</h3>
+                <p>Global entertainment at your fingertips</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/6cda4a1d71ce9727c7ab72350cc7913a_t.jpeg')">
+              <div class="benefit-overlay">
+                <h3>4K Quality</h3>
+                <p>Ultra HD streaming experience</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/ondemand.webp')">
+              <div class="benefit-overlay">
+                <h3>On-Demand Content</h3>
+                <p>Movies and shows when you want them</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/customerservice.png')">
+              <div class="benefit-overlay">
+                <h3>24/7 Support</h3>
+                <p>Dedicated customer service team</p>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="benefit-card" style="background-image: url('/assets/benefits/multiple devices.png')">
+              <div class="benefit-overlay">
+                <h3>Multi-Device</h3>
+                <p>Stream on any device, anywhere</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-pagination"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="products-section" id="products">
+    <div class="container">
+      <div class="products-header">
+        <h2>Deployment-Ready Packages</h2>
+        <p>Choose a turnkey IPTV plan tailored for your audience. Each package ships with branded assets, automations, and support so you can start streaming on day one.</p>
+        <div class="products-buttons">
+          <a class="primary" href="/iptv-products.html">Browse IPTV Catalog</a>
+          <a class="secondary" href="/tv-box-products.html">Browse TV Box Catalog</a>
+        </div>
+      </div>
+      <div class="product-summary-grid">
+        <article class="product-summary-card">
+          <div class="product-card-header">
+            <span class="card-icon" aria-hidden="true">📡</span>
+            <h3>IPTV Channel Lineups</h3>
+          </div>
+          <p>Regional channel packs spanning the UK, Europe, LATAM, APAC, Middle East, and global hospitality deployments.</p>
+          <ul>
+            <li>Live sports: Premier League, UEFA, LaLiga, Serie A, NFL, NBA, UFC, cricket, motorsport, rugby, and more.</li>
+            <li>National broadcasters, premium entertainment, kids, lifestyle, news, and specialty music/faith networks.</li>
+            <li>100% managed playlists with EPG, multi-language audio, and 24/7 NOC support.</li>
+          </ul>
+          <a href="/iptv-products.html">View IPTV Catalog</a>
+        </article>
+
+        <article class="product-summary-card">
+          <div class="product-card-header">
+            <span class="card-icon" aria-hidden="true">📦</span>
+            <h3>Android TV Box Kits</h3>
+          </div>
+          <p>Pre-flashed Android TV hardware with your branding, launcher, and curated IPTV apps for instant venue or reseller rollouts.</p>
+          <ul>
+            <li>Includes English, French, German, Italian, Dutch, Nordic, LATAM, Indian, and global channel playlists.</li>
+            <li>Sports-first layouts with Sky Sports, DAZN, ESPN, SuperSport, beIN, Viaplay, Star Sports, and regional exclusives.</li>
+            <li>Remote fleet management, OTA firmware, device health analytics, and hospitality/PPV controls.</li>
+          </ul>
+          <a href="/tv-box-products.html">View TV Box Catalog</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="testimonials-section" id="testimonials">
+    <div class="container">
+      <h2>What Our Clients Say</h2>
+      <div class="swiper testimonials-swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="testimonial-card">
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">“TVMaster transformed the way we deliver live sports to our customers. The streams are instant, reliable, and our cancellation rate has never been lower.”</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Amelia Navarro</span>
+                <span class="testimonial-role">Head of Operations · StreamWave Media</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="testimonial-card">
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">“The Android TV boxes arrived ready to plug in with our branding, premium apps, and multilingual playlists. Our resellers call it the ‘done-for-you’ solution.”</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Luca Moretti</span>
+                <span class="testimonial-role">Channel Partner · EuroStream Italia</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="testimonial-card">
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">“Zero buffering even during Premier League weekends, 24/7 support, and instant provisioning—TVMaster lets us focus on growth instead of troubleshooting.”</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Sofia Andersson</span>
+                <span class="testimonial-role">Founder · NordX IPTV</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="testimonial-card">
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">“Within two weeks we migrated 12 hospitality sites. Guests now flip from Sky Sports to their home country news in seconds—support tickets dropped by 80%.”</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Priya Malhotra</span>
+                <span class="testimonial-role">Group IT Director · Orion Hotels</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="testimonial-card">
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">“The reseller automation bundle is a game changer. IPTV activations, renewals, invoices—everything fires without manual touch so we can scale faster.”</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Marcus Shaw</span>
+                <span class="testimonial-role">CEO · Velocity Streams</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="testimonial-card">
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">“We needed cricket, Arabic news, and kids channels on every vessel. TVMaster’s global playlist hits all of them with flawless satellite backup.”</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Noura Al-Harbi</span>
+                <span class="testimonial-role">Fleet Experience Lead · BlueWave Cruises</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-pagination testimonials-pagination"></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer" id="contact">
+  <div class="container">
+    <div class="footer-inner">
+      <img src="/assets/footer_picture.png" alt="TVMaster Logo" class="brand-logo" loading="lazy" decoding="async">
+      <p class="footer-summary">Turnkey IPTV and Android TV box deployments for resellers, venues, and enterprise teams.</p>
+      <div class="footer-links-row">
+        <a href="/iptv-products.html">IPTV Catalog</a>
+        <a href="/tv-box-products.html">TV Box Bundles</a>
+        <a href="/channel-lists.html">Channel Lists</a>
+        <a href="/faq.html">FAQ</a>
+      </div>
+      <div class="footer-contact">
+        <a href="mailto:support@tvmaster.vip">support@tvmaster.vip</a>
+        <span>+44 20 7123 4567 · 24/7 Global Coverage</span>
+      </div>
+      <div class="footer-social">
+        <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">FB</a>
+        <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">IG</a>
+        <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">YT</a>
+      </div>
+      <p class="footer-note">© 2024 TVMaster. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const navToggle = document.querySelector('.nav-toggle');
+  const mainNav = document.querySelector('.main-nav');
+
+  if (navToggle && mainNav) {
+    const toggleNav = () => {
+      const isOpen = mainNav.classList.toggle('open');
+      navToggle.classList.toggle('is-active', isOpen);
+      navToggle.setAttribute('aria-expanded', String(isOpen));
+      document.body.classList.toggle('nav-open', isOpen);
+    };
+
+    navToggle.addEventListener('click', toggleNav);
+    mainNav.querySelectorAll('a').forEach((link) => {
+      link.addEventListener('click', () => {
+        if (mainNav.classList.contains('open')) {
+          toggleNav();
+        }
+      });
+    });
+  }
+
+  const metricCounters = document.querySelectorAll('.metric-value[data-target]');
+
+  const animateCounter = (el) => {
+    const target = parseFloat(el.dataset.target);
+    if (!Number.isFinite(target)) return;
+    const decimals = parseInt(el.dataset.decimals || '0', 10);
+    const suffix = el.dataset.suffix || '';
+    const duration = parseInt(el.dataset.duration || '1800', 10);
+    const startTime = performance.now();
+
+    const formatValue = (value) =>
+      value.toLocaleString(undefined, {
+        minimumFractionDigits: decimals,
+        maximumFractionDigits: decimals,
+      });
+
+    const tick = (now) => {
+      const progress = Math.min((now - startTime) / duration, 1);
+      const value = target * progress;
+      el.textContent = `${formatValue(value)}${suffix}`;
+      if (progress < 1) {
+        requestAnimationFrame(tick);
+      } else {
+        el.textContent = `${formatValue(target)}${suffix}`;
+      }
+    };
+
+    requestAnimationFrame(tick);
+  };
+
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        const el = entry.target;
+        if (el.dataset.animated === 'true') return;
+        el.dataset.animated = 'true';
+        animateCounter(el);
+        observer.unobserve(el);
+      });
+    },
+    { threshold: 0.4 }
+  );
+
+  metricCounters.forEach((el) => {
+    el.textContent = `0${el.dataset.suffix || ''}`;
+    observer.observe(el);
+  });
+
+  const streamSwiper = new Swiper('.stream-swiper', {
+    slidesPerView: 2,
+    spaceBetween: 16,
+    loop: true,
+    speed: 4000,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false,
+    },
+    centeredSlides: true,
+    pagination: {
+      el: '.stream-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      640: { slidesPerView: 3 },
+      768: { slidesPerView: 4 },
+      1024: { slidesPerView: 5 }
+    }
+  });
+
+  const skySwiper = new Swiper('.sky-swiper', {
+    slidesPerView: 2,
+    spaceBetween: 16,
+    loop: true,
+    speed: 4000,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false,
+      reverseDirection: true,
+    },
+    centeredSlides: true,
+    pagination: {
+      el: '.sky-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      640: { slidesPerView: 3 },
+      768: { slidesPerView: 4 },
+      1024: { slidesPerView: 5 }
+    }
+  });
+
+  const demoSwiper = new Swiper('.demo-swiper', {
+    slidesPerView: 2,
+    spaceBetween: 16,
+    loop: true,
+    speed: 4000,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false,
+    },
+    centeredSlides: true,
+    pagination: {
+      el: '.demo-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      640: { slidesPerView: 3 },
+      768: { slidesPerView: 4 },
+      1024: { slidesPerView: 5 }
+    }
+  });
+
+  // Initialize Swiper for benefits cards
+  const swiper = new Swiper('.benefits-swiper', {
+    slidesPerView: 1,
+    spaceBetween: 30,
+    loop: true,
+    autoplay: {
+      delay: 2000,
+      disableOnInteraction: false,
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    breakpoints: {
+      640: { slidesPerView: 2 },
+      1024: { slidesPerView: 3 }
+    }
+  });
+
+  const testimonialsSwiper = new Swiper('.testimonials-swiper', {
+    slidesPerView: 1,
+    spaceBetween: 24,
+    loop: true,
+    autoplay: {
+      delay: 4000,
+      disableOnInteraction: false,
+    },
+    pagination: {
+      el: '.testimonials-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      768: { slidesPerView: 2 },
+      1200: { slidesPerView: 3 }
+    }
+  });
+
+});
+</script>
+</body>
+</html>

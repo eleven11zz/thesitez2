@@ -1,0 +1,948 @@
+{
+  "package": "scandinavia",
+  "name": "EN - WWE Wrestling",
+  "groupIndex": 56,
+  "totalChannels": 188,
+  "channels": [
+    {
+      "name": "EN: WWE Friday Night Smackdown (5th September 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (1st September 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Clash in Paris (31st August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbEL4nHZ2Ze9Js3Oa5Sv1Mpqqu2.jpg"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (29th August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (25th August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (22nd August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (18th August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (15th August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (11th August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (8th August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (4th August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE SumerSlam Night 2 (3rd August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkDxr9qJkO1m1RfKkkGRsDacmvZza9DiwQA&s"
+    },
+    {
+      "name": "EN: WWE SumerSlam Night 1 (2nd August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkDxr9qJkO1m1RfKkkGRsDacmvZza9DiwQA&s"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (1st August 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (28th July 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (25th July 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (21th July 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (18th July 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Avolution (2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://cdn.shopify.com/s/files/1/0749/3710/6672/files/eee844fd415c504d4229d85ab740bd3eb3c075e2_25TN_WWE_EVOL_POSTER.png?v=1752252872"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (14th July 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (11th July 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (7th July 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (4th July 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (30th June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Night of Champions 28th June (2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://i.ytimg.com/vi/saFXLfwyt9U/hqdefault.jpg?v=685c07c5"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (27th June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (23rd June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (20th June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2022/10/WWE-Friday-Night-SmackDown-28th-October-2022-poster.png"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (16th June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (13th June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Friday-Night-SmackDown-200x300.jpg"
+    },
+    {
+      "name": "EN:  WWE Monday Night In The Bank (7th June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Money-In-The-Bank-200x300.jpg"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (9th June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://vegamovies.frl/wp-content/uploads/2025/06/WWE-Monday-Night-Raw.png"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (6th June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://fallscountanywhere.com/wp-content/uploads/2025/06/wwe-smackdown-june-6-2025.jpeg"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (2nd June 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://i.ytimg.com/vi/q9aZJVv-hvM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC0Eq2ly_vd-rA9-lHB90wXe-qJxA"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (30th May 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.vice.com/wp-content/uploads/sites/2/2024/12/wwe-smackdown-logo.jpeg?w=1024"
+    },
+    {
+      "name": "EN: Saturday Night's Main Event (24th May 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://imageservice.disco.peacocktv.com/pcms/92a25230-34f4-11f0-a82e-0f288d1e256e/BOXART?proposition=NBCUOTT&language=eng&versionId=4e0be8f9-bbd2-5cfc-a8fb-c8555ae07603&territory=US"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (12th May 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjdjNzM2ZDctMWExYi00ZDY1LWI5NmMtZmUxZDM5OGMxMGY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (16th May 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9sMze5HJK5QnST-EIuo_mdtZ2RMGN7rQnLA&s"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (19th May 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjdjNzM2ZDctMWExYi00ZDY1LWI5NmMtZmUxZDM5OGMxMGY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: WWE Friday Night Smackdown (23th May 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9sMze5HJK5QnST-EIuo_mdtZ2RMGN7rQnLA&s"
+    },
+    {
+      "name": "EN: WWE Battleground 2025 (2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/87/WWE_Battleground_2025_poster.jpg"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (26th May 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjdjNzM2ZDctMWExYi00ZDY1LWI5NmMtZmUxZDM5OGMxMGY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "EN: Saturday Night's Main Event 25th May (2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMLZZopt5zKMHKJbbhDzsKWwd6v.jpg"
+    },
+    {
+      "name": "EN: WWE Friday Night SmackDown (2nd May 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDTkjzELxPqp9lGJYIdMODWv9ZlD5XreZP5w&s"
+    },
+    {
+      "name": "EN: WWE Monday Night Raw (5th May 2025)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAcedZu60XL1awp-bxOPC0KI1uw-EweAvwNQ&s"
+    },
+    {
+      "name": "EN: WWE Royal Rumble 2018 (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlf9ZNSXXeW4PUxAjIQz8XgwXLO.jpg"
+    },
+    {
+      "name": "EN: WWE NXT Takeover: Chicago II",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: WWE NXT Showdown with SAnitY",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: WWE Money in the Bank 2018 (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSjyagt3AJcfOC4nPCkpFd5IwsH.jpg"
+    },
+    {
+      "name": "EN: WWE Monday Night RAW",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w780/3laSsSxV1G7be9tIz7iJkDdELDK.jpg"
+    },
+    {
+      "name": "EN: WWE Greatest Royal Rumble 2018 (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3bjtS2KMThrntRkAqsiFXZK640.jpg"
+    },
+    {
+      "name": "EN: WWE Fastlane 2018 (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUGAV18mKxbqT76gmzM5icfWTha.jpg"
+    },
+    {
+      "name": "EN: WWE Elimination Chamber 2018 (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgOOzf26FzRGsEhR6JwXZF3mjbt.jpg"
+    },
+    {
+      "name": "EN: WWE Backlash 2018 (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhGEjH6aqxcC5cE9HsWQ7T63WrA.jpg"
+    },
+    {
+      "name": "EN: WWE: 205 Live",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: WK Boxing - Joshua vs Klitschko (30-04-2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC On Fox 29. Gaethje vs Poirier",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w780/yTGdEpD1eHdSd7nOfwFGLJu5MO7.jpg"
+    },
+    {
+      "name": "EN: UFC on Fox 28: Emmett vs. Stephens (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKoIk6t4Vh8WNL11nFvInRbwOvU.jpg"
+    },
+    {
+      "name": "EN: UFC on Fox 27: Jacaré vs. Brunson 2 (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8dCon6Xz1mYfxiInDPN6qeKOm.jpg"
+    },
+    {
+      "name": "EN: UFC on Fox 26: Lawler vs. dos Anjos (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJBmrRPB3RlZHb2GE3wtVZsfLgy.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 132: Cowboy vs. Edwards (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ElEuYNCfYKUdMnikJlLHajjGsw.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 131: Rivera vs. Moraes (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCHzJBTtZHQKHEbb5G18SmnbNKU.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 130: Thompson vs. Till (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioNlsrknipBoXGu2GuRZMTkFa5B.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 129: Maia vs. Usman (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG9TnHUsYNfzf52L3tHoPZdWoJ3.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 128: Barbosa vs Lee",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC Fight Night 127: Werdum vs. Volkov (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkMPb8fnAqBWKPZzLLH2QQ1PzwC.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 126: Cowboy vs. Medeiros (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI76Vsc3K9gkHB4IyOnOW35QNdM.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 125: Machida vs. Anders (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap7PrMEyC0Azjq7fBGeSeGi0Ft5.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 124: Stephens vs. Choi (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIWw4b9MirSCu3sUIiJbhTgNQq1.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 123: Swanson vs. Ortega (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GKE6CziQCTfwlo7lQeFHg12DFU.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 122: Bisping vs. Gastelum (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LiaqOYqDZTMGOF5gjqCUFi4mEi.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 121: Werdum vs. Tybura (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rV98gBAr1O3iiTm5GQ8sZUYDchQ.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 120: Poirier vs. Pettis (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g5LZxR2Y0M8P5bOw157G3zgm8I.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 119: Brunson vs. Machida (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkIgtgXEwZTwBOXHcqXn0N0o4LV.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 118: Cerrone vs. Till (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ci4ab6zNRhe2jrjcdgYiUgF8Lf.jpg"
+    },
+    {
+      "name": "EN: UFC Fight Night 117: Saint.Preux vs Okami",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC Fight Night 116: Rockhold vs. Branch (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7L4WegfdeRRfQNiPd3ANwCD9mm.jpg"
+    },
+    {
+      "name": "EN: UFC 249 PPV Ferguson vs Gaethje",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC 226: Miocic vs. Cormier (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5Hu9rvmhfcg0cDOQj9zPbQ2BRk.jpg"
+    },
+    {
+      "name": "EN: UFC 225: Whittaker vs. Romero 2 (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdLNDfbhCBT6Cml1vODOzLrD0n5.jpg"
+    },
+    {
+      "name": "EN: UFC 225: Prelims Overeem vs Blaydes",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC 224: Nunes vs Pennington May 12th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC 223: Nurmagomedov vs Laquinta",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC 222: Cyborg vs. Kunitskaya (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCkuG11SWOeC8A3r61oskQis84p.jpg"
+    },
+    {
+      "name": "EN: UFC 221: Romero vs. Rockhold (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EfDWRpN0XMwSXBwkzEOSjshOtU.jpg"
+    },
+    {
+      "name": "EN: UFC 220: Miocic vs. Ngannou (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IvNmiXEEnuYwyuWD7uSUIKDn6J.jpg"
+    },
+    {
+      "name": "EN: UFC 219: Cyborg vs. Holm (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpKL1dLJOIXRjiAIJ7J2Lesf4Lp.jpg"
+    },
+    {
+      "name": "EN: UFC 218: Holloway vs. Aldo 2 December 2th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC 217: Bisping vs. St-Pierre (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7fPHYvu1vxnXQxKw6CHnm2OOhv.jpg"
+    },
+    {
+      "name": "EN: UFC 216: Ferguson vs. Lee (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnZ2zrc3ojKAQwUetO62A9BKfHe.jpg"
+    },
+    {
+      "name": "EN: UFC 215: Nunes vs. Shevchenko 2 (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Awws7ugPq4U79kI5YpmBxjil61.jpg"
+    },
+    {
+      "name": "EN: UFC 210: Cormier vs. Johnson 2 (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eVwFPuXY289YWVqUQc8R8CNcvB.jpg"
+    },
+    {
+      "name": "EN: UFC 208: Holm vs. de Randamie (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5q7THHoCHg3O0GJBMYVd63mL6ZT.jpg"
+    },
+    {
+      "name": "EN: UFC 207: Nunes vs. Rousey (2016)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY3Bw90pQjH4Bk6oVsG3sGDAANb.jpg"
+    },
+    {
+      "name": "EN: UFC 206: Holloway vs. Pettis (2016)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3t7xTnYjfEzbQkZ2NAW7n8mOXFl.jpg"
+    },
+    {
+      "name": "EN: UFC 205: Alvarez vs. McGregor (2016)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvVAGv2geskgBQqmkT2CedfxzhM.jpg"
+    },
+    {
+      "name": "EN: UFC 15-04",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC.Fight.Night.107",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC.Fight.Night.105.Prelims.720p.WEB-DL.H264.Fight-BB",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: UFC Fight Night 105: Lewis vs. Browne (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kiBPgfHhVUYBNRlKz4rHTA6C9.jpg"
+    },
+    {
+      "name": "EN: UFC.209.PPV.Prelims",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: ufc.209",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: The Final 16: Melvin Manhoef vs Remy Bonjasky October 29th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Sky Boxing: Burnett vs Zhakiyanov 21.10.2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Premier league Darts - 18-05-2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: ONE Championship: Global Superheroes January 26th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: ONE Championship 73: Unstoppable Dreams May 19th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: ONE Championship 67: Kings Of Courage January 20th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: ONE Championship 66: Warriors Of The World December 9th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: ONE Championship 65: Legends of the World November 10th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: ONE Championship 65: Immortal Pursuit November 24th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: NHL 2017 Stanley cup - Senators vs Penguins",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Mayweather vs. McGregor (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhYqHvjiyBLCfiZWgzJ5TXjFpDh.jpg"
+    },
+    {
+      "name": "EN: K1 World GP Japan: K Festa March 21th. 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 54: Verhoeven vs Brestovac June 2th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 54: Super Fight Series June 2th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 53: Super Fight Series May 12th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 53: Meksen vs Dehby May 12th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 52: van Roosmalen vs Vannostrand March 31th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 51: Super Fight Series March 03th. 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 51: Badr vs Hesdy March 03th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 50: Super Fight Series February 16th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 50: Groenhart vs Grigorian",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 49: Verhoeven vs Ben Saddik 09 December 2017 (Dutch)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 49: Superfight Series 09 December 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 48: Van Soest vs Meksen December 1th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 47 Superfight Series 28 October 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 46 Superfight Series 14 October 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Glory 45 Amsterdam Kickboxing 30 September 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Formule 1 2017 Jaaroverzicht (Dutch Audio)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Cage Warriors 94 June 16th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Cage Warriors 93 April 28th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Cage Warriors 92: Maincard 2 London March 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Cage Warriors 92: Maincard 1 London March 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Cage Warriors 91: Reed vs Bouland March 03th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Cage Warriors 90: Pimblett vs Savvidis February 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Cage Warriors 89: Amoussou VS Steele November 25th. 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing Showtime Special: Prograis vs Indongo March 9th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing Showtime: Lipinets vs Garcia March 10th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing Showtime: Barthelemy vs Relikh 2 March 10th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Wilder vs Ortiz March 03th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Whyte vs Browne March 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Stevenson vs Jack May 19th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Smith vs Holzken February 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Rungvisai vs Estrada February 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Roman vs Salido 09 December 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Ritson vs Hyland Part 2",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Ritson vs Hyland Part 1",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Nietes vs Reveco February 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Martinez vs Santiago 2 March 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Lomachechenko vs Rigondeaux 09 December 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Linares vs Lomachenko May 12th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Lara vs Hurd April 07th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Khan vs Greco April 21th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Kauffman vs Alexander",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Joshua vs Parker March 31th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Hrgovic vs Turner February 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Golden Boy Rios vs Hovhannisyan March 9th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Fury vs Seferi",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Flanagan vs Hooker",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Errol Spence.Jr. vs Lamont Peterson January 22th. 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Dirrell vs Uzcategui March 03th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Cuadras vs Arroyo February 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Cruz vs Mares",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Crolla vs Ramirez March 31th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Conlan vs Larrinaga May 12th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Chudinov vs Khamitski February 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Charlo vs Trout",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Buglioni vs Johnson March 24th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Brook vs Rabchenko March 03th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Boxing: Adames vs Barrera May 12th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 200: Carvalho vs. Mousasi (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l50OnAbgOCmRnlj9fxsY24bHhry.jpg"
+    },
+    {
+      "name": "EN: Bellator 199: Bader vs. King Mo (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkryJ4bHc1WrR2LfcHoYCduGglK.jpg"
+    },
+    {
+      "name": "EN: Bellator 198: Fedor vs Mir April 28th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 197: Chandler vs. Girtz (2018)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96V6CEL9FVgaoEb53rvCSJEKuiL.jpg"
+    },
+    {
+      "name": "EN: Bellator 196: Gallagher vs Borics April 6th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 195: Caldwell vs Higo March 02th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 194: Nelson vs Mitrione February 16th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 193: Larkin vs Gonzalez January 26th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 192: Lima vs MacDonald January 21th 2018",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 191: McDonald vs Ligier December 15th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 190: Carvalho vs Sakara December 9th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 189: Budd vs Blencow 2 December 1th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 188: Lahat vs. Labiano (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKyVigFx7IJSKmhcnJg53pU3YIy.jpg"
+    },
+    {
+      "name": "EN: Bellator 187: McKee vs Moore (2017)",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LptzLdmihXiY0P8jcEPqqK3Bdj.jpg"
+    },
+    {
+      "name": "EN: Bellator 186: Bader vs Vassell November 3th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: Bellator 185: Mousasi vs Shlemenko 20-10-2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "EN: BAMMA 33: Scope vs Lebout December 15th 2017",
+      "group": "EN - WWE Wrestling",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "package": "world",
+  "name": "DE - Documentary & News - Live.",
+  "groupIndex": 26,
+  "totalChannels": 34,
+  "channels": [
+    {
+      "name": "DE: Euronews HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/euronews.png"
+    },
+    {
+      "name": "DE: Tagesschau 24 HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/tagesschau24.png"
+    },
+    {
+      "name": "DE: Phoenix FHD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/phoenix.png"
+    },
+    {
+      "name": "DE: NTV FHD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/ntv.png"
+    },
+    {
+      "name": "DE: WELT FHD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/welt.png"
+    },
+    {
+      "name": "DE: SKY Sports NEWS HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsnews.png"
+    },
+    {
+      "name": "DE: Crime+investigation HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/crimeinvestigation.png"
+    },
+    {
+      "name": "DE: SKY Crime HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/skycrime.png"
+    },
+    {
+      "name": "DE: TLC HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "DE: Kabel 1 DOC HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78440922271.png"
+    },
+    {
+      "name": "DE: N24 DOKU HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/n24doku.png"
+    },
+    {
+      "name": "DE: HGTV HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/hgtv.png"
+    },
+    {
+      "name": "DE: DMAX HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/dmax.png"
+    },
+    {
+      "name": "DE: Discovery Channel HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "DE: Discovery FHD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/discovery.png"
+    },
+    {
+      "name": "DE: History FHD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/history.png"
+    },
+    {
+      "name": "DE: Geo Television HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/geotelevision.png"
+    },
+    {
+      "name": "DE: National Geographic HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "DE: NAT GEO WILD FHD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "DE: Animal Planet HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "DE: SKY Nature HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/skynature.png"
+    },
+    {
+      "name": "DE: SKY Documentaries HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/skydocumentaries.png"
+    },
+    {
+      "name": "DE: Spiegel Geschichte HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/spiegelgeschichte.png"
+    },
+    {
+      "name": "DE: WELT DER Wunder HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/weltderwunder.png"
+    },
+    {
+      "name": "DE: DF 1  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/df1.png"
+    },
+    {
+      "name": "DE: ARTE FHD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/arte.png"
+    },
+    {
+      "name": "DE: Waidwerk HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/waidwerk.png"
+    },
+    {
+      "name": "DE: INPLUS 1080p  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/inplus.png"
+    },
+    {
+      "name": "DE: BON Gusto HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/bongusto.png"
+    },
+    {
+      "name": "DE: Servus TV HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/servustv.png"
+    },
+    {
+      "name": "DE: Sonnenklar TV FHD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/sonnenklartv.png"
+    },
+    {
+      "name": "DE: Spiegel TV Wissen HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/spiegeltvwissen.png"
+    },
+    {
+      "name": "DE: WDR HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/wdr.png"
+    },
+    {
+      "name": "DE: ZDF INFO HD  (101-SERVERS)",
+      "group": "DE - Documentary & News - Live.",
+      "logo": "https://logo.m3uassets.com/zdfinfo.png"
+    }
+  ]
+}

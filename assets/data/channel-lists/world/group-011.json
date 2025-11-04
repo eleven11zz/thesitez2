@@ -1,0 +1,68 @@
+{
+  "package": "world",
+  "name": "ARG - Argentina - Live.",
+  "groupIndex": 11,
+  "totalChannels": 12,
+  "channels": [
+    {
+      "name": "ARG: Canal 26 HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "https://logo.m3uassets.com/canal26.png"
+    },
+    {
+      "name": "ARG: Canal 4 HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "https://logo.m3uassets.com/canal4.png"
+    },
+    {
+      "name": "ARG: Cronica HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "https://logo.m3uassets.com/cronica.png"
+    },
+    {
+      "name": "ARG: ESPN Premium HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "https://logo.m3uassets.com/espnpremium.png"
+    },
+    {
+      "name": "ARG: NET TV HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "https://logo.m3uassets.com/nettv.png"
+    },
+    {
+      "name": "ARG: PAKA PAKA HQ HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/13384702451.png"
+    },
+    {
+      "name": "ARG: Rural HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/29396558331.png"
+    },
+    {
+      "name": "ARG: Telefe HQ HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/69394132171.png"
+    },
+    {
+      "name": "ARG: Telefe SD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "https://logo.m3uassets.com/telefe.png"
+    },
+    {
+      "name": "ARG: TN HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/47357487271.png"
+    },
+    {
+      "name": "ARG: TNT Sports HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "https://logo.m3uassets.com/tntsports.png"
+    },
+    {
+      "name": "ARG: TV Publica [HQ] HD  (101-SERVERS)",
+      "group": "ARG - Argentina - Live.",
+      "logo": "https://logo.m3uassets.com/tvpublica.png"
+    }
+  ]
+}

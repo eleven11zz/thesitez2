@@ -1,0 +1,218 @@
+{
+  "package": "latin",
+  "name": "ES - Spain Cine - Live.",
+  "groupIndex": 16,
+  "totalChannels": 42,
+  "channels": [
+    {
+      "name": "#0 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/0.png"
+    },
+    {
+      "name": "AMC FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/amc.png"
+    },
+    {
+      "name": "AXN MOVIES (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/axnmovies.png"
+    },
+    {
+      "name": "DARK FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/dark.png"
+    },
+    {
+      "name": "FOX FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/fox.png"
+    },
+    {
+      "name": "FOX HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/fox.png"
+    },
+    {
+      "name": "FOX LIFE FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "Hollywood FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/hollywood.png"
+    },
+    {
+      "name": "M+ Cine (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/01cda6fe3256d7948b37d3bf08071c98.png"
+    },
+    {
+      "name": "M. Accion HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/maccion.png"
+    },
+    {
+      "name": "M. Cine Ñ HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/70418969521.png"
+    },
+    {
+      "name": "M. Drama HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/mdrama.png"
+    },
+    {
+      "name": "M. Estrenos 2 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/63543632911.png"
+    },
+    {
+      "name": "M.+ Acción HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/90722083331.png"
+    },
+    {
+      "name": "M.cine Espanol HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/mcineespanol.png"
+    },
+    {
+      "name": "M.estrenos HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/mestrenos.png"
+    },
+    {
+      "name": "Movistar Accion FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/movistaraccion.png"
+    },
+    {
+      "name": "Movistar Alquiler 1 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/62982048691.png"
+    },
+    {
+      "name": "Movistar Alquiler 2 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/82064176631.png"
+    },
+    {
+      "name": "Movistar Alquiler 4 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78972506021.png"
+    },
+    {
+      "name": "Movistar Alquiler 5 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/10028311301.png"
+    },
+    {
+      "name": "Movistar Alquiler 9 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/96731756601.png"
+    },
+    {
+      "name": "Movistar Clasicos HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/movistarclasicos.png"
+    },
+    {
+      "name": "Movistar Dcine HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/movistardcine.png"
+    },
+    {
+      "name": "Movistar Drama FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/movistardrama.png"
+    },
+    {
+      "name": "Movistar Estrenos FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/movistarestrenos.png"
+    },
+    {
+      "name": "Movistar Plus+ (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/movistarplus.png"
+    },
+    {
+      "name": "Movistar Plus+ 2 FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/ced716baf6c8dbb92effa33818329567.png"
+    },
+    {
+      "name": "Paramount Channel FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/paramountchannel.png"
+    },
+    {
+      "name": "Sky Showtime 1 FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/skyshowtime1.png"
+    },
+    {
+      "name": "Somos HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/somos.png"
+    },
+    {
+      "name": "Sundance FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/sundance.png"
+    },
+    {
+      "name": "Taquilla 10 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/taquilla10.png"
+    },
+    {
+      "name": "Taquilla 3 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/taquilla3.png"
+    },
+    {
+      "name": "Taquilla 4 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/taquilla4.png"
+    },
+    {
+      "name": "Taquilla 5 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/taquilla5.png"
+    },
+    {
+      "name": "Taquilla 6 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/taquilla6.png"
+    },
+    {
+      "name": "Taquilla 7 HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/taquilla7.png"
+    },
+    {
+      "name": "TCM HD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/tcm.png"
+    },
+    {
+      "name": "TNT FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/tnt.png"
+    },
+    {
+      "name": "Viajar FHD (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/viajar.png"
+    },
+    {
+      "name": "XTRM (ES)  (101-SERVERS)",
+      "group": "ES - Spain Cine - Live.",
+      "logo": "https://logo.m3uassets.com/xtrm.png"
+    }
+  ]
+}

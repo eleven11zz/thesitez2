@@ -1,0 +1,48 @@
+{
+  "package": "world",
+  "name": "DE - RTL + Live.",
+  "groupIndex": 31,
+  "totalChannels": 8,
+  "channels": [
+    {
+      "name": "DE: RTL+ FAST | ALLES WAS ZÄHLT  (101-SERVERS)",
+      "group": "DE - RTL + Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/8406ddc99258e39167f7985f9014585a.png"
+    },
+    {
+      "name": "DE: RTL+ FAST | BAUER SUCHT FRAU  (101-SERVERS)",
+      "group": "DE - RTL + Live.",
+      "logo": "https://logo.m3uassets.com/9live.png"
+    },
+    {
+      "name": "DE: RTL+ FAST | COBRA 11-BALKO  (101-SERVERS)",
+      "group": "DE - RTL + Live.",
+      "logo": "https://logo.m3uassets.com/9live.png"
+    },
+    {
+      "name": "DE: RTL+ FAST | COMEDY  (101-SERVERS)",
+      "group": "DE - RTL + Live.",
+      "logo": "https://logo.m3uassets.com/9live.png"
+    },
+    {
+      "name": "DE: RTL+ FAST | HAUS UND GARTEN  (101-SERVERS)",
+      "group": "DE - RTL + Live.",
+      "logo": "https://logo.m3uassets.com/9live.png"
+    },
+    {
+      "name": "DE: RTL+ FAST | HUND KATZE MAUS  (101-SERVERS)",
+      "group": "DE - RTL + Live.",
+      "logo": "https://logo.m3uassets.com/9live.png"
+    },
+    {
+      "name": "DE: RTL+ FAST | RTL SHINE  (101-SERVERS)",
+      "group": "DE - RTL + Live.",
+      "logo": "https://logo.m3uassets.com/9live.png"
+    },
+    {
+      "name": "DE: RTL+ FAST | SHOPPING QUEEN  (101-SERVERS)",
+      "group": "DE - RTL + Live.",
+      "logo": "https://logo.m3uassets.com/9live.png"
+    }
+  ]
+}

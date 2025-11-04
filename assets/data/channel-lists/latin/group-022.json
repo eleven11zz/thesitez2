@@ -1,0 +1,948 @@
+{
+  "package": "latin",
+  "name": "PT - Portugal TV - Live.",
+  "groupIndex": 22,
+  "totalChannels": 188,
+  "channels": [
+    {
+      "name": "PT: RTP 1 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtp1.png"
+    },
+    {
+      "name": "PT: RTP 1 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtp1.png"
+    },
+    {
+      "name": "PT: RTP 2 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtp2.png"
+    },
+    {
+      "name": "PT: RTP 2 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtp2.png"
+    },
+    {
+      "name": "PT: RTP 3 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtp3.png"
+    },
+    {
+      "name": "PT: SIC HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sic.png"
+    },
+    {
+      "name": "PT: TVI FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvi.png"
+    },
+    {
+      "name": "PT: TVI HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvi.png"
+    },
+    {
+      "name": "PT: CNN FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cnn.png"
+    },
+    {
+      "name": "PT: CNN HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cnn.png"
+    },
+    {
+      "name": "PT: CMTV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cmtv.png"
+    },
+    {
+      "name": "PT : CMTV HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cmtv.png"
+    },
+    {
+      "name": "PT: CMTV SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cmtv.png"
+    },
+    {
+      "name": "PT: SIC NOVELAS  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sicnovelas.png"
+    },
+    {
+      "name": "PT: SIC Replay  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/40d3b52ce76f6d81f72949248f809e4c.png"
+    },
+    {
+      "name": "PT: SIC Mulher FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sicmulher.png"
+    },
+    {
+      "name": "PT: SIC Noticias FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sicnoticias.png"
+    },
+    {
+      "name": "PT: RTP Acores HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtpacores.png"
+    },
+    {
+      "name": "PT: RTP Africa HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtpafrica.png"
+    },
+    {
+      "name": "PT: RTP Madeira HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtpmadeira.png"
+    },
+    {
+      "name": "PT: RTP Memoria FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtpmemoria.png"
+    },
+    {
+      "name": "PT: RTP Memoria HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/rtpmemoria.png"
+    },
+    {
+      "name": "PT: AMC FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/amc.png"
+    },
+    {
+      "name": "PT: AXN FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/axn.png"
+    },
+    {
+      "name": "PT: AXN HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/axn.png"
+    },
+    {
+      "name": "PT: AXN Movies HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/axnmovies.png"
+    },
+    {
+      "name": "PT: AXN White FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/axnwhite.png"
+    },
+    {
+      "name": "PT: AXN WHITE HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/axnwhite.png"
+    },
+    {
+      "name": "PT: Canal NOS HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/canalnos.png"
+    },
+    {
+      "name": "PT: Cinemundo FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cinemundo.png"
+    },
+    {
+      "name": "PT: Combat FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/67073602011.png"
+    },
+    {
+      "name": "PT: FOX Comedy FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxcomedy.png"
+    },
+    {
+      "name": "PT: FOX Crime FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxcrime.png"
+    },
+    {
+      "name": "PT: FOX FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/fox.png"
+    },
+    {
+      "name": "PT: FOX LIFE FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "PT: FOX LIFE HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxlife.png"
+    },
+    {
+      "name": "PT: FOX Movies FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxmovies.png"
+    },
+    {
+      "name": "PT: FOX Movies HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxmovies.png"
+    },
+    {
+      "name": "PT: FUEL TV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/fueltv.png"
+    },
+    {
+      "name": "PT: Hollywood HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/hollywood.png"
+    },
+    {
+      "name": "PT: Hollywood FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/hollywood.png"
+    },
+    {
+      "name": "PT: NOS Studio HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78918101611.png"
+    },
+    {
+      "name": "PT: NOS Studios HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/nosstudios.png"
+    },
+    {
+      "name": "PT: PFC HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/pfc.png"
+    },
+    {
+      "name": "PT: SYFY HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/syfy.png"
+    },
+    {
+      "name": "PT: SYFY SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/syfy.png"
+    },
+    {
+      "name": "PT: TVcine Action FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvcineaction.png"
+    },
+    {
+      "name": "PT: TVCINE Action HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvcineaction.png"
+    },
+    {
+      "name": "PT: TVcine Edition FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvcineedition.png"
+    },
+    {
+      "name": "PT: TVCINE EDITION HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvcineedition.png"
+    },
+    {
+      "name": "PT: TVcine Emotion FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvcineemotion.png"
+    },
+    {
+      "name": "PT: TVcine TOP FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvcinetop.png"
+    },
+    {
+      "name": "PT: BTV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/btv.png"
+    },
+    {
+      "name": "PT: BTV HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/btv.png"
+    },
+    {
+      "name": "PT: BTV SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/btv.png"
+    },
+    {
+      "name": "PT: Sport TV HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv.png"
+    },
+    {
+      "name": "PT: Sport TV 1 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv1.png"
+    },
+    {
+      "name": "PT: Sport TV 1 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv1.png"
+    },
+    {
+      "name": "PT: Sport TV 1 SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv1.png"
+    },
+    {
+      "name": "PT: Sport TV 2 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv2.png"
+    },
+    {
+      "name": "PT: Sport TV 2 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv2.png"
+    },
+    {
+      "name": "PT: Sport TV 2 SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv2.png"
+    },
+    {
+      "name": "PT: Sport TV 3 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv3.png"
+    },
+    {
+      "name": "PT: Sport TV 3 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv3.png"
+    },
+    {
+      "name": "PT: Sport TV 3 SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv3.png"
+    },
+    {
+      "name": "PT: Sport TV 4 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv4.png"
+    },
+    {
+      "name": "PT: Sport TV 4 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv4.png"
+    },
+    {
+      "name": "PT: Sport TV 4 SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv4.png"
+    },
+    {
+      "name": "PT: Sport TV 5 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv5.png"
+    },
+    {
+      "name": "PT: Sport TV 5 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv5.png"
+    },
+    {
+      "name": "PT: Sport TV 5 SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv5.png"
+    },
+    {
+      "name": "PT: Sport TV 6 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv6.png"
+    },
+    {
+      "name": "PT: Sport TV 6 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv6.png"
+    },
+    {
+      "name": "PT: Sport TV 7  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv7.png"
+    },
+    {
+      "name": "PT: Sport TV + FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttv.png"
+    },
+    {
+      "name": "PT: Eleven Sports 1 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports1.png"
+    },
+    {
+      "name": "PT: Eleven Sports 1 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports1.png"
+    },
+    {
+      "name": "PT: Eleven Sports 1 SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports1.png"
+    },
+    {
+      "name": "PT: Eleven Sports 2 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports2.png"
+    },
+    {
+      "name": "PT: Eleven Sports 3 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports3.png"
+    },
+    {
+      "name": "PT: Eleven Sports 3 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports3.png"
+    },
+    {
+      "name": "PT: Eleven Sports 4 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports4.png"
+    },
+    {
+      "name": "PT: Eleven Sports 4 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports4.png"
+    },
+    {
+      "name": "PT: Eleven Sports 4 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports4.png"
+    },
+    {
+      "name": "PT: Eleven Sports 5 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports5.png"
+    },
+    {
+      "name": "PT: Eleven Sports 5 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports5.png"
+    },
+    {
+      "name": "PT: Eleven Sports 5 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports5.png"
+    },
+    {
+      "name": "PT: Eleven Sports 6 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports6.png"
+    },
+    {
+      "name": "PT: Eleven Sports 6 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports6.png"
+    },
+    {
+      "name": "PT: Eleven Sports 6 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports6.png"
+    },
+    {
+      "name": "PT: DAZN 1 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn1.png"
+    },
+    {
+      "name": "PT: DAZN 1 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn1.png"
+    },
+    {
+      "name": "PT: DAZN 2 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn2.png"
+    },
+    {
+      "name": "PT: DAZN 2 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn2.png"
+    },
+    {
+      "name": "PT: DAZN 3 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn3.png"
+    },
+    {
+      "name": "PT: DAZN 3 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn3.png"
+    },
+    {
+      "name": "PT: DAZN 4 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn4.png"
+    },
+    {
+      "name": "PT: DAZN 4 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn4.png"
+    },
+    {
+      "name": "PT: DAZN 5 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn5.png"
+    },
+    {
+      "name": "PT: DAZN 5 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/dazn5.png"
+    },
+    {
+      "name": "PT: DAZN F1 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/daznf1.png"
+    },
+    {
+      "name": "PT: EUROSPORT 1 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "PT: Eurosport 2 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "PT: Eurosports 2 HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/eurosports2.png"
+    },
+    {
+      "name": "PT: Motorvision FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/motorvision.png"
+    },
+    {
+      "name": "PT: MOTORVISION HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/motorvision.png"
+    },
+    {
+      "name": "PT: Sport TV NBA HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sporttvnba.png"
+    },
+    {
+      "name": "PT: Sporting TV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportingtv.png"
+    },
+    {
+      "name": "PT: Sporting TV SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportingtv.png"
+    },
+    {
+      "name": "PT: AMC Crime FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/amccrime.png"
+    },
+    {
+      "name": "PT: Canal Q HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/canalq.png"
+    },
+    {
+      "name": "PT: Discovery Channel FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "PT: Historia FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/historia.png"
+    },
+    {
+      "name": "PT: HISTORIA SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/historia.png"
+    },
+    {
+      "name": "PT: ID Investigation Discovery FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/investigationdiscovery.png"
+    },
+    {
+      "name": "PT: NAT GEO WILD FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "PT: National Geographic FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "PT: National Geographic WILD HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographicwild.png"
+    },
+    {
+      "name": "PT: Odisseia FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/odisseia.png"
+    },
+    {
+      "name": "PT: ODISSEIA SD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/odisseia.png"
+    },
+    {
+      "name": "PT: SIC CARAS HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/siccaras.png"
+    },
+    {
+      "name": "PT: SIC Caras TV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/68173814971.png"
+    },
+    {
+      "name": "PT: SIC Radical HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sicradical.png"
+    },
+    {
+      "name": "PT: TLC FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "PT: TLC HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "PT: TVI Reality FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvireality.png"
+    },
+    {
+      "name": "PT: TVI Reality HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvireality.png"
+    },
+    {
+      "name": "PT : ARTV HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/artv.png"
+    },
+    {
+      "name": "PT: 24 Kitchen FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/24kitchen.png"
+    },
+    {
+      "name": "PT: ARTV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/artv.png"
+    },
+    {
+      "name": "PT: CACA E Pesca HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cacaepesca.png"
+    },
+    {
+      "name": "PT: CACA Vision HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cacavision.png"
+    },
+    {
+      "name": "PT: Campo Pequeno HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/08b46795c81501edd370b990dc7220e3.png"
+    },
+    {
+      "name": "PT: Canal 180 FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/canal180.png"
+    },
+    {
+      "name": "PT: Cancao NOVA TV HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cancaonovatv.png"
+    },
+    {
+      "name": "PT: CASA E Cozinha FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/casaecozinha.png"
+    },
+    {
+      "name": "PT: CBS Reality HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbsreality.png"
+    },
+    {
+      "name": "PT: E! Entertainement FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/eentertainement.png"
+    },
+    {
+      "name": "PT: FOOD Network HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/foodnetwork.png"
+    },
+    {
+      "name": "PT: FTV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/ftv.png"
+    },
+    {
+      "name": "PT: FTV HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/ftv.png"
+    },
+    {
+      "name": "PT: Globo NOW HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/globonow.png"
+    },
+    {
+      "name": "PT: Kuriakos TV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kuriakostv.png"
+    },
+    {
+      "name": "PT: Kuriakos TV HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/kuriakostv.png"
+    },
+    {
+      "name": "PT: MCM TOP FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/mcmtop.png"
+    },
+    {
+      "name": "PT: MTV Portugal FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/mtv.png"
+    },
+    {
+      "name": "PT: TCV Internacional HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tcvinternacional.png"
+    },
+    {
+      "name": "PT: Toros TV  HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/29190947471.png"
+    },
+    {
+      "name": "PT: TPA  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tpa.png"
+    },
+    {
+      "name": "PT: TPA Internacional  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tpainternacional.png"
+    },
+    {
+      "name": "PT: Travel Channel FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/travelchannel.png"
+    },
+    {
+      "name": "PT: TV Galicia FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvgalicia.png"
+    },
+    {
+      "name": "PT: TV Galicia HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvgalicia.png"
+    },
+    {
+      "name": "PT: TV Record FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvrecord.png"
+    },
+    {
+      "name": "PT: TVE Internacional HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tveinternacional.png"
+    },
+    {
+      "name": "PT: ZAP VIVA  HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/59375890121.png"
+    },
+    {
+      "name": "PT: BABY TV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/babytv.png"
+    },
+    {
+      "name": "PT: Biggs Panda HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/22742066601.png"
+    },
+    {
+      "name": "PT: Biggs TV HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/34803800881.png"
+    },
+    {
+      "name": "PT: Bloomberg HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/bloomberg.png"
+    },
+    {
+      "name": "PT: Canal Panda HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/canalpanda.png"
+    },
+    {
+      "name": "PT: Cartoon Network FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "PT: Cartoonito FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonito.png"
+    },
+    {
+      "name": "PT: Disney Channel FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "PT: Disney Channel HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "PT: Disney Junior FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    },
+    {
+      "name": "PT: Lolly KIDS  HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/32855311591.png"
+    },
+    {
+      "name": "PT: NICK Junior HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/nickjunior.png"
+    },
+    {
+      "name": "PT: Nickelodeon HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "PT: Panda FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/panda.png"
+    },
+    {
+      "name": "PT: Panda KIDS FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/pandakids.png"
+    },
+    {
+      "name": "PT: PANDA KIDS HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/pandakids.png"
+    },
+    {
+      "name": "PT: SIC K FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/sick.png"
+    },
+    {
+      "name": "PT: AFRO Music TV HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/34137642891.png"
+    },
+    {
+      "name": "PT: MCM TOP HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/mcmtop.png"
+    },
+    {
+      "name": "PT: Mezzo FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/mezzo.png"
+    },
+    {
+      "name": "PT: Trace Urban HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/traceurban.png"
+    },
+    {
+      "name": "PT: Trace TOCA FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tracetoca.png"
+    },
+    {
+      "name": "PT : TRACE TOCA HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tracetoca.png"
+    },
+    {
+      "name": "PT: A BOLA TV FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/abolatv.png"
+    },
+    {
+      "name": "PT: Alma Lusa  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/almalusa.png"
+    },
+    {
+      "name": "PT: CNBC HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "PT: News Now  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/19fa3cc7fcdb1f72b260a018d3239613.png"
+    },
+    {
+      "name": "PT: Porto Canal FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/portocanal.png"
+    },
+    {
+      "name": "PT: TV Globo FHD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvglobo.png"
+    },
+    {
+      "name": "PT: TV RECORD NEWS HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/9858e867c4771f3493e1ca9b8c0a38ce.png"
+    },
+    {
+      "name": "PT: TVE 24H HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tve24h.png"
+    },
+    {
+      "name": "PT: TVI Ficcao HD  (101-SERVERS)",
+      "group": "PT - Portugal TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvificcao.png"
+    }
+  ]
+}

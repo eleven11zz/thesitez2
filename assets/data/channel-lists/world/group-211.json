@@ -1,0 +1,33 @@
+{
+  "package": "world",
+  "name": "TR - Exxen Sports - Live.",
+  "groupIndex": 211,
+  "totalChannels": 5,
+  "channels": [
+    {
+      "name": "TR: Exxen Sports 1 HD  (101-SERVERS)",
+      "group": "TR - Exxen Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/28256333851.png"
+    },
+    {
+      "name": "TR: EXXEN SPORT 3 HD  (101-SERVERS)",
+      "group": "TR - Exxen Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/2685cf2a4a155206dd6113958b13416d.png"
+    },
+    {
+      "name": "TR: Exxen Sport 5 HD  (101-SERVERS)",
+      "group": "TR - Exxen Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/1a6fcfe36a50585e38066b48c75f0b88.png"
+    },
+    {
+      "name": "TR: Exxen Sport 6 HD  (101-SERVERS)",
+      "group": "TR - Exxen Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/9cd71bdd8597cf7db6082529f7d61404.png"
+    },
+    {
+      "name": "TR: Exxen Sport 7 HD  (101-SERVERS)",
+      "group": "TR - Exxen Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/ab95cbc14920dd146b57992678c25574.png"
+    }
+  ]
+}

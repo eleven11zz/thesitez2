@@ -1,0 +1,88 @@
+{
+  "package": "german",
+  "name": "DE - Germany Kids - Live.",
+  "groupIndex": 23,
+  "totalChannels": 16,
+  "channels": [
+    {
+      "name": "DE: Disney Channel HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "DE: Disney Channel HEVC HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannel.png"
+    },
+    {
+      "name": "DE: Super RTL FHD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/superrtl.png"
+    },
+    {
+      "name": "DE: KIKA FHD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/kika.png"
+    },
+    {
+      "name": "DE: Toggo TV HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/1726280772.jpg"
+    },
+    {
+      "name": "DE: Toggo PLUS HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/toggoplus.png"
+    },
+    {
+      "name": "DE: Cartoonito FHD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonito.png"
+    },
+    {
+      "name": "DE: Cartoon Network HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "DE: Nicktoons HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/nicktoons.png"
+    },
+    {
+      "name": "DE: NICK JR HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/nickjr.png"
+    },
+    {
+      "name": "DE: Nick/Comedy Central+1 FHD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/nickcomedycentral.png"
+    },
+    {
+      "name": "DE: RiC FHD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/ric.png"
+    },
+    {
+      "name": "DE: FIX & FOXI  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/fixfoxi.png"
+    },
+    {
+      "name": "DE: Boomerang HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/boomerang.png"
+    },
+    {
+      "name": "DE: Disney Cinemagic HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/disneycinemagic.png"
+    },
+    {
+      "name": "DE: Junior HD  (101-SERVERS)",
+      "group": "DE - Germany Kids - Live.",
+      "logo": "https://logo.m3uassets.com/junior.png"
+    }
+  ]
+}

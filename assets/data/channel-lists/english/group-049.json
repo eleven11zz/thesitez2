@@ -1,0 +1,33 @@
+{
+  "package": "english",
+  "name": "USA - NHL - Events.",
+  "groupIndex": 49,
+  "totalChannels": 5,
+  "channels": [
+    {
+      "name": "USA | NHL Game 05: Edmonton Oilers vs Winnipeg Jets | Tue Sep 23rd 8:00 pm  (101-SERVERS)",
+      "group": "USA - NHL - Events.",
+      "logo": "http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png"
+    },
+    {
+      "name": "USA | NHL Game 03: Ottawa Senators vs Toronto Maple Leafs | Tue Sep 23rd 7:00 pm  (101-SERVERS)",
+      "group": "USA - NHL - Events.",
+      "logo": "http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png"
+    },
+    {
+      "name": "USA | NHL Game 02: New York Islanders vs New Jersey Devils | Tue Sep 23rd 7:00 pm  (101-SERVERS)",
+      "group": "USA - NHL - Events.",
+      "logo": "http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png"
+    },
+    {
+      "name": "USA | NHL Game 00: Boston Bruins vs New York Rangers | Tue Sep 23rd 7:00 PM  (101-SERVERS)",
+      "group": "USA - NHL - Events.",
+      "logo": "http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png"
+    },
+    {
+      "name": "USA | NHL Network  (101-SERVERS)",
+      "group": "USA - NHL - Events.",
+      "logo": "https://logo.m3uassets.com/nhlnetwork.png"
+    }
+  ]
+}

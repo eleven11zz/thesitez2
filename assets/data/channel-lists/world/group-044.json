@@ -1,0 +1,33 @@
+{
+  "package": "world",
+  "name": "DSTV - Documentary - Live.",
+  "groupIndex": 44,
+  "totalChannels": 5,
+  "channels": [
+    {
+      "name": "DSTV: Discovery Family HD  (101-SERVERS)",
+      "group": "DSTV - Documentary - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryfamily.png"
+    },
+    {
+      "name": "DSTV: History FHD  (101-SERVERS)",
+      "group": "DSTV - Documentary - Live.",
+      "logo": "https://logo.m3uassets.com/history.png"
+    },
+    {
+      "name": "DSTV: National Geographic HD  (101-SERVERS)",
+      "group": "DSTV - Documentary - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "DSTV: TLC HD  (101-SERVERS)",
+      "group": "DSTV - Documentary - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "DSTV: Travel Channel HD  (101-SERVERS)",
+      "group": "DSTV - Documentary - Live.",
+      "logo": "https://logo.m3uassets.com/travelchannel.png"
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "package": "india",
+  "name": "IN - Marathi Movies",
+  "groupIndex": 62,
+  "totalChannels": 183,
+  "channels": [
+    {
+      "name": "IN-Mar: Ben (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW8NRrCptRNYu12PisTyd0YIwC2.jpg"
+    },
+    {
+      "name": "IN-Mar: Mumbai Pune Mumbai (2010)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibkKHgcx1iT0fi8eIJ6LIp1HNFU.jpg"
+    },
+    {
+      "name": "IN-Mar: Demon (Rakshas) (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pgnZuzKjr76ONZ8dTM4O2CYXbj.jpg"
+    },
+    {
+      "name": "IN-Mar: Akherchi Aasha No Way Out (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGVhZDVmYzItMzJhOS00Yzc2LTgyZWQtODU2MTk5NGQzYWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN-Mar: Parandhu Po (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5nQKLilDQtxAOfoKUL6xFrLLtu.jpg"
+    },
+    {
+      "name": "IN-Mar: Yere Yere Paisa 3 (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e95hfpABB9aP4l9RSHVN57DT9r9.jpg"
+    },
+    {
+      "name": "IN-Mar: April May 99 (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXyJsdN3HeRvn7tomPf982239Id.jpg"
+    },
+    {
+      "name": "Jarann (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZkWXHgW8Qk0lMGH1dQbBRzFJAc.jpg"
+    },
+    {
+      "name": "IN-Mar: Ambat Shoukin (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZjMmJjOWYtOTdkZi00NzEzLTkxNDItNmUzOWY4NmExNGViXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Mar: Fussclass Dabhade (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX7qw0uQOVaKlGB9XgQxIp2H2NT.jpg"
+    },
+    {
+      "name": "IN-Mar: Mukkam Post Devach Ghar (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sBQwuyel1EaJCVcexh5xWEOiWv.jpg"
+    },
+    {
+      "name": "IN-Mar: Chiki Chiki Booboom Boom (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztPeyhuIvJy7zJVngShIOdYecUT.jpg"
+    },
+    {
+      "name": "IN-Mar: Antim Satya (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://i.ytimg.com/vi/-OEgf2vi9JQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBFSU-ID-1el5i2fxzlp95UzS-n5Q"
+    },
+    {
+      "name": "IN-Mar: Ashi Hi Jamva Jamvi (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDI5NjZlNTEtNGM5My00M2I5LWEzNmMtMWY1NWU0ZGVhNzc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN-Mar: Ata Thambaycha Naay! (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2McsyweNGD7CIBg0pB4MADwbJVb.jpg"
+    },
+    {
+      "name": "IN-Mar: Ghaath (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpuUl59LEFhyeJrUgEUDpPxulK.jpg"
+    },
+    {
+      "name": "IN-Mar: Devmanus (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vyTSh8zZEWJzlkQo6RSgWo2pZ3.jpg"
+    },
+    {
+      "name": "IN-Mar: Gulkand (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mIX5e43ktNuMtqHuHK4vqyDzlK.jpg"
+    },
+    {
+      "name": "IN-Mar: Susheela Sujeet (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/has2xb6MPPOJQNNxaH4Z9p5XR7r.jpg"
+    },
+    {
+      "name": "IN-Mar: Yanda Savadhan (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://bingeddata.s3.amazonaws.com/uploads/2025/05/grejzpewqaanj_8-768x960.jpg"
+    },
+    {
+      "name": "IN-Mar: Shri (2006)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcBMcle2K3LfNCgYkMYszMQMfwO.jpg"
+    },
+    {
+      "name": "IN-Mar: Jilabi (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YZw0D3wziRjGDi6s3Pphqak3c0.jpg"
+    },
+    {
+      "name": "IN-Mar: Ek Raadha Ek Meera (2025)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzVmNTFjMjItOGMwMC00Yjc0LTgxYzMtZWUzMzllYzFkNjVkXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Mar: Hashtag Tadev Lagnam (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rpZ2wBiLMGgzw8xhLXLG46GAPo.jpg"
+    },
+    {
+      "name": "IN-Mar: Gulaabi (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXoApqes4g7pptMiBEQBt8BGiJR.jpg"
+    },
+    {
+      "name": "IN-Mar: PaniPuri (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2g7StVdwx7TkwFjYA8QAXJ5aVbD.jpg"
+    },
+    {
+      "name": "IN-Mar: Motu Patlu",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWExYjRiMWQtY2MxNi00NmU1LWEwMTktYmU4MzAyODlkYTgwXkEyXkFqcGc@._V1_QL75_UY266_CR4,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Mar: Paani (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR2FY0KoNVktSl3ztawQfkLxKxj.jpg"
+    },
+    {
+      "name": "IN-Mar; Ek Daav Bhootacha (2024) (Marathi)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2EyMjZhNzEtOTI5ZS00ZWRhLWJjNzctNThhMGNiMzUzZmU4XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg"
+    },
+    {
+      "name": "IN-Mar: Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj: Part 1 (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIL3FHbBnhue0cKutcT0dQF6sHy.jpg"
+    },
+    {
+      "name": "IN-Mar: Raanti (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svbe7p3Wwqbea7ERXpjc7AbOVa8.jpg"
+    },
+    {
+      "name": "IN-Mar: Dharmaveer 2 (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4SHtLoSfatigDMZxpsX8E7NuVH.jpg"
+    },
+    {
+      "name": "IN-Mar: Navra Mazha Navsacha 2 (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaonJmmX2ewFbKHBscTidlQGJY1.jpg"
+    },
+    {
+      "name": "IN-Mar: Like Aani Subscribe (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuZtFCy4idHADiPXQF52Wulz8l8.jpg"
+    },
+    {
+      "name": "IN-Mar: Phullwanti (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbFZO4fH59KtSNattz7KnGRswrR.jpg"
+    },
+    {
+      "name": "IN-Mar: Yek Number (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tM0BH9by7nfPIeTubP2djJwHmvP.jpg"
+    },
+    {
+      "name": "IN-Mar: Hya Goshtila Navach Nahi (2024) (Marathi) (CAM)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxOoRhEhJPZ2fPDOYoo6gyPigVp.jpg"
+    },
+    {
+      "name": "IN-Mar: Motu Patlu: Kung Fu Kings (2014)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWUyHbjGhgxstnZ2dxZrR721TVe.jpg"
+    },
+    {
+      "name": "IN-Mar: Like Aani Subscribe (2024) (Marathi) (CAM)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuZtFCy4idHADiPXQF52Wulz8l8.jpg"
+    },
+    {
+      "name": "IN-Mar: Vaazhai (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Kkoc8voTaZtM5YB6NxLuIzv5IY.jpg"
+    },
+    {
+      "name": "IN-Mar: Bai Ga (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXJtIuz6ecEwgASor1V00WXLa7U.jpg"
+    },
+    {
+      "name": "IN-Mar: Gharat Ganpati (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEU9UhUIKRRru8A0TVPseqhZzF5.jpg"
+    },
+    {
+      "name": "IN-Mar: Dhishkyaoon (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1v8TtwWwRRmhAs21PYsEGwQSg5.jpg"
+    },
+    {
+      "name": "IN-Mar: Ekda Kaay Zala (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFkZTh0BZ5FUNynbQCRa3FtxRzC.jpg"
+    },
+    {
+      "name": "IN-Mar: Shyamchi Aai (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ospWAjehyxFPePxWTTJyZXuWMZv.jpg"
+    },
+    {
+      "name": "IN-Mar: 8 Don 75 (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR5bQOyVFd3GSQmT7HXUb96FCbr.jpg"
+    },
+    {
+      "name": "IN-Mar: Dune: Part Two (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+    },
+    {
+      "name": "IN-Mar: Bonus (2020)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZc5UumBoDZ3wAsq3y8PBDoOGWo.jpg"
+    },
+    {
+      "name": "IN-Mar: Babu (2024) ( Marathi)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjAyMDE3MmEtYWM0ZC00MzQ1LTgzNTUtMzZkZWE0NTBkNTAyXkEyXkFqcGdeQXVyMTI5ODE5NDIy._V1_QL75_UX100_CR0,1,100,148_.jpg"
+    },
+    {
+      "name": "IN-Mar: Hoy Maharaja (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3525kjUVh6ZDiwiMRMO73F0X2rD.jpg"
+    },
+    {
+      "name": "IN-Mar: Naach Ga Ghuma (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oNUkuyRSLf2dBErtNIH6C9osJ3.jpg"
+    },
+    {
+      "name": "IN-Mar: Swaragandharva Sudhir Phadke (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://l.top4top.io/p_312682wjj9.jpg"
+    },
+    {
+      "name": "IN-Mar: Shivrayancha Chhava (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sQzGwxf3FoJMgmUdBTEjHsctJJ.jpg"
+    },
+    {
+      "name": "IN-Mar: Sapala (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzMxZTliY2EtM2Q1NS00N2FkLWEyYWMtOTRhMmJiZTllOWVmXkEyXkFqcGdeQXVyMTM3MTQ3ODEw._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN-Mar: Satyashodhak (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzQPp0oSYPgu8crP3aq8EIjQ6Ti.jpg"
+    },
+    {
+      "name": "IN-Mar: Aaichya Gavat Marathit Bol (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2Sj9ErQINZ8feCZ7jC6JJrqJqz.jpg"
+    },
+    {
+      "name": "IN-Mar: Hi Anokhi Gaath (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcA1GClrzZCs0YihgglJD00OhcW.jpg"
+    },
+    {
+      "name": "IN-Mar: Lockdown Lagna (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2E4ZTJmOWYtNWRmNi00NGYwLWE2MTAtNzQwMzM0ZjA3MmFlXkEyXkFqcGdeQXVyMTMwOTM1NjA3._V1_.jpg"
+    },
+    {
+      "name": "IN-Mar: Alibaba Ani Chalishitale Chor (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXOJMPhAuLm5YeUNRQeQjXDGHWi.jpg"
+    },
+    {
+      "name": "IN-Mar: Yathavkash (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://j.top4top.io/p_3062j9de30.jpeg"
+    },
+    {
+      "name": "IN-Mar: Swatantra Veer Savarkar (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mLVbGHviitXzDb8A2ATpOn9adO.jpg"
+    },
+    {
+      "name": "IN-Mar: Blackout (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3na9yLIz6j2Q44dzMEHWeSDg4Ef.jpg"
+    },
+    {
+      "name": "IN-Mar: Juna Furniture (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcLuDD3uLsm2N7tUlimEI0l7oQG.jpg"
+    },
+    {
+      "name": "IN-Mar: MyLek (2024)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbEmUnfb60u8jP0C1xCNpK4DbDP.jpg"
+    },
+    {
+      "name": "IN-Mar: Danka Hari Namacha (2024) [CAM]",
+      "group": "IN - Marathi Movies",
+      "logo": "https://h.top4top.io/p_3124gwro40.jpeg"
+    },
+    {
+      "name": "IN-Mar: Mauli (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nz6ecOmTt1CAKLBFIhjb3w1z0gd.jpg"
+    },
+    {
+      "name": "IN-Mar: Shut Up And Dance (2017)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/636TBz5kV24PFtgiATga8kYMxnn.jpg"
+    },
+    {
+      "name": "IN-Mar: Maharashtra Shahir (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJ2aIlkoIhYDVHVR4S1LFVTjCMe.jpg"
+    },
+    {
+      "name": "IN-Mar: Phulrani (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjlMC1ugY8ylKepDiDX7jbzrKw.jpg"
+    },
+    {
+      "name": "IN-Mar: Ghar Banduk Biryani (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzBi2xufUfPG3rGYTqPnTx5TTFn.jpg"
+    },
+    {
+      "name": "IN-Mar: Victoria : Ek Rahasya (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SxcwD8mXRRyvwn4MMBZsPhQs7X.jpg"
+    },
+    {
+      "name": "IN-Mar: We2 (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjvhHXEmOiWib8sByzv8UhYJssV.jpg"
+    },
+    {
+      "name": "IN-Mar: Dear Molly (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/78vSmwqTv73jD4N3bSnzIsq3jEL.jpg"
+    },
+    {
+      "name": "IN-Mar: Boyz 3 (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pcQby5momtW90Y1LeRYB1XHXRi.jpg"
+    },
+    {
+      "name": "IN-Mar: Bhai - Vyakti Ki Valli - Uttarardha (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zvlU9rzk8xkCdIe33AeJ5v5UqP.jpg"
+    },
+    {
+      "name": "IN-Mar: Photo-Prem (2021)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyblOguV5BekMFIM1adEE8LuPqo.jpg"
+    },
+    {
+      "name": "IN-Mar: Shut The Temple (2015)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ThCoOh5yTrZNTFGqKlhl6QueF7.jpg"
+    },
+    {
+      "name": "IN-Mar: Coffee & Kareem (2020)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg"
+    },
+    {
+      "name": "IN-Mar: Jayanti (2021)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjcPYU8QN7cdWIcdjBLMhyaZ0Nz.jpg"
+    },
+    {
+      "name": "IN-Mar: Photocopy (2016)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bct6S2zRp6emDuZX6vFA38yqbVI.jpg"
+    },
+    {
+      "name": "IN-Mar: Subhedar (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnM26ChrGes8dlT106LK9g3kaQu.jpg"
+    },
+    {
+      "name": "IN-Mar: Ravrambha (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIzjFQb6HsAA5eSAgK6mkxd5BKX.jpg"
+    },
+    {
+      "name": "IN-Marathi: Vaalvi (2023)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZxR5UxtYhwQs6cyZqCaK682GQ9.jpg"
+    },
+    {
+      "name": "IN-Marathi: Har Har Mahadev (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnSPawPoBmtcd6vCTIncY3QAesD.jpg"
+    },
+    {
+      "name": "IN-Marathi: Poshter Girl (2016)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/foWFbGSX34ezzlhinx9KXzJaCbb.jpg"
+    },
+    {
+      "name": "IN-Marathi: Birkhit (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYP8aapEHw1oY6G8UqBplJoTnuJ.jpg"
+    },
+    {
+      "name": "IN-Marathi: Timepass 3 (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aGyP3SX4W9dZdzSVxx74LjsqIK.jpg"
+    },
+    {
+      "name": "IN-Marathi: IN | Dagdi Chawl 2 (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmRiOGNjYzYtZjc3NS00YWIyLWI5MDgtNjc4NzdkYzk5NGQyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "IN-Marathi: Ananya (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhSrNACvGqLBmlq7GDUnF4itzp2.jpg"
+    },
+    {
+      "name": "IN-Marathi: Ye Re Ye Re Paisa 2 (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLfmItmmvf4zysnpoS8SAdJl5mC.jpg"
+    },
+    {
+      "name": "IN-Marathi: Ye Re Ye Re Paisa (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/04/Ye_re_ye_re_paisa_xlg.jpg"
+    },
+    {
+      "name": "IN-Marathi: WhatsApp Love (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxAR75LNj7Qvj1z1BeHYX7wBfw6.jpg"
+    },
+    {
+      "name": "IN-Marathi: Well Done Baby (2021)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH8Sa8mz3pTNXtjg5iQ2PzKX4J2.jpg"
+    },
+    {
+      "name": "IN-Marathi: Vijay Aso (2013)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-372674822.jpg"
+    },
+    {
+      "name": "IN-Marathi: Vicky Velingkar (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fksUsh37dXBWOV0mCgvR74CidsO.jpg"
+    },
+    {
+      "name": "IN-Marathi: Ventilator (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bTULgVm1m9SIb8PQBAVtL8VPqt.jpg"
+    },
+    {
+      "name": "IN-Marathi: Vegali Vaat (2020)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWM5MGU1OWQtMWY4YS00NWQzLWI2YzEtMDA3YTNjMGFkOThmXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg"
+    },
+    {
+      "name": "IN-Marathi: Unmatta (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAWXjjGTrkrdAlSeGGq0IZOwFoF.jpg"
+    },
+    {
+      "name": "IN-Marathi: Triple Seat (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jJXlGY3oHtjSXs8x8GOLMJk8Px.jpg"
+    },
+    {
+      "name": "IN-Marathi: Ti Saddhya Kay Karte (2017)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWF1jDvWKKGdDTbGSWX88h1la4Q.jpg"
+    },
+    {
+      "name": "IN-Marathi: Timepass (2014)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZXI0Od5sZXu1AhOSm4DhivbxkB.jpg"
+    },
+    {
+      "name": "IN-Marathi: Ti Dete To Deto Te Detat Saglech Detat Shivya",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Takatak (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXciW40rnoYHKrfzaQW7PzUehCN.jpg"
+    },
+    {
+      "name": "IN-Marathi: Sweety Satarkar",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Sur Sapata (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/crqWjS3S7KqxbjZlTKXLYSQgOze.jpg"
+    },
+    {
+      "name": "IN-Marathi: Smile Please (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqEX8HKSij3qvuLJ53RgVeWPBTb.jpg"
+    },
+    {
+      "name": "IN-Marathi: Sher Shivraj (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQdaTKgM2hWVsEQJKU3ix9SkEAB.jpg"
+    },
+    {
+      "name": "IN-Marathi: Sarvam (2009)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtRB4rtxgogYOvMbdEi64ejPXn7.jpg"
+    },
+    {
+      "name": "IN-Marathi: Sarva Line Vyasta Aahet (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/M43tfBchfBgS19ptlQ1Yah3ZdQ.jpg"
+    },
+    {
+      "name": "IN-Marathi: Sakhya Sajna",
+      "group": "IN - Marathi Movies",
+      "logo": "https://i.ibb.co/Lds8tBw/600x600bf-60.jpg"
+    },
+    {
+      "name": "IN-Marathi: Sairat (2016)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8K4ZI1RSxMkIIwu5cuvZmzwohq.jpg"
+    },
+    {
+      "name": "IN-Marathi: Saavat (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nznjcAN5opllwaDabVHDy2RbVfg.jpg"
+    },
+    {
+      "name": "IN-Marathi: Rege (2014)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1P57ufuzkmndcDH6y4e3Fyu4JHg.jpg"
+    },
+    {
+      "name": "IN-Marathi: Raudra (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEefEY4WzbQl6zZK4C1Z222anut.jpg"
+    },
+    {
+      "name": "IN-Marathi: Rampaat (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQLusghENMIzm8UzxrdhrjKj6eK.jpg"
+    },
+    {
+      "name": "IN-Marathi: Rajwade and Sons (2015)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnatBgVaxM5qdoVZc6dimRczLkN.jpg"
+    },
+    {
+      "name": "IN-Marathi: Preetam Marathi - 2021",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Preetam (1971)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "IN-Marathi: Prawaas (2020)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq5dE49Tpem3u2dbOJEkT555xPM.jpg"
+    },
+    {
+      "name": "IN-Marathi: Postcard (2014)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/avwusdTUdokq4ureQ8AYMDC0IRZ.jpg"
+    },
+    {
+      "name": "IN-Marathi: Pipsi a bottle full of hope (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6TckOmB1041Y9W3Azze7zrYYjy.jpg"
+    },
+    {
+      "name": "IN-Marathi: Photocopier (2021)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjNNm0eZKNZ40Fqlc9QewDxy0by.jpg"
+    },
+    {
+      "name": "IN-Marathi: Photo",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXoeoWdLkS16Nvn3Txfo6R3j90z.jpg"
+    },
+    {
+      "name": "IN-Marathi: Pension (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7pRpe61ixvp2ovBYLrZpxQmggh.jpg"
+    },
+    {
+      "name": "IN-Marathi: Pawankhind (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/quHbs6JKlh6HYDefCBteLaVmXqt.jpg"
+    },
+    {
+      "name": "IN-Marathi: Pandu (2021)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/shRSXnGQ1ebxasWZTdkw3t8zc2S.jpg"
+    },
+    {
+      "name": "IN-Marathi: Once More (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTHjPkAjLtIUVrowSKujp1PcGGk.jpg"
+    },
+    {
+      "name": "IN-Marathi: Nude (2017)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6dCEObeulV087wlJeYEvp7D0at.jpg"
+    },
+    {
+      "name": "IN-Marathi: Natrang (2010)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj4FQmnABL5GTl4hHW1tF3uZWjs.jpg"
+    },
+    {
+      "name": "IN-Marathi: Naal (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaCXIQ3Q68ik9qTSCVq3LJNHKp3.jpg"
+    },
+    {
+      "name": "IN-Marathi: Mulshi Pattern (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dStDErSlgw5oYolA8t0F8o1aZi4.jpg"
+    },
+    {
+      "name": "IN-Marathi: Madhuri (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQLIKcoThgFwrTUlofGsJy7WQaG.jpg"
+    },
+    {
+      "name": "IN-Marathi: Lochya Zaala Re (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/JPyXks4Vgq88Sc3OOCt7uwtNSu.jpg"
+    },
+    {
+      "name": "IN-Marathi: Land 1857",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Kinaryavarchi Shala",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Khichik (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIR0aXa24ZeRJtjfRMfo8L6TDyS.jpg"
+    },
+    {
+      "name": "IN-Marathi: Khari Biscuit (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/71BZwzuFoDLsziM93hsV4aGgQaA.jpg"
+    },
+    {
+      "name": "IN-Marathi: Kaakan (2015)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdy4nUW10mV5kMOqHolORIulxXQ.jpg"
+    },
+    {
+      "name": "IN-Marathi: Kaagar (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDf9DnePfGURaTdNQIbD9fUoLch.jpg"
+    },
+    {
+      "name": "IN-Marathi: June (2015)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvHlijzVA5hNOmy6vMi0vSlnlsh.jpg"
+    },
+    {
+      "name": "IN-Marathi: June (2021)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/stAlTny9qtvqs2tePrZPCTYuy0f.jpg"
+    },
+    {
+      "name": "IN-Marathi: Jhimma (2021)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ut9TTonQT9xiqVawxV2pXf4HJu.jpg"
+    },
+    {
+      "name": "IN-Marathi: Hirkani (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEF85SdfY2ZOnNe1eHBBPu0TVKo.jpg"
+    },
+    {
+      "name": "IN-Marathi: Highway - 2014",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Harishchandrachi Factory (2009)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRC3yCRlsETdnCvZiyXilLtMrdE.jpg"
+    },
+    {
+      "name": "IN-Marathi: Haapus (2010)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/205WooJ9AJvmjMYMl7jxOV9AXce.jpg"
+    },
+    {
+      "name": "IN-Marathi: Gumnam Ek Thriller Night",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Girlz (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/moH3AkqKifVVEFWALepIaKxxHfz.jpg"
+    },
+    {
+      "name": "IN-Marathi: Girlfriend (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLD0plMIy455OQYICoRg2QbuyVy.jpg"
+    },
+    {
+      "name": "IN-Marathi: Fatteshikast (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLDIgIUkh2iD7tHzkj5sTYvqC8d.jpg"
+    },
+    {
+      "name": "IN-Marathi: Faster Fene (2017)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUURms0XpNXxI1FRKnwfMWTPLE9.jpg"
+    },
+    {
+      "name": "IN-Marathi: Ek Thriller Night",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Duniyadari (2014)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDVc5jOVCyf6JrCDKz8z13xChez.jpg"
+    },
+    {
+      "name": "IN-Marathi: Double Seat (2015)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QcBX7u6HZxb678KUIPe2IUdmUr.jpg"
+    },
+    {
+      "name": "IN-Marathi: Dombivli Return (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iowMD8PiqWSdfJNpDof9PBhnfIq.jpg"
+    },
+    {
+      "name": "IN-Marathi: Dharmatma (1975)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ0S7Nq9v46Q7T1da6tBpSQnK5x.jpg"
+    },
+    {
+      "name": "IN-Marathi: Deool Band (2015)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTZkNzVlYWQtMjYzNi00NDY1LWE0N2YtNTlmMzc5YzkzMTY0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY1200_CR100,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "IN-Marathi: Darling (2017)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMg0DeR8BtMtlfGBWgRm23xPpGO.jpg"
+    },
+    {
+      "name": "IN-Marathi: Cycle (2013)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/he84AlIiyxjpvmlH2LgYagtRrZF.jpg"
+    },
+    {
+      "name": "IN-Marathi: Classmates (2015)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD4Mdz4KUPmYSJq7WrKj6hFStkl.jpg"
+    },
+    {
+      "name": "IN-Marathi: Choricha Mamla (2020)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOdZvgKzJemIMVbG7xB9DFSrtW.jpg"
+    },
+    {
+      "name": "IN-Marathi: Chatrapati Shashan (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/faDUZGRP7CbMnHTbXFTgRiKTSJ9.jpg"
+    },
+    {
+      "name": "IN-Marathi: Bus Stop (1956)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXZiz5zIyynjQMJMBbXijS4434z.jpg"
+    },
+    {
+      "name": "IN-Marathi: Bonus",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Bogda (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwIyFe1TFsgfuMKpCeGyZ0Untaq.jpg"
+    },
+    {
+      "name": "IN-Marathi: Bhonga (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV6Ht97QAOJQFXULxtXsqTBH7Rm.jpg"
+    },
+    {
+      "name": "IN-Marathi: Bhai - Vyakti ki Valli",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Befaam",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Basta (1969)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "IN-Marathi: Bandishala (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEldleXMO7N88Mk8gDjnRFvTiK4.jpg"
+    },
+    {
+      "name": "IN-Marathi: Bali (2021)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcDfvJvwL9UttLeOZGiXt2FSAm5.jpg"
+    },
+    {
+      "name": "IN-Marathi: Baghtos Kay Mujra Kar (2017)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2"
+    },
+    {
+      "name": "IN-Marathi: Baban (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPDcewq8rwcilwjbAJzein00VBI.jpg"
+    },
+    {
+      "name": "IN-Marathi: Anandi Gopal (2019)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6CxpWfQn8Sec65dy9fkHRLs2XT.jpg"
+    },
+    {
+      "name": "IN-Marathi: Ajinkya (2012)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TpPchXiTe0VqorEfOAKhZ2iu3M.jpg"
+    },
+    {
+      "name": "IN-Marathi: AB aani CD (2020)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbyIrEq8zpZgnjV2sTWFsx4vQha.jpg"
+    },
+    {
+      "name": "IN-Marathi: Aathavnichi Savali (2020)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmM2NzYxNzAtZjVkZC00Yzc5LWIxYjMtZDM3Y2Y2OTVmYTFmXkEyXkFqcGdeQXVyOTIwMTcxNjE@._V1_UY1200_CR738,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "IN-Marathi: Aata Kothe Dhave Mann",
+      "group": "IN - Marathi Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "IN-Marathi: Aaron (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6EN9ftN2XJF78xwf6Bon7wH07P.jpg"
+    },
+    {
+      "name": "IN-Marathi: Aapla Manus (2018)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4Q7mTUBHnAuG0KP5kozWitdDaJ.jpg"
+    },
+    {
+      "name": "IN-Marathi: Dharmaveer (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5kqbaZflZRJ7Jg8XZxzUAKyq9t.jpg"
+    },
+    {
+      "name": "IN-Marathi: Chandramukhi (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhPxuXvRnv2hP20Jsemt8A0Ww1.jpg"
+    },
+    {
+      "name": "IN-Marathi: Pondicherry (2022)",
+      "group": "IN - Marathi Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcCemMLRen3nLEDXW9kSuyy38Dz.jpg"
+    }
+  ]
+}

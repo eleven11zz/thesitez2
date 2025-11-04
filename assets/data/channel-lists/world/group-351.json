@@ -1,0 +1,693 @@
+{
+  "package": "world",
+  "name": "HU - Sci-Fi Movies",
+  "groupIndex": 351,
+  "totalChannels": 137,
+  "channels": [
+    {
+      "name": "HU: Superman (2025)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Annihilation (2018)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Bumblebee (2018)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_.jpg"
+    },
+    {
+      "name": "HU: Godzilla x Kong The New Empire (2024)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Turn Me On (2024)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDM4MmNhMjktOWNiNy00MjU2LWEyMzktM2NlMDYxMThhMjhhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Stargate Origins Catherine (2018)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzZkN2ZmZmUtMTYwNC00ZjE5LTgxNzUtZDdkYTdjMzM0MjJkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Stargate Continuum (2008)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGZjYjBjYjktODg5Yy00ZDg4LWIxNTEtMmEwZWNjODQxOTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Stargate (1994)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGRmZmNhMTctZTBiMy00ZmJhLWE3MmMtMDNmZWRkZjczMGVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Shazam Fury of the Gods (2023)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjdlYzAwYTMtMWJlOC00OTQ5LWJhMmYtMDhjNGY4M2RhMGU4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Shazam (2019)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWM1YjdmOGQtNGYyMC00NjMwLTk1OWUtMGYzM2NjYjliYzYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ant Man (2015)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Dark Crystal (1982)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTcxY2NiMDAtMjRmYi00ZTUwLTk2NDYtYjI1MDQ4ZDBiMTA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Prey (2022)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODNmYjA2MTUtZjNiMS00NjhiLTk5YjItNDFiM2Q3MTk0NmYyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ex Machina (2015)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Jungle Cruise (2021)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWU5ZTBkMjQtMzg2Yi00ZmJlLTk4YWEtYTc0ZjU1YzE1NGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Wonder Woman (2017)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEzYmZkNjktODBmYi00NzNkLWIzMjItMjhkMWZiZTZlN2MwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Edge of Tomorrow (2014)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Black Widow (2021)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmVlODZjOTItMGUzMi00YmI4LTlkMTUtNmIwMjFiZWJhOTliXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Black Panther II Wakanda Forever (2022)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWY5NDY1ZjItZDQxMy00MTAzLTgyOGQtNTQxYjFiMzZjMjUyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Black Panther (2018)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Alienoid II The Return to the Future (2024)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWNlYjg1ZmUtYzI5OC00NDI0LWFkY2MtYmZiZjBhOTI2MGQ1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Alienoid (2022)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjYwZjJlNGQtYTcwNS00Nzk0LWI3YzEtNGEyYzQ5YmZkNGU0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Alien vs Predator (2004)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Alien (1979)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Warcraft (2016)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Armageddon (1998)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzQ3MzJmZjUtNTc0OC00ZWRiLWJkMTYtMTZkMDVhMDQ4OGU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: 3022 (2019)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODNkYWY4YjMtYTgzNi00NThhLTg3ZjAtNTNkMjUzMTNjM2Q4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: War of the Worlds (2005)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Man from Earth (2007)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTE1NGYxNjgtYmVlMS00ODEwLTg2NjAtMTdjODMzY2I1ZjZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Dark Tower (2017)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MjUwMzQ3MF5BMl5BanBnXkFtZTgwMjcwNjkxMjI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Deep Impact (1998)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2EwNjMxOWYtYWE5Zi00MWEyLWJlMGMtYzA1NDQyZGE5YWZjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Captain America Brave New World (2025)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Tron Legacy (2010)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk4NTk4MTk1OF5BMl5BanBnXkFtZTcwNTE2MDIwNA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Abyss (1989)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTNhZTlkMGYtYWJkYy00YzhjLThlYzctYTFmOTE4ZmI3MDY1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Timecop (1994)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDdkOWRjYzktYTA3Ny00YWFkLWFkYTItNTE5ZDk2MDQxMjI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Three Thousand Years of Longing (2022)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDFiMDE2YjUtZmU0Yi00M2NlLThhYWMtMGEzMTQ3ZjAyYjZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Willow (1988)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2E5Mjg3NzItNTNlNy00NzJmLThjOGUtZjdjMTZiMGJkYTMzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: This is the End (2013)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQxODE3NjM1Ml5BMl5BanBnXkFtZTcwMzkzNjc4OA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Mickey 17 (2025)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGQwYmEzMzktYzBmMy00NmVmLTkyYTUtOTYyZjliZDNhZGVkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: In Time (2011)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kong Skull Island (2017)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcwMjcxYTQtYjJlOS00YTE1LWIyZGYtOGRlOTBlMWZmYTliXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: King Kong (2005)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: War for the Planet of the Apes (2017)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzNhMzNiZDYtMzYxYy00YTYwLTkxNmYtNTJhOGU1Yjg5ODI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Dawn of the Planet of the Apes (2014)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWNjYzQ4ZGItZTg1My00NTM2LTg1NDUtYThjOTQwMTYyNjU1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Rise of the Planet of the Apes (2011)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjAyNDY2NzQ2MF5BMl5BanBnXkFtZTcwNjE3Njk5NQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Planet of the Apes (2001)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjczODRhOTQtZjdkYi00MmM2LTg1ZmEtZDQ3YjA5MDJhODNhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Back to the Planet of the Apes (1980)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MzI3ODMwOV5BMl5BanBnXkFtZTcwMDUyOTIyMQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Battle for the Planet of the Apes (1973)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTZiODVlNjQtYjVmNS00MjIyLThhMTctMzQzMWE2YTY0YjNjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Conquest of the Planet of the Apes (1972)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjQ5Y2EwMDEtMjAzMS00YWY3LThkOTEtNzFjNDQ4NGRiNDIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Escape from the Planet of the Apes (1971)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2NjNzVlMDgtMzEyYS00N2M4LWI2YjMtNGQ1NGRlZDk5MDU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Beneath the Planet of the Apes (1970)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzY5ODkwMGUtYTNkZi00NDJmLWJhZjktNzE0NmM0ZDcyMTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Planet of the Apes (1968)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI2NzRkNmQtNTIwZi00ZWMxLThlOGQtMjQ1NjI3MzI5YmIzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Terminator VI Dark Fate (2019)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTU2OGFhYjktNDJhMC00NmU5LWE1OWItNzg5ODU1MzdmNTZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Terminator V Genisys (2015)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Terminator IV Salvation (2009)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWY1OWQ4ZWQtYzZkOS00ZTU0LWE3MDItOTg3YzdmODRkMDVjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Terminator III Rise of the Machines (2003)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Terminator II Judgment Day (1991)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Terminator (1984)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Real Genius (1985)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTQ5MzU3ODg0OF5BMl5BanBnXkFtZTgwODM0MzQxMDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Nineteen Eighty Four (1984)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTlhOTc3M2QtNmRhNy00ZjhhLTg3MzgtMGRhZjhkZTEwMjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Jurassic World III Dominion (2022)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Jurassic World II Fallen Kingdom (2018)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Jurassic World (2015)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Jurassic Park III (2001)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2FmMjhlZDYtNmYyMy00NTdjLTlhYzYtZWNlMDY2MmUzOGM2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Jurassic Park II The Lost World (1997)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGI3NDg5N2ItZGIyZi00ZWNkLWFlODUtZDA1Y2Q1M2U4NGM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Jurassic Park (1993)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Solyaris (1972)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTYyMjU4MjItYzZkNy00NmIyLTg1ZGEtYTY5ZTEyM2U2NDM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Snow White and the Huntsman (2012)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Core (2003)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY3MTY3MzkzNl5BMl5BanBnXkFtZTYwNTAwNDk2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Avatar The Way of Water (2022)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Avatar (2009)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ready Player One (2018)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzVkMTgzODQtMWIwZC00NzE4LTgzZjYtMzAwM2I5OGZhNjE4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Henry Danger The Movie (2025)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDg3ZjBjZmQtMmVlZC00MTJiLThjNDItZjJhMGFlYmYzZmM4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Transformers Rise of the Beasts (2023)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTVkZWY5MmItYjY3OS00OWY3LTg2NWEtOWE1NmQ4NGMwZGNlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Spider Man No Way Home (2021)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Spider Man Far from Home (2019)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Spider Man Homecoming (2017)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Amazing Spider Man II (2014)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Amazing Spider Man (2012)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Spider Man III (2007)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Spider Man II (2004)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Spider Man (2002)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Captain America The Winter Soldier (2014)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWY1NjFmNDItZDhmOC00NjI1LWE0ZDItMTM0MjBjZThiOTQ2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Captain America The First Avenger (2011)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzUyM2YyY2MtNzNlMS00MWU5LTgxNjAtNzZlNmI2NjU2NDZlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Captain America (1991)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Poster_for_the_1990_Captain_America_movie.jpg"
+    },
+    {
+      "name": "HU: Venom Let There Be Carnage (2021)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTZkMGY0NTQtMzg2NC00YzdhLTg1NzYtZDMyNzZhNGU3ZGUwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Venom (2018)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU3MTQyNjQwM15BMl5BanBnXkFtZTgwNDgxNDczNTM@._V1_.jpg"
+    },
+    {
+      "name": "HU: The New Mutants (2020)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGVlMjBkYmMtZDhmYS00N2QyLWI2YTgtMDU2N2UwOWYzM2MxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Morbius (2022)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDZhNjA5NDgtYzc4MS00YzE4LTlkNTctYmM0ODQyY2Y4MGRlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Madame Web (2024)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODViOTZiOTQtOTc4ZC00ZjUxLWEzMjItY2ExMmNlNDliNjE4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Logan (2017)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ghost Rider Spirit of Vengeance (2011)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2FmZGVlNTgtYTllNC00YmUzLTk5YmUtNWNhMzk3ZmE2NmQ0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ghost Rider (2007)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzIyNDE5ODI1OV5BMl5BanBnXkFtZTcwNTIyNDE0MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Fantastic Four (2015)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_.jpg"
+    },
+    {
+      "name": "HU: Fantastic Four Rise of the Silver Surfer (2007)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmZmMTU0OGQtOWRmNS00ZjA1LWJkM2EtYmUwNGEzMjIyZDM1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Fantastic Four (2005)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjY2YmZmMzUtZWY5Mi00MzI3LTljOTgtYTMwMWY1ODI5ZWY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Elektra (2005)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTI3MTUwNzM5MV5BMl5BanBnXkFtZTcwNzczMDIzMw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Daredevil (2003)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGVjZjU3MmEtNDFjZS00N2ExLTk4YzktYjYzM2MzYTJjYmE0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Blade Trinity (2004)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE0Nzg2MzI3MF5BMl5BanBnXkFtZTYwMjExODQ3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Blade II (2002)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGE5ZmY2NzEtZTEyMi00MWIyLThmOWYtYzJkOTQ0Y2U3ZWU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Blade (1998)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Hulk (2003)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTQxMmVlMTItMGFjYi00MTc2LWE5MzMtYjFhZWJmZGY0MTY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Incredible Hulk (2008)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Thor Ragnarok (2017)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Thor The Dark World (2013)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Thor (2011)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Guardians of the Galaxy Holiday Special (2022)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDA3MzdlYTQtMTUxNi00ZjJmLTkyOTYtNDkzYmIzYTJkZjMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Guardians of the Galaxy Vol III (2023)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTJhOTMxMmItZmE0Ny00MDc3LWEzOGEtOGFkMzY4MWYyZDQ0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Guardians of the Galaxy Vol II (2017)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Guardians of the Galaxy (2014)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2MzAtNDlhNi00MmQyLWJhZDMtNmJiMjFlOWY4MzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Doctor Strange in the Multiverse of Madness (2022)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Doctor Strange (2016)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Joker Folie a Deux (2024)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Joker (2019)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Iron Man III (2013)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Iron Man II (2010)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWYyOGQzOGYtMGQ1My00ZWYxLTgzZjktZWYzN2IwYjkxYzM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Iron Man (2008)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: XMen Dark Phoenix (2019)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjcwMDIyNjctMDVmNS00MzkyLTgxMDMtNTFmNTk0NDkyNzdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: XMen Apocalypse (2016)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjVhNWY3NjItNmZjOS00NTU3LWFiZTctNzdjNGM5Y2Y0MDUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: XMen Days of Future Past (2014)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzNiYWE4NjMtMTU4OS00NmM4LWE4ZjAtYmE5OTA5NjkzODExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: XMen First Class (2011)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: XMen Origins Wolverine (2009)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjQwOGEzNjUtNDgwYS00NzUzLWJhZjAtNmFlNzY2YTQyOTllXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: XMen The Last Stand (2006)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMThmOWE3OWEtODJmNC00ZDEzLTk4MWUtNzEzM2RiNmJiZmU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: XMen II (2003)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: XMen (2000)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzNjZjQwOTAtNWQ3NC00MmJlLThlZDEtZmUyMWQ3NmE4Y2Y5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Electric State (2025)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjQ1MTYzZmItMTkzYy00NzdmLTlhYmMtMzk5YjhiOThmZDgwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Arrival (2016)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_.jpg"
+    },
+    {
+      "name": "HU: 57 Seconds (2023)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTljMTJiOGItNzJlNy00ZWYzLWEwNjktNzMzMWExNTFlZDAzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Voyagers (2021)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYThkMGFjMTctMDUxNi00MDVhLWFjYWMtMmIzNTRiZGQwODk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Martian (2015)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Spaceman (2024)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGY0NDk5YjYtMTI0Zi00ZDc4LTk3NzEtYmUyNDNlN2U1ZmYwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Suicide Squad (2021)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Ghostbusters Afterlife (2021)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDJmZmM2NmQtMzhlYi00MGNkLTlhMWUtYjM1MmFlMTA1YTliXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Kingdom of the Planet of the Apes (2024)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDRlZTc3YTItOTk3Yi00NmU4LWFiOGUtNjgwMDZjNjIzNTU1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Godzilla Minus One (2023)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjc5MjllMGUtMDIwMS00ZDVkLWEzODQtM2NlMTMwMTZhNThmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Ant Man and the Wasp Quantumania (2023)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMThkYWY5ZjQtYjJlMS00MDFmLWFkYzEtODEzZjg5YWFmMGY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Blue Beetle (2023)",
+      "group": "HU - Sci-Fi Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTEyYzQzOTMtMWExNi00OWNjLTgwMDUtNzY0YjhmZDBiMTk2XkEyXkFqcGc@._V1_.jpg"
+    }
+  ]
+}

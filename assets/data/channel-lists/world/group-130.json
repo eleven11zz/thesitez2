@@ -1,0 +1,93 @@
+{
+  "package": "world",
+  "name": "UK - News - Live.",
+  "groupIndex": 130,
+  "totalChannels": 17,
+  "channels": [
+    {
+      "name": "UK: RTE News  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/rtenews.png"
+    },
+    {
+      "name": "UK: AL Jazeera NEWS English HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/5990113466.png"
+    },
+    {
+      "name": "UK: BBC NEWS HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/bbcnews.png"
+    },
+    {
+      "name": "UK: BBC NEWS HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/bbcnews.png"
+    },
+    {
+      "name": "UK: BBC Scotland HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/bbcscotland.png"
+    },
+    {
+      "name": "UK: Bloomberg HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/bloomberg.png"
+    },
+    {
+      "name": "UK: CNBC Europe NEWS HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/95383741721.png"
+    },
+    {
+      "name": "UK: CNBC NEWS HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/81924010271.png"
+    },
+    {
+      "name": "UK: CNN HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/cnn.png"
+    },
+    {
+      "name": "UK: CNN International HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/cnninternational.png"
+    },
+    {
+      "name": "UK: CNN International HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/cnninternational.png"
+    },
+    {
+      "name": "UK: EURO NEWS HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/euronews.png"
+    },
+    {
+      "name": "UK: SKY BBC NEWS HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/4198799233.jpg"
+    },
+    {
+      "name": "UK: SKY NEWS HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/skynews.png"
+    },
+    {
+      "name": "UK: SKY NEWS HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/skynews.png"
+    },
+    {
+      "name": "UK: SKY Sport NEWS HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/skysportnews.png"
+    },
+    {
+      "name": "UK: TRT World HD  (101-SERVERS)",
+      "group": "UK - News - Live.",
+      "logo": "https://logo.m3uassets.com/trtworld.png"
+    }
+  ]
+}

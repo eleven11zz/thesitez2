@@ -1,0 +1,23 @@
+{
+  "package": "world",
+  "name": "MT - Malta - Live.",
+  "groupIndex": 92,
+  "totalChannels": 3,
+  "channels": [
+    {
+      "name": "MT: ONE TV HD  (101-SERVERS)",
+      "group": "MT - Malta - Live.",
+      "logo": "https://logo.m3uassets.com/onetv.png"
+    },
+    {
+      "name": "MT: TVM 1 HD  (101-SERVERS)",
+      "group": "MT - Malta - Live.",
+      "logo": "https://logo.m3uassets.com/tvm1.png"
+    },
+    {
+      "name": "MT: TVM News+ HD  (101-SERVERS)",
+      "group": "MT - Malta - Live.",
+      "logo": "http://s3.i3ns.net/portal/picon/2021-08/86884b7aab0d0f23a28b84452c89c101.jpg"
+    }
+  ]
+}

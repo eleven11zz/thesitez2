@@ -1,0 +1,1048 @@
+{
+  "package": "world",
+  "name": "CA - Canada TV - Live.",
+  "groupIndex": 10,
+  "totalChannels": 208,
+  "channels": [
+    {
+      "name": "CA: Animal Planet  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "CA: CBC Montreal  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbcmontreal.png"
+    },
+    {
+      "name": "CA: City TV Montreal  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/citytvmontreal.png"
+    },
+    {
+      "name": "CA: ELLE FICTIONS  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ellefictions.png"
+    },
+    {
+      "name": "CA: Food Network  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/foodnetwork.png"
+    },
+    {
+      "name": "CA: Game TV  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/gametv.png"
+    },
+    {
+      "name": "CA: LCP Assemblee Nationale  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/assembleenationale.png"
+    },
+    {
+      "name": "CA: Magnolia Network  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/magnolianetwork.png"
+    },
+    {
+      "name": "CA: National Geographic  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "CA: Super Channel Vault  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/superchannelvault.png"
+    },
+    {
+      "name": "CA: TFO  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tfo.png"
+    },
+    {
+      "name": "CA: THE WEATHER NETWORK  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/theweathernetwork.png"
+    },
+    {
+      "name": "CA: TVa Sports 2  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvasports2.png"
+    },
+    {
+      "name": "CA: TVO  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvo.png"
+    },
+    {
+      "name": "CA: WILD TV  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/wildtv.png"
+    },
+    {
+      "name": "CA: YTV  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ytv.png"
+    },
+    {
+      "name": "CA: TSN 1 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tsn1.png"
+    },
+    {
+      "name": "|CA-FR| NOOVO V-TELE  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0f84bd9b0b81eac5c79fdd5b4615f19d.png"
+    },
+    {
+      "name": "CA-FR: ADDIK TV  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/addiktv.png"
+    },
+    {
+      "name": "CA-FR: Canal Vie  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/canalvie.png"
+    },
+    {
+      "name": "CA-FR: Disney la Chaine  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/disneylachaine.png"
+    },
+    {
+      "name": "CA-FR: ELLE FICTIONS HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ellefictions.png"
+    },
+    {
+      "name": "CA-FR: FRISSONS TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/frissonstv.png"
+    },
+    {
+      "name": "CA-FR: HISTORIA  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/historia.png"
+    },
+    {
+      "name": "CA-FR: ICI ARTV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/iciartv.png"
+    },
+    {
+      "name": "CA-FR: MAX HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/max.png"
+    },
+    {
+      "name": "CA-FR: MétéoMédia  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c713c0bbfaa7f7a5a496ccd320c7945e.png"
+    },
+    {
+      "name": "CA-FR: TELETOON FRENCH HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/teletoonfrench.png"
+    },
+    {
+      "name": "CA: DISCOVERY  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/discovery.png"
+    },
+    {
+      "name": "CA: Canal D HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/canald.png"
+    },
+    {
+      "name": "CA: Series PLUS HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/seriesplus.png"
+    },
+    {
+      "name": "CA: Canada ONE HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/one.png"
+    },
+    {
+      "name": "CA CTV Vancouver HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctvvancouver.png"
+    },
+    {
+      "name": "CA: ABC HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/abc.png"
+    },
+    {
+      "name": "CA: ABC Spark FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/abcspark.png"
+    },
+    {
+      "name": "CA: Adult SWIM HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/adultswim.png"
+    },
+    {
+      "name": "CA: AMI télé  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/94050409141.png"
+    },
+    {
+      "name": "CA: APTN HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/aptn.png"
+    },
+    {
+      "name": "CA: A&E FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ae.png"
+    },
+    {
+      "name": "CA: BBC Canada HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/bbc.png"
+    },
+    {
+      "name": "CA: BBC NEWS HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/bbcnews.png"
+    },
+    {
+      "name": "CA: BBC Toronto Gaunda Punjab HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/bbctorontogaundapunjab.png"
+    },
+    {
+      "name": "CA: BBC World NEWS HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/bbcworldnews.png"
+    },
+    {
+      "name": "CA: BEIN Sports HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports.png"
+    },
+    {
+      "name": "CA: BET HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/bet.png"
+    },
+    {
+      "name": "CA: BNN Bloomberg HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/bnnbloomberg.png"
+    },
+    {
+      "name": "CA: BNN HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/bnn.png"
+    },
+    {
+      "name": "CA: Bravo HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/bravo.png"
+    },
+    {
+      "name": "CA: Bravo TV FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/bravotv.png"
+    },
+    {
+      "name": "CA: Box-office 1HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37840973151.png"
+    },
+    {
+      "name": "CA: Cablepulse 24 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cablepulse24.png"
+    },
+    {
+      "name": "CA: Canal D (FR) HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/37765475191.png"
+    },
+    {
+      "name": "CA: Cartoon Network HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "CA: CBC Charlottetown HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbccharlottetown.png"
+    },
+    {
+      "name": "CA: CBC Halifax HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbchalifax.png"
+    },
+    {
+      "name": "CA: CBC NEWS Network HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbcnewsnetwork.png"
+    },
+    {
+      "name": "CA: CBC Ottawa HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbcottawa.png"
+    },
+    {
+      "name": "CA: CBC Regina HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbcregina.png"
+    },
+    {
+      "name": "CA: CBC ST Johns HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbcstjohns.png"
+    },
+    {
+      "name": "CA: CBC Toronto (cblt) HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbctoronto.png"
+    },
+    {
+      "name": "CA: CBC Toronto CBLT HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbctorontocblt.png"
+    },
+    {
+      "name": "CA: CBC Vancouver HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbcvancouver.png"
+    },
+    {
+      "name": "CA: CBC Windsor HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbcwindsor.png"
+    },
+    {
+      "name": "CA: CBC Winnipeg HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbcwinnipeg.png"
+    },
+    {
+      "name": "CA: CBS HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cbs.png"
+    },
+    {
+      "name": "CA: CHCH FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/chch.png"
+    },
+    {
+      "name": "CA: CITY FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/city.png"
+    },
+    {
+      "name": "CA: CITY Toronto HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/citytoronto.png"
+    },
+    {
+      "name": "CA: CITY TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/citytv.png"
+    },
+    {
+      "name": "CA: CMT HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cmt.png"
+    },
+    {
+      "name": "CA: CNBC HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cnbc.png"
+    },
+    {
+      "name": "CA: CNN HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cnn.png"
+    },
+    {
+      "name": "CA: CNN International HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cnninternational.png"
+    },
+    {
+      "name": "CA: Cottage LIFE FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cottagelife.png"
+    },
+    {
+      "name": "CA: CP 24 | HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cp24.png"
+    },
+    {
+      "name": "CA: CP24 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cp24.png"
+    },
+    {
+      "name": "CA: CPAC EN HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cpacen.png"
+    },
+    {
+      "name": "CA: CPAC HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/cpac.png"
+    },
+    {
+      "name": "CA: Crave 1 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/crave1.png"
+    },
+    {
+      "name": "CA: Crave 2 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/crave2.png"
+    },
+    {
+      "name": "CA: Crave 3 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/crave3.png"
+    },
+    {
+      "name": "CA: Crave 4 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/crave4.png"
+    },
+    {
+      "name": "CA: Crime & Investigation HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/crimeinvestigation.png"
+    },
+    {
+      "name": "CA: Crime+ Investigation HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/crimeinvestigation.png"
+    },
+    {
+      "name": "CA: CTV 2 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctv2.png"
+    },
+    {
+      "name": "CA: CTV 2 Vancouver HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctv2vancouver.png"
+    },
+    {
+      "name": "CA: CTV Comedy  HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/95483590161.png"
+    },
+    {
+      "name": "CA: CTV Comedy HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctvcomedy.png"
+    },
+    {
+      "name": "CA: CTV Drama FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctvdrama.png"
+    },
+    {
+      "name": "CA: CTV Halifax HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctvhalifax.png"
+    },
+    {
+      "name": "CA: CTV Kitchener HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctvkitchener.png"
+    },
+    {
+      "name": "CA: CTV Montreal HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctvmontreal.png"
+    },
+    {
+      "name": "CA: CTV NEWS Newtork HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/13786749151.png"
+    },
+    {
+      "name": "CA: CTV Ottawa 2 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/74170360381.png"
+    },
+    {
+      "name": "CA: CTV Sci-fi HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctvsci.png"
+    },
+    {
+      "name": "CA: CTV Toronto | SD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctvtoronto.png"
+    },
+    {
+      "name": "CA: CTV2 Ottawa HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ctv2ottawa.png"
+    },
+    {
+      "name": "CA: Dejaview HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/dejaview.png"
+    },
+    {
+      "name": "CA: Discovery Science HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "CA: Discovery Science HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "CA: Discovery Science | HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "CA: Discovery Velocity HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryvelocity.png"
+    },
+    {
+      "name": "CA: Disney JR HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjr.png"
+    },
+    {
+      "name": "CA: Disney Junior HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    },
+    {
+      "name": "CA: Disney XD HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/disneyxd.png"
+    },
+    {
+      "name": "CA: DIY Network FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/diynetwork.png"
+    },
+    {
+      "name": "CA: Documentary Channel HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/documentarychannel.png"
+    },
+    {
+      "name": "CA: E! Entertainment HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/eentertainment.png"
+    },
+    {
+      "name": "CA: E! FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/e.png"
+    },
+    {
+      "name": "CA: E! HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/e.png"
+    },
+    {
+      "name": "CA: EWTN Canada HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ewtn.png"
+    },
+    {
+      "name": "CA: EWTN TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/11649009001.png"
+    },
+    {
+      "name": "FR: Canal  Family  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/25004529101.png"
+    },
+    {
+      "name": "CA: Family Chrgd HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/familychrgd.png"
+    },
+    {
+      "name": "CA: Family JR HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/familyjr.png"
+    },
+    {
+      "name": "CA: Fight Network HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/fightnetwork.png"
+    },
+    {
+      "name": "CA: Fight Network HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/fightnetwork.png"
+    },
+    {
+      "name": "CA: FOX FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/fox.png"
+    },
+    {
+      "name": "CA: FOX Sports Racing HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportsracing.png"
+    },
+    {
+      "name": "CA: FR Rogers TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/rogerstv.png"
+    },
+    {
+      "name": "CA: FR Tamil Vision TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tamilvisiontv.png"
+    },
+    {
+      "name": "CA: FR UNIS TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/unistv.png"
+    },
+    {
+      "name": "CA: FX HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/fx.png"
+    },
+    {
+      "name": "CA: GAME SHOW HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/55590046461.png"
+    },
+    {
+      "name": "CA: Global FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/global.png"
+    },
+    {
+      "name": "CA: Global National TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/74517017311.png"
+    },
+    {
+      "name": "CA: Global Toronto HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/globaltoronto.png"
+    },
+    {
+      "name": "CA: GOLF Channel HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/golfchannel.png"
+    },
+    {
+      "name": "CA: GSN FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/gsn.png"
+    },
+    {
+      "name": "CA: GSN GAME SHOW Network TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/59969182891.png"
+    },
+    {
+      "name": "CA: HBO 1 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/hbo1.png"
+    },
+    {
+      "name": "CA: HBO 2 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/hbo2.png"
+    },
+    {
+      "name": "CA: HBO | HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/16056399741.png"
+    },
+    {
+      "name": "CA: Headline NEWS HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/99557464481.png"
+    },
+    {
+      "name": "CA: HGTV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/hgtv.png"
+    },
+    {
+      "name": "CA: History  HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/historyhd.png"
+    },
+    {
+      "name": "CA: History Channel HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/historychannel.png"
+    },
+    {
+      "name": "CA: HLN HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/hln.png"
+    },
+    {
+      "name": "CA: ICI Montreal HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/icimontreal.png"
+    },
+    {
+      "name": "CA: ICI RDI HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/icirdi.png"
+    },
+    {
+      "name": "CA: ICI RDI HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/icirdi.png"
+    },
+    {
+      "name": "CA: Investigation Discovery HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/investigationdiscovery.png"
+    },
+    {
+      "name": "CA: LCN HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/lcn.png"
+    },
+    {
+      "name": "CA: Lifetime | HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/lifetime.png"
+    },
+    {
+      "name": "CA: LOVE Nature HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/lovenature.png"
+    },
+    {
+      "name": "CA: Makeful TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/84444779631.png"
+    },
+    {
+      "name": "CA: Movietime HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/movietime.png"
+    },
+    {
+      "name": "CA: Msnbc HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/msnbc.png"
+    },
+    {
+      "name": "CA: MTV LIVE HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/mtvlive.png"
+    },
+    {
+      "name": "CA: MUCH HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/much.png"
+    },
+    {
+      "name": "CA: MUCH Music HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/muchmusic.png"
+    },
+    {
+      "name": "CA: NBA TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/nbatv.png"
+    },
+    {
+      "name": "CA: NFL Network HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/nflnetwork.png"
+    },
+    {
+      "name": "CA: NHL Network HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/nhlnetwork.png"
+    },
+    {
+      "name": "CA: Pardesi TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/27424206901.png"
+    },
+    {
+      "name": "CA: PBS HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/pbs.png"
+    },
+    {
+      "name": "CA: PBS KIDS HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/pbskids.png"
+    },
+    {
+      "name": "CA: Prime ASIA TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/primeasiatv.png"
+    },
+    {
+      "name": "CA: Prime Canada TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/primetv.png"
+    },
+    {
+      "name": "CA: RDI HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/rdi.png"
+    },
+    {
+      "name": "CA: RDS 2 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/rds2.png"
+    },
+    {
+      "name": "CA: SALT AND Light TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/76774072411.png"
+    },
+    {
+      "name": "CA: Sardari TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sardaritv.png"
+    },
+    {
+      "name": "CA: Showcase HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/showcase.png"
+    },
+    {
+      "name": "CA: Sportsnet 360 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnet360.png"
+    },
+    {
+      "name": "CA: Sportsnet EAST HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnet.png"
+    },
+    {
+      "name": "CA: Sportsnet NEW YORK HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetnewyork.png"
+    },
+    {
+      "name": "CA: Sportsnet ONE HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetone.png"
+    },
+    {
+      "name": "CA: Sportsnet Ontario HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetontario.png"
+    },
+    {
+      "name": "CA: Sportsnet Pacific FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetpacific.png"
+    },
+    {
+      "name": "CA: Sportsnet Pacific HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetpacific.png"
+    },
+    {
+      "name": "CA: Sportsnet WEST FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetwest.png"
+    },
+    {
+      "name": "CA: SPT - Sportsnet 360 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnet360.png"
+    },
+    {
+      "name": "CA: Starz 2 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/starz2.png"
+    },
+    {
+      "name": "CA: Super Channel 1 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/superchannel1.png"
+    },
+    {
+      "name": "CA: Super Ecran 1 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/superecran1.png"
+    },
+    {
+      "name": "CA: Super Ecran 2 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/superecran2.png"
+    },
+    {
+      "name": "CA: Super Ecran 3 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/superecran3.png"
+    },
+    {
+      "name": "CA: Super Ecran 4 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/superecran4.png"
+    },
+    {
+      "name": "CA: TCM HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tcm.png"
+    },
+    {
+      "name": "CA: TELE Quebec HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/telequebec.png"
+    },
+    {
+      "name": "CA: THE Shopping Channel HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/theshoppingchannel.png"
+    },
+    {
+      "name": "CA: TLC HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "CA: Treehouse HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/treehouse.png"
+    },
+    {
+      "name": "CA: TSC HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tsc.png"
+    },
+    {
+      "name": "CA: TSN 1 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tsn1.png"
+    },
+    {
+      "name": "CA: TSN 2 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tsn2.png"
+    },
+    {
+      "name": "CA: TSN 3 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tsn3.png"
+    },
+    {
+      "name": "CA: TSN 4 FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tsn4.png"
+    },
+    {
+      "name": "CA: TSN 4 FHD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tsn4.png"
+    },
+    {
+      "name": "CA: TSN 5 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tsn5.png"
+    },
+    {
+      "name": "CA: TV5 Quebec HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tv5quebec.png"
+    },
+    {
+      "name": "CA: TVA Montreal HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvamontreal.png"
+    },
+    {
+      "name": "CA: TVA Sports 1 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvasports1.png"
+    },
+    {
+      "name": "CA: TVA Sports 2 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvasports2.png"
+    },
+    {
+      "name": "CA: TVA Sports HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvasports.png"
+    },
+    {
+      "name": "CA: UNIS TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/unistv.png"
+    },
+    {
+      "name": "CA: World Fishing Network HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/worldfishingnetwork.png"
+    },
+    {
+      "name": "CA: WWE Network HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/wwenetwork.png"
+    },
+    {
+      "name": "CA: YES TV HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/yestv.png"
+    },
+    {
+      "name": "CA: Zeste HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/zeste.png"
+    },
+    {
+      "name": "CA:rds INFO FR HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/rdsinfo.png"
+    },
+    {
+      "name": "CA:tele Quebec FR HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/telequebec.png"
+    },
+    {
+      "name": "CA:TVa Sports FR HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/tvasports.png"
+    },
+    {
+      "name": "CA: Z TELE HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/ztele.png"
+    },
+    {
+      "name": "CA: CPAC | HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/54776118741.png"
+    },
+    {
+      "name": "CA: FOX NEWS HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/foxnews.png"
+    },
+    {
+      "name": "CA: HBO 1 HD  (101-SERVERS)",
+      "group": "CA - Canada TV - Live.",
+      "logo": "https://logo.m3uassets.com/hbo1.png"
+    }
+  ]
+}

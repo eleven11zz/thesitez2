@@ -1,0 +1,63 @@
+{
+  "package": "english",
+  "name": "UK - Ireland - Live.",
+  "groupIndex": 25,
+  "totalChannels": 11,
+  "channels": [
+    {
+      "name": "Virgin Media Three  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/virginmediathree.png"
+    },
+    {
+      "name": "Virgin Media One  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/virginmediaone.png"
+    },
+    {
+      "name": "Virgin Media Four  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/virginmediafour.png"
+    },
+    {
+      "name": "TG4  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/tg4.png"
+    },
+    {
+      "name": "Sky Witness  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/skywitness.png"
+    },
+    {
+      "name": "Sky Sports Racing  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsracing.png"
+    },
+    {
+      "name": "Sky Sports Premier League  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/skysportspremierleague.png"
+    },
+    {
+      "name": "Sky Sports Mix  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/skysportsmix.png"
+    },
+    {
+      "name": "Challenge  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/challenge.png"
+    },
+    {
+      "name": "BBC Two Northern Ireland  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/bbctwonorthern.png"
+    },
+    {
+      "name": "BBC One Northern Ireland  (101-SERVERS)",
+      "group": "UK - Ireland - Live.",
+      "logo": "https://logo.m3uassets.com/bbconenorthern.png"
+    }
+  ]
+}

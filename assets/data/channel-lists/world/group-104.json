@@ -1,0 +1,673 @@
+{
+  "package": "world",
+  "name": "RO - Romania - Live.",
+  "groupIndex": 104,
+  "totalChannels": 133,
+  "channels": [
+    {
+      "name": "RO: Romania TV FHD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tv.png"
+    },
+    {
+      "name": "RO: Bollywood Stars  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://m.program-tv.ro/img/fullwidth/295/29540/Bollywood_TV_devine_Bollywood_Stars.jpg"
+    },
+    {
+      "name": "RO: Kanal D  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/kanald.png"
+    },
+    {
+      "name": "RO: Disco Mix  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://iptv-romania4k.ro/wp-content/uploads/2019/06/Disco_Mix.png"
+    },
+    {
+      "name": "RO: EXPLORIS TV  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/6b744618c8e06c4797d77a2fce1519b0.png"
+    },
+    {
+      "name": "RO: Rapsodia TV  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/rapsodiatv.png"
+    },
+    {
+      "name": "RO: Antena 1  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/antena1.png"
+    },
+    {
+      "name": "RO: Acasa TV  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/acasatv.png"
+    },
+    {
+      "name": "RO: Disney Junior HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    },
+    {
+      "name": "RO: AXN Romania  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/axn.png"
+    },
+    {
+      "name": "RO: ALFA Omega TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/alfaomegatv.png"
+    },
+    {
+      "name": "RO: ALFA Omega TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/alfaomegatv.png"
+    },
+    {
+      "name": "RO: Animal Planet FHD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "RO: Animal Planet HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/animalplanet.png"
+    },
+    {
+      "name": "RO: Antena 1 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/antena1.png"
+    },
+    {
+      "name": "RO: Antena 3 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/antena3.png"
+    },
+    {
+      "name": "RO: Antena 3 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/antena3.png"
+    },
+    {
+      "name": "RO: AXN Black  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/67969581631.png"
+    },
+    {
+      "name": "RO: AXN SPIN HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/axnspin.png"
+    },
+    {
+      "name": "RO: Agro TV  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/agrotv.png"
+    },
+    {
+      "name": "RO: B1 TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/b1tv.png"
+    },
+    {
+      "name": "RO: BBC Earth HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/bbcearth.png"
+    },
+    {
+      "name": "RO: Boomerang HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/boomerang.png"
+    },
+    {
+      "name": "RO: Bucuresti TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/bucurestitv.png"
+    },
+    {
+      "name": "RO: Cartoon Network  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/33410a5d083278602854f2f30f5a52d4.png"
+    },
+    {
+      "name": "RO: CBS Reality HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/cbsreality.png"
+    },
+    {
+      "name": "RO: Cinemax 2  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax2.png"
+    },
+    {
+      "name": "RO: Cinemax HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/cinemax.png"
+    },
+    {
+      "name": "RO: Cinethronix SD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/91435387721.png"
+    },
+    {
+      "name": "RO: Comedy Central HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/comedycentral.png"
+    },
+    {
+      "name": "RO: Credo_TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tv.png"
+    },
+    {
+      "name": "RO: Crime Investigation HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/crimeinvestigation.png"
+    },
+    {
+      "name": "RO: DIGI 24 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digi24.png"
+    },
+    {
+      "name": "RO: DIGI Animal World  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/75537859041.png"
+    },
+    {
+      "name": "RO: DIGI Animal World HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digianimalworld.png"
+    },
+    {
+      "name": "RO: DIGI LIFE  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/7623857361.png"
+    },
+    {
+      "name": "RO: DIGI LIFE HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digilife.png"
+    },
+    {
+      "name": "RO: DIGI Sport 1 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digisport1.png"
+    },
+    {
+      "name": "RO: DIGI Sport 2 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digisport2.png"
+    },
+    {
+      "name": "RO: DIGI Sport 2 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digisport2.png"
+    },
+    {
+      "name": "RO: DIGI Sport 3 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digisport3.png"
+    },
+    {
+      "name": "RO: DIGI Sport 3 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digisport3.png"
+    },
+    {
+      "name": "RO: DIGI Sport 4 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digisport4.png"
+    },
+    {
+      "name": "RO: DIGI Sport 4 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/digisport4.png"
+    },
+    {
+      "name": "RO: DIGI World  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/59615069631.png"
+    },
+    {
+      "name": "RO: Discovery Channel HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/discoverychannel.png"
+    },
+    {
+      "name": "RO: Discovery Science HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/discoveryscience.png"
+    },
+    {
+      "name": "RO: Disney Channel  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/disneychannelhd.png"
+    },
+    {
+      "name": "RO: DIVA Universal HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/divauniversal.png"
+    },
+    {
+      "name": "RO: DUCK TV SD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/ducktv.png"
+    },
+    {
+      "name": "RO: ETNO TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/etnotv.png"
+    },
+    {
+      "name": "RO: Eurosport 1 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport1.png"
+    },
+    {
+      "name": "RO: Eurosport 2 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/eurosport2.png"
+    },
+    {
+      "name": "RO: Favorit TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/favorittv.png"
+    },
+    {
+      "name": "RO: Fight BOX HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/fightbox.png"
+    },
+    {
+      "name": "RO: Extreme Sports Channel  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/extremesportschannel.png"
+    },
+    {
+      "name": "RO: FILM CAFE HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/filmcafe.png"
+    },
+    {
+      "name": "RO: FILM NOW  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/34732064861.png"
+    },
+    {
+      "name": "RO: FILM NOW FHD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/filmnow.png"
+    },
+    {
+      "name": "RO: Fishing & Hunting Romania HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/fishinghunting.png"
+    },
+    {
+      "name": "RO: FOOD Network HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/foodnetwork.png"
+    },
+    {
+      "name": "RO: Happy Channel HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/happychannel.png"
+    },
+    {
+      "name": "RO: Happy Channel HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/happychannel.png"
+    },
+    {
+      "name": "RO: HBO 2  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/hbo2hd.png"
+    },
+    {
+      "name": "RO: HBO 3 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/hbo3.png"
+    },
+    {
+      "name": "RO: HBO HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/hbo.png"
+    },
+    {
+      "name": "RO: History Channel HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/historychannel.png"
+    },
+    {
+      "name": "RO: History Channel HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/historychannel.png"
+    },
+    {
+      "name": "RO: History HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/history.png"
+    },
+    {
+      "name": "RO: HIT Music HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/hitmusic.png"
+    },
+    {
+      "name": "RO: Investigation Discovery HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/investigationdiscovery.png"
+    },
+    {
+      "name": "RO: Kanal D FHD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/kanald.png"
+    },
+    {
+      "name": "RO: Kanal D HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/kanald.png"
+    },
+    {
+      "name": "RO: LOOK PLUS HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/lookplus.png"
+    },
+    {
+      "name": "RO: LOOK Sport FHD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/looksport.png"
+    },
+    {
+      "name": "RO: LOOK Sport HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/looksport.png"
+    },
+    {
+      "name": "RO: LOOK TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/looktv.png"
+    },
+    {
+      "name": "RO: Minimax HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/minimax.png"
+    },
+    {
+      "name": "RO: MOOZ Dance HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/moozdance.png"
+    },
+    {
+      "name": "RO: MOOZ HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/mooz.png"
+    },
+    {
+      "name": "RO: MTV Rocks HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/mtvrocks.png"
+    },
+    {
+      "name": "RO: Music Channel  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/69686307301.png"
+    },
+    {
+      "name": "RO: M1  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/m1.png"
+    },
+    {
+      "name": "RO: NAT GEO  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/natgeohd.png"
+    },
+    {
+      "name": "RO: NAT GEO WILD  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowildhd.png"
+    },
+    {
+      "name": "RO: National 24 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/national24.png"
+    },
+    {
+      "name": "RO: National Geographic HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "RO: National Geographic WILD HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographicwild.png"
+    },
+    {
+      "name": "RO: National TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/nationaltv.png"
+    },
+    {
+      "name": "RO: NICK JR HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/nickjr.png"
+    },
+    {
+      "name": "RO: Nickelodeon HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/nickelodeon.png"
+    },
+    {
+      "name": "RO: Paramount Channel  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/paramountchannelhd.png"
+    },
+    {
+      "name": "RO: Paramount Channel HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/paramountchannel.png"
+    },
+    {
+      "name": "RO: Prima TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/primatv.png"
+    },
+    {
+      "name": "RO: PRO 2 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/pro2.png"
+    },
+    {
+      "name": "RO: PRO Cinema HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/procinema.png"
+    },
+    {
+      "name": "RO: PRO GOLD  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/98a8ce3fa02c183230f68379bf64a4de.png"
+    },
+    {
+      "name": "RO: PRO TV Chisinau HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/protvchisinau.png"
+    },
+    {
+      "name": "RO: PRO TV FHD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/protv.png"
+    },
+    {
+      "name": "RO: PRO TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/protv.png"
+    },
+    {
+      "name": "RO: PRO TV SD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/protv.png"
+    },
+    {
+      "name": "RO: PRO X FHD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/prox.png"
+    },
+    {
+      "name": "RO: PRO X HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/prox.png"
+    },
+    {
+      "name": "RO: Realitatea PLUS HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/realitateaplus.png"
+    },
+    {
+      "name": "RO: Realitatea TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/realitateatv.png"
+    },
+    {
+      "name": "RO: Romania TV Backup HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tv.png"
+    },
+    {
+      "name": "RO: Romania TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tv.png"
+    },
+    {
+      "name": "RO: Taraf TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/taraftv.png"
+    },
+    {
+      "name": "RO: Telekom Sport 1 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/telekomsport1.png"
+    },
+    {
+      "name": "RO: Telekom Sport 2 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/telekomsport2.png"
+    },
+    {
+      "name": "RO: Telekom Sport 3 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/telekomsport3.png"
+    },
+    {
+      "name": "RO: Telekom Sport 4 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/telekomsport4.png"
+    },
+    {
+      "name": "RO: Telekom Sport 4 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/telekomsport4.png"
+    },
+    {
+      "name": "RO: Tezaur TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tezaurtv.png"
+    },
+    {
+      "name": "RO: TLC HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tlc.png"
+    },
+    {
+      "name": "RO: TNT HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tnt.png"
+    },
+    {
+      "name": "RO: Travel Chanel HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/23128803091.png"
+    },
+    {
+      "name": "RO: Travel MIX HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/travelmix.png"
+    },
+    {
+      "name": "RO: TV Paprika  HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a5e3e7d8c93f45ba2f909e0700449a42.png"
+    },
+    {
+      "name": "RO: TV Paprika HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tvpaprika.png"
+    },
+    {
+      "name": "RO: TVR 2 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tvr2.png"
+    },
+    {
+      "name": "RO: TVR 2 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tvr2.png"
+    },
+    {
+      "name": "RO: TVR 3 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tvr3.png"
+    },
+    {
+      "name": "RO: TVR HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tvr.png"
+    },
+    {
+      "name": "RO: TVR International HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tvrinternational.png"
+    },
+    {
+      "name": "RO: TVR2 HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/tvr2.png"
+    },
+    {
+      "name": "RO: U TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/utv.png"
+    },
+    {
+      "name": "RO: UTV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/utv.png"
+    },
+    {
+      "name": "RO: Viasat Explore HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/viasatexplore.png"
+    },
+    {
+      "name": "RO: Viasat History HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/viasathistory.png"
+    },
+    {
+      "name": "RO: Viasat History HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/viasathistory.png"
+    },
+    {
+      "name": "RO: Viasat Nature HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/viasatnature.png"
+    },
+    {
+      "name": "RO: ZU TV HD  (101-SERVERS)",
+      "group": "RO - Romania - Live.",
+      "logo": "https://logo.m3uassets.com/zutv.png"
+    }
+  ]
+}

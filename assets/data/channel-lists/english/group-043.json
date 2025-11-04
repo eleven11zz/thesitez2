@@ -1,0 +1,53 @@
+{
+  "package": "english",
+  "name": "USA - Music - Live.",
+  "groupIndex": 43,
+  "totalChannels": 9,
+  "channels": [
+    {
+      "name": "US: HIP HOP & R&B HD  (101-SERVERS)",
+      "group": "USA - Music - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/12962893241.png"
+    },
+    {
+      "name": "US: MTV 2 HD  (101-SERVERS)",
+      "group": "USA - Music - Live.",
+      "logo": "https://logo.m3uassets.com/mtv2.png"
+    },
+    {
+      "name": "US: MTV Classic  (101-SERVERS)",
+      "group": "USA - Music - Live.",
+      "logo": "https://logo.m3uassets.com/mtvclassic.png"
+    },
+    {
+      "name": "US: MTV HD  (101-SERVERS)",
+      "group": "USA - Music - Live.",
+      "logo": "https://logo.m3uassets.com/mtv.png"
+    },
+    {
+      "name": "US: MTV LIVE HD  (101-SERVERS)",
+      "group": "USA - Music - Live.",
+      "logo": "https://logo.m3uassets.com/mtvlive.png"
+    },
+    {
+      "name": "US: MTV U HD  (101-SERVERS)",
+      "group": "USA - Music - Live.",
+      "logo": "https://logo.m3uassets.com/mtvu.png"
+    },
+    {
+      "name": "US: VH1 (east) HD  (101-SERVERS)",
+      "group": "USA - Music - Live.",
+      "logo": "https://logo.m3uassets.com/vh1.png"
+    },
+    {
+      "name": "US: VH1 HD  (101-SERVERS)",
+      "group": "USA - Music - Live.",
+      "logo": "https://logo.m3uassets.com/vh1.png"
+    },
+    {
+      "name": "US: VH1 WEST HD  (101-SERVERS)",
+      "group": "USA - Music - Live.",
+      "logo": "https://logo.m3uassets.com/vh1west.png"
+    }
+  ]
+}

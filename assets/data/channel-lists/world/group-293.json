@@ -1,0 +1,1068 @@
+{
+  "package": "world",
+  "name": "EN - Netflix Movies",
+  "groupIndex": 293,
+  "totalChannels": 212,
+  "channels": [
+    {
+      "name": "EN:  Banger (2025)",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/original/cWyz6K67QhJywIf41yey5XPz9KA.jpg"
+    },
+    {
+      "name": "NF:  The Electric State (2025)",
+      "group": "EN - Netflix Movies",
+      "logo": "http://51.158.145.100/stalker_portal/screenshots/189/18850.jpg"
+    },
+    {
+      "name": "EN: The 8th Night (2021)",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/trSDStH3UP4ux4lAILNNSqDXSB3.jpg"
+    },
+    {
+      "name": "EN: Fear Street: 1666 (2021)",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg"
+    },
+    {
+      "name": "EN: What They Had 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc4NzIyODE3Nl5BMl5BanBnXkFtZTgwNjg2NTc5NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: What Still Remains 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2RkY2IwODktODEzMy00ZGNlLTg5OTAtYjljNTZjODllNDk3XkEyXkFqcGdeQXVyMjM2MzYzODE@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: What Men Want 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYxNjE2NjIwOF5BMl5BanBnXkFtZTgwMjE0MzkxNzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Welcome to Marwen 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjIxMjUwMjItMGIxYS00NTlmLTgxZTQtMzg2Yjc1ZWQ3YTYxXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY1200_CR64,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: We Die Young 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWRjYzFhMWUtOGExZC00NDIzLTk4OTItNWZjZDRjMmQyOTE1XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_UY1200_CR92,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Vox Lux 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTU2YjVhNjMtMGQ4ZC00ZmUyLWJlZjAtNTgyZjhjZmQwNWUwXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Vice 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY1NjM0MzgxMV5BMl5BanBnXkFtZTgwNDc4NTY0NjM@._V1_UY1200_CR69,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Venom 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Velvet Buzzsaw 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjExMDQ1NjMzOV5BMl5BanBnXkFtZTgwMjkxMzMyNzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Us 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UY1200_CR64,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Triple Threat 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTY1MjRhYmYtZDg4Yy00ZWRiLWIwYzktZThkY2E0YjZlNjgxXkEyXkFqcGdeQXVyMTc3MjY3NTY@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Triple Frontier 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg"
+    },
+    {
+      "name": "EN: Trading Paint 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjhhOWMxMWQtMjVhYi00ZjNmLWEyYjUtY2Y1OGQwMDQwN2UxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY1200_CR135,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Wind 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWVlYzc0MGItNDAxNC00ODhjLTliYzYtMTEwNDhiMTViZGZiXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The War of the Worlds 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODU4ZWMwNWQtNGViNy00ZWU0LWJjMDQtNGQ4ZTcxN2ZjZDk5XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Vanishing 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU5NDQxNzE0Ml5BMl5BanBnXkFtZTgwNDMwODE1NzM@._V1_UY1200_CR97,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Upside 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzY3NzYyNjI0N15BMl5BanBnXkFtZTgwNjYzMDc0NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Super 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTAyYzI0ZjUtODQwZS00MTYxLThjOTMtY2RjZTE0ODk0MGJjXkEyXkFqcGdeQXVyNjk1OTk0Mg@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Silence 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/k6zhpMq1D18PfO2DEauqF9CTTnb.jpg"
+    },
+    {
+      "name": "EN: The Secret Life of Pets 2 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzdlMWQzZmItMDA5Ny00MGFjLTk0MDAtYjgzMmMyNTEwMzdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UY1200_CR64,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Red Sea Diving Resort 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/bTgd1QQFTKdxESevtffAvIvCnz2.jpg"
+    },
+    {
+      "name": "EN: The Red Sea Diving Resort 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjZiYWI3MWMtM2NiZi00Y2E0LWI1ODctNmNhMDUyNGMzODkwXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Prodigy 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTQxNTMwMmUtMWRkYi00MTRmLTgyYWItYTYwNGZkMWZmMzQ2XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Possession of Hannah 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA1MTIwODY4Nl5BMl5BanBnXkFtZTgwNzkxNDc2NjM@._V1_UY1200_CR80,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Perfection 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTA3NzkzMDUxODBeQTJeQWpwZ15BbWU4MDM0ODc5ODcz._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Perfect Date 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGRhOWM5MzQtM2FlNi00Zjc5LThmZmUtZTI2NzY0MTA1YjM2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Padre 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/zaj41iC7bRdouW2xnL9shBKR0kl.jpg"
+    },
+    {
+      "name": "EN: The Old Man & The Gun 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/a4BfxRK8dBgbQqbRxPs8kmLd8LG.jpg"
+    },
+    {
+      "name": "EN: The Nutcracker and the Four Realms 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTg1NDI1MjEyMl5BMl5BanBnXkFtZTgwOTA5MTgwNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Nun 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Mule 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc1OTc5NzA4OF5BMl5BanBnXkFtZTgwOTAzMzE2NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Miseducation of Cameron Post 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGI5ZDlkN2EtNTY5NC00ZDdjLTkzODktNzkwOGMwODcxZTI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR84,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Meg 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTAxMGRmODYtM2NkYS00ZGRlLWE1MWItYjI1MzIwNjQwN2RiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Marine 6: Close Quarters 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDQ3ZmYzYzEtMjg5ZC00YjBkLTk1ZTAtNGM3ZTY1ZDQwMDk4XkEyXkFqcGdeQXVyODgxNzAyMDk@._V1_UY1200_CR167,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Man Who Killed Hitler and Then the Bigfoot 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg2NzI4NjY1Nl5BMl5BanBnXkFtZTgwNjUxOTc3NTM@._V1_UY1200_CR92,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Lego Movie 2: The Second Part 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/QTESAsBVZwjtGJNDP7utiGV37z.jpg"
+    },
+    {
+      "name": "EN: The Last Laugh 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7Y6Dxr3oYt1w7ew70YNdLLDYEjk.jpg"
+    },
+    {
+      "name": "EN: The Last Boy 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7o5WVpjAffERCTkrAmpqNlieAMz.jpg"
+    },
+    {
+      "name": "EN: The Land of Steady Habits 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg0NjY4MjIxM15BMl5BanBnXkFtZTgwMTk2MjIyNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Kid Who Would Be King 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg"
+    },
+    {
+      "name": "EN: The Intruder 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTczMzc4NDY0MF5BMl5BanBnXkFtZTgwMjI3Njg3NjM@._V1_UY1200_CR89,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Incredibles 2 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Hummingbird Project 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTA2MDM2OTMzODNeQTJeQWpwZ15BbWU4MDgxNjExMjcz._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The House with a Clock in Its Walls 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/qM66Hv4ByAxnilr0jaqCA9uOD4Y.jpg"
+    },
+    {
+      "name": "EN: The Holiday Calendar 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2ZhYWRlMWYtMDA2YS00ZDQ5LWFmMzctZjg2ZDAwOThmNmJjXkEyXkFqcGdeQXVyNjk2Mjc2OTI@._V1_UY1200_CR91,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Hole in the Ground 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjI3NjMwNzUzNV5BMl5BanBnXkFtZTgwMzEzMDkyNzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Highwaymen 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmM5Y2QzOGQtNTdjZS00NDVhLThkYjItZjZiMjk4YjM0ZTUzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Hard Way 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hqkqvEkbwLYT1LIgyeK1FcD5Beu.jpg"
+    },
+    {
+      "name": "EN: The Happy Prince 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODVjZThlMzMtZjQwNy00YjRlLWE5ZTMtMWVlMWUwM2U1NjRkXkEyXkFqcGdeQXVyODcyODY1Mzg@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Grinch 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1Bc9VNd9CIHIyJtPKFqSQzrXWru.jpg"
+    },
+    {
+      "name": "EN: The Glorious Seven 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/5fmt0OQyxmoivrZ3XllRrTfpVC.jpg"
+    },
+    {
+      "name": "EN: The Girl in the Spider's Web 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/w4ibr8R702DCjwYniry1D1XwQXj.jpg"
+    },
+    {
+      "name": "EN: The Front Runner 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcyNTAxOTg4NV5BMl5BanBnXkFtZTgwMTMwNjQ2NjM@._V1_UY1200_CR80,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Final Wish 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTBhZGViMDYtNjBmMC00MDc3LWEwOTItMzhkZWRlNTE0NTUyXkEyXkFqcGdeQXVyMjUxOTAxNzI@._V1_UY1200_CR167,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Favourite 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_UY1200_CR87,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Equalizer 2 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Darkest Minds 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUxOGE3OTUtM2I2My00YzE3LTg2NDktZTI3NjE4NDdjMGFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Curse of La Llorona 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjU4NjU4ZDktOTg2Ny00MWI2LThiMTAtMGFkZGE1MWI5MzhjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Command-Kursk 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc4MTIxMWEtMmRhNC00NWEzLWExMWQtMmNiNjA1MDlkZjk3XkEyXkFqcGdeQXVyMTkxODQ4MDg@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Clovehitch Killer 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/6NmsbUJqnopbnLun2E4KvtVNj8T.jpg"
+    },
+    {
+      "name": "EN: The Children Act 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/uWwmYzdLReu3Yn4YKuX9idDReaz.jpg"
+    },
+    {
+      "name": "EN: The Catcher Was a Spy 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/3aBv9Oln0aoBrEbkMabHIVat6CY.jpg"
+    },
+    {
+      "name": "EN: The Bouncer 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzU3MzU1ZjAtMWMzMS00NDczLTkxNDgtNTEzYzE2YWIxOGZiXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_UY1200_CR135,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Best of Enemies 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjQ5MjA2NDkyM15BMl5BanBnXkFtZTgwNTIwNjUzNzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Beach Bum 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY3MDUzMTAzOV5BMl5BanBnXkFtZTgwNDk3ODQyNzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Basement 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTEwNTUwMDItYTI0MC00MDFlLWJlZmQtOTk0ODA1NTMxNWQ1XkEyXkFqcGdeQXVyMTMyMjI0MjQ@._V1_UY1200_CR108,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: The Aftermath 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk2MDEyNTE5M15BMl5BanBnXkFtZTgwMzY1NDM4NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Teen Spirit 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjk0MmFmMDAtNDY0YS00MTk2LTkwMGItYWQ5M2U4MzM0ZWM3XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Suspiria 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg"
+    },
+    {
+      "name": "EN: Summer '03 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/rZhUcUkDzgvF0pjEjMZvUsvcUqH.jpg"
+    },
+    {
+      "name": "EN: Stan & Ollie 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2U4NmNkZmMtZTAyNi00Nzg1LWE4ZjMtMzA3ZWJkMDA2YjU3XkEyXkFqcGdeQXVyMjMyMjA0NTA@._V1_UY1200_CR750,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Spider-Man: Into the Spider-Verse 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UY1200_CR89,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Speed Kills 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmY0ZDhmOWItMDM4MS00NTkzLWE2MDItYjFhNzhlZmViOTAyXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Sorry to Bother You 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg"
+    },
+    {
+      "name": "EN: Smallfoot 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg"
+    },
+    {
+      "name": "EN: Sierra Burgess Is a Loser 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/vjnHRySiVM4YcBYzjCxw344y9g.jpg"
+    },
+    {
+      "name": "EN: Shazam! 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Shaft 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmExNGZmYzItZTMzMi00YWJjLWJkYmQtMDg5MjgzYjYyZDk1XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Serenity 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2VjNGFkZmUtMTI1MS00YmRiLTg1MmUtYzI0ODM1OWRkMjIyXkEyXkFqcGdeQXVyOTIxNTAyMzU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: See You Yesterday 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg"
+    },
+    {
+      "name": "EN: Second Act 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/maUMIZVGs8g1hYtq4dQ9Lg9FtVF.jpg"
+    },
+    {
+      "name": "EN: Rust Creek 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/lrsPIRkKZWTKbd3C0sSj7a3lMES.jpg"
+    },
+    {
+      "name": "EN: Replicas 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/hhPBTAn9b4TYOxc1JYNsX4BFAlW.jpg"
+    },
+    {
+      "name": "EN: Reign of the Supermen 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTY0OGIxNDMtNzIwZi00NTFmLThhYzUtYzUzYzc5ZjYwMThjXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_UY1200_CR194,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Ralph Breaks the Internet 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Puzzle 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/7CfijsjOsPKzz2Dd1zoMF5VPmZo.jpg"
+    },
+    {
+      "name": "EN: Prospect 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/1HpAwszXLsD8GeypDzK0me7fPFA.jpg"
+    },
+    {
+      "name": "EN: Polar 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzA5MjNjODEtOWYxYi00OTdmLTlhNTAtN2VhMTMxNWJjM2ZmXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Pokémon Detective Pikachu 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Point Blank 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYThkZjRmNWYtMWQ5Mi00Y2E4LWEyZjgtYWYxMDhiNTJmNTQzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Pet Sematary 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjJiN2UwYWItNWJjNi00Zjg4LWE5NmItMmM4N2I3ZjY3OTY2XkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_UY1200_CR69,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Peppermint 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg"
+    },
+    {
+      "name": "EN: Paul, Apostle of Christ 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWRkYTQ4NzctMDAwYS00NmE3LWI5NzUtMTMzNTQ0MDgwOWI1XkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Overlord 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/l76Rgp32z2UxjULApxGXAPpYdAP.jpg"
+    },
+    {
+      "name": "EN: Outlaw King 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc4MTU4YzEtODBiNC00NzA4LTg0NGItM2ZhZjZlNDFiNjJjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Otherhood 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmNhOGZjYjItN2U0Ny00YzY5LTg5NTItODZjYzQ3YTJiMWY5XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Ophelia 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/dyNtV1iZEztMa2GNpJpze8Irygu.jpg"
+    },
+    {
+      "name": "EN: Operation Finale 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzE1YjI2MjctZTY2Zi00NDBhLWIzYmMtNzMzMDgwZjE4MzUxXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: On the Basis of Sex 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzJlYmEwYjEtMmE1Ny00ZjdiLTg2ZjctMmMxYjRhNGJkNTY2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR105,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Night School 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/uQVIQDc3foTPodZw0ie1Or0CXBn.jpg"
+    },
+    {
+      "name": "EN: Never Grow Old 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY0OTIwNzI4NF5BMl5BanBnXkFtZTgwMTI3Mjk0NzM@._V1_UY1200_CR91,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Nappily Ever After 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzIzMWY0Y2YtMWM4My00MjZlLWI4YjAtMjNjMzE5YmVjM2M0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Murder Mystery 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Mowgli: Legend of the Jungle 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Mortal Engines 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg"
+    },
+    {
+      "name": "EN: Mission: Impossible - Fallout 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_UY1200_CR68,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Missing Link 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWFmNWZmZWYtMWM3OC00YTYyLWIxNDMtOTRjNzhiYWQ0MDIwXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UY1200_CR89,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Miss Bala 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcxNzY3Mzk5OF5BMl5BanBnXkFtZTgwNjQwODU1NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Mile 22 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzUyODk4OTkxNF5BMl5BanBnXkFtZTgwMzY0MDgzNTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Mary Queen of Scots 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg"
+    },
+    {
+      "name": "EN: Mary Poppins Returns 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjQxNjE3NjYxN15BMl5BanBnXkFtZTgwMTk2NDQ3NjM@._V1_UY1200_CR105,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Marvel Rising Secret Warriors 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGU5YTVlZTktNzgzMS00MGVlLTgyMGMtNWYwNTkwNGY1MzllXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR139,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Maria 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGIyN2NjYWUtYjExMC00MmFlLWFkYWMtMmNjZGFlMjMxZmFhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY1200_CR94,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Mamma Mia! Here We Go Again 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEwMTM3OTI1NV5BMl5BanBnXkFtZTgwNDk5NTY0NTM@._V1_UY1200_CR64,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Malevolent 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGJmYWJmYzYtYjIyYS00YzA5LWEwY2ItNTYxMWE3ODcxZGQ3XkEyXkFqcGdeQXVyNTU4MDA0MA@@._V1_UY1200_CR81,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Mail Order Monster 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGY1ZjVmZGMtYjNhOS00YjUxLWI5ODItYTNmYzdjZTNkMjI3XkEyXkFqcGdeQXVyMjE5NzI0MzY@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Lying and Stealing 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjc1YTg2OGItMDI3Zi00ODcxLTg1NWQtMTk4OGU4ZmYwYThkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY1200_CR92,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Luis & the Aliens 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWQ1MTUwMWYtOTQ5OC00ZjRkLWIzNDUtODIwMDQ2NzI5MTZhXkEyXkFqcGdeQXVyNDg1NDcyMDI@._V1_UY1200_CR111,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Longshot 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDAyMDQ3NDYtZTFhMi00Yzc1LThiNWYtNTUyODVmZjE3M2E5XkEyXkFqcGdeQXVyOTIwNjM2MjI@._V1_UY1200_CR1020,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Little 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU2NDYwNzkzMV5BMl5BanBnXkFtZTgwNjAyMjMxNzM@._V1_UY1200_CR64,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Life Itself 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2ZmY2I2ZDktZjhhMC00YmFmLWIyNDUtODk0NjY3Y2Q5MmRiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Ladies in Black 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDU0MzllNWQtY2Y3Zi00MDk2LTg0YzMtYWFjYjNiOTNlMWRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR89,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Kodachrome: The Movie 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzY0NmM5ODctZWY0MC00MDczLTgxMTEtNTU3OWIyYzhmYTBlXkEyXkFqcGdeQXVyMTAzNTM5MzM0._V1_UY1200_CR172,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Knuckleball 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE5NjYyOTAyMF5BMl5BanBnXkFtZTgwMzg4MzA0NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: King of Thieves 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTBjMGY2NzktMTc0ZS00ZTViLWJlN2MtNTI4YjhmMjQ5NjhhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR109,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: King Lear 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEwNTk0MzA1Ml5BMl5BanBnXkFtZTgwMTAwMzAzNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Kin 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDczYzNhMDMtNmQ2Ni00ZjcwLWI1MDQtMWI1YWVkNjkzN2NhXkEyXkFqcGdeQXVyNDMzMzI5MjM@._V1_UY1200_CR74,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Justice League vs. the Fatal Five 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTk5ODdkYzQtMDFjYS00YjgwLWI2N2EtZmU1MWRmMzFiNzdjXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Jonathan 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTQ1NTQ2MTg4NF5BMl5BanBnXkFtZTgwMTg2ODQ1NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Johnny English Strikes Again 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: I Still See You 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjQ4MjI5MjkxMV5BMl5BanBnXkFtZTgwODU1ODIyNjM@._V1_UY1200_CR107,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Isn't It Romantic 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg"
+    },
+    {
+      "name": "EN: Isle of Dogs 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYyOTUwNjAxM15BMl5BanBnXkFtZTgwODcyMzE0NDM@._V1_UY1200_CR63,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: IO 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmU4NTc0ZTgtNjliOC00NTM2LWE3NDktNGJiNzc2YzY3ZjA2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Into the Ashes 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTVhMjg3YTgtMjAxYy00MmIxLWI1MzEtN2UxMDIxYzkwYTJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Instant Family 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkzMzgzMTc1OF5BMl5BanBnXkFtZTgwNjQ4MzE0NjM@._V1_UY1200_CR92,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: In a Relationship 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjZmZjcxZjMtZTM1Mi00NDk3LTkzODItYjJlM2YyZjA2NmJmXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: If Beale Street Could Talk 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWVkMzY5NzgtMTdlNS00NjY5LThjOTktZWFkNDU3NmQzMDIwXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: I Am Mother 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkxMTczNTA4Nl5BMl5BanBnXkFtZTgwNDAyMzgwODM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Hunter Killer 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjRkNzQ0NmYtZmQyMS00Yzk5LWEzZjQtYzhlOTRlMzVjMzA3XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY1200_CR74,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: How to Train Your Dragon: The Hidden World 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_UY1200_CR64,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Hotel Artemis 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDhhNWE3NmQtY2Y1OC00MzQ4LWJhNjktZWEzNjEzMTE3YWIyXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY1200_CR68,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Hold the Dark 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjMwOTQ1MzM3M15BMl5BanBnXkFtZTgwODQyNDQxNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Hellboy 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Happy Death Day 2U 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg0NzkwMzQyMV5BMl5BanBnXkFtZTgwNDcxMTMyNzM@._V1_UY1200_CR64,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Halloween 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmMzNjJhYjUtNzFkZi00MWQ4LWJiMDEtYWM0NTAzNGZjMTI3XkEyXkFqcGdeQXVyOTE2OTMwNDk@._V1_UY1200_CR91,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Greta 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTg0OTVjYjUtOWUzYS00YjJjLWI3NWItMmVjNTBlMTE2ODJlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Green Book 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Goosebumps 2: Haunted Halloween 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmMzNjJhYjUtNzFkZi00MWQ4LWJiMDEtYWM0NTAzNGZjMTI3XkEyXkFqcGdeQXVyOTE2OTMwNDk@._V1_UY1200_CR91,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Godzilla: King of the Monsters 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Gloria Bell 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc5Nzc1OTk3OV5BMl5BanBnXkFtZTgwNDM1NTQ3NjM@._V1_UY1200_CR70,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Glass 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_UY1200_CR105,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Galveston 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI5NzY1MTU0Nl5BMl5BanBnXkFtZTgwNDQ3NDA0NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Five Feet Apart 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzVmMjJlN2MtNWQ4Ny00Zjc2LWJjYTgtYjJiNGM5MTM1ZTlkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: First Man 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDBhOTMxN2UtYjllYS00NWNiLWE1MzAtZjg3NmExODliMDQ0XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UY1200_CR64,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Fighting with My Family 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWM0NGUxMzUtMjRlZS00OWZlLTlkZDMtMzJhOWVmZDY2ODczXkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Fantastic Beasts: The Crimes of Grindelwald 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiMGUzMTAtNDAwMC00ZjRhLTk0OTUtMmJiMzM5ZmVjODQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Extremely Wicked, Shockingly Evil and Vile 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM4ZjY5ZmQtNjUwYi00Yzk2LWIwNmMtYTg1NmU0MWExZTMzXkEyXkFqcGdeQXVyMTg2MDEyMzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Eighth Grade 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzVlYzgxYjAtYzhhZi00MDc1LTlkZDMtMTRhZWI0MTg5YTRjXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UY1200_CR69,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Dumbo 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Destroyer 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI4MTI2OTAyMV5BMl5BanBnXkFtZTgwNjY3NDY1NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Deadwood 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2Y1OGQ4ZjEtZWUzMi00MzZmLTk3MmEtMThiNjIwNzg4MjRkXkEyXkFqcGdeQXVyMTE5NDkxMA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Crypto 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2I3YjljOTMtNTg0Ny00NDdhLTlkODUtMzEwMzMwZWNkZTIwXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_UY1200_CR104,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Creed II 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcxMjUwNjQ5N15BMl5BanBnXkFtZTgwNjk4MzI4NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Crazy Rich Asians 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Colette 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTg5M2MxYzAtZjUwMi00MzRjLTkxNTItZmNjYzUxZjI3YzI3XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Cold Pursuit 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2YyYWI3NjItMWEwZS00MzhkLWJmZTMtZDAzYjRhODM0OTMzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY1200_CR74,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Close 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzI5OTUzZjktMDE4Zi00YjE3LWIzNWQtNDFjZWQyMDVkY2I1XkEyXkFqcGdeQXVyMTg1MzYyMzQ@._V1_UY1200_CR83,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Bumblebee 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Booksmart 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEzMjcxNjA2Nl5BMl5BanBnXkFtZTgwMjAxMDM2NzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Black '47 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg"
+    },
+    {
+      "name": "EN: Black Mirror: Bandersnatch 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM5MzgzMjM3OF5BMl5BanBnXkFtZTgwMzQ2MzQwNzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: BlacKkKlansman 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Bird Box 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Billionaire Boys Club 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDAxZTE2MzgtZjNjYi00YjE4LWIzNzYtNTQyZWRhMWVhMTc2XkEyXkFqcGdeQXVyNTUzOTUwMTk@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Between Worlds 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjQ3YWUwMjItMzJkYy00ZTc4LTk2ZmEtMGJkMmYwMjYwNTdiXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Bent 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDkwZDlhNzAtZTg5ZS00NGI5LThhNjktZjMwYjQ0NmMwNTg2XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Beneath the Leaves 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTQ1YzVjM2UtYjBlYi00MTkxLThkNmYtODkzNmU2YWZhYTVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjgxNTI5NDU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Beautiful Boy 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjNhNjVjZDQtMzRhMS00YmI2LTkxZmEtMDdkMWU3OWQ2NjNmXkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Bayou Caviar 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM3NTAyMjgzNF5BMl5BanBnXkFtZTgwMTkyMjQyNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Batman vs Teenage Mutant Ninja Turtles 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzk3MGZlYWQtNDU4Ny00Y2I5LTk2YmItM2QxYjFiMjM0ZmQxXkEyXkFqcGdeQXVyNDUzMTkzMDI@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Batman: Hush 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjgzMjVlMDgtZjRmYS00OWFlLWFmYTYtYjc1ZjU2MzZjNjRhXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Bad Times at the El Royale 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTk1Nzk1MDc1MF5BMl5BanBnXkFtZTgwNjU2NDExNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Backtrace 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU1NDI1NzA2OV5BMl5BanBnXkFtZTgwNzI3NjQ3NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Back Roads 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDA0MjI1MzMtNjYwYi00NzgzLWE4NDYtZjQ0ZTcwZWFkZmEwXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: A Wrinkle in Time 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjMxNjQ5MTI3MV5BMl5BanBnXkFtZTgwMjQ2MTAyNDM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Avengers: Endgame 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Avengement 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmZlN2NiNzMtMjdmOS00OGQ3LTkxMTctOTM3MWQ0ZGEyMjM0XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Attrition 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGVkMGIxN2QtZTY4MC00NGVjLWE2MWUtYWQ3ZjhjMzk0NGYwXkEyXkFqcGdeQXVyMzcyNDc2OQ@@._V1_UY1200_CR86,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: At First Light 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWVhY2MyYjktN2ZlMy00MWU2LWEzZDItYTU0ZDc4ZGRkMjc4XkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_UY1200_CR100,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: At Eternity's Gate 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg"
+    },
+    {
+      "name": "EN: Astral 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTFlOGE5OTYtYjhiZS00MWIwLTkyZTktYjUyODc2NjEzOWZiXkEyXkFqcGdeQXVyMzQwNDE2NDg@._V1_UY1200_CR80,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: A Simple Favour 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjFiMGNiNmItMzNiNi00Mjc1LTg1N2YtNWE2NTE5N2VlZTQ3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR79,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Ashes in the Snow 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGFjYmJlZmMtZDQxZC00MDZjLTkzNzMtNTIwNzU5NGY5NzIyXkEyXkFqcGdeQXVyMjkzODg0Mzc@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Asher 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGRjM2QxN2YtYWZiYy00MjFmLWJhNjUtYjg3NWQ2MWE2MGY1XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UY1200_CR92,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Arctic 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w780/dxRc0Y4IjSRLC2fYaguXQtJCI4e.jpg"
+    },
+    {
+      "name": "EN: Aquaman 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: A Private War 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODFkMzljMWUtY2NjNS00NjZhLTk4MDItYWNjMjIyODZlNDc1XkEyXkFqcGdeQXVyNzEyMTk0MzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: American Hangman 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTE0ODY5OTU1MTReQTJeQWpwZ15BbWU4MDcyNDE1ODYz._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Always Be My Maybe 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGM2NWFjYTctZjFiYy00YzIxLThhY2QtY2UxZTNmNjdjZTU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Alpha 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODI4OTk1ODY3N15BMl5BanBnXkFtZTgwMDI1MTcwNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Alita: Battle Angel 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_UY1200_CR64,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Aladdin 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Air Strike 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWQ2ZmYzM2EtYTMwZS00YjcxLWEzNGItMGQxM2I2ZDhmN2I2XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_UY1200_CR83,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: After 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: A Dog's Way Home (2019)",
+      "group": "EN - Netflix Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg"
+    },
+    {
+      "name": "EN: Action Point 2018",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEyMTU5MTk1N15BMl5BanBnXkFtZTgwMzIzMzczNTM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "EN: Abduction 2019",
+      "group": "EN - Netflix Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODM0MjI0NTg5MF5BMl5BanBnXkFtZTgwMjA5OTEwODM@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+    }
+  ]
+}

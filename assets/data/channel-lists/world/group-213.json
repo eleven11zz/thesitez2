@@ -1,0 +1,63 @@
+{
+  "package": "world",
+  "name": "TR - Muzik - Live.",
+  "groupIndex": 213,
+  "totalChannels": 11,
+  "channels": [
+    {
+      "name": "TR:  ANADOLU DERNEK TV  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/anadoludernektv.png"
+    },
+    {
+      "name": "TR: MEZZO  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/mezzo.png"
+    },
+    {
+      "name": "TR: Power TV HD  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/powertv.png"
+    },
+    {
+      "name": "TR: Power TV HD  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/powertv.png"
+    },
+    {
+      "name": "TR: Power TURK HD  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/powerturk.png"
+    },
+    {
+      "name": "TR: Power TURK HD  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/powerturk.png"
+    },
+    {
+      "name": "TR: Number 1 Türk HD  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/1243746514.png"
+    },
+    {
+      "name": "TR: Number ONE HD  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/numberone.png"
+    },
+    {
+      "name": "TR: TMB TV FHD  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/tmbtv.png"
+    },
+    {
+      "name": "TR: TRACE URBAN  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/traceurban.png"
+    },
+    {
+      "name": "TR: TRT Muzik HD  (101-SERVERS)",
+      "group": "TR - Muzik - Live.",
+      "logo": "https://logo.m3uassets.com/trtmuzik.png"
+    }
+  ]
+}

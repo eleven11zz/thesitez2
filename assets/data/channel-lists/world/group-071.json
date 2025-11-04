@@ -1,0 +1,663 @@
+{
+  "package": "world",
+  "name": "EX - Ex-Yu - Live.",
+  "groupIndex": 71,
+  "totalChannels": 131,
+  "channels": [
+    {
+      "name": "DOKU TV  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/dokutv.png"
+    },
+    {
+      "name": "EX-YU: E! Entertainment HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/45906457071.png"
+    },
+    {
+      "name": "EX-YU: Cinestar Premiere 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/70967269261.png"
+    },
+    {
+      "name": "EX-YU: Cinestar Premiere 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/17214962971.png"
+    },
+    {
+      "name": "EX-YU: 1000 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/36237527001.png"
+    },
+    {
+      "name": "EX-YU: 24 Kitchen HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/63430565111.png"
+    },
+    {
+      "name": "EX-YU: 24 Vesti HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/71499195481.png"
+    },
+    {
+      "name": "EX-YU: ALFA TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/45848466251.png"
+    },
+    {
+      "name": "EX-YU: Animal Planet HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78219120691.png"
+    },
+    {
+      "name": "EX-YU: Arena Sport Premium 1 (srb) HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png"
+    },
+    {
+      "name": "EX-YU: Arena Sport Premium 2 SR HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/30946373081.png"
+    },
+    {
+      "name": "EX-YU: Arena Sport Premium 3 SR HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/11209799061.png"
+    },
+    {
+      "name": "EX-YU: AXN SPIN HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19451807661.png"
+    },
+    {
+      "name": "EX-YU: Balkanika HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/74306028371.png"
+    },
+    {
+      "name": "EX-YU: BBC Earth HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/88192570441.png"
+    },
+    {
+      "name": "EX-YU: BHT HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/38717318871.png"
+    },
+    {
+      "name": "EX-YU: BN HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/27139553261.png"
+    },
+    {
+      "name": "EX-YU: Cinemax 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/24258654941.png"
+    },
+    {
+      "name": "EX-YU: Cinemax HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/96710798711.png"
+    },
+    {
+      "name": "EX-YU: Cinestar Action HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/29791583021.png"
+    },
+    {
+      "name": "EX-YU: Cinestar TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/51950839621.png"
+    },
+    {
+      "name": "EX-YU: Cinestar TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/18452691261.png"
+    },
+    {
+      "name": "EX-YU: Discovery Serbia HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/5015388448.jpg"
+    },
+    {
+      "name": "EX-YU: DOMA TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/38436117051.png"
+    },
+    {
+      "name": "EX-YU: FACE TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/95393703371.png"
+    },
+    {
+      "name": "EX-YU: Federalna TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/28686441191.png"
+    },
+    {
+      "name": "EX-YU: Filmbox HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/77368483751.png"
+    },
+    {
+      "name": "EX-YU: FOX Crime HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/86840407631.png"
+    },
+    {
+      "name": "EX-YU: FOX LIFE HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/56822445501.png"
+    },
+    {
+      "name": "EX-YU: FOX Movies HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/38929723891.png"
+    },
+    {
+      "name": "EX-YU: Grand TV 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/94915802771.png"
+    },
+    {
+      "name": "EX-YU: Grand TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/27389274931.png"
+    },
+    {
+      "name": "EX-YU: Grand TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/88523047081.png"
+    },
+    {
+      "name": "EX-YU: Happy HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/53407071141.png"
+    },
+    {
+      "name": "EX-YU: Hayat PLUS HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/11620928071.png"
+    },
+    {
+      "name": "EX-YU: Hayat TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/65521476701.png"
+    },
+    {
+      "name": "EX-YU: Hayatovci HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/26382668351.png"
+    },
+    {
+      "name": "EX-YU: HBO 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/45247664501.png"
+    },
+    {
+      "name": "EX-YU: HBO 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/81333281001.png"
+    },
+    {
+      "name": "EX-YU: HBO 3 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/19764369341.png"
+    },
+    {
+      "name": "EX-YU: History 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/80033531301.png"
+    },
+    {
+      "name": "EX-YU: History HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/74096593401.png"
+    },
+    {
+      "name": "EX-YU: HRT 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78370948281.png"
+    },
+    {
+      "name": "EX-YU: HRT 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/74769945611.png"
+    },
+    {
+      "name": "EX-YU: HRT 3 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/24052763541.png"
+    },
+    {
+      "name": "EX-YU: HRT 4 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/79650273161.png"
+    },
+    {
+      "name": "EX-YU: IDJ TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/10113496551.png"
+    },
+    {
+      "name": "EX-YU: Igman  HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/70097526811.png"
+    },
+    {
+      "name": "EX-YU: KCN 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/35823985891.png"
+    },
+    {
+      "name": "EX-YU: KCN 3 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/26311509281.png"
+    },
+    {
+      "name": "EX-YU: KCN 3 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/71775572661.png"
+    },
+    {
+      "name": "EX-YU: Klasik TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/90137258511.png"
+    },
+    {
+      "name": "EX-YU: M1 FILM HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/58263869341.png"
+    },
+    {
+      "name": "EX-YU: MAX Sport 1 (HR)  HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/a9d69167e91ef48e5cdf792db51ed8a8.png"
+    },
+    {
+      "name": "EX-YU: MAX Sport 2 (HR)  HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/aa6f5353a2cbf8cac22a2459721adb3f.png"
+    },
+    {
+      "name": "EX-YU: MPT 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/44465672031.png"
+    },
+    {
+      "name": "EX-YU: MTV Igman HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/55557153881.png"
+    },
+    {
+      "name": "EX-YU: Nickelodeon HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78281393201.png"
+    },
+    {
+      "name": "EX-YU: NOVA S HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/94922288911.png"
+    },
+    {
+      "name": "EX-YU: NOVI Pazar HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/82581919221.png"
+    },
+    {
+      "name": "EX-YU: OBN HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/33272729781.png"
+    },
+    {
+      "name": "EX-YU: OTV Valentino HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/89219936501.png"
+    },
+    {
+      "name": "EX-YU: PINK 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/33628465661.png"
+    },
+    {
+      "name": "EX-YU: PINK Action HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/11103844751.png"
+    },
+    {
+      "name": "EX-YU: PINK Extra HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/68971556591.png"
+    },
+    {
+      "name": "EX-YU: PINK Fashion HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/84729977501.png"
+    },
+    {
+      "name": "EX-YU: PINK FOLK 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/26666524371.png"
+    },
+    {
+      "name": "EX-YU: PINK Horror HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/53367389141.png"
+    },
+    {
+      "name": "EX-YU: PINK Kuvar HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/95792998211.png"
+    },
+    {
+      "name": "EX-YU: PINK Movie HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/20800277571.png"
+    },
+    {
+      "name": "EX-YU: PINK Movies HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/15483668041.png"
+    },
+    {
+      "name": "EX-YU: PINK Music 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/57818110511.png"
+    },
+    {
+      "name": "EX-YU: PINK PLUS HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/32578675451.png"
+    },
+    {
+      "name": "EX-YU: PINK Premium HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/86319708951.png"
+    },
+    {
+      "name": "EX-YU: PINK Premium HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/48384439481.png"
+    },
+    {
+      "name": "EX-YU: PINK Reality HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/57681660011.png"
+    },
+    {
+      "name": "EX-YU: PINK Thriller HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/66977136011.png"
+    },
+    {
+      "name": "EX-YU: PINK Western HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/42677635581.png"
+    },
+    {
+      "name": "EX-YU: PINK Western HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/44958286781.png"
+    },
+    {
+      "name": "EX-YU: PINK World Cinema HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/87061106291.png"
+    },
+    {
+      "name": "EX-YU: PRVA HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/14087260751.png"
+    },
+    {
+      "name": "EX-YU: PRVA MAX HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/24514581561.png"
+    },
+    {
+      "name": "EX-YU: PRVA PLUS HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/44408512411.png"
+    },
+    {
+      "name": "EX-YU: PRVA PLUS HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/9384064628.png"
+    },
+    {
+      "name": "EX-YU: PRVA World HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/35676610161.png"
+    },
+    {
+      "name": "EX-YU: RED TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/60324996441.png"
+    },
+    {
+      "name": "EX-YU: RTCG 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/16383990151.png"
+    },
+    {
+      "name": "EX-YU: RTCG 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/89774621171.png"
+    },
+    {
+      "name": "EX-YU: RTL 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/99589431811.png"
+    },
+    {
+      "name": "EX-YU: RTL Crime HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/70156491961.png"
+    },
+    {
+      "name": "EX-YU: RTL Living HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/12373086671.png"
+    },
+    {
+      "name": "EX-YU: RTL Living HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/67916739121.png"
+    },
+    {
+      "name": "EX-YU: RTRS HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/61106369371.png"
+    },
+    {
+      "name": "EX-YU: RTS 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/49866138451.png"
+    },
+    {
+      "name": "EX-YU: RTS 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/10412875131.png"
+    },
+    {
+      "name": "EX-YU: RTS 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/90812039761.png"
+    },
+    {
+      "name": "EX-YU: Sandzak TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/41840735161.png"
+    },
+    {
+      "name": "EX-YU: Sarajevo HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/67569195241.png"
+    },
+    {
+      "name": "EX-YU: Sport KLUB 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/32051203241.png"
+    },
+    {
+      "name": "EX-YU: Sport KLUB 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/36335858461.png"
+    },
+    {
+      "name": "EX-YU: Sport KLUB 3 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/56832338951.png"
+    },
+    {
+      "name": "EX-YU: Super STAR TV HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/22595248071.png"
+    },
+    {
+      "name": "EX-YU: TLC HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/chimg/1105984083.jpg"
+    },
+    {
+      "name": "EX-YU: Travel Channel HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/44520062381.png"
+    },
+    {
+      "name": "EX-YU: TV 1000 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/73272381091.png"
+    },
+    {
+      "name": "EX-YU: Z1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/39756703291.png"
+    },
+    {
+      "name": "EXYU :filmski | Cinestar Premiere 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/49421834871.png"
+    },
+    {
+      "name": "EXyu: Kafanska HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/c031f314964e8492b012711d55b1f652.png"
+    },
+    {
+      "name": "HR: Arena Sport 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport1.png"
+    },
+    {
+      "name": "HR: Arena Sport 10 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport10.png"
+    },
+    {
+      "name": "HR: Arena Sport 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport2.png"
+    },
+    {
+      "name": "HR: Arena Sport 3 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport3.png"
+    },
+    {
+      "name": "HR: Arena Sport 4 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport4.png"
+    },
+    {
+      "name": "HR: Arena Sport 5 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport5.png"
+    },
+    {
+      "name": "HR: Arena Sport 6 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport6.png"
+    },
+    {
+      "name": "HR: Arena Sport 7 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport7.png"
+    },
+    {
+      "name": "HR: Arena Sport 8 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport8.png"
+    },
+    {
+      "name": "HR: Arena Sport 9 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport9.png"
+    },
+    {
+      "name": "MK: MRT 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/mrt2.png"
+    },
+    {
+      "name": "NAT GEO WILD FHD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/natgeowild.png"
+    },
+    {
+      "name": "NAtional Geographic HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/nationalgeographic.png"
+    },
+    {
+      "name": "PINK Romance HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/pinkromance.png"
+    },
+    {
+      "name": "EXYU :Doku | CBS Reality  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/53387207221.png"
+    },
+    {
+      "name": "SRB: Arena Sport 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport1.png"
+    },
+    {
+      "name": "SRB: Arena Sport 2 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport2.png"
+    },
+    {
+      "name": "SRB: Arena Sport 4 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/arenasport4.png"
+    },
+    {
+      "name": "SRB: PINK FILM HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/pinkfilm.png"
+    },
+    {
+      "name": "SRB: PINK FOLK 1 HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/pinkfolk1.png"
+    },
+    {
+      "name": "VIasat Explore HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/viasatexplore.png"
+    },
+    {
+      "name": "VIasat History HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/viasathistory.png"
+    },
+    {
+      "name": "VIasat Nature HD  (101-SERVERS)",
+      "group": "EX - Ex-Yu - Live.",
+      "logo": "https://logo.m3uassets.com/viasatnature.png"
+    }
+  ]
+}

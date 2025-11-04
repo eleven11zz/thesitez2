@@ -1,0 +1,2413 @@
+{
+  "package": "scandinavia",
+  "name": "SW - Sweden Movies",
+  "groupIndex": 60,
+  "totalChannels": 481,
+  "channels": [
+    {
+      "name": "SW: Madea's Destination Wedding (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg"
+    },
+    {
+      "name": "SW: Jaws @ 50: The Definitive Inside Story (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCvCb548scfD0HhkCAwBMKHey5b.jpg"
+    },
+    {
+      "name": "SW: What Remains (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sRXV5sUsSU22WvQOsb3XxKFebC.jpg"
+    },
+    {
+      "name": "SW: Stonehearst Asylum (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZxGCCQ0NAtraevqULJ84wSSjo0.jpg"
+    },
+    {
+      "name": "SW: Penguins of Madagascar (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXbpNrPDZDMEbujFoOxmMNQVMHa.jpg"
+    },
+    {
+      "name": "SW: Almost Cops (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bcndiaTgu1Kj5a6qyCmsWYdtI.jpg"
+    },
+    {
+      "name": "SW: Rust (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg"
+    },
+    {
+      "name": "SW: Madagascar 3: Europe's Most Wanted (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekraj4ksvIKeuvQVEevEJkuybZd.jpg"
+    },
+    {
+      "name": "SW: Madagascar: Escape 2 Africa (2008)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/agRbLOHgN46TQO4YdKR462iR7To.jpg"
+    },
+    {
+      "name": "SW: Madagascar (2005)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg"
+    },
+    {
+      "name": "SW: Brick (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg"
+    },
+    {
+      "name": "SW: Flight 93 (2006)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2jz1F7u4u4jID3xaFjuUBFEpxl.jpg"
+    },
+    {
+      "name": "SW: Ballerina (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg"
+    },
+    {
+      "name": "SW: The Royal We (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNdqi9oYpynE7pDMF9vysCedFzg.jpg"
+    },
+    {
+      "name": "SW: Royal (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/myjhjlDJsVLt4suQQkQ2JAoktL6.jpg"
+    },
+    {
+      "name": "SW: Death of a Unicorn (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg"
+    },
+    {
+      "name": "SW: Hell of a Summer (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9rRLc9pRDR8H6YoJTmXrBmivxD.jpg"
+    },
+    {
+      "name": "SW: Meat Grinder (2009)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpmVJeTEJdBkWoSvX7wvk8ch5MH.jpg"
+    },
+    {
+      "name": "SW: Survival on a Deserted Island (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxhcK68zni8wAcATM4LeN14qWrN.jpg"
+    },
+    {
+      "name": "SW: Captive (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKOY6QwmnuZYPaMIvdmZQHjxDLI.jpg"
+    },
+    {
+      "name": "SW: Putin (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3Q2MrpmaOrKfN2pInNvRNhYa4G.jpg"
+    },
+    {
+      "name": "SW: Ziam (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHYj2t3NzsjkHVYa0bPri4sMBsg.jpg"
+    },
+    {
+      "name": "SW: Trainwreck: The Real Project X (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6NQOlvAcdK6VJ4CoZMzLUQLtfL.jpg"
+    },
+    {
+      "name": "SW: The Old Guard 2 (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg"
+    },
+    {
+      "name": "SW: Legends of the Condor Heroes: The Gallants (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUCFEGFlMIFet9ja72JDAeG1he8.jpg"
+    },
+    {
+      "name": "SW: Hurry Up Tomorrow (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9W44XSMYbjXdlXcQhD104zPhhhJ.jpg"
+    },
+    {
+      "name": "SW: Heads of State (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg"
+    },
+    {
+      "name": "SW: The Silent Planet (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/S7U5gPN9lx4Bybsjez2omvkQHH.jpg"
+    },
+    {
+      "name": "SW: The Guardsmen (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Vo3C72Ij8lTyLF4yXjfIEpVN7v.jpg"
+    },
+    {
+      "name": "SW: Outbreak (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/86veNrARvGRyBRiGT94Lxpy5Z4S.jpg"
+    },
+    {
+      "name": "SW: Boiling Point (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfzH3Zqm3QGK6SsdyCBPoB0NgPF.jpg"
+    },
+    {
+      "name": "SW: Leprechaun Returns (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kToQsV04Jel1ob7VJ471LDz7wD.jpg"
+    },
+    {
+      "name": "SW: Leprechaun: Origins (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyZ7folrZTqEJFD7wUuGf84CmPK.jpg"
+    },
+    {
+      "name": "SW: Leprechaun: Back 2 tha Hood (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBXtcz92oigWaWnFDyS8j5tMAc1.jpg"
+    },
+    {
+      "name": "SW: Leprechaun in the Hood (2000)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCRwtuxnJWkZ04gwtfYF9h1GUkl.jpg"
+    },
+    {
+      "name": "SW: Leprechaun 4: In Space (1997)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nt0095grCSepz6xU24a5yP5mwc.jpg"
+    },
+    {
+      "name": "SW: Leprechaun 3 (1995)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9NT2smK66pYOjBtmZuKFFTZ478.jpg"
+    },
+    {
+      "name": "SW: Leprechaun 2 (1994)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnCLZ3rpy3enYSHrzcBxnx3fozK.jpg"
+    },
+    {
+      "name": "SW: Leprechaun (1993)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nys3OeafqY07BmEge9OhWHi7bJO.jpg"
+    },
+    {
+      "name": "SW: Rebirth (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBI7uS5DDfWBPfMmlxUvgn0PePa.jpg"
+    },
+    {
+      "name": "SW: Passion of Mind (2000)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7lzVd2YHz85pgOugGJCJ983bQB.jpg"
+    },
+    {
+      "name": "SW: Siste nudisten (1968)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l20JLhiOdJn2OHTKWs2LJ2G2Hu9.jpg"
+    },
+    {
+      "name": "SW: My Little Eye (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHEq0C5o0FTOOW5jmeCJtLhaj3G.jpg"
+    },
+    {
+      "name": "SW: Crossroads (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S1Nrw3VALOzoTpDQ1X57rEqrmi.jpg"
+    },
+    {
+      "name": "SW: Jamie Marks Is Dead (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2hTW172Q7CSC0A5Lp6HAJ41XQr.jpg"
+    },
+    {
+      "name": "SW: Clown (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1exaxzZ2eJfwUYSl1YX206Xf58.jpg"
+    },
+    {
+      "name": "SW: Chinese Zodiac (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlC6cN9dYIT6FjQVx026s9pFLIu.jpg"
+    },
+    {
+      "name": "SW: Ice Road: Vengeance (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQN9rZj06rXMVkk76UF1DfBAico.jpg"
+    },
+    {
+      "name": "SW: Taken 3 (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzvMXMypMq7ieDofKThsxjHj9hn.jpg"
+    },
+    {
+      "name": "SW: Taken 2 (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGRtQS39DYIu6gXu5mXQsXFGZPO.jpg"
+    },
+    {
+      "name": "SW: Taken (2008)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5Va1WXDX6nZElVirPrGxf6w99B.jpg"
+    },
+    {
+      "name": "SE - Homefront",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pF8D9bDIAmuHgCqGKEfuNWRQam.jpg"
+    },
+    {
+      "name": "SW: Thunderbolts* (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+    },
+    {
+      "name": "SW: Shark Whisperer (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0WEubJKWTfqYX8laBGIPI07Z7t.jpg"
+    },
+    {
+      "name": "SW: Opus (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAslhx6gKKD6c1vVY6YV9DSG5lb.jpg"
+    },
+    {
+      "name": "SW: Disco Boy (2023)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYsAJeLh9LmesAnPjdTaZEdr1bP.jpg"
+    },
+    {
+      "name": "SW: Monsters of Man (2020)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sENLgxCVtZqCMQIeuLep8FmdInr.jpg"
+    },
+    {
+      "name": "SW: Action (1921)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f6vxdfhmj5rzsU9ySYOW7i4vfS.jpg"
+    },
+    {
+      "name": "SW: WiseGirls (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUNOBEKNsa3vhRuPE3FDDoUHzOr.jpg"
+    },
+    {
+      "name": "SW: Lone Star (1996)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBxY8znsRoqa9Dy2NCe8I6GPsRm.jpg"
+    },
+    {
+      "name": "SW: F1 (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLMG65ZpCbC64aPaXGoCgPPLwb4.jpg"
+    },
+    {
+      "name": "SW: The Good Dinosaur (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg"
+    },
+    {
+      "name": "SW: The Phoenician Scheme (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg"
+    },
+    {
+      "name": "SW: My Mom Jayne (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNIdUakKOG6xUgqgGb6UeC3vNIS.jpg"
+    },
+    {
+      "name": "SW: The Thing (1982)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzGY49kseSE9QAKk47uuDGwnSCu.jpg"
+    },
+    {
+      "name": "SW: Holiday in the Wild (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDXMzBpiUJld5zLnSqDmGln3XuM.jpg"
+    },
+    {
+      "name": "SW: Lights Out (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BnElzAQQpp7ZgdJJiAe1diomr4.jpg"
+    },
+    {
+      "name": "SW: The Love Bug (1968)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Lc1efdYZUZia2zsRWcUkiD1KdN.jpg"
+    },
+    {
+      "name": "SW: Scheme Birds (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nV6u2KGwsxCryXBMKZrmjTXLBqt.jpg"
+    },
+    {
+      "name": "SW: The World Is Big and Salvation Lurks Around the Corner (2008)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsaVc5UmB8RuoZzxNbnFMR88vU6.jpg"
+    },
+    {
+      "name": "SW: Seraphim Falls (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WCcrCYq9mCyFGLpgx2IwhpURTe.jpg"
+    },
+    {
+      "name": "SW: Lady Bird (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg"
+    },
+    {
+      "name": "SW: The Wave (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWFHGTfCOzMphfJW3DPdfbq7Vyp.jpg"
+    },
+    {
+      "name": "SW: Cujo (1983)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNBt2YxrQdyOjnm2rDQ5QiCmQ0K.jpg"
+    },
+    {
+      "name": "SW: Stand Your Ground (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT9JCdx018nvFBvo1YQP4uA4hl9.jpg"
+    },
+    {
+      "name": "SW: Crossing Lines (Hele Vejen)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NVgPBbu7yTRtNCaRUvGGISsyxw.jpg"
+    },
+    {
+      "name": "SW:  Clown in a Cornfield",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bghFYMUMEKK6GyTHRA7XVC8uWn6.jpg"
+    },
+    {
+      "name": "SW:  Bonhoeffer: Pastor. Spy. Assassin",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WtImcI6k9XOcnPmSeN2Kzpf4ay.jpg"
+    },
+    {
+      "name": "SW: The K-Pop Story (2023)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbkQmBqrQhxHgk2RZwcVuIl4km7.jpg"
+    },
+    {
+      "name": "SW: The 'Burbs (1989)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwYKzJS0C3A711hmg1G4ptI0InF.jpg"
+    },
+    {
+      "name": "SW: The Borrowers (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSf4LFN2BKaWQmq5ZZBCVgdtMcj.jpg"
+    },
+    {
+      "name": "SE - How to Train Your Dragon (Svensk Text) (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqZQJrJNTATO3DqQJOLYzdeJymP.jpg"
+    },
+    {
+      "name": "SE - How to Train Your Dragon (Svenskt Tal) (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqZQJrJNTATO3DqQJOLYzdeJymP.jpg"
+    },
+    {
+      "name": "SE - Women in Trouble",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iY1L1QuJS4PFiw3Kc5fiVBD0gJ0.jpg"
+    },
+    {
+      "name": "SE - This Old Machine",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Xnj3lzoESup4WhheKVd2gIbzjQ.jpg"
+    },
+    {
+      "name": "SE - Gang Related",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvl4RYK5OHo2d9V1aUkHkxhh9Zv.jpg"
+    },
+    {
+      "name": "SW: Jade (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNEdHgeTFDdK0plI9LTEOMeVveA.jpg"
+    },
+    {
+      "name": "SW: Embrace of the Vampire (2013)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIJhLiYmqFd9SoKaFmO3gJFsWfb.jpg"
+    },
+    {
+      "name": "SW: El Cid: The Legend (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdkQYRjYRq6eU6hyf6BPwcEQhud.jpg"
+    },
+    {
+      "name": "SW: God Bless Ozzy Osbourne (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIIrzyd2RI5uXwVtvJm28gU34kK.jpg"
+    },
+    {
+      "name": "SW: Virginia (2010)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdZbFkToPsvobzbw0khjs9yeKKY.jpg"
+    },
+    {
+      "name": "SW: The Year of Living Dangerously (1982)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9GIM95xWWU4urqqu0kziby0Ykg.jpg"
+    },
+    {
+      "name": "SW: The Ice Pirates (1984)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv2iZbQYWwKcWOUWVFxOhcchKZT.jpg"
+    },
+    {
+      "name": "SW: Run to Ground (2010)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUq4PJlhZchG23bKM3WaiTBucC.jpg"
+    },
+    {
+      "name": "SW: Owning Mahowny (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQYKqpN6fD7Dc7Vu8xnShHPKDwe.jpg"
+    },
+    {
+      "name": "SW: Next Door (2005)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqS5Y8f6EQy9i9YFuPuTlPRopV4.jpg"
+    },
+    {
+      "name": "SW: Middle Men (2009)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l56cv8FczzEk4pe3W8BHiRNCC05.jpg"
+    },
+    {
+      "name": "SW: Frozen River (2008)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZRcN4JLwYQWTxKlycZPLQb37mO.jpg"
+    },
+    {
+      "name": "SW: A Dirty Shame (2004)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10QtswgtDo8IBfFHz4J6WAyVSbN.jpg"
+    },
+    {
+      "name": "Wishmaster 4: The Prophecy Fulfilled (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/am5GYs2Zd4AE8faxTGkdSBvdgbG.jpg"
+    },
+    {
+      "name": "SE: Intersection (1994)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRMbpD2WRxpVcU6Vvws32GkMxin.jpg"
+    },
+    {
+      "name": "SW: Cop Car (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MCvmPcMdbmdsIeRNQhKzLcZorP.jpg"
+    },
+    {
+      "name": "SW: Big Boys Don’t Cry (2022)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGBQAan7xdvRqR4LQEqk6DDVUD4.jpg"
+    },
+    {
+      "name": "SW: Blonde Fist (1991)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAKQtGOGPrDgBUFCAnZMb4JpAi8.jpg"
+    },
+    {
+      "name": "SW: 6 Balloons (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg"
+    },
+    {
+      "name": "SE: Raising Cain",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vRn138vnZeUNFe32qTuPGKkVLR.jpg"
+    },
+    {
+      "name": "SW: Good Night, and Good Luck. (2005)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4QSEno2xxHqMtSr3mPUhJpO3F2.jpg"
+    },
+    {
+      "name": "SW: Tomorrow You're Gone (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qFmod8EAEO6xRuhDRibfw15PoB.jpg"
+    },
+    {
+      "name": "SW: Northmen: A Viking Saga (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx70ZCmLlzu0kALPGoiBezGPG7o.jpg"
+    },
+    {
+      "name": "SW: God's Pocket (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIGhe2BXlDSzeCjSudtjS7PYFqS.jpg"
+    },
+    {
+      "name": "SW: Ghost World (2001)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg"
+    },
+    {
+      "name": "SW: Dazed and Confused (1993)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg"
+    },
+    {
+      "name": "SW: Kung Fury (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MtMPSNYFMg33Rsp9wxnmqnnvPx.jpg"
+    },
+    {
+      "name": "SW: Flawless (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qENzVKfdyNBAwShcS0YhWeJe34M.jpg"
+    },
+    {
+      "name": "SW: 10 Rules for Falling in Love (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8znCT4c348FsUIvLihHaRSyFY4D.jpg"
+    },
+    {
+      "name": "SW: Chameleon Street (1991)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSCOaTdPtzNzPAzsvp0nOW5QocE.jpg"
+    },
+    {
+      "name": "SW: The Making Of West Side Story (1985)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilGDpIv7uqbicXB7j6j4UV9h6e9.jpg"
+    },
+    {
+      "name": "SW: The Messenger (2009)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4fJyH7mMbasiFYwiw2nE7D6pMY.jpg"
+    },
+    {
+      "name": "SW: People I Know (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FsbWJq43lQGCIPxe8z3zBwEIkh.jpg"
+    },
+    {
+      "name": "SW: Kung Pow: Enter the Fist (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVsZ1hsJ9g11oCCav4N8ccp9bRw.jpg"
+    },
+    {
+      "name": "SW: Drop Dead Sexy (2005)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tayw6WFLQtDlOmOi472BYhciHTI.jpg"
+    },
+    {
+      "name": "SW: All Inclusive (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFvwfaHpm8AJ9oWz1q3EVZfa7Rg.jpg"
+    },
+    {
+      "name": "SW: River's Edge (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Jk5jluYpZ6jcaZZxNHp4eaQzTD.jpg"
+    },
+    {
+      "name": "SE: Gone in Sixty Seconds (2000)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fToQDmkBtiXYGh9xfgAh3gpo6GZ.jpg"
+    },
+    {
+      "name": "SE: The Paperboy",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEQZW279igbQpgQ0SwKuxzxV8UU.jpg"
+    },
+    {
+      "name": "SE: Tequila Sunrise (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfMDWPg4rGsdSBJ4mhUpJxLsDT4.jpg"
+    },
+    {
+      "name": "SW: The Imitation Game (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg"
+    },
+    {
+      "name": "SW: Reine (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5bqzsbDhRqNr6pBUfhxop6OhBJ.jpg"
+    },
+    {
+      "name": "SW: Heaven on Earth (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xact7pnVcuXE8AfaMdnoKTj0yG.jpg"
+    },
+    {
+      "name": "SW: The Proposition (2005)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbSHSJuO5XjrIKMh6QXXLTg3Yzr.jpg"
+    },
+    {
+      "name": "SW: This Is Elvis (1981)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pJGeuZVtc9NSOpLude7Ce9tid3.jpg"
+    },
+    {
+      "name": "SW: The Fighter (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IRNqxoBmjs1jM2OKCLnT0KYXko.jpg"
+    },
+    {
+      "name": "SW: Cold in July (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i58D3vIxp7OF1bd5wLQ6Y67e3PL.jpg"
+    },
+    {
+      "name": "SW: Anything for Alice (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1Be5dlR0lj6ZRvugufEljBp2D5.jpg"
+    },
+    {
+      "name": "SW: Angel (1984)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLrOR7QqV5fZ9g85bGJL0s5cHTo.jpg"
+    },
+    {
+      "name": "SW: Tusk (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pA2SgITmH0lzet9Nn5cxeinRKMv.jpg"
+    },
+    {
+      "name": "SW: The Last Word (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvwBd0nsW5OqTs4ndEJLQY62leF.jpg"
+    },
+    {
+      "name": "SW: Lilet Never Happened (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SykDcyQKIxjR5U4HeLghbaZub2.jpg"
+    },
+    {
+      "name": "SW: A Knight's Tale (2001)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg"
+    },
+    {
+      "name": "SW: Your Highness (2010)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRz4sHYd2I52h0hLYz3GDHZXcfh.jpg"
+    },
+    {
+      "name": "SW: Red Army (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFP2rDfvymSAdVLXRUM6xF8RqPz.jpg"
+    },
+    {
+      "name": "SW: Arthur the King (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg"
+    },
+    {
+      "name": "SW: How I Live Now (2013)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/63TMTCmz6Z0qpE21CDgwwTrZAzI.jpg"
+    },
+    {
+      "name": "SW: Chapter 27 (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3RxLsF0Taoz8ukbu4TkKIU8vlx.jpg"
+    },
+    {
+      "name": "SW: Vampire in Brooklyn (1995)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fodPA5x3REtOwColG17CucreZqM.jpg"
+    },
+    {
+      "name": "SW: Into the Night (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZxAD48WjldWM6nXPA9AxOxZJAD.jpg"
+    },
+    {
+      "name": "SW: Hero (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJSDj8S0Fes1yhvxyomCQ1BmbtR.jpg"
+    },
+    {
+      "name": "SW: The Evil in Us (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hjpfY7faXYclLRK0DDPPWtShyp.jpg"
+    },
+    {
+      "name": "SW: Lords of London (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB6QoN9BlRnXEeN5KXiIuFthjnT.jpg"
+    },
+    {
+      "name": "SW: The Fall (2006)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3RKh7Gp2lDUnXQ0ZXq7xpdwA9e.jpg"
+    },
+    {
+      "name": "SW: Mad City (1997)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXb9KGqxyrAHNygRRI1HW1BhcU.jpg"
+    },
+    {
+      "name": "SW: Joe (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5L0nnWBe1FbxEZJmcaNFEoAb2a.jpg"
+    },
+    {
+      "name": "SW: Homesick (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuO7fTeecF5ngAVOvGmKFKd3W7H.jpg"
+    },
+    {
+      "name": "SW: All the Right Moves (1983)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8OSutSNEi84ROcqyV7Tu7p8xYg.jpg"
+    },
+    {
+      "name": "SW: Alison (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqjSn8jIEv33XiyVpOtKgjMFfXF.jpg"
+    },
+    {
+      "name": "SW: Home (2008)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Jq1IA3Z9NqlikWqBy7pgHiZyeJ.jpg"
+    },
+    {
+      "name": "SW: Operation Just Cause (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGylKfbeRqQWc6dwXCssId8kWgf.jpg"
+    },
+    {
+      "name": "SW: The King of Fighters (2009)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDI6PbIjeEdLUoPHGaZqDMV9Fdx.jpg"
+    },
+    {
+      "name": "SW: A Cinderella Story: Once Upon a Song (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awuuwPA8Hy9c5EH04xwkEXOSYiL.jpg"
+    },
+    {
+      "name": "SW: EverAfter (1998)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TspO5dThMBioF0DFrvy6YqrngH.jpg"
+    },
+    {
+      "name": "SW: Spun (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiwNobUsd29ooowQyTeh0cvPBFL.jpg"
+    },
+    {
+      "name": "SW: Peacock (2025)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxu9fLYB0yse0R1Flps98pZ2pQn.jpg"
+    },
+    {
+      "name": "SE: The Protector (Tom Yum Goong)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/original/2TnPbskwYHvdp2Cd4mgLqQ7lHjR.jpg"
+    },
+    {
+      "name": "SW: Virgin Territory (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUk6RN9lNVt9OHMKFhMTQu2yx1.jpg"
+    },
+    {
+      "name": "SW: How to Get Rid of the Others (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53pqNI7WTK33BFEck9n9mfhfKYM.jpg"
+    },
+    {
+      "name": "SW: The Lincoln Lawyer (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOn8Ve9Yi8fxjRkmLr5BZoOc7KV.jpg"
+    },
+    {
+      "name": "SW: Bobby (2006)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea6aSTUFQopOW7kWFZB9AvMYnbs.jpg"
+    },
+    {
+      "name": "SW: Happy Hunting (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvFE9RlFHTobOEceRyf9iQLPHSk.jpg"
+    },
+    {
+      "name": "SW: The Liability (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TdsXzigS6xYYO9Qn8oOQrZqX1M.jpg"
+    },
+    {
+      "name": "SW: The Lost Future (2010)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwP3xGH78aaNbGVFisFxx4LLuay.jpg"
+    },
+    {
+      "name": "SW: Bullets Over Broadway (1994)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg"
+    },
+    {
+      "name": "SW: A Few Good Men (1992)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLOk4z9zL1tTukIYV56P94aZXKk.jpg"
+    },
+    {
+      "name": "SW: The Ranger (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcymKyUg50iQwB3LgZPfgUJcUHC.jpg"
+    },
+    {
+      "name": "SW: Sneakers (1992)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg"
+    },
+    {
+      "name": "SW:  The Invisible Woman (2013)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qurTmuj36prAz4BG71hC9r2n02.jpg"
+    },
+    {
+      "name": "SW: Kinsey (2005)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gccERpyx9CF5QlCvD4exwcoVJP6.jpg"
+    },
+    {
+      "name": "SW: The Crossing Guard (1995)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kogaCIIylHmWQo2gJrrdq8Br8b8.jpg"
+    },
+    {
+      "name": "SW: Reign of Fire (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZVXCj3jXzIPJUHLaQohzt2uTM3.jpg"
+    },
+    {
+      "name": "SW: Obsessed (2009)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x98L6eO7MsvNmXFy8TNza9UdsFI.jpg"
+    },
+    {
+      "name": "SW: Fender Bender (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92VjZqSkaUDpXvrAiMZRGIxBFLU.jpg"
+    },
+    {
+      "name": "SW: Syriana (2005)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEDUGMdWuBBIc7MptqRH3cC5Ap8.jpg"
+    },
+    {
+      "name": "SW: The Last Seduction (1994)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK8IiJDkz2Tv6DwaK60vJVHKH85.jpg"
+    },
+    {
+      "name": "SW: Out of Time (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMExJ6RdJQmRMydvozhEBlOLX1m.jpg"
+    },
+    {
+      "name": "SW: Return to Sender (2004)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OZj98sFBQYYS48uIAWTP5siCkT.jpg"
+    },
+    {
+      "name": "SW: Tower Block (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXnHnjeMlkxDz6CUpoRcL7Sr2nI.jpg"
+    },
+    {
+      "name": "SW: Dead Silence (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvcUVdATIHKZt7BSSttUkKbeBXN.jpg"
+    },
+    {
+      "name": "SW: Spartan (2004)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcdhS2g1d38NOoeh0PPAN2bLE7w.jpg"
+    },
+    {
+      "name": "SW: Straightheads (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5W8jG9kt2UfEq8Tn0rb3BRaOPqe.jpg"
+    },
+    {
+      "name": "SW: Walking Tall (2004)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sdmKtRz2SlGSLxxZDePKm5zxus.jpg"
+    },
+    {
+      "name": "SW: Airhead! (2020)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WyUPgVM3UemWwbwyhivHGphOCl.jpg"
+    },
+    {
+      "name": "SW: The Imposter (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fq1MMkiKjCLUO0rZf8FL1JdjHAw.jpg"
+    },
+    {
+      "name": "SW: Lust (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/peR2LUS5UlMsKavSNiqXPSfsbTX.jpg"
+    },
+    {
+      "name": "SW: When Harry Met Sally... (1989)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg"
+    },
+    {
+      "name": "SW: High (2001)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgSK6QWZIMYbWQIEXQbYVPYzveK.jpg"
+    },
+    {
+      "name": "SW: Chariot (2013)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAk0sfohVqO0PCWFr9qBj3xxZOz.jpg"
+    },
+    {
+      "name": "SW: Becoming Jane (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHA6JEn57MBGp2yGFgYyopJvk2O.jpg"
+    },
+    {
+      "name": "SW: The Real Miyagi (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHjTftF3uXX941UBhuinhxfjocU.jpg"
+    },
+    {
+      "name": "SW: Antiviral (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/liMrNCgwWPARiiDoTJRRSAPq05Z.jpg"
+    },
+    {
+      "name": "SW: Nightwatch (1994)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLBn0MUMMeC71udetLOa1lP7eFL.jpg"
+    },
+    {
+      "name": "SW: Mongol: The Rise of Genghis Khan (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZ0yyU6BnRANXbYbDjrYI6XZFsz.jpg"
+    },
+    {
+      "name": "SW: Love Me If You Dare (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jwY4llYNzONpSwvdX4hH4q0nas.jpg"
+    },
+    {
+      "name": "SW: Disappearance (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PUmvxONOrKnHHPIJ75gRXopRpS.jpg"
+    },
+    {
+      "name": "SW: Four Shades of Brown (2004)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J7MM2AtEaZkuxdl1Jehdy2GyR2.jpg"
+    },
+    {
+      "name": "SW: I sällskap med en clown (1997)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tT5hUZpisMFyMMkshPdHq6soOBS.jpg"
+    },
+    {
+      "name": "SW: Arn: The Kingdom at Road's End (2008)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yu0RmSffk4sVeEGIRO1LSvtYvq.jpg"
+    },
+    {
+      "name": "SW: Gone, But Not Forgotten (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mvgICD1irRjZycWwfHal0P04Kj.jpg"
+    },
+    {
+      "name": "SW: Bang Gang (A Modern Love Story) (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F2SDyc8eZVqbZZo6kORJsfGcyT.jpg"
+    },
+    {
+      "name": "SW: Finders Keepers (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5817pI8hFBXqChubTM3XlHmVzpf.jpg"
+    },
+    {
+      "name": "SW: Don't Blink (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDqmVV2XzHcqGNC3p7atbeaZrqn.jpg"
+    },
+    {
+      "name": "SW: Dragonball Evolution (2009)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztlqrY7VgFIFmtzVsh3TPYiXCdF.jpg"
+    },
+    {
+      "name": "SW: Amar (2009)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGZgpYMBC3eIxQpYZt4DuZVAuek.jpg"
+    },
+    {
+      "name": "SW:  Never Back Down: No Surrender (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHVswTDHAvq9Npi0XCZ0qVMSiM2.jpg"
+    },
+    {
+      "name": "SW:  Creep (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qn53D574tT0YRyLgirEFHQwGUXw.jpg"
+    },
+    {
+      "name": "SW:  Kärlek deluxe (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/avX0MEEj4amwh83fnRof9L5EtBD.jpg"
+    },
+    {
+      "name": "SW:  Bratz (2007)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3nBTU0geb4PTvMMkjGICAlg7Uc.jpg"
+    },
+    {
+      "name": "SW:  Tower Heist (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQrroNwP8hbFiUlNMs20emauwPE.jpg"
+    },
+    {
+      "name": "SW:  Wake Wood (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MyqqrjE8MmjPoHEs93apxhSsBe.jpg"
+    },
+    {
+      "name": "SW:  Tsotsi (2005)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3ebTJFcDZ35GaKcuUQQe243z4f.jpg"
+    },
+    {
+      "name": "SW:  Babe (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OM28toCyxK8TwN4nDaE3ZQdxnx.jpg"
+    },
+    {
+      "name": "SW: Babe (1995)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg"
+    },
+    {
+      "name": "SW: Deceived (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xICrKtIr9za7DmHXqX9yqo7PTla.jpg"
+    },
+    {
+      "name": "SW: We Bought a Zoo (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcOvIqdsojUdAtWt1nPT9xS76Su.jpg"
+    },
+    {
+      "name": "SW: Emelie (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfb1kzY0V4j0KKPLYMfXEo3t3op.jpg"
+    },
+    {
+      "name": "SW: The Predator (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg"
+    },
+    {
+      "name": "SW: The Tree of Life (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg"
+    },
+    {
+      "name": "SW: Fathers and Daughters (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgzp7gGea27hN5d26mgKtZJQgX7.jpg"
+    },
+    {
+      "name": "SW: Breaking the Girls (2013)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uS5zSDRhSzdghcLP8bZOZcOURl.jpg"
+    },
+    {
+      "name": "SW: Amityville: The Awakening (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SBdbOkH3SgN6kEtUR2fxB5YCEb.jpg"
+    },
+    {
+      "name": "SW: The Amityville Curse (1990)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGTF4uusklWxN0kBBe3msPKPCrb.jpg"
+    },
+    {
+      "name": "SE: Amityville II: The Possession",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx9K2m2Arr5EZUQtmggKtEK1f2a.jpg"
+    },
+    {
+      "name": "SW: The Lord of the Rings: The War of the Rohirrim (2024)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg"
+    },
+    {
+      "name": "SW: Kazakh Khanate: Diamond Sword (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZYfkr0RXNriKRp3ViwoR8R7fwe.jpg"
+    },
+    {
+      "name": "SW: The General's Daughter (2006)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2jQgEju3G3UJjt0km5X3T1Kd5Y.jpg"
+    },
+    {
+      "name": "SW: Paddington (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpchRGhRhvhtU083PfX2yixXtiw.jpg"
+    },
+    {
+      "name": "SW: The Chef (2005)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGo9QvOXFiQOcGobsBvlpIdpoKr.jpg"
+    },
+    {
+      "name": "SW: Soaked in Bleach (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ScpSMDQvwi28Dro1xwSOcKCVln.jpg"
+    },
+    {
+      "name": "SW: Under the Skin (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/55wmcXJIDYITr7JDijJTdvwSaAv.jpg"
+    },
+    {
+      "name": "SW: Monte Walsh (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zQ4b28cAvV8sUNl40kBq6relH6.jpg"
+    },
+    {
+      "name": "SW: The Prophecy (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRuuGkkwWGEo4A8K8xOtr27B8HX.jpg"
+    },
+    {
+      "name": "SW: The Quiet American (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaSU6IiBWq8mS1KZqHhRhhJ1NeN.jpg"
+    },
+    {
+      "name": "SW: Katy Perry: Part of Me (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPW5Lmptt7z8rCYtVYjkpyjI3SY.jpg"
+    },
+    {
+      "name": "SW: Adventures in Odyssey: A Stranger Among Us (1998)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDc9c0DycuZrGIdio84maavo42V.jpg"
+    },
+    {
+      "name": "SW: 3 (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/51yC5u634uATN6tnMyX3KuIhLEZ.jpg"
+    },
+    {
+      "name": "SW: The Light Between Oceans (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9S6VKZPllNgdxBUuI3GYJiqcKO.jpg"
+    },
+    {
+      "name": "SW: The Back-Up Plan (2010)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fB6PxwdydGzdq5jSWrxwSMEqSFs.jpg"
+    },
+    {
+      "name": "SW: Katy Perry: Getting Intimate (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d81pQ8wXjScYfu5TJsr7RBrzjQR.jpg"
+    },
+    {
+      "name": "SW: Call Girl of Cthulhu (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wGr5pgOAv0jvUCMgPDhBbAKaAk.jpg"
+    },
+    {
+      "name": "SW: Beyond Rangoon (1995)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTiy5kSP3Hetig7xB4E8INq5ron.jpg"
+    },
+    {
+      "name": "SW: Dog Days (1970)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNxBsx7ZtplpmyNnWh83mcm8DCc.jpg"
+    },
+    {
+      "name": "SW: The Green Hornet (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YrRviphr3eXPus9iHyQX56QgIE.jpg"
+    },
+    {
+      "name": "SW: Scissors (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqKCnhlG8Mni4f5vcuGD8JeAdzq.jpg"
+    },
+    {
+      "name": "SW: The Disappearance of Alice Creed (2009)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJT7eXt09OffD4WBOvV7eGgL3Lt.jpg"
+    },
+    {
+      "name": "SW: Plankton (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdE0lTxS9W9uq0YNCEa8DJS9qnU.jpg"
+    },
+    {
+      "name": "SW: Drugstore Cowboy (1989)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bQXK39axyedUL6DE1pzdMYgAw1.jpg"
+    },
+    {
+      "name": "SW: Larry the Cable Guy: Health Inspector (2006)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVyfnRjssOeph5UeFguh8RL8kFo.jpg"
+    },
+    {
+      "name": "SW: The Greatest Showman (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg"
+    },
+    {
+      "name": "SW: Den enda vägen (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2LzmSS6MVcNHDS7ZdyOypu5Ki0.jpg"
+    },
+    {
+      "name": "SW: The Entity (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2PI16PXks6ZFTYBm8Bb0uGJmh2.jpg"
+    },
+    {
+      "name": "SW: The Cat's Meow (2001)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEVZa9EuApL5AQl2mE9NNAeCUix.jpg"
+    },
+    {
+      "name": "SW: Murder, She Wrote: A Story to Die For (2000)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV5tKDXtVYzRakUjqOZRMcq0R0q.jpg"
+    },
+    {
+      "name": "SW: Spy Time (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/93fz1SKHwqUdPjB73fKr9oG85QX.jpg"
+    },
+    {
+      "name": "SW: Stockholm, My Love (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceVENAmHyfMtMyKtovHTZZvB0Ln.jpg"
+    },
+    {
+      "name": "SW: Sami Blood (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSQWzjzmZONLGDPnzWa1e7xRfr8.jpg"
+    },
+    {
+      "name": "SW: Alive and Kicking (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xai2jrRiRZWhFCyxu905HUkd2S.jpg"
+    },
+    {
+      "name": "SW: Maze (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWEF3a1qErRIjmLW0xU28zAgV9D.jpg"
+    },
+    {
+      "name": "SW: The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIDOtXucNE2F1mwTyw6JB8m74wU.jpg"
+    },
+    {
+      "name": "SW: Tom of Finland (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9I1qNliGbbfKoZleqSHB9wV8kku.jpg"
+    },
+    {
+      "name": "SW: Beauty and the Dogs (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv8EAeWoIlwVwUVFwIkBQUt0jk4.jpg"
+    },
+    {
+      "name": "SW: Veni Vidi Vici (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://www.freepnglogos.com/uploads/film-reel-png/film-reel-the-movies-owens-valley-12.png"
+    },
+    {
+      "name": "SW: Room 213 (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/daKOkVVIhqxwtOMRA0H15xOYfdb.jpg"
+    },
+    {
+      "name": "SW: Bobbi Jene (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MhC0M5ijVkEgtuvLEanihLEs2j.jpg"
+    },
+    {
+      "name": "SW: World of Darkness (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAmNytQlOubMNM3JChoa6mnKxk3.jpg"
+    },
+    {
+      "name": "SW: Borg vs McEnroe (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jdg8VxleYb1DhPiEfHM7DzfvGw.jpg"
+    },
+    {
+      "name": "SW: Avicii: True Stories (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52Q4HLe2U79O1QkskIy2JdEyeEv.jpg"
+    },
+    {
+      "name": "SW: Becoming Astrid (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEbu8tFPSyM4zt9dPJjeFj3qwlF.jpg"
+    },
+    {
+      "name": "SW: Stupid Young Heart (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pn3J0siei0qYunkKZD23ch0nvYq.jpg"
+    },
+    {
+      "name": "SW: The Wild Pear Tree (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QNUj1e6MdyuRKxWg4v2riG97In.jpg"
+    },
+    {
+      "name": "SW: Videoman (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xi2g2hoUnJsCtCrIJAmZvVKj82H.jpg"
+    },
+    {
+      "name": "SW: Intrigo: Death of an Author (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vseP40ZhVrqHD4Mdyf6Z1jy8pg.jpg"
+    },
+    {
+      "name": "SW: Chappaquiddick (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkTD7ufZd7AqAnZP5IMnrQXKRpM.jpg"
+    },
+    {
+      "name": "SW: Ted: Show Me Love (2022)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt2GswqXA6mnwhcjGYYL3IJO9H.jpg"
+    },
+    {
+      "name": "SW: Vultures (2022)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ivd252JD5O20bDqHYPs9uxITAE.jpg"
+    },
+    {
+      "name": "SW: Euphoria (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anw3eLdNVRXafpYktwRzAGd6sPW.jpg"
+    },
+    {
+      "name": "SW: The Wrong Real Estate Agent (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Sz5nlJENX4Yoc0vRkMZPrOPy9h.jpg"
+    },
+    {
+      "name": "SW: Laugh or Die (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L0QhTjs5dmOxbPUt5GCsrn0OF1.jpg"
+    },
+    {
+      "name": "SW: Spinning Man (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg"
+    },
+    {
+      "name": "SW: Draug (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PtIw0roIIRJGh8Al7Zh1o5JHOw.jpg"
+    },
+    {
+      "name": "SW: Old Boys (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMSHj79w2JDq9inYiCjYoLbCfGy.jpg"
+    },
+    {
+      "name": "SW: The Wife (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zDB2tIYwfMSmNpgARHbDKpPgdg.jpg"
+    },
+    {
+      "name": "SW: And Breathe Normally (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPdCkHimzA3cem2aeRbioecUXO9.jpg"
+    },
+    {
+      "name": "SW: Border (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYB4ajZaftoL5LCRsYirAfcj7vj.jpg"
+    },
+    {
+      "name": "SW: Our Time (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/feiz8PKCILfMY5SOBFbIq2ZstKS.jpg"
+    },
+    {
+      "name": "SW: The Purity of Vengeance (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTdaeGpznkLfyhAzLlrdssD621R.jpg"
+    },
+    {
+      "name": "SW: The House That Jack Built (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMUGNkPaHOurcBK9g3XpJx3fxuO.jpg"
+    },
+    {
+      "name": "SW: Blood Paradise (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlRgnrpXaUYhTV9eN3gyR3ydd8p.jpg"
+    },
+    {
+      "name": "SW: Holiday (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NU063sVE2Y3zNg8isOIG5RSrDL.jpg"
+    },
+    {
+      "name": "SW: The Girl in the Spider's Web (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4ibr8R702DCjwYniry1D1XwQXj.jpg"
+    },
+    {
+      "name": "SW: Britt-Marie Was Here (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u12KThfDZpBGQ98Qg7ahWvMV9gq.jpg"
+    },
+    {
+      "name": "SW: Life Overtakes Me (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uv4a1MntQA8pydnTTf3iICEFcHB.jpg"
+    },
+    {
+      "name": "SW: Lemonade (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWF9iNLSiBIJ9AfC04HefNnvWSy.jpg"
+    },
+    {
+      "name": "SW: Lords of Chaos (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2eOIfQw2lLZov6aJZ3xpPjnRHH.jpg"
+    },
+    {
+      "name": "SW: Aniara (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEpEJe8NTmwWL0hwYkZguTzEqzt.jpg"
+    },
+    {
+      "name": "SW: Monos (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxxIOWDP6beG37VG3jMxE77pRwC.jpg"
+    },
+    {
+      "name": "SW: Amundsen (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvz9rsCnqq1F0MauURPzps11Y6S.jpg"
+    },
+    {
+      "name": "SW: Hope (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnxclzMyoIXB9qurcVCTJmt0R5C.jpg"
+    },
+    {
+      "name": "SW: Queen of Hearts (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfFVDIgovEfQZn53VRKLV2JQnRJ.jpg"
+    },
+    {
+      "name": "SW: The Dead Don't Die (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgGzTEoNxptCRtEOpOPvIEdlxAq.jpg"
+    },
+    {
+      "name": "SW: The Birdcatcher's Son (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAJXGn3LEb4hlekd1dPeQowgtPs.jpg"
+    },
+    {
+      "name": "SW: Beast (2022)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg"
+    },
+    {
+      "name": "SW: Divine Love (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vFlT0g66zZeqnrAFeNPsHNrKZW.jpg"
+    },
+    {
+      "name": "SW: And Then We Danced (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHHKSPE2LzUTV8oi420lSmDKqgc.jpg"
+    },
+    {
+      "name": "SW: Andrey Tarkovsky. A Cinema Prayer (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEyoKUDB1tZW7YczjNcFHEQHql5.jpg"
+    },
+    {
+      "name": "SW: Call of the Unseen (2022)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/peuL3gyrAsLNiZLSr6SE0NJeBNv.jpg"
+    },
+    {
+      "name": "SW: Hilma (2022)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Akc1svle4eI2wLqXI11V3BNtsdc.jpg"
+    },
+    {
+      "name": "SW: Passion (2013)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9DoB4Rsuc8wdkSZCJWB6fq9QPP.jpg"
+    },
+    {
+      "name": "SW: Horizon Line (2020)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg"
+    },
+    {
+      "name": "SW: The Whistlers (2019)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9UIjhnD5QNyhXrA0nZMhRpod5b.jpg"
+    },
+    {
+      "name": "SW: The Roads Not Taken (2020)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg"
+    },
+    {
+      "name": "SW: The Man Who Sold His Skin (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1wRIwEttuWUByTm1wXsfCstNlh.jpg"
+    },
+    {
+      "name": "SW: Another Round  (2020)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTNjM2Y2ZjgtMDc5NS00MDQ1LTgyNGYtYzYwMTAyNWQwYTMyXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_.jpg"
+    },
+    {
+      "name": "SW: The Mole: Undercover in North Korea (2020)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mA76drf6b9UdtbIJDBU5hci8QPu.jpg"
+    },
+    {
+      "name": "SW: Nelly Rapp – Monster Agent (2020)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x90uEqfpj0voiXOSxBWWrp8yX0h.jpg"
+    },
+    {
+      "name": "SW: The Worst Person in the World (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg"
+    },
+    {
+      "name": "SW: A Chiara (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ak0AM4lpmmkUkT0kXmRdjjxfa7h.jpg"
+    },
+    {
+      "name": "SW: Last Man Down (2022)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg"
+    },
+    {
+      "name": "SW: Costa Brava, Lebanon (2022)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hr5QMxRIR7BK6k1OeAucXEfjCN.jpg"
+    },
+    {
+      "name": "SW: Red Dot (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZ2KER2gOHbuHP2GJoODuXDSZCb.jpg"
+    },
+    {
+      "name": "SW: The Redneg (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9S0l873nhtqiIMD1ewZQFg3WfE4.jpg"
+    },
+    {
+      "name": "SW: Emily & The Magical Journey (2020)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/flvrFmKQrjbOCguhBu8sEpVJmBF.jpg"
+    },
+    {
+      "name": "SW: Undergods (2020)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5XD1Y96MGZpUDml7WomYkvSyxD.jpg"
+    },
+    {
+      "name": "SW: Flee (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg"
+    },
+    {
+      "name": "SW: Bergman Island (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg"
+    },
+    {
+      "name": "SW: The Most Beautiful Boy in the World (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNlnSwj34gemONfbBxaG8Trd1vR.jpg"
+    },
+    {
+      "name": "SW: Wolves (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3a4YYmFf6BsKirzqPfmfPLHgS8r.jpg"
+    },
+    {
+      "name": "SW: Wind River (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pySivdR845Hom4u4T2WNkJxe6Ad.jpg"
+    },
+    {
+      "name": "SW: War Dogs (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg"
+    },
+    {
+      "name": "SW: Valerian and the City of a Thousand Planets (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfIpMh79fGRqYJ6PwZLCntzgxlF.jpg"
+    },
+    {
+      "name": "SW: Unlocked (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg"
+    },
+    {
+      "name": "SW: Under the Shadow (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsHpzc7mVbJfZBaD0EISJkm3f3H.jpg"
+    },
+    {
+      "name": "SW: Two Is a Family (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFgtdhuzgI2eqnIVWtRB03x3pnt.jpg"
+    },
+    {
+      "name": "The Trip to Spain (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74RSdBGWdtbdClQ2NGJeTTyO7fq.jpg"
+    },
+    {
+      "name": "SW: The Super (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1No4DWiCA7QiVwz3CghUQ6X8PMJ.jpg"
+    },
+    {
+      "name": "SW: The Secret Life of Pets (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJo9G56QlXKRe2tcdDVSt28xVsP.jpg"
+    },
+    {
+      "name": "SW: The Rendezvous (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNCbVofhPs1bKlfQBNvylP9YXKa.jpg"
+    },
+    {
+      "name": "SW: The Quake (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg"
+    },
+    {
+      "name": "SW: The Postman (1997)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/piVzOuKFLHNGLxnjwNtibC26lTy.jpg"
+    },
+    {
+      "name": "SW: The Padre (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaj41iC7bRdouW2xnL9shBKR0kl.jpg"
+    },
+    {
+      "name": "SW: The Osiris Child (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sx69bH2n2tgvknvq2VROJ6lEXS.jpg"
+    },
+    {
+      "name": "SW: The Nun (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg"
+    },
+    {
+      "name": "SW: The Night Watchmen (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Wek0wClgNPw1dxT4rVlyq1Atp.jpg"
+    },
+    {
+      "name": "SW: The Night of the Virgin (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IhSg77XsqcrAtYYiS8Xts72nQz.jpg"
+    },
+    {
+      "name": "SW: The Neighbor (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cd87Ia8CvpPxVyVp6EpI3XcT0n.jpg"
+    },
+    {
+      "name": "SW: The Meg (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg"
+    },
+    {
+      "name": "SW: The Equalizer 2 (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg"
+    },
+    {
+      "name": "SW: The Big Sick (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qquEFkFbQX1i8Bal260EgGCnZ0f.jpg"
+    },
+    {
+      "name": "SW: The Accountant (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nztAld019tFjllW7VCJvPFiFkt8.jpg"
+    },
+    {
+      "name": "SW: Stratton (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mibBHS9mVV2z5rdeFdOkH94Sw1c.jpg"
+    },
+    {
+      "name": "SW: Spoor (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a3rRg9hMp1swcejSGbUSDdSFl1.jpg"
+    },
+    {
+      "name": "SW: Solo: A Star Wars Story (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg"
+    },
+    {
+      "name": "SW: Snatched (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsleO1KultziWltEAngAEZkxQhf.jpg"
+    },
+    {
+      "name": "SW: Sleight (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLk7yoWxK4S0xkV24YWoPKbIsbf.jpg"
+    },
+    {
+      "name": "SW: Sleepless (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WkUSY33MDPGmz0vtzbsfaxTHVa.jpg"
+    },
+    {
+      "name": "SW: Security (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FN5n8wGYrfSJaKGF9uObdKimIh.jpg"
+    },
+    {
+      "name": "SW: San Andreas Quake (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dx0K5ZbdhQDfcyBqqHJFH1OW71.jpg"
+    },
+    {
+      "name": "SW: The Stig-Helmer Story (2011)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM3A3qBAXcyGUwq29kdij0nxgbN.jpg"
+    },
+    {
+      "name": "SW: Snowroller (1985)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EnsIGAfIJs7b083yZcw7SWtSgi.jpg"
+    },
+    {
+      "name": "SW: Swedes at Sea (1988)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tI0AHXooAbubqd4cDQapAv5xTmJ.jpg"
+    },
+    {
+      "name": "SW: The Health Journey (1999)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSUK8HNVfvEbJP6oWhCpxltEBjv.jpg"
+    },
+    {
+      "name": "SW: The Accidental Golfer (1991)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmcWIVrAZLreCapAjp02bQOHp7y.jpg"
+    },
+    {
+      "name": "SW: Bakom Sällskapsresan III (1989)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUlW4yd1ugM9KLU1ghnN6YPqPKD.jpg"
+    },
+    {
+      "name": "SW: Sahara (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXD1hZywTqk1ak3tH5Hqfby0iUk.jpg"
+    },
+    {
+      "name": "SW: S.W.A.T.: Under Siege (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGcDltZ2aUgLV7oFxGlpO1oGmc0.jpg"
+    },
+    {
+      "name": "SW: Robinson Crusoe (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NwKjz1FyPNZK6j4OBzpzohcvvF.jpg"
+    },
+    {
+      "name": "SW: Road (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VV5Ba6rq2blKHx76P55rfN9WXo.jpg"
+    },
+    {
+      "name": "SW: Revolt (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg"
+    },
+    {
+      "name": "SW: Pelé: Birth of a Legend (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1XoAl8TJi7zbKO3GUzRUBrpSxq.jpg"
+    },
+    {
+      "name": "SW: Butterfly (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpBH3lu9IqYs0BChZfOzSiKkkoe.jpg"
+    },
+    {
+      "name": "SW: East of Sweden (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2exxtN2XWQX9Npyfw03ClYFujRy.jpg"
+    },
+    {
+      "name": "SW: Operation Dunkirk (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJZcdzN7J6x1240pM1eJT6Ic7Oe.jpg"
+    },
+    {
+      "name": "SW: Ocean's Eight (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MvYpKlpFukTivnlBhizGbkAe3v.jpg"
+    },
+    {
+      "name": "SW: Nero (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nl9ASqbLPjoReYWqkELIfAlXd83.jpg"
+    },
+    {
+      "name": "SW: My Little Pony: The Movie (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FAkwIBnd5eGlSJBrJfJVMWAbhI.jpg"
+    },
+    {
+      "name": "SW: Mune: Guardian of the Moon (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWjm8AH9YqkRUR2yf4y1mDIvj0O.jpg"
+    },
+    {
+      "name": "SW: mother! (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yOKarmL8B4oXaLXUdHu882SUbu.jpg"
+    },
+    {
+      "name": "SW: Moana (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JeejGugONWpJkbnvL12hVoYEDa.jpg"
+    },
+    {
+      "name": "SW: Miss Peregrine's Home for Peculiar Children (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lSkpu2SDj71KTBy2DllM6CaFYA.jpg"
+    },
+    {
+      "name": "SW: Mile 22 (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg"
+    },
+    {
+      "name": "SW: Max Steel (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuEzNLF8yvzd169guYEFisqvy5z.jpg"
+    },
+    {
+      "name": "SW: Master of the Drunken Fist: Beggar So (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82TPqtDsJObgSRwZpmfzgpgGfEf.jpg"
+    },
+    {
+      "name": "SW: Måste Gitt (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYxg1EpOCf2tuWrRQL55PpOCti1.jpg"
+    },
+    {
+      "name": "SW: Love Beats Rhymes (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPqzTaS905V3ZUbc5297YrWEPAd.jpg"
+    },
+    {
+      "name": "SW: Logan Lucky (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg"
+    },
+    {
+      "name": "SW: Young Jönsson Gang Showing Off (1997)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyA8ITfknEPmc2ypcMbiQ5VQagM.jpg"
+    },
+    {
+      "name": "SW: Young Jönsson Gang at Summer Camp (2004)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHhpLCjx6n81IO5u7UnL1ObrxqP.jpg"
+    },
+    {
+      "name": "SW: Lilla Jönssonligan & stjärnkuppen (2006)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDa83IDTAeCCJkJxssXLdu8FxjY.jpg"
+    },
+    {
+      "name": "SW: Lego Scooby-Doo!: Haunted Hollywood (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6g6Ojk2SwUkSZSDzmktg7UnEy.jpg"
+    },
+    {
+      "name": "SW: LEGO Scooby-Doo! Blowout Beach Bash (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oryn9TbZE1vmlFkcFLYfZkx8CyB.jpg"
+    },
+    {
+      "name": "SW: Ninjago: Masters of Spinjitzu - Day of the Departed (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZM1tYuARngZdZMHSYPdU6zuA5N.jpg"
+    },
+    {
+      "name": "SW: Kops (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Pdqq8QlTKrZ5mf9MqQqBfBWfrG.jpg"
+    },
+    {
+      "name": "SW: Kingsman: The Golden Circle (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg"
+    },
+    {
+      "name": "SW: King Arthur: Legend of the Sword (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg"
+    },
+    {
+      "name": "SW: Kedi (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7SB4YELcuVGUMIXeunWZ8rbx4h.jpg"
+    },
+    {
+      "name": "SW: Tatu and Patu: An Oddsville Christmas (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1cmnjDCvesyh9mL2U6doFJyyjI.jpg"
+    },
+    {
+      "name": "SW: Beware of the Jönsson Gang (1981)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkW9DJAeGzMnOWCDcCX2hEWe9y2.jpg"
+    },
+    {
+      "name": "SW: Jönssonligans största kupp (1995)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JsF0brH28vzPIBZG0w95Pu7xKJ.jpg"
+    },
+    {
+      "name": "SW: Jönssonligan spelar högt (2000)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gq3I1pXZGP0i24NREeDqU8M7upV.jpg"
+    },
+    {
+      "name": "SW: The Jönsson Gang in Mallorca (1989)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJyOupPvVi3f8dFnctDtekSEgs1.jpg"
+    },
+    {
+      "name": "SW: The Jönsson Gang & Dynamite Harry (1982)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnwoaPImq7OJBUuIAxbEH0tpllC.jpg"
+    },
+    {
+      "name": "SW: Jönssonligan & den svarta diamanten (1992)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/roBuy1SMdTl805lEroaXO64rfKB.jpg"
+    },
+    {
+      "name": "SW: The Jönsson Gang Gets Gold Fever (1984)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tbPYgBRvgjxX4dAkgo5eNHR0bX.jpg"
+    },
+    {
+      "name": "SW: The Jönsson Gang Turns Up Again (1986)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zz2lW37nwwl7wGBq7m9g85Q9jXx.jpg"
+    },
+    {
+      "name": "SW: Johan Falk: Organizatsija Karayan (2012)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cNfhaCFKAwDoWlEzrykylERQ2H.jpg"
+    },
+    {
+      "name": "SW: Johan Falk: Ur askan i elden (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1trQY5Q02a8N4ClCqmTMjRSgHFg.jpg"
+    },
+    {
+      "name": "SW: Johan Falk: Slutet (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5B441WwNm37dhOIYbAMIoivHcj.jpg"
+    },
+    {
+      "name": "SW: Johan Falk: Lockdown (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3Vy1xf2ucwGmQ3LW008DO13Out.jpg"
+    },
+    {
+      "name": "SW: The Third Wave (2003)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/phF8dOum1JvVZICIdhaduyY4TE5.jpg"
+    },
+    {
+      "name": "SW: Johan Falk: Blodsdiamanter (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXx81KJbBG1aYnRBKoQSDD1DF19.jpg"
+    },
+    {
+      "name": "SW: The Best Man's Wedding (2000)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwx3W0NAv7OOgODBoYHh62yaKDs.jpg"
+    },
+    {
+      "name": "SW: Jack Reacher: Never Go Back (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxLUQ1pIms3HAlVGYvEG9zg2kDs.jpg"
+    },
+    {
+      "name": "SW: It (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
+    },
+    {
+      "name": "SW: In the Forest of Huckybucky (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4lEPLYE46bXGoKbCYKDM2P96GS.jpg"
+    },
+    {
+      "name": "SW: No One Will Hurt You (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qy35rJK9whEVOGyTJQRiTn8C9ij.jpg"
+    },
+    {
+      "name": "SW: ID2: Shadwell Army (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVMdkwgBuZt6bDiEYhyRNm471LZ.jpg"
+    },
+    {
+      "name": "SW: Max & Josef - Double Trouble! (2004)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLHsSnxXxHTId90QjHZ4630suIX.jpg"
+    },
+    {
+      "name": "SW: London Heist (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLReQvpgnx4yqZAEyi56g73uDiO.jpg"
+    },
+    {
+      "name": "SW: Ghost Patrol (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/exDpjs3OsGGExjLCEGadPuiiZxX.jpg"
+    },
+    {
+      "name": "SW: Free Fire (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/olpgs0OPE8sdBGcuuWhKYzxAwN4.jpg"
+    },
+    {
+      "name": "SW: The Girl Who Played with Fire (2009)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g89KcTXKf3bLdfOiJqW8n6uCIhu.jpg"
+    },
+    {
+      "name": "SW: Fireman Sam: Alien Alert! The Movie (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2kF15ypgxj57Rkm2YvFNfmBaOR.jpg"
+    },
+    {
+      "name": "SW: Finding Dory (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg"
+    },
+    {
+      "name": "SW: Farsan (2010)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5kPr528GbRHmoKkfksNcRgRa7G.jpg"
+    },
+    {
+      "name": "SW: Eat Locals (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xU2UPkvNV87XQlOfekzJ3rsxhuC.jpg"
+    },
+    {
+      "name": "SW: Dunkirk (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebSnODDg9lbsMIaWg2uAbjn7TO5.jpg"
+    },
+    {
+      "name": "SW: The Unthinkable (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/470k2PqJSFTzRCM2XLS35nPKmfA.jpg"
+    },
+    {
+      "name": "SW: Dead Trigger (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xN5NWwTzTcTHRICad5gQEcjzGPG.jpg"
+    },
+    {
+      "name": "SW: Days of Power (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlX3EHiQBQeVbMpujhPZ5uCQnqL.jpg"
+    },
+    {
+      "name": "SW: Day of Reckoning (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQOrFfaFTtSSmOtDCSM2EzHguOq.jpg"
+    },
+    {
+      "name": "SW: Daddy's Home (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1vHhJFZAbFMLoK4UC8PQqQ7sRn.jpg"
+    },
+    {
+      "name": "SW: Bright (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg"
+    },
+    {
+      "name": "SW: Bling (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi7IGacb4x1j9GIamPc4wYOGaQv.jpg"
+    },
+    {
+      "name": "SW: Blame! (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSAlpVXRXcj6Fj6c9guA7PzOkTV.jpg"
+    },
+    {
+      "name": "SW: Blade: Trinity (2004)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ2fyewqYDNmcUN18m8XbRGWgIM.jpg"
+    },
+    {
+      "name": "SW: Blade Runner 2049 (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+    },
+    {
+      "name": "SW: Blade II (2002)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vulF0iqX5z7AW1pdZ572zwsMRMB.jpg"
+    },
+    {
+      "name": "SW: Blade (1998)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6ErRnIgKmoBtcKpht3amsMfo52.jpg"
+    },
+    {
+      "name": "SW: Black Site Delta (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqY1NVU3aOwjuprBd0Syz9jZgsy.jpg"
+    },
+    {
+      "name": "SW: Black Panther (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"
+    },
+    {
+      "name": "SW: BlacKkKlansman (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg"
+    },
+    {
+      "name": "SW: The Son of Bigfoot (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg"
+    },
+    {
+      "name": "SW: The Beta Test (2021)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSk3TkqPMWvzlwRBtejZ1UzMhgf.jpg"
+    },
+    {
+      "name": "SW: Bergman: A Year in a Life (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uaqyt9GhBDNoh8XFsFYO9tQ5Pl.jpg"
+    },
+    {
+      "name": "SW: Below Her Mouth (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPhBftWySbanfEialbsUzOuccgN.jpg"
+    },
+    {
+      "name": "SW: Becker - Kungen av Tingsryd (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcHlm3bTMVtepTCYlW8JKfrWmhv.jpg"
+    },
+    {
+      "name": "SW: Beck 32 - Steinar (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9TLJaHw9ET0V3GRFG8Nd8Tj707.jpg"
+    },
+    {
+      "name": "SW: Beck 30 - The Hospital Murders (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC1kNRs1qlDFD69xWMfDvCaS624.jpg"
+    },
+    {
+      "name": "SW: Beauty and the Beast (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWqifoYuwLETmmasnGHO7xBjEtt.jpg"
+    },
+    {
+      "name": "SW: Batman: Return of the Caped Crusaders (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cD6F54DWuj7X2H5yNvl2Tx1gKbP.jpg"
+    },
+    {
+      "name": "SW: Bamse and the Thief City (2014)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAECqhkveOdOvlERm9jCDCUXaTz.jpg"
+    },
+    {
+      "name": "SW: Bamse and the Witch's Daughter (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Nxjp6UDqfen4LvbNEfWbXNuIyl.jpg"
+    },
+    {
+      "name": "SW: Balto (1995)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg"
+    },
+    {
+      "name": "SW: Atomic Blonde (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg"
+    },
+    {
+      "name": "SW: Astrid Lindgrens jul (1999)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtWaxO28PdXocbpoCiOmkrjfR6e.jpg"
+    },
+    {
+      "name": "SW: Peter and Petra (1989)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXZ7Q81h2IHaWAsEUHiiP2x7W3T.jpg"
+    },
+    {
+      "name": "SW: More About the Children of Noisy Village (1987)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUOOU0Bh8OwA7dOwI4BjSIXWHoO.jpg"
+    },
+    {
+      "name": "SW: Kalle Blomkvist Lives Dangerously (1996)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qIT6ycHgGn759FMy2Y6agHGoqW.jpg"
+    },
+    {
+      "name": "SW: Nils Karlsson Pyssling (1990)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEgkIQ64RIZ18rw9Fk2rCW3Yxm4.jpg"
+    },
+    {
+      "name": "SW: The Brothers Lionheart (1977)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/giPbP2p6R2pnIIETAEmWWhZ4jVJ.jpg"
+    },
+    {
+      "name": "SW: A Stork's Journey (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKwgGlhdhdbx0duJhCRojkEZXgU.jpg"
+    },
+    {
+      "name": "SW: AmeriGeddon (2016)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7kYq9vNE1pCDEnnrvIJyqFyj0K.jpg"
+    },
+    {
+      "name": "SW: American Made (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg"
+    },
+    {
+      "name": "SW: American Assassin (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6vjeHx3UEaBXIyc8VFqyZYKznD.jpg"
+    },
+    {
+      "name": "SW: A Man Called Ove (2015)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DBMfL397QIvZQoTDe9JmwIa1v9.jpg"
+    },
+    {
+      "name": "SW: Alpha (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/afdZAIcAQscziqVtsEoh2PwsYTW.jpg"
+    },
+    {
+      "name": "SW: All Inclusive (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfsESs3zqx1BXxmqGY4uXHfnalU.jpg"
+    },
+    {
+      "name": "SW: Alien Convergence (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96xgOCz2li0IiqKYcLQh5bK7CiU.jpg"
+    },
+    {
+      "name": "SW: A-X-L (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg"
+    },
+    {
+      "name": "SW: 211 (2018)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg"
+    },
+    {
+      "name": "SW: 9 millimeter (1997)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9UiHs0t6LBlxiCaO2eamINXp4E.jpg"
+    },
+    {
+      "name": "SW: 6 Days (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRbC0uRj1RDmF0JLon83il2dkR0.jpg"
+    },
+    {
+      "name": "SW: Bon Cop Bad Cop 2 (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXP6WjVJGeZuqVQJVMMAf8CeGma.jpg"
+    },
+    {
+      "name": "SW: All Saints (2017)",
+      "group": "SW - Sweden Movies",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIE5BafMU0gPYOqBSiYzTxmHqGM.jpg"
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+{
+  "package": "world",
+  "name": "HU - Horror Movies",
+  "groupIndex": 348,
+  "totalChannels": 162,
+  "channels": [
+    {
+      "name": "HU: The Ugly Stepsister (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDAyZDdjZGEtNmZkZC00NzZiLWJhMmEtMDQ2NTVjMGFiNjg1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Black Demon (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjJjMTlkMDYtNTllNi00NWE2LWIyMzYtZjVhNmQwNzFhMTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Final Destination Bloodlines (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Zombik 4 Vámpírok hajnala (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/500ca26f-93be-4027-8a10-2d118612198e/compose?aspectRatio=1.78&format=webp&width=1200"
+    },
+    {
+      "name": "HU: Zombik 3 (2022)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjEzYmUwMTktNzY1NS00MmZkLWI5N2QtNDU2Y2JmYjBkODdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Zombik 2 (2020)",
+      "group": "HU - Horror Movies",
+      "logo": "https://www.mafab.hu/static/2020/49/15/334498_1582121561.8121.jpg"
+    },
+    {
+      "name": "HU: Zombik (2018)",
+      "group": "HU - Horror Movies",
+      "logo": "https://www.mafab.hu/static/2018/35/23/305382_1517870148.7046.jpg"
+    },
+    {
+      "name": "HU: Ziam (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZDdlN2Q0ZjktNWI3Ny00NGYzLWJmNmItN2Y3YmNhMmZmNjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Sting (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWNkZDM5MjktNGI5Yi00NWE3LWI5ODEtM2E4YzNiYmM0ZDcwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Case 39 (2009)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTA4NDUyOTE5NV5BMl5BanBnXkFtZTcwOTQ3NzY3Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th (2009)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTg1YzcwZDgtZmUzYi00NGI0LTlhN2YtNGMxZTI5MDc3ZmMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th IX (1993)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWVmZjc4YjYtYmY3Mi00MTY2LWIzMzctMjQ2MGEwNzE2YTZlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th VIII (1989)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODg3MThhYjUtYzFmOC00NmI4LTkzODgtMjgxN2M2NmE0ZjViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th VII (1988)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTA5ZTFlYzQtMWNmMS00ZDI4LTg4ZWQtNzYzNjFiYzQyODhjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th VI (1986)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjhmNDkwZTItNDFhZi00YWMyLWJjNTctNGE3M2MxNGRmMDMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th V (1985)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2IyZjc2YWYtMDQ3ZS00MzVlLTk1ZmUtYTdhMjhmMzY1OTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th IV (1984)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjE1N2NlMjctMmM5OS00NGUyLWFiNjYtNzM2MDJlOTUxODVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th III (1982)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzdkOWZiY2UtNjk0Zi00M2M4LWFjMjAtNGI4YmMzMTgyZTRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th II (1981)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjBkMGM2MDAtMjUwYS00ZjVlLWEzNGItZDJmOTA2YmE2NjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Friday the 13th (1980)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzI1ODZhNDctNTdjOC00Mzg2LTg1ZjktNjJkNjA2YzYxMGQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Until Dawn (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWU4NDY0ODktOGI3OC00NWE1LWIwYmQtNmJiZWU3NmZlMDhkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Monkey (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzZhMTc5MWUtOTE2MS00MjUwLTljYWEtYTk1ZmVjNzhmMzYzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Black Phone (2021)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjFhZTcxOTktMzllMS00MzIzLWJhODEtZDU5YTFkNzRjZWQyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Sinners (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Carriers (2009)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYwOTcxMzYxMl5BMl5BanBnXkFtZTcwODQyODQ3Mg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Carrie (1976)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Army of Darkness (1992)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzU4ZDFmNzEtNmE2Ny00OTA1LWEyMmMtZjFiOWM0MGM3YTQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The First Omen (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWU0ZjM1YjYtMGZkZi00NTBiLTgxMGItMzVhZDgyZTkyY2ZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Curse of the Necklace (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDM1YWM4MzgtMjFkMi00NGYwLWI0ZTMtOGFhMmJjMjU5MzEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Fear Street Prom Queen (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjJlMDJjZTctNDlkYi00YTNmLWIyZjUtZjdmZTFhNDQwMTQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Village of the Damned (1995)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjU0ZDMyOTgtNWU0YS00MjFmLWJjOTEtYjViMDI1NWUyMGE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Queen of the Damned (2002)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTYxNDEyMzEzMV5BMl5BanBnXkFtZTYwMDM1NjA3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Locked In (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMDhkYjUxNGMtZTk5Yy00MTZlLThlZTAtYjc5OGE5MTk1OGI4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: High Plains Drifter (1973)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmQyMDFjMDUtZGFiYy00MGFmLWI0MTctMzg1MTZhOThhMTFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Annabelle Comes Home (2019)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjRjYmQ5NTQtYzIyNi00MmNlLTlmNjYtNjQ3NzRlZmY3YjFlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Annabelle Creation (2017)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjA1MzIwMjMxNF5BMl5BanBnXkFtZTgwMDQ3NTc2MjI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Annabelle (2014)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjkyMDU5ZWQtZDhkOC00ZWFjLWIyM2MtZWFhMDUzNjdlNzU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Childs Play (2019)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzMwZTNkYzktM2EwYS00ZGZlLWJhNmQtZWNhMTBlMDUzOWRkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Cult of Chucky (2017)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTQ1YjZhOTYtYzljOC00ZjA4LWE2OWEtOWYwOWI4NDQyNjQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Curse of Chucky (2013)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjlkNTIzZGMtYmNlMC00NzY4LWFmYzYtYmE1MzZmMWU4MzE1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Seed of Chucky (2004)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTIwMTczMjc3M15BMl5BanBnXkFtZTcwODcxMzcyMQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Bride of Chucky (1998)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTk2OGE5MjktYjcyYS00M2QxLWE4YTYtYmNjYmE0M2I3ZDMxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Childs Play III (1991)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzc0NjExMTgtYTA4ZS00NWRiLWE3MzUtNTUyNDFkNGY3ODRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Childs Play II (1990)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmQ5ZWRhZmMtOWI0OC00OWMzLWIwNzgtMzYzNjNhZDEwNTE1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Childs Play (1988)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTc2M2FjMDMtYzBmNS00ODMxLWJjOTYtZmNkMDYxMTU5ZTBhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Arcadian (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: 28 Weeks Later (2007)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUxMjc2MTcxNV5BMl5BanBnXkFtZTcwMzgzOTY0MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Underworld Blood Wars (2016)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_.jpg"
+    },
+    {
+      "name": "HU: Underworld Awakening (2012)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Underworld Rise of the Lycans (2009)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Underworld Evolution (2006)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Underworld (2003)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWIwZjFkYjktZTI3My00YzhkLWI5NmUtZDYyMTg5ZWVmODZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Highway to Hell (1991)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWIzYTI3NDEtZWIzOS00NjBkLWI4MDQtMWJkYjRkZjRmMjdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Doctor Sleep (2019)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGUyNTg0NWItODdkZS00YWY0LTljNjItMDYwMTI1ZmZkMjExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Last Breath (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2Q3MjQ3ZjMtMmQ3My00MTNlLWI5NzEtYzJjMTE3OWQyNjQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: You Shall Not Sleep Tonight (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODRlZGMyOGUtYjU4YS00YWYzLTg3NjAtM2MyNTc3NGYyNzg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Shutter Island (2010)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Presence (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZWRmNzM1YjktM2YyMi00M2YwLWE2YjMtNjgwNTQ3MGU3MzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Heretic (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Handling the Undead (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzhhOTg4NTUtOGMyMi00OWFkLTg5MDctYTUzZGNkOGM0MWI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Witch (2015)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Thing (1982)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Shining (1980)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Popes Exorcist (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWFhZGRiNjItNjAzNC00NjdlLTk5YWUtOTNkNzYwMTE4YzA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Others (2001)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTNhODBkODAtNDllYy00YTg1LWJmNDUtYjgzMzEzOWQ0YWNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Mist (2007)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTU2NjQyNDY1Ml5BMl5BanBnXkFtZTcwMTk1MDU1MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Exorcist III (1990)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiZDQxNTAtNDg4Yy00OTc1LWI5NmQtODM5ODgzMzJmNDI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Exorcist II The Heretic (1977)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTQ4YTYwZTEtODA0Ni00MjQ3LTgxYmUtNWE1NzRkNGQ3NWE3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Exorcist (1973)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Cabin in the Woods (2011)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Split (2016)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTZjNmVjMzAtZjg2Mi00MWNmLTk5NTItOTExZDYwNTE2YmExXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Shaun of the Dead (2004)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Psycho (1960)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Midsommar (2019)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Jaws III (1983)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmY3YWZiMTAtZGYyYy00ODc3LTk5NjQtY2RhN2QwNzE2ZGI3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Jaws II (1978)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzAxN2Q5Y2UtMDBkZS00MGQwLWIyZDEtYTgyNGRlZmZiNjI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Jaws (1975)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Interview with the Vampire (1994)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzJlN2NiZDQtZmI4NC00ZWFiLWFmMTUtMWM4ODVlOGFlODY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: I Am Legend (2007)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGE1OWZkZmItNmVhMC00YzAxLTgxOTctNjg3NWExM2RmOWJkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Halloween Ends (2022)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzllZDYwNWMtYTU5Mi00NDVmLWE2YWQtMDZiZWFmOTcxZmJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Halloween Kills (2021)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTc0N2RmMWItZWFjNS00MWJmLWI5OTYtZTc1ZWExYThiYmUyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Halloween (2018)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2FlMzdkZTMtN2MwOS00NjQzLTlkMGYtMTRiYWUxZjM2M2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Halloween II (2009)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjE2OTEzODI0NF5BMl5BanBnXkFtZTcwMTE4MTY2Mg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Halloween (2007)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTMzOTg4MzcxNF5BMl5BanBnXkFtZTcwMzY5MDE1MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Halloween Resurrection (2002)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTlhMTRiNDYtZjc3My00MDZmLWE4N2YtMGQ3YzE5ZTFiYTY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Halloween H20 (1998)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTgyZjI3MWEtOWNiMS00ZDE3LWJmNjMtZjZhZWY4MmU5MzBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Halloween VI (1995)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTM3N2I3NTUtN2Y0Yy00NGYzLTllN2YtY2M5MzNhZjI5MTU0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Halloween V (1989)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTI2MWRkMzUtNGI2OC00MzA1LTkwMjEtZGRkOTk3ZjU1MjIxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Halloween IV (1988)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGQ2NzZhYjItMTYwNC00YzVhLWIwNzItMGEwM2M2ZDI3ZmNmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Halloween III (1982)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODRhZjBjNmUtYTcxOC00YzJmLTk3OTYtYTBiNzg5OGU5YmM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Halloween II (1981)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2M5ZGEwZjItODgwOC00OWM3LTliYmQtNzlmY2NmODE1MzAwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Halloween (1978)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Get Out (2017)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg"
+    },
+    {
+      "name": "HU: From Dusk Till Dawn (1996)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGNjMWMwNWEtYTQ2YS00N2E5LTg5ZWYtMDgzM2UxMTE1ZTE4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Cruel Jaws (1995)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2IzYjIyMzItY2IzNi00YmIzLTk5ZjQtZTA2Y2RmNDYwNzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Constantine (2005)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjNhNTlmYmYtYjcxZi00ZDU1LTkxMWYtYzFlMWMzY2RiODM1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: A Quiet Place II (2020)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjRiYjk4ZmItNGQ5NS00MmRhLTk4Y2EtMGQ1MTYxZWJhYjU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: A Quiet Place (2018)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: American Psycho (2000)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Aliens (1986)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: 10 Cloverfield Lane (2016)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Cloverfield (2008)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOWM3NmYyMjAtMjU3YS00MDJjLThmNDItNWUzZmFmMzk5NTEyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Train to Busan (2016)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Silent Hill (2006)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTczZmZlZmEtODU4ZS00YzgzLThiMDUtMGE0ZmJhYzdhZGY5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Exorcist Believer (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjMxN2E4NTctYjYxZi00OTM5LTk3YTAtZmI0MjljN2VhNmY5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Cats Eye (1985)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjFjYTM3ZWUtZDYxMi00Y2NkLWI1M2UtMGZiODI5NzM4ZjdlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Unsane (2018)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTYzMDYzMzA1MV5BMl5BanBnXkFtZTgwODUzODg2NDM@._V1_.jpg"
+    },
+    {
+      "name": "HU: Schlitter (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmNiNTBkZjEtMjc2YS00MzBmLWIxYzQtYzA4Yjk3OTgzMzY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Queen of Bones (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMzJkMTliODUtOGQ5Yy00OThjLWIwNGMtODgzNGQwMzc4ZjI5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Truth or Dare (2018)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmFkMmJhNzItNzllOS00NjBmLTgyNTgtZjQxZDExZmMyZGU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Intruder (2019)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTczMzc4NDY0MF5BMl5BanBnXkFtZTgwMjI3Njg3NjM@._V1_.jpg"
+    },
+    {
+      "name": "HU: Sleepy Hollow (1999)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYWIwMTIxZTQtNDZhNS00ZDZlLTg5MTEtOTNkMmNjOGUzMTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Red Rooms (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2JmOTRiNTctYmIzOC00ZDY1LTgzZmUtMzE1MmVmMjAxYTRkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: M3GAN (2022)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYjU1ZWMxYTUtNzQ1ZC00ZTcxLTg0NTMtMzY1ZmQyZjhmYjMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Five Nights at Freddys (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzFkMDE2ZmEtOWMwNy00MWM2LThlNjMtZWQzNWY5MTJjZjcxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Exorcism of Emily Rose (2005)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTI2NTM5MjQ0Nl5BMl5BanBnXkFtZTcwNDAxNjAzMQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Night Shift (2018)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZTBiZTQ1MGItNTgwNi00YzhlLWI0YjUtMGY0ZjE5NzI2ZDM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Belko Experiment (2016)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Talk to Me (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2I2NzJmY2YtYTM3Ni00ZGJhLThkZTItODFhMzhlZjZkMDQ5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: X (2022)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzQ2MzI5NjQtNmZjZC00ODFhLWE2MjQtNWE0NjljODc0ZGM3XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    },
+    {
+      "name": "HU: Follow Me (2020)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMGUzNjczZmUtMjc4ZS00ODgxLTgxNTUtODc1M2FmNzZmOTY4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Escape Room Tournament of Champions (2021)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTllOWY5NzUtMjcwNC00ODI5LTk1NjgtMTI1NWM4MDRmYmVhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Escape Room (2019)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjQ2NDMwMTY3MF5BMl5BanBnXkFtZTgwNDg5OTc1NjM@._V1_.jpg"
+    },
+    {
+      "name": "HU: Escape Room (2017)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZmIwY2MwZDItMDYwMy00ODgyLWIwYjItZmJmOWZhNzgzYTc1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Cube III Zero (2004)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2E2YzVmNDgtNjBhYi00NTNmLTgxMmItNjZlZGVjN2FkMzY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Cube II Hypercube (2002)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDg1Yzk1MzYtZWQ5OC00YWYyLWI2NjgtMzM1NzI3MjQyZDRkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Cube (1997)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYmYwYzA5NjgtMTg2MC00NDk0LTk5OTYtNjgyMWM4YWM4NDdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Conjuring III (2021)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNThkYWE3OGItNzAyNC00N2U4LThjY2QtMGQwYjZhYTI1MzMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Conjuring II (2016)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTRkMDlmZWEtMzQyYy00YzgyLTgwM2QtNzgxYmIwNGVlYmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Conjuring (2013)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Nun II (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNmJkYWIyYWYtNWVhZi00ZTkyLWExMTktZWUzNGE1MjNlNjQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Nun (2018)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_.jpg"
+    },
+    {
+      "name": "HU: Cocaine Bear (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjg3MmNiNWQtOWI1OS00MjE2LWFhYzYtMWY0NWRhZmVkMGFiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Rite (2011)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTcxNTAxMTMzNF5BMl5BanBnXkFtZTcwMjQ1MDAxNA@@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Purge (2013)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_.jpg"
+    },
+    {
+      "name": "HU: Infested (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNGMxYWM0NTYtNTYwZC00NjQ2LWI2NGMtYWQyZThmMDcwZmRjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Fresh (2022)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjZjOTBhNzgtMGUyMy00ZTJlLWFlMjQtYmMxNGE3YmViYWE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Nosferatu (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Hereditary (2018)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Wolf Man (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTAxYTE3ZDgtOGM0Zi00MzI1LThhMjUtN2M3NTdjNzMzMGNlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Never Let Go (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzM4Mzk1YjctMWFkYi00ZDdkLTk2MmQtMmExZDNlNGEyMjBjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Black Swan (2010)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_.jpg"
+    },
+    {
+      "name": "HU: It Chapter Two (2019)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzUxM2VhOGItZTY2My00OTA4LWI4NjUtMDA5YWJjM2M2NDJjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: It (2017)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BZGZmOTZjNzUtOTE4OS00OGM3LWJiNGEtZjk4Yzg2M2Q1YzYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: The Parenting (2025)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYTBlNDI1NDctYzU3Ny00NTFmLWI3MzctY2ZmZjNjNDI3ZmZiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Speak No Evil (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMWI2OWFjNjgtOTQ2Zi00MjlmLTg2MGYtNmE4MjMyZjIzMDA0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Eye for an Eye (1996)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BYzg3MDc5ZWEtMTc3Ny00YWEzLTlmMTgtMjk3NGJjMmNjOTYyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Dead Snow (2009)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMmZkOWI5NDgtODgyNi00MmFhLTlmYmEtNmEzNTZhMjlmZTQxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: 28 Days Later (2002)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Winnie the Pooh Blood and Honey II (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWM4ZjJhOTItNTAyNy00MjEwLTg4ZmItODkwMWZiNTA2ZDQ3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Winnie the Pooh Blood and Honey (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BOTA4NzE5NGQtNDI3MC00YWQ3LWFjNDItZTEzZjA1ZDY0NTRmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Platform II (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzI4YjkyODctMGJmNC00YjBjLTllNjAtNDkxNTJmZjg4MGZkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Platform (2019)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNTQ4MzVkZmMtMDIzNy00ZmVhLWIwNTQtMTBmY2ZlNmY1MjQxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: The Menu (2022)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BN2Q0YWE1MjktODJlMi00NTRiLWI2ZTctZTAxNjkyODVjM2EyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Pearl (2022)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNzk0Y2RlZjItZDUzYi00Y2JhLTk5MzMtNjgzYWFmZmUxN2FmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Last Night in Soho (2021)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODdhZjBmZTEtZmQyMy00NWY5LWJiMWQtODhjODFkZWZlMjMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Humanist Vampire Seeking Consenting Suicidal Person (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BODBhNTFiYzAtYWUzMy00YjZjLWEzMDItNzQyNDUyZjdiMjZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Barbarian (2022)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNWQ5MDgwMzMtNWZhMy00Y2Q4LWI5NTAtODA4MDIzYTExOGQzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "HU: Evil Dead Rise (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMjM1ZmViMmYtOGYzZC00YzhmLWE0MTMtMzNjYzcyNjEwYWRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Maxxxine (2024)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Sweeney Todd The Demon Barber of Fleet Street (2007)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BMTg3NjUxMzM5NV5BMl5BanBnXkFtZTcwMzQ1NjQzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "HU: Renfield (2023)",
+      "group": "HU - Horror Movies",
+      "logo": "https://m.media-amazon.com/images/M/MV5BNDY2MWVmMTUtMTBkMS00ZWI4LWFlMDQtYjE0ZWM2NTc2NWExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+}

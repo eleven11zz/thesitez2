@@ -1,0 +1,473 @@
+{
+  "package": "english",
+  "name": "USA - Sports - Live.",
+  "groupIndex": 52,
+  "totalChannels": 93,
+  "channels": [
+    {
+      "name": "US: MSG Channel  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/0f5a2f4c2493561db7d5ffd500c26578.png"
+    },
+    {
+      "name": "US: NBC Orlando HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nbcorlando.png"
+    },
+    {
+      "name": "US: AT&T SPORTSNET ROCKY MOUNTAINS  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/attsportsnetrockymountain.png"
+    },
+    {
+      "name": "US: ACC Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/accnetwork.png"
+    },
+    {
+      "name": "US: AFN Prime Pacific HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/afnprimepacific.png"
+    },
+    {
+      "name": "US: Altitude Sports HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/altitudesports.png"
+    },
+    {
+      "name": "US: AT&T SPORTSNET PITTSBURGH  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/attsportsnetpittsburgh.png"
+    },
+    {
+      "name": "US: Space City Home Network  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/spacecityhomenetwork.png"
+    },
+    {
+      "name": "US: Bally Sports Arizona HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsarizona.png"
+    },
+    {
+      "name": "US: Bally Sports Detroit HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsdetroit.png"
+    },
+    {
+      "name": "US: Bally Sports Florida HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsflorida.png"
+    },
+    {
+      "name": "US: Bally Sports Kansas CITY HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportskansascity.png"
+    },
+    {
+      "name": "US: Bally Sports Midwest HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsmidwest.png"
+    },
+    {
+      "name": "US: Bally Sports North HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsnorth.png"
+    },
+    {
+      "name": "US: Bally Sports North PLUS HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsnorthplus.png"
+    },
+    {
+      "name": "US: Bally Sports OHIO HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsohio.png"
+    },
+    {
+      "name": "US: Bally Sports Oklahoma HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportsoklahoma.png"
+    },
+    {
+      "name": "US: Bally Sports SAN Diego HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportssandiego.png"
+    },
+    {
+      "name": "US: Bally Sports Southeast HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportssouth.png"
+    },
+    {
+      "name": "US: Bally Sports Southwest HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportssouthwest.png"
+    },
+    {
+      "name": "US: Bally Sports SUN HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ballysportssun.png"
+    },
+    {
+      "name": "US: BEIN Sports 01 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/61900796371.png"
+    },
+    {
+      "name": "US: BEIN Sports 2 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports2.png"
+    },
+    {
+      "name": "US: BEIN Sports 4 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports4.png"
+    },
+    {
+      "name": "US: BEIN Sports 5 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports5.png"
+    },
+    {
+      "name": "US: BEIN Sports 6 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports6.png"
+    },
+    {
+      "name": "US: BEIN Sports 7 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports7.png"
+    },
+    {
+      "name": "US: BEIN Sports HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports.png"
+    },
+    {
+      "name": "US: BEIN Sports USA HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/beinsports.png"
+    },
+    {
+      "name": "US: BIG TEN Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/bigtennetwork.png"
+    },
+    {
+      "name": "US: CBS Sports Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/cbssportsnetwork.png"
+    },
+    {
+      "name": "US: Eleven Sports HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/elevensports.png"
+    },
+    {
+      "name": "US: ESPN 1 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espn1.png"
+    },
+    {
+      "name": "US: ESPN 2 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espn2.png"
+    },
+    {
+      "name": "US: ESPN 2 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espn2.png"
+    },
+    {
+      "name": "US: ESPN 3 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espn3.png"
+    },
+    {
+      "name": "US: ESPN Deportes HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espndeportes.png"
+    },
+    {
+      "name": "US: ESPN Longhorn Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espnlonghornnetwork.png"
+    },
+    {
+      "name": "US: ESPN NEWS HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espnnews.png"
+    },
+    {
+      "name": "US: ESPN NEWS US HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espnnews.png"
+    },
+    {
+      "name": "US: ESPN PLUS HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espnplus.png"
+    },
+    {
+      "name": "US: SEC Network (ESPN)  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/secnetwork.png"
+    },
+    {
+      "name": "US: ESPN U HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espnu.png"
+    },
+    {
+      "name": "US: ESPN+  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/espn.png"
+    },
+    {
+      "name": "US: Fight BOX FHD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/fightbox.png"
+    },
+    {
+      "name": "US: Fight Network 4K HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/fightnetwork.png"
+    },
+    {
+      "name": "US: FOX Soccer PLUS 4K HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsoccerplus.png"
+    },
+    {
+      "name": "US: FOX Sports 1 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports1.png"
+    },
+    {
+      "name": "US: FOX Sports 2 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsports2.png"
+    },
+    {
+      "name": "US: FOX Sports WEST HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/foxsportswest.png"
+    },
+    {
+      "name": "US: FUBO Sports Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/fubosportsnetwork.png"
+    },
+    {
+      "name": "US: GOLF Channel HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/golfchannel.png"
+    },
+    {
+      "name": "US: GOLF Channel HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/golfchannel.png"
+    },
+    {
+      "name": "US: MLB Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/mlbnetwork.png"
+    },
+    {
+      "name": "US: MLB Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/mlbnetwork.png"
+    },
+    {
+      "name": "US: Motortrend HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/motortrend.png"
+    },
+    {
+      "name": "US: MSG PLUS HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/msgplus.png"
+    },
+    {
+      "name": "US: NBA HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nba.png"
+    },
+    {
+      "name": "US: NBC Chicago HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nbcchicago.png"
+    },
+    {
+      "name": "US: NBC GOLF HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nbcgolf.png"
+    },
+    {
+      "name": "US: NESN HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nesn.png"
+    },
+    {
+      "name": "US: NFL Network 1 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nflnetwork1.png"
+    },
+    {
+      "name": "US: NFL Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nflnetwork.png"
+    },
+    {
+      "name": "US: NFL NOW HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nflnow.png"
+    },
+    {
+      "name": "US: NFL Redzone HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nflredzone.png"
+    },
+    {
+      "name": "US: NHL Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/nhlnetwork.png"
+    },
+    {
+      "name": "US: Olympic Channel HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/olympicchannel.png"
+    },
+    {
+      "name": "US: Pac-12 Mountain HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/78599861151.png"
+    },
+    {
+      "name": "US: RED BULL TV HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/redbulltv.png"
+    },
+    {
+      "name": "US: ROOT Sport NW HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/56cc3b0ee237fbb7bebf153d2bff7b7a.png"
+    },
+    {
+      "name": "US: Spectrum Sportsnet HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/spectrumsportsnet.png"
+    },
+    {
+      "name": "US: Sports MAN Channel HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sportsmanchannel.png"
+    },
+    {
+      "name": "US: Sportsnet LA HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "http://img-cdn.curl.pk:8880/channels_icon/14240548311.png"
+    },
+    {
+      "name": "US: Sportsnet NEW YORK HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetnewyork.png"
+    },
+    {
+      "name": "US: Sportsnet ONE HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetone.png"
+    },
+    {
+      "name": "US: Sportsnet World HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/sportsnetworld.png"
+    },
+    {
+      "name": "US: Stadium 3 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/stadium3.png"
+    },
+    {
+      "name": "US: Stadium HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/stadium.png"
+    },
+    {
+      "name": "US: Tennis Channel HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tennischannel.png"
+    },
+    {
+      "name": "US: THE Fight Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/thefightnetwork.png"
+    },
+    {
+      "name": "US: TSN 1 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tsn1.png"
+    },
+    {
+      "name": "US: TSN 2 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tsn2.png"
+    },
+    {
+      "name": "US: TSN 3 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tsn3.png"
+    },
+    {
+      "name": "US: TSN 4 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tsn4.png"
+    },
+    {
+      "name": "US: TSN 5 HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tsn5.png"
+    },
+    {
+      "name": "US: TVG Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tvgnetwork.png"
+    },
+    {
+      "name": "US: TYC Sports HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tycsports.png"
+    },
+    {
+      "name": "US: TVG Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/tvgnetwork.png"
+    },
+    {
+      "name": "US: UFC Fight PASS HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ufcfightpass.png"
+    },
+    {
+      "name": "US: UFC TV HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/ufctv.png"
+    },
+    {
+      "name": "US: Willow Cricket 4K HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/willowcricket.png"
+    },
+    {
+      "name": "US: Willow Cricket HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/willowcricket.png"
+    },
+    {
+      "name": "US: YES Network HD  (101-SERVERS)",
+      "group": "USA - Sports - Live.",
+      "logo": "https://logo.m3uassets.com/yesnetwork.png"
+    }
+  ]
+}

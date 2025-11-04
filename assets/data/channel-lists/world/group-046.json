@@ -1,0 +1,48 @@
+{
+  "package": "world",
+  "name": "DSTV - Kids - Live.",
+  "groupIndex": 46,
+  "totalChannels": 8,
+  "channels": [
+    {
+      "name": "DSTV: Cartoon Network HD  (101-SERVERS)",
+      "group": "DSTV - Kids - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "DSTV: Cbeebies HD  (101-SERVERS)",
+      "group": "DSTV - Kids - Live.",
+      "logo": "https://logo.m3uassets.com/cbeebies.png"
+    },
+    {
+      "name": "DSTV: Disney Junior HD  (101-SERVERS)",
+      "group": "DSTV - Kids - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    },
+    {
+      "name": "DSTV: NickTOONS HD  (101-SERVERS)",
+      "group": "DSTV - Kids - Live.",
+      "logo": "https://logo.m3uassets.com/nicktoons.png"
+    },
+    {
+      "name": "DSTV: PBS Kids HD  (101-SERVERS)",
+      "group": "DSTV - Kids - Live.",
+      "logo": "https://logo.m3uassets.com/pbskids.png"
+    },
+    {
+      "name": "DSTV: Cartoon Network HD  (101-SERVERS)",
+      "group": "DSTV - Kids - Live.",
+      "logo": "https://logo.m3uassets.com/cartoonnetwork.png"
+    },
+    {
+      "name": "DSTV: Nicktoons HD  (101-SERVERS)",
+      "group": "DSTV - Kids - Live.",
+      "logo": "https://logo.m3uassets.com/nicktoons.png"
+    },
+    {
+      "name": "DSTV: Disney Junior HD  (101-SERVERS)",
+      "group": "DSTV - Kids - Live.",
+      "logo": "https://logo.m3uassets.com/disneyjunior.png"
+    }
+  ]
+}
