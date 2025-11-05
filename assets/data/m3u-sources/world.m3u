@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SkySportsUK.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://example.com/logos/sky-sports.png" group-title="Sports",Sky Sports Premier League
+http://your-stream-server.com/live/sky-sports-uk/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSport.za" tvg-name="SuperSport Africa" tvg-logo="https://example.com/logos/supersport.png" group-title="Sports",SuperSport Africa
+http://your-stream-server.com/live/supersport/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNUS.us" tvg-name="ESPN USA" tvg-logo="https://example.com/logos/espn-usa.png" group-title="Sports",ESPN USA
+http://your-stream-server.com/live/espn-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="BeINMENA.qa" tvg-name="beIN Sports MENA" tvg-logo="https://example.com/logos/bein-mena.png" group-title="Sports",beIN Sports MENA
+http://your-stream-server.com/live/bein-mena/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCWorld.uk" tvg-name="BBC World News" tvg-logo="https://example.com/logos/bbc-world.png" group-title="News",BBC World News
+http://your-stream-server.com/live/bbc-world/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInt.us" tvg-name="CNN International" tvg-logo="https://example.com/logos/cnn-int.png" group-title="News",CNN International
+http://your-stream-server.com/live/cnn-int/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://example.com/logos/cnbc.png" group-title="News",CNBC
+http://your-stream-server.com/live/cnbc/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera English" tvg-logo="https://example.com/logos/aljazeera.png" group-title="News",Al Jazeera English
+http://your-stream-server.com/live/aljazeera/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://example.com/logos/france24.png" group-title="News",France 24
+http://your-stream-server.com/live/france24/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" tvg-logo="https://example.com/logos/dw.png" group-title="News",DW English
+http://your-stream-server.com/live/dw/playlist.m3u8

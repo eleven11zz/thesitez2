@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Sport Bundesliga" tvg-logo="https://example.com/logos/sky-bundesliga.png" group-title="Sports",Sky Sport Bundesliga
+http://your-stream-server.com/live/sky-bundesliga/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1" tvg-logo="https://example.com/logos/dazn-1.png" group-title="Sports",DAZN 1
+http://your-stream-server.com/live/dazn-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2" tvg-logo="https://example.com/logos/dazn-2.png" group-title="Sports",DAZN 2
+http://your-stream-server.com/live/dazn-2/playlist.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="ARD" tvg-logo="https://example.com/logos/ard.png" group-title="Entertainment",ARD
+http://your-stream-server.com/live/ard/playlist.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://example.com/logos/zdf.png" group-title="Entertainment",ZDF
+http://your-stream-server.com/live/zdf/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://example.com/logos/rtl.png" group-title="Entertainment",RTL
+http://your-stream-server.com/live/rtl/playlist.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://example.com/logos/prosieben.png" group-title="Entertainment",ProSieben
+http://your-stream-server.com/live/prosieben/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-logo="https://example.com/logos/sat1.png" group-title="Entertainment",Sat.1
+http://your-stream-server.com/live/sat1/playlist.m3u8

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://example.com/logos/star-sports-1.png" group-title="Sports",Star Sports 1 HD
+http://your-stream-server.com/live/star-sports-1/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" tvg-logo="https://example.com/logos/star-sports-hindi.png" group-title="Sports",Star Sports 1 Hindi
+http://your-stream-server.com/live/star-sports-hindi/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySix.in" tvg-name="Sony Six" tvg-logo="https://example.com/logos/sony-six.png" group-title="Sports",Sony Six
+http://your-stream-server.com/live/sony-six/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-logo="https://example.com/logos/zee-tv.png" group-title="Entertainment",Zee TV
+http://your-stream-server.com/live/zee-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://example.com/logos/colors.png" group-title="Entertainment",Colors
+http://your-stream-server.com/live/colors/playlist.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus" tvg-logo="https://example.com/logos/star-plus.png" group-title="Entertainment",Star Plus
+http://your-stream-server.com/live/star-plus/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySET.in" tvg-name="Sony Entertainment" tvg-logo="https://example.com/logos/sony-set.png" group-title="Entertainment",Sony Entertainment
+http://your-stream-server.com/live/sony-set/playlist.m3u8

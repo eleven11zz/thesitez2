@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ViaplaySport.se" tvg-name="Viaplay Sport" tvg-logo="https://example.com/logos/viaplay-sport.png" group-title="Sports",Viaplay Sport
+http://your-stream-server.com/live/viaplay-sport/playlist.m3u8
+#EXTINF:-1 tvg-id="CMoreLive.se" tvg-name="C More Live" tvg-logo="https://example.com/logos/cmore-live.png" group-title="Sports",C More Live
+http://your-stream-server.com/live/cmore-live/playlist.m3u8
+#EXTINF:-1 tvg-id="SVT1.se" tvg-name="SVT 1" tvg-logo="https://example.com/logos/svt1.png" group-title="Entertainment",SVT 1
+http://your-stream-server.com/live/svt1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.se" tvg-name="TV4" tvg-logo="https://example.com/logos/tv4.png" group-title="Entertainment",TV4
+http://your-stream-server.com/live/tv4/playlist.m3u8
+#EXTINF:-1 tvg-id="DR1.dk" tvg-name="DR1" tvg-logo="https://example.com/logos/dr1.png" group-title="Entertainment",DR1
+http://your-stream-server.com/live/dr1/playlist.m3u8
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK 1" tvg-logo="https://example.com/logos/nrk1.png" group-title="Entertainment",NRK 1
+http://your-stream-server.com/live/nrk1/playlist.m3u8
+#EXTINF:-1 tvg-id="YLE1.fi" tvg-name="YLE TV1" tvg-logo="https://example.com/logos/yle1.png" group-title="Entertainment",YLE TV1
+http://your-stream-server.com/live/yle1/playlist.m3u8

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="Ziggo Sport Select" tvg-logo="https://example.com/logos/ziggo-sport.png" group-title="Sports",Ziggo Sport Select
+http://your-stream-server.com/live/ziggo-sport/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNEredivisie.nl" tvg-name="ESPN Eredivisie" tvg-logo="https://example.com/logos/espn-eredivisie.png" group-title="Sports",ESPN Eredivisie
+http://your-stream-server.com/live/espn-eredivisie/playlist.m3u8
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="https://example.com/logos/npo1.png" group-title="Entertainment",NPO 1
+http://your-stream-server.com/live/npo1/playlist.m3u8
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="https://example.com/logos/npo2.png" group-title="Entertainment",NPO 2
+http://your-stream-server.com/live/npo2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL4.nl" tvg-name="RTL 4" tvg-logo="https://example.com/logos/rtl4.png" group-title="Entertainment",RTL 4
+http://your-stream-server.com/live/rtl4/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS6.nl" tvg-name="SBS6" tvg-logo="https://example.com/logos/sbs6.png" group-title="Entertainment",SBS6
+http://your-stream-server.com/live/sbs6/playlist.m3u8

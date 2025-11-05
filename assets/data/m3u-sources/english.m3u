@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SkyPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://example.com/logos/sky-premier-league.png" group-title="Sports",Sky Sports Premier League
+http://your-stream-server.com/live/sky-premier-league/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://example.com/logos/sky-main-event.png" group-title="Sports",Sky Sports Main Event
+http://your-stream-server.com/live/sky-main-event/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://example.com/logos/sky-f1.png" group-title="Sports",Sky Sports F1
+http://your-stream-server.com/live/sky-f1/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://example.com/logos/tnt-sports-1.png" group-title="Sports",TNT Sports 1
+http://your-stream-server.com/live/tnt-sports-1/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://example.com/logos/bbc-one.png" group-title="Entertainment",BBC One
+http://your-stream-server.com/live/bbc-one/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="https://example.com/logos/bbc-two.png" group-title="Entertainment",BBC Two
+http://your-stream-server.com/live/bbc-two/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV 1" tvg-logo="https://example.com/logos/itv-1.png" group-title="Entertainment",ITV 1
+http://your-stream-server.com/live/itv-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://example.com/logos/channel-4.png" group-title="Entertainment",Channel 4
+http://your-stream-server.com/live/channel-4/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="https://example.com/logos/channel-5.png" group-title="Entertainment",Channel 5
+http://your-stream-server.com/live/channel-5/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic" tvg-logo="https://example.com/logos/sky-atlantic.png" group-title="Entertainment",Sky Atlantic
+http://your-stream-server.com/live/sky-atlantic/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyCinema.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://example.com/logos/sky-cinema.png" group-title="Movies",Sky Cinema Premiere
+http://your-stream-server.com/live/sky-cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="Disney Channel UK" tvg-logo="https://example.com/logos/disney-uk.png" group-title="Kids",Disney Channel UK
+http://your-stream-server.com/live/disney-uk/playlist.m3u8

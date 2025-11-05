@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ESPNDeportes.mx" tvg-name="ESPN Deportes" tvg-logo="https://example.com/logos/espn-deportes.png" group-title="Sports",ESPN Deportes
+http://your-stream-server.com/live/espn-deportes/playlist.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://example.com/logos/tudn.png" group-title="Sports",TUDN
+http://your-stream-server.com/live/tudn/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports" tvg-logo="https://example.com/logos/fox-sports.png" group-title="Sports",Fox Sports
+http://your-stream-server.com/live/fox-sports/playlist.m3u8
+#EXTINF:-1 tvg-id="Televisa.mx" tvg-name="Las Estrellas" tvg-logo="https://example.com/logos/televisa.png" group-title="Entertainment",Las Estrellas
+http://your-stream-server.com/live/televisa/playlist.m3u8
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" tvg-logo="https://example.com/logos/univision.png" group-title="Entertainment",Univision
+http://your-stream-server.com/live/univision/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-logo="https://example.com/logos/telemundo.png" group-title="Entertainment",Telemundo
+http://your-stream-server.com/live/telemundo/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo" tvg-logo="https://example.com/logos/globo.png" group-title="Entertainment",Globo
+http://your-stream-server.com/live/globo/playlist.m3u8
