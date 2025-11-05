@@ -1864,21 +1864,25 @@ body {
 <link rel="stylesheet" href="./assets/css/mobile-tablet-fixes.css"/>
 <!-- Comprehensive UI/UX Fixes - Layout, navigation, buttons, touch targets -->
 <link rel="stylesheet" href="./assets/css/ui-ux-fixes.css"/>
+<link rel="stylesheet" href="./assets/css/accessibility.css"/>
 </head>
 <body>
-<header class="site-header">
+<!-- Skip to main content for keyboard users -->
+<a href="#main-content" class="skip-to-main">Skip to main content</a>
+
+<header class="site-header" role="banner">
   <div class="container header-inner">
-    <a href="#hero" class="brand">
-      <img src="./assets/footer_picture.png" alt="TVMaster" class="header-logo" loading="lazy" decoding="async">
+    <a href="#hero" class="brand" aria-label="TVMaster VIP - Return to homepage">
+      <img src="./assets/footer_picture.png" alt="TVMaster VIP logo - Premium IPTV Service" class="header-logo" loading="lazy" decoding="async">
       <span class="brand-text">TVMaster</span>
     </a>
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
       <span class="sr-only">Toggle navigation</span>
       <span></span>
       <span></span>
       <span></span>
     </button>
-    <nav class="main-nav" id="primary-nav">
+    <nav class="main-nav" id="primary-nav" role="navigation" aria-label="Primary navigation">
       <a href="#hero">Home</a>
       <a href="#lineups">Channels</a>
       <a href="./sports/live.html">Live Hub</a>
@@ -1893,13 +1897,13 @@ body {
   </div>
 </header>
 
-<main>
-  <section class="hero" id="hero">
+<main id="main-content" role="main">
+  <section class="hero" id="hero" aria-labelledby="hero-heading">
     <div class="hero-content">
       <div class="hero-grid">
         <div class="hero-text">
-          <h1 class="hero-heading gradient-text">Stream 30,000+ Channels in Stunning 4K</h1>
-          <h2 class="hero-subheading">Best IPTV Provider | Zero Buffering | Multi-Device Streaming</h2>
+          <h1 id="hero-heading" class="hero-heading gradient-text">Stream 30,000+ Channels in Stunning 4K</h1>
+          <p class="hero-subheading" role="doc-subtitle"><strong>Best IPTV Provider | Zero Buffering | Multi-Device Streaming</strong></p>
           <p class="hero-description">Experience TVMaster VIP, the premium IPTV service delivering 30,000+ live TV channels, 3,000+ sports networks, and 10,000+ movies across every device. Enjoy instant activation, zero buffering with 99.9% uptime, and 24/7 expert support. Try our IPTV subscription risk-free with a 7-day trial!</p>
           <div class="hero-cta-group">
             <a class="hero-primary-cta shine" href="#products">Start Free Trial</a>
@@ -2681,12 +2685,12 @@ body {
   </section>
 </main>
 
-<footer class="site-footer" id="contact">
+<footer class="site-footer" id="contact" role="contentinfo">
   <div class="container">
     <div class="footer-grid">
       <!-- Brand Column -->
       <div class="footer-brand">
-        <img src="./assets/footer_picture.png" alt="TVMaster Logo" class="brand-logo" loading="lazy" decoding="async">
+        <img src="./assets/footer_picture.png" alt="TVMaster VIP logo - Premium IPTV Service" class="brand-logo" loading="lazy" decoding="async">
         <h3 class="footer-brand-title">TVMaster VIP</h3>
         <p class="footer-summary">Premium IPTV streaming service with 30,000+ live channels, 4K quality, zero buffering. Trusted by 50,000+ customers worldwide. Enterprise-grade infrastructure with 24/7 support.</p>
         <div class="footer-social">
