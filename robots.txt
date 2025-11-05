@@ -1,4 +1,23 @@
+# robots.txt for TVMaster VIP
+# Allow all search engines to crawl the site
+
 User-agent: *
 Allow: /
 
-Sitemap: https://web.tvmaster.vip/sitemap.xml
+# Disallow admin or private directories (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all CSS and JS for proper rendering in search results
+Allow: /assets/css/
+Allow: /assets/js/
+
+# Sitemap location
+Sitemap: https://eleven11zz.github.io/thesitez2/sitemap.xml
+
+# Crawl-delay (optional, only if needed to reduce server load)
+# Crawl-delay: 1
+
+# Additional sitemaps (if you add more in the future)
+# Sitemap: https://eleven11zz.github.io/thesitez2/sitemap-products.xml
+# Sitemap: https://eleven11zz.github.io/thesitez2/sitemap-blog.xml
