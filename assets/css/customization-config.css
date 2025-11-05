@@ -1,0 +1,289 @@
+/* ===================================
+   EASY CUSTOMIZATION CONFIG
+   Change these values to customize your site!
+   =================================== */
+
+:root {
+  /* ===================================
+     1. GLASSMORPHISM BLUR SETTINGS
+     =================================== */
+
+  /* Header blur effect (default: 20px) */
+  /* Try: 10px (subtle), 20px (medium), 30px (strong) */
+  --glass-blur: 20px;
+  --glass-blur-mobile: 15px;
+  --glass-saturation: 180%;
+
+  /* Header background opacity */
+  --header-bg-opacity: 0.95;
+  --header-bg-opacity-scrolled: 0.98;
+
+  /* Footer background opacity */
+  --footer-bg-opacity: 1;
+
+  /* ===================================
+     2. SPACING & SIZING
+     =================================== */
+
+  /* Header dimensions */
+  --header-height: 80px;
+  --header-height-mobile: 64px;
+  --header-padding: clamp(1rem, 4vw, 2rem);
+
+  /* Logo sizes */
+  --logo-size-desktop: 64px;
+  --logo-size-mobile: 52px;
+
+  /* Navigation spacing */
+  --nav-gap: clamp(1rem, 2vw, 2rem);
+  --nav-gap-mobile: 0;
+  --nav-padding: 0.5rem 0.75rem;
+
+  /* Footer spacing */
+  --footer-padding-top: 4rem;
+  --footer-padding-bottom: 2rem;
+  --footer-column-gap: 3rem;
+  --footer-column-gap-mobile: 2rem;
+
+  /* Button sizing */
+  --button-padding: 0.85rem 2rem;
+  --button-padding-mobile: 1.25rem 2rem;
+  --button-radius: 50px;
+
+  /* Touch targets (minimum 44px for accessibility) */
+  --touch-target-min: 44px;
+
+  /* ===================================
+     3. SOCIAL MEDIA ICONS
+     =================================== */
+
+  /* Social icon style */
+  --social-icon-size: 44px;
+  --social-icon-radius: 12px;
+  --social-icon-gap: 1rem;
+
+  /* Social icon colors (can use custom colors or gradients) */
+  --social-bg: rgba(229, 9, 20, 0.1);
+  --social-border: rgba(229, 9, 20, 0.3);
+  --social-color: #e50914;
+  --social-hover-bg: linear-gradient(135deg, #e50914, #ff2d3a);
+  --social-hover-color: #ffffff;
+
+  /* ===================================
+     4. COLOR SCHEME (OPTIONAL)
+     =================================== */
+
+  /* Primary brand color */
+  --brand-primary: #e50914;
+  --brand-primary-light: #ff2d3a;
+  --brand-primary-dark: #b00610;
+
+  /* Background colors */
+  --bg-dark: #050505;
+  --bg-darker: #000000;
+  --bg-light: #0a0a0a;
+
+  /* Text colors */
+  --text-primary: #ffffff;
+  --text-secondary: rgba(248, 250, 251, 0.85);
+  --text-muted: rgba(248, 250, 251, 0.7);
+
+  /* Border colors */
+  --border-color: rgba(229, 9, 20, 0.25);
+  --border-color-hover: rgba(229, 9, 20, 0.5);
+
+  /* Shadow colors */
+  --shadow-light: rgba(0, 0, 0, 0.4);
+  --shadow-medium: rgba(0, 0, 0, 0.5);
+  --shadow-heavy: rgba(229, 9, 20, 0.4);
+
+  /* ===================================
+     5. ANIMATION SPEEDS
+     =================================== */
+
+  --transition-fast: 0.2s;
+  --transition-medium: 0.3s;
+  --transition-slow: 0.4s;
+  --transition-ease: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ===================================
+   APPLY GLASSMORPHISM SETTINGS
+   =================================== */
+
+.site-header {
+  background: linear-gradient(135deg,
+    rgba(5, 5, 5, var(--header-bg-opacity)) 0%,
+    rgba(10, 10, 10, calc(var(--header-bg-opacity) - 0.03)) 100%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturation));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturation));
+  min-height: var(--header-height);
+}
+
+.site-header.scrolled {
+  background: linear-gradient(135deg,
+    rgba(5, 5, 5, var(--header-bg-opacity-scrolled)) 0%,
+    rgba(10, 10, 10, calc(var(--header-bg-opacity-scrolled) - 0.02)) 100%);
+}
+
+/* ===================================
+   APPLY SPACING & SIZING
+   =================================== */
+
+.header-inner {
+  min-height: var(--header-height);
+  padding: 0 var(--header-padding);
+}
+
+.header-logo {
+  height: var(--logo-size-desktop);
+}
+
+.main-nav {
+  gap: var(--nav-gap);
+}
+
+.main-nav a {
+  padding: var(--nav-padding);
+}
+
+.header-cta {
+  padding: var(--button-padding) !important;
+  border-radius: var(--button-radius);
+}
+
+.site-footer {
+  padding: var(--footer-padding-top) 0 var(--footer-padding-bottom);
+  background: linear-gradient(180deg,
+    rgba(5, 5, 5, var(--footer-bg-opacity)) 0%,
+    rgba(0, 0, 0, var(--footer-bg-opacity)) 100%);
+}
+
+.footer-grid {
+  gap: var(--footer-column-gap);
+}
+
+/* ===================================
+   APPLY SOCIAL MEDIA ICON STYLES
+   =================================== */
+
+.footer-social a {
+  width: var(--social-icon-size);
+  height: var(--social-icon-size);
+  border-radius: var(--social-icon-radius);
+  background: var(--social-bg);
+  border: 1px solid var(--social-border);
+  color: var(--social-color);
+  transition: all var(--transition-medium) var(--transition-ease);
+}
+
+.footer-social a:hover {
+  background: var(--social-hover-bg);
+  color: var(--social-hover-color);
+  transform: translateY(-3px);
+}
+
+.footer-social {
+  gap: var(--social-icon-gap);
+}
+
+/* ===================================
+   RESPONSIVE ADJUSTMENTS
+   =================================== */
+
+@media (max-width: 768px) {
+  .site-header {
+    backdrop-filter: blur(var(--glass-blur-mobile)) saturate(var(--glass-saturation));
+    -webkit-backdrop-filter: blur(var(--glass-blur-mobile)) saturate(var(--glass-saturation));
+  }
+
+  .header-inner {
+    min-height: var(--header-height-mobile);
+  }
+
+  .header-logo {
+    height: var(--logo-size-mobile);
+  }
+
+  .main-nav {
+    gap: var(--nav-gap-mobile);
+    backdrop-filter: blur(var(--glass-blur));
+  }
+
+  .header-cta {
+    padding: var(--button-padding-mobile) !important;
+  }
+
+  .footer-grid {
+    gap: var(--footer-column-gap-mobile);
+  }
+}
+
+/* ===================================
+   TOUCH TARGET ENFORCEMENT
+   =================================== */
+
+.nav-toggle,
+.footer-social a,
+.header-cta,
+.main-nav a {
+  min-height: var(--touch-target-min);
+  min-width: var(--touch-target-min);
+}
+
+/* ===================================
+   PRESET THEMES (UNCOMMENT TO USE)
+   =================================== */
+
+/* SUBTLE BLUR THEME
+:root {
+  --glass-blur: 10px;
+  --header-bg-opacity: 0.92;
+}
+*/
+
+/* STRONG BLUR THEME
+:root {
+  --glass-blur: 30px;
+  --glass-saturation: 200%;
+  --header-bg-opacity: 0.90;
+}
+*/
+
+/* COMPACT LAYOUT THEME
+:root {
+  --header-height: 64px;
+  --header-height-mobile: 56px;
+  --logo-size-desktop: 52px;
+  --logo-size-mobile: 44px;
+  --footer-padding-top: 3rem;
+  --footer-column-gap: 2rem;
+}
+*/
+
+/* SPACIOUS LAYOUT THEME
+:root {
+  --header-height: 96px;
+  --header-height-mobile: 72px;
+  --logo-size-desktop: 72px;
+  --logo-size-mobile: 60px;
+  --footer-padding-top: 5rem;
+  --footer-column-gap: 4rem;
+}
+*/
+
+/* MINIMAL SOCIAL ICONS THEME
+:root {
+  --social-icon-size: 36px;
+  --social-icon-radius: 8px;
+  --social-bg: transparent;
+  --social-border: rgba(229, 9, 20, 0.4);
+}
+*/
+
+/* LARGE SOCIAL ICONS THEME
+:root {
+  --social-icon-size: 52px;
+  --social-icon-radius: 16px;
+}
+*/
