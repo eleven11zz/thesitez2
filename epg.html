@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes"/>
+<title>TV Guide - Live EPG | TVMaster VIP</title>
+<meta name="description" content="Browse live TV schedules for 30,000+ channels. See what's on now and upcoming programs across sports, movies, entertainment, news and more."/>
+<meta name="keywords" content="TV guide, EPG, electronic program guide, what's on TV, TV schedule, live TV listings, sports TV schedule, movie listings"/>
+<link rel="canonical" href="https://web.tvmaster.vip/epg.html"/>
+
+<!-- Open Graph -->
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://web.tvmaster.vip/epg.html"/>
+<meta property="og:title" content="TV Guide - Live EPG | TVMaster VIP"/>
+<meta property="og:description" content="Browse live TV schedules for 30,000+ channels. See what's on now and upcoming."/>
+
+<!-- Structured Data for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "TV Guide - Electronic Program Guide",
+  "description": "Live TV schedule and program listings",
+  "provider": {
+    "@type": "Organization",
+    "name": "TVMaster VIP"
+  }
+}
+</script>
+
+<!-- CSS -->
+<link rel="stylesheet" href="./assets/css/style.css"/>
+<link rel="stylesheet" href="./assets/css/modern-header-footer.css"/>
+<link rel="stylesheet" href="./assets/css/epg.css"/>
+<link rel="stylesheet" href="./assets/css/accessibility.css"/>
+<link rel="stylesheet" href="./assets/css/performance.css"/>
+</head>
+<body>
+<!-- Skip to main content -->
+<a href="#main-content" class="skip-to-main">Skip to main content</a>
+
+<header class="site-header" role="banner">
+  <div class="container header-inner">
+    <a href="index.html" class="brand" aria-label="TVMaster VIP - Return to homepage">
+      <img src="./assets/footer_picture.png" alt="TVMaster VIP logo - Premium IPTV Service" class="header-logo" loading="eager" decoding="async">
+      <span class="brand-text">TVMaster</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
+      <span class="sr-only">Toggle navigation</span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="main-nav" id="primary-nav" role="navigation" aria-label="Primary navigation">
+      <a href="index.html">Home</a>
+      <a href="iptv-products.html">IPTV Packages</a>
+      <a href="tv-box-products.html">TV Boxes</a>
+      <a href="channel-lists.html">Channels</a>
+      <a href="epg.html" class="active">TV Guide</a>
+      <a href="sports/live.html">Live Sports</a>
+      <a href="blog.html">Blog</a>
+      <a href="faq.html">FAQ</a>
+      <a class="header-cta" href="index.html#contact">Subscribe</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main-content" role="main">
+  <!-- Hero Section -->
+  <section class="epg-hero">
+    <div class="container">
+      <h1><i class="fas fa-tv"></i> Live TV Guide</h1>
+      <p class="epg-subtitle">Browse schedules for 30,000+ channels. See what's on now and coming up.</p>
+
+      <!-- Current Time Display -->
+      <div class="current-time-display">
+        <div class="live-indicator">
+          <span class="live-dot"></span>
+          <span class="live-text">LIVE</span>
+        </div>
+        <div class="current-time" id="currentTime">Loading...</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Controls Section -->
+  <section class="epg-controls">
+    <div class="container">
+      <!-- Search Bar -->
+      <div class="epg-search">
+        <i class="fas fa-search"></i>
+        <input type="text" id="epgSearch" placeholder="Search channels or programs..." aria-label="Search TV guide">
+        <button id="clearSearch" class="clear-search" aria-label="Clear search">
+          <i class="fas fa-times"></i>
+        </button>
+      </div>
+
+      <!-- Category Filters -->
+      <div class="epg-filters">
+        <button class="filter-btn active" data-category="all">
+          <i class="fas fa-th"></i> All Channels
+        </button>
+        <button class="filter-btn" data-category="sports">
+          <i class="fas fa-futbol"></i> Sports
+        </button>
+        <button class="filter-btn" data-category="movies">
+          <i class="fas fa-film"></i> Movies
+        </button>
+        <button class="filter-btn" data-category="entertainment">
+          <i class="fas fa-star"></i> Entertainment
+        </button>
+        <button class="filter-btn" data-category="news">
+          <i class="fas fa-newspaper"></i> News
+        </button>
+        <button class="filter-btn" data-category="kids">
+          <i class="fas fa-child"></i> Kids
+        </button>
+        <button class="filter-btn" data-category="music">
+          <i class="fas fa-music"></i> Music
+        </button>
+        <button class="filter-btn" data-category="documentary">
+          <i class="fas fa-book"></i> Documentary
+        </button>
+      </div>
+
+      <!-- Time Navigation -->
+      <div class="time-navigation">
+        <button id="prevTime" class="time-nav-btn" aria-label="Previous time slot">
+          <i class="fas fa-chevron-left"></i> Earlier
+        </button>
+        <div class="time-selector">
+          <select id="timeJump" aria-label="Jump to time">
+            <option value="now">Now</option>
+            <option value="+1">In 1 hour</option>
+            <option value="+2">In 2 hours</option>
+            <option value="+3">In 3 hours</option>
+            <option value="+6">In 6 hours</option>
+            <option value="primetime">Primetime (8 PM)</option>
+          </select>
+        </div>
+        <button id="nextTime" class="time-nav-btn" aria-label="Next time slot">
+          Later <i class="fas fa-chevron-right"></i>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- EPG Grid -->
+  <section class="epg-grid-section">
+    <div class="epg-container">
+      <!-- Timeline Header -->
+      <div class="epg-timeline-header" id="timelineHeader">
+        <!-- Time slots will be generated here -->
+      </div>
+
+      <!-- Channels and Programs Grid -->
+      <div class="epg-grid" id="epgGrid">
+        <!-- Loading State -->
+        <div class="epg-loading" id="epgLoading">
+          <div class="loading-spinner"></div>
+          <p>Loading TV Guide...</p>
+        </div>
+
+        <!-- Error State -->
+        <div class="epg-error" id="epgError" style="display: none;">
+          <i class="fas fa-exclamation-triangle"></i>
+          <h3>Unable to load TV guide</h3>
+          <p>Please check your connection and try again.</p>
+          <button id="retryLoad" class="retry-btn">Retry</button>
+        </div>
+
+        <!-- Empty State (no results) -->
+        <div class="epg-empty" id="epgEmpty" style="display: none;">
+          <i class="fas fa-search"></i>
+          <h3>No programs found</h3>
+          <p>Try adjusting your search or filters.</p>
+        </div>
+
+        <!-- Grid Content (populated by JavaScript) -->
+        <div class="epg-channels" id="epgChannels">
+          <!-- Channels will be dynamically inserted here -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Program Details Modal -->
+  <div class="program-modal" id="programModal" role="dialog" aria-labelledby="modalTitle" aria-hidden="true">
+    <div class="modal-overlay" id="modalOverlay"></div>
+    <div class="modal-content">
+      <button class="modal-close" id="modalClose" aria-label="Close program details">
+        <i class="fas fa-times"></i>
+      </button>
+      <div class="modal-body" id="modalBody">
+        <!-- Program details will be inserted here -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Quick Stats -->
+  <section class="epg-stats">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-tv"></i></div>
+          <div class="stat-number" id="totalChannels">0</div>
+          <div class="stat-label">Live Channels</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-play-circle"></i></div>
+          <div class="stat-number" id="livePrograms">0</div>
+          <div class="stat-label">Live Now</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-calendar-alt"></i></div>
+          <div class="stat-number" id="upcomingPrograms">0</div>
+          <div class="stat-label">Coming Up</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon"><i class="fas fa-clock"></i></div>
+          <div class="stat-number">24/7</div>
+          <div class="stat-label">Updated</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="epg-cta">
+    <div class="container">
+      <h2>Want to Watch These Channels?</h2>
+      <p>Subscribe to TVMaster VIP and get instant access to 30,000+ live channels</p>
+      <a href="iptv-products.html" class="cta-button">
+        View Packages <i class="fas fa-arrow-right"></i>
+      </a>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <img src="./assets/footer_picture.png" alt="TVMaster VIP logo" class="brand-logo" loading="lazy">
+        <h3 class="footer-brand-title">TVMaster VIP</h3>
+        <p class="footer-summary">Premium IPTV streaming service with 30,000+ live channels, 4K quality, zero buffering.</p>
+      </div>
+      <div class="footer-column">
+        <h4 class="footer-column-title">Products</h4>
+        <a href="iptv-products.html">IPTV Packages</a>
+        <a href="tv-box-products.html">TV Box Bundles</a>
+        <a href="channel-lists.html">Channel Lists</a>
+        <a href="epg.html">TV Guide</a>
+      </div>
+      <div class="footer-column">
+        <h4 class="footer-column-title">Resources</h4>
+        <a href="faq.html">FAQ</a>
+        <a href="sports/live.html">Live Sports Hub</a>
+        <a href="blog.html">Blog</a>
+        <a href="setup.html">Setup Guides</a>
+      </div>
+      <div class="footer-column">
+        <h4 class="footer-column-title">Contact</h4>
+        <p>24/7 Customer Support</p>
+        <p>Email: support@tvmaster.vip</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 TVMaster VIP. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<!-- FontAwesome -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" defer></script>
+
+<!-- EPG Scripts -->
+<script src="./assets/js/navigation.js" defer></script>
+<script src="./assets/js/epg-config.js" defer></script>
+<script src="./assets/js/epg-parser.js" defer></script>
+<script src="./assets/js/epg.js" defer></script>
+</body>
+</html>

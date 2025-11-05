@@ -40,7 +40,8 @@ SITEMAP_PAGES = [
     {"loc": "/setup/iptv-extreme.html", "priority": "0.7", "changefreq": "monthly"},
     {"loc": "/setup/smart-iptv.html", "priority": "0.7", "changefreq": "monthly"},
 
-    # Sports
+    # EPG & Sports
+    {"loc": "/epg.html", "priority": "0.9", "changefreq": "daily"},
     {"loc": "/sports/live.html", "priority": "0.8", "changefreq": "daily"},
 
     # Blog
