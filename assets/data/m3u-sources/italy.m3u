@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="DAZN Zona" tvg-logo="https://example.com/logos/dazn-zona.png" group-title="Sports",DAZN Zona
+http://your-stream-server.com/live/dazn-zona/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://example.com/logos/sky-calcio.png" group-title="Sports",Sky Sport Calcio
+http://your-stream-server.com/live/sky-calcio/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://example.com/logos/rai1.png" group-title="Entertainment",Rai 1
+http://your-stream-server.com/live/rai1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://example.com/logos/rai2.png" group-title="Entertainment",Rai 2
+http://your-stream-server.com/live/rai2/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://example.com/logos/canale5.png" group-title="Entertainment",Canale 5
+http://your-stream-server.com/live/canale5/playlist.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://example.com/logos/italia1.png" group-title="Entertainment",Italia 1
+http://your-stream-server.com/live/italia1/playlist.m3u8

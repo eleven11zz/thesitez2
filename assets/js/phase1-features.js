@@ -113,6 +113,14 @@ class PackageQuiz {
   constructor() {
     this.currentQuestion = 0;
     this.answers = {};
+
+    // Initialize analytics
+    this.analytics = new QuizAnalytics({
+      enableTracking: true,
+      enableABTesting: false, // Set to true to enable A/B testing
+      debug: true // Set to false in production
+    });
+
     this.questions = [
       {
         id: 'region',
@@ -248,6 +256,7 @@ class PackageQuiz {
   }
 
   init() {
+    this.analytics.startQuiz();
     this.renderQuestion();
     this.setupNavigation();
   }
@@ -300,6 +309,9 @@ class PackageQuiz {
   selectOption(questionId, value) {
     this.answers[questionId] = value;
 
+    // Track answer
+    this.analytics.answerQuestion(this.currentQuestion, questionId, value);
+
     // Update UI
     document.querySelectorAll(`[data-question-id="${questionId}"]`).forEach(opt => {
       opt.classList.remove('selected');
@@ -332,6 +344,7 @@ class PackageQuiz {
   previousQuestion() {
     if (this.currentQuestion > 0) {
       this.currentQuestion--;
+      this.analytics.navigateBack(this.currentQuestion);
       this.showQuestion(this.currentQuestion);
       this.updateProgress();
     }
@@ -407,6 +420,9 @@ class PackageQuiz {
 
       const recommendation = this.getRecommendation();
 
+      // Track completion
+      this.analytics.completeQuiz(recommendation);
+
       resultsContainer.innerHTML = `
         <h3>🎉 Your Perfect IPTV Package</h3>
         <p class="quiz-results-subtitle">Based on your preferences, we recommend:</p>
@@ -419,7 +435,11 @@ class PackageQuiz {
             ${recommendation.features.map(feature => `<li>${feature}</li>`).join('')}
           </ul>
 
-          <a href="${recommendation.buyLink}" class="quiz-recommendation-cta" target="_blank" rel="noopener">
+          <a href="${recommendation.buyLink}"
+             class="quiz-recommendation-cta"
+             target="_blank"
+             rel="noopener"
+             onclick="window.quizAnalytics?.trackConversion('${recommendation.name}', 'lazada')">
             Buy on Lazada →
           </a>
 
@@ -459,7 +479,15 @@ class PackageQuiz {
 // Initialize quiz when DOM is ready
 if (document.querySelector('.quiz-section')) {
   document.addEventListener('DOMContentLoaded', () => {
-    new PackageQuiz();
+    const quiz = new PackageQuiz();
+
+    // Make analytics available globally for tracking
+    window.quizAnalytics = quiz.analytics;
+
+    // Log analytics dashboard in console (for development)
+    if (quiz.analytics.config.debug) {
+      console.log('📊 Quiz Analytics Dashboard available. Call quizAnalytics.showDashboard() to view stats.');
+    }
   });
 }
 
