@@ -42,6 +42,19 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
 <meta name="apple-mobile-web-app-title" content="TVMaster VIP"/>
 <meta name="theme-color" content="#e50914"/>
+  <!-- DNS Prefetch and Preconnect for faster CDN loading -->
+  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+
+  <!-- Preload critical CSS for faster rendering -->
+  <link rel="preload" href="./assets/css/modern-header-footer.css" as="style">
+
+  <!-- Preload hero logo for faster LCP -->
+  <link rel="preload" href="./assets/footer_picture.png" as="image">
+
+  <!-- Performance optimizations for Core Web Vitals -->
+  <link rel="stylesheet" href="./assets/css/performance.css">
+
 <meta name="msapplication-TileColor" content="#e50914"/>
 <meta name="msapplication-navbutton-color" content="#e50914"/>
 <script type="application/ld+json">
@@ -1959,87 +1972,87 @@ body {
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/netflix.png" alt="Netflix">
+                    <img src="./assets/stream_slider/netflix.png" alt="Netflix" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/prime.png" alt="Prime Video">
+                    <img src="./assets/stream_slider/prime.png" alt="Prime Video" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/disney.png" alt="Disney Plus">
+                    <img src="./assets/stream_slider/disney.png" alt="Disney Plus" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/hbo.png" alt="HBO">
+                    <img src="./assets/stream_slider/hbo.png" alt="HBO" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/huluu.jpg" alt="Hulu">
+                    <img src="./assets/stream_slider/huluu.jpg" alt="Hulu" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/max.jpg" alt="Max">
+                    <img src="./assets/stream_slider/max.jpg" alt="Max" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/apple.jpg" alt="Apple TV Plus">
+                    <img src="./assets/stream_slider/apple.jpg" alt="Apple TV Plus" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/espn.jpg" alt="ESPN">
+                    <img src="./assets/stream_slider/espn.jpg" alt="ESPN" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/paramount.jpg" alt="Paramount Plus">
+                    <img src="./assets/stream_slider/paramount.jpg" alt="Paramount Plus" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/peacock.jpg" alt="Peacock">
+                    <img src="./assets/stream_slider/peacock.jpg" alt="Peacock" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/roku.jpg" alt="Roku">
+                    <img src="./assets/stream_slider/roku.jpg" alt="Roku" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/youtube.png" alt="YouTube">
+                    <img src="./assets/stream_slider/youtube.png" alt="YouTube" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/amc.jpg" alt="AMC Plus">
+                    <img src="./assets/stream_slider/amc.jpg" alt="AMC Plus" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/hot.jpg" alt="Hotstar">
+                    <img src="./assets/stream_slider/hot.jpg" alt="Hotstar" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/tving.png" alt="TVING">
+                    <img src="./assets/stream_slider/tving.png" alt="TVING" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/watcha.png" alt="Watcha">
+                    <img src="./assets/stream_slider/watcha.png" alt="Watcha" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/original.jpg" alt="Originals">
+                    <img src="./assets/stream_slider/original.jpg" alt="Originals" loading="lazy" decoding="async">
                   </div>
                 </div>
               </div>
@@ -2055,47 +2068,47 @@ body {
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/sky_slider/cricket.png" alt="Sky Sports Cricket">
+                    <img src="./assets/sky_slider/cricket.png" alt="Sky Sports Cricket" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/sky_slider/f1.png" alt="Sky Sports F1">
+                    <img src="./assets/sky_slider/f1.png" alt="Sky Sports F1" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sport-news-hd.jpg" alt="Sky Sport News HD">
+                    <img src="./assets/sky_slider/sky-sport-news-hd.jpg" alt="Sky Sport News HD" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sport-nba.webp" alt="Sky Sport NBA">
+                    <img src="./assets/sky_slider/sky-sport-nba.webp" alt="Sky Sport NBA" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sport-now.png" alt="Sky Sport Now">
+                    <img src="./assets/sky_slider/sky-sport-now.png" alt="Sky Sport Now" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/sky_slider/imageso.png" alt="Sky Sports Original">
+                    <img src="./assets/sky_slider/imageso.png" alt="Sky Sports Original" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sports-main-event.png" alt="Sky Sports Main Event">
+                    <img src="./assets/sky_slider/sky-sports-main-event.png" alt="Sky Sports Main Event" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sports-arena.png" alt="Sky Sports Arena">
+                    <img src="./assets/sky_slider/sky-sports-arena.png" alt="Sky Sports Arena" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/sky_slider/SkySportsFootball_201708.jpg" alt="Sky Sports Football">
+                    <img src="./assets/sky_slider/SkySportsFootball_201708.jpg" alt="Sky Sports Football" loading="lazy" decoding="async">
                   </div>
                 </div>
               </div>
@@ -2111,87 +2124,87 @@ body {
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/netflix.png" alt="Netflix">
+                    <img src="./assets/stream_slider/netflix.png" alt="Netflix" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/prime.png" alt="Prime Video">
+                    <img src="./assets/stream_slider/prime.png" alt="Prime Video" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/disney.png" alt="Disney Plus">
+                    <img src="./assets/stream_slider/disney.png" alt="Disney Plus" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/hbo.png" alt="HBO">
+                    <img src="./assets/stream_slider/hbo.png" alt="HBO" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/huluu.jpg" alt="Hulu">
+                    <img src="./assets/stream_slider/huluu.jpg" alt="Hulu" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/max.jpg" alt="Max">
+                    <img src="./assets/stream_slider/max.jpg" alt="Max" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/apple.jpg" alt="Apple TV Plus">
+                    <img src="./assets/stream_slider/apple.jpg" alt="Apple TV Plus" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/espn.jpg" alt="ESPN">
+                    <img src="./assets/stream_slider/espn.jpg" alt="ESPN" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/paramount.jpg" alt="Paramount Plus">
+                    <img src="./assets/stream_slider/paramount.jpg" alt="Paramount Plus" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/peacock.jpg" alt="Peacock">
+                    <img src="./assets/stream_slider/peacock.jpg" alt="Peacock" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/roku.jpg" alt="Roku">
+                    <img src="./assets/stream_slider/roku.jpg" alt="Roku" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/youtube.png" alt="YouTube">
+                    <img src="./assets/stream_slider/youtube.png" alt="YouTube" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/amc.jpg" alt="AMC Plus">
+                    <img src="./assets/stream_slider/amc.jpg" alt="AMC Plus" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/hot.jpg" alt="Hotstar">
+                    <img src="./assets/stream_slider/hot.jpg" alt="Hotstar" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/tving.png" alt="TVING">
+                    <img src="./assets/stream_slider/tving.png" alt="TVING" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/watcha.png" alt="Watcha">
+                    <img src="./assets/stream_slider/watcha.png" alt="Watcha" loading="lazy" decoding="async">
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="channel-card">
-                    <img src="./assets/stream_slider/original.jpg" alt="Originals">
+                    <img src="./assets/stream_slider/original.jpg" alt="Originals" loading="lazy" decoding="async">
                   </div>
                 </div>
               </div>
@@ -2764,7 +2777,7 @@ body {
   </div>
 </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" async></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   // Mobile Navigation Toggle

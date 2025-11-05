@@ -34,7 +34,14 @@
   }
   </script>
 
-  <link rel="stylesheet" href="./assets/css/modern-header-footer.css">
+  
+  <!-- Preload critical CSS for faster rendering -->
+  <link rel="preload" href="./assets/css/modern-header-footer.css" as="style">
+
+  <!-- Performance optimizations for Core Web Vitals -->
+  <link rel="stylesheet" href="./assets/css/performance.css">
+
+<link rel="stylesheet" href="./assets/css/modern-header-footer.css">
   <link rel="stylesheet" href="./assets/css/blog.css">
   <link rel="stylesheet" href="./assets/css/mobile-tablet-fixes.css">
   <link rel="stylesheet" href="./assets/css/ui-ux-fixes.css">
@@ -332,7 +339,7 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <img src="./assets/footer_picture.png" alt="TVMaster VIP" class="brand-logo">
+          <img src="./assets/footer_picture.png" alt="TVMaster VIP" class="brand-logo" decoding="async">
           <h3 class="footer-brand-title">TVMaster VIP</h3>
           <p class="footer-summary">Premium IPTV streaming service with 30,000+ channels, 4K quality, and zero buffering. Stream anywhere, anytime.</p>
           <div class="footer-social">

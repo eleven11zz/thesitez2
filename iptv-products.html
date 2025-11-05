@@ -25,7 +25,11 @@
   }
   </script>
   <link rel="preload" href="./assets/css/catalog.css" as="style">
-  <link rel="stylesheet" href="./assets/css/catalog.css">
+  
+  <!-- Performance optimizations for Core Web Vitals -->
+  <link rel="stylesheet" href="./assets/css/performance.css">
+
+<link rel="stylesheet" href="./assets/css/catalog.css">
   <link rel="stylesheet" href="./assets/css/modern-effects.css">
   <link rel="stylesheet" href="./assets/css/product-enhancements.css">
   <link rel="stylesheet" href="./assets/css/mobile-tablet-fixes.css">
@@ -39,7 +43,7 @@
   <header class="site-header" role="banner">
     <div class="header-inner">
       <a class="brand" href="./index.html">
-        <img src="./assets/footer_picture.png" alt="TVMaster logo">
+        <img src="./assets/footer_picture.png" alt="TVMaster logo" loading="lazy" decoding="async">
         <span>TVMaster</span>
       </a>
       <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
