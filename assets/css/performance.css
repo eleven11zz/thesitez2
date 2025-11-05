@@ -1,0 +1,381 @@
+/**
+ * PERFORMANCE OPTIMIZATIONS
+ * Core Web Vitals Improvements
+ *
+ * Targets:
+ * - LCP (Largest Contentful Paint) < 2.5s
+ * - FID (First Input Delay) < 100ms
+ * - CLS (Cumulative Layout Shift) < 0.1
+ */
+
+/* ========================================
+   CUMULATIVE LAYOUT SHIFT (CLS) FIXES
+   Reserve space for images and embeds
+   ======================================== */
+
+/* Aspect ratio containers for images */
+img {
+  /* Prevent layout shifts by reserving space */
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/* For images without explicit dimensions, use aspect-ratio */
+img:not([width]):not([height]) {
+  aspect-ratio: attr(width) / attr(height);
+}
+
+/* Video containers with aspect ratio */
+video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Catalog videos - reserve 16:9 aspect ratio */
+.catalog-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* Swiper slider - prevent layout shift */
+.swiper {
+  width: 100%;
+  height: auto;
+}
+
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Channel cards in slider */
+.channel-card {
+  aspect-ratio: 16 / 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.channel-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* ========================================
+   FONT LOADING OPTIMIZATION
+   Prevent FOIT (Flash of Invisible Text)
+   ======================================== */
+
+/* Use font-display: swap to show fallback font immediately */
+@font-face {
+  font-family: 'Inter';
+  font-display: swap;
+  /* Other font properties */
+}
+
+/* Fallback font stack for faster initial render */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* ========================================
+   CRITICAL RENDERING PATH OPTIMIZATION
+   Above-the-fold content prioritization
+   ======================================== */
+
+/* Hero section - prioritize loading */
+.hero {
+  /* Use will-change sparingly only for hero section */
+  contain: layout style paint;
+}
+
+.hero-heading {
+  /* Ensure hero heading renders fast */
+  font-display: swap;
+}
+
+/* ========================================
+   IMAGE OPTIMIZATION HINTS
+   Browser hints for better loading
+   ======================================== */
+
+/* Lazy loaded images */
+img[loading="lazy"] {
+  /* Browser will defer loading until near viewport */
+  content-visibility: auto;
+}
+
+/* Eager loaded images (above fold) */
+img[loading="eager"] {
+  /* Priority loading for critical images */
+  fetchpriority: high;
+}
+
+/* ========================================
+   CONTENT VISIBILITY
+   Skip rendering off-screen content
+   ======================================== */
+
+/* Product cards - skip rendering until near viewport */
+.card {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 500px;
+}
+
+/* Blog posts */
+.blog-card {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 400px;
+}
+
+/* ========================================
+   ANIMATION PERFORMANCE
+   GPU acceleration for smooth animations
+   ======================================== */
+
+/* Only animate transform and opacity for 60fps */
+.card,
+.btn,
+.cta-button {
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* Remove will-change after animation completes */
+.card:not(:hover),
+.btn:not(:hover) {
+  will-change: auto;
+}
+
+/* ========================================
+   SCROLL PERFORMANCE
+   Optimize scrolling animations
+   ======================================== */
+
+/* Use passive event listeners for scroll */
+* {
+  scroll-behavior: smooth;
+}
+
+/* Optimize scroll container */
+.scroll-container {
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ========================================
+   LOADING INDICATORS
+   Show placeholder while content loads
+   ======================================== */
+
+/* Image skeleton loader */
+img:not([src]),
+img[src=""],
+img[src="#"] {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.05) 0%,
+    rgba(255, 255, 255, 0.1) 50%,
+    rgba(255, 255, 255, 0.05) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* ========================================
+   RESOURCE HINTS SUPPORT
+   CSS for preloaded/prefetched resources
+   ======================================== */
+
+/* Fonts are preloaded via link rel="preload" */
+/* Critical CSS is inlined in <head> */
+/* Non-critical CSS is loaded with media="print" then switched to "all" */
+
+/* ========================================
+   MOBILE PERFORMANCE
+   Optimize for slower connections
+   ======================================== */
+
+@media (max-width: 768px) {
+  /* Reduce image quality on mobile if using CSS filters */
+  img {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
+
+  /* Simplify animations on mobile */
+  * {
+    animation-duration: 0.3s !important;
+    transition-duration: 0.3s !important;
+  }
+
+  /* Disable expensive effects on mobile */
+  .glass-card {
+    backdrop-filter: none;
+    background: rgba(15, 15, 15, 0.95);
+  }
+}
+
+/* ========================================
+   SLOW CONNECTION OPTIMIZATION
+   Optimize for 3G/4G networks
+   ======================================== */
+
+@media (prefers-reduced-data: reduce) {
+  /* Disable background images on slow connections */
+  *::before,
+  *::after {
+    background-image: none !important;
+  }
+
+  /* Disable non-critical animations */
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  /* Hide decorative images */
+  img[loading="lazy"]:not([alt]) {
+    display: none;
+  }
+}
+
+/* ========================================
+   PRINT PERFORMANCE
+   Optimize for printing
+   ======================================== */
+
+@media print {
+  /* Hide non-essential elements */
+  video,
+  .swiper,
+  .slider,
+  nav,
+  .nav,
+  footer,
+  .ads,
+  .social-media {
+    display: none !important;
+  }
+
+  /* Optimize images for print */
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  /* Ensure readable text */
+  body {
+    color: #000000 !important;
+    background: #ffffff !important;
+  }
+}
+
+/* ========================================
+   LARGEST CONTENTFUL PAINT (LCP) OPTIMIZATION
+   Priority loading for above-the-fold content
+   ======================================== */
+
+/* Hero image should load first */
+.hero-image,
+.hero-background {
+  /* Mark as high priority */
+  content-visibility: visible;
+}
+
+/* Defer loading of below-the-fold sections */
+section:not(.hero) {
+  content-visibility: auto;
+}
+
+/* ========================================
+   FIRST INPUT DELAY (FID) OPTIMIZATION
+   Reduce JavaScript blocking
+   ======================================== */
+
+/* Ensure interactive elements respond immediately */
+button,
+a,
+input,
+select,
+textarea {
+  /* Remove any delays */
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* ========================================
+   PROGRESSIVE ENHANCEMENT
+   Core content works without CSS
+   ======================================== */
+
+/* Ensure core functionality without CSS */
+.no-js .hidden-no-js {
+  display: block;
+}
+
+.no-js .show-with-js {
+  display: none;
+}
+
+/* ========================================
+   PERFORMANCE MONITORING
+   Visual indicators for debugging
+   ======================================== */
+
+/* Debug mode - show lazy loaded images */
+.debug-performance img[loading="lazy"] {
+  outline: 2px dashed orange;
+}
+
+.debug-performance img[loading="eager"] {
+  outline: 2px solid green;
+}
+
+.debug-performance video[preload="none"] {
+  outline: 2px dashed blue;
+}
+
+/* ========================================
+   CORE WEB VITALS SUMMARY
+   ======================================== */
+
+/*
+ * LCP Optimizations:
+ * - Hero images load with fetchpriority="high"
+ * - Critical images load eagerly
+ * - Below-fold images lazy load
+ * - Image aspect ratios prevent reflow
+ *
+ * FID Optimizations:
+ * - JavaScript deferred (not render-blocking)
+ * - Touch actions optimized
+ * - No long-running main thread tasks
+ *
+ * CLS Optimizations:
+ * - All images have dimensions
+ * - Aspect ratios prevent layout shift
+ * - Content visibility reserves space
+ * - No injected content above fold
+ *
+ * Expected Results:
+ * - LCP: < 2.5s (target)
+ * - FID: < 100ms (target)
+ * - CLS: < 0.1 (target)
+ */

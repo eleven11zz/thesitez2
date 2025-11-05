@@ -1,0 +1,544 @@
+/**
+ * ACCESSIBILITY ENHANCEMENTS
+ * WCAG 2.1 AA Compliance Improvements
+ *
+ * Covers:
+ * - Enhanced keyboard focus indicators
+ * - Color contrast improvements (4.5:1 minimum for normal text)
+ * - Screen reader utilities
+ * - Skip navigation links
+ * - ARIA live region support
+ * - Touch target improvements
+ */
+
+/* ========================================
+   SKIP TO MAIN CONTENT LINK
+   ======================================== */
+
+.skip-to-main {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  background: #e50914;
+  color: #ffffff;
+  padding: 1rem 1.5rem;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  z-index: 10000;
+  border-radius: 0 0 8px 0;
+  transition: top 0.3s ease;
+}
+
+.skip-to-main:focus {
+  top: 0;
+  outline: 3px solid #ffffff;
+  outline-offset: 2px;
+}
+
+/* ========================================
+   SCREEN READER ONLY UTILITY
+   ======================================== */
+
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.sr-only-focusable:focus,
+.sr-only-focusable:active {
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  overflow: visible !important;
+  clip: auto !important;
+  white-space: normal !important;
+}
+
+/* ========================================
+   ENHANCED FOCUS INDICATORS
+   All interactive elements get visible focus
+   ======================================== */
+
+/* Global focus style - highly visible */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+select:focus,
+[tabindex]:focus,
+.card:focus-within {
+  outline: 3px solid #e50914 !important;
+  outline-offset: 3px !important;
+  box-shadow: 0 0 0 6px rgba(229, 9, 20, 0.2) !important;
+}
+
+/* Button specific focus (stronger for dark buttons) */
+button:focus,
+.btn:focus,
+.cta-button:focus,
+.card-cta:focus,
+.header-cta:focus,
+input[type="submit"]:focus,
+input[type="button"]:focus {
+  outline: 3px solid #ffffff !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 0 6px rgba(229, 9, 20, 0.4),
+              0 0 0 9px rgba(255, 255, 255, 0.3) !important;
+}
+
+/* Navigation links focus */
+.main-nav a:focus {
+  outline: 2px solid #e50914 !important;
+  outline-offset: 4px !important;
+  background: rgba(229, 9, 20, 0.1) !important;
+  border-radius: 4px !important;
+}
+
+/* Card links focus */
+.card-link:focus,
+.card:focus-within {
+  transform: translateY(-8px) !important;
+  box-shadow: 0 12px 40px rgba(229, 9, 20, 0.3) !important;
+}
+
+/* Form inputs focus */
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: #e50914 !important;
+  box-shadow: 0 0 0 4px rgba(229, 9, 20, 0.1) !important;
+}
+
+/* ========================================
+   COLOR CONTRAST IMPROVEMENTS
+   Ensuring 4.5:1 minimum ratio for text
+   ======================================== */
+
+/* Footer text - Dark enough for contrast */
+footer,
+.footer {
+  background: #0a0a0a !important;
+  color: #e5e5e5 !important; /* Was too light - now meets 4.5:1 */
+}
+
+footer p,
+footer a,
+footer li,
+.footer p,
+.footer a,
+.footer li {
+  color: #e5e5e5 !important; /* Increased from #999 to meet contrast */
+}
+
+footer a:hover,
+.footer a:hover {
+  color: #ffffff !important;
+  text-decoration: underline !important;
+}
+
+/* Footer headings */
+footer h3,
+footer h4,
+.footer h3,
+.footer h4 {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+}
+
+/* Body text contrast */
+body {
+  color: #e5e5e5 !important;
+  background: #0f0f0f !important;
+}
+
+/* Paragraph and general text */
+p,
+li,
+td,
+th {
+  color: #e5e5e5 !important;
+}
+
+/* Headings - ensure they're bright enough */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
+
+/* Muted text - still needs to meet 3:1 ratio (for large text) */
+.text-muted,
+.muted,
+small {
+  color: #b3b3b3 !important; /* Darker than typical muted gray */
+}
+
+/* Button text contrast */
+.btn,
+.cta-button,
+.card-cta,
+.header-cta,
+button {
+  color: #ffffff !important;
+  font-weight: 600 !important;
+}
+
+/* Ensure button backgrounds are dark enough for white text */
+.btn-primary,
+.cta-button,
+.card-cta,
+.header-cta {
+  background: linear-gradient(135deg, #e50914 0%, #b8070f 100%) !important;
+  /* Red is dark enough for white text (meets 4.5:1) */
+}
+
+/* Secondary buttons with sufficient contrast */
+.btn-secondary {
+  background: #333333 !important;
+  color: #ffffff !important;
+  border: 2px solid #666666 !important;
+}
+
+.btn-secondary:hover {
+  background: #4a4a4a !important;
+  border-color: #888888 !important;
+}
+
+/* ========================================
+   SEMANTIC HEADING STYLES
+   Ensuring visual hierarchy matches semantic hierarchy
+   ======================================== */
+
+h1 {
+  font-size: clamp(2rem, 5vw, 3.5rem) !important;
+  font-weight: 800 !important;
+  line-height: 1.2 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+h2 {
+  font-size: clamp(1.75rem, 4vw, 2.5rem) !important;
+  font-weight: 700 !important;
+  line-height: 1.3 !important;
+  margin-bottom: 1.25rem !important;
+}
+
+h3 {
+  font-size: clamp(1.5rem, 3vw, 2rem) !important;
+  font-weight: 600 !important;
+  line-height: 1.4 !important;
+  margin-bottom: 1rem !important;
+}
+
+h4 {
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem) !important;
+  font-weight: 600 !important;
+  line-height: 1.4 !important;
+  margin-bottom: 0.875rem !important;
+}
+
+/* ========================================
+   ICON BUTTON ACCESSIBILITY
+   Ensuring icon-only buttons are clear to screen readers
+   ======================================== */
+
+/* Icon buttons need visible hover/focus states */
+.icon-button,
+button[aria-label] {
+  position: relative;
+  min-width: 48px !important;
+  min-height: 48px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+/* Tooltip for icon buttons on hover (visual cue) */
+button[aria-label]:hover::after,
+.icon-button:hover::after {
+  content: attr(aria-label);
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.9);
+  color: #ffffff;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+  white-space: nowrap;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+/* ========================================
+   FORM ACCESSIBILITY
+   Ensuring all form elements are properly labeled
+   ======================================== */
+
+/* Required field indicator */
+.required::after {
+  content: " *";
+  color: #e50914;
+  font-weight: bold;
+}
+
+/* Form labels must be visible and associated */
+label {
+  display: block !important;
+  margin-bottom: 0.5rem !important;
+  color: #ffffff !important;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+}
+
+/* Error states */
+input:invalid:not(:placeholder-shown),
+textarea:invalid:not(:placeholder-shown) {
+  border-color: #e50914 !important;
+  box-shadow: 0 0 0 3px rgba(229, 9, 20, 0.2) !important;
+}
+
+.error-message,
+.form-error {
+  color: #ff6b6b !important; /* Lighter red for better contrast on dark bg */
+  font-size: 0.875rem !important;
+  margin-top: 0.25rem !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+}
+
+.error-message::before,
+.form-error::before {
+  content: "⚠";
+  font-size: 1.1rem;
+}
+
+/* ========================================
+   LINK ACCESSIBILITY
+   Making links clearly distinguishable
+   ======================================== */
+
+/* Inline links within text */
+a {
+  color: #ff4444 !important; /* Brighter red for better contrast */
+  text-decoration: underline !important;
+  text-underline-offset: 2px !important;
+}
+
+a:hover {
+  color: #ff6b6b !important;
+  text-decoration-thickness: 2px !important;
+}
+
+/* Navigation links can have no underline (but clear hover state) */
+nav a,
+.nav a,
+.main-nav a {
+  text-decoration: none !important;
+}
+
+nav a:hover,
+.nav a:hover,
+.main-nav a:hover {
+  text-decoration: underline !important;
+}
+
+/* ========================================
+   TOUCH TARGET SIZES
+   Minimum 48x48px for all interactive elements
+   ======================================== */
+
+@media (hover: none) and (pointer: coarse) {
+  a,
+  button,
+  input[type="submit"],
+  input[type="button"],
+  input[type="checkbox"],
+  input[type="radio"],
+  select,
+  .btn,
+  .card-cta {
+    min-height: 48px !important;
+    min-width: 48px !important;
+    padding: 0.875rem 1.5rem !important;
+  }
+
+  /* Checkboxes and radios */
+  input[type="checkbox"],
+  input[type="radio"] {
+    width: 24px !important;
+    height: 24px !important;
+    margin: 12px !important; /* Extra margin for 48px touch target */
+  }
+}
+
+/* ========================================
+   TABLES ACCESSIBILITY
+   Proper table structure for screen readers
+   ======================================== */
+
+table {
+  border-collapse: collapse !important;
+  width: 100% !important;
+}
+
+th {
+  text-align: left !important;
+  font-weight: 700 !important;
+  background: rgba(229, 9, 20, 0.1) !important;
+  color: #ffffff !important;
+  padding: 1rem !important;
+  border: 1px solid #333333 !important;
+}
+
+td {
+  padding: 1rem !important;
+  border: 1px solid #333333 !important;
+  color: #e5e5e5 !important;
+}
+
+/* Zebra striping for readability */
+tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02) !important;
+}
+
+/* ========================================
+   ARIA LIVE REGIONS
+   For dynamic content updates
+   ======================================== */
+
+[aria-live="polite"],
+[aria-live="assertive"],
+.live-region {
+  position: relative;
+}
+
+/* Toast/notification styling */
+.toast,
+.notification,
+[role="alert"],
+[role="status"] {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background: #1a1a1a;
+  border: 2px solid #e50914;
+  border-radius: 8px;
+  padding: 1.5rem;
+  color: #ffffff;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+  z-index: 10000;
+  min-width: 300px;
+  max-width: 500px;
+}
+
+.toast[role="alert"] {
+  border-color: #ff4444;
+}
+
+.toast[role="status"] {
+  border-color: #4ade80;
+}
+
+/* ========================================
+   HIGH CONTRAST MODE SUPPORT
+   For users with high contrast settings
+   ======================================== */
+
+@media (prefers-contrast: high) {
+  * {
+    border-width: 2px !important;
+  }
+
+  a:focus,
+  button:focus,
+  input:focus {
+    outline-width: 4px !important;
+    outline-offset: 4px !important;
+  }
+
+  button,
+  .btn {
+    border: 3px solid #ffffff !important;
+  }
+}
+
+/* ========================================
+   REDUCED MOTION SUPPORT
+   For users with vestibular disorders
+   ======================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ========================================
+   FOCUS VISIBLE (Modern browsers)
+   Only show focus when keyboard navigating
+   ======================================== */
+
+/* Reset focus styles */
+*:focus:not(:focus-visible) {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Show focus only for keyboard navigation */
+*:focus-visible {
+  outline: 3px solid #e50914 !important;
+  outline-offset: 3px !important;
+  box-shadow: 0 0 0 6px rgba(229, 9, 20, 0.2) !important;
+}
+
+/* ========================================
+   PRINT ACCESSIBILITY
+   Ensure content is accessible when printed
+   ======================================== */
+
+@media print {
+  /* Show URLs for links */
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+
+  /* Hide decorative elements */
+  nav,
+  .nav,
+  .sidebar,
+  .ads,
+  .social-media {
+    display: none !important;
+  }
+
+  /* Ensure text is readable */
+  body,
+  p,
+  li,
+  td,
+  th {
+    color: #000000 !important;
+    background: #ffffff !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #000000 !important;
+    page-break-after: avoid !important;
+  }
+}
