@@ -916,3 +916,180 @@
     font-size: 0.85rem;
   }
 }
+
+/* ===================================
+   PORTAL BANNER STYLES
+   - Prominent link to app portals
+   - Call-to-action design
+   =================================== */
+
+.portal-banner {
+  margin-top: 3rem;
+  padding: 0;
+}
+
+.portal-banner-content {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem 2.5rem;
+  background: linear-gradient(135deg, rgba(229, 9, 20, 0.1) 0%, rgba(15, 15, 15, 0.6) 100%);
+  border: 2px solid rgba(229, 9, 20, 0.3);
+  border-radius: 16px;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.portal-banner-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, transparent 0%, rgba(229, 9, 20, 0.05) 100%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.portal-banner-content:hover::before {
+  opacity: 1;
+}
+
+.portal-banner-content:hover {
+  border-color: rgba(229, 9, 20, 0.5);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(229, 9, 20, 0.2);
+}
+
+.portal-icon {
+  flex-shrink: 0;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, rgba(229, 9, 20, 0.2) 0%, rgba(229, 9, 20, 0.1) 100%);
+  border: 2px solid rgba(229, 9, 20, 0.4);
+  border-radius: 12px;
+  font-size: 1.75rem;
+  color: #e50914;
+  transition: all 0.3s ease;
+}
+
+.portal-banner-content:hover .portal-icon {
+  transform: scale(1.1) rotate(5deg);
+  border-color: rgba(229, 9, 20, 0.6);
+}
+
+.portal-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.portal-info h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: rgba(248, 250, 251, 0.95);
+}
+
+.portal-info p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: rgba(248, 250, 251, 0.7);
+  line-height: 1.5;
+}
+
+.portal-btn {
+  flex-shrink: 0;
+  padding: 0.875rem 1.75rem;
+  background: linear-gradient(135deg, #e50914 0%, #c20812 100%);
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.portal-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, #ff1a24 0%, #e50914 100%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: -1;
+}
+
+.portal-btn:hover::before {
+  opacity: 1;
+}
+
+.portal-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(229, 9, 20, 0.4);
+}
+
+.portal-btn i {
+  transition: transform 0.3s ease;
+}
+
+.portal-btn:hover i {
+  transform: translateX(4px);
+}
+
+/* Responsive Portal Banner */
+@media (max-width: 768px) {
+  .portal-banner-content {
+    flex-direction: column;
+    text-align: center;
+    padding: 2rem 1.5rem;
+    gap: 1.5rem;
+  }
+
+  .portal-icon {
+    width: 50px;
+    height: 50px;
+    font-size: 1.5rem;
+  }
+
+  .portal-info h3 {
+    font-size: 1.1rem;
+  }
+
+  .portal-info p {
+    font-size: 0.9rem;
+  }
+
+  .portal-btn {
+    width: 100%;
+    justify-content: center;
+    padding: 1rem 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .portal-banner-content {
+    padding: 1.5rem 1rem;
+  }
+
+  .portal-icon {
+    width: 45px;
+    height: 45px;
+    font-size: 1.3rem;
+  }
+}
