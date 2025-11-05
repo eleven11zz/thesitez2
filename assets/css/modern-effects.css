@@ -1,0 +1,496 @@
+/**
+ * Modern Effects & Animations CSS
+ * Netflix/Apple-inspired modern effects
+ */
+
+/* ============================================
+   1. SCROLL REVEAL ANIMATIONS
+   ============================================ */
+.reveal,
+.reveal-up,
+.reveal-scale {
+  opacity: 0;
+  transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1),
+              transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.reveal-up {
+  transform: translateY(40px);
+}
+
+.reveal-scale {
+  transform: scale(0.95);
+}
+
+.reveal.revealed,
+.reveal-up.revealed,
+.reveal-scale.revealed {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+/* Stagger animation for multiple elements */
+.reveal:nth-child(1) { transition-delay: 0.1s; }
+.reveal:nth-child(2) { transition-delay: 0.2s; }
+.reveal:nth-child(3) { transition-delay: 0.3s; }
+.reveal:nth-child(4) { transition-delay: 0.4s; }
+.reveal:nth-child(5) { transition-delay: 0.5s; }
+.reveal:nth-child(6) { transition-delay: 0.6s; }
+
+/* ============================================
+   2. GLASSMORPHISM
+   ============================================ */
+.glass {
+  background: rgba(12, 12, 12, 0.7);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(248, 250, 251, 0.1);
+}
+
+.glass-card {
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 18, 0.85),
+    rgba(8, 8, 8, 0.75)
+  );
+  backdrop-filter: blur(16px) saturate(160%);
+  -webkit-backdrop-filter: blur(16px) saturate(160%);
+  border: 1px solid rgba(229, 9, 20, 0.25);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4),
+              inset 0 1px 0 rgba(248, 250, 251, 0.05);
+}
+
+/* ============================================
+   3. ANIMATED GRADIENTS
+   ============================================ */
+@keyframes gradient-shift {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animated-gradient {
+  background: linear-gradient(
+    -45deg,
+    #050505,
+    #0a0a0a,
+    #1a0a0a,
+    #050505
+  );
+  background-size: 400% 400%;
+  animation: gradient-shift 15s ease infinite;
+}
+
+.animated-gradient-red {
+  background: linear-gradient(
+    -45deg,
+    rgba(229, 9, 20, 0.1),
+    rgba(229, 9, 20, 0.05),
+    rgba(255, 45, 58, 0.08),
+    rgba(229, 9, 20, 0.1)
+  );
+  background-size: 400% 400%;
+  animation: gradient-shift 12s ease infinite;
+}
+
+/* Pulsing gradient border */
+@keyframes pulse-border {
+  0%, 100% {
+    border-color: rgba(229, 9, 20, 0.3);
+    box-shadow: 0 0 20px rgba(229, 9, 20, 0.15);
+  }
+  50% {
+    border-color: rgba(229, 9, 20, 0.6);
+    box-shadow: 0 0 30px rgba(229, 9, 20, 0.3);
+  }
+}
+
+.pulse-border {
+  animation: pulse-border 3s ease-in-out infinite;
+}
+
+/* ============================================
+   4. IMAGE/VIDEO HOVER ZOOM
+   ============================================ */
+.video-zoom-container,
+.image-zoom-container {
+  overflow: hidden;
+  border-radius: inherit;
+  position: relative;
+}
+
+.video-zoom-container video,
+.video-zoom-container img,
+.image-zoom-container img {
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform;
+}
+
+.video-zoom-container:hover video,
+.video-zoom-container:hover img,
+.image-zoom-container:hover img {
+  transform: scale(1.08);
+}
+
+/* Ken Burns effect (slow zoom) */
+@keyframes ken-burns {
+  0% {
+    transform: scale(1) translateX(0);
+  }
+  100% {
+    transform: scale(1.1) translateX(-5%);
+  }
+}
+
+.ken-burns {
+  animation: ken-burns 20s ease-in-out infinite alternate;
+}
+
+/* ============================================
+   5. RIPPLE EFFECT
+   ============================================ */
+.ripple-effect {
+  position: absolute;
+  border-radius: 50%;
+  background: rgba(248, 250, 251, 0.4);
+  transform: scale(0);
+  animation: ripple-animation 0.6s ease-out;
+  pointer-events: none;
+}
+
+@keyframes ripple-animation {
+  to {
+    transform: scale(2.5);
+    opacity: 0;
+  }
+}
+
+/* Ensure buttons can contain ripples */
+.card-cta,
+.header-cta,
+.filter-chip,
+.group-chip {
+  position: relative;
+  overflow: hidden;
+}
+
+/* ============================================
+   6. ENHANCED CARD HOVER (SPOTLIGHT EFFECT)
+   ============================================ */
+.card,
+.group-card {
+  --mouse-x: 50%;
+  --mouse-y: 50%;
+  position: relative;
+}
+
+.card::after,
+.group-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    600px circle at var(--mouse-x) var(--mouse-y),
+    rgba(229, 9, 20, 0.15),
+    transparent 40%
+  );
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  pointer-events: none;
+  border-radius: inherit;
+  z-index: 1;
+}
+
+.card:hover::after,
+.group-card:hover::after {
+  opacity: 1;
+}
+
+/* ============================================
+   7. BACK TO TOP BUTTON
+   ============================================ */
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #e50914, #ff2d3a);
+  border: 1px solid rgba(229, 9, 20, 0.5);
+  color: #ffffff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 12px 32px rgba(229, 9, 20, 0.4);
+  z-index: 999;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px) scale(0.8);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0) scale(1);
+}
+
+.back-to-top:hover {
+  transform: translateY(-4px) scale(1.05);
+  box-shadow: 0 16px 40px rgba(229, 9, 20, 0.5);
+}
+
+.back-to-top:active {
+  transform: translateY(-2px) scale(1.02);
+}
+
+.back-to-top svg {
+  width: 24px;
+  height: 24px;
+}
+
+/* Mobile positioning */
+@media (max-width: 768px) {
+  .back-to-top {
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: 48px;
+    height: 48px;
+  }
+
+  .back-to-top svg {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+/* ============================================
+   8. LOADING SPINNER
+   ============================================ */
+.loading-spinner {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.spinner-svg {
+  width: 50px;
+  height: 50px;
+  animation: rotate 2s linear infinite;
+}
+
+.spinner-circle {
+  stroke: #e50914;
+  stroke-linecap: round;
+  animation: dash 1.5s ease-in-out infinite;
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes dash {
+  0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -35;
+  }
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -124;
+  }
+}
+
+/* ============================================
+   9. FLOATING ANIMATION
+   ============================================ */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* ============================================
+   10. SHINE EFFECT
+   ============================================ */
+.shine {
+  position: relative;
+  overflow: hidden;
+}
+
+.shine::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(248, 250, 251, 0.2),
+    transparent
+  );
+  transition: left 0.7s ease;
+}
+
+.shine:hover::before {
+  left: 100%;
+}
+
+/* ============================================
+   11. ENHANCED FOCUS STATES
+   ============================================ */
+.keyboard-user *:focus {
+  outline: 2px solid #e50914;
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+.keyboard-user a:focus,
+.keyboard-user button:focus {
+  outline: 2px solid #e50914;
+  outline-offset: 4px;
+}
+
+/* ============================================
+   12. MICRO-INTERACTIONS
+   ============================================ */
+
+/* Button press effect */
+.card-cta:active,
+.header-cta:active,
+button:active {
+  transform: translateY(-1px) scale(0.98);
+}
+
+/* Icon bounce on hover */
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.icon-bounce:hover {
+  animation: bounce 0.6s ease;
+}
+
+/* Badge pulse */
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 0.9;
+  }
+}
+
+.pulse-badge {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* ============================================
+   13. TEXT EFFECTS
+   ============================================ */
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, #e50914, #ff2d3a, #e50914);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-shift 3s ease infinite;
+}
+
+/* Glowing text */
+.glow-text {
+  text-shadow: 0 0 10px rgba(229, 9, 20, 0.5),
+               0 0 20px rgba(229, 9, 20, 0.3),
+               0 0 30px rgba(229, 9, 20, 0.2);
+}
+
+/* ============================================
+   14. SKELETON LOADING
+   ============================================ */
+@keyframes skeleton-loading {
+  0% {
+    background-position: -200px 0;
+  }
+  100% {
+    background-position: calc(200px + 100%) 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    rgba(18, 18, 18, 0.8) 0px,
+    rgba(28, 28, 28, 0.9) 40px,
+    rgba(18, 18, 18, 0.8) 80px
+  );
+  background-size: 200px 100%;
+  animation: skeleton-loading 1.4s ease-in-out infinite;
+}
+
+/* ============================================
+   15. REDUCED MOTION SUPPORT
+   ============================================ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .parallax,
+  .float,
+  .ken-burns {
+    animation: none !important;
+  }
+}
+
+/* ============================================
+   16. PERFORMANCE OPTIMIZATIONS
+   ============================================ */
+.card,
+.group-card,
+.channel-list li,
+video,
+img {
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* GPU acceleration hints */
+.animated-gradient,
+.pulse-border,
+.float {
+  transform: translateZ(0);
+}
