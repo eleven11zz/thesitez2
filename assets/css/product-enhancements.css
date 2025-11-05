@@ -1,0 +1,552 @@
+/* ===================================
+   PRODUCT PAGES MODERN ENHANCEMENTS
+   - Premium animations and effects
+   - Gradient overlays and shimmer
+   - Enhanced hover interactions
+   - Attractive CTAs and badges
+   - Smooth transitions and polish
+   =================================== */
+
+/* ===================================
+   ENHANCED HERO SECTION
+   =================================== */
+
+.hero {
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+/* Animated gradient background */
+.hero::before {
+  content: '' !important;
+  position: absolute !important;
+  top: -50% !important;
+  left: -50% !important;
+  width: 200% !important;
+  height: 200% !important;
+  background: radial-gradient(circle at center, rgba(229, 9, 20, 0.15) 0%, transparent 50%) !important;
+  animation: heroGlow 20s ease-in-out infinite !important;
+  pointer-events: none !important;
+  z-index: 0 !important;
+}
+
+@keyframes heroGlow {
+  0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.5; }
+  50% { transform: translate(10%, 10%) scale(1.1); opacity: 0.8; }
+}
+
+.hero > * {
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+.hero h1 {
+  animation: fadeInUp 0.8s ease-out !important;
+}
+
+.hero p {
+  animation: fadeInUp 1s ease-out 0.2s both !important;
+}
+
+.catalog-meta {
+  animation: fadeInUp 1.2s ease-out 0.4s both !important;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Enhanced catalog meta badges */
+.catalog-meta span {
+  padding: 0.5rem 1rem !important;
+  background: rgba(229, 9, 20, 0.12) !important;
+  border: 1px solid rgba(229, 9, 20, 0.3) !important;
+  border-radius: 50px !important;
+  transition: all 0.3s ease !important;
+  backdrop-filter: blur(10px) !important;
+}
+
+.catalog-meta span:hover {
+  background: rgba(229, 9, 20, 0.2) !important;
+  border-color: rgba(229, 9, 20, 0.5) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 12px rgba(229, 9, 20, 0.25) !important;
+}
+
+/* ===================================
+   ENHANCED PRODUCT CARDS
+   =================================== */
+
+.card {
+  position: relative !important;
+  background: linear-gradient(135deg, rgba(10, 10, 10, 0.95) 0%, rgba(15, 15, 15, 0.92) 100%) !important;
+  border: 1px solid rgba(229, 9, 20, 0.3) !important;
+  overflow: hidden !important;
+  animation: cardFadeIn 0.6s ease-out both !important;
+}
+
+/* Stagger animation for cards */
+.card:nth-child(1) { animation-delay: 0.1s !important; }
+.card:nth-child(2) { animation-delay: 0.2s !important; }
+.card:nth-child(3) { animation-delay: 0.3s !important; }
+.card:nth-child(4) { animation-delay: 0.4s !important; }
+.card:nth-child(5) { animation-delay: 0.5s !important; }
+.card:nth-child(6) { animation-delay: 0.6s !important; }
+.card:nth-child(7) { animation-delay: 0.7s !important; }
+.card:nth-child(8) { animation-delay: 0.8s !important; }
+.card:nth-child(9) { animation-delay: 0.9s !important; }
+
+@keyframes cardFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Gradient overlay on cards */
+.card::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  background: linear-gradient(135deg, rgba(229, 9, 20, 0.05) 0%, transparent 50%, rgba(229, 9, 20, 0.03) 100%) !important;
+  opacity: 0 !important;
+  transition: opacity 0.4s ease !important;
+  pointer-events: none !important;
+  z-index: 1 !important;
+}
+
+.card:hover::before {
+  opacity: 1 !important;
+}
+
+/* Shimmer effect on hover */
+.card::after {
+  content: '' !important;
+  position: absolute !important;
+  top: -50% !important;
+  left: -50% !important;
+  width: 200% !important;
+  height: 200% !important;
+  background: linear-gradient(
+    45deg,
+    transparent 30%,
+    rgba(255, 255, 255, 0.05) 50%,
+    transparent 70%
+  ) !important;
+  transform: translateX(-100%) translateY(-100%) rotate(45deg) !important;
+  transition: transform 0.8s ease !important;
+  pointer-events: none !important;
+  z-index: 2 !important;
+}
+
+.card:hover::after {
+  transform: translateX(100%) translateY(100%) rotate(45deg) !important;
+}
+
+.card:hover {
+  transform: translateY(-12px) !important;
+  box-shadow: 0 40px 80px rgba(229, 9, 20, 0.35),
+              0 0 0 1px rgba(229, 9, 20, 0.4) !important;
+  border-color: rgba(229, 9, 20, 0.5) !important;
+}
+
+/* ===================================
+   VIDEO/IMAGE ENHANCEMENTS
+   =================================== */
+
+.catalog-video,
+.card video,
+.card img {
+  position: relative !important;
+  transition: transform 0.5s ease, filter 0.5s ease !important;
+}
+
+.card:hover .catalog-video,
+.card:hover video,
+.card:hover img {
+  transform: scale(1.08) !important;
+  filter: brightness(1.1) contrast(1.05) !important;
+}
+
+/* Video overlay gradient */
+.card video::after,
+.catalog-video::after {
+  content: '' !important;
+  position: absolute !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  height: 50% !important;
+  background: linear-gradient(to top, rgba(10, 10, 10, 0.8) 0%, transparent 100%) !important;
+  pointer-events: none !important;
+}
+
+/* ===================================
+   ENHANCED LABELS & BADGES
+   =================================== */
+
+.card-label {
+  position: relative !important;
+  background: linear-gradient(135deg, rgba(229, 9, 20, 0.25) 0%, rgba(229, 9, 20, 0.15) 100%) !important;
+  border: 1px solid rgba(229, 9, 20, 0.5) !important;
+  box-shadow: 0 4px 12px rgba(229, 9, 20, 0.2),
+              inset 0 1px 0 rgba(255, 255, 255, 0.1) !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.15em !important;
+  transition: all 0.3s ease !important;
+  z-index: 10 !important;
+}
+
+.card:hover .card-label {
+  background: linear-gradient(135deg, rgba(229, 9, 20, 0.35) 0%, rgba(229, 9, 20, 0.25) 100%) !important;
+  box-shadow: 0 6px 16px rgba(229, 9, 20, 0.3),
+              inset 0 1px 0 rgba(255, 255, 255, 0.15) !important;
+  transform: translateY(-2px) !important;
+}
+
+/* Add "POPULAR" badge to featured cards */
+.card:nth-child(1) .card-label::after,
+.card:nth-child(2) .card-label::after {
+  content: '⭐ POPULAR' !important;
+  position: absolute !important;
+  top: -28px !important;
+  right: -8px !important;
+  background: linear-gradient(135deg, #e50914 0%, #ff2d3a 100%) !important;
+  color: white !important;
+  padding: 4px 10px !important;
+  border-radius: 50px !important;
+  font-size: 0.65rem !important;
+  box-shadow: 0 4px 12px rgba(229, 9, 20, 0.4) !important;
+  animation: badgePulse 2s ease-in-out infinite !important;
+}
+
+@keyframes badgePulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); box-shadow: 0 6px 16px rgba(229, 9, 20, 0.6); }
+}
+
+/* ===================================
+   ENHANCED CARD BODY
+   =================================== */
+
+.card-body {
+  position: relative !important;
+  z-index: 3 !important;
+}
+
+.card h2 {
+  font-size: clamp(1.3rem, 3vw, 1.75rem) !important;
+  margin: 0.5rem 0 !important;
+  background: linear-gradient(135deg, #ffffff 0%, #f0f0f0 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  transition: all 0.3s ease !important;
+}
+
+.card:hover h2 {
+  background: linear-gradient(135deg, #ffffff 0%, #e50914 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+}
+
+.card p {
+  color: rgba(248, 250, 251, 0.8) !important;
+  line-height: 1.7 !important;
+  transition: color 0.3s ease !important;
+}
+
+.card:hover p {
+  color: rgba(248, 250, 251, 0.95) !important;
+}
+
+/* Enhanced feature list */
+.card ul {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0.75rem 0 !important;
+  display: grid !important;
+  gap: 0.6rem !important;
+}
+
+.card ul li {
+  position: relative !important;
+  padding-left: 1.75rem !important;
+  color: rgba(248, 250, 251, 0.75) !important;
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+  transition: all 0.3s ease !important;
+}
+
+.card ul li::before {
+  content: '✓' !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 0 !important;
+  color: #e50914 !important;
+  font-weight: 700 !important;
+  font-size: 1.1rem !important;
+  transition: transform 0.3s ease !important;
+}
+
+.card:hover ul li::before {
+  transform: scale(1.2) rotate(360deg) !important;
+}
+
+.card:hover ul li {
+  color: rgba(248, 250, 251, 0.9) !important;
+  padding-left: 1.85rem !important;
+}
+
+/* ===================================
+   ENHANCED CARD FOOTER
+   =================================== */
+
+.card-footer {
+  display: flex !important;
+  gap: 1rem !important;
+  flex-wrap: wrap !important;
+  padding: 0.75rem 0 !important;
+  border-top: 1px solid rgba(229, 9, 20, 0.2) !important;
+  margin-top: 0.5rem !important;
+}
+
+.card-footer span {
+  padding: 0.4rem 0.9rem !important;
+  background: rgba(229, 9, 20, 0.1) !important;
+  border: 1px solid rgba(229, 9, 20, 0.25) !important;
+  border-radius: 20px !important;
+  font-size: 0.85rem !important;
+  transition: all 0.3s ease !important;
+  white-space: nowrap !important;
+}
+
+.card:hover .card-footer span {
+  background: rgba(229, 9, 20, 0.15) !important;
+  border-color: rgba(229, 9, 20, 0.4) !important;
+  transform: translateY(-2px) !important;
+}
+
+/* ===================================
+   ENHANCED CTA BUTTONS
+   =================================== */
+
+.card-actions {
+  display: flex !important;
+  gap: 0.75rem !important;
+  flex-wrap: wrap !important;
+  margin-top: 1rem !important;
+}
+
+.card-cta {
+  flex: 1 !important;
+  min-width: 140px !important;
+  padding: 1rem 1.5rem !important;
+  border-radius: 50px !important;
+  font-weight: 700 !important;
+  font-size: 0.9rem !important;
+  letter-spacing: 0.05em !important;
+  text-transform: uppercase !important;
+  text-align: center !important;
+  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  position: relative !important;
+  overflow: hidden !important;
+  z-index: 1 !important;
+}
+
+/* Primary CTA (Buy Now) */
+.card-cta:not(.secondary) {
+  background: linear-gradient(135deg, #e50914 0%, #c20812 50%, #e50914 100%) !important;
+  background-size: 200% 100% !important;
+  color: #ffffff !important;
+  border: none !important;
+  box-shadow: 0 8px 20px rgba(229, 9, 20, 0.4),
+              0 0 20px rgba(229, 9, 20, 0.2),
+              inset 0 1px 0 rgba(255, 255, 255, 0.1) !important;
+  text-decoration: none !important;
+}
+
+.card-cta:not(.secondary)::before {
+  content: '' !important;
+  position: absolute !important;
+  inset: 0 !important;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent) !important;
+  transform: translateX(-100%) !important;
+  transition: transform 0.6s ease !important;
+  z-index: -1 !important;
+}
+
+.card-cta:not(.secondary):hover {
+  background-position: 100% 0 !important;
+  transform: translateY(-3px) scale(1.02) !important;
+  box-shadow: 0 12px 28px rgba(229, 9, 20, 0.5),
+              0 0 30px rgba(229, 9, 20, 0.3),
+              inset 0 1px 0 rgba(255, 255, 255, 0.15) !important;
+  text-decoration: none !important;
+}
+
+.card-cta:not(.secondary):hover::before {
+  transform: translateX(100%) !important;
+}
+
+.card-cta:not(.secondary):active {
+  transform: translateY(-1px) scale(1.01) !important;
+}
+
+/* Secondary CTA (View Channel List) */
+.card-cta.secondary {
+  background: rgba(248, 250, 251, 0.08) !important;
+  border: 1px solid rgba(248, 250, 251, 0.2) !important;
+  color: rgba(248, 250, 251, 0.9) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2) !important;
+  text-decoration: none !important;
+}
+
+.card-cta.secondary:hover {
+  background: rgba(248, 250, 251, 0.12) !important;
+  border-color: rgba(248, 250, 251, 0.35) !important;
+  color: #ffffff !important;
+  transform: translateY(-3px) !important;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3) !important;
+  text-decoration: none !important;
+}
+
+/* ===================================
+   RESPONSIVE ENHANCEMENTS
+   =================================== */
+
+@media (max-width: 768px) {
+  .card-actions {
+    flex-direction: column !important;
+  }
+
+  .card-cta {
+    width: 100% !important;
+    min-width: unset !important;
+  }
+
+  .card:hover {
+    transform: translateY(-8px) !important;
+  }
+
+  .card h2 {
+    font-size: 1.35rem !important;
+  }
+}
+
+/* ===================================
+   LOADING STATES & PERFORMANCE
+   =================================== */
+
+/* Lazy loading shimmer */
+.lazy-video[preload="none"] {
+  background: linear-gradient(
+    90deg,
+    rgba(10, 10, 10, 0.9) 0%,
+    rgba(20, 20, 20, 0.9) 50%,
+    rgba(10, 10, 10, 0.9) 100%
+  ) !important;
+  background-size: 200% 100% !important;
+  animation: shimmer 1.5s ease-in-out infinite !important;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* ===================================
+   ACCESSIBILITY ENHANCEMENTS
+   =================================== */
+
+.card:focus-within {
+  outline: 2px solid #e50914 !important;
+  outline-offset: 4px !important;
+}
+
+.card-cta:focus-visible {
+  outline: 3px solid #e50914 !important;
+  outline-offset: 3px !important;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ===================================
+   ADDITIONAL POLISH
+   =================================== */
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth !important;
+}
+
+/* Card grid stagger load */
+.cards {
+  animation: gridFadeIn 0.8s ease-out !important;
+}
+
+@keyframes gridFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Hover depth effect on card sections */
+.card-body {
+  transition: padding 0.3s ease !important;
+}
+
+.card:hover .card-body {
+  padding: clamp(22px, 4vw, 30px) !important;
+}
+
+/* Glow effect on primary CTA */
+.card-cta:not(.secondary)::after {
+  content: '' !important;
+  position: absolute !important;
+  inset: -2px !important;
+  background: linear-gradient(45deg, transparent, rgba(229, 9, 20, 0.4), transparent) !important;
+  border-radius: 50px !important;
+  opacity: 0 !important;
+  transition: opacity 0.3s ease !important;
+  z-index: -2 !important;
+  animation: glowRotate 3s linear infinite !important;
+  animation-play-state: paused !important;
+}
+
+.card-cta:not(.secondary):hover::after {
+  opacity: 1 !important;
+  animation-play-state: running !important;
+}
+
+@keyframes glowRotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
