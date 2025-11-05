@@ -1,0 +1,493 @@
+/* ===================================
+   MOBILE & TABLET RESPONSIVE FIXES
+   - Prevents horizontal scrolling
+   - Ensures proper alignment on all devices
+   - Optimized for iPhone, iPad, Android
+   =================================== */
+
+/* ===================================
+   GLOBAL OVERFLOW PREVENTION
+   =================================== */
+
+/* Lock viewport - prevent horizontal movement */
+html {
+  overflow-x: hidden !important;
+  width: 100% !important;
+  position: relative !important;
+}
+
+body {
+  overflow-x: hidden !important;
+  width: 100% !important;
+  position: relative !important;
+  -webkit-overflow-scrolling: touch !important;
+}
+
+/* Ensure all direct children don't overflow */
+body > * {
+  max-width: 100vw !important;
+  overflow-x: hidden !important;
+}
+
+/* ===================================
+   CONTAINER & SECTION ALIGNMENT
+   =================================== */
+
+/* Fix container widths across all breakpoints */
+.container {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+  box-sizing: border-box !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Desktop container */
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1400px !important;
+    padding-left: 3rem !important;
+    padding-right: 3rem !important;
+  }
+}
+
+/* Tablet landscape container */
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .container {
+    max-width: 100% !important;
+    padding-left: 2.5rem !important;
+    padding-right: 2.5rem !important;
+  }
+}
+
+/* Tablet portrait container */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .container {
+    max-width: 100% !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+}
+
+/* Mobile container */
+@media (max-width: 767px) {
+  .container {
+    max-width: 100% !important;
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+  }
+}
+
+/* Ensure sections don't overflow */
+section {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+  box-sizing: border-box !important;
+}
+
+/* ===================================
+   IMAGE & MEDIA ALIGNMENT
+   =================================== */
+
+/* Prevent images from causing overflow */
+img,
+video,
+iframe,
+embed,
+object {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block !important;
+}
+
+/* Fix inline images */
+img:not([class*="icon"]) {
+  width: auto !important;
+  max-width: 100% !important;
+}
+
+/* Ensure picture elements are contained */
+picture {
+  display: block !important;
+  max-width: 100% !important;
+}
+
+picture img {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* ===================================
+   GRID & FLEX LAYOUTS
+   =================================== */
+
+/* Fix grid overflows */
+[class*="grid"],
+.grid {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+  box-sizing: border-box !important;
+}
+
+/* Fix flex container overflows */
+[class*="flex"],
+.flex {
+  max-width: 100% !important;
+  flex-wrap: wrap !important;
+}
+
+/* ===================================
+   TEXT & TYPOGRAPHY
+   =================================== */
+
+/* Prevent long words from causing overflow */
+h1, h2, h3, h4, h5, h6, p, li, span, div {
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+  hyphens: auto !important;
+}
+
+/* Fix pre-formatted text */
+pre,
+code {
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+}
+
+/* ===================================
+   TABLES
+   =================================== */
+
+/* Make tables responsive */
+table {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  display: block !important;
+}
+
+@media (max-width: 768px) {
+  table {
+    font-size: 0.9rem !important;
+  }
+}
+
+/* ===================================
+   FORMS & INPUTS
+   =================================== */
+
+/* Prevent form elements from overflowing */
+input,
+textarea,
+select,
+button {
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* ===================================
+   HERO SECTION - TABLET ALIGNMENT
+   =================================== */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .hero {
+    padding: 4rem 0 !important;
+  }
+
+  .hero-content {
+    padding: 0 !important;
+  }
+
+  .hero-grid {
+    gap: 2.5rem !important;
+    grid-template-columns: 1fr !important;
+  }
+
+  .hero-text {
+    text-align: center !important;
+    align-items: center !important;
+  }
+
+  .hero-heading {
+    font-size: clamp(2rem, 5vw, 3rem) !important;
+  }
+
+  .hero-card {
+    max-width: 100% !important;
+    margin: 0 auto !important;
+  }
+}
+
+/* ===================================
+   PRODUCTS SECTION - TABLET ALIGNMENT
+   =================================== */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .product-summary-grid,
+  [class*="product"] {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)) !important;
+    gap: 2rem !important;
+  }
+
+  .product-card {
+    max-width: 100% !important;
+  }
+}
+
+/* ===================================
+   REVIEWS SECTION - TABLET ALIGNMENT
+   =================================== */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .reviews-grid {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)) !important;
+    gap: 2rem !important;
+  }
+
+  .review-card {
+    max-width: 100% !important;
+  }
+}
+
+/* ===================================
+   COMPARISON SECTION - TABLET ALIGNMENT
+   =================================== */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .comparison-container {
+    max-width: 100% !important;
+    padding: 2rem !important;
+  }
+
+  .comparison-grid {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 1.5rem !important;
+  }
+}
+
+/* ===================================
+   QUIZ SECTION - TABLET ALIGNMENT
+   =================================== */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .quiz-container {
+    max-width: 100% !important;
+    padding: 2.5rem !important;
+  }
+
+  .quiz-options {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)) !important;
+    gap: 1.5rem !important;
+  }
+}
+
+/* ===================================
+   CHANNEL LISTS - TABLET ALIGNMENT
+   =================================== */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .lineups-grid,
+  .channel-grid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)) !important;
+    gap: 2rem !important;
+  }
+
+  .channel-card {
+    max-width: 100% !important;
+    aspect-ratio: 1 / 1 !important;
+  }
+}
+
+/* ===================================
+   MOBILE SPECIFIC FIXES (< 768px)
+   =================================== */
+
+@media (max-width: 767px) {
+  /* Ensure proper spacing on mobile */
+  .hero,
+  .products,
+  .reviews,
+  .comparison,
+  .quiz,
+  .lineups {
+    padding: 3rem 0 !important;
+  }
+
+  /* Stack all grids to single column */
+  .hero-grid,
+  .product-summary-grid,
+  .reviews-grid,
+  .comparison-grid,
+  .lineups-grid,
+  .channel-grid {
+    grid-template-columns: 1fr !important;
+    gap: 1.5rem !important;
+  }
+
+  /* Full width cards on mobile */
+  .hero-card,
+  .product-card,
+  .review-card,
+  .comparison-card,
+  .quiz-container,
+  .lineup-card,
+  .channel-card {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  /* Adjust heading sizes for mobile */
+  h1 {
+    font-size: clamp(1.8rem, 6vw, 2.5rem) !important;
+  }
+
+  h2 {
+    font-size: clamp(1.5rem, 5vw, 2rem) !important;
+  }
+
+  h3 {
+    font-size: clamp(1.2rem, 4vw, 1.5rem) !important;
+  }
+
+  /* Ensure buttons are touch-friendly */
+  button,
+  .button,
+  [class*="btn"],
+  [class*="cta"] {
+    min-height: 48px !important;
+    padding: 1rem 1.5rem !important;
+    font-size: 1rem !important;
+  }
+
+  /* Ensure adequate touch targets */
+  a,
+  button,
+  input,
+  select,
+  textarea {
+    min-height: 44px !important;
+  }
+}
+
+/* ===================================
+   SMALL MOBILE (< 480px)
+   =================================== */
+
+@media (max-width: 480px) {
+  /* Extra tight spacing on small phones */
+  .container {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  /* Reduce section padding */
+  section {
+    padding-top: 2.5rem !important;
+    padding-bottom: 2.5rem !important;
+  }
+
+  /* Smaller headings */
+  h1 {
+    font-size: clamp(1.5rem, 7vw, 2rem) !important;
+  }
+
+  h2 {
+    font-size: clamp(1.3rem, 6vw, 1.75rem) !important;
+  }
+
+  /* Tighter card padding */
+  .hero-card,
+  .product-card,
+  .review-card {
+    padding: 1.5rem !important;
+  }
+}
+
+/* ===================================
+   LANDSCAPE MOBILE FIXES
+   =================================== */
+
+@media (max-width: 896px) and (orientation: landscape) {
+  /* Reduce vertical padding in landscape */
+  section {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+  }
+
+  .hero {
+    padding: 2rem 0 !important;
+  }
+
+  /* Smaller hero heading in landscape */
+  .hero-heading {
+    font-size: clamp(1.5rem, 4vw, 2.5rem) !important;
+  }
+}
+
+/* ===================================
+   FIX SPECIFIC ELEMENTS THAT MAY OVERFLOW
+   =================================== */
+
+/* Swiper/Carousel containers */
+.swiper,
+.swiper-container,
+.carousel {
+  max-width: 100% !important;
+  overflow: hidden !important;
+}
+
+/* Modals and popups */
+.modal,
+.popup,
+[class*="modal"],
+[class*="popup"] {
+  max-width: 100vw !important;
+  box-sizing: border-box !important;
+}
+
+/* Navigation menus */
+nav,
+[class*="nav"],
+.menu {
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+}
+
+/* ===================================
+   PREVENT ZOOM ON INPUT FOCUS (iOS)
+   =================================== */
+
+@media (max-width: 767px) {
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="number"],
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+}
+
+/* ===================================
+   TOUCH DEVICE OPTIMIZATIONS
+   =================================== */
+
+/* Smooth scrolling on touch devices */
+@media (hover: none) and (pointer: coarse) {
+  * {
+    -webkit-tap-highlight-color: rgba(229, 9, 20, 0.2) !important;
+  }
+
+  /* Larger touch targets */
+  a,
+  button {
+    min-width: 44px !important;
+    min-height: 44px !important;
+    padding: 0.75rem 1rem !important;
+  }
+}
