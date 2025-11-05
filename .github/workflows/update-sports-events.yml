@@ -20,6 +20,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.ref }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,8 +29,10 @@ jobs:
 
       - name: Fetch Fresh Sports Events
         run: |
+          echo "🔍 Fetching sports events..."
           cd scripts
           python3 fetch-events.py
+          echo "✅ Fetch completed"
         continue-on-error: false
 
       - name: Check for Changes
@@ -46,11 +49,24 @@ jobs:
       - name: Commit and Push Changes
         if: steps.check_changes.outputs.changed == 'true'
         run: |
+          echo "🔧 Configuring git..."
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions Bot"
+
+          echo "📝 Current branch: $(git branch --show-current)"
+          echo "📝 Git status before commit:"
+          git status
+
+          echo "➕ Adding changes..."
           git add assets/js/events.json
+
+          echo "💾 Committing..."
           git commit -m "🔄 Auto-update sports events - $(date '+%Y-%m-%d %H:%M UTC')"
-          git push
+
+          echo "🚀 Pushing to ${GITHUB_REF#refs/heads/}..."
+          git push origin HEAD:${GITHUB_REF#refs/heads/}
+
+          echo "✅ Push completed successfully!"
 
       - name: Summary
         if: steps.check_changes.outputs.changed == 'true'
