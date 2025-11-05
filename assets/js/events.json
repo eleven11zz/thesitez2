@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-04T00:00:00.000Z",
+  "generatedAt": "2025-01-15T12:00:00.000Z",
   "source": "TheSportsDB",
   "leagues": [
     {
@@ -25,67 +25,148 @@
           "tvStations": [
             "Sky Sports Premier League",
             "Sky Sports Main Event",
-            "Peacock"
+            "Peacock",
+            "USA Network"
           ],
           "image": "https://www.thesportsdb.com/images/media/event/thumb/qqvwxr1726959644.jpg",
-          "article": null,
           "highlights": "https://www.scorebat.com/embed/g/arsenal-liverpool-highlights",
           "odds": {
             "home": "1.90",
             "draw": "3.60",
-            "away": "3.40",
-            "raw": "1.90, 3.60, 3.40"
+            "away": "3.40"
           },
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emirates%20Stadium%20London%20England",
           "eventUrl": "https://www.thesportsdb.com/event/2056445",
           "homeTeam": {
             "id": "133604",
             "name": "Arsenal",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/vrtrtp1448813175.png",
-            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/yvsrrs1420633085.png"
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/vrtrtp1448813175.png"
           },
           "awayTeam": {
             "id": "133602",
             "name": "Liverpool",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
-            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/tprvyr1420644135.png"
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
           }
-        },
+        }
+      ]
+    },
+    {
+      "leagueId": "4335",
+      "slug": "la-liga",
+      "label": "Spanish La Liga",
+      "sport": "Soccer",
+      "events": [
         {
-          "id": "2056450",
-          "slug": "manchester-city-vs-newcastle-united",
-          "title": "Manchester City vs Newcastle United",
-          "league": "English Premier League",
+          "id": "2056700",
+          "slug": "real-madrid-vs-barcelona",
+          "title": "Real Madrid vs Barcelona",
+          "league": "Spanish La Liga",
           "season": "2024-2025",
           "sport": "Soccer",
           "start": {
-            "utc": "2025-02-22T17:30:00Z",
-            "date": "2025-02-22",
-            "time": "17:30"
+            "utc": "2025-03-23T20:00:00Z",
+            "date": "2025-03-23",
+            "time": "20:00"
           },
-          "venue": "Etihad Stadium",
-          "city": "Manchester, England",
+          "venue": "Santiago Bernabéu",
+          "city": "Madrid, Spain",
           "tvStations": [
-            "Sky Sports Premier League",
-            "USA Network"
+            "ESPN+",
+            "LaLigaTV",
+            "beIN Sports"
           ],
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/5l7f221726959690.jpg",
-          "article": null,
-          "highlights": null,
-          "odds": null,
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Etihad%20Stadium%20Manchester%20England",
-          "eventUrl": "https://www.thesportsdb.com/event/2056450",
+          "image": "https://www.thesportsdb.com/images/media/league/badge/i6o0kh1549879062.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4335",
           "homeTeam": {
-            "id": "133613",
-            "name": "Manchester City",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/uyfwwt1448813355.png",
-            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/fmyhyu1631122822.png"
+            "id": "133739",
+            "name": "Real Madrid",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/yqrstr1420745968.png"
           },
           "awayTeam": {
-            "id": "134777",
-            "name": "Newcastle United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/txpqsp1448813275.png",
-            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/sxrudp1420640044.png"
+            "id": "133714",
+            "name": "Barcelona",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/syxspx1448813341.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4332",
+      "slug": "bundesliga",
+      "label": "German Bundesliga",
+      "sport": "Soccer",
+      "events": [
+        {
+          "id": "2056800",
+          "slug": "bayern-munich-vs-borussia-dortmund",
+          "title": "Bayern Munich vs Borussia Dortmund",
+          "league": "German Bundesliga",
+          "season": "2024-2025",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-04-05T17:30:00Z",
+            "date": "2025-04-05",
+            "time": "17:30"
+          },
+          "venue": "Allianz Arena",
+          "city": "Munich, Germany",
+          "tvStations": [
+            "ESPN+",
+            "Sky Sports Germany",
+            "DAZN"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/0j55yf1534764799.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4332",
+          "homeTeam": {
+            "id": "133795",
+            "name": "Bayern Munich",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/uxuutq1448814632.png"
+          },
+          "awayTeam": {
+            "id": "133789",
+            "name": "Borussia Dortmund",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/xqpxsw1421757477.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4380",
+      "slug": "uefa-champions-league",
+      "label": "UEFA Champions League",
+      "sport": "Soccer",
+      "events": [
+        {
+          "id": "2057200",
+          "slug": "psg-vs-man-city-ucl",
+          "title": "PSG vs Manchester City",
+          "league": "UEFA Champions League",
+          "season": "2024-2025",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-04-29T19:00:00Z",
+            "date": "2025-04-29",
+            "time": "19:00"
+          },
+          "venue": "Parc des Princes",
+          "city": "Paris, France",
+          "tvStations": [
+            "CBS Sports",
+            "Paramount+",
+            "TNT Sports",
+            "Canal+"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/9j7oso1694521383.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4380",
+          "homeTeam": {
+            "id": "133747",
+            "name": "PSG",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/tvpwty1467830482.png"
+          },
+          "awayTeam": {
+            "id": "133613",
+            "name": "Manchester City",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/uyfwwt1448813355.png"
           }
         }
       ]
@@ -100,7 +181,7 @@
           "id": "2057001",
           "slug": "kansas-city-chiefs-vs-san-francisco-49ers",
           "title": "Kansas City Chiefs vs San Francisco 49ers",
-          "league": "NFL Playoffs",
+          "league": "NFL",
           "season": "2024-2025",
           "sport": "American Football",
           "start": {
@@ -113,67 +194,106 @@
           "tvStations": [
             "CBS",
             "Nickelodeon",
-            "Univision"
+            "Univision",
+            "Paramount+"
           ],
           "image": "https://www.thesportsdb.com/images/media/event/thumb/yuprxz1726411594.jpg",
-          "article": null,
           "highlights": "https://www.nfl.com/videos/chiefs-vs-49ers-highlights",
           "odds": {
             "home": "1.85",
-            "draw": null,
-            "away": "2.05",
-            "raw": "1.85;2.05"
+            "away": "2.05"
           },
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caesars%20Superdome%20New%20Orleans%20USA",
           "eventUrl": "https://www.thesportsdb.com/event/2057001",
           "homeTeam": {
             "id": "134867",
             "name": "Kansas City Chiefs",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/wusuvf1420905422.png",
-            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/txsutv1421753020.png"
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/wusuvf1420905422.png"
           },
           "awayTeam": {
             "id": "134922",
             "name": "San Francisco 49ers",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/vxtpwr1422036915.png",
-            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/qtqupr1421754277.png"
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/vxtpwr1422036915.png"
           }
-        },
+        }
+      ]
+    },
+    {
+      "leagueId": "4387",
+      "slug": "nba",
+      "label": "NBA",
+      "sport": "Basketball",
+      "events": [
         {
-          "id": "2057005",
-          "slug": "buffalo-bills-vs-philadelphia-eagles",
-          "title": "Buffalo Bills vs Philadelphia Eagles",
-          "league": "NFL",
+          "id": "2058000",
+          "slug": "lakers-vs-celtics",
+          "title": "LA Lakers vs Boston Celtics",
+          "league": "NBA",
           "season": "2024-2025",
-          "sport": "American Football",
+          "sport": "Basketball",
           "start": {
-            "utc": "2025-01-26T21:00:00Z",
-            "date": "2025-01-26",
-            "time": "21:00"
+            "utc": "2025-02-20T01:30:00Z",
+            "date": "2025-02-20",
+            "time": "01:30"
           },
-          "venue": "Highmark Stadium",
-          "city": "Orchard Park, USA",
+          "venue": "Crypto.com Arena",
+          "city": "Los Angeles, USA",
           "tvStations": [
-            "FOX",
-            "DAZN Canada"
+            "ESPN",
+            "ABC",
+            "NBA League Pass"
           ],
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/rvtrtt1726411622.jpg",
-          "article": null,
-          "highlights": null,
-          "odds": null,
-          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Highmark%20Stadium%20Orchard%20Park%20USA",
-          "eventUrl": "https://www.thesportsdb.com/event/2057005",
+          "image": "https://www.thesportsdb.com/images/media/league/badge/i1xzjb1546461824.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4387",
           "homeTeam": {
-            "id": "134880",
-            "name": "Buffalo Bills",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/txyttw1420905397.png",
-            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/wwpstw1421753683.png"
+            "id": "134876",
+            "name": "LA Lakers",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/0bz49j1548627826.png"
           },
           "awayTeam": {
-            "id": "134919",
-            "name": "Philadelphia Eagles",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/tstvsr1420905523.png",
-            "jersey": "https://www.thesportsdb.com/images/media/team/jersey/rprpqt1421754210.png"
+            "id": "134868",
+            "name": "Boston Celtics",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/7e63av1548627821.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4424",
+      "slug": "mlb",
+      "label": "Major League Baseball",
+      "sport": "Baseball",
+      "events": [
+        {
+          "id": "2058100",
+          "slug": "yankees-vs-red-sox",
+          "title": "New York Yankees vs Boston Red Sox",
+          "league": "MLB",
+          "season": "2025",
+          "sport": "Baseball",
+          "start": {
+            "utc": "2025-05-15T23:05:00Z",
+            "date": "2025-05-15",
+            "time": "23:05"
+          },
+          "venue": "Yankee Stadium",
+          "city": "New York, USA",
+          "tvStations": [
+            "ESPN",
+            "MLB Network",
+            "YES Network"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/mlb.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4424",
+          "homeTeam": {
+            "id": "135261",
+            "name": "New York Yankees",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/xvyquu1423079263.png"
+          },
+          "awayTeam": {
+            "id": "135262",
+            "name": "Boston Red Sox",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/yppvwt1423061538.png"
           }
         }
       ]
@@ -204,27 +324,302 @@
             "Kayo PPV"
           ],
           "image": "https://www.thesportsdb.com/images/media/event/thumb/0v7t191728012932.jpg",
-          "article": null,
           "highlights": "https://www.ufc.com/video/ufc-305-countdown",
           "odds": {
             "home": "1.65",
-            "draw": null,
-            "away": "2.20",
-            "raw": "1.65,2.20"
+            "away": "2.20"
           },
           "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Perth%20Arena%20Perth%20Australia",
           "eventUrl": "https://www.thesportsdb.com/event/2057500",
           "homeTeam": {
             "id": "137358",
             "name": "Israel Adesanya",
-            "badge": "https://www.thesportsdb.com/images/media/player/badge/xf9f941693404338.png",
-            "jersey": null
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/xf9f941693404338.png"
           },
           "awayTeam": {
             "id": "137359",
             "name": "Dricus Du Plessis",
-            "badge": "https://www.thesportsdb.com/images/media/player/badge/8hcg0h1693404310.png",
-            "jersey": null
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/8hcg0h1693404310.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4370",
+      "slug": "nhl",
+      "label": "National Hockey League",
+      "sport": "Ice Hockey",
+      "events": [
+        {
+          "id": "2058200",
+          "slug": "maple-leafs-vs-canadiens",
+          "title": "Toronto Maple Leafs vs Montreal Canadiens",
+          "league": "NHL",
+          "season": "2024-2025",
+          "sport": "Ice Hockey",
+          "start": {
+            "utc": "2025-03-12T00:00:00Z",
+            "date": "2025-03-12",
+            "time": "00:00"
+          },
+          "venue": "Scotiabank Arena",
+          "city": "Toronto, Canada",
+          "tvStations": [
+            "ESPN+",
+            "Sportsnet",
+            "TVA Sports"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/8eabfg1604759207.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4370",
+          "homeTeam": {
+            "id": "134842",
+            "name": "Toronto Maple Leafs",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/swstpy1422918435.png"
+          },
+          "awayTeam": {
+            "id": "134825",
+            "name": "Montreal Canadiens",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/qpssyt1422918074.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4420",
+      "slug": "formula-1",
+      "label": "Formula 1",
+      "sport": "Motorsport",
+      "events": [
+        {
+          "id": "2058300",
+          "slug": "f1-monaco-grand-prix",
+          "title": "Monaco Grand Prix",
+          "league": "Formula 1",
+          "season": "2025",
+          "sport": "Motorsport",
+          "start": {
+            "utc": "2025-05-25T13:00:00Z",
+            "date": "2025-05-25",
+            "time": "13:00"
+          },
+          "venue": "Circuit de Monaco",
+          "city": "Monte Carlo, Monaco",
+          "tvStations": [
+            "ESPN",
+            "Sky Sports F1",
+            "F1 TV Pro"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/formula1.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4420",
+          "homeTeam": {
+            "id": "135197",
+            "name": "Red Bull Racing",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/redbull.png"
+          },
+          "awayTeam": {
+            "id": "135198",
+            "name": "Ferrari",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/ferrari.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4344",
+      "slug": "tennis-grand-slam",
+      "label": "Tennis Grand Slam",
+      "sport": "Tennis",
+      "events": [
+        {
+          "id": "2058400",
+          "slug": "wimbledon-mens-final",
+          "title": "Wimbledon Men's Final",
+          "league": "Wimbledon",
+          "season": "2025",
+          "sport": "Tennis",
+          "start": {
+            "utc": "2025-07-13T13:00:00Z",
+            "date": "2025-07-13",
+            "time": "13:00"
+          },
+          "venue": "Centre Court",
+          "city": "London, England",
+          "tvStations": [
+            "ESPN",
+            "BBC",
+            "Eurosport"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/wimbledon.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4344",
+          "homeTeam": {
+            "id": "136001",
+            "name": "Novak Djokovic",
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/djokovic.png"
+          },
+          "awayTeam": {
+            "id": "136002",
+            "name": "Carlos Alcaraz",
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/alcaraz.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4478",
+      "slug": "boxing",
+      "label": "Boxing",
+      "sport": "Boxing",
+      "events": [
+        {
+          "id": "2058500",
+          "slug": "heavyweight-championship",
+          "title": "Heavyweight Championship Fight",
+          "league": "WBC",
+          "season": "2025",
+          "sport": "Boxing",
+          "start": {
+            "utc": "2025-06-14T02:00:00Z",
+            "date": "2025-06-14",
+            "time": "02:00"
+          },
+          "venue": "MGM Grand Garden Arena",
+          "city": "Las Vegas, USA",
+          "tvStations": [
+            "DAZN PPV",
+            "ESPN+ PPV",
+            "Sky Sports Box Office"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/boxing.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4478",
+          "homeTeam": {
+            "id": "136500",
+            "name": "Tyson Fury",
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/fury.png"
+          },
+          "awayTeam": {
+            "id": "136501",
+            "name": "Oleksandr Usyk",
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/usyk.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4482",
+      "slug": "cricket-ipl",
+      "label": "Indian Premier League",
+      "sport": "Cricket",
+      "events": [
+        {
+          "id": "2058600",
+          "slug": "mumbai-vs-chennai",
+          "title": "Mumbai Indians vs Chennai Super Kings",
+          "league": "IPL",
+          "season": "2025",
+          "sport": "Cricket",
+          "start": {
+            "utc": "2025-04-18T14:00:00Z",
+            "date": "2025-04-18",
+            "time": "14:00"
+          },
+          "venue": "Wankhede Stadium",
+          "city": "Mumbai, India",
+          "tvStations": [
+            "Star Sports",
+            "Hotstar",
+            "Willow TV"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/ipl.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4482",
+          "homeTeam": {
+            "id": "137001",
+            "name": "Mumbai Indians",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/mumbai.png"
+          },
+          "awayTeam": {
+            "id": "137002",
+            "name": "Chennai Super Kings",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/chennai.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4460",
+      "slug": "rugby-six-nations",
+      "label": "Six Nations Rugby",
+      "sport": "Rugby",
+      "events": [
+        {
+          "id": "2058700",
+          "slug": "england-vs-ireland",
+          "title": "England vs Ireland",
+          "league": "Six Nations",
+          "season": "2025",
+          "sport": "Rugby",
+          "start": {
+            "utc": "2025-03-15T16:45:00Z",
+            "date": "2025-03-15",
+            "time": "16:45"
+          },
+          "venue": "Twickenham Stadium",
+          "city": "London, England",
+          "tvStations": [
+            "ITV",
+            "BBC",
+            "Peacock"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/sixnations.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4460",
+          "homeTeam": {
+            "id": "133947",
+            "name": "England",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/england-rugby.png"
+          },
+          "awayTeam": {
+            "id": "133948",
+            "name": "Ireland",
+            "badge": "https://www.thesportsdb.com/images/media/team/badge/ireland-rugby.png"
+          }
+        }
+      ]
+    },
+    {
+      "leagueId": "4456",
+      "slug": "golf-masters",
+      "label": "The Masters Golf",
+      "sport": "Golf",
+      "events": [
+        {
+          "id": "2058800",
+          "slug": "masters-final-round",
+          "title": "The Masters - Final Round",
+          "league": "PGA Tour",
+          "season": "2025",
+          "sport": "Golf",
+          "start": {
+            "utc": "2025-04-13T16:00:00Z",
+            "date": "2025-04-13",
+            "time": "16:00"
+          },
+          "venue": "Augusta National Golf Club",
+          "city": "Augusta, USA",
+          "tvStations": [
+            "CBS",
+            "ESPN",
+            "Sky Sports Golf"
+          ],
+          "image": "https://www.thesportsdb.com/images/media/league/badge/masters.png",
+          "eventUrl": "https://www.thesportsdb.com/league/4456",
+          "homeTeam": {
+            "id": "137500",
+            "name": "Scottie Scheffler",
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/scheffler.png"
+          },
+          "awayTeam": {
+            "id": "137501",
+            "name": "Rory McIlroy",
+            "badge": "https://www.thesportsdb.com/images/media/player/badge/mcilroy.png"
           }
         }
       ]
