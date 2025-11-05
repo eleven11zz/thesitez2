@@ -1,0 +1,573 @@
+/* ===================================
+   COMPREHENSIVE UI/UX FIXES
+   - Layout & Alignment (mobile/tablet)
+   - Responsive Navigation (tablet breakpoint)
+   - Button Consistency
+   - Image/Slider Fixes
+   - Mobile Touch Targets
+   =================================== */
+
+/* ===================================
+   1. GLOBAL RESPONSIVE FIXES
+   =================================== */
+
+/* Ensure all images scale properly */
+img, video, iframe {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block;
+}
+
+/* Prevent horizontal overflow globally */
+html, body {
+  overflow-x: hidden !important;
+  max-width: 100vw !important;
+}
+
+* {
+  box-sizing: border-box !important;
+}
+
+/* Ensure all containers respect viewport */
+.container, .hero, .cards, .benefits, section {
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+}
+
+/* ===================================
+   2. LAYOUT & ALIGNMENT FIXES
+   =================================== */
+
+/* Product Grid - Fix spacing and alignment */
+.cards {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)) !important;
+  gap: 2rem !important;
+  padding: 2rem 1rem !important;
+  max-width: 1400px !important;
+  margin: 0 auto !important;
+}
+
+/* Product Cards - Consistent spacing */
+.card {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: auto !important;
+}
+
+/* Card Body - Adequate padding on all screens */
+.card-body {
+  padding: 1.5rem !important;
+}
+
+@media (max-width: 480px) {
+  .cards {
+    grid-template-columns: 1fr !important;
+    gap: 1.5rem !important;
+    padding: 1.5rem 1rem !important;
+  }
+
+  .card-body {
+    padding: 1.25rem !important;
+  }
+}
+
+/* Text Content - Prevent overflow */
+.card h2, .card p, .card li {
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+  hyphens: auto !important;
+}
+
+/* Hero Section - Responsive padding */
+.hero {
+  padding: 3rem 1.5rem !important;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding: 2rem 1rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    padding: 1.5rem 1rem !important;
+  }
+}
+
+/* ===================================
+   3. RESPONSIVE NAVIGATION FIXES
+   =================================== */
+
+/* Desktop Navigation - Default */
+.site-header .header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  gap: 4px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  z-index: 1001;
+}
+
+.nav-toggle span {
+  width: 24px;
+  height: 2px;
+  background: #fff;
+  transition: all 0.3s ease;
+  display: block;
+}
+
+/* Tablet Breakpoint - 992px (10" tablets) */
+@media (max-width: 992px) {
+  .site-header .header-inner {
+    padding: 0 1.5rem;
+  }
+
+  .main-nav {
+    gap: 1rem;
+  }
+
+  .main-nav a {
+    font-size: 0.9rem;
+    padding: 0.5rem 0.75rem;
+  }
+
+  .header-cta {
+    padding: 0.5rem 1rem !important;
+    font-size: 0.85rem !important;
+  }
+}
+
+/* Mobile Navigation - 768px and below */
+@media (max-width: 768px) {
+  .nav-toggle {
+    display: flex !important;
+  }
+
+  .main-nav {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    height: 100vh;
+    width: 280px;
+    max-width: 85vw;
+    background: rgba(10, 10, 10, 0.98);
+    backdrop-filter: blur(10px);
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 80px 2rem 2rem;
+    gap: 0;
+    transition: right 0.3s ease;
+    overflow-y: auto;
+    z-index: 1000;
+    border-left: 1px solid rgba(229, 9, 20, 0.3);
+  }
+
+  .main-nav.active {
+    right: 0 !important;
+  }
+
+  .main-nav a {
+    width: 100%;
+    padding: 1rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 1rem;
+  }
+
+  .header-cta {
+    margin-top: 1rem;
+    width: 100%;
+    text-align: center;
+  }
+
+  /* Hamburger Animation */
+  .nav-toggle[aria-expanded="true"] span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+
+  .nav-toggle[aria-expanded="true"] span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .nav-toggle[aria-expanded="true"] span:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -5px);
+  }
+}
+
+/* Small Mobile - Additional spacing */
+@media (max-width: 480px) {
+  .site-header .header-inner {
+    padding: 0 1rem;
+  }
+
+  .brand img {
+    height: 36px;
+  }
+
+  .brand span {
+    font-size: 1rem;
+  }
+}
+
+/* ===================================
+   4. BUTTON CONSISTENCY
+   =================================== */
+
+/* Standardized Button Styles */
+.card-cta, .cta-button, .header-cta, button[type="submit"], .btn, .button {
+  /* Base styling */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.875rem 1.75rem !important;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  border-radius: 8px !important; /* Consistent corner radius */
+  border: 2px solid transparent !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  cursor: pointer;
+  white-space: nowrap;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  line-height: 1.4;
+}
+
+/* Primary Button Style */
+.card-cta:not(.secondary), .cta-button:not(.secondary), .header-cta {
+  background: linear-gradient(135deg, #e50914 0%, #c20812 100%) !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(229, 9, 20, 0.3) !important;
+}
+
+.card-cta:not(.secondary):hover, .cta-button:not(.secondary):hover, .header-cta:hover {
+  background: linear-gradient(135deg, #ff1a24 0%, #e50914 100%) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 8px 20px rgba(229, 9, 20, 0.4) !important;
+}
+
+/* Secondary Button Style */
+.card-cta.secondary, .cta-button.secondary {
+  background: rgba(255, 255, 255, 0.05) !important;
+  color: rgba(248, 250, 251, 0.95) !important;
+  border-color: rgba(229, 9, 20, 0.4) !important;
+}
+
+.card-cta.secondary:hover, .cta-button.secondary:hover {
+  background: rgba(229, 9, 20, 0.1) !important;
+  border-color: rgba(229, 9, 20, 0.6) !important;
+  transform: translateY(-2px) !important;
+}
+
+/* Button Groups */
+.card-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 480px) {
+  .card-actions {
+    flex-direction: column;
+  }
+
+  .card-cta, .cta-button {
+    width: 100%;
+  }
+}
+
+/* ===================================
+   5. IMAGE SLIDER FIXES
+   =================================== */
+
+/* Ensure sliders don't overflow */
+.slider, .carousel, .swiper-container, [class*="slider"] {
+  max-width: 100% !important;
+  overflow: hidden !important;
+}
+
+.slider img, .carousel img, .swiper-slide img {
+  max-width: 100% !important;
+  height: auto !important;
+  object-fit: cover !important;
+}
+
+/* Catalog Video - Responsive sizing */
+.catalog-video {
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16/9;
+  object-fit: cover !important;
+}
+
+/* Prevent video overflow during load */
+video {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block !important;
+}
+
+/* Fix for homepage slider */
+.hero-slider, .main-slider {
+  max-width: 100% !important;
+  overflow: hidden !important;
+}
+
+.hero-slider img, .main-slider img {
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
+/* ===================================
+   6. MOBILE TOUCH TARGETS
+   =================================== */
+
+/* Minimum 48px touch targets (WCAG Guidelines) */
+@media (hover: none) and (pointer: coarse) {
+  a, button, .btn, .card-cta, .nav-toggle, input[type="button"], input[type="submit"] {
+    min-height: 48px !important;
+    min-width: 48px !important;
+    padding: 0.75rem 1.25rem !important;
+  }
+
+  /* Navigation links */
+  .main-nav a {
+    min-height: 48px !important;
+    display: flex;
+    align-items: center;
+  }
+
+  /* Clickable cards */
+  .card {
+    touch-action: manipulation;
+  }
+
+  /* Form inputs */
+  input, select, textarea {
+    min-height: 48px !important;
+    font-size: 16px !important; /* Prevents zoom on iOS */
+    padding: 0.75rem !important;
+  }
+}
+
+/* Increase tap target spacing */
+@media (max-width: 768px) {
+  .card-actions {
+    gap: 1rem;
+  }
+
+  .card-actions a, .card-actions button {
+    padding: 1rem 1.5rem !important;
+    min-height: 52px;
+  }
+
+  /* Footer links */
+  footer a {
+    padding: 0.75rem 0.5rem;
+    display: inline-block;
+  }
+}
+
+/* ===================================
+   7. TABLET-SPECIFIC FIXES (768px - 992px)
+   =================================== */
+
+@media (min-width: 768px) and (max-width: 992px) {
+  /* Product cards - 2 columns on tablet */
+  .cards {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1.5rem !important;
+    padding: 2rem 1.5rem !important;
+  }
+
+  /* Typography adjustments */
+  .hero h1 {
+    font-size: clamp(1.75rem, 4vw, 2.25rem) !important;
+  }
+
+  .card h2 {
+    font-size: 1.35rem !important;
+  }
+
+  /* Benefits section */
+  .benefits {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1.5rem !important;
+  }
+}
+
+/* iPad Portrait (768px - 834px) */
+@media (min-width: 768px) and (max-width: 834px) {
+  .container {
+    max-width: 100% !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+
+  .hero {
+    padding: 2.5rem 2rem !important;
+  }
+}
+
+/* iPad Pro Portrait (834px - 1024px) */
+@media (min-width: 834px) and (max-width: 1024px) {
+  .cards {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+
+  .site-header .header-inner {
+    padding: 0 2rem !important;
+  }
+}
+
+/* ===================================
+   8. SMALL MOBILE FIXES (320px - 480px)
+   =================================== */
+
+@media (max-width: 480px) {
+  /* Typography - Prevent text overflow */
+  h1 {
+    font-size: clamp(1.5rem, 6vw, 2rem) !important;
+    line-height: 1.2 !important;
+  }
+
+  h2 {
+    font-size: clamp(1.25rem, 5vw, 1.5rem) !important;
+  }
+
+  p, li {
+    font-size: 0.95rem !important;
+    line-height: 1.6 !important;
+  }
+
+  /* Tighter spacing for small screens */
+  section {
+    padding: 2rem 1rem !important;
+  }
+
+  /* Card meta information */
+  .card-footer {
+    flex-direction: column !important;
+    gap: 0.5rem !important;
+    align-items: flex-start !important;
+  }
+
+  .card-footer span {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  /* Catalog meta */
+  .catalog-meta {
+    flex-direction: column !important;
+    gap: 0.75rem !important;
+  }
+}
+
+/* ===================================
+   9. ACCESSIBILITY IMPROVEMENTS
+   =================================== */
+
+/* Focus visible for keyboard navigation */
+a:focus-visible, button:focus-visible, input:focus-visible {
+  outline: 2px solid #e50914 !important;
+  outline-offset: 2px !important;
+  border-radius: 4px;
+}
+
+/* Screen reader only content */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Skip to content link */
+.skip-to-content {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  background: #e50914;
+  color: #fff;
+  padding: 1rem;
+  z-index: 10000;
+  text-decoration: none;
+}
+
+.skip-to-content:focus {
+  top: 0;
+}
+
+/* ===================================
+   10. PERFORMANCE OPTIMIZATIONS
+   =================================== */
+
+/* Prevent layout shift */
+.card, .hero, section {
+  contain: layout;
+}
+
+/* GPU acceleration for animations */
+.card-cta, .nav-toggle, .main-nav {
+  will-change: transform;
+  transform: translateZ(0);
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ===================================
+   11. PRINT STYLES
+   =================================== */
+
+@media print {
+  .site-header, .nav-toggle, .card-cta, footer {
+    display: none !important;
+  }
+
+  .card {
+    page-break-inside: avoid;
+  }
+
+  * {
+    background: white !important;
+    color: black !important;
+  }
+}
