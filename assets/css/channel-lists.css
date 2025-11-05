@@ -405,10 +405,20 @@ main {
   color: rgba(248, 250, 251, 0.6);
 }
 
+@media (max-width: 1024px) {
+  .filters {
+    padding-inline: var(--pad);
+  }
+  .channel-groups {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  }
+}
+
 @media (max-width: 900px) {
   .channel-toolbar {
     flex-direction: column;
     align-items: stretch;
+    gap: 1.25rem;
   }
 
   .channel-ctas {
@@ -419,6 +429,10 @@ main {
   .channel-search {
     width: 100%;
     justify-content: flex-start;
+  }
+
+  .channel-search input[type="search"] {
+    max-width: 100%;
   }
 }
 
@@ -577,9 +591,17 @@ footer {
 
 @media (max-width: 768px) {
   .header-inner {
-    padding: 0.85rem var(--pad);
-    align-items: stretch;
-    gap: 0.75rem;
+    padding: 0.9rem var(--pad);
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .brand img {
+    height: 40px;
+  }
+
+  .brand span {
+    font-size: 1rem;
   }
 
   .nav-toggle {
@@ -589,14 +611,15 @@ footer {
 
   .main-nav {
     position: fixed;
-    inset: calc(60px + env(safe-area-inset-top, 0px)) 0 0 0;
-    background: rgba(5, 5, 5, 0.96);
+    inset: calc(72px + env(safe-area-inset-top, 0px)) 0 0 0;
+    background: rgba(5, 5, 5, 0.98);
+    backdrop-filter: blur(20px);
     display: none;
     flex-direction: column;
     align-items: stretch;
     gap: 0;
-    padding: 20px var(--pad) 56px;
-    border-top: 1px solid rgba(229, 9, 20, 0.2);
+    padding: 24px var(--pad) 60px;
+    border-top: 1px solid rgba(229, 9, 20, 0.3);
     overflow-y: auto;
   }
 
@@ -605,24 +628,43 @@ footer {
   }
 
   .main-nav a {
-    padding: 14px 0;
+    padding: 16px 8px;
+    min-height: 48px;
+    display: flex;
+    align-items: center;
     border-bottom: 1px solid rgba(248, 250, 251, 0.08);
+    font-size: 0.9rem;
   }
 
   .main-nav .header-cta {
     width: 100%;
-    margin-top: 12px;
+    margin-top: 16px;
+    min-height: 48px;
   }
 
   body.nav-open {
     overflow: hidden;
   }
 
+  .hero {
+    padding: clamp(56px, 10vw, 80px) 0 clamp(40px, 8vw, 56px);
+  }
+
+  .hero h1 {
+    font-size: clamp(32px, 8vw, 42px);
+  }
+
+  .hero p {
+    font-size: clamp(15px, 3.5vw, 17px);
+  }
+
   .filters {
     padding: 0 var(--pad);
+    gap: 0.65rem;
   }
 
   .content {
+    margin: 2.5rem auto 3.5rem;
     padding: 0 var(--pad) clamp(40px, 8vw, 64px);
   }
 
@@ -644,6 +686,8 @@ footer {
 
   .channel-search input[type="search"] {
     max-width: 100%;
+    font-size: 0.9rem;
+    padding: 0.6rem 1rem;
   }
 
   .group-filters {
@@ -653,16 +697,57 @@ footer {
   .channel-groups {
     grid-template-columns: 1fr;
   }
+
+  .group-card {
+    padding: 1.5rem;
+  }
+
+  .channel-list li {
+    padding: 0.7rem 0.85rem;
+    gap: 0.75rem;
+  }
 }
 
 @media (max-width: 480px) {
+  .header-inner {
+    padding: 0.8rem calc(var(--pad) * 0.85);
+  }
+
+  .brand img {
+    height: 36px;
+  }
+
+  .brand span {
+    font-size: 0.95rem;
+  }
+
+  .hero {
+    padding: clamp(48px, 12vw, 72px) 0 clamp(32px, 8vw, 48px);
+  }
+
+  .hero h1 {
+    font-size: clamp(28px, 7.5vw, 38px);
+  }
+
+  .hero p {
+    font-size: clamp(14px, 3.8vw, 16px);
+    line-height: 1.65;
+  }
+
   .filters {
-    gap: 0.5rem;
+    gap: 0.55rem;
+    padding: 0 calc(var(--pad) * 0.85);
   }
 
   .filter-chip {
     flex: 1 1 140px;
     text-align: center;
+    padding: 0.5rem 1rem;
+    font-size: 0.75rem;
+  }
+
+  .content {
+    padding: 0 calc(var(--pad) * 0.85) clamp(32px, 8vw, 56px);
   }
 
   .group-filters {
@@ -672,6 +757,8 @@ footer {
   .group-chip {
     flex: 1 1 140px;
     text-align: center;
+    padding: 0.4rem 1rem;
+    font-size: 0.75rem;
   }
 
   .channel-search {
@@ -680,10 +767,44 @@ footer {
 
   .channel-search input[type="search"] {
     max-width: 100%;
+    font-size: 0.88rem;
+    padding: 0.55rem 0.95rem;
+  }
+
+  .group-card {
+    padding: 1.25rem;
+    border-radius: 16px;
+  }
+
+  .group-card h2 {
+    font-size: 1.1rem;
+    flex-wrap: wrap;
+  }
+
+  .group-card h2 .channel-count {
+    font-size: 0.72rem;
+  }
+
+  .channel-list {
+    gap: 0.6rem;
+  }
+
+  .channel-list li {
+    padding: 0.65rem 0.8rem;
+    gap: 0.7rem;
   }
 
   .channel-logo {
-    width: 40px;
-    height: 40px;
+    width: 38px;
+    height: 38px;
+    border-radius: 10px;
+  }
+
+  .channel-name {
+    font-size: 0.92rem;
+  }
+
+  .channel-meta {
+    font-size: 0.75rem;
   }
 }
