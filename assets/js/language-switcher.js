@@ -168,36 +168,40 @@
     // Get all language links
     const langLinks = document.querySelectorAll('.lang-dropdown a[data-lang]');
 
+    // Pages that exist in all language directories (except index.html)
+    const commonPages = [
+      'blog.html',
+      'epg.html',
+      'faq.html',
+      'iptv-products.html',
+      'tv-box-products.html',
+      'channel-lists.html'
+    ];
+
     langLinks.forEach(link => {
       const targetLang = link.getAttribute('data-lang');
 
       if (targetLang === 'en') {
         // English: go to root version of current page
-        if (currentPage && currentPage !== 'index.html') {
-          link.href = basePath + currentPage;
+        link.href = basePath + currentPage;
+      } else if (targetLang === 'th') {
+        // Thai has all pages including index.html
+        if (currentPage === 'index.html' || commonPages.includes(currentPage)) {
+          link.href = basePath + 'th/' + currentPage;
         } else {
-          link.href = basePath + 'index.html';
+          // Fallback to Thai homepage
+          link.href = basePath + 'th/index.html';
         }
       } else {
-        // Other languages: try to maintain same page if it exists
-        // For now, link to EPG or homepage based on page type
-        if (currentPage.includes('epg')) {
+        // Other languages (de, fr, nl, no, sv, it) don't have index.html
+        if (commonPages.includes(currentPage)) {
+          // Page exists in this language directory
+          link.href = basePath + targetLang + '/' + currentPage;
+        } else if (currentPage === 'index.html') {
+          // Homepage doesn't exist in these languages, go to EPG instead
           link.href = basePath + targetLang + '/epg.html';
-        } else if (currentPage.includes('blog')) {
-          link.href = basePath + targetLang + '/blog.html';
-        } else if (currentPage.includes('faq')) {
-          link.href = basePath + targetLang + '/faq.html';
-        } else if (currentPage.includes('iptv-products')) {
-          link.href = basePath + targetLang + '/iptv-products.html';
-        } else if (currentPage.includes('tv-box-products')) {
-          link.href = basePath + targetLang + '/tv-box-products.html';
-        } else if (currentPage.includes('channel-lists')) {
-          link.href = basePath + targetLang + '/channel-lists.html';
-        } else if (targetLang === 'th') {
-          // Thai has homepage
-          link.href = basePath + 'th/index.html';
         } else {
-          // Fallback to EPG for other pages
+          // Fallback to EPG for unknown pages
           link.href = basePath + targetLang + '/epg.html';
         }
       }
@@ -216,7 +220,7 @@
   // Get stored language preference
   function getLanguagePreference() {
     try {
-      return localStorage.setItem('tvmaster_preferred_lang') || 'en';
+      return localStorage.getItem('tvmaster_preferred_lang') || 'en';
     } catch (e) {
       return 'en';
     }
