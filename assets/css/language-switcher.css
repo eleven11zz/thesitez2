@@ -1,0 +1,161 @@
+/* ===================================
+   LANGUAGE SWITCHER COMPONENT
+   Professional dropdown with flags
+   =================================== */
+
+.language-switcher {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.language-switcher .current-lang {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.language-switcher .current-lang:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.language-switcher .current-lang::after {
+  content: '▼';
+  font-size: 0.7rem;
+  margin-left: 0.3rem;
+  transition: transform 0.3s ease;
+}
+
+.language-switcher.open .current-lang::after {
+  transform: rotate(180deg);
+}
+
+.lang-dropdown {
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  right: 0;
+  min-width: 180px;
+  background: rgba(12, 12, 12, 0.98);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(229, 9, 20, 0.3);
+  border-radius: 8px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 1000;
+  overflow: hidden;
+}
+
+.language-switcher.open .lang-dropdown {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.lang-dropdown a {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.85rem 1.25rem;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.lang-dropdown a:last-child {
+  border-bottom: none;
+}
+
+.lang-dropdown a:hover {
+  background: rgba(229, 9, 20, 0.15);
+  color: #ffffff;
+  padding-left: 1.5rem;
+}
+
+.lang-dropdown a.active {
+  background: rgba(229, 9, 20, 0.1);
+  color: #ff2e2e;
+  font-weight: 600;
+}
+
+.lang-dropdown a .flag {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.lang-dropdown a .lang-name {
+  flex: 1;
+}
+
+/* Mobile responsive */
+@media (max-width: 900px) {
+  .language-switcher {
+    margin-left: 0;
+    margin-top: 1rem;
+    width: 100%;
+  }
+
+  .language-switcher .current-lang {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .lang-dropdown {
+    width: 100%;
+    left: 0;
+    right: 0;
+  }
+}
+
+/* Animation for dropdown items */
+@keyframes slideInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.language-switcher.open .lang-dropdown a {
+  animation: slideInDown 0.3s ease forwards;
+}
+
+.language-switcher.open .lang-dropdown a:nth-child(1) { animation-delay: 0.05s; }
+.language-switcher.open .lang-dropdown a:nth-child(2) { animation-delay: 0.1s; }
+.language-switcher.open .lang-dropdown a:nth-child(3) { animation-delay: 0.15s; }
+.language-switcher.open .lang-dropdown a:nth-child(4) { animation-delay: 0.2s; }
+.language-switcher.open .lang-dropdown a:nth-child(5) { animation-delay: 0.25s; }
+.language-switcher.open .lang-dropdown a:nth-child(6) { animation-delay: 0.3s; }
+.language-switcher.open .lang-dropdown a:nth-child(7) { animation-delay: 0.35s; }
+.language-switcher.open .lang-dropdown a:nth-child(8) { animation-delay: 0.4s; }
+
+/* Smooth closing */
+.lang-dropdown {
+  max-height: 0;
+  padding: 0;
+}
+
+.language-switcher.open .lang-dropdown {
+  max-height: 500px;
+  padding: 0.5rem 0;
+}
