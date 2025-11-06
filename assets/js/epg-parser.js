@@ -74,8 +74,14 @@ class EPGParser {
 
       // If fetching fails, try to use fallback/sample data
       if (this.channels.length === 0) {
-        if (this.config.debug) console.log('Using fallback sample data');
+        if (this.config.debug) console.log('Using fallback sample data due to fetch error');
         return this.getSampleData();
+      }
+
+      // If we have cached data, return it instead of throwing
+      if (this.channels.length > 0) {
+        if (this.config.debug) console.log('Using cached data after fetch error');
+        return { channels: this.channels, programmes: this.programmes };
       }
 
       throw error;

@@ -11,7 +11,7 @@ const EPG_CONFIG = {
   // CORS proxy (if needed)
   // Use this if you get CORS errors when fetching directly
   // Option 1: Use a public CORS proxy (NOT recommended for production)
-  corsProxy: '',  // e.g., 'https://cors-anywhere.herokuapp.com/'
+  corsProxy: 'https://corsproxy.io/?',  // Public CORS proxy
 
   // Option 2: Create your own proxy endpoint
   // proxyUrl: '/api/epg-proxy.php',
