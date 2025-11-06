@@ -149,13 +149,4 @@
 .language-switcher.open .lang-dropdown a:nth-child(7) { animation-delay: 0.35s; }
 .language-switcher.open .lang-dropdown a:nth-child(8) { animation-delay: 0.4s; }
 
-/* Smooth closing */
-.lang-dropdown {
-  max-height: 0;
-  padding: 0;
-}
-
-.language-switcher.open .lang-dropdown {
-  max-height: 500px;
-  padding: 0.5rem 0;
-}
+/* Smooth closing animation integrated with visibility */
