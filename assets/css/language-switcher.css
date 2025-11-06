@@ -1,13 +1,16 @@
 /* ===================================
-   LANGUAGE SWITCHER COMPONENT
-   Professional dropdown with flags
+   LANGUAGE SWITCHER COMPONENT V2
+   Completely reworked for visibility and functionality
    =================================== */
 
-/* Ensure header allows dropdown to escape */
+/* Force all containers to allow dropdown to escape */
 header,
 .site-header,
-.header-inner {
+.header-inner,
+nav,
+.main-nav {
   overflow: visible !important;
+  position: relative !important;
 }
 
 .language-switcher {
@@ -15,7 +18,7 @@ header,
   display: inline-flex;
   align-items: center;
   margin-left: 1rem;
-  z-index: 1001;
+  z-index: 9999;
 }
 
 .language-switcher .current-lang {
@@ -23,20 +26,23 @@ header,
   align-items: center;
   gap: 0.5rem;
   padding: 0.6rem 1rem;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 8px;
   color: #ffffff;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   font-weight: 600;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: all 0.25s ease;
   white-space: nowrap;
+  position: relative;
+  z-index: 10000;
 }
 
 .language-switcher .current-lang:hover {
-  background: rgba(255, 255, 255, 0.1);
-  border-color: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(229, 9, 20, 0.6);
+  transform: translateY(-1px);
 }
 
 .language-switcher .current-lang::after {
@@ -46,70 +52,100 @@ header,
   transition: transform 0.3s ease;
 }
 
+.language-switcher.open .current-lang {
+  background: rgba(229, 9, 20, 0.2);
+  border-color: rgba(229, 9, 20, 0.8);
+}
+
 .language-switcher.open .current-lang::after {
   transform: rotate(180deg);
 }
 
+/* Dropdown - positioned to escape all containers */
 .lang-dropdown {
-  position: absolute;
-  top: calc(100% + 0.5rem);
-  right: 0;
-  min-width: 180px;
-  background: rgba(12, 12, 12, 0.98);
-  backdrop-filter: blur(20px);
-  border: 1px solid rgba(229, 9, 20, 0.3);
-  border-radius: 8px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
+  position: fixed; /* Changed from absolute to fixed */
+  min-width: 200px;
+  max-width: 250px;
+  background: rgba(8, 8, 8, 0.98);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 2px solid rgba(229, 9, 20, 0.4);
+  border-radius: 10px;
+  box-shadow:
+    0 12px 40px rgba(0, 0, 0, 0.8),
+    0 0 0 1px rgba(229, 9, 20, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
   opacity: 0;
   visibility: hidden;
-  transform: translateY(-10px);
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  z-index: 10000;
-  overflow: visible;
+  transform: translateY(-15px) scale(0.95);
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 99999; /* Maximum z-index */
+  pointer-events: none;
+  margin-top: 0.5rem;
 }
 
 .language-switcher.open .lang-dropdown {
   opacity: 1;
   visibility: visible;
-  transform: translateY(0);
+  transform: translateY(0) scale(1);
+  pointer-events: all;
 }
 
 .lang-dropdown a {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  padding: 0.85rem 1.25rem;
-  color: rgba(255, 255, 255, 0.85);
+  gap: 0.85rem;
+  padding: 0.95rem 1.35rem;
+  color: rgba(255, 255, 255, 0.9);
   text-decoration: none;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   font-weight: 500;
   transition: all 0.2s ease;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  position: relative;
+}
+
+.lang-dropdown a:first-child {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
 }
 
 .lang-dropdown a:last-child {
   border-bottom: none;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
 }
 
 .lang-dropdown a:hover {
-  background: rgba(229, 9, 20, 0.15);
+  background: rgba(229, 9, 20, 0.2);
   color: #ffffff;
-  padding-left: 1.5rem;
+  padding-left: 1.65rem;
 }
 
 .lang-dropdown a.active {
-  background: rgba(229, 9, 20, 0.1);
-  color: #ff2e2e;
-  font-weight: 600;
+  background: rgba(229, 9, 20, 0.15);
+  color: #ff3d3d;
+  font-weight: 700;
+}
+
+.lang-dropdown a.active::before {
+  content: '✓';
+  position: absolute;
+  left: 0.75rem;
+  color: #ff3d3d;
+  font-weight: bold;
 }
 
 .lang-dropdown a .flag {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   line-height: 1;
+  flex-shrink: 0;
 }
 
 .lang-dropdown a .lang-name {
   flex: 1;
+  font-size: 0.9rem;
+  letter-spacing: 0.01em;
 }
 
 /* Mobile responsive */
@@ -126,35 +162,57 @@ header,
   }
 
   .lang-dropdown {
-    width: 100%;
-    left: 0;
-    right: 0;
+    width: calc(100vw - 2rem);
+    max-width: 350px;
+    left: 50% !important;
+    transform: translateX(-50%) translateY(-15px) scale(0.95);
+  }
+
+  .language-switcher.open .lang-dropdown {
+    transform: translateX(-50%) translateY(0) scale(1);
   }
 }
 
-/* Animation for dropdown items */
-@keyframes slideInDown {
-  from {
-    opacity: 0;
-    transform: translateY(-5px);
+/* Tablet responsive */
+@media (max-width: 768px) {
+  .language-switcher .current-lang {
+    padding: 0.7rem 1.1rem;
+    font-size: 0.9rem;
   }
-  to {
-    opacity: 1;
-    transform: translateY(0);
+
+  .lang-dropdown {
+    min-width: 180px;
+  }
+
+  .lang-dropdown a {
+    padding: 0.85rem 1.2rem;
+    font-size: 0.88rem;
   }
 }
 
-.language-switcher.open .lang-dropdown a {
-  animation: slideInDown 0.3s ease forwards;
+/* Ensure dropdown doesn't get cut off at screen edges */
+.lang-dropdown {
+  max-height: 80vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(229, 9, 20, 0.5) rgba(255, 255, 255, 0.1);
 }
 
-.language-switcher.open .lang-dropdown a:nth-child(1) { animation-delay: 0.05s; }
-.language-switcher.open .lang-dropdown a:nth-child(2) { animation-delay: 0.1s; }
-.language-switcher.open .lang-dropdown a:nth-child(3) { animation-delay: 0.15s; }
-.language-switcher.open .lang-dropdown a:nth-child(4) { animation-delay: 0.2s; }
-.language-switcher.open .lang-dropdown a:nth-child(5) { animation-delay: 0.25s; }
-.language-switcher.open .lang-dropdown a:nth-child(6) { animation-delay: 0.3s; }
-.language-switcher.open .lang-dropdown a:nth-child(7) { animation-delay: 0.35s; }
-.language-switcher.open .lang-dropdown a:nth-child(8) { animation-delay: 0.4s; }
+.lang-dropdown::-webkit-scrollbar {
+  width: 6px;
+}
 
-/* Smooth closing animation integrated with visibility */
+.lang-dropdown::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 3px;
+}
+
+.lang-dropdown::-webkit-scrollbar-thumb {
+  background: rgba(229, 9, 20, 0.5);
+  border-radius: 3px;
+}
+
+.lang-dropdown::-webkit-scrollbar-thumb:hover {
+  background: rgba(229, 9, 20, 0.7);
+}

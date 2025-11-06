@@ -1,0 +1,468 @@
+/**
+ * TABLET & BUTTON CONTRAST FIXES
+ * Fixes tablet KPI layout, button readability, text cropping
+ * Priority: Tablet (768-1024px) must show 4 KPI cards in ONE LINE
+ */
+
+/* ===================================
+   CSS VARIABLES FOR CONSISTENCY
+   =================================== */
+:root {
+  --accent-red: #e30b17;
+  --accent-red-hover: #ff1a1a;
+  --accent-red-press: #b10912;
+  --btn-radius: 8px;
+  --btn-min-height: 48px;
+  --text-white: #ffffff;
+  --text-light: rgba(255, 255, 255, 0.9);
+  --border-light: rgba(255, 255, 255, 0.2);
+}
+
+/* ===================================
+   1. KPI/METRIC CARDS - TABLET FIX
+   Force 4 cards in ONE LINE on tablet
+   =================================== */
+
+/* Base grid - desktop (1024px+) */
+.hero-metrics {
+  display: grid !important;
+  grid-template-columns: repeat(4, minmax(180px, 1fr)) !important;
+  gap: 24px !important;
+  margin-top: 4rem !important;
+  padding: 0 !important;
+  align-items: stretch !important;
+}
+
+.metric-card {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 24px 20px !important;
+  background: linear-gradient(135deg, rgba(20, 20, 20, 0.95), rgba(10, 10, 10, 0.9)) !important;
+  border: 1px solid rgba(229, 9, 20, 0.35) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5) !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  text-align: center !important;
+  min-height: 140px !important;
+  height: auto !important;  /* Prevent cropping */
+  overflow: visible !important;  /* Allow content to show */
+}
+
+.metric-card:hover {
+  transform: translateY(-5px) !important;
+  border-color: rgba(229, 9, 20, 0.7) !important;
+  box-shadow: 0 12px 40px rgba(229, 9, 20, 0.35) !important;
+}
+
+.metric-value {
+  font-size: clamp(2.2rem, 3.8vw, 3.5rem) !important;
+  font-weight: 800 !important;
+  color: #ff2e2e !important;
+  line-height: 1.1 !important;
+  margin-bottom: 0.75rem !important;
+  display: block !important;
+}
+
+.metric-label {
+  font-size: clamp(0.85rem, 1.4vw, 0.95rem) !important;
+  font-weight: 600 !important;
+  color: rgba(255, 255, 255, 0.85) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.06em !important;
+  display: block !important;
+  line-height: 1.3 !important;
+}
+
+/* ===================================
+   TABLET (768-1024px) - CRITICAL FIX
+   Keep 4 cards in ONE LINE, tighter spacing
+   =================================== */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .hero-metrics {
+    grid-template-columns: repeat(4, minmax(150px, 1fr)) !important;
+    gap: 16px !important;
+    margin-top: 3rem !important;
+  }
+
+  .metric-card {
+    padding: 18px 14px !important;
+    min-height: 120px !important;
+  }
+
+  .metric-value {
+    font-size: clamp(1.8rem, 3.2vw, 2.6rem) !important;
+    line-height: 1.05 !important;
+    margin-bottom: 0.6rem !important;
+  }
+
+  .metric-label {
+    font-size: clamp(0.75rem, 1.6vw, 0.85rem) !important;
+    line-height: 1.2 !important;
+  }
+}
+
+/* Mobile - 2x2 grid */
+@media (max-width: 767px) {
+  .hero-metrics {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 14px !important;
+    margin-top: 2.5rem !important;
+  }
+
+  .metric-card {
+    padding: 1.5rem 1rem !important;
+    min-height: 110px !important;
+  }
+
+  .metric-value {
+    font-size: clamp(1.8rem, 8vw, 2.4rem) !important;
+  }
+
+  .metric-label {
+    font-size: 0.8rem !important;
+  }
+}
+
+/* ===================================
+   2. BUTTON SYSTEM - HIGH CONTRAST
+   Remove opacity, ensure AA contrast ≥ 4.5:1
+   =================================== */
+
+/* All button base styles */
+.btn,
+.btn-primary,
+.cta,
+.cta-primary,
+.cta-button,
+.card-cta,
+.hero-primary-cta,
+.products-buttons a.primary {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: var(--btn-min-height) !important;
+  min-width: 180px !important;
+  padding: 12px 24px !important;
+  border-radius: var(--btn-radius) !important;
+  font-size: 0.95rem !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.04em !important;
+  text-decoration: none !important;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease !important;
+  cursor: pointer !important;
+  white-space: nowrap !important;
+}
+
+/* PRIMARY BUTTON - Solid Red (High Contrast) */
+.btn-primary,
+.cta-primary,
+.cta-button:not(.secondary),
+.card-cta:not(.secondary),
+.hero-primary-cta,
+.products-buttons a.primary {
+  background: var(--accent-red) !important;
+  color: var(--text-white) !important;
+  border: 2px solid var(--accent-red) !important;
+  opacity: 1 !important;  /* Force full opacity */
+  text-shadow: none !important;  /* Remove any text shadow */
+  box-shadow: 0 6px 20px rgba(227, 11, 23, 0.35) !important;
+}
+
+.btn-primary:hover,
+.cta-primary:hover,
+.cta-button:not(.secondary):hover,
+.card-cta:not(.secondary):hover,
+.hero-primary-cta:hover,
+.products-buttons a.primary:hover {
+  background: var(--accent-red-hover) !important;
+  border-color: var(--accent-red-hover) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 8px 28px rgba(227, 11, 23, 0.5) !important;
+}
+
+.btn-primary:active,
+.cta-primary:active,
+.cta-button:not(.secondary):active,
+.card-cta:not(.secondary):active,
+.hero-primary-cta:active {
+  background: var(--accent-red-press) !important;
+  transform: translateY(0) !important;
+  box-shadow: 0 4px 15px rgba(227, 11, 23, 0.4) !important;
+}
+
+/* Focus state for accessibility */
+.btn-primary:focus-visible,
+.cta-primary:focus-visible,
+.cta-button:focus-visible,
+.card-cta:focus-visible,
+.hero-primary-cta:focus-visible {
+  outline: 2px solid var(--text-white) !important;
+  outline-offset: 2px !important;
+}
+
+/* SECONDARY/OUTLINE BUTTON */
+.btn-outline,
+.btn-secondary,
+.cta-secondary,
+.cta-button.secondary,
+.card-cta.secondary,
+.hero-secondary-cta,
+.products-buttons a.secondary {
+  background: transparent !important;
+  color: var(--text-white) !important;
+  border: 2px solid var(--accent-red) !important;
+  box-shadow: none !important;
+  opacity: 1 !important;
+}
+
+.btn-outline:hover,
+.btn-secondary:hover,
+.cta-secondary:hover,
+.cta-button.secondary:hover,
+.card-cta.secondary:hover,
+.hero-secondary-cta:hover,
+.products-buttons a.secondary:hover {
+  background: rgba(227, 11, 23, 0.15) !important;
+  border-color: var(--accent-red-hover) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 20px rgba(227, 11, 23, 0.25) !important;
+}
+
+/* ===================================
+   3. TEXT CROPPING FIX
+   Remove fixed heights, prevent overflow hidden
+   =================================== */
+
+/* Generic card/box containers */
+.card,
+.feature-box,
+.product-card,
+.product-summary-card,
+.plan-box,
+.lineup-card {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between !important;
+  height: auto !important;  /* Remove fixed height */
+  min-height: 280px !important;
+  overflow: visible !important;  /* Don't clip text */
+  padding: 24px !important;
+  padding-bottom: 24px !important;
+}
+
+/* Card titles */
+.card h3,
+.feature-box h3,
+.product-card h3,
+.product-summary-card h3,
+.lineup-card h3 {
+  font-size: clamp(1.1rem, 2.4vw, 1.4rem) !important;
+  line-height: 1.3 !important;
+  margin-bottom: 12px !important;
+  color: var(--text-white) !important;
+  font-weight: 700 !important;
+}
+
+/* Card body text */
+.card p,
+.feature-box p,
+.product-card p,
+.product-summary-card p,
+.lineup-card p {
+  font-size: clamp(0.9rem, 1.8vw, 1rem) !important;
+  line-height: 1.6 !important;
+  margin-bottom: 16px !important;
+  color: var(--text-light) !important;
+  word-break: normal !important;
+  overflow-wrap: anywhere !important;  /* Handle long words */
+}
+
+/* Remove line clamps that truncate text */
+.card p,
+.product-card p,
+.feature-box p {
+  -webkit-line-clamp: unset !important;
+  -webkit-box-orient: unset !important;
+  display: block !important;  /* Override flexbox that causes clipping */
+}
+
+/* Button row in cards - prevent overlap */
+.card .actions,
+.card .card-actions,
+.product-card .actions,
+.product-summary-card .card-actions {
+  margin-top: auto !important;
+  padding-top: 16px !important;
+  display: flex !important;
+  gap: 12px !important;
+  flex-wrap: wrap !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+
+/* ===================================
+   4. PRODUCT CARD BUTTON ALIGNMENT
+   Equal height, equal width buttons
+   =================================== */
+.product-summary-card .card-actions {
+  display: flex !important;
+  gap: 12px !important;
+  flex-wrap: wrap !important;
+  margin-top: auto !important;
+}
+
+.product-summary-card .card-actions .card-cta,
+.product-summary-card .card-actions a {
+  flex: 1 1 48% !important;
+  min-width: 160px !important;
+  min-height: 48px !important;
+  text-align: center !important;
+}
+
+/* Stack on small mobile */
+@media (max-width: 480px) {
+  .product-summary-card .card-actions {
+    flex-direction: column !important;
+  }
+
+  .product-summary-card .card-actions .card-cta,
+  .product-summary-card .card-actions a {
+    flex: 1 1 100% !important;
+    min-width: 100% !important;
+    width: 100% !important;
+  }
+}
+
+/* ===================================
+   5. DARK BACKGROUND LEGIBILITY
+   Solid overlay for text readability
+   =================================== */
+.has-dark-bg,
+.hero,
+.product-section,
+.catalog-section {
+  position: relative !important;
+}
+
+.has-dark-bg::before {
+  content: "" !important;
+  position: absolute !important;
+  inset: 0 !important;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)) !important;
+  pointer-events: none !important;
+  z-index: 0 !important;
+}
+
+.has-dark-bg > * {
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* Hero overlay specifically */
+.hero::after {
+  content: "" !important;
+  position: absolute !important;
+  inset: 0 !important;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.7) 100%) !important;
+  pointer-events: none !important;
+  z-index: 0 !important;
+}
+
+.hero > * {
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* ===================================
+   6. TABLET-SPECIFIC BUTTON FIXES
+   =================================== */
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* Buttons maintain readability */
+  .btn,
+  .cta,
+  .card-cta,
+  .cta-button {
+    min-width: 160px !important;
+    padding: 11px 20px !important;
+    font-size: 0.9rem !important;
+  }
+
+  /* Hero CTAs side by side */
+  .hero-cta-group {
+    display: flex !important;
+    gap: 14px !important;
+    justify-content: center !important;
+  }
+
+  .hero-primary-cta,
+  .hero-secondary-cta {
+    flex: 0 1 auto !important;
+    min-width: 200px !important;
+  }
+
+  /* Product buttons */
+  .products-buttons {
+    gap: 14px !important;
+  }
+
+  .products-buttons a {
+    min-width: 200px !important;
+  }
+}
+
+/* ===================================
+   7. ACCESSIBILITY & TOUCH TARGETS
+   =================================== */
+
+/* Minimum touch target 48x48px */
+@media (hover: none) and (pointer: coarse) {
+  button,
+  .btn,
+  .cta,
+  a.card-cta,
+  a.cta-button {
+    min-height: 48px !important;
+    min-width: 48px !important;
+    -webkit-tap-highlight-color: rgba(227, 11, 23, 0.2) !important;
+  }
+}
+
+/* Focus ring for keyboard navigation */
+a:focus-visible,
+button:focus-visible,
+.btn:focus-visible,
+.cta:focus-visible {
+  outline: 2px solid var(--accent-red) !important;
+  outline-offset: 2px !important;
+}
+
+/* ===================================
+   8. CATALOG/PRODUCT TILE FIXES
+   =================================== */
+
+/* Catalog tiles */
+.catalog-tile,
+.product-tile {
+  height: auto !important;
+  min-height: 320px !important;
+  overflow: visible !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.catalog-tile .tile-content,
+.product-tile .tile-content {
+  flex: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between !important;
+}
+
+/* Ensure buttons don't overlap text */
+.catalog-tile .tile-actions,
+.product-tile .tile-actions {
+  margin-top: auto !important;
+  padding-top: 16px !important;
+}

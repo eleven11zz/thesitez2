@@ -1,6 +1,6 @@
 /**
- * Language Switcher Component
- * Handles language selection and dropdown interaction
+ * Language Switcher Component V2
+ * Completely reworked with proper positioning and language detection
  */
 
 (function() {
@@ -15,37 +15,86 @@
 
   function init() {
     const languageSwitcher = document.querySelector('.language-switcher');
-    const currentLang = document.querySelector('.current-lang');
+    const currentLangButton = document.querySelector('.current-lang');
+    const langDropdown = document.querySelector('.lang-dropdown');
 
-    if (!languageSwitcher || !currentLang) {
+    if (!languageSwitcher || !currentLangButton || !langDropdown) {
       return; // Elements not found, exit gracefully
     }
 
     // Toggle dropdown on click
-    currentLang.addEventListener('click', function(e) {
+    currentLangButton.addEventListener('click', function(e) {
       e.stopPropagation();
-      languageSwitcher.classList.toggle('open');
+      e.preventDefault();
+
+      const isOpen = languageSwitcher.classList.toggle('open');
+      currentLangButton.setAttribute('aria-expanded', isOpen);
+
+      if (isOpen) {
+        positionDropdown();
+      }
     });
+
+    // Position dropdown using fixed positioning
+    function positionDropdown() {
+      const buttonRect = currentLangButton.getBoundingClientRect();
+
+      // Position dropdown below the button
+      langDropdown.style.top = (buttonRect.bottom + 5) + 'px';
+      langDropdown.style.left = (buttonRect.left) + 'px';
+
+      // Check if dropdown would go off-screen to the right
+      const dropdownWidth = 200; // min-width from CSS
+      const viewportWidth = window.innerWidth;
+
+      if (buttonRect.left + dropdownWidth > viewportWidth) {
+        // Align to right edge of button instead
+        langDropdown.style.left = 'auto';
+        langDropdown.style.right = (viewportWidth - buttonRect.right) + 'px';
+      }
+    }
+
+    // Reposition on scroll or resize
+    let resizeTimeout;
+    window.addEventListener('resize', function() {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(function() {
+        if (languageSwitcher.classList.contains('open')) {
+          positionDropdown();
+        }
+      }, 100);
+    });
+
+    window.addEventListener('scroll', function() {
+      if (languageSwitcher.classList.contains('open')) {
+        positionDropdown();
+      }
+    }, { passive: true });
 
     // Close dropdown when clicking outside
     document.addEventListener('click', function(event) {
       if (!languageSwitcher.contains(event.target)) {
         languageSwitcher.classList.remove('open');
+        currentLangButton.setAttribute('aria-expanded', 'false');
       }
     });
 
     // Close dropdown on escape key
     document.addEventListener('keydown', function(event) {
-      if (event.key === 'Escape') {
+      if (event.key === 'Escape' && languageSwitcher.classList.contains('open')) {
         languageSwitcher.classList.remove('open');
+        currentLangButton.setAttribute('aria-expanded', 'false');
+        currentLangButton.focus();
       }
     });
 
-    // Prevent dropdown links from closing immediately
+    // Handle dropdown link clicks
     const dropdownLinks = document.querySelectorAll('.lang-dropdown a');
     dropdownLinks.forEach(link => {
-      link.addEventListener('click', function() {
+      link.addEventListener('click', function(e) {
+        // Allow navigation but close dropdown
         languageSwitcher.classList.remove('open');
+        currentLangButton.setAttribute('aria-expanded', 'false');
       });
     });
 
@@ -58,6 +107,7 @@
     const path = window.location.pathname;
     let currentLangCode = 'en'; // default
 
+    // Language mapping
     const langMap = {
       '/th/': 'th',
       '/de/': 'de',
@@ -68,6 +118,7 @@
       '/nl/': 'nl'
     };
 
+    // Check which language directory we're in
     for (const [urlPath, langCode] of Object.entries(langMap)) {
       if (path.includes(urlPath)) {
         currentLangCode = langCode;
@@ -81,23 +132,76 @@
       activeLink.classList.add('active');
     }
 
-    // Update button text
+    // Update button text with language name
     const langNames = {
-      'en': '🇬🇧 EN',
-      'th': '🇹🇭 TH',
-      'de': '🇩🇪 DE',
-      'fr': '🇫🇷 FR',
-      'sv': '🇸🇪 SV',
-      'no': '🇳🇴 NO',
-      'it': '🇮🇹 IT',
-      'nl': '🇳🇱 NL'
+      'en': { flag: '🇬🇧', name: 'EN' },
+      'th': { flag: '🇹🇭', name: 'TH' },
+      'de': { flag: '🇩🇪', name: 'DE' },
+      'fr': { flag: '🇫🇷', name: 'FR' },
+      'sv': { flag: '🇸🇪', name: 'SV' },
+      'no': { flag: '🇳🇴', name: 'NO' },
+      'it': { flag: '🇮🇹', name: 'IT' },
+      'nl': { flag: '🇳🇱', name: 'NL' }
     };
 
     const currentLangButton = document.querySelector('.current-lang');
     if (currentLangButton && langNames[currentLangCode]) {
-      // Keep the globe icon, update the language code
-      currentLangButton.innerHTML = `🌐 ${langNames[currentLangCode].split(' ')[1]}`;
+      const lang = langNames[currentLangCode];
+      // Don't override the existing after pseudo-element arrow
+      const arrow = currentLangButton.querySelector('.arrow-icon') || '';
+      currentLangButton.innerHTML = `${lang.flag} <span>${lang.name}</span>`;
     }
+
+    // Update language-specific links based on current page
+    updateLanguageLinks(currentLangCode, path);
+  }
+
+  function updateLanguageLinks(currentLang, currentPath) {
+    // Get current page filename
+    const pathParts = currentPath.split('/').filter(p => p !== '');
+    const currentPage = pathParts[pathParts.length - 1] || 'index.html';
+
+    // Determine base path (how many levels deep we are)
+    const depth = pathParts.length - (currentPage.includes('.html') ? 1 : 0);
+    const basePath = depth > 0 ? '../'.repeat(depth) : './';
+
+    // Get all language links
+    const langLinks = document.querySelectorAll('.lang-dropdown a[data-lang]');
+
+    langLinks.forEach(link => {
+      const targetLang = link.getAttribute('data-lang');
+
+      if (targetLang === 'en') {
+        // English: go to root version of current page
+        if (currentPage && currentPage !== 'index.html') {
+          link.href = basePath + currentPage;
+        } else {
+          link.href = basePath + 'index.html';
+        }
+      } else {
+        // Other languages: try to maintain same page if it exists
+        // For now, link to EPG or homepage based on page type
+        if (currentPage.includes('epg')) {
+          link.href = basePath + targetLang + '/epg.html';
+        } else if (currentPage.includes('blog')) {
+          link.href = basePath + targetLang + '/blog.html';
+        } else if (currentPage.includes('faq')) {
+          link.href = basePath + targetLang + '/faq.html';
+        } else if (currentPage.includes('iptv-products')) {
+          link.href = basePath + targetLang + '/iptv-products.html';
+        } else if (currentPage.includes('tv-box-products')) {
+          link.href = basePath + targetLang + '/tv-box-products.html';
+        } else if (currentPage.includes('channel-lists')) {
+          link.href = basePath + targetLang + '/channel-lists.html';
+        } else if (targetLang === 'th') {
+          // Thai has homepage
+          link.href = basePath + 'th/index.html';
+        } else {
+          // Fallback to EPG for other pages
+          link.href = basePath + targetLang + '/epg.html';
+        }
+      }
+    });
   }
 
   // Store language preference
@@ -112,27 +216,9 @@
   // Get stored language preference
   function getLanguagePreference() {
     try {
-      return localStorage.getItem('tvmaster_preferred_lang') || 'en';
+      return localStorage.setItem('tvmaster_preferred_lang') || 'en';
     } catch (e) {
       return 'en';
-    }
-  }
-
-  // Auto-redirect based on browser language (optional feature)
-  function autoDetectLanguage() {
-    const browserLang = navigator.language || navigator.userLanguage;
-    const langCode = browserLang.split('-')[0]; // Get 'en' from 'en-US'
-
-    const supportedLangs = ['en', 'th', 'de', 'fr', 'sv', 'no', 'it', 'nl'];
-
-    if (supportedLangs.includes(langCode) && langCode !== 'en') {
-      const savedLang = getLanguagePreference();
-
-      // Only redirect if user hasn't manually chosen a language before
-      if (!savedLang || savedLang === 'en') {
-        // Uncomment the line below to enable auto-redirect
-        // window.location.href = `/${langCode}/`;
-      }
     }
   }
 })();
