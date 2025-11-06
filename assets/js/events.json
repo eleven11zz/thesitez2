@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-05T19:09:09.380551Z",
+  "generatedAt": "2025-11-06T03:48:07.983089Z",
   "source": "TheSportsDB",
   "leagues": [
     {
@@ -8,38 +8,6 @@
       "label": "English Premier League",
       "sport": "Soccer",
       "events": [
-        {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
         {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
@@ -497,38 +465,6 @@
       "sport": "Soccer",
       "events": [
         {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
-        {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
           "title": "Bolton Wanderers vs Port Vale",
@@ -984,38 +920,6 @@
       "label": "Italian Serie A",
       "sport": "Soccer",
       "events": [
-        {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
         {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
@@ -1473,38 +1377,6 @@
       "sport": "Soccer",
       "events": [
         {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
-        {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
           "title": "Bolton Wanderers vs Port Vale",
@@ -1960,38 +1832,6 @@
       "label": "French Ligue 1",
       "sport": "Soccer",
       "events": [
-        {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
         {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
@@ -2449,38 +2289,6 @@
       "sport": "Soccer",
       "events": [
         {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
-        {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
           "title": "Bolton Wanderers vs Port Vale",
@@ -2936,38 +2744,6 @@
       "label": "UEFA Europa League",
       "sport": "Soccer",
       "events": [
-        {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
         {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
@@ -3425,38 +3201,6 @@
       "sport": "American Football",
       "events": [
         {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
-        {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
           "title": "Bolton Wanderers vs Port Vale",
@@ -3912,38 +3656,6 @@
       "label": "NBA",
       "sport": "Basketball",
       "events": [
-        {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
         {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
@@ -4401,38 +4113,6 @@
       "sport": "Baseball",
       "events": [
         {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
-        {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
           "title": "Bolton Wanderers vs Port Vale",
@@ -4888,38 +4568,6 @@
       "label": "National Hockey League",
       "sport": "Ice Hockey",
       "events": [
-        {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
         {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
@@ -5377,38 +5025,6 @@
       "sport": "Soccer",
       "events": [
         {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
-        {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
           "title": "Bolton Wanderers vs Port Vale",
@@ -5864,38 +5480,6 @@
       "label": "Ultimate Fighting Championship",
       "sport": "Mixed Martial Arts",
       "events": [
-        {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
         {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
@@ -6353,38 +5937,6 @@
       "sport": "Mixed Martial Arts",
       "events": [
         {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
-        {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
           "title": "Bolton Wanderers vs Port Vale",
@@ -6840,38 +6392,6 @@
       "label": "Formula 1",
       "sport": "Motorsport",
       "events": [
-        {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
         {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
@@ -7329,38 +6849,6 @@
       "sport": "Rugby",
       "events": [
         {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
-        {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
           "title": "Bolton Wanderers vs Port Vale",
@@ -7817,38 +7305,6 @@
       "sport": "Cricket",
       "events": [
         {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
-        {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
           "title": "Bolton Wanderers vs Port Vale",
@@ -8304,38 +7760,6 @@
       "label": "Big Bash League",
       "sport": "Cricket",
       "events": [
-        {
-          "id": "2274809",
-          "slug": "reading-vs-stevenage",
-          "title": "Reading vs Stevenage",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-06T20:00:00Z",
-            "date": "2025-11-06",
-            "time": "20:00:00"
-          },
-          "venue": "Select Car Leasing Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7t75171752495195.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274809",
-          "homeTeam": {
-            "id": "133633",
-            "name": "Reading",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png"
-          },
-          "awayTeam": {
-            "id": "134378",
-            "name": "Stevenage",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png"
-          }
-        },
         {
           "id": "2274802",
           "slug": "bolton-wanderers-vs-port-vale",
