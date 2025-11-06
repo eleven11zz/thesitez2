@@ -173,7 +173,7 @@ function createCountdown(utc, { compact = false } = {}) {
 function createEventCard(event, league) {
   const card = document.createElement("article");
   card.className = "event-card";
-  const bg = event.image || "../benefits-bg.webp";
+  const bg = event.image || "../assets/benefits-bg.webp";
   card.style.setProperty("--card-image", `url("${bg}")`);
 
   const content = document.createElement("div");
@@ -326,7 +326,7 @@ function renderError(message) {
 function createSliderCard(event) {
   const card = document.createElement("article");
   card.className = "slider-card";
-  const bg = event.image || "../benefits-bg.webp";
+  const bg = event.image || "../assets/benefits-bg.webp";
   card.style.setProperty("--card-image", `url("${bg}")`);
 
   const content = document.createElement("div");

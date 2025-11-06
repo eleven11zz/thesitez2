@@ -84,28 +84,6 @@
     data-default-group="0"
     defer></script>
   <script src="./assets/js/modern-effects.js" defer></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const navToggle = document.querySelector('.nav-toggle');
-      const mainNav = document.querySelector('.main-nav');
-
-      if (navToggle && mainNav) {
-        const toggleNav = () => {
-          const isOpen = mainNav.classList.toggle('open');
-          navToggle.classList.toggle('is-active', isOpen);
-          navToggle.setAttribute('aria-expanded', String(isOpen));
-          document.body.classList.toggle('nav-open', isOpen);
-        };
-
-        navToggle.addEventListener('click', toggleNav);
-        mainNav.querySelectorAll('a').forEach((link) => {
-          link.addEventListener('click', () => {
-            if (mainNav.classList.contains('open')) toggleNav();
-          });
-        });
-      }
-    });
-  </script>
   <script src="./assets/js/navigation.js" defer></script>
 </body>
 </html>
