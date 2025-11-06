@@ -3,11 +3,19 @@
    Professional dropdown with flags
    =================================== */
 
+/* Ensure header allows dropdown to escape */
+header,
+.site-header,
+.header-inner {
+  overflow: visible !important;
+}
+
 .language-switcher {
   position: relative;
   display: inline-flex;
   align-items: center;
   margin-left: 1rem;
+  z-index: 1001;
 }
 
 .language-switcher .current-lang {
@@ -56,8 +64,8 @@
   visibility: hidden;
   transform: translateY(-10px);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  z-index: 1000;
-  overflow: hidden;
+  z-index: 10000;
+  overflow: visible;
 }
 
 .language-switcher.open .lang-dropdown {

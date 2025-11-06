@@ -180,14 +180,62 @@ class EPGViewer {
     // Clear container
     container.innerHTML = '';
 
-    // Render each channel row
-    filteredChannels.forEach(channel => {
+    // PERFORMANCE OPTIMIZATION: Limit initial render
+    const maxChannels = EPG_CONFIG.maxChannelsToRender || filteredChannels.length;
+    const channelsToRender = filteredChannels.slice(0, maxChannels);
+    const remainingChannels = filteredChannels.slice(maxChannels);
+
+    // Render initial batch using DocumentFragment for better performance
+    const fragment = document.createDocumentFragment();
+    channelsToRender.forEach(channel => {
       const row = this.createChannelRow(channel, startTime, endTime);
-      container.appendChild(row);
+      fragment.appendChild(row);
     });
+    container.appendChild(fragment);
+
+    // Show "Load More" button if there are remaining channels
+    if (remainingChannels.length > 0) {
+      this.showLoadMoreButton(container, remainingChannels, startTime, endTime);
+    }
 
     // Hide empty state
     this.hideEmpty();
+  }
+
+  /**
+   * Show Load More button for remaining channels
+   */
+  showLoadMoreButton(container, remainingChannels, startTime, endTime) {
+    const loadMoreBtn = document.createElement('div');
+    loadMoreBtn.className = 'epg-load-more';
+    loadMoreBtn.innerHTML = `
+      <button class="load-more-btn">
+        Load More Channels (${remainingChannels.length} remaining)
+      </button>
+    `;
+
+    loadMoreBtn.querySelector('button').addEventListener('click', () => {
+      // Remove button
+      loadMoreBtn.remove();
+
+      // Render next batch
+      const nextBatch = remainingChannels.splice(0, 50);
+      const fragment = document.createDocumentFragment();
+
+      nextBatch.forEach(channel => {
+        const row = this.createChannelRow(channel, startTime, endTime);
+        fragment.appendChild(row);
+      });
+
+      container.appendChild(fragment);
+
+      // Show button again if more channels remain
+      if (remainingChannels.length > 0) {
+        this.showLoadMoreButton(container, remainingChannels, startTime, endTime);
+      }
+    });
+
+    container.appendChild(loadMoreBtn);
   }
 
   /**
