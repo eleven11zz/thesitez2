@@ -37,7 +37,7 @@ const EPG_CONFIG = {
   },
 
   // Default channel logos (if not provided in XMLTV)
-  defaultLogo: './assets/images/default-channel-logo.png',
+  defaultLogo: './assets/images/channel-placeholder.svg',
 
   // Enable debug logging
   debug: true,
