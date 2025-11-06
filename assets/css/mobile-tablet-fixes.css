@@ -304,6 +304,51 @@ button {
 }
 
 /* ===================================
+   HEADER MOBILE LAYOUT FIX
+   =================================== */
+
+/* Fix header to allow language switcher to wrap properly on mobile */
+@media (max-width: 900px) {
+  .site-header .header-inner {
+    flex-wrap: wrap !important;
+    min-height: auto !important;
+    height: auto !important;
+    align-items: center !important;
+  }
+
+  /* Ensure brand stays at the left */
+  .site-header .brand {
+    order: 1 !important;
+    flex: 0 0 auto !important;
+  }
+
+  /* Ensure nav-toggle stays at the right */
+  .site-header .nav-toggle {
+    order: 2 !important;
+    flex: 0 0 auto !important;
+    margin-left: auto !important;
+  }
+
+  /* Language switcher wraps to new line and takes full width */
+  .site-header .language-switcher {
+    order: 3 !important;
+    flex: 1 1 100% !important;
+    margin-top: 0.75rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* Main nav stays hidden until toggled */
+  .site-header .main-nav {
+    order: 4 !important;
+    display: none !important;
+  }
+
+  .site-header .main-nav.open {
+    display: flex !important;
+  }
+}
+
+/* ===================================
    MOBILE SPECIFIC FIXES (< 768px)
    =================================== */
 
