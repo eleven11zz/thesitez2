@@ -758,18 +758,18 @@ html {
    MOBILE FIXES - PREVENT HORIZONTAL SCROLL
    =================================== */
 
-/* Ensure all elements stay within viewport */
-* {
-  max-width: 100% !important;
+/* Prevent body overflow only */
+html,
+body {
+  overflow-x: hidden;
+  max-width: 100vw;
 }
 
-/* Allow specific elements to be full width */
-html,
-body,
+/* Allow header and footer to be full width */
 .site-header,
-.site-footer,
-section {
+.site-footer {
   max-width: none !important;
+  width: 100% !important;
 }
 
 /* Prevent images from overflowing */
@@ -793,7 +793,10 @@ code {
 
 /* Ensure container doesn't cause overflow */
 .container {
-  overflow-x: hidden !important;
+  max-width: 1400px !important;
+  margin: 0 auto !important;
+  padding-left: clamp(1rem, 4vw, 2rem) !important;
+  padding-right: clamp(1rem, 4vw, 2rem) !important;
   box-sizing: border-box !important;
 }
 
