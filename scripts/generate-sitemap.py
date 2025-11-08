@@ -18,6 +18,15 @@ SITEMAP_PAGES = [
     {"loc": "/", "priority": "1.0", "changefreq": "daily"},
     {"loc": "/index.html", "priority": "1.0", "changefreq": "daily"},
 
+    # Language versions
+    {"loc": "/de/", "priority": "0.9", "changefreq": "weekly"},
+    {"loc": "/fr/", "priority": "0.9", "changefreq": "weekly"},
+    {"loc": "/it/", "priority": "0.9", "changefreq": "weekly"},
+    {"loc": "/nl/", "priority": "0.9", "changefreq": "weekly"},
+    {"loc": "/no/", "priority": "0.9", "changefreq": "weekly"},
+    {"loc": "/sv/", "priority": "0.9", "changefreq": "weekly"},
+    {"loc": "/th/", "priority": "0.9", "changefreq": "weekly"},
+
     # Product pages
     {"loc": "/iptv-products.html", "priority": "0.9", "changefreq": "weekly"},
     {"loc": "/tv-box-products.html", "priority": "0.9", "changefreq": "weekly"},
