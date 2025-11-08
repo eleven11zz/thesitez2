@@ -6,6 +6,11 @@ BASE_URL = "https://eleven11zz.github.io/thesitez2/"
 visited_pages = set()
 broken_links = []
 
+# Headers to avoid 403 errors
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+}
+
 def is_internal_link(href):
     if not href:
         return False
@@ -21,7 +26,7 @@ def crawl(url):
     visited_pages.add(url)
 
     try:
-        r = requests.get(url, timeout=10)
+        r = requests.get(url, headers=HEADERS, timeout=10)
     except Exception as e:
         print(f"[ERROR] {url} -> {e}")
         return
@@ -47,7 +52,7 @@ def crawl(url):
                 continue
 
             try:
-                res = requests.get(target, timeout=10)
+                res = requests.get(target, headers=HEADERS, timeout=10)
                 if res.status_code == 404:
                     broken_links.append((url, href, target, res.status_code))
                 # Crawl deeper only for html pages under /thesitez2/
