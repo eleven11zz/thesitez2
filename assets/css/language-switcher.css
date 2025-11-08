@@ -1,17 +1,7 @@
 /* ===================================
-   LANGUAGE SWITCHER COMPONENT V2
-   Completely reworked for visibility and functionality
+   LANGUAGE SWITCHER COMPONENT V3
+   Fixed CSS conflicts and positioning
    =================================== */
-
-/* Force all containers to allow dropdown to escape */
-header,
-.site-header,
-.header-inner,
-nav,
-.main-nav {
-  overflow: visible !important;
-  position: relative !important;
-}
 
 .language-switcher {
   position: relative;
@@ -148,42 +138,20 @@ nav,
   letter-spacing: 0.01em;
 }
 
-/* Mobile responsive */
+/* Tablet and Mobile responsive */
 @media (max-width: 900px) {
   .language-switcher {
-    margin-left: 0;
-    width: 100%;
-    /* Remove margin-top as it's handled by flex order in mobile-tablet-fixes.css */
+    margin-left: 0.5rem;
   }
 
   .language-switcher .current-lang {
-    width: 100%;
-    justify-content: center;
-    padding: 0.65rem 1rem;
-  }
-
-  .lang-dropdown {
-    width: calc(100vw - 2rem);
-    max-width: 350px;
-    left: 50% !important;
-    right: auto !important;
-    transform: translateX(-50%) translateY(-15px) scale(0.95);
-  }
-
-  .language-switcher.open .lang-dropdown {
-    transform: translateX(-50%) translateY(0) scale(1);
-  }
-}
-
-/* Tablet responsive */
-@media (max-width: 768px) {
-  .language-switcher .current-lang {
-    padding: 0.7rem 1.1rem;
-    font-size: 0.9rem;
+    padding: 0.6rem 0.95rem;
+    font-size: 0.88rem;
   }
 
   .lang-dropdown {
     min-width: 180px;
+    max-width: 250px;
   }
 
   .lang-dropdown a {
@@ -194,24 +162,28 @@ nav,
 
 /* Small mobile screens */
 @media (max-width: 480px) {
+  .language-switcher {
+    margin-left: 0.25rem;
+  }
+
   .language-switcher .current-lang {
-    padding: 0.65rem 1rem;
-    font-size: 0.88rem;
+    padding: 0.5rem 0.8rem;
+    font-size: 0.85rem;
   }
 
   .lang-dropdown {
-    width: calc(100vw - 1.5rem);
-    max-width: 320px;
+    min-width: 160px;
+    max-width: 220px;
   }
 
   .lang-dropdown a {
-    padding: 0.8rem 1.1rem;
-    font-size: 0.86rem;
-    gap: 0.7rem;
+    padding: 0.75rem 1rem;
+    font-size: 0.85rem;
+    gap: 0.65rem;
   }
 
   .lang-dropdown a .flag {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 }
 
