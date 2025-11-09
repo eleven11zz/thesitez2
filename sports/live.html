@@ -30,47 +30,7 @@
         <span></span>
         <span></span>
         <span></span>
-      </button>
-      <div class="language-switcher">
-        <button class="current-lang" type="button" aria-label="Select language" aria-expanded="false">
-          🌐 EN
-        </button>
-        <div class="lang-dropdown" role="menu">
-          <a href="../index.html" data-lang="en" role="menuitem">
-            <span class="flag">🇬🇧</span>
-            <span class="lang-name">English</span>
-          </a>
-          <a href="../th/sports/live.html" data-lang="th" role="menuitem">
-            <span class="flag">🇹🇭</span>
-            <span class="lang-name">ไทย</span>
-          </a>
-          <a href="../de/sports/live.html" data-lang="de" role="menuitem">
-            <span class="flag">🇩🇪</span>
-            <span class="lang-name">Deutsch</span>
-          </a>
-          <a href="../fr/sports/live.html" data-lang="fr" role="menuitem">
-            <span class="flag">🇫🇷</span>
-            <span class="lang-name">Français</span>
-          </a>
-          <a href="../sv/sports/live.html" data-lang="sv" role="menuitem">
-            <span class="flag">🇸🇪</span>
-            <span class="lang-name">Svenska</span>
-          </a>
-          <a href="../no/sports/live.html" data-lang="no" role="menuitem">
-            <span class="flag">🇳🇴</span>
-            <span class="lang-name">Norsk</span>
-          </a>
-          <a href="../it/sports/live.html" data-lang="it" role="menuitem">
-            <span class="flag">🇮🇹</span>
-            <span class="lang-name">Italiano</span>
-          </a>
-          <a href="../nl/sports/live.html" data-lang="nl" role="menuitem">
-            <span class="flag">🇳🇱</span>
-            <span class="lang-name">Nederlands</span>
-          </a>
-        </div>
-      </div>
-      <nav class="main-nav" role="navigation" aria-label="Primary navigation" id="primary-nav">
+      </button><nav class="main-nav" role="navigation" aria-label="Primary navigation" id="primary-nav">
         <a href="../index.html#hero">Home</a>
         <a href="../sports/" class="active">Sports</a>
         <a href="../sports/live.html">Live Hub</a>
@@ -109,7 +69,49 @@
     © 2024 TVMaster · Live Sports Hub.
   </footer>
 
-  <script src="../assets/js/language-switcher.js" defer></script>
+  
+<!-- Floating Language Switcher -->
+<div class="language-switcher floating">
+        <button class="current-lang" type="button" aria-label="Select language" aria-expanded="false">
+          🌐 EN
+        </button>
+        <div class="lang-dropdown" role="menu">
+          <a href="../index.html" data-lang="en" role="menuitem">
+            <span class="flag">🇬🇧</span>
+            <span class="lang-name">English</span>
+          </a>
+          <a href="../th/sports/live.html" data-lang="th" role="menuitem">
+            <span class="flag">🇹🇭</span>
+            <span class="lang-name">ไทย</span>
+          </a>
+          <a href="../de/sports/live.html" data-lang="de" role="menuitem">
+            <span class="flag">🇩🇪</span>
+            <span class="lang-name">Deutsch</span>
+          </a>
+          <a href="../fr/sports/live.html" data-lang="fr" role="menuitem">
+            <span class="flag">🇫🇷</span>
+            <span class="lang-name">Français</span>
+          </a>
+          <a href="../sv/sports/live.html" data-lang="sv" role="menuitem">
+            <span class="flag">🇸🇪</span>
+            <span class="lang-name">Svenska</span>
+          </a>
+          <a href="../no/sports/live.html" data-lang="no" role="menuitem">
+            <span class="flag">🇳🇴</span>
+            <span class="lang-name">Norsk</span>
+          </a>
+          <a href="../it/sports/live.html" data-lang="it" role="menuitem">
+            <span class="flag">🇮🇹</span>
+            <span class="lang-name">Italiano</span>
+          </a>
+          <a href="../nl/sports/live.html" data-lang="nl" role="menuitem">
+            <span class="flag">🇳🇱</span>
+            <span class="lang-name">Nederlands</span>
+          </a>
+        </div>
+      </div>
+
+<script src="../assets/js/language-switcher.js" defer></script>
   <script src="../assets/js/nav.js" defer></script>
   <script type="module" id="live-events-script" data-events-feed="../assets/js/events.json" src="../assets/js/events.js"></script>
 </body>

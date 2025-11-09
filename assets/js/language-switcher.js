@@ -38,19 +38,35 @@
     // Position dropdown using fixed positioning
     function positionDropdown() {
       const buttonRect = currentLangButton.getBoundingClientRect();
-
-      // Position dropdown below the button
-      langDropdown.style.top = (buttonRect.bottom + 5) + 'px';
-      langDropdown.style.left = (buttonRect.left) + 'px';
-
-      // Check if dropdown would go off-screen to the right
+      const isFloating = languageSwitcher.classList.contains('floating');
       const dropdownWidth = 200; // min-width from CSS
       const viewportWidth = window.innerWidth;
+      const viewportHeight = window.innerHeight;
 
-      if (buttonRect.left + dropdownWidth > viewportWidth) {
-        // Align to right edge of button instead
-        langDropdown.style.left = 'auto';
+      if (isFloating) {
+        // For floating button, position dropdown above the button
+        const dropdownHeight = langDropdown.offsetHeight || 300; // estimated height
+        const topPosition = buttonRect.top - dropdownHeight - 10;
+
+        // Position above the button
+        langDropdown.style.bottom = (viewportHeight - buttonRect.top + 10) + 'px';
+        langDropdown.style.top = 'auto';
+
+        // Align to right edge of button
         langDropdown.style.right = (viewportWidth - buttonRect.right) + 'px';
+        langDropdown.style.left = 'auto';
+      } else {
+        // Original behavior: position dropdown below the button
+        langDropdown.style.top = (buttonRect.bottom + 5) + 'px';
+        langDropdown.style.bottom = 'auto';
+        langDropdown.style.left = (buttonRect.left) + 'px';
+
+        // Check if dropdown would go off-screen to the right
+        if (buttonRect.left + dropdownWidth > viewportWidth) {
+          // Align to right edge of button instead
+          langDropdown.style.left = 'auto';
+          langDropdown.style.right = (viewportWidth - buttonRect.right) + 'px';
+        }
       }
     }
 
