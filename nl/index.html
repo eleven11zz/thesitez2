@@ -2841,7 +2841,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (!Number.isFinite(target)) return;
     const decimals = parseInt(el.dataset.decimals || '0', 10);
     const suffix = el.dataset.suffix || '';
-    const duration = parseInt(el.dataset.duration || '1800', 10);
+    const duration = parseInt(el.dataset.duration || '2000', 10);
     const startTime = performance.now();
 
     const formatValue = (value) =>
@@ -2850,11 +2850,16 @@ document.addEventListener('DOMContentLoaded', function() {
         maximumFractionDigits: decimals,
       });
 
+    // Easing function for smooth animation (easeOutExpo)
+    const easeOutExpo = (t) => t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
+
     const tick = (now) => {
-      const progress = Math.min((now - startTime) / duration, 1);
+      const elapsed = now - startTime;
+      const rawProgress = Math.min(elapsed / duration, 1);
+      const progress = easeOutExpo(rawProgress);
       const value = target * progress;
       el.textContent = `${formatValue(value)}${suffix}`;
-      if (progress < 1) {
+      if (rawProgress < 1) {
         requestAnimationFrame(tick);
       } else {
         el.textContent = `${formatValue(target)}${suffix}`;
@@ -2875,7 +2880,7 @@ document.addEventListener('DOMContentLoaded', function() {
         observer.unobserve(el);
       });
     },
-    { threshold: 0.4 }
+    { threshold: 0.2 }
   );
 
   metricCounters.forEach((el) => {
