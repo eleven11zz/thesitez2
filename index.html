@@ -2789,7 +2789,7 @@ body {
   </div>
 </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" async></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   // Mobile Navigation Toggle
@@ -2878,6 +2878,12 @@ document.addEventListener('DOMContentLoaded', function() {
     el.textContent = `0${el.dataset.suffix || ''}`;
     observer.observe(el);
   });
+
+  // Initialize Swiper sliders only if Swiper is loaded
+  if (typeof Swiper === 'undefined') {
+    console.error('Swiper library not loaded. Sliders will not work.');
+    return;
+  }
 
   const streamSwiper = new Swiper('.stream-swiper', {
     slidesPerView: 2,
