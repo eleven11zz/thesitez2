@@ -1,0 +1,357 @@
+/* ===================================
+   MOBILE RESPONSIVENESS & CTA IMPROVEMENTS
+   Based on comprehensive review for mobile clarity
+   =================================== */
+
+/* ===================================
+   1. COMPARISON CARDS - ENHANCED VISIBILITY
+   =================================== */
+
+/* Darken card backgrounds for better text contrast */
+.comparison-card {
+  background: rgba(255, 255, 255, 0.08) !important;
+  color: #f8fafb !important;
+}
+
+.comparison-card.highlight {
+  background: linear-gradient(145deg, rgba(229, 9, 20, 0.12), rgba(255, 45, 58, 0.06)) !important;
+}
+
+/* Ensure all text in comparison cards is off-white */
+.comparison-card h3,
+.comparison-card p,
+.comparison-features li {
+  color: #f8fafb !important;
+}
+
+/* Center icon and heading in comparison cards */
+.comparison-card > .comparison-icon {
+  display: block;
+  text-align: center;
+  margin: 0 auto 1rem;
+}
+
+.comparison-card > h3 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+/* Make CTA buttons solid red with white text - no gradient issues */
+.comparison-cta a {
+  background: #e50914 !important;
+  color: #ffffff !important;
+  border: none !important;
+  padding: 1rem 2rem;
+  border-radius: 999px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.85rem;
+  box-shadow: 0 16px 40px rgba(229, 9, 20, 0.35);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+}
+
+.comparison-cta a:hover {
+  background: #ff0a16 !important;
+  transform: translateY(-3px);
+  box-shadow: 0 24px 52px rgba(229, 9, 20, 0.45);
+}
+
+/* ===================================
+   2. PRODUCT SUMMARY CARDS - CONSISTENT CTA STYLING
+   =================================== */
+
+/* Center icon and heading in product cards */
+.product-card-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.product-summary-card h3 {
+  text-align: center;
+}
+
+/* Style the "View IPTV Catalog" and "View TV Box Catalog" buttons */
+.product-summary-card > a,
+.product-summary-card a[href*="catalog"],
+.product-summary-card a[href*="products"] {
+  display: inline-block;
+  background: #e50914 !important;
+  color: #ffffff !important;
+  padding: 1rem 2rem;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-top: auto;
+  box-shadow: 0 8px 24px rgba(229, 9, 20, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+  min-height: 48px;
+}
+
+.product-summary-card > a:hover,
+.product-summary-card a[href*="catalog"]:hover,
+.product-summary-card a[href*="products"]:hover {
+  background: #ff0a16 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(229, 9, 20, 0.4);
+}
+
+/* Ensure proper card layout */
+.product-summary-card {
+  display: flex;
+  flex-direction: column;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+  padding: 2rem;
+  gap: 1rem;
+}
+
+.product-summary-card ul {
+  margin-bottom: 1.5rem;
+  flex-grow: 1;
+}
+
+/* ===================================
+   3. MOBILE HERO SECTION - VERTICAL STACKING
+   =================================== */
+
+@media (max-width: 768px) {
+  .hero-grid {
+    grid-template-columns: 1fr !important;
+    gap: 2rem !important;
+  }
+
+  .hero-text {
+    text-align: center;
+    align-items: center;
+  }
+
+  .hero-media {
+    order: 2;
+  }
+}
+
+/* Very narrow screens - extra compact */
+@media (max-width: 480px) {
+  .hero {
+    padding: 3rem 0 2rem !important;
+  }
+
+  .hero-grid {
+    gap: 1.5rem !important;
+  }
+}
+
+/* ===================================
+   4. FOOTER - HIDE LARGE IMAGE ON MOBILE
+   =================================== */
+
+@media (max-width: 480px) {
+  .footer-brand img.brand-logo,
+  .footer-brand .brand-logo {
+    max-width: 120px !important;
+    height: auto !important;
+  }
+
+  /* Reduce footer padding */
+  .site-footer {
+    padding: 2rem 0 1rem !important;
+  }
+
+  .footer-grid {
+    gap: 2rem !important;
+  }
+}
+
+/* ===================================
+   5. FOOTER - RESPONSIVE COLUMNS FOR TABLETS
+   =================================== */
+
+@media (min-width: 481px) and (max-width: 1024px) {
+  .footer-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)) !important;
+    gap: 2rem !important;
+  }
+}
+
+/* ===================================
+   6. REDUCE SECTION PADDING
+   =================================== */
+
+/* Reduce padding on products section (Deployment-Ready Packages) */
+.products-section {
+  padding: 4rem 0 !important;
+}
+
+@media (max-width: 768px) {
+  .products-section {
+    padding: 3rem 0 !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .products-section {
+    padding: 2.5rem 0 !important;
+  }
+}
+
+/* ===================================
+   7. AVERAGE ANNUAL SAVINGS - COMPACT LAYOUT
+   =================================== */
+
+/* Target the inline-styled savings box */
+.comparison-section [style*="background: rgba(229, 9, 20, 0.08)"] {
+  padding: 1.5rem !important;
+  margin-top: 2rem !important;
+}
+
+@media (max-width: 768px) {
+  .comparison-section [style*="background: rgba(229, 9, 20, 0.08)"] {
+    padding: 1.25rem !important;
+    margin-top: 1.5rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .comparison-section [style*="background: rgba(229, 9, 20, 0.08)"] {
+    padding: 1rem !important;
+    margin-top: 1rem !important;
+  }
+}
+
+/* ===================================
+   8. COMPARISON SECTION - REDUCE OVERALL PADDING
+   =================================== */
+
+.comparison-section {
+  padding: 4rem 0 !important;
+}
+
+@media (max-width: 768px) {
+  .comparison-section {
+    padding: 3rem 0 !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .comparison-section {
+    padding: 2.5rem 0 !important;
+  }
+}
+
+/* ===================================
+   9. ENSURE ALL CTAs ARE TOUCH-FRIENDLY
+   =================================== */
+
+/* All buttons and CTAs should have adequate tap targets on mobile */
+@media (max-width: 768px) {
+  .comparison-cta a,
+  .product-summary-card > a,
+  .hero-primary-cta,
+  .hero-secondary-cta,
+  button,
+  [class*="btn"],
+  [class*="cta"] {
+    min-height: 48px !important;
+    min-width: 48px !important;
+    padding: 0.875rem 1.75rem !important;
+  }
+}
+
+/* ===================================
+   10. ENSURE ICON & HEADING ALIGNMENT
+   =================================== */
+
+/* Consistent alignment for all card headers */
+.comparison-card,
+.product-summary-card,
+.lineup-card {
+  text-align: center;
+}
+
+.comparison-card .comparison-icon,
+.product-summary-card .card-icon,
+.lineup-card .card-icon {
+  display: block;
+  margin: 0 auto 1rem;
+}
+
+/* Lists should still be left-aligned for readability */
+.comparison-features,
+.product-summary-card ul {
+  text-align: left;
+}
+
+/* ===================================
+   11. FOOTER - MORE COMPACT OVERALL
+   =================================== */
+
+.site-footer {
+  padding: 3rem 0 1.5rem !important;
+}
+
+@media (max-width: 768px) {
+  .site-footer {
+    padding: 2.5rem 0 1.25rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .site-footer {
+    padding: 2rem 0 1rem !important;
+  }
+
+  .footer-social {
+    display: flex;
+    flex-direction: row !important;
+    justify-content: center;
+    gap: 1rem !important;
+    flex-wrap: wrap;
+  }
+}
+
+/* ===================================
+   12. PRODUCTS SECTION HEADER SPACING
+   =================================== */
+
+.products-header {
+  margin-bottom: 2.5rem;
+}
+
+@media (max-width: 768px) {
+  .products-header {
+    margin-bottom: 2rem;
+  }
+}
+
+/* ===================================
+   13. ENSURE PROPER MAX-WIDTH ON IMAGES
+   =================================== */
+
+.hero-media img,
+.product-summary-card img,
+.comparison-card img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* ===================================
+   14. MOBILE BREAKPOINT CONSISTENCY
+   =================================== */
+
+/* Ensure all grids collapse at the same breakpoint */
+@media (max-width: 767px) {
+  .comparison-grid,
+  .product-summary-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
