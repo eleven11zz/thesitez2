@@ -11,11 +11,12 @@
   {"@context":"https://schema.org","@type":"WebSite","name":"TVMaster VIP","url":"https://web.tvmaster.vip/","potentialAction":{"@type":"SearchAction","target":"https://web.tvmaster.vip/search.html?q={query}","query-input":"required name=query"}}
   </script>
   <link rel="preload" href="../assets/css/faq.css" as="style">
-  
+
   <!-- Performance optimizations for Core Web Vitals -->
   <link rel="stylesheet" href="../assets/css/performance.css">
 
 <link rel="stylesheet" href="../assets/css/faq.css">
+  <link rel="stylesheet" href="../assets/css/modern-header-footer.css">
   <link rel="stylesheet" href="../assets/css/modern-effects.css">
   <link rel="stylesheet" href="../assets/css/mobile-tablet-fixes.css">
   <link rel="stylesheet" href="../assets/css/language-switcher.css">
@@ -27,26 +28,30 @@
 <a href="#main-content" class="skip-to-main">Skip to main content</a>
 
   <header class="site-header" role="banner">
-    <div class="header-inner">
-      <a href="./index.html" class="brand">
-        <img src="../assets/footer_picture.png" alt="TVMaster logo" loading="lazy" decoding="async">
-        <span>TVMaster</span>
+    <div class="container header-inner">
+      <a href="./index.html" class="brand" aria-label="TVMaster VIP - Terug naar startpagina">
+        <img src="../assets/footer_picture.png" alt="TVMaster VIP logo - Premium IPTV Service" class="header-logo" loading="lazy" decoding="async">
+        <span class="brand-text">TVMaster</span>
       </a>
-      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
-        <span class="sr-only">Toggle navigation</span>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Navigatiemenu openen">
+        <span class="sr-only">Navigatie schakelen</span>
         <span></span>
         <span></span>
         <span></span>
-      </button><nav class="main-nav" role="navigation" aria-label="Primary navigation" id="primary-nav">
-        <a href="../index.html#hero">Home</a>
-        <a href="../index.html#lineups">Channels</a>
+      </button>
+      <nav class="main-nav" id="primary-nav" role="navigation" aria-label="Primaire navigatie">
+        <a href="./index.html#hero">Home</a>
+        <a href="./channel-lists.html">Kanalen</a>
+        <a href="./epg.html">TV Gids</a>
         <a href="./sports/live.html">Live Hub</a>
-        <a href="../index.html#benefits">Benefits</a>
-        <a href="../index.html#products">Products</a>
-        <a href="./iptv-products.html">Catalogs</a>
-        <a href="../index.html#testimonials">Testimonials</a>
+        <a href="./iptv-products.html">IPTV Pakketten</a>
+        <a href="./tv-box-products.html">TV Boxes</a>
+        <a href="./setup/index.html">Installeeratiegidsen</a>
+        <a href="./country/index.html">Landen</a>
+        <a href="./devices/index.html">Apparaten</a>
         <a href="./faq.html" class="active">FAQ</a>
-        <a class="header-cta" href="../index.html#contact">Talk to Sales</a>
+        <a href="./blog.html">Blog</a>
+        <a class="header-cta" href="./iptv-products.html">Start Streaming</a>
       </nav>
     </div>
   </header>
