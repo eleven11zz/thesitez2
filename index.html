@@ -1605,6 +1605,27 @@ body {
   margin: 1.25rem 0 0;
 }
 
+.channels-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(112px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .channels-grid {
+    grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .channels-grid {
+    grid-template-columns: repeat(auto-fill, minmax(82px, 1fr));
+    gap: 0.85rem;
+  }
+}
+
 .channel-card {
   height: 112px;
   width: 112px;
@@ -1634,13 +1655,15 @@ body {
   filter: brightness(1);
 }
 
-.sky-swiper .channel-card {
+.sky-swiper .channel-card,
+.sky-channels .channel-card {
   background: rgba(255, 255, 255, 0.95);
   border-color: rgba(229, 9, 20, 0.35);
   box-shadow: 0 16px 36px rgba(0, 0, 0, 0.25);
 }
 
-.sky-swiper .channel-card:hover {
+.sky-swiper .channel-card:hover,
+.sky-channels .channel-card:hover {
   box-shadow: 0 20px 44px rgba(0, 0, 0, 0.35);
 }
 
@@ -1650,7 +1673,8 @@ body {
   background: #e50914 !important;
 }
 
-.sky-swiper .channel-card img {
+.sky-swiper .channel-card img,
+.sky-channels .channel-card img {
   height: 70%;
   width: auto;
 }
@@ -1983,248 +2007,147 @@ body {
         <div class="lineup-card">
           <h3>Streaming Giants</h3>
           <p>Curate the most in-demand SVOD platforms to power bingeable bundles for every region.</p>
-          <div class="stream-slider-wrapper">
-            <div class="swiper stream-swiper">
-              <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/netflix.png" alt="Netflix" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/prime.png" alt="Prime Video" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/disney.png" alt="Disney Plus" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/hbo.png" alt="HBO" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/huluu.jpg" alt="Hulu" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/max.jpg" alt="Max" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/apple.jpg" alt="Apple TV Plus" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/espn.jpg" alt="ESPN" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/paramount.jpg" alt="Paramount Plus" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/peacock.jpg" alt="Peacock" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/roku.jpg" alt="Roku" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/youtube.png" alt="YouTube" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/amc.jpg" alt="AMC Plus" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/hot.jpg" alt="Hotstar" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/tving.png" alt="TVING" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/watcha.png" alt="Watcha" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/original.jpg" alt="Originals" loading="lazy" decoding="async">
-                  </div>
-                </div>
-              </div>
-              <div class="swiper-pagination stream-pagination"></div>
+          <div class="channels-grid">
+            <div class="channel-card">
+              <img src="./assets/stream_slider/netflix.png" alt="Netflix" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/prime.png" alt="Prime Video" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/disney.png" alt="Disney Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/hbo.png" alt="HBO" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/huluu.jpg" alt="Hulu" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/max.jpg" alt="Max" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/apple.jpg" alt="Apple TV Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/espn.jpg" alt="ESPN" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/paramount.jpg" alt="Paramount Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/peacock.jpg" alt="Peacock" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/roku.jpg" alt="Roku" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/youtube.png" alt="YouTube" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/amc.jpg" alt="AMC Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/hot.jpg" alt="Hotstar" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/tving.png" alt="TVING" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/watcha.png" alt="Watcha" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/original.jpg" alt="Originals" loading="lazy" decoding="async">
             </div>
           </div>
         </div>
         <div class="lineup-card">
           <h3>Sky Sports Live</h3>
           <p>Deliver every match, race, and breaking highlight with our synchronized Sky Sports feeds.</p>
-          <div class="sky-slider-wrapper">
-            <div class="swiper sky-swiper">
-              <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/sky_slider/cricket.png" alt="Sky Sports Cricket" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/sky_slider/f1.png" alt="Sky Sports F1" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sport-news-hd.jpg" alt="Sky Sport News HD" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sport-nba.webp" alt="Sky Sport NBA" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sport-now.png" alt="Sky Sport Now" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/sky_slider/imageso.png" alt="Sky Sports Original" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sports-main-event.png" alt="Sky Sports Main Event" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/sky_slider/sky-sports-arena.png" alt="Sky Sports Arena" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/sky_slider/SkySportsFootball_201708.jpg" alt="Sky Sports Football" loading="lazy" decoding="async">
-                  </div>
-                </div>
-              </div>
-              <div class="swiper-pagination sky-pagination"></div>
+          <div class="channels-grid sky-channels">
+            <div class="channel-card">
+              <img src="./assets/sky_slider/cricket.png" alt="Sky Sports Cricket" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/sky_slider/f1.png" alt="Sky Sports F1" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/sky_slider/sky-sport-news-hd.jpg" alt="Sky Sport News HD" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/sky_slider/sky-sport-nba.webp" alt="Sky Sport NBA" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/sky_slider/sky-sport-now.png" alt="Sky Sport Now" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/sky_slider/imageso.png" alt="Sky Sports Original" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/sky_slider/sky-sports-main-event.png" alt="Sky Sports Main Event" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/sky_slider/sky-sports-arena.png" alt="Sky Sports Arena" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/sky_slider/SkySportsFootball_201708.jpg" alt="Sky Sports Football" loading="lazy" decoding="async">
             </div>
           </div>
         </div>
         <div class="lineup-card">
           <h3>Custom Showcases</h3>
           <p>Stage campaign takeovers, multilingual promos, or regional spotlights with dynamic rotations.</p>
-          <div class="demo-slider-wrapper">
-            <div class="swiper demo-swiper">
-              <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/netflix.png" alt="Netflix" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/prime.png" alt="Prime Video" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/disney.png" alt="Disney Plus" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/hbo.png" alt="HBO" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/huluu.jpg" alt="Hulu" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/max.jpg" alt="Max" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/apple.jpg" alt="Apple TV Plus" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/espn.jpg" alt="ESPN" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/paramount.jpg" alt="Paramount Plus" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/peacock.jpg" alt="Peacock" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/roku.jpg" alt="Roku" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/youtube.png" alt="YouTube" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/amc.jpg" alt="AMC Plus" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/hot.jpg" alt="Hotstar" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/tving.png" alt="TVING" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/watcha.png" alt="Watcha" loading="lazy" decoding="async">
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="channel-card">
-                    <img src="./assets/stream_slider/original.jpg" alt="Originals" loading="lazy" decoding="async">
-                  </div>
-                </div>
-              </div>
-              <div class="swiper-pagination demo-pagination"></div>
+          <div class="channels-grid">
+            <div class="channel-card">
+              <img src="./assets/stream_slider/netflix.png" alt="Netflix" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/prime.png" alt="Prime Video" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/disney.png" alt="Disney Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/hbo.png" alt="HBO" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/huluu.jpg" alt="Hulu" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/max.jpg" alt="Max" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/apple.jpg" alt="Apple TV Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/espn.jpg" alt="ESPN" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/paramount.jpg" alt="Paramount Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/peacock.jpg" alt="Peacock" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/roku.jpg" alt="Roku" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/youtube.png" alt="YouTube" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/amc.jpg" alt="AMC Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/hot.jpg" alt="Hotstar" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/tving.png" alt="TVING" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/watcha.png" alt="Watcha" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-card">
+              <img src="./assets/stream_slider/original.jpg" alt="Originals" loading="lazy" decoding="async">
             </div>
           </div>
         </div>
@@ -2888,75 +2811,7 @@ document.addEventListener('DOMContentLoaded', function() {
     observer.observe(el);
   });
 
-  // Initialize Swiper sliders only if Swiper is loaded
-  if (typeof Swiper === 'undefined') {
-    console.error('Swiper library not loaded. Sliders will not work.');
-    return;
-  }
-
-  const streamSwiper = new Swiper('.stream-swiper', {
-    slidesPerView: 2,
-    spaceBetween: 16,
-    loop: true,
-    speed: 4000,
-    autoplay: {
-      delay: 0,
-      disableOnInteraction: false,
-    },
-    centeredSlides: true,
-    pagination: {
-      el: '.stream-pagination',
-      clickable: true,
-    },
-    breakpoints: {
-      640: { slidesPerView: 3 },
-      768: { slidesPerView: 4 },
-      1024: { slidesPerView: 5 }
-    }
-  });
-
-  const skySwiper = new Swiper('.sky-swiper', {
-    slidesPerView: 2,
-    spaceBetween: 16,
-    loop: true,
-    speed: 4000,
-    autoplay: {
-      delay: 0,
-      disableOnInteraction: false,
-      reverseDirection: true,
-    },
-    centeredSlides: true,
-    pagination: {
-      el: '.sky-pagination',
-      clickable: true,
-    },
-    breakpoints: {
-      640: { slidesPerView: 3 },
-      768: { slidesPerView: 4 },
-      1024: { slidesPerView: 5 }
-    }
-  });
-
-  const demoSwiper = new Swiper('.demo-swiper', {
-    slidesPerView: 2,
-    spaceBetween: 16,
-    loop: true,
-    speed: 4000,
-    autoplay: {
-      delay: 0,
-      disableOnInteraction: false,
-    },
-    centeredSlides: true,
-    pagination: {
-      el: '.demo-pagination',
-      clickable: true,
-    },
-    breakpoints: {
-      640: { slidesPerView: 3 },
-      768: { slidesPerView: 4 },
-      1024: { slidesPerView: 5 }
-    }
-  });
+  // IPTV lineup sliders removed - now using static grid layout
 
   // Initialize Swiper for benefits cards
   const swiper = new Swiper('.benefits-swiper', {
