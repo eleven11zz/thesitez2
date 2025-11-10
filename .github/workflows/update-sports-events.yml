@@ -1,5 +1,10 @@
 name: Update Sports Events
 
+# IMPORTANT: Repository Settings Required
+# Go to Settings → Actions → General → Workflow permissions
+# Select "Read and write permissions" (not just "Read repository contents")
+# This allows the workflow to push commits back to the repository
+
 on:
   # Run daily at 3:00 AM UTC
   schedule:
@@ -8,19 +13,20 @@ on:
   # Allow manual trigger from GitHub Actions tab
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   update-events:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          ref: ${{ github.ref }}
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -64,9 +70,28 @@ jobs:
           git commit -m "🔄 Auto-update sports events - $(date '+%Y-%m-%d %H:%M UTC')"
 
           echo "🚀 Pushing to ${GITHUB_REF#refs/heads/}..."
-          git push origin HEAD:${GITHUB_REF#refs/heads/}
 
-          echo "✅ Push completed successfully!"
+          # Retry logic with exponential backoff
+          max_retries=4
+          retry_count=0
+          retry_delay=2
+
+          while [ $retry_count -lt $max_retries ]; do
+            if git push origin HEAD:${GITHUB_REF#refs/heads/}; then
+              echo "✅ Push completed successfully!"
+              break
+            else
+              retry_count=$((retry_count + 1))
+              if [ $retry_count -lt $max_retries ]; then
+                echo "⚠️ Push failed. Retrying in ${retry_delay}s... (Attempt $retry_count/$max_retries)"
+                sleep $retry_delay
+                retry_delay=$((retry_delay * 2))
+              else
+                echo "❌ Push failed after $max_retries attempts"
+                exit 1
+              fi
+            fi
+          done
 
       - name: Summary
         if: steps.check_changes.outputs.changed == 'true'
