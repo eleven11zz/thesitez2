@@ -153,64 +153,6 @@
         </div>
       </div>
 
-      <div class="hub-section" id="templates">
-        <h2><span class="icon" aria-hidden="true">📄</span> HowTo Template</h2>
-        <p class="lead">Copy the snippet below into any new setup page. Replace placeholders and extend steps/screenshot captions.</p>
-        <div class="hub-card" style="background: rgba(15, 15, 15, 0.92);">
-<pre style="white-space: pre-wrap; text-align: left; font-size: 0.9rem; color: rgba(248, 250, 251, 0.8);">
-&lt;section class="howto-hero"&gt;
-  &lt;h2&gt;How to Install TVMaster VIP on {{DEVICE}}&lt;/h2&gt;
-  &lt;p&gt;Follow these quick steps to watch live TVMaster VIP channels on your {{DEVICE}} in under {{DURATION}} minutes.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;ol class="howto-steps"&gt;
-  &lt;li&gt;&lt;strong&gt;Install {{APP}}&lt;/strong&gt; – Open the {{STORE}} and install {{APP}}.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Enter your playlist&lt;/strong&gt; – Launch {{APP}}, choose Add Playlist, paste your TVMaster M3U URL and EPG.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Optimise settings&lt;/strong&gt; – Enable catch-up, choose your favourite layout, and lock adult content if required.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;section class="howto-followup"&gt;
-  &lt;h3&gt;Troubleshooting&lt;/h3&gt;
-  &lt;ul&gt;
-    &lt;li&gt;If channels buffer, lower resolution or switch to Ethernet.&lt;/li&gt;
-    &lt;li&gt;If playlist expires, renew via TVMaster support and refresh the app cache.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-
-&lt;script type="application/ld+json"&gt;
-{
-  "@context": "https://schema.org",
-  "@type": "HowTo",
-  "name": "Set up TVMaster VIP on {{DEVICE}}",
-  "totalTime": "PT{{TOTAL_MINUTES}}M",
-  "tool": ["{{APP}}"],
-  "step": [
-    {"@type": "HowToStep", "name": "Install the app", "text": "Open the {{STORE}} on your {{DEVICE}} and install {{APP}}."},
-    {"@type": "HowToStep", "name": "Add playlist", "text": "Launch {{APP}}, choose Add Playlist, paste your TVMaster M3U URL and optional EPG."},
-    {"@type": "HowToStep", "name": "Start streaming", "text": "Reload the channel list, check catch-up availability, and enjoy TVMaster VIP."}
-  ]
-}
-&lt;/script&gt;
-</pre>
-        </div>
-      </div>
-
-      <div class="hub-section" id="howto-checklist">
-        <h2><span class="icon" aria-hidden="true">✅</span> HowTo Schema Checklist</h2>
-        <p class="lead">Before publishing, confirm every guide meets Google’s HowTo requirements.</p>
-        <div class="hub-card">
-          <ul>
-            <li>Minimum 2–3 clear steps with explicit verbs (“Install”, “Add”, “Configure”).</li>
-            <li>Include optional fields: estimated time (<code>totalTime</code>), required tool/app, and supply list if relevant.</li>
-            <li>Add supporting media (screenshots, GIFs) with descriptive alt text.</li>
-            <li>Link back to <a href="../devices/">device hub</a>, <a href="../faq.html">FAQ</a>, and <a href="../sports/">sports event pages</a>.</li>
-
-            <li>Run Rich Results test after each publish to ensure schema validity.</li>
-          </ul>
-        </div>
-      </div>
-    </section>
-
     <section class="hub-content">
       <div class="cta-banner">
         <strong>Launch cadence</strong>
