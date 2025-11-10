@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+  <title>TVMaster VIP durchsuchen</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --primary: #e50914;
+      --bg: #050505;
+      --text: rgba(248, 250, 251, 0.86);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: "Inter","Segoe UI",Arial,sans-serif;
+      background: radial-gradient(circle at top, rgba(229, 9, 20, 0.2), transparent 45%), var(--bg);
+      color: var(--text);
+      padding: 2rem;
+    }
+    .search-card {
+      width: min(640px, 100%);
+      background: rgba(10, 10, 10, 0.85);
+      border: 1px solid rgba(229, 9, 20, 0.25);
+      border-radius: 24px;
+      box-shadow: 0 24px 55px rgba(0, 0, 0, 0.35);
+      padding: 2.5rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0 0 1rem;
+      font-size: clamp(2rem, 5vw + 0.5rem, 3rem);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #ffffff;
+    }
+    p {
+      margin: 0 0 1.5rem;
+      line-height: 1.7;
+    }
+    form {
+      display: flex;
+      gap: 0.75rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    input[type="search"] {
+      flex: 1 1 260px;
+      padding: 0.85rem 1.2rem;
+      border-radius: 999px;
+      border: 1px solid rgba(229, 9, 20, 0.35);
+      background: rgba(15, 15, 15, 0.75);
+      color: #ffffff;
+      font-size: 1rem;
+      outline: none;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    input[type="search"]:focus {
+      border-color: var(--primary);
+      box-shadow: 0 18px 45px rgba(229, 9, 20, 0.3);
+    }
+    button {
+      border: none;
+      cursor: pointer;
+      padding: 0.85rem 1.8rem;
+      border-radius: 999px;
+      background: var(--primary);
+      color: #050505;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 18px 40px rgba(229, 9, 20, 0.35);
+    }
+    .result-hint {
+      margin-top: 1.25rem;
+      font-size: 0.95rem;
+      color: rgba(248, 250, 251, 0.7);
+    }
+    .result-hint a {
+      color: #ffffff;
+      text-decoration: none;
+    }
+    .result-hint a:hover {
+      text-decoration: underline;
+    }
+  </style>
+
+  <!-- Performance optimizations for Core Web Vitals -->
+  <link rel="stylesheet" href="../assets/css/performance.css">
+
+<link rel="stylesheet" href="../assets/css/mobile-tablet-fixes.css">
+  <link rel="stylesheet" href="../assets/css/ui-ux-fixes.css">
+<link rel="stylesheet" href="../assets/css/accessibility.css"/>
+  <link rel="stylesheet" href="../assets/css/language-switcher.css">
+</head>
+<body>
+<!-- Skip to main content for keyboard users -->
+<a href="#main-content" class="skip-to-main">Zum Hauptinhalt springen</a>
+
+  <div class="search-card">
+    <h1>TVMaster VIP durchsuchen</h1>
+    <p>Finden Sie Hilfeartikel, Einrichtungsanleitungen, Gerätetipps und Sportnachrichten auf TVMaster.vip.</p>
+    <form action="./search.html" method="get" role="search">
+      <input type="search" name="q" placeholder="Suche nach Kanälen, Geräten, Einrichtung…" aria-label="TVMaster-Inhalt durchsuchen" required>
+      <button type="submit">Suchen</button>
+    </form>
+    <p class="result-hint" data-result-hint hidden>
+      Ergebnisse für <strong data-query></strong> werden angezeigt. Wenn nichts angezeigt wird, <a data-result-link href="#" target="_blank" rel="noopener">öffnen Sie die Ergebnisse in einem neuen Tab</a>.
+    </p>
+  </div>
+  <script>
+    (function () {
+      const params = new URLSearchParams(window.location.search);
+      const query = params.get('q');
+      if (!query) return;
+      const encoded = encodeURIComponent(query);
+      const googleUrl = `https://www.google.com/search?q=site:web.tvmaster.vip+${encoded}`;
+      const hint = document.querySelector('[data-result-hint]');
+      const querySpan = document.querySelector('[data-query]');
+      const link = document.querySelector('[data-result-link]');
+      if (hint && querySpan && link) {
+        querySpan.textContent = query;
+        link.href = googleUrl;
+        hint.hidden = false;
+      }
+      window.location.replace(googleUrl);
+    })();
+  </script>
+  <script src="../assets/js/navigation.js" defer></script>
+  <script src="../assets/js/language-switcher.js" defer></script>
+</body>
+</html>
