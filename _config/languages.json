@@ -1,0 +1,553 @@
+{
+  "languages": {
+    "en": {
+      "name": "English",
+      "locale": "en_US",
+      "hreflang": "en",
+      "path": "",
+      "dir": "ltr",
+      "site": {
+        "name": "TVMaster VIP",
+        "tagline": "#1 Premium IPTV Service",
+        "description": "Premium IPTV streaming service with 30,000+ live channels, 4K quality and zero buffering",
+        "url": "https://web.tvmaster.vip/",
+        "author": "TVMaster VIP",
+        "email": "support@tvmaster.vip",
+        "phone": "+44 20 7123 4567",
+        "support_hours": "24/7 Global Support"
+      },
+      "seo": {
+        "home": {
+          "title": "TVMaster VIP - #1 Premium IPTV Service | 30,000+ Channels, 4K Streaming, Zero Buffering",
+          "description": "🏆 Rated 4.9/5 by 50,000+ users! TVMaster VIP delivers 30,000+ live TV channels, 3,000+ sports networks & 10,000+ movies in stunning 4K. Best IPTV provider with instant activation, 99.9% uptime, zero buffering, multi-device access & 24/7 expert support. Start your risk-free 7-day trial today!",
+          "keywords": "best IPTV service 2025, premium IPTV provider, 4K IPTV streaming, live TV streaming service, sports IPTV subscription, IPTV for Smart TV, Android TV box IPTV, multi-device IPTV, zero buffering IPTV, cheap IPTV plans, IPTV vs cable TV, international IPTV channels",
+          "og_title": "TVMaster VIP - #1 Premium IPTV Service | 30,000+ Live Channels",
+          "og_description": "🏆 Rated 4.9/5! Stream 30,000+ live channels, 3,000+ sports networks and 10,000+ movies in 4K. Zero buffering guaranteed with 99.9% uptime. Try free for 7 days!"
+        },
+        "blog": {
+          "title": "IPTV Blog & Guides | TVMaster VIP Resource Center",
+          "description": "Expert IPTV guides, tutorials, comparisons and industry news. Learn about IPTV streaming, setup guides, device compatibility, and tips to optimize your viewing experience.",
+          "keywords": "IPTV blog, IPTV guides, IPTV tutorials, streaming guides, IPTV setup, IPTV comparison, IPTV news, streaming tips"
+        },
+        "faq": {
+          "title": "IPTV FAQ - Frequently Asked Questions | TVMaster VIP",
+          "description": "Get answers to common questions about TVMaster VIP IPTV service. Learn about plans, devices, setup, channels, billing and technical support.",
+          "keywords": "IPTV FAQ, IPTV questions, IPTV help, IPTV support, IPTV setup help"
+        },
+        "products": {
+          "title": "IPTV Subscription Plans & Packages | TVMaster VIP Pricing",
+          "description": "Choose your perfect IPTV plan. Monthly, quarterly and annual subscriptions with 30,000+ channels, 4K streaming, and zero buffering. 7-day free trial available.",
+          "keywords": "IPTV subscription, IPTV plans, IPTV pricing, IPTV packages, cheap IPTV, IPTV deals"
+        },
+        "channels": {
+          "title": "30,000+ IPTV Channels List | Sports, Movies, Entertainment",
+          "description": "Browse our complete IPTV channel lineup. 30,000+ live channels including sports, movies, news, entertainment, kids content and international channels.",
+          "keywords": "IPTV channels, IPTV channel list, sports channels, movie channels, international IPTV"
+        }
+      },
+      "nav": {
+        "home": "Home",
+        "channels": "Channels",
+        "tv_guide": "TV Guide",
+        "live_hub": "Live Hub",
+        "iptv_packages": "IPTV Packages",
+        "tv_boxes": "TV Boxes",
+        "setup_guides": "Setup Guides",
+        "countries": "Countries",
+        "devices": "Devices",
+        "faq": "FAQ",
+        "blog": "Blog",
+        "cta": "Start Streaming"
+      },
+      "footer": {
+        "brand_description": "Premium IPTV streaming service with 30,000+ live channels, 4K quality, zero buffering. Trusted by 50,000+ customers worldwide. Enterprise-grade infrastructure with 24/7 support.",
+        "products_title": "Products",
+        "resources_title": "Resources",
+        "contact_title": "Contact",
+        "copyright": "© 2025 TVMaster VIP. All rights reserved."
+      }
+    },
+    "de": {
+      "name": "German",
+      "locale": "de_DE",
+      "hreflang": "de",
+      "path": "de",
+      "dir": "ltr",
+      "site": {
+        "name": "TVMaster VIP",
+        "tagline": "#1 Premium IPTV Service",
+        "description": "Premium IPTV-Streaming-Service mit 30.000+ Live-Kanälen, 4K-Qualität und ohne Puffern",
+        "url": "https://web.tvmaster.vip/de/",
+        "author": "TVMaster VIP",
+        "email": "support@tvmaster.vip",
+        "phone": "+44 20 7123 4567",
+        "support_hours": "24/7 Globaler Support"
+      },
+      "seo": {
+        "home": {
+          "title": "TVMaster VIP - #1 Premium IPTV Service | 30.000+ Kanäle, 4K Streaming",
+          "description": "🏆 Bewertet mit 4,9/5 von 50.000+ Nutzern! TVMaster VIP bietet 30.000+ Live-TV-Kanäle, 3.000+ Sportnetzwerke & 10.000+ Filme in atemberaubendem 4K. Bester IPTV-Anbieter mit sofortiger Aktivierung, 99,9% Verfügbarkeit, ohne Puffern, Mehrgerätezugriff & 24/7 Expertenunterstützung. Starten Sie heute Ihre risikofreie 7-Tage-Testversion!",
+          "keywords": "bester IPTV-Service 2025, Premium IPTV-Anbieter, 4K IPTV-Streaming, Live-TV-Streaming-Service, Sport IPTV-Abonnement, IPTV für Smart TV, Android TV Box IPTV, Multi-Device IPTV, IPTV ohne Puffern, günstige IPTV-Pläne, IPTV vs Kabelfernsehen, internationale IPTV-Kanäle",
+          "og_title": "TVMaster VIP - #1 Premium IPTV Service | 30.000+ Kanäle, 4K Streaming",
+          "og_description": "🏆 Bewertet mit 4,9/5 von 50.000+ Nutzern! TVMaster VIP bietet 30.000+ Live-TV-Kanäle, 3.000+ Sportnetzwerke & 10.000+ Filme in atemberaubendem 4K. Bester IPTV-Anbieter mit sofortiger Aktivierung, 99,9% Verfügbarkeit, ohne Puffern, Mehrgerätezugriff & 24/7 Expertenunterstützung. Starten Sie heute Ihre risikofreie 7-Tage-Testversion!"
+        },
+        "blog": {
+          "title": "IPTV Blog & Anleitungen | TVMaster VIP Ressourcenzentrum",
+          "description": "Experten-IPTV-Anleitungen, Tutorials, Vergleiche und Branchennachrichten. Erfahren Sie mehr über IPTV-Streaming, Setup-Anleitungen, Gerätekompatibilität und Tipps zur Optimierung Ihres Seherlebnisses.",
+          "keywords": "IPTV Blog, IPTV Anleitungen, IPTV Tutorials, Streaming-Anleitungen, IPTV-Setup, IPTV-Vergleich, IPTV-Nachrichten, Streaming-Tipps"
+        },
+        "faq": {
+          "title": "IPTV FAQ - Häufig gestellte Fragen | TVMaster VIP",
+          "description": "Erhalten Sie Antworten auf häufig gestellte Fragen zum TVMaster VIP IPTV-Service. Erfahren Sie mehr über Pläne, Geräte, Setup, Kanäle, Abrechnung und technischen Support.",
+          "keywords": "IPTV FAQ, IPTV Fragen, IPTV Hilfe, IPTV Support, IPTV Setup-Hilfe"
+        },
+        "products": {
+          "title": "IPTV-Abonnementpläne & Pakete | TVMaster VIP Preise",
+          "description": "Wählen Sie Ihren perfekten IPTV-Plan. Monatliche, vierteljährliche und jährliche Abonnements mit 30.000+ Kanälen, 4K-Streaming und ohne Puffern. 7-tägige kostenlose Testversion verfügbar.",
+          "keywords": "IPTV-Abonnement, IPTV-Pläne, IPTV-Preise, IPTV-Pakete, günstiges IPTV, IPTV-Angebote"
+        },
+        "channels": {
+          "title": "30.000+ IPTV-Kanalliste | Sport, Filme, Unterhaltung",
+          "description": "Durchsuchen Sie unser komplettes IPTV-Kanalangebot. 30.000+ Live-Kanäle inklusive Sport, Filme, Nachrichten, Unterhaltung, Kinderinhalte und internationale Kanäle.",
+          "keywords": "IPTV-Kanäle, IPTV-Kanalliste, Sportkanäle, Filmkanäle, internationales IPTV"
+        }
+      },
+      "nav": {
+        "home": "Startseite",
+        "channels": "Kanäle",
+        "tv_guide": "TV-Guide",
+        "live_hub": "Live Hub",
+        "iptv_packages": "IPTV-Pakete",
+        "tv_boxes": "TV-Boxen",
+        "setup_guides": "Setup-Anleitungen",
+        "countries": "Länder",
+        "devices": "Geräte",
+        "faq": "FAQ",
+        "blog": "Blog",
+        "cta": "Streaming starten"
+      },
+      "footer": {
+        "brand_description": "Premium IPTV-Streaming-Service mit 30.000+ Live-Kanälen, 4K-Qualität, ohne Puffern. Vertraut von 50.000+ Kunden weltweit. Infrastruktur auf Unternehmensniveau mit 24/7-Support.",
+        "products_title": "Produkte",
+        "resources_title": "Ressourcen",
+        "contact_title": "Kontakt",
+        "copyright": "© 2025 TVMaster VIP. Alle Rechte vorbehalten."
+      }
+    },
+    "fr": {
+      "name": "French",
+      "locale": "fr_FR",
+      "hreflang": "fr",
+      "path": "fr",
+      "dir": "ltr",
+      "site": {
+        "name": "TVMaster VIP",
+        "tagline": "Service IPTV Premium #1",
+        "description": "Service de streaming IPTV premium avec 30 000+ chaînes en direct, qualité 4K et zéro mise en tampon",
+        "url": "https://web.tvmaster.vip/fr/",
+        "author": "TVMaster VIP",
+        "email": "support@tvmaster.vip",
+        "phone": "+44 20 7123 4567",
+        "support_hours": "Support Mondial 24/7"
+      },
+      "seo": {
+        "home": {
+          "title": "TVMaster VIP - Service IPTV Premium #1 | 30 000+ Chaînes, Streaming 4K",
+          "description": "🏆 Noté 4,9/5 par 50 000+ utilisateurs ! TVMaster VIP propose 30 000+ chaînes TV en direct, 3 000+ réseaux sportifs et 10 000+ films en 4K époustouflant. Meilleur fournisseur IPTV avec activation instantanée, disponibilité de 99,9%, zéro mise en tampon, accès multi-appareils et support expert 24/7. Commencez votre essai gratuit de 7 jours aujourd'hui !",
+          "keywords": "meilleur service IPTV 2025, fournisseur IPTV premium, streaming IPTV 4K, service de streaming TV en direct, abonnement IPTV sport, IPTV pour Smart TV, IPTV Android TV box, IPTV multi-appareils, IPTV sans mise en tampon, forfaits IPTV pas chers, IPTV vs câble TV, chaînes IPTV internationales",
+          "og_title": "TVMaster VIP - Service IPTV Premium #1 | 30 000+ Chaînes en Direct",
+          "og_description": "🏆 Noté 4,9/5 ! Diffusez 30 000+ chaînes en direct, 3 000+ réseaux sportifs et 10 000+ films en 4K. Zéro mise en tampon garanti avec disponibilité de 99,9%. Essai gratuit de 7 jours !"
+        },
+        "blog": {
+          "title": "Blog IPTV & Guides | Centre de Ressources TVMaster VIP",
+          "description": "Guides IPTV d'experts, tutoriels, comparaisons et actualités du secteur. Apprenez sur le streaming IPTV, guides de configuration, compatibilité des appareils et astuces pour optimiser votre expérience de visionnage.",
+          "keywords": "blog IPTV, guides IPTV, tutoriels IPTV, guides de streaming, configuration IPTV, comparaison IPTV, actualités IPTV, astuces de streaming"
+        },
+        "faq": {
+          "title": "FAQ IPTV - Questions Fréquemment Posées | TVMaster VIP",
+          "description": "Obtenez des réponses aux questions courantes sur le service IPTV TVMaster VIP. Découvrez les forfaits, appareils, configuration, chaînes, facturation et support technique.",
+          "keywords": "FAQ IPTV, questions IPTV, aide IPTV, support IPTV, aide configuration IPTV"
+        },
+        "products": {
+          "title": "Forfaits et Abonnements IPTV | Tarifs TVMaster VIP",
+          "description": "Choisissez votre forfait IPTV parfait. Abonnements mensuels, trimestriels et annuels avec 30 000+ chaînes, streaming 4K et zéro mise en tampon. Essai gratuit de 7 jours disponible.",
+          "keywords": "abonnement IPTV, forfaits IPTV, tarifs IPTV, packs IPTV, IPTV pas cher, offres IPTV"
+        },
+        "channels": {
+          "title": "Liste de 30 000+ Chaînes IPTV | Sport, Films, Divertissement",
+          "description": "Parcourez notre gamme complète de chaînes IPTV. 30 000+ chaînes en direct incluant sport, films, actualités, divertissement, contenu enfants et chaînes internationales.",
+          "keywords": "chaînes IPTV, liste chaînes IPTV, chaînes sport, chaînes films, IPTV international"
+        }
+      },
+      "nav": {
+        "home": "Accueil",
+        "channels": "Chaînes",
+        "tv_guide": "Guide TV",
+        "live_hub": "Hub Direct",
+        "iptv_packages": "Forfaits IPTV",
+        "tv_boxes": "Box TV",
+        "setup_guides": "Guides de Configuration",
+        "countries": "Pays",
+        "devices": "Appareils",
+        "faq": "FAQ",
+        "blog": "Blog",
+        "cta": "Commencer le Streaming"
+      },
+      "footer": {
+        "brand_description": "Service de streaming IPTV premium avec 30 000+ chaînes en direct, qualité 4K, zéro mise en tampon. Approuvé par 50 000+ clients dans le monde. Infrastructure de niveau entreprise avec support 24/7.",
+        "products_title": "Produits",
+        "resources_title": "Ressources",
+        "contact_title": "Contact",
+        "copyright": "© 2025 TVMaster VIP. Tous droits réservés."
+      }
+    },
+    "it": {
+      "name": "Italian",
+      "locale": "it_IT",
+      "hreflang": "it",
+      "path": "it",
+      "dir": "ltr",
+      "site": {
+        "name": "TVMaster VIP",
+        "tagline": "Servizio IPTV Premium #1",
+        "description": "Servizio di streaming IPTV premium con 30.000+ canali in diretta, qualità 4K e zero buffering",
+        "url": "https://web.tvmaster.vip/it/",
+        "author": "TVMaster VIP",
+        "email": "support@tvmaster.vip",
+        "phone": "+44 20 7123 4567",
+        "support_hours": "Supporto Globale 24/7"
+      },
+      "seo": {
+        "home": {
+          "title": "TVMaster VIP - Servizio IPTV Premium #1 | 30.000+ Canali, Streaming 4K",
+          "description": "🏆 Valutato 4,9/5 da 50.000+ utenti! TVMaster VIP offre 30.000+ canali TV in diretta, 3.000+ reti sportive e 10.000+ film in straordinario 4K. Miglior provider IPTV con attivazione istantanea, disponibilità del 99,9%, zero buffering, accesso multi-dispositivo e supporto esperto 24/7. Inizia oggi la tua prova gratuita di 7 giorni!",
+          "keywords": "miglior servizio IPTV 2025, provider IPTV premium, streaming IPTV 4K, servizio streaming TV in diretta, abbonamento IPTV sport, IPTV per Smart TV, IPTV Android TV box, IPTV multi-dispositivo, IPTV senza buffering, piani IPTV economici, IPTV vs TV via cavo, canali IPTV internazionali",
+          "og_title": "TVMaster VIP - Servizio IPTV Premium #1 | 30.000+ Canali in Diretta",
+          "og_description": "🏆 Valutato 4,9/5! Streaming di 30.000+ canali in diretta, 3.000+ reti sportive e 10.000+ film in 4K. Zero buffering garantito con disponibilità del 99,9%. Prova gratis per 7 giorni!"
+        },
+        "blog": {
+          "title": "Blog IPTV e Guide | Centro Risorse TVMaster VIP",
+          "description": "Guide IPTV esperte, tutorial, confronti e notizie del settore. Scopri lo streaming IPTV, guide di configurazione, compatibilità dei dispositivi e suggerimenti per ottimizzare la tua esperienza di visione.",
+          "keywords": "blog IPTV, guide IPTV, tutorial IPTV, guide streaming, configurazione IPTV, confronto IPTV, notizie IPTV, consigli streaming"
+        },
+        "faq": {
+          "title": "FAQ IPTV - Domande Frequenti | TVMaster VIP",
+          "description": "Ottieni risposte alle domande comuni sul servizio IPTV TVMaster VIP. Scopri piani, dispositivi, configurazione, canali, fatturazione e supporto tecnico.",
+          "keywords": "FAQ IPTV, domande IPTV, aiuto IPTV, supporto IPTV, aiuto configurazione IPTV"
+        },
+        "products": {
+          "title": "Piani e Pacchetti Abbonamento IPTV | Prezzi TVMaster VIP",
+          "description": "Scegli il tuo piano IPTV perfetto. Abbonamenti mensili, trimestrali e annuali con 30.000+ canali, streaming 4K e zero buffering. Prova gratuita di 7 giorni disponibile.",
+          "keywords": "abbonamento IPTV, piani IPTV, prezzi IPTV, pacchetti IPTV, IPTV economico, offerte IPTV"
+        },
+        "channels": {
+          "title": "Lista di 30.000+ Canali IPTV | Sport, Film, Intrattenimento",
+          "description": "Sfoglia la nostra lineup completa di canali IPTV. 30.000+ canali in diretta inclusi sport, film, notizie, intrattenimento, contenuti per bambini e canali internazionali.",
+          "keywords": "canali IPTV, lista canali IPTV, canali sport, canali film, IPTV internazionale"
+        }
+      },
+      "nav": {
+        "home": "Home",
+        "channels": "Canali",
+        "tv_guide": "Guida TV",
+        "live_hub": "Hub Live",
+        "iptv_packages": "Pacchetti IPTV",
+        "tv_boxes": "Box TV",
+        "setup_guides": "Guide Configurazione",
+        "countries": "Paesi",
+        "devices": "Dispositivi",
+        "faq": "FAQ",
+        "blog": "Blog",
+        "cta": "Inizia lo Streaming"
+      },
+      "footer": {
+        "brand_description": "Servizio di streaming IPTV premium con 30.000+ canali in diretta, qualità 4K, zero buffering. Affidato da 50.000+ clienti in tutto il mondo. Infrastruttura di livello aziendale con supporto 24/7.",
+        "products_title": "Prodotti",
+        "resources_title": "Risorse",
+        "contact_title": "Contatto",
+        "copyright": "© 2025 TVMaster VIP. Tutti i diritti riservati."
+      }
+    },
+    "nl": {
+      "name": "Dutch",
+      "locale": "nl_NL",
+      "hreflang": "nl",
+      "path": "nl",
+      "dir": "ltr",
+      "site": {
+        "name": "TVMaster VIP",
+        "tagline": "#1 Premium IPTV Service",
+        "description": "Premium IPTV streamingdienst met 30.000+ live kanalen, 4K-kwaliteit en zonder buffering",
+        "url": "https://web.tvmaster.vip/nl/",
+        "author": "TVMaster VIP",
+        "email": "support@tvmaster.vip",
+        "phone": "+44 20 7123 4567",
+        "support_hours": "24/7 Wereldwijde Ondersteuning"
+      },
+      "seo": {
+        "home": {
+          "title": "TVMaster VIP - #1 Premium IPTV Service | 30.000+ Kanalen, 4K Streaming",
+          "description": "🏆 Beoordeeld met 4,9/5 door 50.000+ gebruikers! TVMaster VIP biedt 30.000+ live TV-kanalen, 3.000+ sportnetwerken & 10.000+ films in verbluffende 4K. Beste IPTV-aanbieder met directe activering, 99,9% uptime, geen buffering, toegang op meerdere apparaten & 24/7 deskundige ondersteuning. Start vandaag nog je risicovrije proefperiode van 7 dagen!",
+          "keywords": "beste IPTV service 2025, premium IPTV-aanbieder, 4K IPTV-streaming, live TV-streamingdienst, sport IPTV-abonnement, IPTV voor Smart TV, Android TV box IPTV, multi-device IPTV, IPTV zonder buffering, goedkope IPTV-abonnementen, IPTV vs kabel-tv, internationale IPTV-kanalen",
+          "og_title": "TVMaster VIP - #1 Premium IPTV Service | 30.000+ Live Kanalen",
+          "og_description": "🏆 Beoordeeld met 4,9/5! Stream 30.000+ live kanalen, 3.000+ sportnetwerken en 10.000+ films in 4K. Geen buffering gegarandeerd met 99,9% uptime. Probeer gratis voor 7 dagen!"
+        },
+        "blog": {
+          "title": "IPTV Blog & Gidsen | TVMaster VIP Resourcecentrum",
+          "description": "Expert IPTV-gidsen, tutorials, vergelijkingen en sectornieuws. Leer over IPTV-streaming, installatiegidsen, apparaatcompatibiliteit en tips om je kijkervaring te optimaliseren.",
+          "keywords": "IPTV blog, IPTV gidsen, IPTV tutorials, streaming gidsen, IPTV installatie, IPTV vergelijking, IPTV nieuws, streaming tips"
+        },
+        "faq": {
+          "title": "IPTV FAQ - Veelgestelde Vragen | TVMaster VIP",
+          "description": "Krijg antwoorden op veelgestelde vragen over de TVMaster VIP IPTV-service. Leer meer over abonnementen, apparaten, installatie, kanalen, facturering en technische ondersteuning.",
+          "keywords": "IPTV FAQ, IPTV vragen, IPTV hulp, IPTV ondersteuning, IPTV installatie hulp"
+        },
+        "products": {
+          "title": "IPTV Abonnementen & Pakketten | TVMaster VIP Prijzen",
+          "description": "Kies je perfecte IPTV-abonnement. Maandelijkse, driemaandelijkse en jaarlijkse abonnementen met 30.000+ kanalen, 4K-streaming en geen buffering. 7-daagse gratis proefperiode beschikbaar.",
+          "keywords": "IPTV abonnement, IPTV pakketten, IPTV prijzen, IPTV bundels, goedkope IPTV, IPTV aanbiedingen"
+        },
+        "channels": {
+          "title": "30.000+ IPTV Kanalenlijst | Sport, Films, Entertainment",
+          "description": "Blader door ons complete IPTV-kanaalenaanbod. 30.000+ live kanalen inclusief sport, films, nieuws, entertainment, kinderinhoud en internationale kanalen.",
+          "keywords": "IPTV kanalen, IPTV kanalenlijst, sportkanalen, filmkanalen, internationaal IPTV"
+        }
+      },
+      "nav": {
+        "home": "Home",
+        "channels": "Kanalen",
+        "tv_guide": "TV-Gids",
+        "live_hub": "Live Hub",
+        "iptv_packages": "IPTV Pakketten",
+        "tv_boxes": "TV Boxen",
+        "setup_guides": "Installatiegidsen",
+        "countries": "Landen",
+        "devices": "Apparaten",
+        "faq": "FAQ",
+        "blog": "Blog",
+        "cta": "Start met Streamen"
+      },
+      "footer": {
+        "brand_description": "Premium IPTV streamingdienst met 30.000+ live kanalen, 4K-kwaliteit, geen buffering. Vertrouwd door 50.000+ klanten wereldwijd. Enterprise-grade infrastructuur met 24/7 ondersteuning.",
+        "products_title": "Producten",
+        "resources_title": "Bronnen",
+        "contact_title": "Contact",
+        "copyright": "© 2025 TVMaster VIP. Alle rechten voorbehouden."
+      }
+    },
+    "no": {
+      "name": "Norwegian",
+      "locale": "no_NO",
+      "hreflang": "no",
+      "path": "no",
+      "dir": "ltr",
+      "site": {
+        "name": "TVMaster VIP",
+        "tagline": "#1 Premium IPTV-tjeneste",
+        "description": "Premium IPTV-strømmetjeneste med 30 000+ direktekanaler, 4K-kvalitet og null buffring",
+        "url": "https://web.tvmaster.vip/no/",
+        "author": "TVMaster VIP",
+        "email": "support@tvmaster.vip",
+        "phone": "+44 20 7123 4567",
+        "support_hours": "24/7 Global Støtte"
+      },
+      "seo": {
+        "home": {
+          "title": "TVMaster VIP - #1 Premium IPTV-tjeneste | 30 000+ Kanaler, 4K Streaming",
+          "description": "🏆 Vurdert 4,9/5 av 50 000+ brukere! TVMaster VIP leverer 30 000+ direkte TV-kanaler, 3 000+ sportnettverk & 10 000+ filmer i fantastisk 4K. Beste IPTV-leverandør med umiddelbar aktivering, 99,9% oppetid, null buffring, tilgang på flere enheter & 24/7 ekspertstøtte. Start din risikofrie 7-dagers prøveperiode i dag!",
+          "keywords": "beste IPTV-tjeneste 2025, premium IPTV-leverandør, 4K IPTV-strømming, direkte TV-strømmetjeneste, sport IPTV-abonnement, IPTV for Smart TV, Android TV-boks IPTV, flerenhets-IPTV, IPTV uten buffring, billige IPTV-planer, IPTV vs kabel-TV, internasjonale IPTV-kanaler",
+          "og_title": "TVMaster VIP - #1 Premium IPTV-tjeneste | 30 000+ Direktekanaler",
+          "og_description": "🏆 Vurdert 4,9/5! Strøm 30 000+ direktekanaler, 3 000+ sportnettverk og 10 000+ filmer i 4K. Null buffring garantert med 99,9% oppetid. Prøv gratis i 7 dager!"
+        },
+        "blog": {
+          "title": "IPTV Blogg & Guider | TVMaster VIP Ressurssenter",
+          "description": "Ekspert IPTV-guider, veiledninger, sammenligninger og bransjenyheter. Lær om IPTV-strømming, oppsettguider, enhetskompatibilitet og tips for å optimalisere seeropplevelsen din.",
+          "keywords": "IPTV blogg, IPTV guider, IPTV veiledninger, strømmeguider, IPTV-oppsett, IPTV-sammenligning, IPTV-nyheter, strømmetips"
+        },
+        "faq": {
+          "title": "IPTV FAQ - Ofte Stilte Spørsmål | TVMaster VIP",
+          "description": "Få svar på vanlige spørsmål om TVMaster VIP IPTV-tjenesten. Lær om planer, enheter, oppsett, kanaler, fakturering og teknisk støtte.",
+          "keywords": "IPTV FAQ, IPTV spørsmål, IPTV hjelp, IPTV støtte, IPTV oppsettshjelp"
+        },
+        "products": {
+          "title": "IPTV Abonnementsplaner & Pakker | TVMaster VIP Priser",
+          "description": "Velg din perfekte IPTV-plan. Månedlige, kvartalsvise og årlige abonnementer med 30 000+ kanaler, 4K-strømming og null buffring. 7-dagers gratis prøveperiode tilgjengelig.",
+          "keywords": "IPTV-abonnement, IPTV-planer, IPTV-priser, IPTV-pakker, billig IPTV, IPTV-tilbud"
+        },
+        "channels": {
+          "title": "30 000+ IPTV Kanalliste | Sport, Filmer, Underholdning",
+          "description": "Bla gjennom vår komplette IPTV-kanaloppstilling. 30 000+ direktekanaler inkludert sport, filmer, nyheter, underholdning, barneinnhold og internasjonale kanaler.",
+          "keywords": "IPTV-kanaler, IPTV-kanalliste, sportkanaler, filmkanaler, internasjonal IPTV"
+        }
+      },
+      "nav": {
+        "home": "Hjem",
+        "channels": "Kanaler",
+        "tv_guide": "TV-guide",
+        "live_hub": "Direktehub",
+        "iptv_packages": "IPTV-pakker",
+        "tv_boxes": "TV-bokser",
+        "setup_guides": "Oppsettguider",
+        "countries": "Land",
+        "devices": "Enheter",
+        "faq": "FAQ",
+        "blog": "Blogg",
+        "cta": "Start Strømming"
+      },
+      "footer": {
+        "brand_description": "Premium IPTV-strømmetjeneste med 30 000+ direktekanaler, 4K-kvalitet, null buffring. Klarert av 50 000+ kunder over hele verden. Infrastruktur på bedriftsnivå med 24/7 støtte.",
+        "products_title": "Produkter",
+        "resources_title": "Ressurser",
+        "contact_title": "Kontakt",
+        "copyright": "© 2025 TVMaster VIP. Alle rettigheter reservert."
+      }
+    },
+    "sv": {
+      "name": "Swedish",
+      "locale": "sv_SE",
+      "hreflang": "sv",
+      "path": "sv",
+      "dir": "ltr",
+      "site": {
+        "name": "TVMaster VIP",
+        "tagline": "#1 Premium IPTV-tjänst",
+        "description": "Premium IPTV-streamingtjänst med 30 000+ direktkanaler, 4K-kvalitet och noll buffring",
+        "url": "https://web.tvmaster.vip/sv/",
+        "author": "TVMaster VIP",
+        "email": "support@tvmaster.vip",
+        "phone": "+44 20 7123 4567",
+        "support_hours": "24/7 Global Support"
+      },
+      "seo": {
+        "home": {
+          "title": "TVMaster VIP - #1 Premium IPTV-tjänst | 30 000+ Kanaler, 4K Streaming",
+          "description": "🏆 Betygsatt 4,9/5 av 50 000+ användare! TVMaster VIP erbjuder 30 000+ direktsända TV-kanaler, 3 000+ sportnätverk & 10 000+ filmer i fantastisk 4K. Bästa IPTV-leverantör med omedelbar aktivering, 99,9% drifttid, noll buffring, åtkomst till flera enheter & 24/7 expertsupport. Starta din riskfria 7-dagars provperiod idag!",
+          "keywords": "bästa IPTV-tjänst 2025, premium IPTV-leverantör, 4K IPTV-streaming, direktsänd TV-streamingtjänst, sport IPTV-abonnemang, IPTV för Smart TV, Android TV-box IPTV, flerenhet IPTV, IPTV utan buffring, billiga IPTV-planer, IPTV vs kabel-TV, internationella IPTV-kanaler",
+          "og_title": "TVMaster VIP - #1 Premium IPTV-tjänst | 30 000+ Direktkanaler",
+          "og_description": "🏆 Betygsatt 4,9/5! Streama 30 000+ direktkanaler, 3 000+ sportnätverk och 10 000+ filmer i 4K. Noll buffring garanterat med 99,9% drifttid. Prova gratis i 7 dagar!"
+        },
+        "blog": {
+          "title": "IPTV Blogg & Guider | TVMaster VIP Resurscenter",
+          "description": "Expert IPTV-guider, tutorials, jämförelser och branschnyheter. Lär dig om IPTV-streaming, installationsguider, enhetskompatibilitet och tips för att optimera din tittarupplevelse.",
+          "keywords": "IPTV blogg, IPTV guider, IPTV tutorials, streaming guider, IPTV installation, IPTV jämförelse, IPTV nyheter, streaming tips"
+        },
+        "faq": {
+          "title": "IPTV FAQ - Vanliga Frågor | TVMaster VIP",
+          "description": "Få svar på vanliga frågor om TVMaster VIP IPTV-tjänsten. Lär dig om planer, enheter, installation, kanaler, fakturering och teknisk support.",
+          "keywords": "IPTV FAQ, IPTV frågor, IPTV hjälp, IPTV support, IPTV installationshjälp"
+        },
+        "products": {
+          "title": "IPTV Abonnemangsplaner & Paket | TVMaster VIP Priser",
+          "description": "Välj din perfekta IPTV-plan. Månads-, kvartals- och årsabonnemang med 30 000+ kanaler, 4K-streaming och noll buffring. 7-dagars gratis provperiod tillgänglig.",
+          "keywords": "IPTV-abonnemang, IPTV-planer, IPTV-priser, IPTV-paket, billig IPTV, IPTV-erbjudanden"
+        },
+        "channels": {
+          "title": "30 000+ IPTV Kanallista | Sport, Filmer, Underhållning",
+          "description": "Bläddra igenom vårt kompletta IPTV-kanalutbud. 30 000+ direktkanaler inklusive sport, filmer, nyheter, underhållning, barninnehåll och internationella kanaler.",
+          "keywords": "IPTV-kanaler, IPTV-kanallista, sportkanaler, filmkanaler, internationell IPTV"
+        }
+      },
+      "nav": {
+        "home": "Hem",
+        "channels": "Kanaler",
+        "tv_guide": "TV-guide",
+        "live_hub": "Direkthub",
+        "iptv_packages": "IPTV-paket",
+        "tv_boxes": "TV-boxar",
+        "setup_guides": "Installationsguider",
+        "countries": "Länder",
+        "devices": "Enheter",
+        "faq": "FAQ",
+        "blog": "Blogg",
+        "cta": "Börja Streama"
+      },
+      "footer": {
+        "brand_description": "Premium IPTV-streamingtjänst med 30 000+ direktkanaler, 4K-kvalitet, noll buffring. Betrodd av 50 000+ kunder över hela världen. Infrastruktur av företagsklass med 24/7 support.",
+        "products_title": "Produkter",
+        "resources_title": "Resurser",
+        "contact_title": "Kontakt",
+        "copyright": "© 2025 TVMaster VIP. Alla rättigheter förbehållna."
+      }
+    },
+    "th": {
+      "name": "Thai",
+      "locale": "th_TH",
+      "hreflang": "th",
+      "path": "th",
+      "dir": "ltr",
+      "site": {
+        "name": "TVMaster VIP",
+        "tagline": "บริการ IPTV พรีเมียมอันดับ 1",
+        "description": "บริการสตรีมมิ่ง IPTV พรีเมียมพร้อมช่องทีวีสด 30,000+ ช่อง คุณภาพ 4K และไม่มีการบัฟเฟอร์",
+        "url": "https://web.tvmaster.vip/th/",
+        "author": "TVMaster VIP",
+        "email": "support@tvmaster.vip",
+        "phone": "+44 20 7123 4567",
+        "support_hours": "บริการลูกค้า 24/7 ทั่วโลก"
+      },
+      "seo": {
+        "home": {
+          "title": "TVMaster VIP - บริการ IPTV พรีเมียมอันดับ 1 | 30,000+ ช่อง, สตรีมมิ่ง 4K",
+          "description": "🏆 ได้รับคะแนน 4.9/5 จากผู้ใช้งาน 50,000+ คน! TVMaster VIP มอบช่องทีวีสด 30,000+ ช่อง, เครือข่ายกีฬา 3,000+ ช่อง & ภาพยนตร์ 10,000+ เรื่องในคุณภาพ 4K ที่น่าทึ่ง ผู้ให้บริการ IPTV ที่ดีที่สุดพร้อมการเปิดใช้งานทันที, อัพไทม์ 99.9%, ไม่มีการบัฟเฟอร์, รองรับหลายอุปกรณ์ & บริการสนับสนุนจากผู้เชี่ยวชาญตลอด 24/7 เริ่มทดลองใช้ฟรี 7 วันวันนี้!",
+          "keywords": "บริการ IPTV ที่ดีที่สุด 2025, ผู้ให้บริการ IPTV พรีเมียม, สตรีมมิ่ง IPTV 4K, บริการสตรีมมิ่งทีวีสด, แพ็คเกจ IPTV กีฬา, IPTV สำหรับ Smart TV, Android TV box IPTV, IPTV หลายอุปกรณ์, IPTV ไม่มีบัฟเฟอร์, แพ็คเกจ IPTV ราคาถูก, IPTV เทียบกับเคเบิลทีวี, ช่อง IPTV นานาชาติ",
+          "og_title": "TVMaster VIP - บริการ IPTV พรีเมียมอันดับ 1 | 30,000+ ช่องสด",
+          "og_description": "🏆 ได้รับคะแนน 4.9/5! สตรีมช่องสด 30,000+ ช่อง, เครือข่ายกีฬา 3,000+ ช่อง และภาพยนตร์ 10,000+ เรื่องในคุณภาพ 4K ไม่มีการบัฟเฟอร์รับประกันพร้อมอัพไทม์ 99.9% ทดลองใช้ฟรี 7 วัน!"
+        },
+        "blog": {
+          "title": "บล็อก IPTV และคู่มือ | ศูนย์ทรัพยากร TVMaster VIP",
+          "description": "คู่มือ IPTV จากผู้เชี่ยวชาญ, บทแนะนำ, การเปรียบเทียบ และข่าวสารอุตสาหกรรม เรียนรู้เกี่ยวกับการสตรีมมิ่ง IPTV, คู่มือการตั้งค่า, ความเข้ากันได้ของอุปกรณ์ และเคล็ดลับในการเพิ่มประสบการณ์การรับชมของคุณ",
+          "keywords": "บล็อก IPTV, คู่มือ IPTV, บทแนะนำ IPTV, คู่มือสตรีมมิ่ง, การตั้งค่า IPTV, การเปรียบเทียบ IPTV, ข่าว IPTV, เคล็ดลับการสตรีมมิ่ง"
+        },
+        "faq": {
+          "title": "IPTV FAQ - คำถามที่พบบ่อย | TVMaster VIP",
+          "description": "รับคำตอบสำหรับคำถามทั่วไปเกี่ยวกับบริการ IPTV TVMaster VIP เรียนรู้เกี่ยวกับแพ็คเกจ, อุปกรณ์, การตั้งค่า, ช่อง, การเรียกเก็บเงิน และการสนับสนุนด้านเทคนิค",
+          "keywords": "IPTV FAQ, คำถาม IPTV, ความช่วยเหลือ IPTV, การสนับสนุน IPTV, ความช่วยเหลือการตั้งค่า IPTV"
+        },
+        "products": {
+          "title": "แพ็คเกจและแผนสมาชิก IPTV | ราคา TVMaster VIP",
+          "description": "เลือกแผน IPTV ที่สมบูรณ์แบบของคุณ แพ็คเกจรายเดือน รายไตรมาส และรายปีพร้อมช่อง 30,000+ ช่อง, สตรีมมิ่ง 4K และไม่มีการบัฟเฟอร์ มีทดลองใช้ฟรี 7 วัน",
+          "keywords": "แพ็คเกจ IPTV, แผน IPTV, ราคา IPTV, แพ็คเกจ IPTV, IPTV ราคาถูก, ข้อเสนอ IPTV"
+        },
+        "channels": {
+          "title": "รายการช่อง IPTV 30,000+ ช่อง | กีฬา, ภาพยนตร์, บันเทิง",
+          "description": "เรียกดูรายการช่อง IPTV ที่สมบูรณ์ของเรา ช่องสด 30,000+ ช่อง รวมถึงกีฬา, ภาพยนตร์, ข่าว, บันเทิง, เนื้อหาสำหรับเด็ก และช่องนานาชาติ",
+          "keywords": "ช่อง IPTV, รายการช่อง IPTV, ช่องกีฬา, ช่องภาพยนตร์, IPTV นานาชาติ"
+        }
+      },
+      "nav": {
+        "home": "หน้าแรก",
+        "channels": "ช่อง",
+        "tv_guide": "คู่มือทีวี",
+        "live_hub": "ฮับสด",
+        "iptv_packages": "แพ็คเกจ IPTV",
+        "tv_boxes": "กล่องทีวี",
+        "setup_guides": "คู่มือการตั้งค่า",
+        "countries": "ประเทศ",
+        "devices": "อุปกรณ์",
+        "faq": "คำถามที่พบบ่อย",
+        "blog": "บล็อก",
+        "cta": "เริ่มสตรีมมิ่ง"
+      },
+      "footer": {
+        "brand_description": "บริการสตรีมมิ่ง IPTV พรีเมียมพร้อมช่องสด 30,000+ ช่อง, คุณภาพ 4K, ไม่มีการบัฟเฟอร์ ได้รับความไว้วางใจจากลูกค้า 50,000+ คนทั่วโลก โครงสร้างพื้นฐานระดับองค์กรพร้อมการสนับสนุน 24/7",
+        "products_title": "ผลิตภัณฑ์",
+        "resources_title": "ทรัพยากร",
+        "contact_title": "ติดต่อ",
+        "copyright": "© 2025 TVMaster VIP สงวนลิขสิทธิ์"
+      }
+    }
+  },
+  "default_language": "en",
+  "base_url": "https://web.tvmaster.vip",
+  "supported_pages": [
+    "index",
+    "blog",
+    "faq",
+    "iptv-products",
+    "tv-box-products",
+    "channel-lists",
+    "epg",
+    "search",
+    "404"
+  ]
+}

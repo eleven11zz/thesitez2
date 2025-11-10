@@ -1,0 +1,46 @@
+<!-- Article Schema for Blog Posts
+  Variables to replace:
+  - ARTICLE_HEADLINE
+  - ARTICLE_DESCRIPTION
+  - ARTICLE_IMAGE_URL
+  - ARTICLE_DATE_PUBLISHED (ISO 8601 format: 2025-01-15T10:00:00+00:00)
+  - ARTICLE_DATE_MODIFIED
+  - ARTICLE_AUTHOR_NAME
+  - ARTICLE_URL
+  - ARTICLE_WORD_COUNT
+  - ARTICLE_KEYWORDS (comma-separated)
+-->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ARTICLE_HEADLINE}}",
+  "description": "{{ARTICLE_DESCRIPTION}}",
+  "image": "{{ARTICLE_IMAGE_URL}}",
+  "datePublished": "{{ARTICLE_DATE_PUBLISHED}}",
+  "dateModified": "{{ARTICLE_DATE_MODIFIED}}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ARTICLE_AUTHOR_NAME}}",
+    "url": "https://web.tvmaster.vip/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TVMaster VIP",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://web.tvmaster.vip/assets/footer_picture.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ARTICLE_URL}}"
+  },
+  "wordCount": {{ARTICLE_WORD_COUNT}},
+  "keywords": "{{ARTICLE_KEYWORDS}}",
+  "articleSection": "{{ARTICLE_CATEGORY}}",
+  "inLanguage": "{{LANG_CODE}}"
+}
+</script>
