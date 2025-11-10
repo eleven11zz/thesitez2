@@ -1,0 +1,82 @@
+<!--
+  Centralized Meta Tags Partial
+  Usage: Include this in <head> and pass variables:
+  - page_type: "home", "blog", "faq", "products", "channels"
+  - lang: "en", "de", "fr", "it", "nl", "no", "sv", "th"
+  - page_url: relative URL of current page
+-->
+
+<!-- Basic Meta Tags -->
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes"/>
+
+<!-- Title & Description (To be replaced by build script) -->
+<title>{{PAGE_TITLE}}</title>
+<meta name="description" content="{{PAGE_DESCRIPTION}}"/>
+<meta name="keywords" content="{{PAGE_KEYWORDS}}"/>
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{CANONICAL_URL}}"/>
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="{{CANONICAL_URL}}"/>
+<meta property="og:title" content="{{OG_TITLE}}"/>
+<meta property="og:description" content="{{OG_DESCRIPTION}}"/>
+<meta property="og:image" content="https://web.tvmaster.vip/assets/og-image.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:site_name" content="TVMaster VIP"/>
+<meta property="og:locale" content="{{OG_LOCALE}}"/>
+
+<!-- Hreflang Tags (Alternate Language Versions) -->
+<link rel="alternate" hreflang="en" href="https://web.tvmaster.vip/{{PAGE_PATH}}"/>
+<link rel="alternate" hreflang="th" href="https://web.tvmaster.vip/th/{{PAGE_PATH}}"/>
+<link rel="alternate" hreflang="de" href="https://web.tvmaster.vip/de/{{PAGE_PATH}}"/>
+<link rel="alternate" hreflang="fr" href="https://web.tvmaster.vip/fr/{{PAGE_PATH}}"/>
+<link rel="alternate" hreflang="sv" href="https://web.tvmaster.vip/sv/{{PAGE_PATH}}"/>
+<link rel="alternate" hreflang="no" href="https://web.tvmaster.vip/no/{{PAGE_PATH}}"/>
+<link rel="alternate" hreflang="it" href="https://web.tvmaster.vip/it/{{PAGE_PATH}}"/>
+<link rel="alternate" hreflang="nl" href="https://web.tvmaster.vip/nl/{{PAGE_PATH}}"/>
+<link rel="alternate" hreflang="x-default" href="https://web.tvmaster.vip/{{PAGE_PATH}}"/>
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:url" content="{{CANONICAL_URL}}"/>
+<meta name="twitter:title" content="{{TWITTER_TITLE}}"/>
+<meta name="twitter:description" content="{{TWITTER_DESCRIPTION}}"/>
+<meta name="twitter:image" content="https://web.tvmaster.vip/assets/og-image.jpg"/>
+
+<!-- Additional SEO Meta Tags -->
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"/>
+<meta name="author" content="TVMaster VIP"/>
+<meta name="rating" content="general"/>
+<meta name="revisit-after" content="7 days"/>
+<meta name="language" content="{{LANGUAGE_NAME}}"/>
+<meta name="geo.region" content="GLOBAL"/>
+<meta name="geo.placename" content="Worldwide"/>
+<meta name="distribution" content="global"/>
+<meta name="target" content="all"/>
+
+<!-- Mobile Optimization -->
+<meta name="HandheldFriendly" content="True"/>
+<meta name="MobileOptimized" content="320"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+<meta name="apple-mobile-web-app-title" content="TVMaster VIP"/>
+<meta name="theme-color" content="#e50914"/>
+<meta name="msapplication-TileColor" content="#e50914"/>
+<meta name="msapplication-navbutton-color" content="#e50914"/>
+
+<!-- DNS Prefetch and Preconnect for faster CDN loading -->
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+
+<!-- Preload critical CSS for faster rendering -->
+<link rel="preload" href="{{CSS_PATH_PREFIX}}assets/css/modern-header-footer.css" as="style">
+
+<!-- Preload hero logo for faster LCP -->
+<link rel="preload" href="{{CSS_PATH_PREFIX}}assets/footer_picture.png" as="image">
+
+<!-- Performance optimizations for Core Web Vitals -->
+<link rel="stylesheet" href="{{CSS_PATH_PREFIX}}assets/css/performance.css">

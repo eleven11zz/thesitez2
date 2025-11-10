@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="{{LANG_CODE}}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+
+  <!-- SEO Meta Tags -->
+  <title>{{ARTICLE_TITLE}} | TVMaster VIP</title>
+  <meta name="description" content="{{ARTICLE_META_DESCRIPTION}}"/>
+  <meta name="keywords" content="{{ARTICLE_KEYWORDS}}"/>
+  <link rel="canonical" href="{{ARTICLE_CANONICAL_URL}}"/>
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article"/>
+  <meta property="og:url" content="{{ARTICLE_CANONICAL_URL}}"/>
+  <meta property="og:title" content="{{ARTICLE_TITLE}}"/>
+  <meta property="og:description" content="{{ARTICLE_OG_DESCRIPTION}}"/>
+  <meta property="og:image" content="{{ARTICLE_IMAGE_URL}}"/>
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  <meta property="og:locale" content="{{OG_LOCALE}}"/>
+  <meta property="article:published_time" content="{{ARTICLE_DATE_PUBLISHED}}"/>
+  <meta property="article:modified_time" content="{{ARTICLE_DATE_MODIFIED}}"/>
+  <meta property="article:author" content="{{ARTICLE_AUTHOR_NAME}}"/>
+  <meta property="article:section" content="{{ARTICLE_CATEGORY}}"/>
+  <meta property="article:tag" content="{{ARTICLE_TAGS}}"/>
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:url" content="{{ARTICLE_CANONICAL_URL}}"/>
+  <meta name="twitter:title" content="{{ARTICLE_TITLE}}"/>
+  <meta name="twitter:description" content="{{ARTICLE_OG_DESCRIPTION}}"/>
+  <meta name="twitter:image" content="{{ARTICLE_IMAGE_URL}}"/>
+
+  <!-- Hreflang Tags -->
+  <link rel="alternate" hreflang="en" href="https://web.tvmaster.vip/blog/{{ARTICLE_SLUG}}.html"/>
+  <link rel="alternate" hreflang="de" href="https://web.tvmaster.vip/de/blog/{{ARTICLE_SLUG}}.html"/>
+  <link rel="alternate" hreflang="fr" href="https://web.tvmaster.vip/fr/blog/{{ARTICLE_SLUG}}.html"/>
+  <link rel="alternate" hreflang="it" href="https://web.tvmaster.vip/it/blog/{{ARTICLE_SLUG}}.html"/>
+  <link rel="alternate" hreflang="nl" href="https://web.tvmaster.vip/nl/blog/{{ARTICLE_SLUG}}.html"/>
+  <link rel="alternate" hreflang="no" href="https://web.tvmaster.vip/no/blog/{{ARTICLE_SLUG}}.html"/>
+  <link rel="alternate" hreflang="sv" href="https://web.tvmaster.vip/sv/blog/{{ARTICLE_SLUG}}.html"/>
+  <link rel="alternate" hreflang="th" href="https://web.tvmaster.vip/th/blog/{{ARTICLE_SLUG}}.html"/>
+  <link rel="alternate" hreflang="x-default" href="https://web.tvmaster.vip/blog/{{ARTICLE_SLUG}}.html"/>
+
+  <!-- Additional SEO -->
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"/>
+  <meta name="author" content="{{ARTICLE_AUTHOR_NAME}}"/>
+  <meta name="revisit-after" content="7 days"/>
+
+  <!-- Article Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ARTICLE_TITLE}}",
+    "description": "{{ARTICLE_META_DESCRIPTION}}",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ARTICLE_IMAGE_URL}}",
+      "width": 1200,
+      "height": 630
+    },
+    "datePublished": "{{ARTICLE_DATE_PUBLISHED}}",
+    "dateModified": "{{ARTICLE_DATE_MODIFIED}}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ARTICLE_AUTHOR_NAME}}",
+      "jobTitle": "{{ARTICLE_AUTHOR_TITLE}}",
+      "url": "https://web.tvmaster.vip/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TVMaster VIP",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://web.tvmaster.vip/assets/footer_picture.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ARTICLE_CANONICAL_URL}}"
+    },
+    "wordCount": {{ARTICLE_WORD_COUNT}},
+    "keywords": "{{ARTICLE_KEYWORDS}}",
+    "articleSection": "{{ARTICLE_CATEGORY}}",
+    "inLanguage": "{{LANG_CODE}}",
+    "about": {
+      "@type": "Thing",
+      "name": "{{ARTICLE_TOPIC}}"
+    }
+  }
+  </script>
+
+  <!-- Breadcrumb Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{SITE_BASE_URL}}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "{{SITE_BASE_URL}}blog.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ARTICLE_TITLE}}",
+        "item": "{{ARTICLE_CANONICAL_URL}}"
+      }
+    ]
+  }
+  </script>
+
+  <!-- Stylesheets -->
+  <link rel="preload" href="{{CSS_PREFIX}}assets/css/modern-header-footer.css" as="style">
+  <link rel="stylesheet" href="{{CSS_PREFIX}}assets/css/performance.css">
+  <link rel="stylesheet" href="{{CSS_PREFIX}}assets/css/modern-header-footer.css">
+  <link rel="stylesheet" href="{{CSS_PREFIX}}assets/css/blog.css">
+  <link rel="stylesheet" href="{{CSS_PREFIX}}assets/css/mobile-tablet-fixes.css">
+  <link rel="stylesheet" href="{{CSS_PREFIX}}assets/css/accessibility.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+  <style>
+    /* Article-specific styles */
+    .article-container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+
+    .article-header {
+      margin-bottom: 3rem;
+      text-align: center;
+    }
+
+    .article-category {
+      display: inline-block;
+      background: #e50914;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      font-size: 0.875rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+    }
+
+    .article-title {
+      font-size: 2.5rem;
+      font-weight: 700;
+      line-height: 1.2;
+      margin: 1rem 0;
+      color: #fff;
+    }
+
+    .article-excerpt {
+      font-size: 1.25rem;
+      color: #aaa;
+      line-height: 1.6;
+      margin: 1rem 0;
+    }
+
+    .article-meta {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-top: 1.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #333;
+      color: #888;
+      font-size: 0.9rem;
+    }
+
+    .article-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    /* Table of Contents */
+    .table-of-contents {
+      background: #1a1a1a;
+      border-left: 4px solid #e50914;
+      padding: 1.5rem;
+      margin: 2rem 0;
+      border-radius: 8px;
+    }
+
+    .table-of-contents h2 {
+      font-size: 1.25rem;
+      margin-bottom: 1rem;
+      color: #fff;
+    }
+
+    .table-of-contents ol {
+      margin: 0;
+      padding-left: 1.5rem;
+      list-style: decimal;
+    }
+
+    .table-of-contents li {
+      margin: 0.75rem 0;
+      line-height: 1.5;
+    }
+
+    .table-of-contents a {
+      color: #ccc;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .table-of-contents a:hover {
+      color: #e50914;
+    }
+
+    /* Article Content */
+    .article-content {
+      font-size: 1.125rem;
+      line-height: 1.8;
+      color: #ddd;
+    }
+
+    .article-content h2 {
+      font-size: 2rem;
+      font-weight: 700;
+      margin: 3rem 0 1.5rem;
+      color: #fff;
+      scroll-margin-top: 100px;
+    }
+
+    .article-content h3 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin: 2rem 0 1rem;
+      color: #fff;
+    }
+
+    .article-content p {
+      margin: 1.5rem 0;
+    }
+
+    .article-content ul,
+    .article-content ol {
+      margin: 1.5rem 0;
+      padding-left: 2rem;
+    }
+
+    .article-content li {
+      margin: 0.75rem 0;
+    }
+
+    .article-content a {
+      color: #e50914;
+      text-decoration: underline;
+      transition: opacity 0.3s;
+    }
+
+    .article-content a:hover {
+      opacity: 0.8;
+    }
+
+    .article-content blockquote {
+      border-left: 4px solid #e50914;
+      padding-left: 1.5rem;
+      margin: 2rem 0;
+      font-style: italic;
+      color: #aaa;
+    }
+
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin: 2rem 0;
+    }
+
+    /* Key Takeaways Box */
+    .key-takeaways {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      border: 2px solid #e50914;
+      border-radius: 12px;
+      padding: 2rem;
+      margin: 3rem 0;
+    }
+
+    .key-takeaways h3 {
+      color: #e50914;
+      margin-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1.5rem;
+    }
+
+    .key-takeaways ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .key-takeaways li {
+      padding-left: 2rem;
+      margin: 1rem 0;
+      position: relative;
+    }
+
+    .key-takeaways li:before {
+      content: "✓";
+      position: absolute;
+      left: 0;
+      color: #e50914;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+
+    /* CTA Box */
+    .article-cta {
+      background: linear-gradient(135deg, #e50914 0%, #b00610 100%);
+      color: white;
+      padding: 2rem;
+      border-radius: 12px;
+      text-align: center;
+      margin: 3rem 0;
+    }
+
+    .article-cta h3 {
+      margin-top: 0;
+      margin-bottom: 1rem;
+      font-size: 1.75rem;
+    }
+
+    .article-cta p {
+      margin: 1rem 0;
+      font-size: 1.125rem;
+    }
+
+    .article-cta .cta-button {
+      display: inline-block;
+      background: white;
+      color: #e50914;
+      padding: 1rem 2rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1.125rem;
+      margin-top: 1rem;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .article-cta .cta-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    }
+
+    /* Author Bio */
+    .author-bio {
+      background: #1a1a1a;
+      border-radius: 12px;
+      padding: 2rem;
+      margin: 3rem 0;
+      display: flex;
+      gap: 1.5rem;
+      align-items: center;
+    }
+
+    .author-avatar {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: #333;
+      flex-shrink: 0;
+    }
+
+    .author-info h3 {
+      margin: 0 0 0.5rem;
+      color: #fff;
+      font-size: 1.25rem;
+    }
+
+    .author-title {
+      color: #e50914;
+      font-size: 0.9rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .author-description {
+      color: #aaa;
+      line-height: 1.6;
+      margin: 0;
+    }
+
+    /* Related Articles */
+    .related-articles {
+      margin: 4rem 0;
+    }
+
+    .related-articles h2 {
+      font-size: 2rem;
+      margin-bottom: 2rem;
+      color: #fff;
+    }
+
+    .related-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 2rem;
+    }
+
+    .related-card {
+      background: #1a1a1a;
+      border-radius: 12px;
+      overflow: hidden;
+      transition: transform 0.3s, box-shadow 0.3s;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .related-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 30px rgba(229, 9, 20, 0.3);
+    }
+
+    .related-card-image {
+      width: 100%;
+      height: 180px;
+      background: #333;
+      object-fit: cover;
+    }
+
+    .related-card-content {
+      padding: 1.5rem;
+    }
+
+    .related-card-title {
+      font-size: 1.125rem;
+      font-weight: 600;
+      margin: 0 0 0.75rem;
+      color: #fff;
+      line-height: 1.4;
+    }
+
+    .related-card-excerpt {
+      color: #aaa;
+      font-size: 0.9rem;
+      line-height: 1.5;
+      margin: 0;
+    }
+
+    /* Share Buttons */
+    .share-buttons {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      margin: 3rem 0;
+      padding: 2rem 0;
+      border-top: 1px solid #333;
+      border-bottom: 1px solid #333;
+    }
+
+    .share-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      text-decoration: none;
+      color: white;
+      font-weight: 600;
+      transition: transform 0.3s, opacity 0.3s;
+    }
+
+    .share-button:hover {
+      transform: translateY(-2px);
+      opacity: 0.9;
+    }
+
+    .share-twitter { background: #1DA1F2; }
+    .share-facebook { background: #1877F2; }
+    .share-linkedin { background: #0A66C2; }
+
+    /* Breadcrumb Navigation */
+    .breadcrumb-nav {
+      padding: 1rem 0;
+      font-size: 0.9rem;
+      color: #888;
+    }
+
+    .breadcrumb-nav a {
+      color: #e50914;
+      text-decoration: none;
+    }
+
+    .breadcrumb-nav a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      .article-title {
+        font-size: 1.75rem;
+      }
+
+      .article-meta {
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+
+      .author-bio {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .share-buttons {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Skip to main content -->
+  <a href="#main-content" class="skip-to-main">Skip to main content</a>
+
+  <!-- Header (use existing _includes/header.html) -->
+  {{INCLUDE_HEADER}}
+
+  <main id="main-content" role="main">
+    <div class="article-container">
+      <!-- Breadcrumb Navigation -->
+      <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+        <a href="{{CSS_PREFIX}}index.html">Home</a> /
+        <a href="{{CSS_PREFIX}}blog.html">Blog</a> /
+        <span>{{ARTICLE_TITLE}}</span>
+      </nav>
+
+      <!-- Article Header -->
+      <header class="article-header">
+        <span class="article-category">{{ARTICLE_CATEGORY}}</span>
+        <h1 class="article-title">{{ARTICLE_TITLE}}</h1>
+        <p class="article-excerpt">{{ARTICLE_EXCERPT}}</p>
+
+        <div class="article-meta">
+          <span class="article-meta-item">
+            <i class="far fa-calendar"></i>
+            {{ARTICLE_DATE_DISPLAY}}
+          </span>
+          <span class="article-meta-item">
+            <i class="far fa-clock"></i>
+            {{ARTICLE_READ_TIME}} min read
+          </span>
+          <span class="article-meta-item">
+            <i class="far fa-user"></i>
+            {{ARTICLE_AUTHOR_NAME}}
+          </span>
+        </div>
+      </header>
+
+      <!-- Table of Contents -->
+      <nav class="table-of-contents" aria-label="Table of contents">
+        <h2><i class="fas fa-list"></i> Table of Contents</h2>
+        <ol>
+          {{TABLE_OF_CONTENTS}}
+          <!-- Example:
+          <li><a href="#section-1">Introduction to IPTV</a></li>
+          <li><a href="#section-2">Benefits of IPTV Streaming</a></li>
+          <li><a href="#section-3">How to Choose the Right Provider</a></li>
+          -->
+        </ol>
+      </nav>
+
+      <!-- Article Content -->
+      <article class="article-content">
+        {{ARTICLE_CONTENT}}
+
+        <!-- Example content structure:
+
+        <h2 id="section-1">Introduction to IPTV</h2>
+        <p>Internet Protocol Television (IPTV) is revolutionizing how we consume television content...</p>
+
+        <h3>What Makes IPTV Different?</h3>
+        <p>Unlike traditional cable or satellite TV...</p>
+
+        <div class="key-takeaways">
+          <h3>🎯 Key Takeaways</h3>
+          <ul>
+            <li>IPTV uses internet connection instead of cable infrastructure</li>
+            <li>Offers better flexibility with on-demand content</li>
+            <li>More cost-effective than traditional cable subscriptions</li>
+          </ul>
+        </div>
+
+        <h2 id="section-2">Benefits of IPTV Streaming</h2>
+        <p>IPTV offers numerous advantages over traditional broadcasting methods...</p>
+
+        <div class="article-cta">
+          <h3>Ready to Experience Premium IPTV?</h3>
+          <p>Join 50,000+ satisfied customers streaming 30,000+ channels in 4K quality</p>
+          <a href="{{CSS_PREFIX}}iptv-products.html" class="cta-button">View IPTV Packages</a>
+        </div>
+
+        -->
+      </article>
+
+      <!-- Share Buttons -->
+      <div class="share-buttons">
+        <a href="https://twitter.com/intent/tweet?text={{ARTICLE_TITLE}}&url={{ARTICLE_CANONICAL_URL}}"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="share-button share-twitter">
+          <i class="fab fa-twitter"></i> Tweet
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ARTICLE_CANONICAL_URL}}"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="share-button share-facebook">
+          <i class="fab fa-facebook-f"></i> Share
+        </a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ARTICLE_CANONICAL_URL}}"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="share-button share-linkedin">
+          <i class="fab fa-linkedin-in"></i> Share
+        </a>
+      </div>
+
+      <!-- Author Bio -->
+      <div class="author-bio">
+        <div class="author-avatar">
+          <!-- Author image placeholder -->
+        </div>
+        <div class="author-info">
+          <h3>{{ARTICLE_AUTHOR_NAME}}</h3>
+          <div class="author-title">{{ARTICLE_AUTHOR_TITLE}}</div>
+          <p class="author-description">{{ARTICLE_AUTHOR_BIO}}</p>
+        </div>
+      </div>
+
+      <!-- Related Articles -->
+      <section class="related-articles">
+        <h2>Related Articles</h2>
+        <div class="related-grid">
+          {{RELATED_ARTICLES}}
+          <!-- Example:
+          <a href="{{CSS_PREFIX}}blog/best-iptv-2025.html" class="related-card">
+            <img src="{{CSS_PREFIX}}assets/blog/best-iptv-2025.jpg" alt="Best IPTV 2025" class="related-card-image">
+            <div class="related-card-content">
+              <h3 class="related-card-title">Best IPTV Services for 2025</h3>
+              <p class="related-card-excerpt">Discover the top-rated IPTV providers offering the best streaming quality...</p>
+            </div>
+          </a>
+          -->
+        </div>
+      </section>
+
+      <!-- Back to Blog Link -->
+      <div style="text-align: center; margin: 3rem 0;">
+        <a href="{{CSS_PREFIX}}blog.html" class="back-link" style="font-size: 1.125rem;">
+          <i class="fas fa-arrow-left"></i> Back to Blog
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer (use existing _includes/footer.html) -->
+  {{INCLUDE_FOOTER}}
+
+  <!-- Scripts -->
+  <script src="{{CSS_PREFIX}}assets/js/nav.js"></script>
+  <script>
+    // Smooth scroll for table of contents
+    document.querySelectorAll('.table-of-contents a').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  </script>
+</body>
+</html>
