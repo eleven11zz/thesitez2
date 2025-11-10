@@ -184,8 +184,9 @@
     // Get all language links
     const langLinks = document.querySelectorAll('.lang-dropdown a[data-lang]');
 
-    // Pages that exist in all language directories (except index.html)
+    // Pages that exist in all language directories
     const commonPages = [
+      'index.html',
       'blog.html',
       'epg.html',
       'faq.html',
@@ -200,25 +201,14 @@
       if (targetLang === 'en') {
         // English: go to root version of current page
         link.href = basePath + currentPage;
-      } else if (targetLang === 'th') {
-        // Thai has all pages including index.html
-        if (currentPage === 'index.html' || commonPages.includes(currentPage)) {
-          link.href = basePath + 'th/' + currentPage;
-        } else {
-          // Fallback to Thai homepage
-          link.href = basePath + 'th/index.html';
-        }
       } else {
-        // Other languages (de, fr, nl, no, sv, it) don't have index.html
+        // All other languages (th, de, fr, nl, no, sv, it) have all common pages
         if (commonPages.includes(currentPage)) {
           // Page exists in this language directory
           link.href = basePath + targetLang + '/' + currentPage;
-        } else if (currentPage === 'index.html') {
-          // Homepage doesn't exist in these languages, go to EPG instead
-          link.href = basePath + targetLang + '/epg.html';
         } else {
-          // Fallback to EPG for unknown pages
-          link.href = basePath + targetLang + '/epg.html';
+          // Fallback to homepage for unknown pages
+          link.href = basePath + targetLang + '/index.html';
         }
       }
     });
