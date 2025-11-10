@@ -16,7 +16,8 @@ document.addEventListener('DOMContentLoaded', function() {
       if (entry.isIntersecting) {
         const target = entry.target;
         const finalValue = parseFloat(target.getAttribute('data-count'));
-        const duration = 2000;
+        const duration = parseInt(target.getAttribute('data-duration')) || 1200;
+        const decimals = parseInt(target.getAttribute('data-decimals')) || 0;
         const startTime = performance.now();
 
         const animate = (currentTime) => {
@@ -27,10 +28,11 @@ document.addEventListener('DOMContentLoaded', function() {
           const easeOutQuart = 1 - Math.pow(1 - progress, 4);
           const currentValue = finalValue * easeOutQuart;
 
-          if (target.classList.contains('review-stat-value')) {
-            target.textContent = Math.floor(currentValue).toLocaleString();
+          // Format with appropriate decimals
+          if (decimals > 0) {
+            target.textContent = currentValue.toFixed(decimals);
           } else {
-            target.textContent = currentValue.toFixed(1);
+            target.textContent = Math.floor(currentValue).toLocaleString();
           }
 
           if (progress < 1) {

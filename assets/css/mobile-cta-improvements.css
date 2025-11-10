@@ -112,11 +112,15 @@
   border-radius: 20px;
   padding: 2rem;
   gap: 1rem;
+  height: auto !important;
+  overflow: visible !important;
 }
 
 .product-summary-card ul {
   margin-bottom: 1.5rem;
-  flex-grow: 1;
+  overflow: visible !important;
+  height: auto !important;
+  max-height: none !important;
 }
 
 /* ===================================
@@ -296,18 +300,18 @@
    =================================== */
 
 .site-footer {
-  padding: 3rem 0 1.5rem !important;
+  padding: 2rem 0 1rem !important;
 }
 
 @media (max-width: 768px) {
   .site-footer {
-    padding: 2.5rem 0 1.25rem !important;
+    padding: 1.5rem 0 0.75rem !important;
   }
 }
 
 @media (max-width: 480px) {
   .site-footer {
-    padding: 2rem 0 1rem !important;
+    padding: 1.25rem 0 0.5rem !important;
   }
 
   .footer-social {
@@ -316,6 +320,23 @@
     justify-content: center;
     gap: 1rem !important;
     flex-wrap: wrap;
+  }
+}
+
+/* Reduce footer grid gap */
+.footer-grid {
+  gap: 1.5rem !important;
+}
+
+@media (max-width: 768px) {
+  .footer-grid {
+    gap: 1.25rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-grid {
+    gap: 1rem !important;
   }
 }
 
@@ -353,5 +374,77 @@
   .comparison-grid,
   .product-summary-grid {
     grid-template-columns: 1fr !important;
+  }
+}
+
+/* ===================================
+   15. VERY NARROW SCREENS (≤ 420px)
+   =================================== */
+
+@media (max-width: 420px) {
+  /* Hero card - ensure no overflow */
+  .hero-card {
+    max-width: 100% !important;
+    padding: 1rem !important;
+  }
+
+  .hero-heading {
+    font-size: 1.75rem !important;
+    line-height: 1.2 !important;
+    word-break: break-word !important;
+  }
+
+  /* Button spacing - full width with adequate separation */
+  .hero-cta-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem !important;
+    width: 100%;
+  }
+
+  .hero-primary-cta,
+  .hero-secondary-cta {
+    width: 100% !important;
+    padding: 0.875rem 1.5rem !important;
+  }
+
+  /* Quiz progress bar - ensure visibility */
+  .quiz-progress-bar {
+    height: 6px !important;
+    border-radius: 3px;
+  }
+
+  .quiz-progress-text {
+    font-size: 0.875rem !important;
+  }
+
+  /* Ensure proper card padding */
+  .comparison-card,
+  .product-summary-card,
+  .review-card {
+    padding: 1.25rem !important;
+  }
+
+  /* Reduce section titles */
+  .section-title {
+    font-size: 1.5rem !important;
+    line-height: 1.3 !important;
+  }
+
+  .section-subtitle {
+    font-size: 0.95rem !important;
+  }
+
+  /* Metric cards - compact on very small screens */
+  .metric-card {
+    padding: 0.75rem !important;
+  }
+
+  .metric-value {
+    font-size: 1.75rem !important;
+  }
+
+  .metric-label {
+    font-size: 0.75rem !important;
   }
 }
