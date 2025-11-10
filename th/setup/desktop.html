@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+  <title>วิธีดู TVMaster บน Windows & Mac | การติดตั้ง VLC & Kodi</title>
+  <meta name="description" content="โหลด TVMaster บน Windows และ Mac โดยใช้ VLC และ Kodi นำเข้าเพลย์ลิสต์ M3U ตั้งค่า EPG บันทึกสตรีม และเพิ่มประสิทธิภาพคุณภาพภาพสำหรับการดูบนเดสก์ท็อป">
+  <link rel="preload" href="../../assets/css/howto.css" as="style">
+  <link rel="stylesheet" href="../../assets/css/howto.css">
+  <link rel="stylesheet" href="../../assets/css/mobile-tablet-fixes.css">
+  <link rel="stylesheet" href="../../assets/css/language-switcher.css">
+  <link rel="alternate" hreflang="en" href="https://web.tvmaster.vip/setup/desktop.html">
+  <link rel="alternate" hreflang="th" href="https://web.tvmaster.vip/th/setup/desktop.html">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <a href="../index.html" class="brand">
+        <img src="../../assets/footer_picture.png" alt="โลโก้ TVMaster" loading="lazy" decoding="async">
+        <span>TVMaster</span>
+      </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="เปิดเมนูนำทาง">
+      <span class="sr-only">สลับการนำทาง</span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+      <nav class="main-nav">
+        <a href="../index.html#hero">หน้าแรก</a>
+        <a href="../sports/">กีฬา</a>
+        <a href="../../devices/">อุปกรณ์</a>
+        <a href="./" class="active">การติดตั้ง</a>
+        <a href="../../country/">ประเทศ</a>
+        <a href="../iptv-products.html">แคตตาล็อก</a>
+        <a href="../faq.html">คำถามที่พบบ่อย</a>
+      </nav>
+      <div class="language-switcher">
+        <button class="current-lang" type="button" aria-label="เลือกภาษา" aria-expanded="false">
+          🌐 TH
+        </button>
+        <div class="lang-dropdown" role="menu">
+          <a href="../../setup/desktop.html" data-lang="en" role="menuitem">
+            <span class="flag">🇬🇧</span>
+            <span class="lang-name">English</span>
+          </a>
+          <a href="./desktop.html" data-lang="th" role="menuitem">
+            <span class="flag">🇹🇭</span>
+            <span class="lang-name">ไทย</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="../index.html">หน้าแรก</a>
+    <span aria-hidden="true">›</span>
+    <a href="./">คู่มือการติดตั้ง</a>
+    <span aria-hidden="true">›</span>
+    <span>Windows &amp; Mac</span>
+  </nav>
+
+  <main>
+    <section class="intro-hero">
+      <h1>สตรีม TVMaster บน Windows &amp; Mac</h1>
+      <p>ไม่ว่าคุณจะทำงานหลายอย่างพร้อมกันที่โต๊ะทำงานหรือเชื่อมต่อ HDMI กับโปรเจคเตอร์ คู่มือนี้แสดงวิธีดู TVMaster ผ่าน VLC media player และ Kodi บนเดสก์ท็อป คุณจะได้เรียนรู้การนำเข้าเพลย์ลิสต์ การกำหนดค่า EPG การบันทึก DVR และการเพิ่มประสิทธิภาพภาพสำหรับทุกลีก</p>
+    </section>
+
+    <section class="guide-wrapper">
+      <div class="guide-meta">
+        <span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v3H4zm0 5h16v3H4zm0 5h16v3H4z"/></svg>
+          แพลตฟอร์ม: Windows 10/11, macOS 12+, Linux (VLC/Kodi)
+        </span>
+        <span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2Zm1 14h-2v-2h2Zm0-4h-2V6h2Z"/></svg>
+          เวลาการตั้งค่า: 6 นาที · ระดับทักษะ: เริ่มต้น
+        </span>
+        <span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 3-5 5V5H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6v-2H5V7h11v-3Z"/></svg>
+          ความต้องการ: ติดตั้ง VLC หรือ Kodi, TVMaster playlist &amp; EPG URLs
+        </span>
+      </div>
+
+      <div class="guide-grid">
+        <article class="guide-article">
+          <div class="card" id="overview">
+            <h2>ทำไมการสตรีมบนเดสก์ท็อปถึงสำคัญ</h2>
+            <ul class="feature-list">
+              <li>นักวิเคราะห์สามารถดูหลายแมตช์พร้อมกันด้วยการสนับสนุนหลายหน้าต่างของ VLC</li>
+              <li>ผู้สร้างสรรค์บันทึกคลิปคุณภาพออกอากาศสำหรับไฮไลท์ (เคารพสิทธิ์) โดยใช้ VLC และ OBS</li>
+              <li>Kodi เปิดใช้งานการนำทางที่เป็นมิตรกับรีโมทสำหรับการตั้งค่า HTPC ด้วยคอนโทรลเลอร์ Xbox หรือ PS</li>
+              <li>HDMI เชื่อมต่อพีซีกับหน้าจอขนาดใหญ่เมื่อ Smart TV ไม่รองรับการโหลดแบบ sideloading</li>
+            </ul>
+          </div>
+
+          <div class="card" id="vlc">
+            <h2>ดูผ่าน VLC (วิธีที่เร็วที่สุด)</h2>
+            <ol class="howto-steps">
+              <li><strong>ติดตั้ง VLC</strong> – ดาวน์โหลดจาก <a href="https://www.videolan.org" target="_blank" rel="noopener">videolan.org</a> และติดตั้งบน Windows หรือ Mac</li>
+              <li><strong>เปิด network stream</strong> – เปิด VLC ไปที่ <em>Media ▸ Open Network Stream</em></li>
+              <li><strong>วาง playlist</strong> – ป้อน TVMaster M3U URL และคลิก <em>Play</em> VLC โหลดช่องแรกทันที</li>
+              <li><strong>เรียกดูช่อง</strong> – กด <em>Ctrl+L</em> (Cmd+L บน Mac) เพื่อเปิดรายการเพลย์ลิสต์ช่อง ดับเบิลคลิกเพื่อสลับระหว่าง Sky Sports, beIN, NBC ฯลฯ</li>
+              <li><strong>บันทึกไฮไลท์</strong> – เปิดใช้งาน <em>View ▸ Advanced Controls</em> จากนั้นกดปุ่มบันทึกสีแดงเพื่อจับภาพคลิปในเครื่อง</li>
+            </ol>
+          </div>
+
+          <div class="card" id="kodi">
+            <h2>ทางเลือก: Kodi + PVR IPTV Simple Client</h2>
+            <div class="tips-grid">
+              <p><strong>เปิดใช้งาน add-on:</strong> ใน Kodi ไปที่ <em>Add-ons ▸ My add-ons ▸ PVR Clients</em> เปิดใช้งาน <em>PVR IPTV Simple Client</em></p>
+              <p><strong>กำหนดค่า:</strong> ตั้งค่า <em>Location ▸ Remote path</em> วาง TVMaster M3U URL และ XMLTV EPG URL จากนั้นรีสตาร์ท Kodi</p>
+              <p><strong>โหมดจอขนาดใหญ่:</strong> ส่วน TV ของ Kodi ดึงโลโก้ช่อง กริด EPG และแท็ก catch-up—เหมาะสำหรับผู้รัก HTPC ในห้องนั่งเล่น</p>
+            </div>
+          </div>
+
+          <div class="card" id="troubleshooting">
+            <h2>การเพิ่มประสิทธิภาพ &amp; การแก้ไขปัญหา</h2>
+            <div class="tips-grid">
+              <p><strong>เสียงล่าช้า?</strong> ใน VLC ใช้ <em>Tools ▸ Track Synchronisation</em> เพื่อปรับเสียง ±0.1s จนกว่าคำบรรยายจะตรงกัน</p>
+              <p><strong>การเล่นสะดุด?</strong> สลับไปที่ <em>Tools ▸ Preferences ▸ Input/Codecs ▸ Hardware-accelerated decoding ▸ Automatic</em> และเพิ่มแคชเครือข่ายเป็น 1500 ms</p>
+              <p><strong>เพลย์ลิสต์ไม่อัปเดต?</strong> ล้างแคช VLC (ลบ <em>ml.xspf</em>) หรือใน Kodi กด <em>TV ▸ Guide ▸ Clear data</em> หลังจากต่ออายุการสมัครสมาชิกของคุณ</p>
+            </div>
+          </div>
+
+          <div class="cta-card">
+            <strong>รวมการเข้าถึงเดสก์ท็อปกับทดลองใช้</strong>
+            <p>เพิ่มลำดับอีเมลออนบอร์ดของ Windows/Mac ที่ลิงก์ไปยังคู่มือนี้ เพื่อให้แน่ใจว่าพนักงานที่ทำงานจากระยะไกลสามารถสตรีมแมตช์มื้อกลางวันโดยไม่ต้องใช้อุปกรณ์เพิ่มเติม</p>
+            <a href="../iptv-products.html#business" data-analytics="cta-trial-desktop">ดูแพ็คเกจธุรกิจ</a>
+          </div>
+        </article>
+
+        <aside class="sidebar">
+          <div class="sidebar-card">
+            <h3>ดาวน์โหลด</h3>
+            <ul>
+              <li><a href="https://www.videolan.org/vlc/" target="_blank" rel="noopener">VLC Media Player</a></li>
+              <li><a href="https://kodi.tv/download" target="_blank" rel="noopener">Kodi</a></li>
+              <li><a href="https://obsproject.com/" target="_blank" rel="noopener">OBS Studio</a></li>
+            </ul>
+          </div>
+          <div class="sidebar-card">
+            <h3>คู่มืออุปกรณ์เพิ่มเติม</h3>
+            <ul>
+              <li><a href="./fire-tv.html">Amazon Fire TV</a></li>
+              <li><a href="./android-tv.html">Android TV</a></li>
+              <li><a href="./smart-tv.html">Samsung &amp; LG Smart TV</a></li>
+              <li><a href="./mag-box.html">MAG &amp; Formuler</a></li>
+              <li><a href="./mobile.html">แอพมือถือ</a></li>
+            </ul>
+          </div>
+          <div class="sidebar-card">
+            <h3>ต้องการความช่วยเหลือ?</h3>
+            <ul>
+              <li><a href="mailto:support@tvmaster.vip">อีเมล support@tvmaster.vip</a></li>
+              <li><a href="../faq.html#desktop">คำถามที่พบบ่อยเกี่ยวกับเดสก์ท็อป</a></li>
+              <li><a href="https://wa.me/66991234567" target="_blank" rel="noopener">WhatsApp 24/7</a></li>
+            </ul>
+          </div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 TVMaster · คู่มือการสตรีมบนเดสก์ท็อป. <a href="../../sitemap.xml">แผนผังไซต์</a>
+  </footer>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "ดู TVMaster บน Windows และ Mac",
+    "description": "ใช้ VLC หรือ Kodi เพื่อสตรีมเพลย์ลิสต์ TVMaster IPTV บนเดสก์ท็อป รวมถึงการบันทึกแมตช์และซิงค์ EPG",
+    "totalTime": "PT6M",
+    "tool": [
+      { "@type": "HowToTool", "name": "VLC Media Player" },
+      { "@type": "HowToTool", "name": "Kodi with PVR IPTV Simple Client" }
+    ],
+    "supply": [
+      { "@type": "HowToSupply", "name": "TVMaster M3U playlist URL" },
+      { "@type": "HowToSupply", "name": "TVMaster EPG XML URL" }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "ติดตั้ง VLC",
+        "text": "ดาวน์โหลด VLC จาก videolan.org และติดตั้งบนคอมพิวเตอร์ Windows หรือ Mac"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "เปิด network stream",
+        "text": "ใช้ Media และ Open Network Stream จากนั้นวาง TVMaster M3U URL"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "เรียกดูช่อง",
+        "text": "เปิดมุมมองเพลย์ลิสต์เพื่อเลือกจากรายการช่อง TVMaster"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "การตั้งค่า Kodi ตัวเลือก",
+        "text": "เปิดใช้งาน PVR IPTV Simple Client ใน Kodi วางเพลย์ลิสต์และ EPG URLs และรีสตาร์ท Kodi"
+      }
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "TVMaster",
+      "url": "https://web.tvmaster.vip"
+    }
+  }
+  </script>
+  <script src="../../assets/js/nav.js" defer></script>
+  <script src="../../assets/js/language-switcher.js" defer></script>
+</body>
+</html>

@@ -33,38 +33,47 @@
   <link rel="stylesheet" href="../assets/css/modern-effects.css">
   <link rel="stylesheet" href="../assets/css/product-enhancements.css">
   <link rel="stylesheet" href="../assets/css/mobile-tablet-fixes.css">
+  <!-- Tablet & Button Contrast Fixes -->
+  <link rel="stylesheet" href="../assets/css/tablet-button-fixes.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+  <link rel="stylesheet" href="../assets/css/modern-header-footer.css"/>
   <link rel="stylesheet" href="../assets/css/language-switcher.css"/>
   <link rel="stylesheet" href="../assets/css/ui-ux-fixes.css">
-<link rel="stylesheet" href="../assets/css/accessibility.css"/>
+  <link rel="stylesheet" href="../assets/css/accessibility.css"/>
+  <link rel="stylesheet" href="../assets/css/mobile-cta-improvements.css"/>
 </head>
 <body>
 <!-- Skip to main content for keyboard users -->
 <a href="#main-content" class="skip-to-main">Skip to main content</a>
 
-  <header class="site-header" role="banner">
-    <div class="header-inner">
-      <a class="brand" href="./index.html">
-        <img src="../assets/footer_picture.png" alt="TVMaster logo" loading="lazy" decoding="async">
-        <span>TVMaster</span>
-      </a>
-      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
-        <span class="sr-only">Toggle navigation</span>
-        <span></span>
-        <span></span>
-        <span></span>
-      </button><nav class="main-nav" role="navigation" aria-label="Primary navigation" id="primary-nav">
-        <a href="../index.html#hero">หน้าแรก</a>
-        <a href="../index.html#lineups">ช่อง</a>
-        <a href="./sports/live.html">กีฬาสด</a>
-        <a href="../index.html#benefits">ประโยชน์</a>
-        <a href="../index.html#products">ผลิตภัณฑ์</a>
-        <a href="./tv-box-products.html">ชุด TV Box</a>
-        <a href="./channel-lists.html">รายชื่อช่อง</a>
-        <a href="./faq.html">คำถามที่พบบ่อย</a>
-        <a class="header-cta" href="../index.html#contact">ติดต่อฝ่ายขาย</a>
-      </nav>
-    </div>
-  </header>
+<header class="site-header" role="banner">
+  <div class="container header-inner">
+    <a href="./index.html" class="brand" aria-label="TVMaster VIP - กลับไปหน้าแรก">
+      <img src="../assets/footer_picture.png" alt="โลโก้ TVMaster VIP - บริการ IPTV พรีเมียม" class="header-logo" loading="lazy" decoding="async">
+      <span class="brand-text">TVMaster</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="เปิดเมนูนำทาง">
+      <span class="sr-only">สลับการนำทาง</span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="main-nav" id="primary-nav" role="navigation" aria-label="การนำทางหลัก">
+      <a href="./index.html#hero">หน้าแรก</a>
+      <a href="./channel-lists.html">ช่อง</a>
+      <a href="./epg.html">คู่มือทีวี</a>
+      <a href="./sports/live.html">ศูนย์สด</a>
+      <a href="./iptv-products.html" class="active">แพ็คเกจ IPTV</a>
+      <a href="./tv-box-products.html">TV Box</a>
+      <a href="../setup/index.html">คู่มือการติดตั้ง</a>
+      <a href="../country/index.html">ประเทศ</a>
+      <a href="../devices/index.html">อุปกรณ์</a>
+      <a href="./faq.html">คำถามที่พบบ่อย</a>
+      <a href="./blog.html">บล็อก</a>
+      <a class="header-cta" href="./iptv-products.html">เริ่มสตรีม</a>
+    </nav>
+  </div>
+</header>
 
   <main id="main-content" role="main">
     <section class="hero">
@@ -298,33 +307,86 @@
     </section>
   </main>
 
-  <footer>
-    © 2024 TVMaster &middot; แคตตาล็อก IPTV เพียงอย่างเดียว ต้องการชุดฮาร์ดแวร์หรือไม่? ไปที่<a href="./tv-box-products.html">หน้าผลิตภัณฑ์ TV Box</a>
-  </footer>
+<footer class="site-footer" id="contact" role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
+      <!-- Brand Column -->
+      <div class="footer-brand">
+        <img src="../assets/footer_picture.png" alt="โลโก้ TVMaster VIP - บริการ IPTV พรีเมียม" class="brand-logo" loading="lazy" decoding="async">
+        <h3 class="footer-brand-title">TVMaster VIP</h3>
+        <p class="footer-summary">บริการสตรีมมิ่ง IPTV พรีเมียมพร้อมช่องสดมากกว่า 30,000 ช่อง คุณภาพ 4K ไม่มีบัฟเฟอร์ ได้รับความไว้วางใจจากลูกค้ามากกว่า 50,000+ ทั่วโลก โครงสร้างพื้นฐานระดับองค์กรพร้อมการสนับสนุน 24/7</p>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="ติดตามเราบน Facebook">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="https://www.instagram.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="ติดตามเราบน Instagram">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://www.youtube.com/@tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="สมัครสมาชิกบน YouTube">
+            <i class="fab fa-youtube"></i>
+          </a>
+          <a href="https://www.twitter.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="ติดตามเราบน Twitter">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="https://www.linkedin.com/company/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="เชื่อมต่อบน LinkedIn">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Products Column -->
+      <div class="footer-column">
+        <h4 class="footer-column-title">ผลิตภัณฑ์</h4>
+        <a href="./iptv-products.html">แพ็คเกจ IPTV</a>
+        <a href="./tv-box-products.html">ชุด TV Box</a>
+        <a href="./channel-lists.html">รายชื่อช่อง</a>
+        <a href="./epg.html">คู่มือทีวี</a>
+        <a href="./sports/live.html">ศูนย์กีฬาสด</a>
+      </div>
+
+      <!-- Resources Column -->
+      <div class="footer-column">
+        <h4 class="footer-column-title">ทรัพยากร</h4>
+        <a href="./faq.html">คำถามที่พบบ่อย</a>
+        <a href="../setup/index.html">คู่มือการติดตั้ง</a>
+        <a href="../country/index.html">ประเทศ</a>
+        <a href="../devices/index.html">อุปกรณ์</a>
+        <a href="./blog.html">บล็อก</a>
+      </div>
+
+      <!-- Contact Column -->
+      <div class="footer-column">
+        <h4 class="footer-column-title">ติดต่อ</h4>
+        <div class="footer-contact">
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">📧</span>
+            <a href="mailto:support@tvmaster.vip">support@tvmaster.vip</a>
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">📞</span>
+            <span>+44 20 7123 4567</span>
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">🕐</span>
+            <span>การสนับสนุนทั่วโลก 24/7</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer Bottom -->
+    <div class="footer-bottom">
+      <p class="footer-note">© 2025 TVMaster VIP สงวนลิขสิทธิ์</p>
+      <div class="footer-links">
+        <!-- Privacy Policy -->
+        <!-- Terms of Service -->
+        <!-- Refund Policy -->
+      </div>
+    </div>
+  </div>
+</footer>
   <script src="../assets/js/catalog.js" defer></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const navToggle = document.querySelector('.nav-toggle');
-      const mainNav = document.querySelector('.main-nav');
 
-      if (navToggle && mainNav) {
-        const toggleNav = () => {
-          const isOpen = mainNav.classList.toggle('open');
-          navToggle.classList.toggle('is-active', isOpen);
-          navToggle.setAttribute('aria-expanded', String(isOpen));
-          document.body.classList.toggle('nav-open', isOpen);
-        };
-
-        navToggle.addEventListener('click', toggleNav);
-        mainNav.querySelectorAll('a').forEach((link) => {
-          link.addEventListener('click', () => {
-            if (mainNav.classList.contains('open')) toggleNav();
-          });
-        });
-      }
-    });
-  </script>
-  
 <!-- Floating Language Switcher -->
 <div class="language-switcher floating">
         <button class="current-lang" type="button" aria-label="Select language" aria-expanded="false">

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Pagina Non Trovata | TVMaster VIP</title>
+    <meta name="robots" content="noindex, nofollow">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 100%);
+            color: #ffffff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .container {
+            text-align: center;
+            max-width: 600px;
+        }
+
+        .logo {
+            margin-bottom: 2rem;
+        }
+
+        .error-code {
+            font-size: clamp(6rem, 15vw, 12rem);
+            font-weight: 900;
+            color: #e50914;
+            line-height: 1;
+            margin-bottom: 1rem;
+            text-shadow: 0 0 30px rgba(229, 9, 20, 0.3);
+        }
+
+        h1 {
+            font-size: clamp(1.5rem, 4vw, 2.5rem);
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+
+        p {
+            font-size: 1.125rem;
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 2rem;
+            line-height: 1.6;
+        }
+
+        .btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            align-items: center;
+            margin-top: 2rem;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            background: #e50914;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            min-width: 200px;
+        }
+
+        .btn:hover {
+            background: #f40612;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(229, 9, 20, 0.3);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.15);
+            box-shadow: 0 10px 25px rgba(255, 255, 255, 0.1);
+        }
+
+        .language-links {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .language-links p {
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+
+        .language-links a {
+            color: #e50914;
+            text-decoration: none;
+            margin: 0 0.5rem;
+            font-size: 0.9rem;
+        }
+
+        .language-links a:hover {
+            text-decoration: underline;
+        }
+
+        @media (min-width: 640px) {
+            .btn-group {
+                flex-direction: row;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="60" height="60" rx="8" fill="#e50914"/>
+                <path d="M30 15L45 25V45L30 55L15 45V25L30 15Z" fill="white"/>
+                <path d="M30 20L40 27V43L30 50L20 43V27L30 20Z" fill="#e50914"/>
+            </svg>
+        </div>
+
+        <div class="error-code">404</div>
+
+        <h1>Pagina Non Trovata</h1>
+        <p>La pagina che stai cercando non esiste o è stata spostata.</p>
+
+        <div class="btn-group">
+            <a href="./index.html" class="btn">Vai alla Homepage</a>
+            <a href="./iptv-products.html" class="btn btn-secondary">Vedi Prodotti</a>
+        </div>
+
+        <div class="language-links">
+            <p>Visita il nostro sito nella tua lingua:</p>
+            <div>
+                <a href="../index.html">English</a> |
+                <a href="../de/index.html">Deutsch</a> |
+                <a href="../fr/index.html">Français</a> |
+                <a href="./index.html">Italiano</a> |
+                <a href="../nl/index.html">Nederlands</a> |
+                <a href="../no/index.html">Norsk</a> |
+                <a href="../sv/index.html">Svenska</a> |
+                <a href="../th/index.html">ไทย</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

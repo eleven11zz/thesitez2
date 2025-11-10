@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+  <title>วิธีกำหนดค่า TVMaster บน MAG & Formuler Boxes | การตั้งค่า Portal</title>
+  <meta name="description" content="ตั้งค่า TVMaster บน MAG 322/420 และ Formuler Z11 boxes ป้อน portal URL เปิดใช้งาน timeshift บันทึกแมตช์ และรักษา portal IPTV ให้ทันสมัย">
+  <link rel="preload" href="../../assets/css/howto.css" as="style">
+  <link rel="stylesheet" href="../../assets/css/howto.css">
+  <link rel="stylesheet" href="../../assets/css/mobile-tablet-fixes.css">
+  <link rel="stylesheet" href="../../assets/css/language-switcher.css">
+  <link rel="alternate" hreflang="en" href="https://web.tvmaster.vip/setup/mag-box.html">
+  <link rel="alternate" hreflang="th" href="https://web.tvmaster.vip/th/setup/mag-box.html">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <a href="../index.html" class="brand">
+        <img src="../../assets/footer_picture.png" alt="โลโก้ TVMaster" loading="lazy" decoding="async">
+        <span>TVMaster</span>
+      </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="เปิดเมนูนำทาง">
+      <span class="sr-only">สลับการนำทาง</span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+      <nav class="main-nav">
+        <a href="../index.html#hero">หน้าแรก</a>
+        <a href="../sports/">กีฬา</a>
+        <a href="../../devices/">อุปกรณ์</a>
+        <a href="./" class="active">การติดตั้ง</a>
+        <a href="../../country/">ประเทศ</a>
+        <a href="../iptv-products.html">แคตตาล็อก</a>
+        <a href="../faq.html">คำถามที่พบบ่อย</a>
+      </nav>
+      <div class="language-switcher">
+        <button class="current-lang" type="button" aria-label="เลือกภาษา" aria-expanded="false">
+          🌐 TH
+        </button>
+        <div class="lang-dropdown" role="menu">
+          <a href="../../setup/mag-box.html" data-lang="en" role="menuitem">
+            <span class="flag">🇬🇧</span>
+            <span class="lang-name">English</span>
+          </a>
+          <a href="./mag-box.html" data-lang="th" role="menuitem">
+            <span class="flag">🇹🇭</span>
+            <span class="lang-name">ไทย</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="../index.html">หน้าแรก</a>
+    <span aria-hidden="true">›</span>
+    <a href="./">คู่มือการติดตั้ง</a>
+    <span aria-hidden="true">›</span>
+    <span>MAG &amp; Formuler Boxes</span>
+  </nav>
+
+  <main>
+    <section class="intro-hero">
+      <h1>เชื่อมต่อ TVMaster กับ MAG &amp; Formuler Portals</h1>
+      <p>กล่อง MAG และ Formuler ใช้งาน Stalker portals ที่โหลด TVMaster ได้ทันที—เหมาะสำหรับผู้ขายกล่องรับสัญญาณและบาร์กีฬา ทำตามคู่มือนี้เพื่อป้อน portal URL เปิดใช้งาน timeshift บันทึกเกม และรักษาเฟิร์มแวร์ให้เหมาะสมสำหรับการสตรีม 24/7</p>
+    </section>
+
+    <section class="guide-wrapper">
+      <div class="guide-meta">
+        <span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1Zm1 2v10h14V7Z"/></svg>
+          ทำงานกับ MAG 254/322/420, Infomir IPTV boxes &amp; Formuler Z-series
+        </span>
+        <span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2Zm1 14h-2v-2h2Zm0-4h-2V6h2Z"/></svg>
+          เวลาการตั้งค่า: 7 นาที · ระดับทักษะ: เริ่มต้น
+        </span>
+        <span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 3-5 5V5H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6v-2H5V7h11v-3Z"/></svg>
+          ความต้องการ: TVMaster portal URL, MAC address ลงทะเบียนกับฝ่ายสนับสนุน
+        </span>
+      </div>
+
+      <div class="guide-grid">
+        <article class="guide-article">
+          <div class="card" id="overview">
+            <h2>ประโยชน์สำหรับลูกค้าที่ใช้ portal</h2>
+            <ul class="feature-list">
+              <li>ประสบการณ์บูตไปยังช่องทันที—เหมาะสำหรับบาร์กีฬาที่สลับระหว่างแมตช์</li>
+              <li>รองรับช่องสดมากกว่า 30K+ ช่องของ TVMaster ที่จัดเรียงเป็นหมวดหมู่ portal (กีฬา, ภาพยนตร์, เด็ก, อาหรับ, ละติน)</li>
+              <li>บัฟเฟอร์ timeshift และการบันทึกในตัวสำหรับคืนแมตช์ที่วุ่นวาย</li>
+              <li>อินเทอร์เฟซที่เป็นมิตรกับรีโมทพร้อมโลโก้ช่อง, picture-in-picture และการเข้าถึง EPG อย่างรวดเร็ว</li>
+            </ul>
+          </div>
+
+          <div class="card" id="steps">
+            <h2>เชื่อมต่อ TVMaster portal</h2>
+            <ol class="howto-steps">
+              <li><strong>รับการเปิดใช้งาน MAC ของคุณ</strong> – ให้ MAC อุปกรณ์ (เช่น 00:1A:79:xx:xx) กับฝ่ายสนับสนุน TVMaster เพื่อให้ได้รับอนุญาตบน portal</li>
+              <li><strong>เข้าสู่การตั้งค่าระบบ</strong> – บูตกล่อง MAG/Formuler กด <em>Menu ▸ Settings ▸ Servers ▸ Portals</em></li>
+              <li><strong>เพิ่ม TVMaster portal</strong> – ตั้งค่า <em>Portal 1 name</em> เป็น "TVMaster" และ <em>Portal 1 URL</em> เป็นลิงก์ portal จากอีเมลต้อนรับของคุณ</li>
+              <li><strong>บันทึก &amp; รีบูต</strong> – กด <em>OK</em> เพื่อบันทึก ออกจากการตั้งค่า และรีบูตอุปกรณ์ กล่องจะโหลดอินเทอร์เฟซ TVMaster โดยอัตโนมัติ</li>
+              <li><strong>ตั้งค่าเขตเวลา &amp; EPG</strong> – ไปที่ <em>Settings ▸ Localisation</em> เพื่อเลือกเขตเวลาของคุณ จากนั้นเปิด EPG เพื่อยืนยันรายการตรงกับเวลาเตะออฟท้องถิ่น</li>
+              <li><strong>เปิดใช้งาน timeshift</strong> – ใน <em>Advanced Settings ▸ Timeshift</em> ตั้งค่าโหมดเป็น <em>Auto</em> และเลือกไดรฟ์ USB หรือที่เก็บข้อมูลในเครื่องสำหรับบัฟเฟอร์</li>
+            </ol>
+          </div>
+
+          <div class="card" id="formuler">
+            <h2>เคล็ดลับ Formuler Z11 / MYTVOnline 3</h2>
+            <div class="tips-grid">
+              <p><strong>ใช้การเข้าสู่ระบบ XC:</strong> ใน MYTVOnline 3 เลือก <em>Xtream</em> ป้อน portal URL เดียวกัน ชื่อผู้ใช้ และรหัสผ่านที่จัดหาโดย TVMaster สำหรับการเรียกดู VOD ที่เร็วขึ้น</p>
+              <p><strong>การปรับปรุงภาพ:</strong> เปิดใช้งาน <em>AI Upscaling</em> และ <em>Auto Frame Rate</em> สำหรับกีฬา 50/60fps ที่ราบรื่นยิ่งขึ้น</p>
+              <p><strong>การซิงค์บนคลาวด์:</strong> สำรองรายการโปรดและคู่มือทีวีไปยัง Formuler ID เพื่อให้สถานที่หลายแห่งซิงค์กันอยู่</p>
+            </div>
+          </div>
+
+          <div class="card" id="troubleshooting">
+            <h2>การแก้ไขปัญหา</h2>
+            <div class="tips-grid">
+              <p><strong>Portal ติดการโหลด?</strong> ตรวจสอบการเชื่อมต่อ Ethernet ยืนยัน MAC ทำงานอยู่ และวงจรไฟเราเตอร์บวกกล่อง หากใช้ Wi-Fi ให้ชอบแบนด์ 5 GHz</p>
+              <p><strong>เสียงหายไป/ไม่ซิงค์?</strong> สลับ <em>Audio Output Mode</em> เป็น <em>Auto (PCM)</em> ในการตั้งค่า อัปเดตเป็นเฟิร์มแวร์ MAG ล่าสุดผ่าน <em>Software Update</em></p>
+              <p><strong>หมวดหมู่ผู้ใหญ่มองเห็น?</strong> ใช้เมนู <em>Parental Control</em> เพื่อตั้งค่า PIN และซ่อนกลุ่มที่ละเอียดอ่อนสำหรับการตั้งค่าที่ปลอดภัยสำหรับครอบครัว</p>
+            </div>
+          </div>
+
+          <div class="cta-card">
+            <strong>ต้องการอุปกรณ์สำหรับสถานที่ของคุณ?</strong>
+            <p>TVMaster ส่ง MAG และ Formuler boxes ที่ลงทะเบียนกับ portal ของคุณ พร้อมรายการช่องกีฬาที่คัดสรรสำหรับสถานที่ในสหราชอาณาจักร, ยุโรป, สหรัฐอเมริกา และ MENA</p>
+            <a href="../tv-box-products.html#mag" data-analytics="cta-trial-mag">สั่งซื้อกล่องที่กำหนดค่าล่วงหน้า</a>
+          </div>
+        </article>
+
+        <aside class="sidebar">
+          <div class="sidebar-card">
+            <h3>สำรวจคู่มือเพิ่มเติม</h3>
+            <ul>
+              <li><a href="./fire-tv.html">Amazon Fire TV</a></li>
+              <li><a href="./android-tv.html">Android TV / NVIDIA Shield</a></li>
+              <li><a href="./smart-tv.html">Samsung &amp; LG Smart TV</a></li>
+              <li><a href="./mobile.html">แอพมือถือ</a></li>
+              <li><a href="./desktop.html">เครื่องเล่นเดสก์ท็อป</a></li>
+            </ul>
+          </div>
+          <div class="sidebar-card">
+            <h3>เฟิร์มแวร์ &amp; เอกสาร</h3>
+            <ul>
+              <li><a href="https://www.infomir.eu/firmware" target="_blank" rel="noopener">อัปเดตเฟิร์มแวร์ MAG</a></li>
+              <li><a href="https://formulertv.com/software" target="_blank" rel="noopener">ศูนย์ซอฟต์แวร์ Formuler</a></li>
+              <li><a href="../faq.html#mag">คำถามที่พบบ่อยเกี่ยวกับ Portal</a></li>
+            </ul>
+          </div>
+          <div class="sidebar-card">
+            <h3>การสนับสนุน</h3>
+            <ul>
+              <li><a href="mailto:support@tvmaster.vip">อีเมล support@tvmaster.vip</a></li>
+              <li><a href="https://t.me/tvmasterpartners" target="_blank" rel="noopener">Telegram พันธมิตร</a></li>
+              <li><a href="../../country/">ความพร้อมของช่องตามประเทศ</a></li>
+            </ul>
+          </div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 TVMaster · คู่มือการตั้งค่า MAG &amp; Formuler. <a href="../../sitemap.xml">แผนผังไซต์</a>
+  </footer>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "กำหนดค่า TVMaster บน MAG และ Formuler boxes",
+    "description": "เชื่อมต่อกล่อง MAG และ Formuler set-top กับ TVMaster IPTV portal เปิดใช้งาน timeshift และแก้ไขปัญหาการเล่น portal",
+    "totalTime": "PT7M",
+    "tool": [
+      { "@type": "HowToTool", "name": "MAG or Formuler IPTV box" },
+      { "@type": "HowToTool", "name": "Remote control" }
+    ],
+    "supply": [
+      { "@type": "HowToSupply", "name": "TVMaster portal URL" },
+      { "@type": "HowToSupply", "name": "Registered device MAC address" }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "เปิดใช้งาน MAC address",
+        "text": "ให้ MAC address อุปกรณ์แก่ฝ่ายสนับสนุน TVMaster เพื่อให้สามารถอนุญาตบน portal"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "เปิดการตั้งค่า portal",
+        "text": "บนกล่อง MAG/Formuler กดเมนู เลือกการตั้งค่า จากนั้นเซิร์ฟเวอร์และ Portals"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "ป้อน portal URL",
+        "text": "ตั้งชื่อ Portal 1 เป็น TVMaster และวาง portal URL จากอีเมลต้อนรับของคุณ"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "รีบูตกล่อง",
+        "text": "บันทึกการตั้งค่าและรีบูตเพื่อให้กล่องโหลดอินเทอร์เฟซ TVMaster IPTV"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "กำหนดค่า timeshift",
+        "text": "เปิดใช้งาน timeshift และเลือกที่เก็บข้อมูลเพื่อให้คุณสามารถหยุดชั่วคราวและย้อนกลับทีวีสด"
+      }
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "TVMaster",
+      "url": "https://web.tvmaster.vip"
+    }
+  }
+  </script>
+  <script src="../../assets/js/nav.js" defer></script>
+  <script src="../../assets/js/language-switcher.js" defer></script>
+</body>
+</html>
