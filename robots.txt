@@ -1,23 +1,24 @@
-# robots.txt for TVMaster VIP
-# Allow all search engines to crawl the site
+# TVMaster VIP - Robots.txt
+# Updated: 2025-01-16
 
 User-agent: *
 Allow: /
 
-# Disallow admin or private directories (if any)
-# Disallow: /admin/
-# Disallow: /private/
-
-# Allow all CSS and JS for proper rendering in search results
-Allow: /assets/css/
-Allow: /assets/js/
-
 # Sitemap location
-Sitemap: https://eleven11zz.github.io/thesitez2/sitemap.xml
+Sitemap: https://web.tvmaster.vip/sitemap.xml
 
-# Crawl-delay (optional, only if needed to reduce server load)
-# Crawl-delay: 1
+# Crawl delay (optional - be nice to servers)
+Crawl-delay: 1
 
-# Additional sitemaps (if you add more in the future)
-# Sitemap: https://eleven11zz.github.io/thesitez2/sitemap-products.xml
-# Sitemap: https://eleven11zz.github.io/thesitez2/sitemap-blog.xml
+# Disallow admin and temp files
+Disallow: /admin/
+Disallow: /*.backup.*
+Disallow: /*.tmp
+Disallow: /.git/
+
+# Allow important pages
+Allow: /blog/
+Allow: /setup/
+Allow: /sports/
+Allow: /devices/
+Allow: /country/
