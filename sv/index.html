@@ -1549,112 +1549,271 @@ body {
   margin: 0;
 }
 
+/* Lineups Section - Modern Scrolling Design */
 .lineups-section {
   padding: 5rem 0;
-  background: #050505;
+  background: linear-gradient(180deg, #050505 0%, #0a0a0a 100%);
+  overflow: hidden;
+  position: relative;
 }
 
 .lineups-header {
   text-align: center;
-  max-width: 720px;
-  margin: 0 auto 3rem;
+  max-width: 800px;
+  margin: 0 auto 4rem;
+  position: relative;
+  z-index: 2;
 }
 
 .lineups-header h2 {
-  font-size: 2.6rem;
-  color: #e50914;
-  margin-bottom: 1rem;
+  font-size: 3rem;
+  background: linear-gradient(135deg, #e50914 0%, #ff2d38 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
 .lineups-header p {
-  color: rgba(248, 250, 251, 0.72);
-  font-size: 1rem;
-  line-height: 1.7;
+  color: rgba(248, 250, 251, 0.85);
+  font-size: 1.15rem;
+  line-height: 1.8;
+  font-weight: 400;
 }
 
-.lineups-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-}
-
-.lineup-card {
-  background: rgba(10, 10, 10, 0.92);
-  border: 1px solid rgba(229, 9, 20, 0.22);
-  border-radius: 22px;
-  padding: 2rem;
+/* Showcase Container */
+.lineups-showcase {
+  position: relative;
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
-  box-shadow: 0 24px 54px rgba(0, 0, 0, 0.35);
+  gap: 0;
+  width: 100%;
+  max-width: 100vw;
 }
 
-.lineup-card h3 {
-  font-size: 1.3rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: #ffffff;
+/* Channel Row Container */
+.channel-row {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding: 1.5rem 0;
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
 }
 
-.lineup-card p {
-  color: rgba(248, 250, 251, 0.68);
-  line-height: 1.6;
+.channel-row-overlap {
+  margin-top: -2.5rem;
+  z-index: 1;
 }
 
-.lineup-card .swiper {
-  margin: 1.25rem 0 0;
+/* Channel Track - Infinite Scroll Container */
+.channel-track {
+  display: flex;
+  gap: 2rem;
+  width: max-content;
+  will-change: transform;
 }
 
-.channels-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(112px, 1fr));
-  gap: 1.25rem;
-  margin-top: 1.5rem;
+/* Scroll Animations */
+.channel-track[data-direction="left"] {
+  animation: scroll-left 40s linear infinite;
+}
+
+.channel-track[data-direction="right"] {
+  animation: scroll-right 45s linear infinite;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll-right {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Pause on hover */
+.channel-row:hover .channel-track {
+  animation-play-state: paused;
+}
+
+/* Channel Logo Wrapper */
+.channel-logo-wrapper {
+  flex-shrink: 0;
+  width: 140px;
+  height: 140px;
+  border-radius: 20px;
+  background: rgba(20, 20, 20, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(229, 9, 20, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  position: relative;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow:
+    0 8px 24px rgba(0, 0, 0, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.channel-logo-wrapper::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 20px;
+  padding: 1px;
+  background: linear-gradient(135deg, rgba(229, 9, 20, 0.3), rgba(229, 9, 20, 0));
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.channel-logo-wrapper:hover {
+  transform: translateY(-8px) scale(1.05);
+  border-color: rgba(229, 9, 20, 0.4);
+  background: rgba(30, 30, 30, 0.8);
+  box-shadow:
+    0 16px 48px rgba(229, 9, 20, 0.25),
+    0 8px 24px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+.channel-logo-wrapper:hover::before {
+  opacity: 1;
+}
+
+.channel-logo-wrapper img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  filter: brightness(0.95) contrast(1.05);
+  transition: filter 0.3s ease;
+}
+
+.channel-logo-wrapper:hover img {
+  filter: brightness(1.1) contrast(1.1);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .lineups-header h2 {
+    font-size: 2.5rem;
+  }
+
+  .channel-logo-wrapper {
+    width: 120px;
+    height: 120px;
+  }
+
+  .channel-track {
+    gap: 1.5rem;
+  }
 }
 
 @media (max-width: 768px) {
-  .channels-grid {
-    grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
-    gap: 1rem;
+  .lineups-section {
+    padding: 4rem 0;
+  }
+
+  .lineups-header {
+    margin-bottom: 3rem;
+  }
+
+  .lineups-header h2 {
+    font-size: 2.2rem;
+  }
+
+  .lineups-header p {
+    font-size: 1rem;
+  }
+
+  .channel-logo-wrapper {
+    width: 100px;
+    height: 100px;
+    border-radius: 16px;
+  }
+
+  .channel-track {
+    gap: 1.25rem;
+  }
+
+  .channel-row {
+    padding: 1rem 0;
+  }
+
+  .channel-row-overlap {
+    margin-top: -2rem;
+  }
+
+  .channel-track[data-direction="left"] {
+    animation-duration: 30s;
+  }
+
+  .channel-track[data-direction="right"] {
+    animation-duration: 35s;
   }
 }
 
 @media (max-width: 480px) {
-  .channels-grid {
-    grid-template-columns: repeat(auto-fill, minmax(82px, 1fr));
-    gap: 0.85rem;
+  .lineups-section {
+    padding: 3rem 0;
+  }
+
+  .lineups-header h2 {
+    font-size: 1.8rem;
+  }
+
+  .lineups-header p {
+    font-size: 0.95rem;
+  }
+
+  .channel-logo-wrapper {
+    width: 85px;
+    height: 85px;
+    border-radius: 14px;
+    padding: 0.75rem;
+  }
+
+  .channel-track {
+    gap: 1rem;
+  }
+
+  .channel-row {
+    padding: 0.75rem 0;
+  }
+
+  .channel-row-overlap {
+    margin-top: -1.5rem;
   }
 }
 
-.channel-card {
-  height: 112px;
-  width: 112px;
-  border-radius: 16px;
-  background: rgba(30, 30, 30, 0.8);
-  border: 1px solid rgba(229, 9, 20, 0.2);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.85rem;
-  margin: 0 auto;
-  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.45);
-  backdrop-filter: blur(8px);
-  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-}
-
-.channel-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 20px 44px rgba(0, 0, 0, 0.55);
-  border-color: rgba(229, 9, 20, 0.45);
-}
-
-.channel-card img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  filter: brightness(1);
-}
-
+/* Legacy styles for compatibility */
 .sky-swiper .channel-card,
 .sky-channels .channel-card {
   background: rgba(255, 255, 255, 0.95);
@@ -2001,184 +2160,167 @@ body {
     <div class="container">
       <div class="lineups-header">
         <h2>Signature Channel Lineups</h2>
-        <p>From premium on-demand libraries to live sports and custom promotional reels, blend the exact feeds your audience cares about.</p>
+        <p>Combine premium streaming platforms, live sports networks, and exclusive content into seamless channel experiences that flow endlessly.</p>
       </div>
-      <div class="lineups-grid">
-        <div class="lineup-card">
-          <h3>Streaming Giants</h3>
-          <p>Curate the most in-demand SVOD platforms to power bingeable bundles for every region.</p>
-          <div class="channels-grid">
-            <div class="channel-card">
+      <div class="lineups-showcase">
+        <!-- Top Row - Scrolls Left (Streaming) -->
+        <div class="channel-row">
+          <div class="channel-track" data-direction="left">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/netflix.png" alt="Netflix" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/prime.png" alt="Prime Video" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/disney.png" alt="Disney Plus" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/hbo.png" alt="HBO" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/huluu.jpg" alt="Hulu" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/max.jpg" alt="Max" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/apple.jpg" alt="Apple TV Plus" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/stream_slider/espn.jpg" alt="ESPN" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/stream_slider/paramount.jpg" alt="Paramount Plus" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/peacock.jpg" alt="Peacock" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/paramount.jpg" alt="Paramount Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/roku.jpg" alt="Roku" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/youtube.png" alt="YouTube" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/stream_slider/amc.jpg" alt="AMC Plus" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/stream_slider/hot.jpg" alt="Hotstar" loading="lazy" decoding="async">
+            <!-- Duplicate for seamless loop -->
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/netflix.png" alt="Netflix" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/stream_slider/tving.png" alt="TVING" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/prime.png" alt="Prime Video" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/stream_slider/watcha.png" alt="Watcha" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/disney.png" alt="Disney Plus" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/stream_slider/original.jpg" alt="Originals" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/hbo.png" alt="HBO" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/huluu.jpg" alt="Hulu" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/max.jpg" alt="Max" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/apple.jpg" alt="Apple TV Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/peacock.jpg" alt="Peacock" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/paramount.jpg" alt="Paramount Plus" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/roku.jpg" alt="Roku" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/youtube.png" alt="YouTube" loading="lazy" decoding="async">
+            </div>
+            <div class="channel-logo-wrapper">
+              <img src="../assets/stream_slider/amc.jpg" alt="AMC Plus" loading="lazy" decoding="async">
             </div>
           </div>
         </div>
-        <div class="lineup-card">
-          <h3>SPORTS FINEST</h3>
-          <p>Access the world's premier sports networks featuring live games, tournaments, and exclusive coverage across all major leagues.</p>
-          <div class="channels-grid">
-            <div class="channel-card">
+
+        <!-- Bottom Row - Scrolls Right (Sports) - Overlaps slightly -->
+        <div class="channel-row channel-row-overlap">
+          <div class="channel-track" data-direction="right">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-40-39.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-40-48.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-40-52.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-40-57.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-41-01.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-41-05.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-41-09.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-41-15.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-41-20.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-41-25.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-41-31.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
+            <div class="channel-logo-wrapper">
               <img src="../assets/custom_slider/photo_2025-11-11_05-41-35.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-41-39.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <!-- Duplicate for seamless loop -->
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-40-39.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-41-43.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-40-48.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-41-47.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-40-52.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-41-51.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-40-57.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-41-56.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-41-01.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-41-59.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-41-05.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-04.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-41-09.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-07.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-41-15.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-12.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-41-20.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-15.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-41-25.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-19.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-41-31.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-23.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-26.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-31.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-35.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-38.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-45.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-48.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-52.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-42-56.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-43-00.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-43-04.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-43-08.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-43-12.jpg" alt="Sports Channel" loading="lazy" decoding="async">
-            </div>
-            <div class="channel-card">
-              <img src="../assets/custom_slider/photo_2025-11-11_05-43-15.jpg" alt="Sports Channel" loading="lazy" decoding="async">
+            <div class="channel-logo-wrapper">
+              <img src="../assets/custom_slider/photo_2025-11-11_05-41-35.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
           </div>
         </div>
-        </div>
+
       </div>
     </div>
   </section>
