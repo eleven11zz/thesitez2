@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+  <title>วิธีการติดตั้ง TVMaster บน Android TV &amp; NVIDIA Shield | การตั้งค่า IPTV</title>
+  <meta name="description" content="กำหนดค่า TVMaster บน Android TV และ NVIDIA Shield ติดตั้ง TiviMate, เพิ่มการเข้าสู่ระบบ Xtream Codes ของคุณ, เปิดใช้งาน DVR และสตรีมกีฬา 4K โดยไม่มีการบัฟเฟอร์">
+  <link rel="preload" href="../../assets/css/howto.css" as="style">
+  <link rel="stylesheet" href="../../assets/css/howto.css">
+  <link rel="stylesheet" href="../../assets/css/mobile-tablet-fixes.css">
+  <link rel="stylesheet" href="../../assets/css/tablet-button-fixes.css">
+  <link rel="stylesheet" href="../../assets/css/language-switcher.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <a href="../index.html" class="brand">
+        <img src="../../assets/footer_picture.png" alt="โลโก้ TVMaster" loading="lazy" decoding="async">
+        <span>TVMaster</span>
+      </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="เปิดเมนูนำทาง">
+      <span class="sr-only">สลับการนำทาง</span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+      <nav class="main-nav">
+        <a href="../index.html#hero">หน้าแรก</a>
+        <a href="../sports/">กีฬา</a>
+        <a href="../devices/">อุปกรณ์</a>
+        <a href="./" class="active">การติดตั้ง</a>
+        <a href="../country/">ประเทศ</a>
+        <a href="../iptv-products.html">แคตตาล็อก</a>
+        <a href="../faq.html">คำถามที่พบบ่อย</a>
+      </nav>
+      <div class="language-switcher">
+        <button class="current-lang" type="button" aria-label="เลือกภาษา" aria-expanded="false">
+          🌐 TH
+        </button>
+        <div class="lang-dropdown" role="menu">
+          <a href="../../setup/android-tv.html" data-lang="en" role="menuitem">
+            <span class="flag">🇬🇧</span>
+            <span class="lang-name">English</span>
+          </a>
+          <a href="./android-tv.html" data-lang="th" role="menuitem">
+            <span class="flag">🇹🇭</span>
+            <span class="lang-name">ไทย</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="../index.html">หน้าแรก</a>
+    <span aria-hidden="true">›</span>
+    <a href="./">คู่มือการติดตั้ง</a>
+    <span aria-hidden="true">›</span>
+    <span>Android TV &amp; NVIDIA Shield</span>
+  </nav>
+
+  <main>
+    <section class="intro-hero">
+      <h1>ติดตั้ง TVMaster บน Android TV &amp; NVIDIA Shield</h1>
+      <p>ปรับใช้ TVMaster บน Google TV, NVIDIA Shield, Xiaomi และ Mecool boxes ภายในไม่กี่นาที คู่มือนี้ใช้ TiviMate Premium สำหรับ EPG แบบกริดที่เพรียวสวย, DVR ฝั่งไคลเอ็นต์ และโปรไฟล์หลายผู้ใช้ เหมาะสำหรับครัวเรือนที่สตรีม Premier League, LaLiga, NFL และช่องเอเชียสดร่วมกัน</p>
+    </section>
+
+    <section class="guide-wrapper">
+      <div class="guide-meta">
+        <span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2Zm1 14h-2v-2h2Zm0-4h-2V6h2Z"/></svg>
+          เวลาการตั้งค่า: 10 นาที · ระดับทักษะ: ปานกลาง
+        </span>
+        <span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h18v2H3zm2 4h14v2H5zm-2 4h18v2H3zm2 4h14v2H5zm-2 4h18v2H3z"/></svg>
+          ความต้องการ: บัญชี Google, TVMaster portal URL, การสมัครสมาชิก TiviMate Premium ทางเลือก
+        </span>
+        <span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 2a1 1 0 0 1 .832.445l4 6A1 1 0 0 1 20 10H4a1 1 0 0 1-.832-1.555l4-6A1 1 0 0 1 8 2Zm3.465 6L16 4.236 12.535 8ZM10 12h4l-1 10h-2Z"/></svg>
+          เหมาะสำหรับ: กีฬา 4K HDR, การบันทึก DVR, ครัวเรือนที่มีหลายโปรไฟล์
+        </span>
+      </div>
+
+      <div class="guide-grid">
+        <article class="guide-article">
+          <div class="card" id="overview">
+            <h2>ทำไมลูกค้า Android TV อยู่นานขึ้น</h2>
+            <ul class="feature-list">
+              <li>การเล่น 4K60 แบบเนทีฟพร้อม Dolby Vision บน NVIDIA Shield Pro และ Chromecast with Google TV</li>
+              <li>TiviMate Premium เปิดใช้งานช่องบันทึก 10 ช่อง, การบันทึกอัตโนมัติของซีรีส์ และการสำรองข้อมูลแบบคลาวด์ของกลุ่มช่อง</li>
+              <li>ค้นหาด้วยเสียงทั่วช่องสด TVMaster, catch-up และไลบรารี VOD โดยใช้ Google Assistant</li>
+              <li>เพื่อนที่สมบูรณ์แบบสำหรับแฟนกีฬาที่สลับระหว่าง EPL, Serie A, NFL RedZone และฟีด beIN MENA</li>
+            </ul>
+          </div>
+
+          <div class="card" id="steps">
+            <h2>ติดตั้ง TiviMate &amp; เชื่อมต่อ TVMaster</h2>
+            <ol class="howto-steps">
+              <li><strong>ดาวน์โหลด TiviMate</strong> – เปิด Google Play บน Android TV ของคุณ, ค้นหา <em>TiviMate IPTV Player</em> และติดตั้ง</li>
+              <li><strong>เปิดและอนุญาตการจัดเก็บ</strong> – เมื่อเปิดครั้งแรก, อนุญาตการอนุญาต <em>Storage</em> เพื่อให้ TiviMate สามารถแคชข้อมูล EPG และการบันทึก</li>
+              <li><strong>เพิ่มเพลย์ลิสต์ TVMaster</strong> – เลือก <em>Add playlist ▸ Xtream Codes</em> จากนั้นวาง TVMaster portal URL, username และ password จากอีเมลต้อนรับของคุณ</li>
+              <li><strong>ซิงค์ฐานข้อมูลช่อง</strong> – หลังจากเข้าสู่ระบบ, อนุญาตการซิงค์เริ่มต้น (ช่อง 30K, VOD 80K) เปิดใช้งาน <em>Auto Update</em> และ <em>Update on app launch</em></li>
+              <li><strong>สร้างกลุ่มช่อง</strong> – กดปุ่มเมนู, เลือก <em>Manage groups</em>, เพิ่มรายการโปรด <em>Premier League</em>, <em>US Sports</em>, <em>Thai</em>, <em>Filipino</em> หรือแพ็คภูมิภาคที่ครัวเรือนของคุณใช้มากที่สุด</li>
+              <li><strong>เปิดใช้งาน TiviMate Premium</strong> – ซื้อผ่านการเรียกเก็บเงินในแอพเพื่อปลดล็อค DVR, multi-EPG และการสำรองข้อมูล ลงชื่อเข้าใช้ด้วยบัญชี TiviMate ของคุณเพื่อให้อุปกรณ์แต่ละเครื่องซิงค์เลย์เอาท์</li>
+            </ol>
+          </div>
+
+          <div class="card" id="optimisation">
+            <h2>เพิ่มประสิทธิภาพการเล่น &amp; DVR</h2>
+            <div class="tips-grid">
+              <p><strong>เปิดใช้งาน timeshift:</strong> Settings ▸ Playback ▸ Timeshift buffer: เลือก <em>Auto</em> และจัดสรร 2 GB สำหรับการหยุดชั่วคราวแมตช์สด</p>
+              <p><strong>บันทึกการต่อสู้ตอนกลางคืน:</strong> ในคู่มือโปรแกรม, กดค้างไว้ที่กิจกรรม UFC/boxing ใดๆ และแตะ <em>Record Series</em> เพื่อให้รีเพลย์อยู่ในโฟลเดอร์ DVR</p>
+              <p><strong>สำรองข้อมูลเลย์เอาท์:</strong> ไปที่ Settings ▸ Backups เพื่อจัดเก็บลำดับช่องของคุณใน Google Drive สมบูรณ์แบบสำหรับลูกค้าที่สลับอุปกรณ์</p>
+            </div>
+          </div>
+
+          <div class="card" id="troubleshooting">
+            <h2>การแก้ไขปัญหา</h2>
+            <div class="tips-grid">
+              <p><strong>การเล่นล้มเหลว?</strong> สลับตัวถอดรหัสเป็น <em>Software</em> สำหรับช่องที่มีปัญหา หรือเปิดใช้งาน <em>Buffer size: 12 seconds</em></p>
+              <p><strong>ไม่มีไทล์ catch-up?</strong> ตรวจสอบให้แน่ใจว่าเพลย์ลิสต์ตั้งค่าเป็นการเข้าสู่ระบบ Xtream Codes ไม่ใช่ M3U-only Catch-up จะเติมข้อมูลโดยอัตโนมัติสำหรับช่องที่มีสิทธิ์</p>
+              <p><strong>Shield remote ช้า?</strong> ล้างแคช TiviMate, อัปเดตเป็น Shield Experience 9+ และจับคู่รีโมทผ่าน Bluetooth แทน IR</p>
+            </div>
+          </div>
+
+          <div class="cta-card">
+            <strong>กล่อง Android TV ที่กำหนดค่าไว้ล่วงหน้าจัดส่งทั่วโลก</strong>
+            <p>TVMaster จัดหาชุด Mecool และ NVIDIA Shield พร้อม TiviMate, กลุ่มช่อง และ VOD ที่ซิงค์แล้ว เหมาะสำหรับผู้ขายต่อและการปรับใช้ในการบริการ</p>
+            <a href="../tv-box-products.html#android-tv" data-analytics="cta-trial-androidtv">ดูชุด Android TV</a>
+          </div>
+        </article>
+
+        <aside class="sidebar">
+          <div class="sidebar-card">
+            <h3>คู่มือเพิ่มเติม</h3>
+            <ul>
+              <li><a href="./fire-tv.html">Amazon Fire TV</a></li>
+              <li><a href="./smart-tv.html">Samsung &amp; LG Smart TV</a></li>
+              <li><a href="./mag-box.html">MAG &amp; Formuler</a></li>
+              <li><a href="./mobile.html">แอพมือถือ</a></li>
+              <li><a href="./desktop.html">เครื่องเล่นเดสก์ท็อป</a></li>
+            </ul>
+          </div>
+          <div class="sidebar-card">
+            <h3>ดาวน์โหลด</h3>
+            <ul>
+              <li><a href="https://play.google.com/store/apps/details?id=ar.tvplayer.tv" target="_blank" rel="noopener">TiviMate IPTV Player</a></li>
+              <li><a href="https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox" target="_blank" rel="noopener">IPTV Smarters TV</a></li>
+              <li><a href="https://play.google.com/store/apps/details?id=org.videolan.vlc" target="_blank" rel="noopener">VLC for Android TV</a></li>
+            </ul>
+          </div>
+          <div class="sidebar-card">
+            <h3>การสนับสนุน</h3>
+            <ul>
+              <li><a href="mailto:support@tvmaster.vip">อีเมล support@tvmaster.vip</a></li>
+              <li><a href="https://t.me/tvmasterchat" target="_blank" rel="noopener">แชทสด Telegram</a></li>
+              <li><a href="../faq.html#android">Android TV FAQ</a></li>
+            </ul>
+          </div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 TVMaster · คู่มือการติดตั้ง Android TV. <a href="../../sitemap.xml">แผนผังไซต์</a>
+  </footer>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "ติดตั้ง TVMaster บน Android TV และ NVIDIA Shield",
+    "description": "ติดตั้ง TiviMate, เพิ่มการเข้าสู่ระบบ Xtream Codes ของ TVMaster และกำหนดค่าคุณสมบัติ DVR เพื่อสตรีม IPTV บนอุปกรณ์ Android TV และ NVIDIA Shield",
+    "totalTime": "PT10M",
+    "tool": [
+      { "@type": "HowToTool", "name": "อุปกรณ์ Android TV หรือ NVIDIA Shield" },
+      { "@type": "HowToTool", "name": "TiviMate IPTV Player" }
+    ],
+    "supply": [
+      { "@type": "HowToSupply", "name": "ข้อมูลรับรองการสมัครสมาชิก TVMaster IPTV" }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "ติดตั้ง TiviMate",
+        "text": "ใช้ Google Play บน Android TV เพื่อดาวน์โหลดและติดตั้ง TiviMate IPTV Player"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "อนุญาตการเข้าถึงการจัดเก็บ",
+        "text": "เปิด TiviMate และให้การอนุญาตการจัดเก็บเพื่อให้แอพสามารถจัดเก็บฐานข้อมูลช่องและการบันทึก"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "เพิ่มเพลย์ลิสต์",
+        "text": "เลือก Add playlist, เลือก Xtream Codes และวาง TVMaster portal URL, username และ password"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "ซิงค์และจัดระเบียบช่อง",
+        "text": "ให้ TiviMate ซิงค์รายการทั้งหมด จากนั้นจัดการกลุ่มช่องเพื่อแสดงกีฬาและแพ็คภูมิภาคที่คุณชอบ"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "เปิดใช้งานคุณสมบัติพรีเมียม",
+        "text": "เปิดใช้งาน TiviMate Premium เพื่อปลดล็อค DVR, catch-up และการสำรองข้อมูลเลย์เอาท์ทั่วอุปกรณ์"
+      }
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "TVMaster",
+      "url": "https://web.tvmaster.vip"
+    }
+  }
+  </script>
+  <script src="../../assets/js/language-switcher.js" defer></script>
+  <script src="../../assets/js/nav.js" defer></script>
+</body>
+</html>

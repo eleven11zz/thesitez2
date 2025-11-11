@@ -32,6 +32,9 @@
       // Toggle active class on nav
       mainNav.classList.toggle('active');
 
+      // Toggle is-active class on burger button for animation
+      this.classList.toggle('is-active');
+
       // Prevent body scroll when menu is open
       document.body.style.overflow = !isExpanded ? 'hidden' : '';
 
@@ -87,6 +90,7 @@
      */
     function closeMenu() {
       navToggle.setAttribute('aria-expanded', 'false');
+      navToggle.classList.remove('is-active');
       mainNav.classList.remove('active');
       document.body.style.overflow = '';
     }

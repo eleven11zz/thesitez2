@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Non Trouvée | TVMaster VIP</title>
+    <meta name="robots" content="noindex, nofollow">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 100%);
+            color: #ffffff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .container {
+            text-align: center;
+            max-width: 600px;
+        }
+
+        .logo {
+            margin-bottom: 2rem;
+        }
+
+        .error-code {
+            font-size: clamp(6rem, 15vw, 12rem);
+            font-weight: 900;
+            color: #e50914;
+            line-height: 1;
+            margin-bottom: 1rem;
+            text-shadow: 0 0 30px rgba(229, 9, 20, 0.3);
+        }
+
+        h1 {
+            font-size: clamp(1.5rem, 4vw, 2.5rem);
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+
+        p {
+            font-size: 1.125rem;
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 2rem;
+            line-height: 1.6;
+        }
+
+        .btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            align-items: center;
+            margin-top: 2rem;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            background: #e50914;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            min-width: 200px;
+        }
+
+        .btn:hover {
+            background: #f40612;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(229, 9, 20, 0.3);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.15);
+            box-shadow: 0 10px 25px rgba(255, 255, 255, 0.1);
+        }
+
+        .language-links {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .language-links p {
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+
+        .language-links a {
+            color: #e50914;
+            text-decoration: none;
+            margin: 0 0.5rem;
+            font-size: 0.9rem;
+        }
+
+        .language-links a:hover {
+            text-decoration: underline;
+        }
+
+        @media (min-width: 640px) {
+            .btn-group {
+                flex-direction: row;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="60" height="60" rx="8" fill="#e50914"/>
+                <path d="M30 15L45 25V45L30 55L15 45V25L30 15Z" fill="white"/>
+                <path d="M30 20L40 27V43L30 50L20 43V27L30 20Z" fill="#e50914"/>
+            </svg>
+        </div>
+
+        <div class="error-code">404</div>
+
+        <h1 id="error-title">Page Non Trouvée</h1>
+        <p id="error-description">La page que vous recherchez n'existe pas ou a été déplacée.</p>
+
+        <div class="btn-group">
+            <a href="../" class="btn" id="home-link">Aller à l'Accueil</a>
+            <a href="../iptv-products.html" class="btn btn-secondary" id="products-link">Voir les Produits</a>
+        </div>
+
+        <div class="language-links">
+            <p id="lang-prompt">Visitez notre site dans votre langue:</p>
+            <div>
+                <a href="../index.html">English</a> |
+                <a href="../de/index.html">Deutsch</a> |
+                <a href="../fr/index.html">Français</a> |
+                <a href="../it/index.html">Italiano</a> |
+                <a href="../nl/index.html">Nederlands</a> |
+                <a href="../no/index.html">Norsk</a> |
+                <a href="../sv/index.html">Svenska</a> |
+                <a href="../th/index.html">ไทย</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Simple language detection and localization
+        const translations = {
+            en: {
+                title: 'Page Not Found',
+                description: "The page you're looking for doesn't exist or has been moved.",
+                home: 'Go to Homepage',
+                products: 'View Products',
+                langPrompt: 'Visit our site in your language:'
+            },
+            de: {
+                title: 'Seite nicht gefunden',
+                description: 'Die gesuchte Seite existiert nicht oder wurde verschoben.',
+                home: 'Zur Startseite',
+                products: 'Produkte ansehen',
+                langPrompt: 'Besuchen Sie unsere Seite in Ihrer Sprache:'
+            },
+            fr: {
+                title: 'Page non trouvée',
+                description: "La page que vous recherchez n'existe pas ou a été déplacée.",
+                home: "Aller à l'accueil",
+                products: 'Voir les produits',
+                langPrompt: 'Visitez notre site dans votre langue:'
+            },
+            it: {
+                title: 'Pagina non trovata',
+                description: 'La pagina che stai cercando non esiste o è stata spostata.',
+                home: "Vai alla homepage",
+                products: 'Vedi prodotti',
+                langPrompt: 'Visita il nostro sito nella tua lingua:'
+            },
+            nl: {
+                title: 'Pagina niet gevonden',
+                description: 'De pagina die u zoekt bestaat niet of is verplaatst.',
+                home: 'Ga naar homepage',
+                products: 'Bekijk producten',
+                langPrompt: 'Bezoek onze site in uw taal:'
+            },
+            no: {
+                title: 'Siden ikke funnet',
+                description: 'Siden du leter etter eksisterer ikke eller har blitt flyttet.',
+                home: 'Gå til hjemmesiden',
+                products: 'Se produkter',
+                langPrompt: 'Besøk nettstedet vårt på ditt språk:'
+            },
+            sv: {
+                title: 'Sidan hittades inte',
+                description: 'Sidan du letar efter finns inte eller har flyttats.',
+                home: 'Gå till startsidan',
+                products: 'Visa produkter',
+                langPrompt: 'Besök vår webbplats på ditt språk:'
+            },
+            th: {
+                title: 'ไม่พบหน้า',
+                description: 'หน้าที่คุณกำลังมองหาไม่มีอยู่หรือถูกย้าย',
+                home: 'ไปที่หน้าแรก',
+                products: 'ดูผลิตภัณฑ์',
+                langPrompt: 'เยี่ยมชมเว็บไซต์ของเราในภาษาของคุณ:'
+            }
+        };
+
+        // Detect browser language
+        const browserLang = navigator.language.substring(0, 2);
+        const lang = translations[browserLang] ? browserLang : 'en';
+
+        // Apply translations
+        if (lang !== 'en') {
+            document.getElementById('error-title').textContent = translations[lang].title;
+            document.getElementById('error-description').textContent = translations[lang].description;
+            document.getElementById('home-link').textContent = translations[lang].home;
+            document.getElementById('products-link').textContent = translations[lang].products;
+            document.getElementById('lang-prompt').textContent = translations[lang].langPrompt;
+
+            // Update HTML lang attribute
+            document.documentElement.lang = lang;
+        }
+    </script>
+</body>
+</html>

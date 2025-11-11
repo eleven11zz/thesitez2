@@ -3,50 +3,59 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes">
-  <title>Stream Sportivi in Diretta | Eventi imminenti powered by TVMaster</title>
-  <meta name="description" content="Sfoglia i prossimi eventi di Premier League, NFL, NBA e UFC con TVMaster. Elenchi canali in diretta, suggerimenti sui dispositivi e accesso immediato alle prove di 24 ore.">
-  <link rel="preload" href="../../assets/css/sports-live.css" as="style">
+  <title>Diffusions Sportives live | Événements à Venir Propulsé par TVMaster</title>
+  <meta name="description" content="Browse upcoming Premier League, NFL, NBA, and UFC fixtures with TVMaster. Live channel listings, device tips, and instant access to 24-hour trials.">
+  <link rel="preload" href="../assets/css/sports-live.css" as="style">
 
   <!-- Performance optimizations for Core Web Vitals -->
-  <link rel="stylesheet" href="../../assets/css/performance.css">
+  <link rel="stylesheet" href="../assets/css/performance.css">
 
-<link rel="stylesheet" href="../../assets/css/sports-live.css">
-  <link rel="stylesheet" href="../../assets/css/mobile-tablet-fixes.css">
-  <link rel="stylesheet" href="../../assets/css/language-switcher.css"/>
-<link rel="stylesheet" href="../../assets/css/accessibility.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+  <link rel="stylesheet" href="../assets/css/sports-live.css">
+  <link rel="stylesheet" href="../assets/css/modern-header-footer.css"/>
+  <link rel="stylesheet" href="../assets/css/mobile-tablet-fixes.css">
+  <link rel="stylesheet" href="../assets/css/tablet-button-fixes.css">
+  <link rel="stylesheet" href="../assets/css/language-switcher.css"/>
+  <link rel="stylesheet" href="../assets/css/accessibility.css"/>
+  <link rel="stylesheet" href="../assets/css/mobile-cta-improvements.css"/>
 </head>
 <body>
 <!-- Skip to main content for keyboard users -->
 <a href="#main-content" class="skip-to-main">Skip to main content</a>
 
-  <header>
-    <div class="header-inner">
-      <a href="../index.html" class="brand">
-        <img src="../../assets/footer_picture.png" alt="TVMaster logo" loading="lazy" decoding="async">
-        <span>TVMaster</span>
-      </a>
-      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
-        <span class="sr-only">Toggle navigation</span>
-        <span></span>
-        <span></span>
-        <span></span>
-      </button><nav class="main-nav" role="navigation" aria-label="Primary navigation" id="primary-nav">
-        <a href="../index.html">Home</a>
-        <a href="../../sports/" class="active">Sports</a>
-        <a href="../../sports/live.html">Live Hub</a>
-        <a href="../../devices/">Devices</a>
-        <a href="../../setup/">Setup</a>
-        <a href="../../country/">Countries</a>
-        <a href="../iptv-products.html">Catalogs</a>
-        <a href="../faq.html">FAQ</a>
-      </nav>
-    </div>
-  </header>
+<header class="site-header" role="banner">
+  <div class="container header-inner">
+    <a href="../index.html" class="brand" aria-label="TVMaster VIP - Return to homepage">
+      <img src="../assets/footer_picture.png" alt="TVMaster VIP logo - Servizio IPTV Premium" class="header-logo" loading="lazy" decoding="async">
+      <span class="brand-text">TVMaster</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
+      <span class="sr-only">Toggle navigation</span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="main-nav" id="primary-nav" role="navigation" aria-label="Primary navigation">
+      <a href="../index.html#hero">Home</a>
+      <a href="../channel-lists.html">canali</a>
+      <a href="../epg.html">TV Guide</a>
+      <a href="../sports/live.html" class="active">Live Hub</a>
+      <a href="../iptv-products.html">IPTV Packages</a>
+      <a href="../tv-box-products.html">Box TV</a>
+      <a href="../setup/index.html">Guide di Configurazione</a>
+      <a href="../country/index.html">Paesi</a>
+      <a href="../devices/index.html">Dispositivi</a>
+      <a href="../faq.html">FAQ</a>
+      <a href="../blog.html">Blog</a>
+      <a class="header-cta" href="../iptv-products.html">Start Streaming</a>
+    </nav>
+  </div>
+</header>
 
   <main id="main-content" role="main">
     <section class="live-hero">
-      <h1>Live Sports Streaming Hub</h1>
-      <p>Up-to-the-minute fixtures pulled from TheSportsDB so you can see what’s streaming next. Filter by sport, check channels, and jump straight into the right TVMaster setup or free trial.</p>
+      <h1>Sports live Streaming Hub</h1>
+      <p>Up-to-the-minute fixtures pulled from TheSportsDB so you can see what’s streaming next. Filter by sport, check canali, and jump straight into the right TVMaster Installation or Essai Gratuit.</p>
     </section>
 
     <section class="featured-slider" data-live-slider hidden>
@@ -65,54 +74,129 @@
     <section class="events-wrapper" data-live-wrapper></section>
   </main>
 
-  <footer>
-    © 2024 TVMaster · Live Sports Hub. <a href="../../sitemap.xml">Sitemap</a>
-  </footer>
+<footer class="site-footer" id="contact" role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
+      <!-- Brand Column -->
+      <div class="footer-brand">
+        <img src="../assets/footer_picture.png" alt="TVMaster VIP logo - Servizio IPTV Premium" class="brand-logo" loading="lazy" decoding="async">
+        <h3 class="footer-brand-title">TVMaster VIP</h3>
+        <p class="footer-summary">Premium IPTV streaming service with 30,000+ canali live, Qualité 4K, Zero Buffering. Approuvé par 50,000+ customers worldwide. Enterprise-grade infrastructure with Support 24/7.</p>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Follow us on Facebook">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="https://www.instagram.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Follow us on Instagram">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://www.youtube.com/@tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Subscribe on YouTube">
+            <i class="fab fa-youtube"></i>
+          </a>
+          <a href="https://www.twitter.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Follow us on Twitter">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="https://www.linkedin.com/company/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Connect on LinkedIn">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Products Column -->
+      <div class="footer-column">
+        <h4 class="footer-column-title">Prodotti</h4>
+        <a href="../iptv-products.html">IPTV Packages</a>
+        <a href="../tv-box-products.html">Bundle Box TV</a>
+        <a href="../channel-lists.html">Listes de Canali</a>
+        <a href="../epg.html">TV Guide</a>
+        <a href="../sports/live.html">Sports live Hub</a>
+      </div>
+
+      <!-- Resources Column -->
+      <div class="footer-column">
+        <h4 class="footer-column-title">Risorse</h4>
+        <a href="../faq.html">FAQ</a>
+        <a href="../setup/index.html">Guide di Configurazione</a>
+        <a href="../country/index.html">Paesi</a>
+        <a href="../devices/index.html">Dispositivi</a>
+        <a href="../blog.html">Blog</a>
+      </div>
+
+      <!-- Contatti Column -->
+      <div class="footer-column">
+        <h4 class="footer-column-title">Contatti</h4>
+        <div class="footer-contact">
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">📧</span>
+            <a href="mailto:support@tvmaster.vip">support@tvmaster.vip</a>
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">📞</span>
+            <span>+44 20 7123 4567</span>
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">🕐</span>
+            <span>24/7 Global Support</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer Bottom -->
+    <div class="footer-bottom">
+      <p class="footer-note">© 2025 TVMaster VIP. Tout rights reserved.</p>
+      <div class="footer-links">
+        <!-- Privacy Policy -->
+        <!-- Terms of Service -->
+        <!-- Refund Policy -->
+      </div>
+    </div>
+  </div>
+</footer>
 
   
 <!-- Floating Language Switcher -->
 <div class="language-switcher floating">
         <button class="current-lang" type="button" aria-label="Select language" aria-expanded="false">
-          🌐 IT
+          🌐 EN
         </button>
         <div class="lang-dropdown" role="menu">
           <a href="../../sports/live.html" data-lang="en" role="menuitem">
             <span class="flag">🇬🇧</span>
             <span class="lang-name">English</span>
           </a>
-          <a href="../../th/sports/live.html" data-lang="th" role="menuitem">
+          <a href="../th/sports/live.html" data-lang="th" role="menuitem">
             <span class="flag">🇹🇭</span>
             <span class="lang-name">ไทย</span>
           </a>
-          <a href="../../de/sports/live.html" data-lang="de" role="menuitem">
+          <a href="../de/sports/live.html" data-lang="de" role="menuitem">
             <span class="flag">🇩🇪</span>
             <span class="lang-name">Deutsch</span>
           </a>
-          <a href="../../fr/sports/live.html" data-lang="fr" role="menuitem">
+          <a href="../it/sports/live.html" data-lang="it" role="menuitem">
             <span class="flag">🇫🇷</span>
             <span class="lang-name">Français</span>
           </a>
-          <a href="../../sv/sports/live.html" data-lang="sv" role="menuitem">
+          <a href="../sv/sports/live.html" data-lang="sv" role="menuitem">
             <span class="flag">🇸🇪</span>
             <span class="lang-name">Svenska</span>
           </a>
-          <a href="../../no/sports/live.html" data-lang="no" role="menuitem">
+          <a href="../no/sports/live.html" data-lang="no" role="menuitem">
             <span class="flag">🇳🇴</span>
             <span class="lang-name">Norsk</span>
           </a>
-          <a href="../../it/sports/live.html" data-lang="it" role="menuitem">
+          <a href="../it/sports/live.html" data-lang="it" role="menuitem">
             <span class="flag">🇮🇹</span>
             <span class="lang-name">Italiano</span>
           </a>
-          <a href="../../nl/sports/live.html" data-lang="nl" role="menuitem">
+          <a href="../nl/sports/live.html" data-lang="nl" role="menuitem">
             <span class="flag">🇳🇱</span>
             <span class="lang-name">Nederlands</span>
           </a>
         </div>
       </div>
 
-<script src="../../assets/js/language-switcher.js" defer></script>
-  <script src="../../assets/js/nav.js" defer></script>
-  <script type="module" id="live-events-script" data-events-feed="../../assets/js/events.json" src="../../assets/js/events.js"></script>
+<script src="../assets/js/language-switcher.js" defer></script>
+  <script src="../assets/js/navigation.js" defer></script>
+  <script type="module" id="live-events-script" data-events-feed="../assets/js/events.json" src="../assets/js/events.js"></script>
 </body>
 </html>

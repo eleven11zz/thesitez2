@@ -8,6 +8,7 @@
   <link rel="preload" href="../assets/css/howto.css" as="style">
   <link rel="stylesheet" href="../assets/css/howto.css">
   <link rel="stylesheet" href="../assets/css/mobile-tablet-fixes.css">
+  <link rel="stylesheet" href="../assets/css/tablet-button-fixes.css">
   <link rel="stylesheet" href="../assets/css/language-switcher.css">
 </head>
 <body>
@@ -218,6 +219,47 @@
     }
   }
   </script>
+  <!-- Floating Language Switcher -->
+  <div class="language-switcher floating">
+    <button class="current-lang" type="button" aria-label="Select language" aria-expanded="false">
+      🌐 EN
+    </button>
+    <div class="lang-dropdown" role="menu">
+      <a href="../setup/mobile.html" data-lang="en" role="menuitem">
+        <span class="flag">🇬🇧</span>
+        <span class="lang-name">English</span>
+      </a>
+      <a href="../th/setup/mobile.html" data-lang="th" role="menuitem">
+        <span class="flag">🇹🇭</span>
+        <span class="lang-name">ไทย</span>
+      </a>
+      <a href="../de/setup/mobile.html" data-lang="de" role="menuitem">
+        <span class="flag">🇩🇪</span>
+        <span class="lang-name">Deutsch</span>
+      </a>
+      <a href="../fr/setup/mobile.html" data-lang="fr" role="menuitem">
+        <span class="flag">🇫🇷</span>
+        <span class="lang-name">Français</span>
+      </a>
+      <a href="../sv/setup/mobile.html" data-lang="sv" role="menuitem">
+        <span class="flag">🇸🇪</span>
+        <span class="lang-name">Svenska</span>
+      </a>
+      <a href="../no/setup/mobile.html" data-lang="no" role="menuitem">
+        <span class="flag">🇳🇴</span>
+        <span class="lang-name">Norsk</span>
+      </a>
+      <a href="../it/setup/mobile.html" data-lang="it" role="menuitem">
+        <span class="flag">🇮🇹</span>
+        <span class="lang-name">Italiano</span>
+      </a>
+      <a href="../nl/setup/mobile.html" data-lang="nl" role="menuitem">
+        <span class="flag">🇳🇱</span>
+        <span class="lang-name">Nederlands</span>
+      </a>
+    </div>
+  </div>
+
   <script src="../assets/js/nav.js" defer></script>
   <script src="../assets/js/language-switcher.js" defer></script>
 </body>

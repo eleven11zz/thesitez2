@@ -423,10 +423,39 @@ button {
     padding-right: 1rem !important;
   }
 
-  /* Reduce section padding */
+  /* Reduce section padding significantly */
   section {
-    padding-top: 2.5rem !important;
-    padding-bottom: 2.5rem !important;
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+  }
+
+  /* Hero section - reduce height for small screens */
+  .hero {
+    padding: 2rem 0 !important;
+    min-height: auto !important;
+  }
+
+  .hero-content {
+    padding: 1.5rem 0 !important;
+  }
+
+  .hero-grid {
+    gap: 1.25rem !important;
+  }
+
+  /* Footer - reduce padding */
+  .site-footer,
+  footer {
+    padding: 2rem 0 !important;
+  }
+
+  .footer-content {
+    padding: 1.5rem 0 !important;
+  }
+
+  .footer-grid,
+  .footer-columns {
+    gap: 1.5rem !important;
   }
 
   /* Smaller headings */
@@ -438,11 +467,56 @@ button {
     font-size: clamp(1.3rem, 6vw, 1.75rem) !important;
   }
 
+  h3 {
+    font-size: clamp(1.1rem, 5vw, 1.4rem) !important;
+  }
+
   /* Tighter card padding */
   .hero-card,
   .product-card,
-  .review-card {
-    padding: 1.5rem !important;
+  .review-card,
+  .comparison-card {
+    padding: 1.25rem !important;
+  }
+
+  /* Reduce gaps in grids */
+  .product-summary-grid,
+  .reviews-grid,
+  .comparison-grid {
+    gap: 1rem !important;
+  }
+
+  /* Compact tables on very small screens */
+  table,
+  .channel-table {
+    font-size: 0.8rem !important;
+  }
+
+  table th,
+  table td {
+    padding: 0.5rem 0.4rem !important;
+  }
+
+  /* Hide decorative elements on very small screens */
+  .decorative-bg,
+  .hero-decoration,
+  .section-decoration {
+    display: none !important;
+  }
+
+  /* Compact FAQ items */
+  .faq-item,
+  .faq-block details {
+    padding: 0.9rem 1rem !important;
+  }
+
+  /* Reduce button padding slightly while maintaining touch targets */
+  button,
+  .button,
+  [class*="btn"],
+  [class*="cta"] {
+    padding: 0.9rem 1.2rem !important;
+    font-size: 0.95rem !important;
   }
 }
 
