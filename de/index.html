@@ -1156,9 +1156,17 @@ body {
   .product-summary-card {
     padding: 1.6rem;
   }
-  .product-summary-card ul {
-    gap: 0.55rem;
-  }
+.product-summary-card ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  color: rgba(248, 250, 251, 0.95);
+  position: relative;
+  z-index: 1;
+}
   .product-summary-card a {
     width: 100%;
     text-align: center;
@@ -1792,12 +1800,20 @@ body {
   color: #ffffff;
   letter-spacing: 0.05em;
   text-transform: uppercase;
+  font-weight: 700;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  position: relative;
+  z-index: 1;
 }
 
 .product-summary-card p {
   margin: 0;
-  color: rgba(248, 250, 251, 0.78);
+  color: #f8fafb;
   line-height: 1.6;
+  font-weight: 500;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  position: relative;
+  z-index: 1;
 }
 
 .product-summary-card ul {
@@ -1807,12 +1823,16 @@ body {
   display: flex;
   flex-direction: column;
   gap: 0.65rem;
-  color: rgba(248, 250, 251, 0.7);
+  color: rgba(248, 250, 251, 0.95);
+  position: relative;
+  z-index: 1;
 }
 
 .product-summary-card ul li {
   position: relative;
   padding-left: 1.1rem;
+  font-weight: 500;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
 }
 
 .product-summary-card ul li::before {
@@ -2400,7 +2420,7 @@ body {
         </div>
       </div>
       <div class="product-summary-grid">
-        <article class="product-summary-card" style="background-image: url('../assets/deployment_backgrounds/IPTV_ONLY.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+        <article class="product-summary-card" style="background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../assets/deployment_backgrounds/IPTV_ONLY.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
           <div class="product-card-header">
             <span class="card-icon" aria-hidden="true">📡</span>
             <h3>IPTV Channel Lineups</h3>
@@ -2414,7 +2434,7 @@ body {
           <a href="./iptv-products.html">View IPTV Catalog</a>
         </article>
 
-        <article class="product-summary-card" style="background-image: url('../assets/deployment_backgrounds/IPTV_ANDROID.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+        <article class="product-summary-card" style="background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../assets/deployment_backgrounds/IPTV_ANDROID.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
           <div class="product-card-header">
             <span class="card-icon" aria-hidden="true">📦</span>
             <h3>Android TV Box Kits</h3>
