@@ -9,15 +9,15 @@
    GLOBAL OVERFLOW PREVENTION
    =================================== */
 
-/* Lock viewport - prevent horizontal movement */
+/* Lock viewport - prevent horizontal movement, but allow legitimate scrolling */
 html {
-  overflow-x: hidden !important;
+  overflow-x: clip !important;
   width: 100% !important;
   position: relative !important;
 }
 
 body {
-  overflow-x: hidden !important;
+  overflow-x: clip !important;
   width: 100% !important;
   position: relative !important;
   -webkit-overflow-scrolling: touch !important;
@@ -26,7 +26,14 @@ body {
 /* Ensure all direct children don't overflow */
 body > * {
   max-width: 100vw !important;
-  overflow-x: hidden !important;
+}
+
+/* Allow specific elements to have horizontal scroll */
+.epg-filters,
+.channel-toolbar,
+.table-container,
+.scrollable-content {
+  overflow-x: auto !important;
 }
 
 /* ===================================

@@ -60,6 +60,14 @@ html, body {
 /* Card Body - Adequate padding on all screens */
 .card-body {
   padding: 1.5rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 1rem !important;
+}
+
+/* Ensure card actions stay at bottom */
+.card-body .card-actions {
+  margin-top: auto !important;
 }
 
 @media (max-width: 480px) {

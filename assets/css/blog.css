@@ -311,6 +311,24 @@ main {
   50% { transform: scale(1.05); box-shadow: 0 6px 16px rgba(255, 215, 0, 0.6); }
 }
 
+/* Responsive badge sizing - prevent overlap on small screens */
+@media (max-width: 480px) {
+  .blog-category,
+  .blog-featured-badge {
+    font-size: 0.65rem;
+    padding: 0.4rem 0.75rem;
+    top: 0.75rem;
+  }
+
+  .blog-category {
+    left: 0.75rem;
+  }
+
+  .blog-featured-badge {
+    right: 0.75rem;
+  }
+}
+
 /* ===================================
    BLOG CARD CONTENT
    =================================== */

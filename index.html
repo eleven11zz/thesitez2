@@ -1285,6 +1285,15 @@ body {
   }
 }
 
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  color: #f8fafb;
+  align-items: center;
+  text-align: center;
+}
+
 @media (min-width: 769px) {
   .hero {
     text-align: left;
@@ -1299,15 +1308,6 @@ body {
   .hero-cta-group {
     justify-content: flex-start;
   }
-}
-
-.hero-text {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  color: #f8fafb;
-  align-items: center;
-  text-align: center;
 }
 
 .hero-heading {
@@ -1329,8 +1329,14 @@ body {
   font-size: 1.05rem;
   line-height: 1.8;
   color: rgba(248, 250, 251, 0.78);
-  max-width: 560px;
+  max-width: min(560px, 100%);
   margin-inline: auto;
+}
+
+@media (min-width: 1200px) {
+  .hero-description {
+    max-width: 640px;
+  }
 }
 
 .hero-cta-group {
@@ -1454,7 +1460,7 @@ body {
 
 .hero-metrics {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(180px, 100%), 1fr));
   gap: 1.5rem;
   justify-items: center;
 }
