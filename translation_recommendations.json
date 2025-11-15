@@ -1,0 +1,123 @@
+{
+  "audit_date": "2025-11-11",
+  "summary": {
+    "total_languages": 7,
+    "perfect": 1,
+    "needs_attention": 6,
+    "total_issues": 19,
+    "high_priority": 0,
+    "medium_priority": 2,
+    "low_priority": 5
+  },
+  "recommended_changes": {
+    "de": {
+      "language_name": "German",
+      "priority": "medium",
+      "changes": [
+        {
+          "key": "site.tagline",
+          "current": "#1 Premium IPTV Service",
+          "recommended": "#1 Premium IPTV-Dienst",
+          "priority": "medium",
+          "reason": "Tagline should be localized for better customer connection"
+        },
+        {
+          "key": "nav.live_hub",
+          "current": "Live Hub",
+          "recommended": "Direkthub",
+          "priority": "low",
+          "reason": "Consistency with Norwegian/Swedish translations",
+          "alternative": "Live-Hub"
+        }
+      ]
+    },
+    "nl": {
+      "language_name": "Dutch",
+      "priority": "medium",
+      "changes": [
+        {
+          "key": "site.tagline",
+          "current": "#1 Premium IPTV Service",
+          "recommended": "#1 Premium IPTV-Dienst",
+          "priority": "medium",
+          "reason": "Tagline should be localized for better customer connection"
+        },
+        {
+          "key": "nav.home",
+          "current": "Home",
+          "recommended": "Start",
+          "priority": "low",
+          "reason": "Better localization, though 'Home' is widely understood",
+          "alternative": "Thuis"
+        },
+        {
+          "key": "nav.live_hub",
+          "current": "Live Hub",
+          "recommended": "Directe Hub",
+          "priority": "low",
+          "reason": "Better localization and consistency",
+          "alternative": "Live Hub (acceptable as is)"
+        }
+      ]
+    },
+    "sv": {
+      "language_name": "Swedish",
+      "priority": "low",
+      "changes": [
+        {
+          "key": "site.support_hours",
+          "current": "24/7 Global Support",
+          "recommended": "24/7 Världsomspännande Support",
+          "priority": "low",
+          "reason": "All other languages have translated this field"
+        }
+      ]
+    }
+  },
+  "acceptable_as_is": {
+    "international_terms": [
+      {
+        "term": "FAQ",
+        "languages": ["de", "fr", "it", "nl", "no", "sv"],
+        "status": "acceptable",
+        "reason": "Universally recognized international acronym"
+      },
+      {
+        "term": "Blog",
+        "languages": ["de", "fr", "it", "nl"],
+        "status": "acceptable",
+        "reason": "International term used in all languages"
+      },
+      {
+        "term": "Contact",
+        "languages": ["fr", "nl"],
+        "status": "acceptable",
+        "reason": "Standard term in French and acceptable in Dutch"
+      },
+      {
+        "term": "Home",
+        "languages": ["it"],
+        "status": "acceptable",
+        "reason": "Widely understood in Italian, though 'Inizio' could be used"
+      }
+    ]
+  },
+  "perfect_translations": {
+    "th": {
+      "language_name": "Thai",
+      "status": "perfect",
+      "issues": 0,
+      "note": "Fully translated with excellent localization"
+    }
+  },
+  "technical_quality": {
+    "json_syntax": "valid",
+    "structural_consistency": "100%",
+    "missing_keys": 0,
+    "extra_keys": 0,
+    "empty_translations": 0,
+    "placeholder_mismatches": 0,
+    "html_tag_mismatches": 0,
+    "encoding_issues": 0
+  }
+}
