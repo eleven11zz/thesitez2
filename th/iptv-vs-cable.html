@@ -11,5 +11,28 @@
 </head>
 <body>
   <p>หากคุณไม่ถูกเปลี่ยนเส้นทางโดยอัตโนมัติ กรุณา<a href="../blog/iptv-vs-cable-2025.html">คลิกที่นี่</a></p>
+
+<!-- TVMaster VIP Chatbot -->
+<div id="tvmaster-chat-widget"></div>
+<script src="https://unpkg.com/@rasahq/rasa-chat@1.0.1"></script>
+<script>
+  RasaWebchat.default.init({
+    selector: "#tvmaster-chat-widget",
+    initPayload: "/greet",
+    socketUrl: "https://bot.tvmaster.work",
+    socketPath: "/socket.io/",
+    title: "TVMaster VIP",
+    subtitle: "We're online 24/7",
+    showFullScreenButton: true,
+    profileAvatar: "https://eleven11zz.github.io/thesitez2/assets/footer_picture.png",
+    inputTextFieldHint: "Ask about channels, trials, pricing…",
+    customData: { language: "en" },
+    params: { storage: "session" },
+    tooltipPayload: "/greet",
+    tooltipDelay: 2000,
+    embedded: false   /* keeps it as a floating launcher */
+  });
+</script>
+
 </body>
 </html>
