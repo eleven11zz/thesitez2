@@ -1,0 +1,383 @@
+{
+  "packages": [
+    {
+      "id": "english",
+      "name": "Premier English IPTV",
+      "shortName": "English TV",
+      "flag": "🇬🇧",
+      "region": "UK & Ireland",
+      "regionCode": "UK · IE · NA",
+      "description": "Full UK/US entertainment slate, Premier League, and 14-day catch-up with device fingerprinting controls.",
+      "highlights": [
+        "Sky Sports (Premier League, Main Event, F1, Cricket), TNT Sports, Prime Video Sports",
+        "BBC One/Two, ITV 1-4, Channel 4/5, Dave, GOLD, Film4",
+        "Sky Atlantic, Sky Max, Sky Cinema pack, Comedy Central, Discovery"
+      ],
+      "stats": {
+        "channels": "5,000+",
+        "vod": "3,000+",
+        "sports": "500+",
+        "streams": "3 concurrent",
+        "catchup": "14 days"
+      },
+      "pricing": {
+        "monthly": "$19.99",
+        "quarterly": "$54.99",
+        "yearly": "$199.99"
+      },
+      "features": [
+        "Premier League & UK Sports",
+        "14-day catch-up",
+        "3 concurrent streams",
+        "4K quality available"
+      ],
+      "urls": {
+        "channel": "channel-english.html",
+        "epg": "epg-english.html",
+        "channelList": "./channel-lists/iptv/english.html",
+        "product": "#english-package",
+        "purchase": "https://www.lazada.co.th/products/i5910320702.html"
+      },
+      "keywords": "english uk ireland british premier league bbc itv sky sports",
+      "badge": "Popular",
+      "categorySlug": "english"
+    },
+    {
+      "id": "german",
+      "name": "DACH Sports & News",
+      "shortName": "German TV",
+      "flag": "🇩🇪",
+      "region": "Germany, Austria & Switzerland",
+      "regionCode": "DE · AT · CH",
+      "description": "Bundesliga, Champions League, and national news bundles with priority PoP routing across the DACH region.",
+      "highlights": [
+        "Sky Sport Bundesliga/Top Event, DAZN 1 & 2, Eurosport 1/2",
+        "ARD, ZDF, RTL, Sat.1/ProSieben, VOX, Kabel Eins",
+        "Sky Cinema, TNT Serie, RTL Crime, Comedy Central"
+      ],
+      "stats": {
+        "channels": "3,500+",
+        "vod": "2,000+",
+        "sports": "300+",
+        "streams": "2 concurrent",
+        "catchup": "7 days"
+      },
+      "pricing": {
+        "monthly": "$17.99",
+        "quarterly": "$49.99",
+        "yearly": "$179.99"
+      },
+      "features": [
+        "Bundesliga & Champions League",
+        "7-day catch-up",
+        "2 concurrent streams",
+        "HD quality"
+      ],
+      "urls": {
+        "channel": "channel-german.html",
+        "epg": "epg-german.html",
+        "channelList": "./channel-lists/iptv/german.html",
+        "product": "#german-package",
+        "purchase": "https://www.lazada.co.th/products/i5910330773.html"
+      },
+      "keywords": "german germany deutschland austria switzerland dach bundesliga",
+      "categorySlug": "german"
+    },
+    {
+      "id": "scandinavia",
+      "name": "Nordic IPTV Fabric",
+      "shortName": "Scandinavia TV",
+      "flag": "🇸🇪",
+      "region": "Nordic Countries",
+      "regionCode": "SE · NO · DK · FI",
+      "description": "Complete Sweden, Norway, Denmark, and Finland broadcast mix with Viaplay and C More premium add-ons.",
+      "highlights": [
+        "Viaplay Sport, TV2 Sport, C More Live, V Sport Hockey",
+        "SVT 1/2, TV4, DR1/2, NRK 1/2/3, YLE TV1/TV2",
+        "TV3, TV6, HBO Nordic, Disney Channel, Nickelodeon"
+      ],
+      "stats": {
+        "channels": "2,800+",
+        "vod": "1,500+",
+        "sports": "250+",
+        "streams": "3 concurrent",
+        "catchup": "7 days"
+      },
+      "pricing": {
+        "monthly": "$16.99",
+        "quarterly": "$46.99",
+        "yearly": "$169.99"
+      },
+      "features": [
+        "Viaplay & C More included",
+        "7-day catch-up",
+        "3 concurrent streams",
+        "Nordic sports coverage"
+      ],
+      "urls": {
+        "channel": "channel-scandinavia.html",
+        "epg": "epg-scandinavia.html",
+        "channelList": "./channel-lists/iptv/scandinavia.html",
+        "product": "#scandinavia-package",
+        "purchase": "https://www.lazada.co.th/products/i5910375334.html"
+      },
+      "keywords": "scandinavia sweden norway denmark finland nordic viaplay",
+      "categorySlug": "scandinavia"
+    },
+    {
+      "id": "netherlands",
+      "name": "Dutch IPTV Complete",
+      "shortName": "Netherlands TV",
+      "flag": "🇳🇱",
+      "region": "Netherlands",
+      "regionCode": "NL · BE",
+      "description": "Eredivisie football, RTL, NPO, and Ziggo Sport with Flemish crossover channels.",
+      "highlights": [
+        "Ziggo Sport, Fox Sports Eredivisie, ESPN NL",
+        "NPO 1/2/3, RTL 4/5/7/8, SBS 6/9, Veronica, NET5",
+        "Film1, Videoland, RTL Crime, Comedy Central NL"
+      ],
+      "stats": {
+        "channels": "2,200+",
+        "vod": "1,200+",
+        "sports": "180+",
+        "streams": "2 concurrent",
+        "catchup": "5 days"
+      },
+      "pricing": {
+        "monthly": "$15.99",
+        "quarterly": "$43.99",
+        "yearly": "$159.99"
+      },
+      "features": [
+        "Eredivisie football coverage",
+        "5-day catch-up",
+        "2 concurrent streams",
+        "Dutch & Flemish content"
+      ],
+      "urls": {
+        "channel": "channel-netherlands.html",
+        "epg": "epg-netherlands.html",
+        "channelList": "./channel-lists/iptv/netherlands.html",
+        "product": "#netherlands-package",
+        "purchase": "https://www.lazada.co.th/products/i5910335682.html"
+      },
+      "keywords": "netherlands dutch holland eredivisie ziggo",
+      "categorySlug": "netherlands"
+    },
+    {
+      "id": "latin",
+      "name": "LATAM Sports & Novelas",
+      "shortName": "Latin TV",
+      "flag": "🇲🇽",
+      "region": "Latin America",
+      "regionCode": "MX · CL · AR · BR",
+      "description": "Spanish and Portuguese mega-pack spanning fútbol, novelas, kids, and news with bilingual UX and billing.",
+      "highlights": [
+        "ESPN Deportes, Fox Sports, TUDN, Claro Sports, TyC Sports",
+        "Televisa/Las Estrellas, TV Azteca, Univision, Telemundo, Globo",
+        "TLNovelas, Pasiones, Discovery Kids, Cartoon Network"
+      ],
+      "stats": {
+        "channels": "4,500+",
+        "vod": "2,500+",
+        "sports": "400+",
+        "streams": "3 concurrent",
+        "catchup": "7 days"
+      },
+      "pricing": {
+        "monthly": "$18.99",
+        "quarterly": "$52.99",
+        "yearly": "$189.99"
+      },
+      "features": [
+        "Liga MX, Copa Libertadores",
+        "7-day catch-up",
+        "3 concurrent streams",
+        "Spanish & Portuguese"
+      ],
+      "urls": {
+        "channel": "channel-latin.html",
+        "epg": "epg-latin.html",
+        "channelList": "./channel-lists/iptv/latin.html",
+        "product": "#latin-package",
+        "purchase": "https://www.lazada.co.th/products/i5910398913.html"
+      },
+      "keywords": "latin america mexico spanish latino hispanic novelas futbol",
+      "categorySlug": "latin"
+    },
+    {
+      "id": "italy",
+      "name": "Italian Serie A IPTV",
+      "shortName": "Italy TV",
+      "flag": "🇮🇹",
+      "region": "Italy",
+      "regionCode": "IT · SM",
+      "description": "Serie A, Mediaset, and Sky Italia channels packaged with cinema, kids, and variety networks ready to deploy.",
+      "highlights": [
+        "DAZN Zona, Sky Sport Calcio, Sky Sport Uno, NOW Sports",
+        "Rai 1-5, Rai News 24, Mediaset Infinity, Canale 5, Italia 1",
+        "Sky Cinema, Premium Cinema, Cartoonito, Boomerang"
+      ],
+      "stats": {
+        "channels": "3,200+",
+        "vod": "1,800+",
+        "sports": "280+",
+        "streams": "2 concurrent",
+        "catchup": "7 days"
+      },
+      "pricing": {
+        "monthly": "$17.99",
+        "quarterly": "$49.99",
+        "yearly": "$179.99"
+      },
+      "features": [
+        "Serie A complete coverage",
+        "7-day catch-up",
+        "2 concurrent streams",
+        "4K quality available"
+      ],
+      "urls": {
+        "channel": "channel-italy.html",
+        "epg": "epg-italy.html",
+        "channelList": "./channel-lists/iptv/italy.html",
+        "product": "#italy-package",
+        "purchase": "https://www.lazada.co.th/products/i5910394484.html"
+      },
+      "keywords": "italy italian italia serie a dazn sky",
+      "badge": "Premium IPTV",
+      "categorySlug": "italy"
+    },
+    {
+      "id": "france",
+      "name": "France IPTV Collective",
+      "shortName": "France TV",
+      "flag": "🇫🇷",
+      "region": "France",
+      "regionCode": "FR · BE · CH",
+      "description": "Canal+, beIN Sports, and national broadcasters in a latency-optimized lineup built for francophone viewers.",
+      "highlights": [
+        "Canal+ Sport/Cinema/Séries, beIN Sports 1-3, RMC Sport",
+        "TF1, France 2/3/4/5, M6, W9, TMC, Arte, Gulli",
+        "OCS movies, Série Club, Paris Première, 13ème Rue"
+      ],
+      "stats": {
+        "channels": "3,800+",
+        "vod": "2,200+",
+        "sports": "320+",
+        "streams": "2-4 configurable",
+        "catchup": "10 days"
+      },
+      "pricing": {
+        "monthly": "$18.99",
+        "quarterly": "$52.99",
+        "yearly": "$189.99"
+      },
+      "features": [
+        "Ligue 1 & Champions League",
+        "10-day catch-up",
+        "Up to 4 concurrent streams",
+        "Canal+ included"
+      ],
+      "urls": {
+        "channel": "channel-france.html",
+        "epg": "epg-france.html",
+        "channelList": "./channel-lists/iptv/france.html",
+        "product": "#france-package",
+        "purchase": "https://www.lazada.co.th/products/i5910416482.html"
+      },
+      "keywords": "france french français canal bein ligue",
+      "categorySlug": "france"
+    },
+    {
+      "id": "india",
+      "name": "India Cricket & Cinema",
+      "shortName": "India TV",
+      "flag": "🇮🇳",
+      "region": "India",
+      "regionCode": "IN · SAARC · GCC",
+      "description": "Hindi, Tamil, Telugu, and English channel mix with full cricket calendar, premium movies, and OTT apps.",
+      "highlights": [
+        "Star Sports 1 HD (Hindi/English/Tamil/Telugu), Sony Sports",
+        "Zee TV, Colors, Star Plus, Sony SET, Sun TV, Asianet",
+        "Regional news & movies: Aaj Tak, NDTV, Republic, ABP"
+      ],
+      "stats": {
+        "channels": "5,500+",
+        "vod": "3,500+",
+        "sports": "450+",
+        "streams": "2 concurrent",
+        "catchup": "7 days"
+      },
+      "pricing": {
+        "monthly": "$16.99",
+        "quarterly": "$46.99",
+        "yearly": "$169.99"
+      },
+      "features": [
+        "IPL & international cricket",
+        "7-day catch-up",
+        "2 concurrent streams",
+        "Multi-language support"
+      ],
+      "urls": {
+        "channel": "channel-india.html",
+        "epg": "epg-india.html",
+        "channelList": "./channel-lists/iptv/india.html",
+        "product": "#india-package",
+        "purchase": "https://www.lazada.co.th/products/i5910424055.html"
+      },
+      "keywords": "india indian hindi cricket bollywood star sports",
+      "categorySlug": "india"
+    },
+    {
+      "id": "world",
+      "name": "International IPTV Mix",
+      "shortName": "World TV",
+      "flag": "🌍",
+      "region": "International",
+      "regionCode": "Global",
+      "description": "Multi-lingual worldwide package with channels from 150+ countries including Middle East, Asia, Africa, and more.",
+      "highlights": [
+        "International sports: beIN MENA, SuperSport, Fox Sports Asia",
+        "News networks: BBC World, CNN International, Al Jazeera, CGTN",
+        "Entertainment from 150+ countries in 40+ languages"
+      ],
+      "stats": {
+        "channels": "8,000+",
+        "vod": "4,000+",
+        "sports": "600+",
+        "streams": "3 concurrent",
+        "catchup": "5 days"
+      },
+      "pricing": {
+        "monthly": "$22.99",
+        "quarterly": "$62.99",
+        "yearly": "$229.99"
+      },
+      "features": [
+        "150+ countries coverage",
+        "5-day catch-up",
+        "3 concurrent streams",
+        "40+ languages"
+      ],
+      "urls": {
+        "channel": "channel-world.html",
+        "epg": "epg-world.html",
+        "channelList": "./channel-lists/iptv/world.html",
+        "product": "#world-package",
+        "purchase": "https://www.lazada.co.th/products/i5910430291.html"
+      },
+      "keywords": "world international global multilingual bein supersport",
+      "badge": "Premium IPTV",
+      "categorySlug": "world"
+    }
+  ],
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-11-16",
+    "totalPackages": 9,
+    "totalChannels": "30,000+",
+    "totalVOD": "10,000+"
+  }
+}
