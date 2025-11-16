@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scandinavia TV Guide | IPTV EPG Schedule</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .back-button {
+            background: white;
+            color: #667eea;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            transition: all 0.3s;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .back-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+        }
+
+        .header {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .package-title {
+            font-size: 2.5rem;
+            color: #333;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .package-title .flag {
+            font-size: 3rem;
+        }
+
+        .package-desc {
+            color: #666;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+        }
+
+        .date-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .stats {
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .loading {
+            background: white;
+            border-radius: 12px;
+            padding: 60px;
+            text-align: center;
+            font-size: 1.3rem;
+            color: #667eea;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .loading::after {
+            content: '...';
+            animation: dots 1.5s steps(3, end) infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
+        }
+
+        .error {
+            background: white;
+            border-radius: 12px;
+            padding: 60px;
+            text-align: center;
+            font-size: 1.2rem;
+            color: #dc3545;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .channel-section {
+            background: white;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .channel-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px 25px;
+            cursor: pointer;
+            font-size: 1.2rem;
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: opacity 0.3s;
+        }
+
+        .channel-header:hover {
+            opacity: 0.95;
+        }
+
+        .channel-header .arrow {
+            font-size: 1.2rem;
+            transition: transform 0.3s;
+        }
+
+        .channel-header.collapsed .arrow {
+            transform: rotate(-90deg);
+        }
+
+        .programs-list {
+            padding: 25px;
+            background: #f8f9fa;
+        }
+
+        .programs-list.collapsed {
+            display: none;
+        }
+
+        .program-item {
+            background: white;
+            padding: 18px;
+            border-radius: 10px;
+            margin-bottom: 12px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+            transition: all 0.3s;
+        }
+
+        .program-item:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.12);
+            transform: translateY(-2px);
+        }
+
+        .program-time {
+            font-size: 1.05rem;
+            font-weight: 600;
+            color: #667eea;
+            margin-bottom: 8px;
+        }
+
+        .program-title {
+            font-size: 1.15rem;
+            color: #333;
+            font-weight: 600;
+            margin-bottom: 6px;
+        }
+
+        .program-desc {
+            font-size: 0.95rem;
+            color: #666;
+            line-height: 1.5;
+        }
+
+        .no-programs {
+            text-align: center;
+            padding: 30px;
+            color: #999;
+            font-style: italic;
+        }
+
+        @media (max-width: 768px) {
+            .package-title {
+                font-size: 2rem;
+            }
+
+            .stats {
+                flex-direction: column;
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="tv-guide.html" class="back-button">← Back to All Packages</a>
+
+        <div class="header">
+            <div class="package-title">
+                <span class="flag">🇸🇪</span>
+                <span>Scandinavia TV Guide</span>
+            </div>
+            <p class="package-desc">View program schedules and EPG for Scandinavia TV channels</p>
+            <div class="date-badge" id="dateBadge">Loading...</div>
+            <div class="stats" id="stats">
+                <div class="stat-item">
+                    <span class="stat-value" id="totalChannels">-</span>
+                    <span class="stat-label">Channels</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="totalPrograms">-</span>
+                    <span class="stat-label">Total Programs</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="todayPrograms">-</span>
+                    <span class="stat-label">Today's Programs</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="content">
+            <div class="loading">Loading TV guide</div>
+        </div>
+    </div>
+
+    <script>
+        const EPG_URL = "https://xapi-ie.cc/xmltv.php?username=sqMHqa7grmDt&password=4mwXyavY4";
+
+        // Parse XMLTV timestamp
+        function parseXMLTVTime(timeStr) {
+            if (!timeStr) return null;
+            const year = timeStr.substring(0, 4);
+            const month = timeStr.substring(4, 6);
+            const day = timeStr.substring(6, 8);
+            const hour = timeStr.substring(8, 10);
+            const minute = timeStr.substring(10, 12);
+            const second = timeStr.substring(12, 14);
+            return new Date(Date.UTC(year, month - 1, day, hour, minute, second));
+        }
+
+        // Format time for display
+        function formatTime(date) {
+            if (!date) return '';
+            return date.toLocaleTimeString('en-US', {
+                hour: '2-digit',
+                minute: '2-digit',
+                hour12: false
+            });
+        }
+
+        // Format date for display
+        function formatDate(date) {
+            if (!date) return '';
+            return date.toLocaleDateString('en-US', {
+                weekday: 'long',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+        }
+
+        // Check if program is today
+        function isToday(date) {
+            if (!date) return false;
+            const today = new Date();
+            return date.getDate() === today.getDate() &&
+                   date.getMonth() === today.getMonth() &&
+                   date.getFullYear() === today.getFullYear();
+        }
+
+        // Parse XMLTV content
+        function parseXMLTV(xmlText) {
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+
+            const parserError = xmlDoc.querySelector('parsererror');
+            if (parserError) {
+                throw new Error('XML parsing error');
+            }
+
+            const channels = {};
+            const channelElements = xmlDoc.querySelectorAll('channel');
+            channelElements.forEach(channel => {
+                const id = channel.getAttribute('id');
+                const displayName = channel.querySelector('display-name');
+                if (id && displayName) {
+                    channels[id] = {
+                        id: id,
+                        name: displayName.textContent,
+                        programs: []
+                    };
+                }
+            });
+
+            const programElements = xmlDoc.querySelectorAll('programme');
+            programElements.forEach(program => {
+                const channelId = program.getAttribute('channel');
+                const start = parseXMLTVTime(program.getAttribute('start'));
+                const stop = parseXMLTVTime(program.getAttribute('stop'));
+                const title = program.querySelector('title');
+                const desc = program.querySelector('desc');
+
+                if (channelId && channels[channelId] && start) {
+                    channels[channelId].programs.push({
+                        start: start,
+                        stop: stop,
+                        title: title ? title.textContent : 'No Title',
+                        description: desc ? desc.textContent : ''
+                    });
+                }
+            });
+
+            Object.keys(channels).forEach(channelId => {
+                channels[channelId].programs.sort((a, b) => a.start - b.start);
+            });
+
+            return channels;
+        }
+
+        // Toggle channel visibility
+        function toggleChannel(channelId) {
+            const header = document.getElementById(`header-${channelId}`);
+            const list = document.getElementById(`list-${channelId}`);
+            header.classList.toggle('collapsed');
+            list.classList.toggle('collapsed');
+        }
+
+        // Load and display EPG
+        async function loadEPG() {
+            const content = document.getElementById('content');
+
+            try {
+                const response = await fetch(EPG_URL);
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const xmlContent = await response.text();
+                const channels = parseXMLTV(xmlContent);
+                const channelIds = Object.keys(channels);
+
+                if (channelIds.length === 0) {
+                    content.innerHTML = '<div class="error">No channels found in this EPG.</div>';
+                    return;
+                }
+
+                // Calculate stats
+                let totalPrograms = 0;
+                let todayPrograms = 0;
+
+                channelIds.forEach(channelId => {
+                    const channelPrograms = channels[channelId].programs;
+                    totalPrograms += channelPrograms.length;
+                    channelPrograms.forEach(program => {
+                        if (isToday(program.start)) {
+                            todayPrograms++;
+                        }
+                    });
+                });
+
+                // Update header
+                const today = new Date();
+                document.getElementById('dateBadge').textContent = formatDate(today);
+                document.getElementById('totalChannels').textContent = channelIds.length;
+                document.getElementById('totalPrograms').textContent = totalPrograms;
+                document.getElementById('todayPrograms').textContent = todayPrograms;
+
+                // Build HTML
+                const sortedChannelIds = channelIds.sort((a, b) => {
+                    return channels[a].name.localeCompare(channels[b].name);
+                });
+
+                let html = '';
+
+                sortedChannelIds.forEach((channelId, index) => {
+                    const channel = channels[channelId];
+                    const divId = `channel-${index}`;
+
+                    let displayPrograms = channel.programs.filter(p => isToday(p.start));
+                    if (displayPrograms.length === 0) {
+                        displayPrograms = channel.programs.slice(0, 10);
+                    }
+
+                    html += `
+                        <div class="channel-section">
+                            <div class="channel-header" id="header-${divId}" onclick="toggleChannel('${divId}')">
+                                <span>${channel.name} (${displayPrograms.length} programs)</span>
+                                <span class="arrow">▼</span>
+                            </div>
+                            <div class="programs-list" id="list-${divId}">
+                                ${displayPrograms.length > 0 ?
+                                    displayPrograms.map(program => `
+                                        <div class="program-item">
+                                            <div class="program-time">
+                                                🕐 ${formatTime(program.start)}${program.stop ? ` – ${formatTime(program.stop)}` : ''}
+                                            </div>
+                                            <div class="program-title">${program.title}</div>
+                                            ${program.description ?
+                                                `<div class="program-desc">${program.description}</div>` :
+                                                ''
+                                            }
+                                        </div>
+                                    `).join('') :
+                                    '<div class="no-programs">No programs scheduled</div>'
+                                }
+                            </div>
+                        </div>
+                    `;
+                });
+
+                content.innerHTML = html;
+
+            } catch (error) {
+                console.error('Error loading EPG:', error);
+                content.innerHTML = `
+                    <div class="error">
+                        <p>Failed to load TV guide.</p>
+                        <p style="font-size: 0.9rem; margin-top: 10px;">Error: ${error.message}</p>
+                        <p style="font-size: 0.85rem; margin-top: 10px; color: #666;">This may be due to CORS restrictions or invalid XML format.</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Load on page load
+        loadEPG();
+    </script>
+</body>
+</html>

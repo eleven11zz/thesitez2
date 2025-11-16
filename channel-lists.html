@@ -289,195 +289,31 @@
         <div class="packages-grid" id="packagesGrid">
             <!-- Package cards will be generated here -->
         </div>
-
-        <div class="channels-container" id="channelsContainer">
-            <button class="back-button" onclick="showPackages()">← Back to Packages</button>
-            <div class="package-title" id="packageTitle"></div>
-            <div class="stats" id="packageStats"></div>
-            <div id="channelsContent"></div>
-        </div>
     </div>
 
     <script>
         const packages = [
-            { name: "English TV", flag: "🇬🇧", url: "https://xapi-ie.cc/get.php?username=3fpHpDS7zx&password=7xEvw6MVWYq&type=m3u_plus" },
-            { name: "Germany TV", flag: "🇩🇪", url: "https://xapi-ie.cc/get.php?username=8HomQJuW4zBP&password=oqhBhx6en&type=m3u_plus" },
-            { name: "Scandinavia TV", flag: "🇸🇪", url: "https://xapi-ie.cc/get.php?username=sqMHqa7grmDt&password=4mwXyavY4&type=m3u_plus" },
-            { name: "Netherlands TV", flag: "🇳🇱", url: "https://xapi-ie.cc/get.php?username=MeNpSpaffF&password=9UvBfKpSS&type=m3u_plus" },
-            { name: "Latin TV", flag: "🇲🇽", url: "https://xapi-ie.cc/get.php?username=MeNpSpaffF&password=9UvBfKpSS&type=m3u_plus" },
-            { name: "Italy TV", flag: "🇮🇹", url: "https://xapi-ie.cc/get.php?username=kbRqtLeSF2F&password=6yVvpLGAtPNh&type=m3u_plus" },
-            { name: "France TV", flag: "🇫🇷", url: "https://xapi-ie.cc/get.php?username=kbRqtLeSF2F&password=6yVvpLGAtPNh&type=m3u_plus" },
-            { name: "India TV", flag: "🇮🇳", url: "https://xapi-ie.cc/get.php?username=MeNpSpaffF&password=9UvBfKpSS&type=m3u_plus" },
-            { name: "World TV", flag: "🌍", url: "https://xapi-ie.cc/get.php?username=tcaESVTeeqkUQ&password=fgFZH2tFMa9&type=m3u_plus" }
+            { name: "English TV", flag: "🇬🇧", url: "channel-english.html" },
+            { name: "Germany TV", flag: "🇩🇪", url: "channel-german.html" },
+            { name: "Scandinavia TV", flag: "🇸🇪", url: "channel-scandinavia.html" },
+            { name: "Netherlands TV", flag: "🇳🇱", url: "channel-netherlands.html" },
+            { name: "Latin TV", flag: "🇲🇽", url: "channel-latin.html" },
+            { name: "Italy TV", flag: "🇮🇹", url: "channel-italy.html" },
+            { name: "France TV", flag: "🇫🇷", url: "channel-france.html" },
+            { name: "India TV", flag: "🇮🇳", url: "channel-india.html" },
+            { name: "World TV", flag: "🌍", url: "channel-world.html" }
         ];
 
         // Initialize packages grid
         function initPackages() {
             const grid = document.getElementById('packagesGrid');
-            grid.innerHTML = packages.map((pkg, index) => `
-                <div class="package-card" onclick="loadPackage(${index})">
+            grid.innerHTML = packages.map((pkg) => `
+                <a href="${pkg.url}" class="package-card" style="text-decoration: none;">
                     <div class="flag">${pkg.flag}</div>
                     <h3>${pkg.name}</h3>
-                    <button>View Channels</button>
-                </div>
+                    <button type="button">View Channels</button>
+                </a>
             `).join('');
-        }
-
-        // Parse M3U content
-        function parseM3U(content) {
-            const lines = content.split('\n');
-            const channels = [];
-            let currentChannel = {};
-
-            for (let i = 0; i < lines.length; i++) {
-                const line = lines[i].trim();
-
-                if (line.startsWith('#EXTINF:')) {
-                    // Parse channel info
-                    const tvgNameMatch = line.match(/tvg-name="([^"]*)"/);
-                    const tvgLogoMatch = line.match(/tvg-logo="([^"]*)"/);
-                    const groupTitleMatch = line.match(/group-title="([^"]*)"/);
-                    const nameMatch = line.match(/,(.+)$/);
-
-                    currentChannel = {
-                        name: nameMatch ? nameMatch[1].trim() : 'Unknown Channel',
-                        tvgName: tvgNameMatch ? tvgNameMatch[1] : '',
-                        logo: tvgLogoMatch ? tvgLogoMatch[1] : '',
-                        group: groupTitleMatch ? groupTitleMatch[1] : 'Other'
-                    };
-                } else if (line && !line.startsWith('#') && currentChannel.name) {
-                    // This is the stream URL line, save the channel and reset
-                    channels.push(currentChannel);
-                    currentChannel = {};
-                }
-            }
-
-            return channels;
-        }
-
-        // Group channels by group-title
-        function groupChannels(channels) {
-            const groups = {};
-
-            channels.forEach(channel => {
-                const groupName = channel.group || 'Other';
-                if (!groups[groupName]) {
-                    groups[groupName] = [];
-                }
-                groups[groupName].push(channel);
-            });
-
-            return groups;
-        }
-
-        // Toggle group visibility
-        function toggleGroup(groupId) {
-            const header = document.getElementById(`header-${groupId}`);
-            const list = document.getElementById(`list-${groupId}`);
-
-            header.classList.toggle('collapsed');
-            list.classList.toggle('collapsed');
-        }
-
-        // Load and display package channels
-        async function loadPackage(index) {
-            const pkg = packages[index];
-            const container = document.getElementById('channelsContainer');
-            const content = document.getElementById('channelsContent');
-            const title = document.getElementById('packageTitle');
-            const stats = document.getElementById('packageStats');
-
-            // Show container and loading state
-            document.getElementById('packagesGrid').style.display = 'none';
-            container.classList.add('active');
-            title.innerHTML = `<span class="flag">${pkg.flag}</span> ${pkg.name}`;
-            stats.innerHTML = '';
-            content.innerHTML = '<div class="loading">Loading channels</div>';
-
-            try {
-                // Fetch M3U file
-                const response = await fetch(pkg.url);
-
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-
-                const m3uContent = await response.text();
-
-                // Parse and group channels
-                const channels = parseM3U(m3uContent);
-                const groupedChannels = groupChannels(channels);
-
-                // Display channels
-                if (Object.keys(groupedChannels).length === 0) {
-                    content.innerHTML = '<div class="error">No channels found in this package.</div>';
-                    return;
-                }
-
-                // Show stats
-                const totalChannels = channels.length;
-                const totalGroups = Object.keys(groupedChannels).length;
-                stats.innerHTML = `
-                    <div class="stat-item">
-                        <div class="stat-value">${totalChannels}</div>
-                        <div class="stat-label">Total Channels</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-value">${totalGroups}</div>
-                        <div class="stat-label">Categories</div>
-                    </div>
-                `;
-
-                let html = '';
-                let groupIndex = 0;
-
-                // Sort groups alphabetically
-                const sortedGroups = Object.keys(groupedChannels).sort();
-
-                sortedGroups.forEach(groupName => {
-                    const groupChannels = groupedChannels[groupName];
-                    const groupId = `group-${index}-${groupIndex}`;
-
-                    html += `
-                        <div class="group-section">
-                            <div class="group-header" id="header-${groupId}" onclick="toggleGroup('${groupId}')">
-                                <span>${groupName} (${groupChannels.length} channels)</span>
-                                <span class="arrow">▼</span>
-                            </div>
-                            <div class="channels-list" id="list-${groupId}">
-                                ${groupChannels.map(channel => `
-                                    <div class="channel-item">
-                                        ${channel.logo ?
-                                            `<img src="${channel.logo}" alt="${channel.name}" class="channel-logo" onerror="this.outerHTML='<div class=\\'channel-logo placeholder\\'>📺</div>'">` :
-                                            `<div class="channel-logo placeholder">📺</div>`
-                                        }
-                                        <div class="channel-name">${channel.name}</div>
-                                    </div>
-                                `).join('')}
-                            </div>
-                        </div>
-                    `;
-                    groupIndex++;
-                });
-
-                content.innerHTML = html;
-
-            } catch (error) {
-                console.error('Error loading channels:', error);
-                content.innerHTML = `
-                    <div class="error">
-                        <p>Failed to load channels.</p>
-                        <p style="font-size: 0.9rem; margin-top: 10px;">Error: ${error.message}</p>
-                        <p style="font-size: 0.85rem; margin-top: 10px; color: #666;">This may be due to CORS restrictions. The M3U file needs to allow cross-origin requests.</p>
-                    </div>
-                `;
-            }
-        }
-
-        // Show packages grid
-        function showPackages() {
-            document.getElementById('packagesGrid').style.display = 'grid';
-            document.getElementById('channelsContainer').classList.remove('active');
         }
 
         // Initialize on page load
