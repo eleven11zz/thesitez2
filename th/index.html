@@ -2076,24 +2076,26 @@ body {
 <link rel="stylesheet" href="../assets/css/accessibility.css"/>
 <!-- Mobile Responsiveness & CTA Improvements - Enhanced visibility and mobile-first design -->
 <link rel="stylesheet" href="../assets/css/mobile-cta-improvements.css"/>
+<!-- UI/UX Audit Fixes - November 2025 - CTA prominence, whitespace, mobile optimization -->
+<link rel="stylesheet" href="../assets/css/ui-ux-audit-fixes.css"/>
 </head>
 <body>
-<!-- Skip to main content for keyboard users -->
+<!-- ข้ามไปยังเนื้อหาหลักสำหรับผู้ใช้แป้นพิมพ์ -->
 <a href="#main-content" class="skip-to-main">ข้ามไปยังเนื้อหาหลัก</a>
 
 <header class="site-header" role="banner">
   <div class="container header-inner">
-    <a href="#hero" class="brand" aria-label="TVMaster VIP - Return to homepage">
-      <img src="../assets/footer_picture.png" alt="TVMaster VIP logo - Premium IPTV Service" class="header-logo" loading="lazy" decoding="async">
+    <a href="#hero" class="brand" aria-label="TVMaster VIP - กลับไปหน้าแรก">
+      <img src="../assets/footer_picture.png" alt="โลโก้ TVMaster VIP - บริการ IPTV พรีเมียม" class="header-logo" loading="lazy" decoding="async">
       <span class="brand-text">TVMaster</span>
     </a>
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="เปิดเมนูนำทาง">
       <span class="sr-only">สลับการนำทาง</span>
       <span></span>
       <span></span>
       <span></span>
     </button>
-    <nav class="main-nav" id="primary-nav" role="navigation" aria-label="Primary navigation">
+    <nav class="main-nav" id="primary-nav" role="navigation" aria-label="การนำทางหลัก">
       <a href="#hero">หน้าแรก</a>
       <a href="../channel-lists.html">ช่อง</a>
       <a href="../epg.html">คู่มือทีวี</a>
@@ -2119,6 +2121,7 @@ body {
           <p class="hero-description">สัมผัสประสบการณ์ TVMaster VIP บริการ IPTV ระดับพรีเมียมที่นำเสนอช่องทีวีสด 30,000+ ช่อง เครือข่ายกีฬา 3,000+ ช่อง และภาพยนตร์ 10,000+ เรื่องบนทุกอุปกรณ์ เพลิดเพลินกับการเปิดใช้งานทันที ไม่มีบัฟเฟอร์ด้วยอัพไทม์ 99.9% และการสนับสนุนจากผู้เชี่ยวชาญตลอด 24/7 ทดลองใช้การสมัครสมาชิก IPTV ของเราฟรีไม่มีความเสี่ยงด้วยการทดลองใช้ 7 วัน!</p>
           <div class="hero-cta-group">
             <a class="hero-primary-cta shine" href="#products">เริ่มทดลองใช้ฟรี</a>
+            <a class="hero-secondary-cta" href="../sports/live.html">See Live Demo</a>
             <a class="hero-secondary-cta" href="#contact">ดูแพ็กเกจ</a>
           </div>
         </div>
@@ -2137,20 +2140,40 @@ body {
       </div>
       <div class="hero-metrics">
         <div class="metric-card">
-          <span class="metric-value" data-target="30" data-suffix="K+" data-decimals="0">0</span>
+          <span class="metric-value" data-target="30" data-suffix="K+" data-decimals="0">30K+</span>
           <span class="metric-label">ช่องสด</span>
         </div>
         <div class="metric-card">
-          <span class="metric-value" data-target="80" data-suffix="K+" data-decimals="0">0</span>
+          <span class="metric-value" data-target="80" data-suffix="K+" data-decimals="0">80K+</span>
           <span class="metric-label">รายการ VOD</span>
         </div>
         <div class="metric-card">
-          <span class="metric-value" data-target="24" data-suffix="/7" data-decimals="0">0</span>
+          <span class="metric-value" data-target="24" data-suffix="/7" data-decimals="0">24/7</span>
           <span class="metric-label">การสนับสนุนลำดับความสำคัญ</span>
         </div>
         <div class="metric-card">
-          <span class="metric-value" data-target="99.95" data-suffix="%" data-decimals="2">0</span>
+          <span class="metric-value" data-target="99.95" data-suffix="%" data-decimals="2">99.95%</span>
           <span class="metric-label">อัพไทม์ SLA</span>
+        </div>
+      </div>
+
+      <!-- Trust Badges - Added per UI/UX audit recommendation -->
+      <div class="trust-badges">
+        <div class="trust-badge">
+          <span class="trust-badge-icon">🎯</span>
+          <span>99.9% Uptime Guaranteed</span>
+        </div>
+        <div class="trust-badge">
+          <span class="trust-badge-icon">⚡</span>
+          <span>Instant Activation</span>
+        </div>
+        <div class="trust-badge">
+          <span class="trust-badge-icon">🌍</span>
+          <span>Global Coverage in 150+ Countries</span>
+        </div>
+        <div class="trust-badge">
+          <span class="trust-badge-icon">🔒</span>
+          <span>Secure Payment & Privacy</span>
         </div>
       </div>
     </div>
@@ -2715,23 +2738,23 @@ body {
     <div class="footer-grid">
       <!-- Brand Column -->
       <div class="footer-brand">
-        <img src="../assets/footer_picture.png" alt="TVMaster VIP logo - Premium IPTV Service" class="brand-logo" loading="lazy" decoding="async">
+        <img src="../assets/footer_picture.png" alt="โลโก้ TVMaster VIP - บริการ IPTV พรีเมียม" class="brand-logo" loading="lazy" decoding="async">
         <h3 class="footer-brand-title">TVMaster VIP</h3>
         <p class="footer-summary">บริการสตรีม IPTV ระดับพรีเมียมพร้อมช่องสด 30,000+ ช่อง คุณภาพ 4K ไม่มีบัฟเฟอร์ ได้รับความไว้วางใจจากลูกค้า 50,000+ คนทั่วโลก โครงสร้างพื้นฐานระดับองค์กรพร้อมการสนับสนุนตลอด 24/7</p>
         <div class="footer-social">
-          <a href="https://www.facebook.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Follow us on Facebook">
+          <a href="https://www.facebook.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="ติดตามเราบน Facebook">
             <i class="fab fa-facebook-f"></i>
           </a>
-          <a href="https://www.instagram.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Follow us on Instagram">
+          <a href="https://www.instagram.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="ติดตามเราบน Instagram">
             <i class="fab fa-instagram"></i>
           </a>
-          <a href="https://www.youtube.com/@tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Subscribe on YouTube">
+          <a href="https://www.youtube.com/@tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="สมัครสมาชิกบน YouTube">
             <i class="fab fa-youtube"></i>
           </a>
-          <a href="https://www.twitter.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Follow us on Twitter">
+          <a href="https://www.twitter.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="ติดตามเราบน Twitter">
             <i class="fab fa-twitter"></i>
           </a>
-          <a href="https://www.linkedin.com/company/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Connect on LinkedIn">
+          <a href="https://www.linkedin.com/company/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="เชื่อมต่อบน LinkedIn">
             <i class="fab fa-linkedin-in"></i>
           </a>
         </div>
@@ -2779,7 +2802,7 @@ body {
 
     <!-- Footer Bottom -->
     <div class="footer-bottom">
-      <p class="footer-note">© 2025 TVMaster VIP. All rights reserved.</p>
+      <p class="footer-note">© 2025 TVMaster VIP สงวนลิขสิทธิ์ทั้งหมด</p>
       <div class="footer-links">
         <!-- Privacy Policy -->
         <!-- Terms of Service -->
@@ -2993,7 +3016,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 <!-- Floating Language Switcher -->
 <div class="language-switcher floating">
-  <button class="current-lang" type="button" aria-label="Select language" aria-expanded="false">
+  <button class="current-lang" type="button" aria-label="เลือกภาษา" aria-expanded="false">
     🌐 TH
   </button>
   <div class="lang-dropdown" role="menu">
@@ -3038,5 +3061,28 @@ document.addEventListener('DOMContentLoaded', function() {
 <script src="../assets/js/phase1-features.js" defer></script>
 <script src="../assets/js/language-switcher.js" defer></script>
 <script src="../assets/js/navigation.js" defer></script>
+
+<!-- TVMaster VIP Chatbot -->
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@1.x.x/lib/index.js"></script>
+<script>
+  window.WebChat.default({
+    initPayload: "/greet",
+    customData: {"language": "en"},
+    socketUrl: "https://bot.tvmaster.work",
+    socketPath: "/socket.io/",
+    title: "TVMaster VIP",
+    subtitle: "We're online 24/7",
+    params: {
+      storage: "session"
+    },
+    showFullScreenButton: true,
+    profileAvatar: "https://eleven11zz.github.io/thesitez2/assets/footer_picture.png",
+    inputTextFieldHint: "Ask about channels, trials, pricing…",
+    tooltipPayload: "/greet",
+    tooltipDelay: 2000,
+    embedded: false
+  }, null);
+</script>
+
 </body>
 </html>

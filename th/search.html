@@ -116,7 +116,7 @@
   <link rel="stylesheet" href="../assets/css/language-switcher.css">
 </head>
 <body>
-<!-- Skip to main content for keyboard users -->
+<!-- ข้ามไปยังเนื้อหาหลักสำหรับผู้ใช้แป้นพิมพ์ -->
 <a href="#main-content" class="skip-to-main">ข้ามไปยังเนื้อหาหลัก</a>
 
   <div class="search-card">
@@ -150,7 +150,7 @@
   </script>
   <!-- Floating Language Switcher -->
   <div class="language-switcher floating">
-      <button class="current-lang" type="button" aria-label="Select language" aria-expanded="false">
+      <button class="current-lang" type="button" aria-label="เลือกภาษา" aria-expanded="false">
         🌐 TH
       </button>
       <div class="lang-dropdown" role="menu">
@@ -190,5 +190,28 @@
     </div>
   <script src="../assets/js/navigation.js" defer></script>
   <script src="../assets/js/language-switcher.js" defer></script>
+
+<!-- TVMaster VIP Chatbot -->
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@1.x.x/lib/index.js"></script>
+<script>
+  window.WebChat.default({
+    initPayload: "/greet",
+    customData: {"language": "en"},
+    socketUrl: "https://bot.tvmaster.work",
+    socketPath: "/socket.io/",
+    title: "TVMaster VIP",
+    subtitle: "We're online 24/7",
+    params: {
+      storage: "session"
+    },
+    showFullScreenButton: true,
+    profileAvatar: "https://eleven11zz.github.io/thesitez2/assets/footer_picture.png",
+    inputTextFieldHint: "Ask about channels, trials, pricing…",
+    tooltipPayload: "/greet",
+    tooltipDelay: 2000,
+    embedded: false
+  }, null);
+</script>
+
 </body>
 </html>

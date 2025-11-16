@@ -12,16 +12,16 @@
 <meta property="og:type" content="website"/>
 <meta property="og:url" content="https://web.tvmaster.vip/th/epg.html"/>
   <meta property="og:locale" content="th_TH"/>
-<meta property="og:title" content="TV Guide - Live EPG | TVMaster VIP"/>
-<meta property="og:description" content="Browse live TV schedules for 30,000+ channels. See what's on now and upcoming."/>
+<meta property="og:title" content="คู่มือทีวี - EPG สด | TVMaster VIP"/>
+<meta property="og:description" content="เรียกดูตารางรายการทีวีสดสำหรับช่องมากกว่า 30,000 ช่อง ดูรายการที่กำลังออกอากาศและรายการที่กำลังจะมาถึง"/>
 
 <!-- Structured Data for SEO -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "TV Guide - Electronic Program Guide",
-  "description": "Live TV schedule and program listings",
+  "name": "คู่มือทีวี - คู่มือรายการอิเล็กทรอนิกส์",
+  "description": "ตารางรายการทีวีสดและรายการต่างๆ",
   "provider": {
     "@type": "Organization",
     "name": "TVMaster VIP"
@@ -40,17 +40,17 @@
 <link rel="stylesheet" href="../assets/css/mobile-cta-improvements.css"/>
 </head>
 <body>
-<!-- Skip to main content -->
-<a href="#main-content" class="skip-to-main">Skip to main content</a>
+<!-- ข้ามไปยังเนื้อหาหลักสำหรับผู้ใช้แป้นพิมพ์ -->
+<a href="#main-content" class="skip-to-main">ข้ามไปยังเนื้อหาหลัก</a>
 
 <header class="site-header" role="banner">
   <div class="container header-inner">
-    <a href="./index.html" class="brand" aria-label="TVMaster VIP - Return to homepage">
-      <img src="../assets/footer_picture.png" alt="TVMaster VIP logo - Premium IPTV Service" class="header-logo" loading="eager" decoding="async">
+    <a href="./index.html" class="brand" aria-label="TVMaster VIP - กลับไปหน้าแรก">
+      <img src="../assets/footer_picture.png" alt="โลโก้ TVMaster VIP - บริการ IPTV พรีเมียม" class="header-logo" loading="eager" decoding="async">
       <span class="brand-text">TVMaster</span>
     </a>
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
-      <span class="sr-only">Toggle navigation</span>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="เปิดเมนูนำทาง">
+      <span class="sr-only">สลับการนำทาง</span>
       <span></span>
       <span></span>
       <span></span>
@@ -285,7 +285,7 @@
 
 <!-- Floating Language Switcher -->
 <div class="language-switcher floating">
-      <button class="current-lang" type="button" aria-label="Select language" aria-expanded="false">
+      <button class="current-lang" type="button" aria-label="เลือกภาษา" aria-expanded="false">
         🌐 TH
       </button>
       <div class="lang-dropdown" role="menu">
@@ -329,5 +329,28 @@
 <script src="../assets/js/epg-config.js" defer></script>
 <script src="../assets/js/epg-parser.js" defer></script>
 <script src="../assets/js/epg.js" defer></script>
+
+<!-- TVMaster VIP Chatbot -->
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@1.x.x/lib/index.js"></script>
+<script>
+  window.WebChat.default({
+    initPayload: "/greet",
+    customData: {"language": "en"},
+    socketUrl: "https://bot.tvmaster.work",
+    socketPath: "/socket.io/",
+    title: "TVMaster VIP",
+    subtitle: "We're online 24/7",
+    params: {
+      storage: "session"
+    },
+    showFullScreenButton: true,
+    profileAvatar: "https://eleven11zz.github.io/thesitez2/assets/footer_picture.png",
+    inputTextFieldHint: "Ask about channels, trials, pricing…",
+    tooltipPayload: "/greet",
+    tooltipDelay: 2000,
+    embedded: false
+  }, null);
+</script>
+
 </body>
 </html>

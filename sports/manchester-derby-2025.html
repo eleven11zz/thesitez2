@@ -404,5 +404,28 @@
 
   <script src="../assets/js/navigation.js" defer></script>
   <script src="../assets/js/language-switcher.js" defer></script>
+
+<!-- TVMaster VIP Chatbot -->
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@1.x.x/lib/index.js"></script>
+<script>
+  window.WebChat.default({
+    initPayload: "/greet",
+    customData: {"language": "en"},
+    socketUrl: "https://bot.tvmaster.work",
+    socketPath: "/socket.io/",
+    title: "TVMaster VIP",
+    subtitle: "We're online 24/7",
+    params: {
+      storage: "session"
+    },
+    showFullScreenButton: true,
+    profileAvatar: "https://eleven11zz.github.io/thesitez2/assets/footer_picture.png",
+    inputTextFieldHint: "Ask about channels, trials, pricing…",
+    tooltipPayload: "/greet",
+    tooltipDelay: 2000,
+    embedded: false
+  }, null);
+</script>
+
 </body>
 </html>

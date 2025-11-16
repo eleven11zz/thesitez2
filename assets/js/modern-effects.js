@@ -200,7 +200,7 @@ function initParallax() {
 // ============================================
 // 9. NUMBER COUNT-UP ANIMATION
 // ============================================
-function animateCountUp(element, target, duration = 2000) {
+function animateCountUp(element, target, duration = 2000, decimals = 0) {
   const start = 0;
   const increment = target / (duration / 16); // 60fps
   let current = start;
@@ -208,10 +208,18 @@ function animateCountUp(element, target, duration = 2000) {
   const timer = setInterval(() => {
     current += increment;
     if (current >= target) {
-      element.textContent = target.toLocaleString();
+      if (decimals > 0) {
+        element.textContent = target.toFixed(decimals);
+      } else {
+        element.textContent = Math.floor(target).toLocaleString();
+      }
       clearInterval(timer);
     } else {
-      element.textContent = Math.floor(current).toLocaleString();
+      if (decimals > 0) {
+        element.textContent = current.toFixed(decimals);
+      } else {
+        element.textContent = Math.floor(current).toLocaleString();
+      }
     }
   }, 16);
 }
@@ -220,9 +228,43 @@ function initCountUpAnimations() {
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting && !entry.target.dataset.counted) {
-        const target = parseInt(entry.target.dataset.countTo);
+        // Support data-count-to, data-count, and data-target attributes
+        const targetStr = entry.target.dataset.countTo || entry.target.dataset.count || entry.target.dataset.target;
+        const target = parseFloat(targetStr);
+        const decimals = parseInt(entry.target.dataset.decimals) || 0;
+        const duration = parseInt(entry.target.dataset.duration) || 2000;
+        const suffix = entry.target.dataset.suffix || '';
+
         if (!isNaN(target)) {
-          animateCountUp(entry.target, target);
+          // Store original text to restore if needed
+          const originalText = entry.target.textContent;
+
+          // Reset to 0 before animating
+          entry.target.textContent = '0';
+
+          // Animate with suffix support
+          const start = 0;
+          const increment = target / (duration / 16);
+          let current = start;
+
+          const timer = setInterval(() => {
+            current += increment;
+            if (current >= target) {
+              if (decimals > 0) {
+                entry.target.textContent = target.toFixed(decimals) + suffix;
+              } else {
+                entry.target.textContent = Math.floor(target).toLocaleString() + suffix;
+              }
+              clearInterval(timer);
+            } else {
+              if (decimals > 0) {
+                entry.target.textContent = current.toFixed(decimals) + suffix;
+              } else {
+                entry.target.textContent = Math.floor(current).toLocaleString() + suffix;
+              }
+            }
+          }, 16);
+
           entry.target.dataset.counted = 'true';
           observer.unobserve(entry.target);
         }
@@ -230,7 +272,8 @@ function initCountUpAnimations() {
     });
   }, { threshold: 0.5 });
 
-  document.querySelectorAll('[data-count-to]').forEach(el => {
+  // Observe elements with data-count-to, data-count, or data-target
+  document.querySelectorAll('[data-count-to], [data-count], [data-target]').forEach(el => {
     observer.observe(el);
   });
 }
