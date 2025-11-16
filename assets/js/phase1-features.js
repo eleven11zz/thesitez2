@@ -537,3 +537,41 @@ style.textContent = `
   }
 `;
 document.head.appendChild(style);
+
+// Testimonial Category Filtering
+document.addEventListener('DOMContentLoaded', function() {
+  const categoryTabs = document.querySelectorAll('.testimonial-tab');
+  const testimonialSlides = document.querySelectorAll('.swiper-slide[data-category]');
+
+  if (categoryTabs.length === 0 || testimonialSlides.length === 0) return;
+
+  categoryTabs.forEach(tab => {
+    tab.addEventListener('click', function() {
+      const selectedCategory = this.getAttribute('data-category');
+
+      // Update active tab
+      categoryTabs.forEach(t => t.classList.remove('active'));
+      this.classList.add('active');
+
+      // Filter testimonials
+      testimonialSlides.forEach(slide => {
+        const slideCategory = slide.getAttribute('data-category');
+
+        if (selectedCategory === 'all' || slideCategory === selectedCategory) {
+          slide.classList.remove('hidden');
+          slide.style.display = 'block';
+        } else {
+          slide.classList.add('hidden');
+          slide.style.display = 'none';
+        }
+      });
+
+      // Update Swiper if it exists
+      const testimonialsSwiper = document.querySelector('.testimonials-swiper');
+      if (testimonialsSwiper && testimonialsSwiper.swiper) {
+        testimonialsSwiper.swiper.update();
+        testimonialsSwiper.swiper.slideTo(0);
+      }
+    });
+  });
+});

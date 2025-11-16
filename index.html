@@ -250,6 +250,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
 <link rel="stylesheet" href="./assets/css/modern-effects.css"/>
 <link rel="stylesheet" href="./assets/css/phase1-features.css"/>
+<link rel="stylesheet" href="./assets/css/testimonial-categories.css"/>
 <style>
 /* Global layout tokens */
 :root {
@@ -2309,17 +2310,13 @@ body {
       <span></span>
     </button>
     <nav class="main-nav" id="primary-nav" role="navigation" aria-label="Primary navigation">
-      <a href="#hero">Home</a>
       <a href="./channel-lists.html">Channels</a>
-      <a href="./epg.html">TV Guide</a>
-      <a href="./sports/live.html">Live Hub</a>
-      <a href="./blog/iptv-vs-cable-2025.html">IPTV vs Cable</a>
-      <a href="./iptv-products.html">Products</a>
-      <a href="#quiz">Find Package</a>
+      <a href="./sports/live.html">Live Sports</a>
+      <a href="./iptv-products.html">Pricing</a>
       <a href="#testimonials">Reviews</a>
-      <a href="./blog.html">Blog</a>
-      <a href="./faq.html">FAQ</a>
-      <a class="header-cta" href="./iptv-products.html">Start Streaming</a>
+      <a href="./setup/index.html">Setup</a>
+      <a href="./faq.html">Help</a>
+      <a class="header-cta" href="./iptv-products.html">Start Free Trial</a>
     </nav>
   </div>
 </header>
@@ -2329,13 +2326,13 @@ body {
     <div class="hero-content">
       <div class="hero-grid">
         <div class="hero-text">
-          <h1 id="hero-heading" class="hero-heading gradient-text">Stream 30,000+ Channels in Stunning 4K</h1>
-          <p class="hero-subheading" role="doc-subtitle"><strong>Best IPTV Provider | Zero Buffering | Multi-Device Streaming</strong></p>
-          <p class="hero-description">Experience TVMaster VIP, the premium IPTV service delivering 30,000+ live TV channels, 3,000+ sports networks, and 10,000+ movies across every device. Enjoy instant activation, zero buffering with 99.9% uptime, and 24/7 expert support. Try our IPTV subscription risk-free with a 7-day trial!</p>
+          <h1 id="hero-heading" class="hero-heading gradient-text">Watch Anything. Anywhere. Instantly.</h1>
+          <p class="hero-subheading" role="doc-subtitle"><strong>Over 30,000 Live Channels and 80,000+ VODs. No Buffering. No Contracts.</strong></p>
+          <p class="hero-description">Experience premium IPTV streaming with crystal-clear 4K quality across every device. Get instant access to 30,000+ live channels, 3,000+ sports networks, and 80,000+ movies and shows. Zero buffering with 99.9% uptime guaranteed. 24/7 expert support. Start your risk-free 7-day trial today—no payment required!</p>
           <div class="hero-cta-group">
-            <a class="hero-primary-cta shine" href="#products">Start Free Trial</a>
-            <a class="hero-secondary-cta" href="./sports/live.html">See Live Demo</a>
-            <a class="hero-secondary-cta" href="#contact">View Packages</a>
+            <a class="hero-primary-cta shine" href="#products">Start Your Free Trial →</a>
+            <a class="hero-tertiary-cta" href="./sports/live.html">See Live Demo</a>
+            <a class="hero-tertiary-cta" href="#products">View Packages</a>
           </div>
         </div>
         <div class="hero-media">
@@ -2382,11 +2379,19 @@ body {
         </div>
         <div class="trust-badge">
           <span class="trust-badge-icon">🌍</span>
-          <span>Global Coverage in 150+ Countries</span>
+          <span>150+ Countries Served</span>
         </div>
         <div class="trust-badge">
           <span class="trust-badge-icon">🔒</span>
-          <span>Secure Payment & Privacy</span>
+          <span>256-bit SSL Encryption</span>
+        </div>
+        <div class="trust-badge">
+          <span class="trust-badge-icon">💳</span>
+          <span>Secure Payment Processing</span>
+        </div>
+        <div class="trust-badge">
+          <span class="trust-badge-icon">✓</span>
+          <span>Verified by 50,000+ Users</span>
         </div>
       </div>
     </div>
@@ -2750,65 +2755,124 @@ body {
   <section class="testimonials-section" id="testimonials">
     <div class="container">
       <h2>What Our Clients Say</h2>
+      <div class="testimonial-categories">
+        <button class="testimonial-tab active" data-category="all">All Reviews</button>
+        <button class="testimonial-tab" data-category="families">Families</button>
+        <button class="testimonial-tab" data-category="business">Businesses</button>
+        <button class="testimonial-tab" data-category="resellers">Resellers</button>
+      </div>
       <div class="swiper testimonials-swiper">
         <div class="swiper-wrapper">
-          <div class="swiper-slide">
+          <!-- Family Testimonials -->
+          <div class="swiper-slide" data-category="families">
             <div class="testimonial-card">
+              <div class="testimonial-flag">🇬🇧</div>
               <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-              <p class="testimonial-quote">“TVMaster transformed the way we deliver live sports to our customers. The streams are instant, reliable, and our cancellation rate has never been lower.”</p>
+              <p class="testimonial-quote">"Switched from cable 6 months ago and haven't looked back! Premier League coverage is flawless, zero buffering even during peak hours. Saving £120/month is just the cherry on top."</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">James Thompson</span>
+                <span class="testimonial-role">Sports Fan · Manchester, UK</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide" data-category="families">
+            <div class="testimonial-card">
+              <div class="testimonial-flag">🇺🇸</div>
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">"Best decision for our family! Kids watch Disney on their tablets, I catch NFL games on the TV, and my wife streams movies on her phone—all at the same time with crystal clear 4K quality."</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Michael Rodriguez</span>
+                <span class="testimonial-role">Family Subscriber · Austin, TX</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide" data-category="families">
+            <div class="testimonial-card">
+              <div class="testimonial-flag">🇫🇷</div>
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">"Setup took 5 minutes! Support walked me through everything via WhatsApp. Now I have Canal+, beIN Sports, and all French channels for less than half what I paid before."</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Sophie Dubois</span>
+                <span class="testimonial-role">Home User · Paris, France</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide" data-category="families">
+            <div class="testimonial-card">
+              <div class="testimonial-flag">🇪🇸</div>
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">"My parents love watching their telenovelas and I never miss a La Liga match. The TV guide makes it easy to find shows, and the recording feature is a game-changer!"</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Carlos Hernandez</span>
+                <span class="testimonial-role">Family User · Barcelona, Spain</span>
+              </div>
+            </div>
+          </div>
+          <!-- Business Testimonials -->
+          <div class="swiper-slide" data-category="business">
+            <div class="testimonial-card">
+              <div class="testimonial-icon">🏢</div>
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">"TVMaster transformed the way we deliver live sports to our customers. The streams are instant, reliable, and our cancellation rate has never been lower."</p>
               <div class="testimonial-footer">
                 <span class="testimonial-name">Amelia Navarro</span>
                 <span class="testimonial-role">Head of Operations · StreamWave Media</span>
               </div>
             </div>
           </div>
-          <div class="swiper-slide">
+          <div class="swiper-slide" data-category="business">
             <div class="testimonial-card">
+              <div class="testimonial-icon">🏨</div>
               <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-              <p class="testimonial-quote">“The Android TV boxes arrived ready to plug in with our branding, premium apps, and multilingual playlists. Our resellers call it the ‘done-for-you’ solution.”</p>
-              <div class="testimonial-footer">
-                <span class="testimonial-name">Luca Moretti</span>
-                <span class="testimonial-role">Channel Partner · EuroStream Italia</span>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="testimonial-card">
-              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-              <p class="testimonial-quote">“Zero buffering even during Premier League weekends, 24/7 support, and instant provisioning—TVMaster lets us focus on growth instead of troubleshooting.”</p>
-              <div class="testimonial-footer">
-                <span class="testimonial-name">Sofia Andersson</span>
-                <span class="testimonial-role">Founder · NordX IPTV</span>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="testimonial-card">
-              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-              <p class="testimonial-quote">“Within two weeks we migrated 12 hospitality sites. Guests now flip from Sky Sports to their home country news in seconds—support tickets dropped by 80%.”</p>
+              <p class="testimonial-quote">"Within two weeks we migrated 12 hospitality sites. Guests now flip from Sky Sports to their home country news in seconds—support tickets dropped by 80%."</p>
               <div class="testimonial-footer">
                 <span class="testimonial-name">Priya Malhotra</span>
                 <span class="testimonial-role">Group IT Director · Orion Hotels</span>
               </div>
             </div>
           </div>
-          <div class="swiper-slide">
+          <div class="swiper-slide" data-category="business">
             <div class="testimonial-card">
+              <div class="testimonial-icon">🚢</div>
               <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-              <p class="testimonial-quote">“The reseller automation bundle is a game changer. IPTV activations, renewals, invoices—everything fires without manual touch so we can scale faster.”</p>
-              <div class="testimonial-footer">
-                <span class="testimonial-name">Marcus Shaw</span>
-                <span class="testimonial-role">CEO · Velocity Streams</span>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="testimonial-card">
-              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-              <p class="testimonial-quote">“We needed cricket, Arabic news, and kids channels on every vessel. TVMaster’s global playlist hits all of them with flawless satellite backup.”</p>
+              <p class="testimonial-quote">"We needed cricket, Arabic news, and kids channels on every vessel. TVMaster's global playlist hits all of them with flawless satellite backup."</p>
               <div class="testimonial-footer">
                 <span class="testimonial-name">Noura Al-Harbi</span>
                 <span class="testimonial-role">Fleet Experience Lead · BlueWave Cruises</span>
+              </div>
+            </div>
+          </div>
+          <!-- Reseller Testimonials -->
+          <div class="swiper-slide" data-category="resellers">
+            <div class="testimonial-card">
+              <div class="testimonial-icon">📦</div>
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">"The Android TV boxes arrived ready to plug in with our branding, premium apps, and multilingual playlists. Our resellers call it the 'done-for-you' solution."</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Luca Moretti</span>
+                <span class="testimonial-role">Channel Partner · EuroStream Italia</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide" data-category="resellers">
+            <div class="testimonial-card">
+              <div class="testimonial-icon">🚀</div>
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">"Zero buffering even during Premier League weekends, 24/7 support, and instant provisioning—TVMaster lets us focus on growth instead of troubleshooting."</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Sofia Andersson</span>
+                <span class="testimonial-role">Founder · NordX IPTV</span>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide" data-category="resellers">
+            <div class="testimonial-card">
+              <div class="testimonial-icon">⚡</div>
+              <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+              <p class="testimonial-quote">"The reseller automation bundle is a game changer. IPTV activations, renewals, invoices—everything fires without manual touch so we can scale faster."</p>
+              <div class="testimonial-footer">
+                <span class="testimonial-name">Marcus Shaw</span>
+                <span class="testimonial-role">CEO · Velocity Streams</span>
               </div>
             </div>
           </div>

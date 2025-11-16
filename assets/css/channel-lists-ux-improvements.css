@@ -1,0 +1,473 @@
+/**
+ * Channels Page UX Improvements - November 2025
+ * Page 2 of 10: Channels Deep-Dive Audit
+ * Focus: Search visibility, user guidance, mobile optimization
+ */
+
+/* ========================================
+   1. HERO SECTION IMPROVEMENTS
+   ======================================== */
+
+.hero {
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1.25rem;
+  line-height: 1.2;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  opacity: 0.95;
+  max-width: 800px;
+  margin: 0 auto 2.5rem;
+}
+
+/* User Guidance - Step-by-Step */
+.hero-help-text {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.help-step {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.step-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: linear-gradient(135deg, #e50914 0%, #b20710 100%);
+  color: #fff;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 0.95rem;
+  box-shadow: 0 4px 12px rgba(229, 9, 20, 0.3);
+}
+
+/* ========================================
+   2. ENHANCED SEARCH INPUT
+   ======================================== */
+
+.channel-search {
+  position: relative;
+  flex: 1;
+  min-width: 300px;
+  max-width: 600px;
+}
+
+.search-icon {
+  position: absolute;
+  left: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 1.1rem;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.channel-search input[type="search"] {
+  width: 100%;
+  padding: 16px 50px 16px 52px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 2px solid rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.channel-search input[type="search"]:focus {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: #e50914;
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(229, 9, 20, 0.15), 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.channel-search input[type="search"]::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* Search Clear Button */
+.search-clear-btn {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  z-index: 2;
+}
+
+.search-clear-btn:hover {
+  background: rgba(229, 9, 20, 0.8);
+  color: #fff;
+  transform: translateY(-50%) scale(1.1);
+}
+
+.search-clear-btn.is-hidden {
+  display: none;
+}
+
+/* ========================================
+   3. ENHANCED EMPTY STATE
+   ======================================== */
+
+.empty-state {
+  text-align: center;
+  padding: 6rem 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.empty-state-icon {
+  font-size: 4rem;
+  color: rgba(229, 9, 20, 0.6);
+  margin-bottom: 1.5rem;
+  display: block;
+}
+
+.empty-state h3 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.empty-state p {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 2rem;
+}
+
+.empty-state-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 16px 32px;
+  background: linear-gradient(135deg, #e50914 0%, #b20710 100%);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 24px rgba(229, 9, 20, 0.3);
+}
+
+.empty-state-cta:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px rgba(229, 9, 20, 0.4);
+}
+
+/* ========================================
+   4. FILTER CHIP SCROLL INDICATORS
+   ======================================== */
+
+.filters,
+.group-filters {
+  position: relative;
+}
+
+/* Add scroll fade indicators */
+.filters::before,
+.filters::after,
+.group-filters::before,
+.group-filters::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 60px;
+  pointer-events: none;
+  z-index: 10;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.filters::before,
+.group-filters::before {
+  left: 0;
+  background: linear-gradient(to right, #0c0c0c 0%, transparent 100%);
+}
+
+.filters::after,
+.group-filters::after {
+  right: 0;
+  background: linear-gradient(to left, #0c0c0c 0%, transparent 100%);
+}
+
+/* Show indicators when scrollable */
+.filters.has-scroll::before,
+.filters.has-scroll::after,
+.group-filters.has-scroll::before,
+.group-filters.has-scroll::after {
+  opacity: 1;
+}
+
+/* Scroll hint animation */
+@keyframes scroll-hint {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(10px);
+  }
+}
+
+.filters.has-scroll::after,
+.group-filters.has-scroll::after {
+  animation: scroll-hint 2s ease-in-out infinite;
+}
+
+/* ========================================
+   5. IMPROVED SUMMARY SECTION
+   ======================================== */
+
+.summary {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 1.5rem 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.summary-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.summary-icon {
+  font-size: 1.5rem;
+  color: #e50914;
+}
+
+.summary-label {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 0.25rem;
+}
+
+.summary-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+/* ========================================
+   6. MOBILE OPTIMIZATIONS
+   ======================================== */
+
+@media (max-width: 768px) {
+
+  /* Hero adjustments */
+  .hero h1 {
+    font-size: 2rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.05rem;
+    margin-bottom: 2rem;
+  }
+
+  .hero-help-text {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+    padding-left: 1rem;
+  }
+
+  .help-step {
+    font-size: 0.95rem;
+  }
+
+  .step-number {
+    width: 28px;
+    height: 28px;
+    font-size: 0.85rem;
+  }
+
+  /* Full-width search on mobile */
+  .channel-toolbar {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .channel-search {
+    min-width: 100%;
+    max-width: 100%;
+    order: -1; /* Move search to top */
+  }
+
+  .channel-search input[type="search"] {
+    padding: 14px 45px 14px 48px;
+    font-size: 16px; /* Prevents iOS zoom */
+  }
+
+  .search-icon {
+    left: 16px;
+    font-size: 1rem;
+  }
+
+  .search-clear-btn {
+    right: 10px;
+    width: 28px;
+    height: 28px;
+  }
+
+  /* Empty state mobile */
+  .empty-state {
+    padding: 4rem 1.5rem;
+  }
+
+  .empty-state-icon {
+    font-size: 3rem;
+  }
+
+  .empty-state h3 {
+    font-size: 1.5rem;
+  }
+
+  .empty-state p {
+    font-size: 1rem;
+  }
+
+  /* Summary mobile */
+  .summary {
+    flex-direction: column;
+    gap: 1.25rem;
+    padding: 1.25rem 1.5rem;
+  }
+
+  .summary-item {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+}
+
+@media (max-width: 480px) {
+
+  .hero h1 {
+    font-size: 1.75rem;
+  }
+
+  .hero-subtitle {
+    font-size: 0.95rem;
+  }
+
+  .help-step {
+    font-size: 0.9rem;
+  }
+
+  .empty-state h3 {
+    font-size: 1.35rem;
+  }
+
+}
+
+/* ========================================
+   7. ACCESSIBILITY ENHANCEMENTS
+   ======================================== */
+
+/* Focus visible for keyboard navigation */
+.channel-search input[type="search"]:focus-visible {
+  outline: 3px solid #e50914;
+  outline-offset: 3px;
+}
+
+.search-clear-btn:focus-visible,
+.empty-state-cta:focus-visible {
+  outline: 3px solid #e50914;
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .filters.has-scroll::after,
+  .group-filters.has-scroll::after {
+    animation: none;
+  }
+
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ========================================
+   8. LOADING STATES
+   ======================================== */
+
+.loading-skeleton {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.05) 0%,
+    rgba(255, 255, 255, 0.1) 50%,
+    rgba(255, 255, 255, 0.05) 100%
+  );
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s ease-in-out infinite;
+  border-radius: 8px;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+/* ========================================
+   9. PERFORMANCE OPTIMIZATIONS
+   ======================================== */
+
+/* Content visibility for off-screen elements */
+.channel-groups > * {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 500px;
+}
+
+/* Will-change for animated elements */
+.search-clear-btn,
+.empty-state-cta,
+.step-number {
+  will-change: transform;
+}

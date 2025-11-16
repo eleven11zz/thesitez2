@@ -770,6 +770,16 @@ async function initialise() {
 if (searchEl) {
   searchEl.addEventListener("input", (event) => {
     setSearchQuery(event.target.value || "");
+
+    // Toggle clear button visibility
+    const clearBtn = document.querySelector("[data-search-clear]");
+    if (clearBtn) {
+      if (event.target.value) {
+        clearBtn.classList.remove("is-hidden");
+      } else {
+        clearBtn.classList.add("is-hidden");
+      }
+    }
   });
 
   searchEl.addEventListener("keydown", (event) => {
@@ -778,8 +788,49 @@ if (searchEl) {
       event.target.value = "";
       setSearchQuery("");
       event.target.blur();
+
+      // Hide clear button
+      const clearBtn = document.querySelector("[data-search-clear]");
+      if (clearBtn) clearBtn.classList.add("is-hidden");
     }
   });
+}
+
+// Search clear button functionality
+const searchClearBtn = document.querySelector("[data-search-clear]");
+if (searchClearBtn && searchEl) {
+  searchClearBtn.addEventListener("click", () => {
+    searchEl.value = "";
+    setSearchQuery("");
+    searchClearBtn.classList.add("is-hidden");
+    searchEl.focus();
+  });
+}
+
+// Scroll indicators for horizontal scrolling filter chips
+function updateScrollIndicators(element) {
+  if (!element) return;
+
+  const hasScroll = element.scrollWidth > element.clientWidth;
+
+  if (hasScroll) {
+    element.classList.add("has-scroll");
+  } else {
+    element.classList.remove("has-scroll");
+  }
+}
+
+// Monitor filter chips for scroll indicators
+if (filtersEl) {
+  const observer = new ResizeObserver(() => updateScrollIndicators(filtersEl));
+  observer.observe(filtersEl);
+  updateScrollIndicators(filtersEl);
+}
+
+if (groupFiltersEl) {
+  const observer = new ResizeObserver(() => updateScrollIndicators(groupFiltersEl));
+  observer.observe(groupFiltersEl);
+  updateScrollIndicators(groupFiltersEl);
 }
 
 initialise();
