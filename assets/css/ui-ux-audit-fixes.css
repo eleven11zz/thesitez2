@@ -51,6 +51,26 @@
   transform: translateY(-2px) !important;
 }
 
+/* Tertiary CTA styling - More subtle for secondary actions */
+.hero-tertiary-cta {
+  padding: 14px 28px !important;
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  background: transparent !important;
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-radius: 6px !important;
+  transition: all 0.3s ease !important;
+  text-decoration: none !important;
+}
+
+.hero-tertiary-cta:hover {
+  background: rgba(255, 255, 255, 0.08) !important;
+  border-color: rgba(255, 255, 255, 0.4) !important;
+  color: rgba(255, 255, 255, 1) !important;
+  transform: translateY(-1px) !important;
+}
+
 /* Hero CTA Group - Better spacing */
 .hero-cta-group {
   display: flex !important;
@@ -261,7 +281,8 @@ section p {
   }
 
   .hero-primary-cta,
-  .hero-secondary-cta {
+  .hero-secondary-cta,
+  .hero-tertiary-cta {
     width: 100% !important;
     max-width: 400px !important;
     padding: 16px 32px !important;
@@ -271,6 +292,13 @@ section p {
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
+  }
+
+  /* Keep tertiary CTAs slightly smaller on mobile */
+  .hero-tertiary-cta {
+    padding: 14px 28px !important;
+    font-size: 15px !important;
+    min-height: 52px !important;
   }
 
   /* Touch-friendly navigation */

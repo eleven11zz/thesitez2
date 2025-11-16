@@ -465,11 +465,12 @@
 .footer-links {
   display: flex;
   gap: 1.5rem;
+  align-items: center;
   flex-wrap: wrap;
 }
 
 .footer-links a {
-  color: rgba(248, 250, 251, 0.6);
+  color: rgba(248, 250, 251, 0.7);
   text-decoration: none;
   font-size: 0.85rem;
   transition: color 0.3s ease;
@@ -477,6 +478,11 @@
 
 .footer-links a:hover {
   color: #e50914;
+}
+
+.footer-divider {
+  color: rgba(248, 250, 251, 0.3);
+  font-size: 0.85rem;
 }
 
 /* ===================================
