@@ -12,6 +12,7 @@
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
   <link rel="stylesheet" href="./assets/css/channel-lists.css">
+  <link rel="stylesheet" href="./assets/css/channel-lists-ux-improvements.css">
   <link rel="stylesheet" href="./assets/css/modern-header-footer.css"/>
   <link rel="stylesheet" href="./assets/css/modern-effects.css">
   <link rel="stylesheet" href="./assets/css/mobile-tablet-fixes.css">
@@ -39,26 +40,26 @@
       <span></span>
     </button>
     <nav class="main-nav" id="primary-nav" role="navigation" aria-label="Primary navigation">
-      <a href="./index.html#hero">Home</a>
       <a href="./channel-lists.html" class="active">Channels</a>
-      <a href="./epg.html">TV Guide</a>
-      <a href="./sports/live.html">Live Hub</a>
-      <a href="./iptv-products.html">IPTV Packages</a>
-      <a href="./tv-box-products.html">TV Boxes</a>
-      <a href="./setup/index.html">Setup Guides</a>
-      <a href="./country/index.html">Countries</a>
-      <a href="./devices/index.html">Devices</a>
-      <a href="./faq.html">FAQ</a>
-      <a href="./blog.html">Blog</a>
-      <a class="header-cta" href="./iptv-products.html">Start Streaming</a>
+      <a href="./sports/live.html">Live Sports</a>
+      <a href="./iptv-products.html">Pricing</a>
+      <a href="./index.html#testimonials">Reviews</a>
+      <a href="./setup/index.html">Setup</a>
+      <a href="./faq.html">Help</a>
+      <a class="header-cta" href="./iptv-products.html">Start Free Trial</a>
     </nav>
   </div>
 </header>
 
   <main id="main-content" role="main">
     <section class="hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('./assets/hero_images/CHANNEL_LIST.jpg'); background-size: cover; background-position: center; background-attachment: fixed; padding: 4rem 2rem; color: #ffffff;">
-      <h1>Channel Lists</h1>
-      <p>Select a package to explore spotlight channels across sports, entertainment, news, and kids categories. Lists are sourced from the latest TVMaster playlist snapshots.</p>
+      <h1>Explore 30,000+ Live Channels</h1>
+      <p class="hero-subtitle">Browse our complete channel lineup by package. Use search to find specific channels, or filter by category to discover new content.</p>
+      <div class="hero-help-text">
+        <div class="help-step"><span class="step-number">1</span> Choose your package below</div>
+        <div class="help-step"><span class="step-number">2</span> Filter by category or search</div>
+        <div class="help-step"><span class="step-number">3</span> Discover your perfect channel lineup</div>
+      </div>
     </section>
 
     <div class="filters" data-channel-filters></div>
@@ -68,18 +69,27 @@
       <div class="channel-toolbar">
         <div class="channel-ctas" data-channel-ctas></div>
         <div class="channel-search">
+          <i class="fas fa-search search-icon" aria-hidden="true"></i>
           <input
             type="search"
             data-channel-search
-            aria-label="Search channels"
-            placeholder="Search channels…"
+            aria-label="Search channels by name or category"
+            placeholder="Search 30,000+ channels by name or category..."
             autocomplete="off"
             spellcheck="false">
+          <button class="search-clear-btn is-hidden" data-search-clear aria-label="Clear search">
+            <i class="fas fa-times"></i>
+          </button>
         </div>
         <div class="group-filters is-hidden" data-group-filters></div>
       </div>
       <div class="channel-groups" data-channel-content>
-        <div class="empty-state">Choose a package above to view its channel lineup.</div>
+        <div class="empty-state">
+          <i class="fas fa-tv empty-state-icon"></i>
+          <h3>Ready to explore?</h3>
+          <p>Choose a package above to browse thousands of live channels across sports, entertainment, movies, news, and more.</p>
+          <a href="./iptv-products.html" class="empty-state-cta">View All Packages</a>
+        </div>
       </div>
     </section>
   </main>
