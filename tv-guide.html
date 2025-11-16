@@ -295,294 +295,31 @@
         <div class="packages-grid" id="packagesGrid">
             <!-- Package cards will be generated here -->
         </div>
-
-        <div class="guide-container" id="guideContainer">
-            <button class="back-button" onclick="showPackages()">← Back to Packages</button>
-            <div class="package-title" id="packageTitle"></div>
-            <div class="date-info" id="dateInfo"></div>
-            <div class="stats" id="packageStats"></div>
-            <div id="guideContent"></div>
-        </div>
     </div>
 
     <script>
         const packages = [
-            { name: "English TV", flag: "🇬🇧", url: "https://xapi-ie.cc/xmltv.php?username=3fpHpDS7zx&password=7xEvw6MVWYq" },
-            { name: "Germany TV", flag: "🇩🇪", url: "https://xapi-ie.cc/xmltv.php?username=8HomQJuW4zBP&password=oqhBhx6en" },
-            { name: "Scandinavia TV", flag: "🇸🇪", url: "https://xapi-ie.cc/xmltv.php?username=sqMHqa7grmDt&password=4mwXyavY4" },
-            { name: "Netherlands TV", flag: "🇳🇱", url: "https://xapi-ie.cc/xmltv.php?username=MeNpSpaffF&password=9UvBfKpSS" },
-            { name: "Latin TV", flag: "🇲🇽", url: "https://xapi-ie.cc/xmltv.php?username=MeNpSpaffF&password=9UvBfKpSS" },
-            { name: "Italy TV", flag: "🇮🇹", url: "https://xapi-ie.cc/xmltv.php?username=kbRqtLeSF2F&password=6yVvpLGAtPNh" },
-            { name: "France TV", flag: "🇫🇷", url: "https://xapi-ie.cc/xmltv.php?username=kbRqtLeSF2F&password=6yVvpLGAtPNh" },
-            { name: "India TV", flag: "🇮🇳", url: "https://xapi-ie.cc/xmltv.php?username=MeNpSpaffF&password=9UvBfKpSS" },
-            { name: "World TV", flag: "🌍", url: "https://xapi-ie.cc/xmltv.php?username=tcaESVTeeqkUQ&password=fgFZH2tFMa9" }
+            { name: "English TV", flag: "🇬🇧", url: "epg-english.html" },
+            { name: "Germany TV", flag: "🇩🇪", url: "epg-german.html" },
+            { name: "Scandinavia TV", flag: "🇸🇪", url: "epg-scandinavia.html" },
+            { name: "Netherlands TV", flag: "🇳🇱", url: "epg-netherlands.html" },
+            { name: "Latin TV", flag: "🇲🇽", url: "epg-latin.html" },
+            { name: "Italy TV", flag: "🇮🇹", url: "epg-italy.html" },
+            { name: "France TV", flag: "🇫🇷", url: "epg-france.html" },
+            { name: "India TV", flag: "🇮🇳", url: "epg-india.html" },
+            { name: "World TV", flag: "🌍", url: "epg-world.html" }
         ];
 
         // Initialize packages grid
         function initPackages() {
             const grid = document.getElementById('packagesGrid');
-            grid.innerHTML = packages.map((pkg, index) => `
-                <div class="package-card" onclick="loadGuide(${index})">
+            grid.innerHTML = packages.map((pkg) => `
+                <a href="${pkg.url}" class="package-card" style="text-decoration: none;">
                     <div class="flag">${pkg.flag}</div>
                     <h3>${pkg.name}</h3>
-                    <button>View TV Guide</button>
-                </div>
+                    <button type="button">View TV Guide</button>
+                </a>
             `).join('');
-        }
-
-        // Parse XMLTV timestamp (format: 20251116120000 +0000)
-        function parseXMLTVTime(timeStr) {
-            if (!timeStr) return null;
-
-            // Extract parts: 20251116120000 +0000
-            const year = timeStr.substring(0, 4);
-            const month = timeStr.substring(4, 6);
-            const day = timeStr.substring(6, 8);
-            const hour = timeStr.substring(8, 10);
-            const minute = timeStr.substring(10, 12);
-            const second = timeStr.substring(12, 14);
-
-            return new Date(Date.UTC(year, month - 1, day, hour, minute, second));
-        }
-
-        // Format time for display
-        function formatTime(date) {
-            if (!date) return '';
-            return date.toLocaleTimeString('en-US', {
-                hour: '2-digit',
-                minute: '2-digit',
-                hour12: false
-            });
-        }
-
-        // Format date for display
-        function formatDate(date) {
-            if (!date) return '';
-            return date.toLocaleDateString('en-US', {
-                weekday: 'long',
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric'
-            });
-        }
-
-        // Check if program is today
-        function isToday(date) {
-            if (!date) return false;
-            const today = new Date();
-            return date.getDate() === today.getDate() &&
-                   date.getMonth() === today.getMonth() &&
-                   date.getFullYear() === today.getFullYear();
-        }
-
-        // Parse XMLTV content
-        function parseXMLTV(xmlText) {
-            const parser = new DOMParser();
-            const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
-
-            // Check for parsing errors
-            const parserError = xmlDoc.querySelector('parsererror');
-            if (parserError) {
-                throw new Error('XML parsing error');
-            }
-
-            // Parse channels
-            const channels = {};
-            const channelElements = xmlDoc.querySelectorAll('channel');
-            channelElements.forEach(channel => {
-                const id = channel.getAttribute('id');
-                const displayName = channel.querySelector('display-name');
-                if (id && displayName) {
-                    channels[id] = {
-                        id: id,
-                        name: displayName.textContent,
-                        programs: []
-                    };
-                }
-            });
-
-            // Parse programmes
-            const programElements = xmlDoc.querySelectorAll('programme');
-            programElements.forEach(program => {
-                const channelId = program.getAttribute('channel');
-                const start = parseXMLTVTime(program.getAttribute('start'));
-                const stop = parseXMLTVTime(program.getAttribute('stop'));
-                const title = program.querySelector('title');
-                const desc = program.querySelector('desc');
-
-                if (channelId && channels[channelId] && start) {
-                    channels[channelId].programs.push({
-                        start: start,
-                        stop: stop,
-                        title: title ? title.textContent : 'No Title',
-                        description: desc ? desc.textContent : ''
-                    });
-                }
-            });
-
-            // Sort programs by start time
-            Object.keys(channels).forEach(channelId => {
-                channels[channelId].programs.sort((a, b) => a.start - b.start);
-            });
-
-            return channels;
-        }
-
-        // Toggle channel visibility
-        function toggleChannel(channelId) {
-            const header = document.getElementById(`header-${channelId}`);
-            const list = document.getElementById(`list-${channelId}`);
-
-            header.classList.toggle('collapsed');
-            list.classList.toggle('collapsed');
-        }
-
-        // Load and display TV guide
-        async function loadGuide(index) {
-            const pkg = packages[index];
-            const container = document.getElementById('guideContainer');
-            const content = document.getElementById('guideContent');
-            const title = document.getElementById('packageTitle');
-            const stats = document.getElementById('packageStats');
-            const dateInfo = document.getElementById('dateInfo');
-
-            // Show container and loading state
-            document.getElementById('packagesGrid').style.display = 'none';
-            container.classList.add('active');
-            title.innerHTML = `<span class="flag">${pkg.flag}</span> ${pkg.name}`;
-            stats.innerHTML = '';
-            dateInfo.textContent = 'Loading...';
-            content.innerHTML = '<div class="loading">Loading TV guide</div>';
-
-            try {
-                // Fetch EPG file
-                const response = await fetch(pkg.url);
-
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-
-                const xmlContent = await response.text();
-
-                // Parse XMLTV
-                const channels = parseXMLTV(xmlContent);
-                const channelIds = Object.keys(channels);
-
-                // Display guide
-                if (channelIds.length === 0) {
-                    content.innerHTML = '<div class="error">No channels found in this EPG.</div>';
-                    return;
-                }
-
-                // Calculate stats
-                let totalPrograms = 0;
-                let todayPrograms = 0;
-                let earliestDate = null;
-                let latestDate = null;
-
-                channelIds.forEach(channelId => {
-                    const channelPrograms = channels[channelId].programs;
-                    totalPrograms += channelPrograms.length;
-
-                    channelPrograms.forEach(program => {
-                        if (isToday(program.start)) {
-                            todayPrograms++;
-                        }
-                        if (!earliestDate || program.start < earliestDate) {
-                            earliestDate = program.start;
-                        }
-                        if (!latestDate || program.start > latestDate) {
-                            latestDate = program.start;
-                        }
-                    });
-                });
-
-                // Show date info
-                const today = new Date();
-                dateInfo.textContent = `Program Guide for ${formatDate(today)}`;
-
-                // Show stats
-                stats.innerHTML = `
-                    <div class="stat-item">
-                        <div class="stat-value">${channelIds.length}</div>
-                        <div class="stat-label">Channels</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-value">${totalPrograms}</div>
-                        <div class="stat-label">Total Programs</div>
-                    </div>
-                    <div class="stat-item">
-                        <div class="stat-value">${todayPrograms}</div>
-                        <div class="stat-label">Today's Programs</div>
-                    </div>
-                `;
-
-                // Build HTML for channels and programs
-                let html = '';
-                let channelIndex = 0;
-
-                // Sort channels alphabetically
-                const sortedChannelIds = channelIds.sort((a, b) => {
-                    return channels[a].name.localeCompare(channels[b].name);
-                });
-
-                sortedChannelIds.forEach(channelId => {
-                    const channel = channels[channelId];
-                    const channelDivId = `channel-${index}-${channelIndex}`;
-
-                    // Filter programs for today or show all if no programs today
-                    let displayPrograms = channel.programs.filter(p => isToday(p.start));
-                    if (displayPrograms.length === 0) {
-                        // Show future programs if no programs today
-                        displayPrograms = channel.programs.slice(0, 10);
-                    }
-
-                    html += `
-                        <div class="channel-section">
-                            <div class="channel-header" id="header-${channelDivId}" onclick="toggleChannel('${channelDivId}')">
-                                <span>${channel.name} (${displayPrograms.length} programs)</span>
-                                <span class="arrow">▼</span>
-                            </div>
-                            <div class="programs-list" id="list-${channelDivId}">
-                                ${displayPrograms.length > 0 ?
-                                    displayPrograms.map(program => `
-                                        <div class="program-item">
-                                            <div class="program-time">
-                                                🕐 ${formatTime(program.start)}${program.stop ? ` – ${formatTime(program.stop)}` : ''}
-                                            </div>
-                                            <div class="program-title">${program.title}</div>
-                                            ${program.description ?
-                                                `<div class="program-desc">${program.description}</div>` :
-                                                ''
-                                            }
-                                        </div>
-                                    `).join('') :
-                                    '<div class="no-programs">No programs scheduled</div>'
-                                }
-                            </div>
-                        </div>
-                    `;
-                    channelIndex++;
-                });
-
-                content.innerHTML = html;
-
-            } catch (error) {
-                console.error('Error loading TV guide:', error);
-                content.innerHTML = `
-                    <div class="error">
-                        <p>Failed to load TV guide.</p>
-                        <p style="font-size: 0.9rem; margin-top: 10px;">Error: ${error.message}</p>
-                        <p style="font-size: 0.85rem; margin-top: 10px; color: #666;">This may be due to CORS restrictions or invalid XML format.</p>
-                    </div>
-                `;
-            }
-        }
-
-        // Show packages grid
-        function showPackages() {
-            document.getElementById('packagesGrid').style.display = 'grid';
-            document.getElementById('guideContainer').classList.remove('active');
         }
 
         // Initialize on page load

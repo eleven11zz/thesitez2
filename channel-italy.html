@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Italy TV Channels | IPTV Channel List</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .back-button {
+            background: white;
+            color: #667eea;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            transition: all 0.3s;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .back-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+        }
+
+        .header {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .package-title {
+            font-size: 2.5rem;
+            color: #333;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .package-title .flag {
+            font-size: 3rem;
+        }
+
+        .package-desc {
+            color: #666;
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+        }
+
+        .stats {
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .loading {
+            background: white;
+            border-radius: 12px;
+            padding: 60px;
+            text-align: center;
+            font-size: 1.3rem;
+            color: #667eea;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .loading::after {
+            content: '...';
+            animation: dots 1.5s steps(3, end) infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
+        }
+
+        .error {
+            background: white;
+            border-radius: 12px;
+            padding: 60px;
+            text-align: center;
+            font-size: 1.2rem;
+            color: #dc3545;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .group-section {
+            background: white;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .group-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px 25px;
+            cursor: pointer;
+            font-size: 1.2rem;
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: opacity 0.3s;
+        }
+
+        .group-header:hover {
+            opacity: 0.95;
+        }
+
+        .group-header .arrow {
+            font-size: 1.2rem;
+            transition: transform 0.3s;
+        }
+
+        .group-header.collapsed .arrow {
+            transform: rotate(-90deg);
+        }
+
+        .channels-grid {
+            padding: 25px;
+            background: #f8f9fa;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 15px;
+        }
+
+        .channels-grid.collapsed {
+            display: none;
+        }
+
+        .channel-card {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+            transition: all 0.3s;
+        }
+
+        .channel-card:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.12);
+            transform: translateY(-2px);
+        }
+
+        .channel-logo {
+            width: 60px;
+            height: 60px;
+            object-fit: contain;
+            border-radius: 8px;
+            background: #f0f0f0;
+            flex-shrink: 0;
+        }
+
+        .channel-logo.placeholder {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.8rem;
+        }
+
+        .channel-name {
+            flex: 1;
+            font-size: 1rem;
+            color: #333;
+            font-weight: 500;
+            line-height: 1.4;
+        }
+
+        @media (max-width: 768px) {
+            .package-title {
+                font-size: 2rem;
+            }
+
+            .channels-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats {
+                flex-direction: column;
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="channel-lists.html" class="back-button">← Back to All Packages</a>
+
+        <div class="header">
+            <div class="package-title">
+                <span class="flag">🇮🇹</span>
+                <span>Italy TV Channels</span>
+            </div>
+            <p class="package-desc">Browse all available Italy TV channels grouped by category</p>
+            <div class="stats" id="stats">
+                <div class="stat-item">
+                    <span class="stat-value" id="totalChannels">-</span>
+                    <span class="stat-label">Total Channels</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="totalGroups">-</span>
+                    <span class="stat-label">Categories</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="content">
+            <div class="loading">Loading channels</div>
+        </div>
+    </div>
+
+    <script>
+        const M3U_URL = "https://xapi-ie.cc/get.php?username=kbRqtLeSF2F&password=6yVvpLGAtPNh&type=m3u_plus";
+
+        // Parse M3U content
+        function parseM3U(content) {
+            const lines = content.split('\n');
+            const channels = [];
+            let currentChannel = {};
+
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+
+                if (line.startsWith('#EXTINF:')) {
+                    const tvgNameMatch = line.match(/tvg-name="([^"]*)"/);
+                    const tvgLogoMatch = line.match(/tvg-logo="([^"]*)"/);
+                    const groupTitleMatch = line.match(/group-title="([^"]*)"/);
+                    const nameMatch = line.match(/,(.+)$/);
+
+                    currentChannel = {
+                        name: nameMatch ? nameMatch[1].trim() : 'Unknown Channel',
+                        tvgName: tvgNameMatch ? tvgNameMatch[1] : '',
+                        logo: tvgLogoMatch ? tvgLogoMatch[1] : '',
+                        group: groupTitleMatch ? groupTitleMatch[1] : 'Other'
+                    };
+                } else if (line && !line.startsWith('#') && currentChannel.name) {
+                    channels.push(currentChannel);
+                    currentChannel = {};
+                }
+            }
+
+            return channels;
+        }
+
+        // Group channels by category
+        function groupChannels(channels) {
+            const groups = {};
+
+            channels.forEach(channel => {
+                const groupName = channel.group || 'Other';
+                if (!groups[groupName]) {
+                    groups[groupName] = [];
+                }
+                groups[groupName].push(channel);
+            });
+
+            return groups;
+        }
+
+        // Toggle group visibility
+        function toggleGroup(groupId) {
+            const header = document.getElementById(`header-${groupId}`);
+            const grid = document.getElementById(`grid-${groupId}`);
+
+            header.classList.toggle('collapsed');
+            grid.classList.toggle('collapsed');
+        }
+
+        // Load and display channels
+        async function loadChannels() {
+            const content = document.getElementById('content');
+
+            try {
+                const response = await fetch(M3U_URL);
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const m3uContent = await response.text();
+                const channels = parseM3U(m3uContent);
+                const groupedChannels = groupChannels(channels);
+
+                if (Object.keys(groupedChannels).length === 0) {
+                    content.innerHTML = '<div class="error">No channels found in this package.</div>';
+                    return;
+                }
+
+                // Update stats
+                document.getElementById('totalChannels').textContent = channels.length;
+                document.getElementById('totalGroups').textContent = Object.keys(groupedChannels).length;
+
+                // Build HTML
+                const sortedGroups = Object.keys(groupedChannels).sort();
+                let html = '';
+
+                sortedGroups.forEach((groupName, index) => {
+                    const groupChannels = groupedChannels[groupName];
+                    const groupId = `group-${index}`;
+
+                    html += `
+                        <div class="group-section">
+                            <div class="group-header" id="header-${groupId}" onclick="toggleGroup('${groupId}')">
+                                <span>${groupName} (${groupChannels.length})</span>
+                                <span class="arrow">▼</span>
+                            </div>
+                            <div class="channels-grid" id="grid-${groupId}">
+                                ${groupChannels.map(channel => `
+                                    <div class="channel-card">
+                                        ${channel.logo ?
+                                            `<img src="${channel.logo}" alt="${channel.name}" class="channel-logo" onerror="this.outerHTML='<div class=\\'channel-logo placeholder\\'>📺</div>'">` :
+                                            `<div class="channel-logo placeholder">📺</div>`
+                                        }
+                                        <div class="channel-name">${channel.name}</div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        </div>
+                    `;
+                });
+
+                content.innerHTML = html;
+
+            } catch (error) {
+                console.error('Error loading channels:', error);
+                content.innerHTML = `
+                    <div class="error">
+                        <p>Failed to load channels.</p>
+                        <p style="font-size: 0.9rem; margin-top: 10px;">Error: ${error.message}</p>
+                        <p style="font-size: 0.85rem; margin-top: 10px; color: #666;">This may be due to CORS restrictions.</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Load on page load
+        loadChannels();
+    </script>
+</body>
+</html>
