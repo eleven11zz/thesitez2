@@ -344,11 +344,11 @@
 
                     html += `
                         <div class="group-section">
-                            <div class="group-header" id="header-${groupId}" onclick="toggleGroup('${groupId}')">
+                            <div class="group-header collapsed" id="header-${groupId}" onclick="toggleGroup('${groupId}')">
                                 <span>${groupName} (${groupChannels.length})</span>
                                 <span class="arrow">▼</span>
                             </div>
-                            <div class="channels-grid" id="grid-${groupId}">
+                            <div class="channels-grid collapsed" id="grid-${groupId}">
                                 ${groupChannels.map(channel => `
                                     <div class="channel-card">
                                         ${channel.logo ?

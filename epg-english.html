@@ -424,11 +424,11 @@
 
                     html += `
                         <div class="channel-section">
-                            <div class="channel-header" id="header-${divId}" onclick="toggleChannel('${divId}')">
+                            <div class="channel-header collapsed" id="header-${divId}" onclick="toggleChannel('${divId}')">
                                 <span>${channel.name} (${displayPrograms.length} programs)</span>
                                 <span class="arrow">▼</span>
                             </div>
-                            <div class="programs-list" id="list-${divId}">
+                            <div class="programs-list collapsed" id="list-${divId}">
                                 ${displayPrograms.length > 0 ?
                                     displayPrograms.map(program => `
                                         <div class="program-item">
