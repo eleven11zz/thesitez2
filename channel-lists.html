@@ -34,23 +34,85 @@
         }
 
         .page-header {
-            background: white;
+            background: linear-gradient(135deg, #e50914 0%, #b8070f 100%);
             border-radius: 12px;
-            padding: 30px;
+            padding: 50px 30px;
             margin-bottom: 30px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            box-shadow: 0 8px 24px rgba(229, 9, 20, 0.3);
             text-align: center;
+            color: white;
         }
 
         .page-title {
             font-size: 2.5rem;
-            color: #333;
-            margin-bottom: 10px;
+            color: #ffffff;
+            margin-bottom: 15px;
+            font-weight: 700;
         }
 
         .page-subtitle {
-            color: #666;
-            font-size: 1.1rem;
+            color: #ffffff;
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            opacity: 0.95;
+        }
+
+        .page-stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 25px;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            display: block;
+            color: #ffffff;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .search-box {
+            max-width: 500px;
+            margin: 25px auto 0;
+            position: relative;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 15px 50px 15px 20px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-radius: 50px;
+            font-size: 1rem;
+            background: rgba(255,255,255,0.95);
+            transition: all 0.3s ease;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: #ffffff;
+            background: #ffffff;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+
+        .search-box .search-icon {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #e50914;
+            font-size: 1.2rem;
         }
 
         .packages-grid {
@@ -89,19 +151,25 @@
         }
 
         .package-card button {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #e50914 0%, #b8070f 100%);
             color: white;
             border: none;
-            padding: 10px 20px;
-            border-radius: 6px;
+            padding: 12px 24px;
+            border-radius: 8px;
             cursor: pointer;
             font-size: 1rem;
             font-weight: 600;
-            transition: opacity 0.3s;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(229, 9, 20, 0.3);
         }
 
         .package-card button:hover {
-            opacity: 0.9;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(229, 9, 20, 0.4);
+        }
+
+        .package-card.hidden {
+            display: none;
         }
 
         @media (max-width: 768px) {
@@ -149,7 +217,27 @@
     <div class="container">
         <div class="page-header">
             <h1 class="page-title">IPTV Channel Packages</h1>
-            <p class="page-subtitle">Browse complete channel lineups from our premium IPTV packages</p>
+            <p class="page-subtitle">Explore over 30,000 channels across 9 regional packages with sports, entertainment, news & more</p>
+
+            <div class="page-stats">
+                <div class="stat-item">
+                    <span class="stat-value">30K+</span>
+                    <span class="stat-label">Live Channels</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">9</span>
+                    <span class="stat-label">Packages</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value">4K</span>
+                    <span class="stat-label">Quality</span>
+                </div>
+            </div>
+
+            <div class="search-box">
+                <input type="search" id="packageSearch" placeholder="Search for a region or country..." aria-label="Search channel packages">
+                <i class="fas fa-search search-icon" aria-hidden="true"></i>
+            </div>
         </div>
 
         <div class="packages-grid" id="packagesGrid">
@@ -328,31 +416,57 @@
 
     <script>
         const packages = [
-            { name: "English TV", flag: "🇬🇧", url: "channel-english.html" },
-            { name: "German TV", flag: "🇩🇪", url: "channel-german.html" },
-            { name: "Scandinavia TV", flag: "🇸🇪", url: "channel-scandinavia.html" },
-            { name: "Netherlands TV", flag: "🇳🇱", url: "channel-netherlands.html" },
-            { name: "Latin TV", flag: "🇲🇽", url: "channel-latin.html" },
-            { name: "Italy TV", flag: "🇮🇹", url: "channel-italy.html" },
-            { name: "France TV", flag: "🇫🇷", url: "channel-france.html" },
-            { name: "India TV", flag: "🇮🇳", url: "channel-india.html" },
-            { name: "World TV", flag: "🌍", url: "channel-world.html" }
+            { name: "English TV", flag: "🇬🇧", url: "channel-english.html", region: "UK & Ireland", keywords: "english uk ireland british" },
+            { name: "German TV", flag: "🇩🇪", url: "channel-german.html", region: "Germany, Austria & Switzerland", keywords: "german germany deutschland austria switzerland dach" },
+            { name: "Scandinavia TV", flag: "🇸🇪", url: "channel-scandinavia.html", region: "Nordic Countries", keywords: "scandinavia sweden norway denmark finland nordic" },
+            { name: "Netherlands TV", flag: "🇳🇱", url: "channel-netherlands.html", region: "Netherlands", keywords: "netherlands dutch holland" },
+            { name: "Latin TV", flag: "🇲🇽", url: "channel-latin.html", region: "Latin America", keywords: "latin america mexico spanish latino hispanic" },
+            { name: "Italy TV", flag: "🇮🇹", url: "channel-italy.html", region: "Italy", keywords: "italy italian italia" },
+            { name: "France TV", flag: "🇫🇷", url: "channel-france.html", region: "France", keywords: "france french français" },
+            { name: "India TV", flag: "🇮🇳", url: "channel-india.html", region: "India", keywords: "india indian hindi bollywood" },
+            { name: "World TV", flag: "🌍", url: "channel-world.html", region: "International", keywords: "world international global" }
         ];
 
         // Initialize packages grid
         function initPackages() {
             const grid = document.getElementById('packagesGrid');
-            grid.innerHTML = packages.map((pkg) => `
-                <a href="${pkg.url}" class="package-card" style="text-decoration: none;">
-                    <div class="flag">${pkg.flag}</div>
+            grid.innerHTML = packages.map((pkg, index) => `
+                <a href="${pkg.url}" class="package-card" data-package="${pkg.name}" data-keywords="${pkg.keywords}" aria-label="View ${pkg.name} channels from ${pkg.region}">
+                    <div class="flag" role="img" aria-label="${pkg.name} flag">${pkg.flag}</div>
                     <h3>${pkg.name}</h3>
-                    <button type="button">View Channels</button>
+                    <p style="color: #666; font-size: 0.9rem; margin-bottom: 15px;">${pkg.region}</p>
+                    <button type="button" aria-label="View ${pkg.name} channel list">View Channels</button>
                 </a>
             `).join('');
         }
 
+        // Search functionality
+        function setupSearch() {
+            const searchInput = document.getElementById('packageSearch');
+            if (!searchInput) return;
+
+            searchInput.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase().trim();
+                const cards = document.querySelectorAll('.package-card');
+
+                cards.forEach(card => {
+                    const name = card.dataset.package.toLowerCase();
+                    const keywords = card.dataset.keywords.toLowerCase();
+
+                    if (query === '' || name.includes(query) || keywords.includes(query)) {
+                        card.classList.remove('hidden');
+                    } else {
+                        card.classList.add('hidden');
+                    }
+                });
+            });
+        }
+
         // Initialize on page load
-        initPackages();
+        document.addEventListener('DOMContentLoaded', () => {
+            initPackages();
+            setupSearch();
+        });
     </script>
 </body>
 </html>
