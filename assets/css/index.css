@@ -2081,3 +2081,122 @@ body {
   color: #999;
   margin-top: 0.25rem;
 }
+
+/* Trust Card Background Images */
+.trust-card-bg {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.trust-card-global {
+  background-image: url('../trust_backgrounds/GLOBAL.jpg');
+}
+
+.trust-card-uptime {
+  background-image: url('../trust_backgrounds/UPTIME.jpg');
+}
+
+.trust-card-support {
+  background-image: url('../trust_backgrounds/247_SUPPORT.jpg');
+}
+
+.trust-card-activation {
+  background-image: url('../trust_backgrounds/ACTIVATION.jpg');
+}
+
+/* Benefit Card Background Images */
+.benefit-card-bg {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.benefit-card-antifreeze {
+  background-image: url('../benefits/antifreeze.avif');
+}
+
+.benefit-card-channels {
+  background-image: url('../benefits/30000channels.jpg');
+}
+
+.benefit-card-quality {
+  background-image: url('../benefits/6cda4a1d71ce9727c7ab72350cc7913a_t.jpeg');
+}
+
+.benefit-card-ondemand {
+  background-image: url('../benefits/ondemand.webp');
+}
+
+.benefit-card-customer-service {
+  background-image: url('../benefits/customerservice.png');
+}
+
+.benefit-card-multi-device {
+  background-image: url('../benefits/multiple devices.png');
+}
+
+/* Product Summary Card Background Images */
+.product-card-bg {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.product-card-iptv-only {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../deployment_backgrounds/IPTV_ONLY.jpg');
+}
+
+.product-card-iptv-android {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../deployment_backgrounds/IPTV_ANDROID.jpg');
+}
+
+/* Quiz Section */
+.quiz-section {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82)), url('../benefits-bg.webp');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 4rem 0;
+}
+
+/* Quiz Progress */
+.quiz-progress-20 {
+  width: 20%;
+}
+
+/* Utility Classes */
+.hidden {
+  display: none;
+}
+
+/* Product Pages Hero Sections */
+.hero-iptv-products {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('../hero_images/maxresdefault.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 4rem 2rem;
+  color: #fff;
+}
+
+.hero-tvbox-products {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('../hero_images/smart-iptv-smart-tv-featured-image.webp');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 4rem 2rem;
+  color: #fff;
+}
+
+/* Channel List Pages */
+.channel-request-message {
+  font-size: 0.9rem;
+  margin-top: 10px;
+  opacity: 0.8;
+}
+
+.channel-request-link {
+  color: inherit;
+  text-decoration: underline;
+}
