@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Version control
+.git/
+.github/
+
+# Config files
+*.config.js
+*.config.json
+
+# Data files
+assets/data/
+
+# Minified files
+*.min.js
+*.min.css
+
+# Vendor files
+vendor/
+
+# Backups
+*.backup
+*.backup.*
+*.html.backup
+
+# Logs
+*.log
+
+# Sitemap
+sitemap.xml

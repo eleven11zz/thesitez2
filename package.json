@@ -1,0 +1,31 @@
+{
+  "name": "thesitez2",
+  "version": "1.0.0",
+  "description": "IPTV website with code quality standards",
+  "main": "index.html",
+  "scripts": {
+    "lint": "npm run lint:html && npm run lint:css && npm run lint:js",
+    "lint:html": "htmlhint \"**/*.html\" --ignore \"node_modules/**\"",
+    "lint:css": "stylelint \"assets/css/**/*.css\"",
+    "lint:js": "eslint \"assets/js/**/*.js\" \"*.js\"",
+    "format": "prettier --write \"**/*.{js,css,html}\" --ignore-path .prettierignore",
+    "format:check": "prettier --check \"**/*.{js,css,html}\" --ignore-path .prettierignore",
+    "audit": "npm run lint && npm run format:check",
+    "fix": "npm run lint:js -- --fix && npm run format"
+  },
+  "keywords": [
+    "iptv",
+    "streaming",
+    "website",
+    "code-quality"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "htmlhint": "^1.1.4",
+    "prettier": "^3.2.5",
+    "stylelint": "^16.2.1",
+    "stylelint-config-standard": "^36.0.0"
+  }
+}
