@@ -74,7 +74,17 @@
         <div class="group-filters is-hidden" data-group-filters></div>
       </div>
       <div class="channel-groups" data-channel-content>
-        <div class="empty-state is-loading">Kanal-Highlights werden geladen…</div>
+        <noscript>
+          <div class="empty-state">
+            <h3>JavaScript erforderlich</h3>
+            <p>Diese Kanalliste erfordert JavaScript zur Anzeige. Bitte aktivieren Sie JavaScript in Ihrem Browser oder kontaktieren Sie uns für eine PDF-Kanalliste.</p>
+            <a href="mailto:support@tvmaster.vip?subject=German Channel List Request" class="card-cta">Kanalliste anfordern</a>
+          </div>
+        </noscript>
+        <div class="empty-state is-loading">
+          <p>Kanal-Highlights werden geladen…</p>
+          <p style="font-size: 0.9rem; margin-top: 10px; opacity: 0.8;">Falls die Kanäle nicht laden, <a href="mailto:support@tvmaster.vip?subject=German Channel List Request" style="color: inherit; text-decoration: underline;">fordern Sie bitte eine PDF-Liste an</a> oder prüfen Sie, ob JavaScript aktiviert ist.</p>
+        </div>
       </div>
     </section>
   </main>

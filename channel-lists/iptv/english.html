@@ -74,7 +74,17 @@
         <div class="group-filters is-hidden" data-group-filters></div>
       </div>
       <div class="channel-groups" data-channel-content>
-        <div class="empty-state is-loading">Loading channel spotlight…</div>
+        <noscript>
+          <div class="empty-state">
+            <h3>JavaScript Required</h3>
+            <p>This channel list requires JavaScript to display. Please enable JavaScript in your browser, or contact us for a PDF channel list.</p>
+            <a href="mailto:support@tvmaster.vip?subject=English Channel List Request" class="card-cta">Request Channel List</a>
+          </div>
+        </noscript>
+        <div class="empty-state is-loading">
+          <p>Loading English channel list…</p>
+          <p style="font-size: 0.9rem; margin-top: 10px; opacity: 0.8;">If channels don't load, please <a href="mailto:support@tvmaster.vip?subject=English Channel List Request" style="color: inherit; text-decoration: underline;">request a PDF list</a> or check that JavaScript is enabled.</p>
+        </div>
       </div>
     </section>
   </main>
