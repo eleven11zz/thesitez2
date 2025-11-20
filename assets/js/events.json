@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-19T03:44:54.146915Z",
+  "generatedAt": "2025-11-20T03:43:37.135738Z",
   "source": "TheSportsDB",
   "leagues": [
     {
@@ -8,38 +8,6 @@
       "label": "English Premier League",
       "sport": "Soccer",
       "events": [
-        {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
         {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
@@ -497,38 +465,6 @@
       "sport": "Soccer",
       "events": [
         {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
-        {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
           "title": "AFC Wimbledon vs Wigan Athletic",
@@ -984,38 +920,6 @@
       "label": "Italian Serie A",
       "sport": "Soccer",
       "events": [
-        {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
         {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
@@ -1473,38 +1377,6 @@
       "sport": "Soccer",
       "events": [
         {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
-        {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
           "title": "AFC Wimbledon vs Wigan Athletic",
@@ -1960,38 +1832,6 @@
       "label": "French Ligue 1",
       "sport": "Soccer",
       "events": [
-        {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
         {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
@@ -2449,38 +2289,6 @@
       "sport": "Soccer",
       "events": [
         {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
-        {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
           "title": "AFC Wimbledon vs Wigan Athletic",
@@ -2936,38 +2744,6 @@
       "label": "UEFA Europa League",
       "sport": "Soccer",
       "events": [
-        {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
         {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
@@ -3425,38 +3201,6 @@
       "sport": "American Football",
       "events": [
         {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
-        {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
           "title": "AFC Wimbledon vs Wigan Athletic",
@@ -3912,38 +3656,6 @@
       "label": "NBA",
       "sport": "Basketball",
       "events": [
-        {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
         {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
@@ -4401,38 +4113,6 @@
       "sport": "Baseball",
       "events": [
         {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
-        {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
           "title": "AFC Wimbledon vs Wigan Athletic",
@@ -4888,38 +4568,6 @@
       "label": "National Hockey League",
       "sport": "Ice Hockey",
       "events": [
-        {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
         {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
@@ -5377,38 +5025,6 @@
       "sport": "Soccer",
       "events": [
         {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
-        {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
           "title": "AFC Wimbledon vs Wigan Athletic",
@@ -5864,38 +5480,6 @@
       "label": "Ultimate Fighting Championship",
       "sport": "Mixed Martial Arts",
       "events": [
-        {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
         {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
@@ -6353,38 +5937,6 @@
       "sport": "Mixed Martial Arts",
       "events": [
         {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
-        {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
           "title": "AFC Wimbledon vs Wigan Athletic",
@@ -6840,38 +6392,6 @@
       "label": "Formula 1",
       "sport": "Motorsport",
       "events": [
-        {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
         {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
@@ -7329,38 +6849,6 @@
       "sport": "Rugby",
       "events": [
         {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
-        {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
           "title": "AFC Wimbledon vs Wigan Athletic",
@@ -7817,38 +7305,6 @@
       "sport": "Cricket",
       "events": [
         {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
-        {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
           "title": "AFC Wimbledon vs Wigan Athletic",
@@ -8304,38 +7760,6 @@
       "label": "Big Bash League",
       "sport": "Cricket",
       "events": [
-        {
-          "id": "2274832",
-          "slug": "peterborough-united-vs-stockport-county",
-          "title": "Peterborough United vs Stockport County",
-          "league": "English League 1",
-          "season": "2025-2026",
-          "sport": "Soccer",
-          "start": {
-            "utc": "2025-11-20T20:00:00Z",
-            "date": "2025-11-20",
-            "time": "20:00:00"
-          },
-          "venue": "Weston Homes Stadium",
-          "city": "",
-          "tvStations": [],
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqjb291752495297.jpg",
-          "article": null,
-          "highlights": "",
-          "odds": null,
-          "mapsUrl": null,
-          "eventUrl": "https://www.thesportsdb.com/event/2274832",
-          "homeTeam": {
-            "id": "133631",
-            "name": "Peterborough United",
-            "badge": "https://www.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png"
-          },
-          "awayTeam": {
-            "id": "134258",
-            "name": "Stockport County",
-            "badge": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png"
-          }
-        },
         {
           "id": "2274826",
           "slug": "afc-wimbledon-vs-wigan-athletic",
