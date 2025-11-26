@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-25T03:49:04.081471Z",
+  "generatedAt": "2025-11-26T03:48:02.877079Z",
   "source": "TheSportsDB",
   "leagues": [
     {
@@ -422,6 +422,70 @@
             "id": "134376",
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+          }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
           }
         }
       ]
@@ -847,6 +911,70 @@
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
           }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+          }
         }
       ]
     },
@@ -1270,6 +1398,70 @@
             "id": "134376",
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+          }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
           }
         }
       ]
@@ -1695,6 +1887,70 @@
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
           }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+          }
         }
       ]
     },
@@ -2118,6 +2374,70 @@
             "id": "134376",
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+          }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
           }
         }
       ]
@@ -2543,6 +2863,70 @@
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
           }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+          }
         }
       ]
     },
@@ -2966,6 +3350,70 @@
             "id": "134376",
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+          }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
           }
         }
       ]
@@ -3391,6 +3839,70 @@
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
           }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+          }
         }
       ]
     },
@@ -3814,6 +4326,70 @@
             "id": "134376",
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+          }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
           }
         }
       ]
@@ -4239,6 +4815,70 @@
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
           }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+          }
         }
       ]
     },
@@ -4662,6 +5302,70 @@
             "id": "134376",
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+          }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
           }
         }
       ]
@@ -5087,6 +5791,70 @@
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
           }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+          }
         }
       ]
     },
@@ -5510,6 +6278,70 @@
             "id": "134376",
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+          }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
           }
         }
       ]
@@ -5935,6 +6767,70 @@
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
           }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+          }
         }
       ]
     },
@@ -6358,6 +7254,70 @@
             "id": "134376",
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+          }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
           }
         }
       ]
@@ -6783,6 +7743,70 @@
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
           }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+          }
         }
       ]
     },
@@ -7207,6 +8231,70 @@
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
           }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
+          }
         }
       ]
     },
@@ -7630,6 +8718,70 @@
             "id": "134376",
             "name": "Burton Albion",
             "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png"
+          }
+        },
+        {
+          "id": "2274821",
+          "slug": "plymouth-argyle-vs-bradford-city",
+          "title": "Plymouth Argyle vs Bradford City",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Home Park",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/9iqd721752495257.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274821",
+          "homeTeam": {
+            "id": "133836",
+            "name": "Plymouth Argyle",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png"
+          },
+          "awayTeam": {
+            "id": "134189",
+            "name": "Bradford City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png"
+          }
+        },
+        {
+          "id": "2274825",
+          "slug": "cardiff-city-vs-huddersfield-town",
+          "title": "Cardiff City vs Huddersfield Town",
+          "league": "English League 1",
+          "season": "2025-2026",
+          "sport": "Soccer",
+          "start": {
+            "utc": "2025-12-06T12:30:00Z",
+            "date": "2025-12-06",
+            "time": "12:30:00"
+          },
+          "venue": "Cardiff City Stadium",
+          "city": null,
+          "tvStations": [],
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/b6cz8e1752495272.jpg",
+          "article": null,
+          "highlights": null,
+          "odds": null,
+          "mapsUrl": null,
+          "eventUrl": "https://www.thesportsdb.com/event/2274825",
+          "homeTeam": {
+            "id": "133637",
+            "name": "Cardiff City",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png"
+          },
+          "awayTeam": {
+            "id": "133932",
+            "name": "Huddersfield Town",
+            "badge": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png"
           }
         }
       ]
