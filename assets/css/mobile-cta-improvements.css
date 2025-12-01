@@ -435,16 +435,4 @@
     font-size: 0.95rem !important;
   }
 
-  /* Metric cards - compact on very small screens */
-  .metric-card {
-    padding: 0.75rem !important;
-  }
-
-  .metric-value {
-    font-size: 1.75rem !important;
-  }
-
-  .metric-label {
-    font-size: 0.75rem !important;
-  }
 }

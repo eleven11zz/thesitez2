@@ -134,71 +134,6 @@
 }
 
 /* ===================================
-   3. KPI/METRIC CARDS FIXES
-   =================================== */
-
-/* Align KPI boxes in one row with consistent spacing */
-.hero-metrics {
-  display: grid !important;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)) !important;
-  gap: 1.5rem !important;
-  margin-top: 4rem !important;
-  padding: 0 !important;
-}
-
-.metric-card {
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  justify-content: center !important;
-  padding: 2rem 1.5rem !important;
-  background: linear-gradient(135deg, rgba(20, 20, 20, 0.9), rgba(10, 10, 10, 0.8)) !important;
-  border: 1px solid rgba(229, 9, 20, 0.3) !important;
-  border-radius: 12px !important;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4) !important;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
-  text-align: center !important;
-  min-height: 140px !important;
-}
-
-.metric-card:hover {
-  transform: translateY(-5px) !important;
-  border-color: rgba(229, 9, 20, 0.6) !important;
-  box-shadow: 0 12px 40px rgba(229, 9, 20, 0.3) !important;
-}
-
-.metric-value {
-  font-size: clamp(2.5rem, 4vw, 3.5rem) !important;
-  font-weight: 800 !important;
-  color: #ff2e2e !important;
-  line-height: 1 !important;
-  margin-bottom: 0.75rem !important;
-  display: block !important;
-}
-
-.metric-label {
-  font-size: 0.95rem !important;
-  font-weight: 500 !important;
-  color: rgba(255, 255, 255, 0.8) !important;
-  text-transform: uppercase !important;
-  letter-spacing: 0.05em !important;
-  display: block !important;
-}
-
-/* Stack on mobile in 2x2 grid */
-@media (max-width: 768px) {
-  .hero-metrics {
-    grid-template-columns: repeat(2, 1fr) !important;
-    gap: 1rem !important;
-  }
-
-  .metric-card {
-    padding: 1.5rem 1rem !important;
-    min-height: 120px !important;
-  }
-}
-
-/* ===================================
    4. PRODUCT CATALOG BUTTONS FIXES
    =================================== */
 
@@ -410,10 +345,6 @@ p {
   }
 
   /* 2x2 grid for KPIs on mobile */
-  .hero-metrics {
-    gap: 1rem !important;
-    margin-top: 3rem !important;
-  }
 
   /* Increase touch targets */
   button,
@@ -447,10 +378,6 @@ html {
 }
 
 .hero,
-.hero-metrics,
-section {
-  animation: fadeInUp 0.8s ease-out !important;
-}
 
 /* Hover effect on images and boxes */
 .channel-card,
@@ -489,7 +416,3 @@ button:focus {
 }
 
 /* Loading state for animations */
-.metric-value,
-.hero-heading {
-  will-change: transform !important;
-}
