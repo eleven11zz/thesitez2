@@ -7,6 +7,65 @@ const state = {
   activeSlug: "all",
 };
 
+function buildFallbackEvents() {
+  const now = Date.now();
+  const toUtc = (minutes) => new Date(now + minutes * 60 * 1000).toISOString();
+
+  return [
+    {
+      leagueId: "sample-epl",
+      slug: "premier-league",
+      label: "Premier League Showcase",
+      sport: "Soccer",
+      events: [
+        {
+          id: "sample-epl-1",
+          slug: "manchester-city-vs-chelsea",
+          title: "Manchester City vs Chelsea",
+          start: { utc: toUtc(180) },
+          venue: "Etihad Stadium",
+          city: "Manchester",
+          tvStations: ["Sky Sports Premier League", "beIN Sports"],
+          image: "../assets/benefits-bg.webp",
+          homeTeam: { name: "Manchester City" },
+          awayTeam: { name: "Chelsea" },
+        },
+        {
+          id: "sample-epl-2",
+          slug: "arsenal-vs-liverpool",
+          title: "Arsenal vs Liverpool",
+          start: { utc: toUtc(420) },
+          venue: "Emirates Stadium",
+          city: "London",
+          tvStations: ["Sky Sports Main Event", "NBC Sports"],
+          homeTeam: { name: "Arsenal" },
+          awayTeam: { name: "Liverpool" },
+        },
+      ],
+    },
+    {
+      leagueId: "sample-ufc",
+      slug: "ufc",
+      label: "UFC Fight Night",
+      sport: "MMA",
+      events: [
+        {
+          id: "sample-ufc-1",
+          slug: "ufc-main-card",
+          title: "Main Card: Adesanya vs Costa",
+          start: { utc: toUtc(90) },
+          venue: "T-Mobile Arena",
+          city: "Las Vegas",
+          tvStations: ["ESPN+", "BT Sport"],
+          image: "../assets/benefits-bg.webp",
+          homeTeam: { name: "Adesanya" },
+          awayTeam: { name: "Costa" },
+        },
+      ],
+    },
+  ];
+}
+
 const countdownIntervals = [];
 
 const filtersEl = document.querySelector("[data-live-filters]");
@@ -439,6 +498,7 @@ function renderFilters() {
   allBtn.className = `filter-chip ${
     state.activeSlug === "all" ? "is-active" : ""
   }`;
+  allBtn.setAttribute("aria-pressed", state.activeSlug === "all");
   allBtn.textContent = "All Sports";
   allBtn.addEventListener("click", () => {
     state.activeSlug = "all";
@@ -453,6 +513,7 @@ function renderFilters() {
     btn.className = `filter-chip ${
       state.activeSlug === league.slug ? "is-active" : ""
     }`;
+    btn.setAttribute("aria-pressed", state.activeSlug === league.slug);
     btn.textContent = league.label;
     btn.addEventListener("click", () => {
       state.activeSlug = league.slug;
@@ -503,35 +564,36 @@ async function loadEvents() {
   renderSkeletons();
   try {
     const res = await fetch(EVENTS_URL, { cache: "no-store" });
-    if (!res.ok) {
-      throw new Error(`Failed to load events (${res.status})`);
+    if (res.ok) {
+      const data = await res.json();
+      state.leagues =
+        data?.leagues?.filter((league) => league.events?.length) || [];
     }
-    const data = await res.json();
-    state.leagues =
-      data?.leagues?.filter((league) => league.events?.length) || [];
-
-    if (!state.leagues.length) {
-      renderEmptyState("Check back later—fresh fixtures are loading.");
-      renderSlider();
-      return;
-    }
-
-    const allEvents = flattenEvents(state.leagues).filter(
-      (event) => event.start?.utc
-    );
-    allEvents.sort(
-      (a, b) => new Date(a.start.utc).getTime() - new Date(b.start.utc).getTime()
-    );
-    state.topEvents = allEvents.slice(0, 8);
-
-    renderFilters();
-    renderSlider();
-    renderEvents();
   } catch (error) {
-    console.error("[events] Unable to load events feed:", error);
-    renderError("Could not load live fixtures. Refresh or try again later.");
-    renderSlider();
+    console.warn("[events] Falling back to bundled fixtures", error);
   }
+
+  if (!state.leagues.length) {
+    state.leagues = buildFallbackEvents();
+  }
+
+  if (!state.leagues.length) {
+    renderEmptyState("Check back later—fresh fixtures are loading.");
+    renderSlider();
+    return;
+  }
+
+  const allEvents = flattenEvents(state.leagues).filter(
+    (event) => event.start?.utc
+  );
+  allEvents.sort(
+    (a, b) => new Date(a.start.utc).getTime() - new Date(b.start.utc).getTime()
+  );
+  state.topEvents = allEvents.slice(0, 8);
+
+  renderFilters();
+  renderSlider();
+  renderEvents();
 }
 
 loadEvents();
