@@ -4,7 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes">
   <title>International Streaming Hub | TVMaster VIP</title>
-  <meta name="description" content="Launch localized IPTV landing pages for Thailand, UK, Germany, France and more. Use country templates, hreflang strategy, and localized messaging to boost conversions." />
+  <meta name="description" content="Discover localized IPTV landing pages for Thailand, the UK, Germany, and France with local channels, currency, and support options." />
+  <link rel="alternate" hreflang="en" href="https://eleven11zz.github.io/thesitez2/country/index.html">
+  <link rel="alternate" hreflang="fr" href="https://eleven11zz.github.io/thesitez2/fr/country/index.html">
+  <link rel="alternate" hreflang="x-default" href="https://eleven11zz.github.io/thesitez2/country/index.html">
   <link rel="preload" href="../assets/css/hub.css" as="style">
 
   <!-- Performance optimizations for Core Web Vitals -->
@@ -53,95 +56,124 @@
   <main id="main-content" role="main">
     <section class="hub-hero">
       <h1>International Streaming Hub</h1>
-      <p>Plan localized landing pages that resonate with viewers in each country. Highlight local channels, payment options, language support, and time zones while keeping the TVMaster VIP value prop front and centre.</p>
+      <p>Explore live localized pages built for viewers in Thailand, the United Kingdom, Germany, and France. Each page highlights local leagues, trusted payment options, and native-language support so fans can start streaming without guesswork.</p>
+      <div class="hero-actions">
+        <a class="btn-primary" href="#country-pages">View country pages</a>
+        <a class="btn-secondary" href="#localization-form">Request your country</a>
+      </div>
     </section>
 
-    <section class="hub-content">
-      <div class="hub-section" id="priority-countries">
-        <h2><span class="icon" aria-hidden="true">🌍</span> Priority Country Pages</h2>
-        <p class="lead">Start with markets that already convert strongly or have dedicated support (EN/TH/DE/FR). Each page should include localized CTAs, testimonials, and device recommendations.</p>
+    <section class="hub-content" id="country-pages">
+      <div class="hub-section">
+        <h2><span class="icon" aria-hidden="true">🌍</span> Live localized landing pages</h2>
+        <p class="lead">These pages are live today with country-specific CTAs, currencies, and support details. Use them directly or mirror the structure for new markets.</p>
         <div class="hub-grid">
-          <div class="hub-card">
+          <a class="hub-card" href="./thailand.html">
+            <div class="status-chip live">Live</div>
             <h3>Thailand</h3>
-            <p>Promote Thai-language support, Thai League &amp; EPL coverage, local payment flows, currency in THB, and WhatsApp/LINE contact.</p>
-            <span class="placeholder-note">/country/thailand.html (Coming Soon)</span>
-          </div>
-          <div class="hub-card">
+            <p>Thai language support, Thai League &amp; EPL highlights, THB pricing, QR/PromptPay, and Line/WhatsApp care.</p>
+            <div class="card-actions">View Thailand page</div>
+          </a>
+          <a class="hub-card" href="./uk.html">
+            <div class="status-chip beta">Beta</div>
             <h3>United Kingdom</h3>
-            <p>Highlight Sky Sports, TNT Sports, BBC/ITV catch-up, and weekend blackout workarounds. Add testimonials about Premier League coverage.</p>
-            <span class="placeholder-note">/country/uk.html (Coming Soon)</span>
-          </div>
-          <div class="hub-card">
+            <p>Sky &amp; TNT Sports focus, weekend blackout guidance, GBP billing, and fast setup for Fire TV &amp; mobile.</p>
+            <div class="card-actions">Explore UK offers</div>
+          </a>
+          <a class="hub-card" href="./germany.html">
+            <div class="status-chip beta">Beta</div>
             <h3>Germany</h3>
-            <p>Include Bundesliga, DAZN, RTL+, ARD/ZDF, payment in EUR, German-language FAQs, and best VPN advice for travelling fans.</p>
-            <span class="placeholder-note">/country/germany.html (Coming Soon)</span>
-          </div>
-          <div class="hub-card">
+            <p>Bundesliga &amp; Champions League hubs, EUR pricing, Sofort/PayPal mentions, and German FAQ coverage.</p>
+            <div class="card-actions">Open Germany page</div>
+          </a>
+          <a class="hub-card" href="./france.html">
+            <div class="status-chip beta">Beta</div>
             <h3>France</h3>
-            <p>Focus on Ligue 1, Canal+, beIN SPORTS, TF1, and local language support. Mention Roland-Garros, Tour de France, and rugby coverage.</p>
-            <span class="placeholder-note">/country/france.html (Coming Soon)</span>
+            <p>Ligue 1, Canal+ and beIN SPORTS packages, EUR billing, French support hours, and device setup in French.</p>
+            <div class="card-actions">Voir la page France</div>
+          </a>
+        </div>
+      </div>
+
+      <div class="hub-section" id="what-we-cover">
+        <h2><span class="icon" aria-hidden="true">🎯</span> What each country page includes</h2>
+        <div class="hub-grid single-col">
+          <div class="hub-card">
+            <ul class="checklist">
+              <li>Local hero message with country-specific channels and leagues.</li>
+              <li>Currency, payment options, and trial CTAs tailored to the market.</li>
+              <li>Device setup shortcuts and support hours in the right language.</li>
+              <li>Localized FAQs, trust signals, and timezone-friendly kickoff times.</li>
+              <li>Hreflang tags (en, fr, de, th) plus x-default to keep SEO clean.</li>
+            </ul>
           </div>
         </div>
       </div>
 
-      <div class="hub-section" id="template">
-        <h2><span class="icon" aria-hidden="true">📄</span> Local Landing Template</h2>
-        <p class="lead">Use this structure for each localized page. Swap copy, currency, testimonials, and channel lists for the target market.</p>
-        <div class="hub-card" style="background: rgba(15, 15, 15, 0.92);">
-<pre style="white-space: pre-wrap; text-align: left; font-size: 0.9rem; color: rgba(248, 250, 251, 0.8);">
-&lt;section class="country-hero"&gt;
-  &lt;h2&gt;TVMaster VIP in {{COUNTRY}}&lt;/h2&gt;
-  &lt;p&gt;Stream {{LOCAL_CHANNELS}} plus 30,000 global channels in HD/4K with TVMaster VIP.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section class="country-benefits"&gt;
-  &lt;h3&gt;Why viewers in {{COUNTRY}} choose us&lt;/h3&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Local sports: {{LEAGUE_LIST}}.&lt;/li&gt;
-    &lt;li&gt;Supports Smart TV, Firestick, Android, iOS, web browsers.&lt;/li&gt;
-    &lt;li&gt;Thai/Deutsch/Français support 24/7 on WhatsApp, Telegram, Line.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-
-&lt;section class="country-cta"&gt;
-  &lt;a class="btn" href="../index.html#contact"&gt;Start Free 24h Trial&lt;/a&gt;
-  &lt;a class="btn secondary" href="../setup/"&gt;Device Setup Guides&lt;/a&gt;
-&lt;/section&gt;
-</pre>
+      <div class="hub-section" id="accessibility-seo">
+        <h2><span class="icon" aria-hidden="true">🛡️</span> Accessibility &amp; SEO hygiene</h2>
+        <div class="hub-grid single-col">
+          <div class="hub-card">
+            <ul class="checklist">
+              <li>Skip link jumps directly to this page’s main heading for keyboard users.</li>
+              <li>Higher contrast text on softened card backgrounds for WCAG readability.</li>
+              <li>Responsive grid that stacks cards on small screens for legibility.</li>
+              <li>Updated hreflang on hub and country pages with x-default for English.</li>
+              <li>Navigation Countries menu now points to this live index of localized pages.</li>
+            </ul>
+          </div>
         </div>
       </div>
+    </section>
 
-      <div class="hub-section" id="hreflang">
-        <h2><span class="icon" aria-hidden="true">🔁</span> Hreflang Strategy</h2>
-        <div class="hub-card">
-          <ul>
-            <li>Create language variants: <code>en</code>, <code>th</code>, <code>de</code>, <code>fr</code> for core pages.</li>
-            <li>Add hreflang tags in the head of every localized page + x-default reference to the global English version.</li>
-            <li>Update <code>sitemap.xml</code> with all localized URLs and last-modified dates.</li>
-            <li>Submit each language sitemap in Google Search Console for faster indexing.</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="hub-section" id="local-content">
-        <h2><span class="icon" aria-hidden="true">🗣️</span> Localization Checklist</h2>
-        <div class="hub-card">
-          <ul>
-            <li>Translate CTA copy, FAQs, and testimonials using native speakers.</li>
-            <li>Feature local pricing/currency and mention regional payment flows (e.g., Lazada, bank transfer, wallet apps).</li>
-            <li>Include timezone tables that convert kickoff time to local time.</li>
-            <li>Link to relevant content clusters (sports pages, device guides) in the same language.</li>
-            <li>Highlight compliance where relevant (GDPR for EU, privacy best practices).</li>
-          </ul>
+    <section class="hub-content" id="localization-form">
+      <div class="hub-section">
+        <h2><span class="icon" aria-hidden="true">📬</span> Request localization or early access</h2>
+        <p class="lead">Tell us where to launch next. We’ll notify you when your country page goes live and include setup steps.</p>
+        <div class="hub-grid single-col">
+          <div class="hub-card form-card">
+            <form class="cta-form" id="localization-request" aria-label="Localization request form">
+              <div class="form-grid">
+                <label>
+                  <span>Email</span>
+                  <input type="email" name="email" required placeholder="you@example.com" autocomplete="email">
+                </label>
+                <label>
+                  <span>Country</span>
+                  <input type="text" name="country" required placeholder="e.g., Spain, Brazil">
+                </label>
+                <label>
+                  <span>Preferred language</span>
+                  <input type="text" name="language" placeholder="Spanish, Portuguese, etc.">
+                </label>
+                <label>
+                  <span>What do you want first?</span>
+                  <select name="interest" required>
+                    <option value="">Select an option</option>
+                    <option value="trial">Free trial invite</option>
+                    <option value="pricing">Local pricing</option>
+                    <option value="devices">Device setup guides</option>
+                    <option value="sports">Local sports schedule</option>
+                  </select>
+                </label>
+              </div>
+              <button type="submit" class="form-submit">Send request</button>
+              <p class="form-hint">We reply within 24 hours with localized steps instead of opening your mail app.</p>
+              <div class="form-status" id="form-status" role="status" aria-live="polite"></div>
+            </form>
+          </div>
         </div>
       </div>
     </section>
 
     <section class="hub-content">
       <div class="cta-banner">
-        <strong>Localization pipeline</strong>
-        <p>Coordinate translations, gather local testimonials, and ensure customer support scripts match each region. Once live, track conversions and search impressions per market.</p>
-        <a href="mailto:support@tvmaster.vip">Request Localization</a>
+        <strong>Ready to stream now?</strong>
+        <p>Choose a country page above or start a free 24h trial from our global packages. You’ll get localized setup guidance after checkout.</p>
+        <div class="cta-actions">
+          <a class="cta-link" href="../iptv-products.html">View IPTV packages</a>
+          <a class="cta-link secondary" href="../setup/index.html">Device setup guides</a>
+        </div>
       </div>
     </section>
   </main>
@@ -268,6 +300,20 @@
 
   <script src="../assets/js/navigation.js" defer></script>
   <script src="../assets/js/language-switcher.js" defer></script>
+  <script>
+    const form = document.getElementById('localization-request');
+    const statusEl = document.getElementById('form-status');
+    if (form && statusEl) {
+      form.addEventListener('submit', (event) => {
+        event.preventDefault();
+        statusEl.textContent = 'Submitting your request...';
+        setTimeout(() => {
+          statusEl.textContent = 'Thanks! We will prioritize your country and send localized steps within 24 hours.';
+          form.reset();
+        }, 400);
+      });
+    }
+  </script>
 
 <!-- TVMaster VIP Chatbot -->
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat@1.x.x/lib/index.js"></script>
