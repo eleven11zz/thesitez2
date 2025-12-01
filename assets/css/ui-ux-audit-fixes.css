@@ -113,40 +113,6 @@
   margin: 0 auto 2rem !important;
 }
 
-/* Hero metrics - Better visual separation */
-.hero-metrics {
-  margin-top: 60px !important;
-  padding-top: 40px !important;
-  border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
-}
-
-.metric-card {
-  padding: 24px !important;
-  background: rgba(255, 255, 255, 0.03) !important;
-  border: 1px solid rgba(255, 255, 255, 0.1) !important;
-  border-radius: 12px !important;
-  transition: all 0.3s ease !important;
-}
-
-.metric-card:hover {
-  background: rgba(255, 255, 255, 0.05) !important;
-  border-color: rgba(229, 9, 20, 0.3) !important;
-  transform: translateY(-2px) !important;
-}
-
-.metric-value {
-  font-size: 2.5rem !important;
-  font-weight: 800 !important;
-  color: #e50914 !important;
-  display: block !important;
-  margin-bottom: 8px !important;
-}
-
-.metric-label {
-  font-size: 0.95rem !important;
-  opacity: 0.8 !important;
-  font-weight: 500 !important;
-}
 
 /* ========================================
    2. WHITESPACE & VISUAL HIERARCHY
@@ -195,40 +161,9 @@ section p {
    ======================================== */
 
 /* Trust badges section */
-.trust-badges {
-  display: flex !important;
-  gap: 30px !important;
-  justify-content: center !important;
-  align-items: center !important;
-  flex-wrap: wrap !important;
-  padding: 40px 20px !important;
-  background: rgba(255, 255, 255, 0.02) !important;
-  border-radius: 16px !important;
-  margin: 40px 0 !important;
-}
 
-.trust-badge {
-  display: flex !important;
-  align-items: center !important;
-  gap: 12px !important;
-  padding: 16px 24px !important;
-  background: rgba(255, 255, 255, 0.05) !important;
-  border: 1px solid rgba(255, 255, 255, 0.1) !important;
-  border-radius: 8px !important;
-  font-size: 1rem !important;
-  font-weight: 600 !important;
-  transition: all 0.3s ease !important;
-}
 
-.trust-badge:hover {
-  background: rgba(255, 255, 255, 0.08) !important;
-  transform: translateY(-2px) !important;
-}
 
-.trust-badge-icon {
-  font-size: 1.5rem !important;
-  color: #e50914 !important;
-}
 
 /* Enhanced hero note/badge */
 .hero-note {
@@ -318,25 +253,9 @@ section p {
   }
 
   /* Mobile metrics */
-  .hero-metrics {
-    margin-top: 40px !important;
-    padding-top: 30px !important;
-    display: grid !important;
-    grid-template-columns: repeat(2, 1fr) !important;
-    gap: 16px !important;
-  }
 
-  .metric-card {
-    padding: 20px 16px !important;
-  }
 
-  .metric-value {
-    font-size: 1.85rem !important;
-  }
 
-  .metric-label {
-    font-size: 0.85rem !important;
-  }
 
   /* Sections - mobile spacing */
   section {
@@ -367,17 +286,7 @@ section p {
   }
 
   /* Trust badges mobile */
-  .trust-badges {
-    gap: 16px !important;
-    padding: 24px 16px !important;
-  }
 
-  .trust-badge {
-    font-size: 0.9rem !important;
-    padding: 12px 18px !important;
-    width: 100% !important;
-    justify-content: center !important;
-  }
 
   /* Enhanced readability */
   body {
@@ -453,11 +362,6 @@ section p {
     min-height: 52px !important;
   }
 
-  .hero-metrics {
-    display: grid !important;
-    grid-template-columns: repeat(2, 1fr) !important;
-    gap: 20px !important;
-  }
 
 }
 

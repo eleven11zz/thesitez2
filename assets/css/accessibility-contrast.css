@@ -68,13 +68,11 @@ button:focus-visible,
 
 /* Trim red usage for body headings */
 .section-title strong,
-.trust-badge,
 .trust-item-title,
 .pricing-label {
   color: var(--text-strong);
 }
 
-.trust-badge,
 .pricing-highlight {
   background: rgba(255, 255, 255, 0.03);
   border-color: rgba(255, 255, 255, 0.18);
@@ -119,7 +117,6 @@ button:focus-visible,
 
 /* Mobile-first adjustments */
 @media (max-width: 960px) {
-  .trust-grid,
   .trust-pricing-grid,
   .events-grid {
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));

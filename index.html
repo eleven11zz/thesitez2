@@ -333,52 +333,6 @@
           </div>
         </div>
       </div>
-      <div class="hero-metrics">
-        <div class="metric-card">
-          <span class="metric-value" data-target="30" data-suffix="K+" data-decimals="0" data-duration="1200">30K+</span>
-          <span class="metric-label">Live Channels</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value" data-target="80" data-suffix="K+" data-decimals="0" data-duration="1200">80K+</span>
-          <span class="metric-label">VOD Titles</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value" data-target="24" data-suffix="/7" data-decimals="0" data-duration="1200">24/7</span>
-          <span class="metric-label">Priority Support</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value" data-target="99.95" data-suffix="%" data-decimals="2" data-duration="1200">99.95%</span>
-          <span class="metric-label">Uptime SLA</span>
-        </div>
-      </div>
-
-      <!-- Trust Badges - Added per UI/UX audit recommendation -->
-      <div class="trust-badges">
-        <div class="trust-badge">
-          <span class="trust-badge-icon">🎯</span>
-          <span>99.9% Uptime Guaranteed</span>
-        </div>
-        <div class="trust-badge">
-          <span class="trust-badge-icon">⚡</span>
-          <span>Instant Activation</span>
-        </div>
-        <div class="trust-badge">
-          <span class="trust-badge-icon">🌍</span>
-          <span>150+ Countries Served</span>
-        </div>
-        <div class="trust-badge">
-          <span class="trust-badge-icon">🔒</span>
-          <span>256-bit SSL Encryption</span>
-        </div>
-        <div class="trust-badge">
-          <span class="trust-badge-icon">💳</span>
-          <span>Secure Payment Processing</span>
-        </div>
-        <div class="trust-badge">
-          <span class="trust-badge-icon">✓</span>
-          <span>Verified by 50,000+ Users</span>
-        </div>
-      </div>
     </div>
   </section>
 
@@ -627,56 +581,6 @@
               <img src="./assets/custom_slider/photo_2025-11-11_05-41-35.jpg" alt="Sports Channel" loading="lazy" decoding="async">
             </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Trust & Credibility Section -->
-  <section class="trust-section reveal-up" id="about">
-    <div class="container">
-      <div class="trust-header">
-        <span class="trust-badge pulse-badge">Trusted Since 2017</span>
-        <h2 class="section-title">Built by Streaming Experts, Trusted Worldwide</h2>
-        <p class="section-subtitle">Since 2017, TVMaster VIP has engineered a world-class IPTV platform serving 80+ countries with a purpose-built infrastructure and 99.9% uptime network. Our global team of streaming specialists ensures smooth delivery and personalized support around the clock.</p>
-      </div>
-      <div class="trust-grid">
-        <div class="trust-card glass-card reveal-up trust-card-bg trust-card-global">
-          <div class="trust-icon">🌍</div>
-          <h3>Global Infrastructure</h3>
-          <p>Tier-1 bandwidth with load-balanced edge servers across Europe, North America and Asia. Our distributed CDN ensures low-latency delivery and instant provisioning worldwide.</p>
-        </div>
-        <div class="trust-card glass-card reveal-up trust-card-bg trust-card-uptime">
-          <div class="trust-icon">⚡</div>
-          <h3>99.9% Uptime SLA</h3>
-          <p>Purpose-built IPTV infrastructure with 24/7 real-time monitoring. Enterprise-grade reliability that rivals traditional cable providers.</p>
-        </div>
-        <div class="trust-card glass-card reveal-up trust-card-bg trust-card-support">
-          <div class="trust-icon">💬</div>
-          <h3>24/7 Expert Support</h3>
-          <p>Multilingual support team available via live chat, email, Telegram and WhatsApp. English and Thai specialists respond within hours to keep you streaming.</p>
-        </div>
-        <div class="trust-card glass-card reveal-up trust-card-bg trust-card-activation">
-          <div class="trust-icon">🔒</div>
-          <h3>Instant Activation</h3>
-          <p>Account credentials and M3U playlist URLs generated within minutes. Start streaming immediately with automated provisioning—no waiting, no hassle.</p>
-        </div>
-      </div>
-      <div class="trust-stats">
-        <div class="trust-stat reveal-scale">
-          <span class="trust-stat-value gradient-text" data-count-to="80">80</span>
-          <span class="trust-stat-suffix">+</span>
-          <span class="trust-stat-label">Countries Served</span>
-        </div>
-        <div class="trust-stat reveal-scale">
-          <span class="trust-stat-value gradient-text" data-count-to="99">99</span>
-          <span class="trust-stat-suffix">.9%</span>
-          <span class="trust-stat-label">Network Uptime</span>
-        </div>
-        <div class="trust-stat reveal-scale">
-          <span class="trust-stat-value gradient-text" data-count-to="7">7</span>
-          <span class="trust-stat-suffix"></span>
-          <span class="trust-stat-label">Years Experience</span>
         </div>
       </div>
     </div>
@@ -1046,7 +950,7 @@
   <section class="quiz-section" id="quiz">
     <div class="container">
       <div class="quiz-header">
-        <span class="trust-badge pulse-badge">Find Your Perfect Match</span>
+        <span class="pulse-badge">Find Your Perfect Match</span>
         <h2 class="section-title">Which IPTV Package is Right for You?</h2>
         <p class="section-subtitle">Answer 5 quick questions and get a personalized package recommendation tailored to your viewing preferences, budget, and needs.</p>
       </div>
@@ -1194,60 +1098,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     lastScroll = currentScroll;
-  });
-
-  const metricCounters = document.querySelectorAll('.metric-value[data-target]');
-
-  const animateCounter = (el) => {
-    const target = parseFloat(el.dataset.target);
-    if (!Number.isFinite(target)) return;
-    const decimals = parseInt(el.dataset.decimals || '0', 10);
-    const suffix = el.dataset.suffix || '';
-    const duration = parseInt(el.dataset.duration || '2000', 10);
-    const startTime = performance.now();
-
-    const formatValue = (value) =>
-      value.toLocaleString(undefined, {
-        minimumFractionDigits: decimals,
-        maximumFractionDigits: decimals,
-      });
-
-    // Easing function for smooth animation (easeOutExpo)
-    const easeOutExpo = (t) => t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
-
-    const tick = (now) => {
-      const elapsed = now - startTime;
-      const rawProgress = Math.min(elapsed / duration, 1);
-      const progress = easeOutExpo(rawProgress);
-      const value = target * progress;
-      el.textContent = `${formatValue(value)}${suffix}`;
-      if (rawProgress < 1) {
-        requestAnimationFrame(tick);
-      } else {
-        el.textContent = `${formatValue(target)}${suffix}`;
-      }
-    };
-
-    requestAnimationFrame(tick);
-  };
-
-  const observer = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        if (!entry.isIntersecting) return;
-        const el = entry.target;
-        if (el.dataset.animated === 'true') return;
-        el.dataset.animated = 'true';
-        animateCounter(el);
-        observer.unobserve(el);
-      });
-    },
-    { threshold: 0.2 }
-  );
-
-  metricCounters.forEach((el) => {
-    el.textContent = `0${el.dataset.suffix || ''}`;
-    observer.observe(el);
   });
 
   // IPTV lineup sliders removed - now using static grid layout
