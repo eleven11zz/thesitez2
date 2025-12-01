@@ -270,6 +270,8 @@
 <link rel="stylesheet" href="./assets/css/mobile-cta-improvements.css"/>
 <!-- UI/UX Audit Fixes - November 2025 - CTA prominence, whitespace, mobile optimization -->
 <link rel="stylesheet" href="./assets/css/ui-ux-audit-fixes.css"/>
+<!-- Accessibility & contrast refinements -->
+<link rel="stylesheet" href="./assets/css/accessibility-contrast.css"/>
 </head>
 <body>
 <!-- Skip to main content for keyboard users -->
@@ -288,12 +290,17 @@
       <span></span>
     </button>
     <nav class="main-nav" id="primary-nav" role="navigation" aria-label="Primary navigation">
+      <a href="#hero">Home</a>
       <a href="./channel-lists.html">Channels</a>
-      <a href="./sports/live.html">Live Sports</a>
-      <a href="./iptv-products.html">Pricing</a>
-      <a href="#testimonials">Reviews</a>
-      <a href="./setup/index.html">Setup</a>
-      <a href="./faq.html">Help</a>
+      <a href="./tv-guide.html">TV Guide</a>
+      <a href="./sports/live.html">Live Hub</a>
+      <a href="./iptv-products.html">IPTV Packages</a>
+      <a href="./tv-box-products.html">TV Boxes</a>
+      <a href="./setup/index.html">Setup Guides</a>
+      <a href="./country/index.html">Countries</a>
+      <a href="./devices/index.html">Devices</a>
+      <a href="./faq.html">FAQ</a>
+      <a href="./blog.html">Blog</a>
       <a class="header-cta" href="./iptv-products.html">Start Free Trial</a>
     </nav>
   </div>
@@ -306,7 +313,7 @@
         <div class="hero-text">
           <h1 id="hero-heading" class="hero-heading gradient-text">Watch Anything. Anywhere. Instantly.</h1>
           <p class="hero-subheading" role="doc-subtitle"><strong>Over 30,000 Live Channels and 80,000+ VODs. No Buffering. No Contracts.</strong></p>
-          <p class="hero-description">Experience premium IPTV streaming with crystal-clear 4K quality across every device. Get instant access to 30,000+ live channels, 3,000+ sports networks, and 80,000+ movies and shows. Zero buffering with 99.9% uptime guaranteed. 24/7 expert support. Start your risk-free 7-day trial today—no payment required!</p>
+          <p class="hero-description">Experience premium IPTV streaming with crystal-clear 4K quality across every device. Get instant access to 30,000+ live channels, 3,000+ sports networks, and 80,000+ movies and shows. Enjoy 99.9% uptime backed by 24/7 expert support. Start your risk-free 7-day trial today—no payment required.</p>
           <div class="hero-cta-group">
             <a class="hero-primary-cta shine" href="#products">Start Your Free Trial →</a>
             <a class="hero-tertiary-cta" href="./sports/live.html">See Live Demo</a>
@@ -371,6 +378,54 @@
           <span class="trust-badge-icon">✓</span>
           <span>Verified by 50,000+ Users</span>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Quick navigation cards to keep the landing page scannable -->
+  <section class="quick-pathways" aria-labelledby="quick-pathways-heading">
+    <div class="container">
+      <div class="quick-pathways__header">
+        <div>
+          <p class="eyebrow">Navigate faster</p>
+          <h2 id="quick-pathways-heading">Get to what you need in two taps</h2>
+          <p class="quick-pathways__lede">Trimmed down entry points for visitors who just want packages, channels, live sports, or setup help—deeper details stay on their dedicated pages.</p>
+        </div>
+        <a class="quick-pathways__cta" href="./iptv-products.html">View packages</a>
+      </div>
+      <div class="quick-pathways__grid">
+        <article class="quick-card">
+          <h3>Packages & Trials</h3>
+          <p>Compare IPTV bundles, see what’s in the box, and start the 7-day free trial without scrolling through the entire landing page.</p>
+          <div class="quick-card__actions">
+            <a href="./iptv-products.html#plans" class="quick-link">Compare plans</a>
+            <a href="./tv-box-products.html" class="quick-link">Bundles</a>
+          </div>
+        </article>
+        <article class="quick-card">
+          <h3>Channel Lists</h3>
+          <p>Jump straight to regional lineups, including English, World, and Sports, with filters and search ready to go.</p>
+          <div class="quick-card__actions">
+            <a href="./channel-lists.html" class="quick-link">Browse channels</a>
+            <a href="./tv-guide.html" class="quick-link">TV guide</a>
+          </div>
+        </article>
+        <article class="quick-card">
+          <h3>Live Sports Hub</h3>
+          <p>Check what’s playing now, filter by league, and hop to a free trial directly from the fixtures view.</p>
+          <div class="quick-card__actions">
+            <a href="./sports/live.html" class="quick-link">Open live hub</a>
+            <a href="./sports/index.html" class="quick-link">Featured events</a>
+          </div>
+        </article>
+        <article class="quick-card">
+          <h3>Setup & Support</h3>
+          <p>Guides for Smart TVs, Android boxes, and mobiles, plus FAQs and contact in one place so help is never hidden.</p>
+          <div class="quick-card__actions">
+            <a href="./setup/index.html" class="quick-link">Setup guides</a>
+            <a href="./faq.html" class="quick-link">FAQ</a>
+          </div>
+        </article>
       </div>
     </div>
   </section>
