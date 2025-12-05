@@ -49,76 +49,76 @@
 
 <main id="main-content" role="main">
   <section class="hub-hero">
-    <h1>TVMaster VIP en France</h1>
+    <h1>TVMaster VIP in France</h1>
     <p>Stream Ligue 1, Canal+, beIN SPORTS, Roland-Garros, Tour de France, and global channels with EUR billing and French-language support.</p>
     <div class="hero-actions">
-      <a class="btn-primary" href="../iptv-products.html">Start 24h free trial</a>
-      <a class="btn-secondary" href="../setup/index.html">Guides d'installation</a>
+      <a class="btn-primary" href="../iptv-products.html">Start 24-hour free trial</a>
+      <a class="btn-secondary" href="../setup/index.html">View setup guides</a>
     </div>
   </section>
 
   <section class="hub-content">
     <div class="hub-section">
-      <h2><span class="icon" aria-hidden="true">🇫🇷</span> Pensé pour la France</h2>
+      <h2><span class="icon" aria-hidden="true">🇫🇷</span> Built for France</h2>
       <div class="hub-grid">
         <div class="hub-card">
-          <h3>Sports &amp; divertissement</h3>
+          <h3>Sports &amp; entertainment</h3>
           <ul class="checklist">
-            <li>Ligue 1, Coupe de France, Champions League, rugby Top 14.</li>
+            <li>Ligue 1, Coupe de France, Champions League, Top 14 rugby.</li>
             <li>beIN SPORTS, Canal+, TF1, M6, France Télévisions.</li>
-            <li>Horaires convertis en CET avec rappels de match.</li>
+            <li>Schedules converted to CET with match reminders.</li>
           </ul>
         </div>
         <div class="hub-card">
-          <h3>Paiements</h3>
+          <h3>Payments</h3>
           <ul class="checklist">
-            <li>Facturation en EUR, cartes bancaires et PayPal.</li>
-            <li>Factures disponibles en français ou anglais.</li>
-            <li>Renouvellements clairs sans frais cachés.</li>
+            <li>EUR billing with card payments and PayPal.</li>
+            <li>Invoices available in French or English.</li>
+            <li>Transparent renewals with no hidden fees.</li>
           </ul>
         </div>
         <div class="hub-card">
           <h3>Support</h3>
           <ul class="checklist">
-            <li>Support en français via WhatsApp/Telegram.</li>
-            <li>Guides rapides pour Fire TV, Android TV, Samsung Tizen.</li>
-            <li>Conseils VPN pour voyager tout en gardant vos chaînes.</li>
+            <li>French-language support via WhatsApp/Telegram.</li>
+            <li>Quick guides for Fire TV, Android TV, Samsung Tizen.</li>
+            <li>VPN tips for traveling while keeping your channels.</li>
           </ul>
         </div>
       </div>
     </div>
 
     <div class="hub-section" id="fr-request">
-      <h2><span class="icon" aria-hidden="true">📬</span> Recevoir l'onboarding français</h2>
+      <h2><span class="icon" aria-hidden="true">📬</span> Get French onboarding support</h2>
       <div class="hub-grid single-col">
         <div class="hub-card form-card">
           <form class="cta-form" id="fr-form" aria-label="French localization form">
             <div class="form-grid">
               <label>
                 <span>Email</span>
-                <input type="email" name="email" required placeholder="vous@example.com" autocomplete="email">
+                <input type="email" name="email" required placeholder="you@example.com" autocomplete="email">
               </label>
               <label>
-                <span>Appareil</span>
+                <span>Device</span>
                 <input type="text" name="device" placeholder="Fire TV, Smart TV, mobile">
               </label>
               <label>
-                <span>Langue du support</span>
-                <input type="text" name="language" placeholder="Français / Anglais">
+                <span>Preferred support language</span>
+                <input type="text" name="language" placeholder="French / English">
               </label>
               <label>
-                <span>Ce que vous voulez</span>
+                <span>What you need</span>
                 <select name="interest" required>
-                  <option value="">Sélectionner</option>
-                  <option value="trial">Lien d'essai</option>
-                  <option value="pricing">Tarifs EUR</option>
-                  <option value="faq">FAQ FR</option>
-                  <option value="devices">Checklist appareils</option>
+                  <option value="">Select</option>
+                  <option value="trial">Trial link</option>
+                  <option value="pricing">EUR pricing</option>
+                  <option value="faq">French FAQ</option>
+                  <option value="devices">Device checklist</option>
                 </select>
               </label>
             </div>
-            <button type="submit" class="form-submit">Envoyer</button>
-            <p class="form-hint">Réponse sous 24h avec instructions en français.</p>
+            <button type="submit" class="form-submit">Send</button>
+            <p class="form-hint">Response within 24h with French instructions.</p>
             <div class="form-status" id="fr-status" role="status" aria-live="polite"></div>
           </form>
         </div>
@@ -201,9 +201,9 @@
   if (frForm && frStatus) {
     frForm.addEventListener('submit', (event) => {
       event.preventDefault();
-      frStatus.textContent = 'Envoi...';
+      frStatus.textContent = 'Sending...';
       setTimeout(() => {
-        frStatus.textContent = 'Merci ! Vos instructions en français arrivent sous 24h.';
+        frStatus.textContent = 'Thanks! Your French instructions will arrive within 24h.';
         frForm.reset();
       }, 400);
     });
