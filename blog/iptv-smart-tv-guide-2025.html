@@ -36,28 +36,43 @@
     "keywords": "IPTV for Smart TV, Smart TV IPTV setup"
   }
   </script>
-  <link rel="stylesheet" href="../assets/css/modern-header-footer.css">
+  
   <link rel="stylesheet" href="../assets/css/blog.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous"/>
   <style>
     .article-container{max-width:800px;margin:0 auto;padding:2rem 1rem}.article-header{margin-bottom:3rem;text-align:center}.article-category{display:inline-block;background:#e50914;color:#fff;padding:.5rem 1rem;border-radius:4px;font-size:.875rem;font-weight:600;text-transform:uppercase;margin-bottom:1rem}.article-title{font-size:2.5rem;font-weight:700;line-height:1.2;margin:1rem 0;color:#fff}.article-excerpt{font-size:1.25rem;color:#aaa;line-height:1.6;margin:1rem 0}.article-meta{display:flex;justify-content:center;gap:2rem;margin-top:1.5rem;padding-top:1.5rem;border-top:1px solid #333;color:#888;font-size:.9rem}.table-of-contents{background:#1a1a1a;border-left:4px solid #e50914;padding:1.5rem;margin:2rem 0;border-radius:8px}.table-of-contents h2{font-size:1.25rem;margin-bottom:1rem;color:#fff}.table-of-contents ol{margin:0;padding-left:1.5rem}.article-content{font-size:1.125rem;line-height:1.8;color:#ddd}.article-content h2{font-size:2rem;font-weight:700;margin:3rem 0 1.5rem;color:#fff;scroll-margin-top:100px}.article-content h3{font-size:1.5rem;font-weight:600;margin:2rem 0 1rem;color:#fff}.article-content a{color:#e50914;text-decoration:underline}.key-takeaways{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);border:2px solid #e50914;border-radius:12px;padding:2rem;margin:3rem 0}.key-takeaways h3{color:#e50914;margin-top:0}.key-takeaways ul{list-style:none;padding:0}.key-takeaways li{padding-left:2rem;margin:1rem 0;position:relative}.key-takeaways li:before{content:"✓";position:absolute;left:0;color:#e50914;font-weight:700;font-size:1.2rem}.article-cta{background:linear-gradient(135deg,#e50914 0%,#b00610 100%);color:#fff;padding:2rem;border-radius:12px;text-align:center;margin:3rem 0}.cta-button{display:inline-block;background:#fff;color:#e50914;padding:1rem 2rem;border-radius:8px;text-decoration:none;font-weight:700;margin-top:1rem}
   </style>
+  <link rel="stylesheet" href="/assets/css/modern-header-footer.css"/>
 </head>
 <body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <a href="../index.html" class="brand"><img src="../assets/footer_picture.png" alt="TVMaster VIP logo"><span class="brand-text">TVMaster</span></a>
-      <nav class="main-nav">
-        <a href="../index.html">Home</a>
-        <a href="../channel-lists.html">Channels</a>
-        <a href="../iptv-products.html">IPTV Packages</a>
-        <a href="../setup/index.html">Setup Guides</a>
-        <a href="../faq.html">FAQ</a>
-        <a href="../blog.html">Blog</a>
-        <a class="header-cta" href="../iptv-products.html">Start Streaming</a>
-      </nav>
-    </div>
-  </header>
+  <header class="site-header" role="banner">
+  <div class="container header-inner">
+    <a href="/index.html#hero" class="brand" aria-label="TVMaster VIP - Return to homepage">
+      <img src="/assets/footer_picture.png" alt="TVMaster VIP logo - Premium IPTV Service" class="header-logo" loading="lazy" decoding="async">
+      <span class="brand-text">TVMaster</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu">
+      <span class="sr-only">Toggle navigation</span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="main-nav" id="primary-nav" role="navigation" aria-label="Primary navigation">
+      <a href="/index.html#hero">Home</a>
+      <a href="/channel-lists.html">Channels</a>
+      <a href="/tv-guide.html">TV Guide</a>
+      <a href="/sports/live.html">Live Hub</a>
+      <a href="/iptv-products.html">IPTV Packages</a>
+      <a href="/tv-box-products.html">TV Boxes</a>
+      <a href="/setup/index.html">Setup Guides</a>
+      <a href="/country/index.html">Countries</a>
+      <a href="/devices/index.html">Devices</a>
+      <a href="/faq.html">FAQ</a>
+      <a href="/blog.html">Blog</a>
+      <a class="header-cta" href="/iptv-products.html">Start Streaming</a>
+    </nav>
+  </div>
+</header>
   <main>
     <div class="article-container">
       <header class="article-header">
@@ -284,29 +299,110 @@
       </div>
     </div>
   </main>
-  <footer class="site-footer">
-    <div class="container">
-      <div class="footer-grid">
-        <div class="footer-brand">
-          <img src="../assets/footer_picture.png" alt="TVMaster VIP logo">
-          <h3>TVMaster VIP</h3>
-          <p>Premium IPTV streaming service with 30,000+ live channels, 4K quality, zero buffering.</p>
-        </div>
-        <div class="footer-column">
-          <h4>Products</h4>
-          <a href="../iptv-products.html">IPTV Packages</a>
-          <a href="../channel-lists.html">Channel Lists</a>
-        </div>
-        <div class="footer-column">
-          <h4>Resources</h4>
-          <a href="../faq.html">FAQ</a>
-          <a href="../setup/index.html">Setup Guides</a>
-          <a href="../blog.html">Blog</a>
+  <footer class="site-footer" id="contact" role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
+      <!-- Brand Column -->
+      <div class="footer-brand">
+        <img src="/assets/footer_picture.png" alt="TVMaster VIP logo - Premium IPTV Service" class="brand-logo" loading="lazy" decoding="async">
+        <h3 class="footer-brand-title">TVMaster VIP</h3>
+        <p class="footer-summary">Premium IPTV streaming service with 30,000+ live channels, 4K quality, zero buffering. Trusted by 50,000+ customers worldwide. Enterprise-grade infrastructure with 24/7 support.</p>
+        <div class="footer-social">
+          <a href="https://www.facebook.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Follow us on Facebook">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="https://www.instagram.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Follow us on Instagram">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://www.youtube.com/@tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Subscribe on YouTube">
+            <i class="fab fa-youtube"></i>
+          </a>
+          <a href="https://www.twitter.com/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Follow us on Twitter">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="https://www.linkedin.com/company/tvmastervip" target="_blank" rel="noreferrer noopener" aria-label="Connect on LinkedIn">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
         </div>
       </div>
-      <div class="footer-bottom"><p>© 2025 TVMaster VIP. All rights reserved.</p></div>
+
+      <!-- Products Column -->
+      <div class="footer-column">
+        <h4 class="footer-column-title">Products</h4>
+        <a href="/iptv-products.html">IPTV Packages</a>
+        <a href="/tv-box-products.html">TV Box Bundles</a>
+        <a href="/channel-lists.html">Channel Lists</a>
+        <a href="/epg.html">TV Guide</a>
+        <a href="/sports/live.html">Live Sports Hub</a>
+      </div>
+
+      <!-- Resources Column -->
+      <div class="footer-column">
+        <h4 class="footer-column-title">Resources</h4>
+        <a href="/faq.html">FAQ</a>
+        <a href="/setup/index.html">Setup Guides</a>
+        <a href="/country/index.html">Countries</a>
+        <a href="/devices/index.html">Devices</a>
+        <a href="/blog.html">Blog</a>
+      </div>
+
+      <!-- Contact Column -->
+      <div class="footer-column">
+        <h4 class="footer-column-title">Contact</h4>
+        <div class="footer-contact">
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">📧</span>
+            <a href="mailto:support@tvmaster.vip">support@tvmaster.vip</a>
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">📞</span>
+            <span>+44 20 7123 4567</span>
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-icon">🕐</span>
+            <span>24/7 Global Support</span>
+          </div>
+        </div>
+      </div>
     </div>
-  </footer>
+
+    <!-- Footer Bottom -->
+    <div class="footer-bottom">
+      <p class="footer-note">© 2025 TVMaster VIP. All rights reserved.</p>
+      <div class="footer-links">
+        <a href="/legal/privacy.html">Privacy Policy</a>
+        <span class="footer-divider">•</span>
+        <a href="/legal/terms.html">Terms of Service</a>
+        <span class="footer-divider">•</span>
+        <a href="/legal/refund.html">Refund Policy</a>
+        <span class="footer-divider">•</span>
+        <a href="/legal/cookie-policy.html">Cookie Policy</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- TVMaster VIP Chatbot -->
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@1.x.x/lib/index.js"></script>
+<script>
+  window.WebChat.default({
+    initPayload: "/greet",
+    customData: {"language": "en"},
+    socketUrl: "https://bot.tvmaster.work",
+    socketPath: "/socket.io/",
+    title: "TVMaster VIP",
+    subtitle: "We're online 24/7",
+    params: {
+      storage: "session"
+    },
+    showFullScreenButton: true,
+    profileAvatar: "https://eleven11zz.github.io/thesitez2/assets/footer_picture.png",
+    inputTextFieldHint: "Ask about channels, trials, pricing…",
+    tooltipPayload: "/greet",
+    tooltipDelay: 2000,
+    embedded: false
+  }, null);
+</script>
   <script src="../assets/js/nav.js"></script>
 
 <!-- TVMaster VIP Chatbot -->

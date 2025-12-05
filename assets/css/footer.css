@@ -1,0 +1,22 @@
+:root {
+  --footer-padding-top: 0.9rem;
+  --footer-padding-bottom: 0.55rem;
+  --footer-section-gap: 0.75rem;
+  --footer-grid-gap: 0.8rem;
+  --footer-brand-gap: 0.5rem;
+  --footer-brand-text-gap: 0.3rem;
+  --footer-list-gap: 0.32rem;
+  --footer-title-margin: 0.35rem;
+  --footer-title-underline: 0.3rem;
+  --footer-social-size: 26px;
+  --footer-social-radius: 7px;
+  --footer-social-font: 0.82rem;
+  --footer-contact-gap: 0.6rem;
+  --footer-contact-icon-size: 19px;
+  --footer-contact-icon-radius: 5px;
+  --footer-bottom-gap: 0.4rem;
+  --footer-bottom-padding: 0.35rem;
+  --footer-bottom-link-gap: 0.9rem;
+  --footer-line-height: 1.35;
+  --footer-mobile-gap: 1.15rem;
+}
