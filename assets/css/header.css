@@ -1,0 +1,9 @@
+/* Header layout tokens to keep navigation sizing consistent across pages */
+:root {
+  --header-height: 72px;
+  --header-nav-gap: 0.85rem;
+  --header-nav-link-margin: 0.55rem;
+  --header-nav-row-gap: 0.4rem;
+  --header-cta-padding: 0.95rem 2.5rem;
+  --header-cta-font-size: 0.95rem;
+}
