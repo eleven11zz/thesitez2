@@ -823,8 +823,8 @@ body {
 
 
 .hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('./images/comfy.webp');
-  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), image-set(url('./images/comfy.avif') type('image/avif'), url('./images/comfy.webp') type('image/webp'), url('./images/comfy.webp'));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('../images/comfy.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), image-set(url('../images/comfy.avif') type('image/avif'), url('../images/comfy.webp') type('image/webp'), url('../images/comfy.webp'));
   background-size: cover;
   background-position: center;
   min-height: 70vh;
