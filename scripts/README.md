@@ -95,7 +95,8 @@ Example output:
 ### Verify TMDB server truly returns Xtream responses
 
 If Tuliprox complains that the TMDB server is “just mimicking” the Xtream Codes API,
-run the validator to prove whether the payload matches the real Xtream format:
+run the validator to prove whether the payload matches the real Xtream format and that
+the core Xtream files are actually present on disk:
 
 ```bash
 cd scripts
@@ -107,7 +108,9 @@ python3 check_tmdb_xtream.py \
 
 The checker confirms `user_info` and `server_info` keys, flags missing channel/series/movie
 listings, and surfaces any HTML/error pages the server might be returning instead of JSON.
-Address warnings before re-pointing Tuliprox to avoid compatibility issues.
+It also verifies that `player_api.php`, `panel_api.php`, and `xmltv.php` return 200s so you can
+spot incomplete TMDB deployments (common when a ZIP upload misses files). Address warnings before
+re-pointing Tuliprox to avoid compatibility issues.
 
 ### Change Leagues
 

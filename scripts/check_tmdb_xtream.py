@@ -18,6 +18,11 @@ from typing import Any, Dict, Tuple
 
 REQUIRED_USER_KEYS = {"auth", "status", "exp_date", "is_trial"}
 REQUIRED_SERVER_KEYS = {"server_protocol", "https_port", "time_now"}
+REQUIRED_ENDPOINTS = (
+    "player_api.php",
+    "xmltv.php",  # EPG feed used by many clients
+    "panel_api.php",  # Channel/category metadata feed
+)
 
 
 def fetch_xtream_payload(base_url: str, username: str, password: str) -> Tuple[int, Dict[str, Any]]:
@@ -43,6 +48,22 @@ def fetch_xtream_payload(base_url: str, username: str, password: str) -> Tuple[i
         return 200, {"error": "Invalid JSON", "body": body[:500]}
 
     return 200, payload
+
+
+def check_endpoint(base_url: str, endpoint: str) -> Tuple[int, str]:
+    """Check that a critical Xtream endpoint exists on the TMDB server."""
+
+    query = "" if "?" in endpoint else f"?username=test&password=test"
+    url = f"{base_url.rstrip('/')}/{endpoint}{query}"
+    request = urllib.request.Request(url, method="HEAD")
+
+    try:
+        with urllib.request.urlopen(request, timeout=10) as response:
+            return response.status, response.reason
+    except urllib.error.HTTPError as exc:  # pragma: no cover - defensive logging only
+        return exc.code, exc.reason
+    except urllib.error.URLError as exc:  # pragma: no cover - defensive logging only
+        return 0, str(exc.reason)
 
 
 def check_keys(name: str, payload: Dict[str, Any], required: set) -> Tuple[bool, set]:
@@ -93,6 +114,18 @@ def main() -> int:
     streams = payload.get("available_channels") or payload.get("available_series") or payload.get("available_movies")
     if streams is None:
         print("⚠️ Response is Xtream-shaped but missing content listings (channels/series/movies).")
+        return 1
+
+    missing_endpoints = []
+    for endpoint in REQUIRED_ENDPOINTS:
+        status, reason = check_endpoint(args.base_url, endpoint)
+        if status != 200:
+            missing_endpoints.append((endpoint, status, reason))
+
+    if missing_endpoints:
+        print("⚠️ TMDB server responds to player_api but some Xtream files are missing:")
+        for endpoint, status, reason in missing_endpoints:
+            print(f"  - {endpoint}: HTTP {status} ({reason})")
         return 1
 
     print("✅ TMDB server is returning a valid Xtream Codes response.")
