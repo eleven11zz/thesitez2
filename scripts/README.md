@@ -6,6 +6,11 @@ Automatically fetch and update sports events for the TVMaster VIP live sports hu
 
 The `fetch-events.py` script pulls upcoming sports events from TheSportsDB API and updates your `assets/js/events.json` file automatically.
 
+**How it fits into the site**
+- The generated `events.json` powers the live sports hub cards and schedule widgets.
+- Data is stored in UTC with friendly date/time strings so the front-end can render without additional processing.
+- Running the script daily keeps landing-page CTAs and the sports hub aligned with the latest fixtures.
+
 ### Current Sports Categories (15 leagues):
 
 **Soccer / Football:**
