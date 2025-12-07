@@ -4,6 +4,9 @@
 
 This centralized SEO system streamlines metadata management, structured data, and multilingual content across all 8 language versions of TVMaster VIP.
 
+**Supported locales:** English (`en`), German (`de`), French (`fr`), Italian (`it`), Dutch (`nl`), Norwegian (`no`), Swedish (`sv`), and Thai (`th`).
+All localized pages reference the shared partials in `_includes/` so metadata stays consistent across the site.
+
 ## Directory Structure
 
 ```
